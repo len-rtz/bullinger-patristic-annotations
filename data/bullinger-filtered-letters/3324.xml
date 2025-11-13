@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3324" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern an Heinrich Bullinger / Zürich, 20. September 1557</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/3324</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="27217" type="transcription">S. 4724/295</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 359,2967</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Rarius, cum rariores contingunt nuncii scribo, nunc, cum frequentiores habeam, frequentius etiam scribo;</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>C.O. XVI, S. 635f, Nr. 2718</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 90,131</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high"/>
+					<placeName ref="l41" cert="high"/>
+					<date when="1557-09-20" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3324!Autograph!00%20E_II_359__fol__2967_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">3324/Autograph/00 E_II_359__fol__2967_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3324!Autograph!01%20E_II_359__fol__2967_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">3324/Autograph/01 E_II_359__fol__2967_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Rarius, cum rariores contingunt nuncii, scribo, nunc, cum frequentiores habeam, frequentius etiam scribo; tu boni semper meam consules importunitatem.</s>
+					<s n="3" xml:lang="la">Quid <persName ref="p1049">Farellus</persName> et hic frater afferant, audies ex ipsis; senatus noster bene affectus est hac in re, et si vestri volent, non gravabuntur nostri, quantum suspicor, denuo legationem mittere.</s>
+					<s n="4" xml:lang="la">Cognoscam tamen ex te, quid vestris videatur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Hic, qui has affert, voluit, ut senatus promitteret legatum; sed nostri sine reliquis urbibus nihil agent.</s>
+					<s n="6" xml:lang="la"><persName ref="p20206">Gribaldus</persName> hodie erroribus suis abrenunciavit et confessioni nostrae subscripsit; eam sua manu describet et hic relinquet.</s>
+					<s n="7" xml:lang="la">Scribetur hoc etiam ad principem <placeName ref="l572">Wirtembergensem</placeName>.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Hoc ubi factum fuerit, relegabitur etiam extra fines ditionis huius.</s>
+					<s n="9" xml:lang="la">Haec de ill..</s>
+					<s n="10" xml:lang="la">Decades <persName ref="p4191">Apiarius</persName> imprimere cepit.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Ego exemplum, quod iam diu non habui mecum, relego prius, ut emendatius exeat; offendo quaedam, in quibus me iuvare non gravaberis, oro.</s>
+					<s n="12" xml:lang="la">Sermone 9. mox post initium in testimonio <persName ref="p18988">Cypriani</persName> scribitur: "Ne autem in illis quidem vocabulis, ubi de divinitate fidei ordinatur" etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Sic habet exemplar <placeName ref="l378">Pari(si)ense</placeName> atque etiam <placeName ref="l28">Basiliense</placeName>, tuque sic quoque descripsisse videris, cum tamen contextum legenti omnino hae duę voces "ne autem" abundare videntur, et sic contextus erit planus.</s>
+					<s n="14" xml:lang="la">Idem videtur <persName ref="p8417">Musculo</persName>; volo tamen ex te quoque audire, quid sentias.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Haec nunc festinanter; ubi plura invenero, scribam, ut me expedias.</s>
+					<s n="16" xml:lang="la" ana="farewell">Vale cum tuis omnibus.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la"><placeName ref="l41">Bernae</placeName> 20 septembris 1557.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la"><persName ref="p8018">Hallerus</persName> tuus.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">Clarissimo viro d. <persName ref="p495">Heinrycho Bullingero</persName>, <placeName ref="l587">Tigurinae</placeName> ecclesię pastori fidelissimo, domino et compatri suo charissimo colendissimoque.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

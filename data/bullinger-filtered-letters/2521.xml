@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2521" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Pier Paolo Vergerio / Tübingen an Heinrich Bullinger / Zürich, 1. Januar 1555</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/2521</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="25000" type="transcription">S. 3790</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,646-649</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Is, qui tibi bas reddet, dimidium est animae. Quid plura? Traxit eum ex Italia</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Ferd. Meyer, Die evangelische Gemeinde in Locarno, I, 458</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>F. Hubert, V's publiz. Thätigkeit 258</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 84,1</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p3375" cert="high"/>
+					<placeName ref="l512" cert="high"/>
+					<date when="1555-01-01" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2521!Autograph!00%20E_II_356__S__646_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">2521/Autograph/00 E_II_356__S__646_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2521!Autograph!01%20E_II_356__S__647_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">2521/Autograph/01 E_II_356__S__647_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2521!Autograph!02%20E_II_356__S__648_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">2521/Autograph/02 E_II_356__S__648_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2521!Autograph!03%20E_II_356__S__649_.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">2521/Autograph/03 E_II_356__S__649_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Is, qui tibi has reddet, optime <persName ref="p495">Bullingere</persName>, dimidium est animae meae.</s>
+					<s n="2" xml:lang="la">Quid plura?</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Traxit eum ex <placeName ref="l834">Italia</placeName> media adeo hyeme caritas hucusque, tantum ut me videret.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Tu complectere hominem, qui per <placeName ref="l587">Tigurum</placeName> iter facit, ut te videat.</s>
+					<s n="5" xml:lang="la">Scribunt ad me ex <placeName ref="l491">Argentina</placeName> fratres partitam fuisse pecuniam principis nostri inter <placeName ref="l830">Anglos</placeName>; an habita fuerit ratio eorum, qui istic sunt, ignoro; ego certe ur i, quin in eorum praecipue gratiam impetravi.</s>
+					<s n="6" xml:lang="la">Dux nunc aliam pecuniam subministrat pro novo testamento in Slavicam linguam vertendo, quod opus antequam agrediar, cupio vobiscum conferre; at venissem nunc quidem, nisi maximum negotium me retineret; at veniam spero.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Tandem rex Romanus ingressus est <placeName ref="l18">Augustam</placeName> comitiorum gratia, sed nullus adhuc princeps, noster adhuc domi.</s>
+					<s n="8" xml:lang="la">Sum nudiustertius cum eo locutus et cum comite, qui Mompelgardum rediit uxorem, ut speramus, ducturus lantgravii filiam.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Tace, quum opportunum fuerit, spero te rem totam cogniturum.</s>
+					<s n="10" xml:lang="la">Anthiocus, ut allyciat ad iuvandum bellum, quod gesturus est in oriente et occidente, curavit dictari, proh deum immortalem qua astutia.</s>
+					<s n="11" xml:lang="la">Dixi sententiam, neque si angelus de caelo recipiendum.</s>
+					<s n="12" xml:lang="la">Primum caput est de anabaptisitis, secundum de <persName>Zvinglianis</persName>, nempe ut prorsus valeant neque admittantur.</s>
+					<s n="13" xml:lang="la">Sed plura scripsi, quam volui, at ea lege, ne ulli mortalium verbum facias.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Poteris ad me rescribere per equitem, qui istum meum fratrem istuc conduxit; quod ut facias, rogo, at fuse et liberaliter.</s>
+					<s n="15" xml:lang="la">Si venerit doliolum ex <placeName ref="l491">Argentina</placeName> plenum libris, accipe, quod vis, deinde da Laelio.</s>
+					<s n="16" xml:lang="la" ana="salute">Salvere cupio <persName ref="p7228">Zvinglium</persName>, <persName ref="p1884">Lavaterum</persName>, <persName ref="p8442">Simblerum</persName> atque omnes fratres.</s>
+					<s n="17" xml:lang="la">Adhuc quaere catalogum haereticorum et tuam epistolam ad me, quod de valde oro, frater.</s>
+					<s n="18" xml:lang="la">Princeps quaedam vidit, quae nuper concinnavi de illo reverendo nugarum patre <persName ref="p18489">Gregorio</persName>, et in summa serio hortatus est, ut caveam mihi ab antichristo.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">"Vix", inquit, "feret te toties irritantem."</s>
+					<s n="20" xml:lang="la">Cavebo, sed spes mea in domino exercituum.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la">De causa <persName ref="p2301">Osiandrica</persName> scriberem, nam tractatur nunc; sed laudo te etiam, quod ab hoc genere contentionum abhorres, quod et ego facio.</s>
+					<s n="22" xml:lang="la" ana="farewell">Vale et ora pro me.</s>
+					<s n="23" xml:lang="la"><placeName ref="l512">Tubingae</placeName> kalendis ianuarii 1555.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la"><persName ref="p3375">Vergerius</persName> frater.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la">Scribe ad me, quid de <placeName ref="l294">Locarno</placeName>.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la">Oro te mirandum in modum, mitte nunc per istum raitter libellum Italicum <persName>Ioannis della Casa</persName> de laudibus (honor sit verbo) sodomiae; princeps meus cupit videre, quia cardinalis <placeName ref="l18">Augustae</placeName>, cum quo nuper collocatus est, negavit fuisse unquam scriptum.</s>
+					<s n="27" xml:lang="la">Quin oro etiam, ut mittas pontificale; utrumque sancte reddam.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la">[Cla]rissimo viro domino Henrico [B]ullinghero, ministro <placeName ref="l587">Tigurino</placeName>, [f]ratri honorando.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

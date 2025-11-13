@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file812" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johann Birckmann / Köln an Heinrich Bullinger / Zürich, 18. Januar 1550</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/812</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="20020" type="transcription">S. 1880</bibl>
+				<bibl source="b45" n="20020" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 338,1488</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Tuae dominationis literas 10. Decembris scriptas accepi 12. Januarii. De Floriani integra fide non dubitavi</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XIII, S. 313f, Nr. 1337 (Exc.)</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>Keep-Liste 128.1</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 72,21</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p380" cert="high"/>
+					<placeName ref="l267" cert="high"/>
+					<date when="1550-01-18" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!812!Autograph!00%20E_II_338__fol__1488_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">812/Autograph/00 E_II_338__fol__1488_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!812!Autograph!01%20E_II_338__fol__1488_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">812/Autograph/01 E_II_338__fol__1488_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Anno 1550 adi<note xml:id="fn1" type="footnote" n="1">anno domini?</note> 18. ianuarii ex <placeName ref="l267">Colonia</placeName>.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">S. P.</s>
+					<s n="3" xml:lang="la">Tuae dominationis literas 10. decembris scriptas accepi 12. ianuarii.</s>
+					<s n="4" xml:lang="la">De <persName>Floriani</persName> integra fide non dubitavi nec dubitabo; illud saltem me movet, quod se clam <placeName ref="l157">Franckfordia</placeName> insalutatis omnibus amicis subduxit neque in hunc diem, ubi agit, indicavit.</s>
+					<s n="5" xml:lang="la">Non intelligo ex tuis literis, ubi degit.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Emit a me nonnullos libros, an pro te vel pro alio, ignoro.</s>
+					<s n="7" xml:lang="la">Credo illum suo famulo pecuniam servandam non commisisse.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Avide expecto vestram et d. <persName ref="p540">Calvini</persName> consensionem, et a synceris hic expectatur.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Ante mensem ad sacram anchoram huc fugit <persName>Lovanio</persName> pius sacrificus et studiosus, qui meo suasu ad te scribere instituit, num hic vel alibi nostris ceremoniis interesse salva conscientia potest; non satis facit illi d. <persName ref="p8417">Musculus</persName>.</s>
+					<s n="10" xml:lang="la">D. <persName ref="p540">Calvini</persName> liber De vitandis superstitionibus apud me iam non prostat.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Senior comes a Weda relictis omnibus prebendis hoc titulo honoratur innato: "Illustri et generoso <persName>Friderico</persName> seniori comiti in <placeName>Weda</placeName>, d. in <placeName>Ronchel</placeName> et <placeName>Isenburg</placeName>" etc., eodem titulo et <persName>Hermannus a Weda</persName> senior, <placeName ref="l267">Coloniensis</placeName> archiepiscopus.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">D. <persName>Cesarius</persName> brevi ad nos rediturus est.</s>
+					<s n="13" xml:lang="la">Speramus indies meliora ex <placeName ref="l830">Anglia</placeName>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Optaremus operam illius boni nobilis, qui apud vos agit; posset nobis et omnibus piis sua lectione multum prodesse, donec iuvenem quendam mitterem, qui correctorem sua lectione iuvaret.</s>
+					<s n="15" xml:lang="la">Scripsi d. <persName ref="p8121">Montio</persName>, ut ad te mitteret disputata d. <persName ref="p8111">Petri Martyris</persName> de sacramento eucharistiae; scio illum habere exemplar unum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Varia hic de electione pontificis habemus; alii <persName>Anglum</persName>, alii cardinalem a <placeName ref="l691">Lotharingia</placeName> electum affirmant.</s>
+					<s n="17" xml:lang="la">Nostra nihil refert; nam nulla spes est verae reformationis.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Accepi <placeName ref="l1098">Florentia</placeName> nonnullos novos libros, <persName ref="p18357">Thomam de Aquino</persName> in Apocalypsim; mittam quam primum ex singulis unum exemplar.</s>
+					<s n="19" xml:lang="la">Si quid apud vos novi fuerit impressum, oro, ut d. <persName ref="p4851">Froschouerus</persName> nobis mittat; non dubito de illius diligentia in imprimendis bibliis <placeName ref="l830">Anglicanis</placeName>, in quibus tua dominatio suam operam nobis pollicetur; non sine [in]grati animi significatione acceptamus.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">De <persName ref="p18538">Caesaris</persName> adventu nihil certi habemus; decumbit podagra, meditatur semper et ad maiora spirat.</s>
+					<s n="21" xml:lang="la" ana="salute">Salutabis d. <persName ref="p1283">Gesnerum</persName> nomine d. <persName>Echtii</persName> et d. <persName ref="p17832">Bernhardi</persName>; uterque miratur taciturnitatem d. <persName ref="p1283">Gesneri</persName>; offerunt illi omnem operam et diligentiam in depingendis animalibus.</s>
+					<s n="22" xml:lang="la">De debitoribus d. <persName ref="p8127">Pellicani</persName> nihil accepi.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" ana="farewell">Vale, mi d. <persName ref="p495">Bullingere</persName>, et <persName ref="p380">Byrchmannum</persName> amare perge.</s>
+					<s n="24" xml:lang="la">Tuus obsequentissimus <persName ref="p380">Ioannes Byrchmannus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

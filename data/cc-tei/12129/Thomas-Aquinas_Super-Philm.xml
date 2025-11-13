@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>Super Epistolam B.
+	Pauli ad Philemonem lectura</title>
+               <author ref="http://viaf.org/viaf/264344179">Thomas Aquinas<date>1225-1274</date></author>
+</titleStmt>
+               
+               <extent></extent>
+               <editionStmt>
+              <edition>critical edition, apparatus not encoded</edition>
+              <editor></editor>
+         </editionStmt>
+               <publicationStmt>
+                  <pubPlace>Romae</pubPlace>
+                  <publisher>Textum Taurini</publisher>
+                  <date>1953</date>
+               </publicationStmt>
+<seriesStmt>
+             <title>Corpus Thomisticum</title>
+            <idno>ThomAqu.SupPhlm</idno>
+            </seriesStmt>
+         <notesStmt>
+            <note></note>
+         </notesStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>based on data from Corpus Thomisticum (http://www.corpusthomisticum.org), this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+          <note>Textum Taurini 1953 editum emendatum ac translatum a Roberto Busa SJ in taenias magneticas denuo recognovit Enrique Alarcón atque instruxit</note>
+          <editorialDecl>
+             <normalization>Classical Latin orthography</normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date></date>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item></item>
+		  <item></item>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme='genre'>
+  		 <list>
+   			<item></item>
+  		</list>
+  		</keywords>
+  		<keywords scheme='period'>
+ 		 <list>
+   			<item></item>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>
+<div1 id="pro."><head>Prooemium</head>
+<p><A NAME="87924"/><hi>Servus si est tibi fidelis, sit tibi quasi anima tua</hi>, et cetera.
+	Eccli.
+	XXXIII, 31.
+	Ostendit sapiens tria circa dominum et servum, scilicet quid requiratur ex parte servi; item qualis debet esse affectus domini ad servum; item qualis usus servi.
+	Ex parte servi requiritur fidelitas, in qua est bonum servi, quia et quod est et omnia sua debet dare domino.
+	Matth.
+	XXIV, 45: <hi>fidelis servus et prudens</hi>, et cetera.
+	Et dicit <hi>si est fidelis</hi>, quia fidelitas apud paucos est.
+	Prov. c.
+	XX, 6: <hi>virum fidelem quis inveniet?</hi> Talis ergo servus debet haberi a domino, sicut amicus in affectu.
+	Unde dicit <hi>sit tibi sicut anima tua</hi>.
+	Hoc enim est proprium amicorum, ut eorum anima una sit in nolendo et volendo.
+	Act.
+	IV, 32: <hi>multitudinis credentium erat cor unum et anima una</hi>.
+	In quo datur intelligi, quod est quidam consensus inter dominum et servum, quia servus fidelis transit in amicum.
+	Usus eius est, ut tractetur ut frater; nam frater est, et quantum ad generationem naturae, quia eodem auctore.
+	Iob XXXI, 13: <hi>si contempsi subire iudicium cum servo meo</hi>.
+	Mal.
+	II, 10: <hi>numquid non unus pater omnium nostrum? Numquid non Deus unus?</hi> Et quantum ad generationem gratiae, quae est eadem.
+	Gal.
+	III, 27 s.: <hi>quicumque enim in Christo baptizati estis, Christum induistis; non est Iudaeus, neque Graecus, non est servus, neque liber, non est masculus, neque foemina, omnes enim vos unum estis in Christo Iesu</hi>.
+	Matth.
+	XXIII, 8: <hi>omnes vos fratres estis</hi>.
+	Haec autem verba conveniunt materiae huius epistolae.
+	Sicut enim supra ostendit qualiter spirituales praelati habeant se ad subditos: sic hic qualiter temporales domini ad temporales servos, et quomodo servus fidelis quoad dominum eius.</p>
+</div1>
+<div1 n="1"><head>Lectio 1</head>
+<p><A NAME="87925"/>Epistolae occasio ex hoc est.
+	Apud enim Colossenses quidam Christianus magnus habuit quemdam servum, qui furtim fugiens Romam, ab apostolo est baptizatus, pro quo et scribit.
+	Et primo ponitur salutatio; secundo epistolaris narratio.
+	In salutatione primo ponit personas salutantes; secundo salutatas; tertio bona optata.
+	Dicit ergo <hi>Paulus</hi>, quod est nomen venerandum omnibus fidelibus, qui sunt docti ab eo. <hi>Vinctus</hi>.
+	II Tim.
+	II, 9: <hi>laboro usque ad vincula</hi>.
+	Nam tunc vinctus erat Romae.
+	Sed <hi>Iesu Christi</hi>, ubi ostenditur causa vinculorum.
+	Laudabile enim valde est vinctum esse propter Christum; in hoc enim est beatificandus.
+	Matth.
+	V, 10: <hi>beati qui persecutionem patiuntur propter iustitiam,</hi> et cetera.
+	I Pet. c.
+	IV, 15: <hi>nemo vestrum patiatur quasi homicida, aut fur, aut maledicus, aut alienorum appetitor; si autem ut Christianus, non erubescat, glorificet autem Deum in isto nomine</hi>.
+	Act.
+	V, 41: <hi>ibant apostoli</hi>, et cetera. <hi>Et Timotheus frater</hi>.
+	Fratres sunt quantum ad perfectam fidem.
+	Phil.
+	II, 20: <hi>neminem habeo tam unanimem, qui sincera affectione pro vobis sollicitus sit</hi>.
+	Ipsi autem Timotheum adiungit, ut facilius impetret, quia impossibile est preces multorum non exaudiri.
+	Deinde ponit personas salutatas.
+	Et primo ponitur persona principalis salutata; secundo adiuncta.
+	Item primo ponit maritum et uxorem, qui dominium domus habent, quibus obligatur servus. <hi>Philemoni dilecto nostro adiutori, et Appiae sorori charissimae.
+	Dilecto</hi> dicit propter bona opera.
+	Io.
+	XIII, 34: <hi>hoc est praeceptum meum, ut diligatis invicem.
+	Adiutori</hi>, quia subministrabat sanctis.
+	Prov.
+	XVIII, v. 19: <hi>frater qui iuvatur a fratre, quasi civitas firma</hi>.
+	Secundo ponitur persona adiuncta, cum dicit <hi>Archippo commilitoni nostro</hi>, qui ita erat potens Colossis, quod omnes Christiani erant sub umbra eius.
+	Et ideo inducit totam Ecclesiam ibi, cuius erat episcopus, sic scribens, Col. ult.: <hi>dicite Archippo: vide ministerium, quod accepisti</hi>, et cetera.
+	Et dicit <hi>Archippo commilitoni</hi>, quia omnes praelati sunt sicut spirituales milites Ecclesiae.
+	II Cor. c.
+	X, 4: <hi>arma militiae nostrae non sunt carnalia</hi>, et cetera.
+	Et addit <hi>et Ecclesiae</hi>, et cetera.
+	Hos superinducit, ut moveant eum ad exaudiendum.
+	Bona optata exponuntur, ut consuetum est.
+	Deinde cum dicit <hi>gratias ago</hi>, ponitur epistolaris narratio.
+	Et primo ponitur gratiarum actio; secundo petitio, ibi <hi>propter quod</hi>; tertio conclusio, ibi <hi>itaque, fratres</hi>.
+	Item primo gratiarum actio ponitur; secundo materia actionis gratiarum, ibi <hi>audiens</hi>; tertio causa propter quam Deo gratias agit, ibi <hi>gaudium enim magnum</hi>.
+	Dicit ergo <hi>gratias ago Deo meo</hi>.
+	Col.
+	III, 15: <hi>et grati estote</hi>.
+	Phil.
+	IV, 6: <hi>cum gratiarum actione</hi>.
+	Quasi dicat: ita ago gratias de praeteritis, ut orem tamen pro futuris.
+	Et ideo dicit <hi>semper memoriam tui faciens</hi>, et cetera.
+	Phil.
+	I, 7: <hi>eo quod habeam vos in corde, et in vinculis meis</hi>.
+	Is.
+	XLIX, 15: <hi>numquid potest mulier oblivisci infantem suum</hi>, et cetera.
+	Ponendo autem materiam gratiarum actionis et orationis, ostendit quid pro eo petendo orat.
+	Materia autem huius erat necessaria et bona Philemoni, scilicet et charitas et fides: sine enim charitate nihil aliorum valet, et per eam omnia habentur.
+	I Cor.
+	XIII, 1: <hi>si linguis hominum loquar</hi>, et cetera.
+	Item, sine fide nullus Deum amare potest, quia non cognoscit vere Deum.
+	De spe autem mentionem non facit, quia media est; et in his intelligitur.
+	Sed in quo habes fidem et charitatem? <hi>In domino Iesu</hi>.
+	I Cor. ult.: <hi>si quis non amat dominum nostrum Iesum Christum, anathema sit</hi>.
+	Et hoc est necessarium, quia ex Christo dulcius dilecto derivatur dilectio ad membra; quia non diligit caput, qui non diligit membra.
+	I Io.
+	IV, 20: <hi>qui non diligit fratrem suum quem videt, Deum quem non videt, quomodo potest diligere? Et in omnes sanctos</hi>; fides innititur doctrinae prout est manifestata per Christum, quia <hi>Deum nemo vidit unquam</hi>, Io.
+	I, 18 et XIV, v. 1: <hi>creditis in Deum, et in me credite</hi>.
+	Et ideo per fidem habemus Christum.
+	Sed quo ad sanctos pertinet, potest intelligi dupliciter: uno modo, quia ex fide quam habent ad Christum procedunt obsequia impensa sanctis.
+	Vel fides consistit in divinitate principaliter, prout est annuntiata per Christum, sed non solum per Christum, sed etiam per sanctos.
+	Matth. ult.: <hi>euntes ergo docete omnes gentes</hi>, et cetera.
+	Debemus ergo credere non solum dicta per Christum, sed etiam per sanctos.
+	Hebr.
+	II, 3: <hi>quae cum initium accepisset enarrari per dominum, ab eis qui audierunt in nos confirmata est.
+	Ut communicatio fidei</hi>, hoc continuatur dupliciter.
+	Uno enim modo, ut sit signum.
+	Et est sensus <hi>ut communicatio</hi>, etc., id est, tanta est charitas tua, <hi>ut communicatio fidei tuae</hi>, et cetera.
+	Vel aliter: <hi>gratias ago, et memoriam</hi>, etc., ut scilicet ostendat quid pro eo petat orando.
+	Et potest intelligi <hi>communicatio fidei</hi> dupliciter: vel quia in fide communicabat cum omnibus sanctis, non habens aliam fidem novam, ut haeretici.
+	I Cor. c.
+	I, 10: <hi>idipsum dicatis omnes</hi>, et cetera.
+	Vel communicatio, qua bona communicas sanctis, procedens ex fide.
+	I Tim. ult.: <hi>divitibus huius saeculi praecipe non altum sapere, nec sperare in incerto divitiarum, sed in Deo vivo, qui praestat nobis</hi>, et cetera. <hi>Evidens fiat</hi>, id est, ut bonum latens in corde evidens fiat per bona opera. <hi>In agnitione omnis boni</hi>, scilicet quod a te fit.
+	Et hoc <hi>in Iesu Christo</hi>, id est, pro Iesu Christo.
+	Iac.
+	II, 18: <hi>ostende mihi fidem tuam sine operibus, et ego tibi ostendam ex operibus fidem meam</hi>.
+	Vel aliter: multa sunt opera in mundo, quae sunt bona hominibus, et tamen Deo non sunt bona, quia non recte fiunt.
+	Prov. c.
+	XIV, 12: <hi>est via quae videtur homini recta, novissima autem eius deducunt ad mortem</hi>.
+	Eccle.
+	VIII, 10: <hi>vidi impios sepultos, qui etiam cum adhuc viverent in loco sancto erant, et laudabantur in civitate quasi iustorum operum</hi>.
+	Sed hoc manifestatur per fidem rectam, quando consequitur praemium a Deo, qui non remunerat nisi recta.
+	Et ideo dicit <hi>in agnitione</hi>, id est, ut hoc evidens fiat, quod cognoscas omne bonum.
+	Vel quod cognoscatur in te omne bonum, quod est fruitio divinitatis.
+	Ex.
+	XXXIII, 19: <hi>ostendam tibi omne bonum</hi>.
+	Sap.
+	VII, 11: <hi>venerunt mihi omnia bona pariter cum illa</hi>.
+	Causa autem propter quam gratias agit, est gaudium.
+	Et ideo dicit <hi>gaudium enim magnum habui</hi>.
+	III Io. cap. unico: <hi>maiorem horum gratiam non habeo, quam ut audiam filios meos in veritate ambulare</hi>.
+	Hoc enim gaudium alleviabat pressuras.
+	Unde addit <hi>et consolationem</hi>.
+	Ps.
+	XCIII, v. 19: <hi>secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam</hi>.
+	Cuius rationem assignat, dicens <hi>quia viscera sanctorum requieverunt per te, frater</hi>.
+	Col.
+	III, 12: <hi>induite vos ergo sicut electi Dei sancti et dilecti viscera misericordiae, benignitatem,</hi> et cetera.
+	III Io. cap. unico: <hi>charissime, fideliter agis quicquid operaris in fratres, et hoc in peregrinos</hi>, et cetera.
+	Deinde cum dicit <hi>propter quod</hi>, etc., ponitur petitio, et primo fiducia petendi; secundo ipsa petitio, ibi <hi>obsecro</hi>; tertio eius ratio, ibi <hi>forsitan</hi>.
+	Dicit ergo <hi>propter quod</hi>, id est, quia sic abundas charitate, <hi>multam fiduciam habeo in Christo Iesu</hi>, quasi dicat: non ex me, sed ex auctoritate Iesu Christi, in cuius fide te genui.
+	Et ideo possum tibi imperare ut pater, sed <hi>quod ad rem</hi>, scilicet tuam, <hi>pertinet</hi>, vel communem; alias praelatus non habet potestatem imperandi sibi quicquam, nisi quod vel est ad eius utilitatem, vel Ecclesiae, vel bonorum morum Christianae religionis.
+	Tamen <hi>propter charitatem magis obsecro</hi>.
+	Prov.
+	XVIII, 23: <hi>cum obsecrationibus loquitur pauper</hi>.
+	Et quare? Certe <hi>cum sis talis</hi>, et cetera.
+	Sunt duo propter quae quis debet obsecrari, scilicet aetas senectutis.
+	I Tim.
+	V, 1: <hi>seniorem ne increpaveris, sed obsecra ut patrem</hi>, et cetera.
+	Item honestas virtutis, ubi enim non delinquimus, pares sumus.
+	Eccli.
+	XXXII, 1: <hi>rectorem te posuerunt, noli extolli, esto in illis quasi unus ex ipsis</hi>.
+	Dicit ergo <hi>cum sis talis, ut Paulus senex</hi>, quasi dicat: si esses puer, praeciperem tibi hoc, sed tu es senex.
+	Item si levis, sed talis es vitae quod es mihi similis.
+	Non quod talis et tantus sit simpliciter, sed aliquo modo similis, quod dicit ex sua humilitate.
+	Rom.
+	XII, 10: <hi>honore invicem praevenientes</hi>.
+	Origenes: Paulus diu vixit in fide.
+	Conversus enim fuit adolescens, nunc dicit, ut senex.
+	Origenes: raro utilis doctor invenitur in Ecclesia quin sit longaevus.
+	Exemplum de Petro et Paulo.</p>
+</div1>
+<div1 n="2"><head>Lectio 2</head>
+<p><A NAME="87926"/>Posita fiducia apostoli de bonitate Philemonis, ponit hic suam petitionem.
+	Et primo ostendit personam pro qua petit; secundo ex hoc petitionem concludit, ibi <hi>tu autem illum</hi>.
+	Circa primum duo facit, quia primo describendo personam, ostendit eam sibi acceptam ex spirituali generatione; secundo ex morum mutatione.
+	Dicit ergo: vere sum exaudiendus, quia petitio continet honestatem et pietatem pro meo filio Onesimo, de quo est praesens mea sollicitudo.
+	Et acquirens filium tempore defectus, magis eum diligit, ut senex filios in senectute genitos.
+	Gen.
+	XXXVII, 3: <hi>Israel autem diligebat Ioseph super omnes filios suos, eo quod in senectute genuisset eum</hi>.
+	Hunc autem genuit in vinculis.
+	Secundo est mutatio in moribus.
+	Si enim in peccato perseverasset, non fuisset dignus venia.
+	Et nota quod minus dicit, et plus significat.
+	Docet enim Tullius, quod quis factum suum debet attenuare quantum potest.
+	Sic apostolus leviter de culpa huius loquitur, dicens <hi>inutilis</hi>, id est, nocivus in subtrahendo res tuas, <hi>nunc autem</hi>, conversus a malo ad statum virtutis, <hi>utilis</hi> est ad servitium Dei et hominum.
+	II Tim.
+	II, 21: <hi>si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum</hi>.
+	Prov.
+	XXV, 4: <hi>aufer rubiginem de argento, et egredietur vas purissimum</hi>.
+	Deinde cum dicit <hi>tu autem illum</hi>, ponit petitionem suam.
+	Et primo ponitur petitio; secundo respondet quaestioni, ibi <hi>quem ego</hi>.
+	Dicit ergo <hi>tu ergo illum ut mea viscera suscipe</hi>.
+	Et hoc ideo, quia vidi eum emendatum, cuius signum est, quia eum <hi>remisi tibi</hi>.
+	Contra Deut.
+	XXIII, 15: <hi>non trades servum domino, qui ad te confugerit</hi>, et cetera.
+	Respondeo.
+	Verum est quando dominus quaerit eum ad mortem; et ideo dicit <hi>tu autem</hi>, et cetera.
+	Phil.
+	I, 7: <hi>eo quod habeam vos in corde, et in vinculis meis et in defensione</hi>, et cetera.
+	Et respondet quaestioni, quia posset dicere: si est utilis tibi, quare non retines eum usque ad mortem? Ideo dicit, quae est causa mittendi eum.
+	Primo autem ostendit propositum retinendi eum; secundo quare destitit a proposito, ibi <hi>sine consilio autem tuo</hi>.
+	Dicit ergo Philemoni, qui licet esset magnus, tamen apostolo solitus erat ministrare.
+	Matth.
+	XX, 26: <hi>quicumque voluerit inter vos maior fieri, sit vester minister</hi>.
+	Unde ex hac fiducia proposuit eum tenere, ut loco eius sibi ministraret.
+	Unde dicit <hi>quem ego volueram mecum detinere, ut pro te</hi>, et cetera.
+	Quod erat maxime necessarium, quando erat in vinculis propter Christum.
+	Est enim providendum quando quis patitur pro domino suo.
+	Ratio autem quare destitit est quia noluit uti re aliena, ignorante domino.
+	Unde dicit <hi>sine consilio</hi>, etc., quasi dicat: si retinuissem eum, iam placeret tibi non valenti resistere et esset quaedam coactio.
+	Sed sic nolui, imo magis volui quod voluntarie fieret.
+	Ex.
+	XXV, 2: <hi>ab omni homine qui offert ultroneus, accipietis eas</hi>, scilicet primitias.
+	II Cor.
+	IX, 7: <hi>non ex tristitia, aut ex necessitate, hilarem enim datorem diligit Deus</hi>.
+	Deinde cum dicit <hi>forsitan enim</hi>, ponit rationem quare debet eum recipere benigne.
+	Et primo ex parte Dei; secundo ex parte ipsius apostoli, ibi <hi>si ergo habes</hi>; tertio ex parte ipsius Philemonis, ibi <hi>confidens</hi>.
+	Ex parte Dei, quia saepe Dei providentia id quod videtur malum permittit fieri, ut exinde sequatur bonum, ut patet de Ioseph vendito, ut liberaret Aegyptum et familiam patris.
+	Gen.
+	XLV, 5: <hi>pro salute enim vestra misit me Deus ante vos</hi>.
+	Et dicit <hi>forsitan</hi>, quia <hi>incomprehensibilia sunt Dei iudicia</hi>, Rom.
+	XI, 33.
+	Et dicit <hi>pro servo</hi>, id est, loco servi.
+	Matth.
+	XXIII, 8: <hi>omnes autem vos fratres estis</hi>.
+	Et non solum tibi, sed <hi>mihi</hi> in comparatione ad Deum, licet sit filius ministerio. <hi>Quanto magis tibi, et in carne et in domino?</hi> Quod dupliciter potest exponi: uno modo, quod referatur ad primam originem divinae creationis, et sic est frater.
+	Deut. c.
+	XXXII, 6: <hi>nonne est ipse pater tuus, qui possedit, et fecit, et creavit te?</hi> Mal.
+	II, 10: <hi>numquid non pater unus omnium nostrum, numquid non Deus unus creavit nos?</hi> Item in Deo per fidem.
+	Vel magis erat in bonum Philemoni, quia affinis eius secundum carnem, quia secundum eam erat servus eius, quia hoc totum quod erat ei carnaliter, erat suum.
+	Unde duplici ratione quis movetur ex charitate, scilicet ex amore secundum carnis originem, et ex amore spirituali.
+	Ex parte autem apostoli primo allegat suam amicitiam, sub cuius obtentu vult eum suscipi; secundo fideiubet pro eo de damno; tertio ostendit receptionis officium.
+	Secundum, ibi <hi>si autem</hi>.
+	Tertium, ibi <hi>itaque, frater</hi>.
+	Dicit ergo <hi>si ergo habes me socium, suscipe illum</hi>.
+	I Io.
+	I, 7: <hi>si autem in luce ambulamus, sicut et ipse est in luce, societatem habemus ad invicem</hi>.
+	Et dicit <hi>sicut et me</hi>, quia iunctus est mihi.
+	Matth.
+	X, v. 40: <hi>qui vos recipit, me recipit</hi>.
+	Secundo autem obligat se pro eo satisfacturum pro damno.
+	Dicit ergo <hi>si aliquid nocuit</hi>, scilicet dimittens servitium tuum, <hi>hoc mihi imputa</hi>, quasi dicat: ego satisfaciam.
+	Gal. ult.: <hi>alter alterius onera portate</hi>.
+	Et plus: quia primo promittit se soluturum; secundo ostendit eum esse debitorem ad hoc, non necessitatis sed voluntatis.
+	Dicit ergo <hi>ego Paulus</hi>, quasi dicat: ut certus sis de restitutione, <hi>scripsi manu</hi>.
+	Et hoc non est necessitas, quia tu <hi>debes mihi teipsum</hi>, quem erui a morte aeterna.
+	Et talis debet se liberatori.
+	Tob.
+	IX, 2: <hi>si meipsum tradam tibi servum, non ero condignus providentiae tuae</hi>.
+	Et subiungit dicens <hi>itaque, frater, ego te fruar</hi>, quasi dicat: si vis me habere socium, suscipe eum, et ego ita fruar te, frater; id est, si feceris, implebis voluntatem meam gaudiis.
+	Nam frui est uti fructu, et sicut est uti ad utile, sic frui ad fructum.
+	Importat autem fructus dulcedinem.
+	Cant.
+	II, v. 3: <hi>et fructus eius dulcis gutturi meo</hi>.
+	Item finem, quia ultimum de arbore est fructus.
+	Et ideo proprie est habere aliquid ut delectabile et finale.
+	Et inde est quod dicit Augustinus <hi>fruimur cognitis, in quibus voluntas delectatur propter dulcedinem</hi>.
+	Item frui est alicui inhaerere propter se.
+	Aliquando ergo accipiuntur frui et uti communiter, prout important delectationem absque contrario.
+	Eccli. c.
+	VIII, 10: <hi>fruere magnatis sine querela</hi>.
+	Dicit ergo: sic fruar, quia in nullo mihi contrarius es.
+	Etsi in hoc mihi satisfacies, nihil erit in corde meo de te, quod contristet me, et sic delectabis me.
+	Si autem accipitur frui prout finale quid est, sic non est fruendum homine, sed solo Deo.
+	Contra quod est illud Sap. cap.
+	II, 6: <hi>fruamur bonis quae sunt, et utamur creatura tamquam in iuventute celeriter</hi>, et cetera.
+	Unde iste addit <hi>in domino</hi>, id est, fruar te in delectatione Dei, gaudens de bono divino in te, quia eius actus est dilectio, et fruitio effectus, scilicet charitatis.
+	Ideo additur <hi>in hoc refice viscera mea</hi>.
+	Reficitur enim homo spiritualiter, quando satisfit desideriis animae suae.
+	Ac si dicat: imple desideria intima cordis mei.
+	Et non in malis, sed <hi>in Christo</hi>, et ideo bona est impletio desiderii.
+	Deinde cum dicit <hi>confidens</hi>, sumitur ratio ex parte Philemonis, et commendatio obedientiae eius.
+	Et primo ostendit quomodo confidit de obedientia eius; secundo iniungit ei aliud simile.
+	Dicit ergo <hi>confidens,</hi> et cetera.
+	II Cor.
+	VII, 16: <hi>gaudeo, quod in omnibus confido in vobis</hi>.
+	I Reg.
+	XV, 22: <hi>melior est obedientia quam victimae</hi>.
+	Sed plus caute scribit, quia homo magis exaudit aliquem, quando sperat iterum ipsum visurum, quam si desperat.
+	Et ideo dicit <hi>simul et para mihi hospitium</hi>.
+	Solitus enim erat cum esset Colossis hospitari in domo sua.
+	Chrysostomus: <hi>iucundum verbum, ut homo pauper diviti mandet ultra tot terrarum spatia per epistolam praeparationem hospitii.
+	Quid enim pro eo parandum erat, qui pane et vili pulmento contentus erat? Dicendum ergo, quod non propter hospitii praeparationem, sed ad insinuandum familiaritatem et dilectionem hoc dicit; et magis per hoc provocat eum ad obediendum</hi>.
+	Haec ille.
+	Non ergo hoc apostolus dixit propter apparatum exteriorem, sed ad devotionem eius. <hi>Nam spero per orationes vestras</hi>, et cetera.
+	Contra: numquam fuit eis redditus, sed Romae est mortuus, ergo spes eius defecit.
+	Respondeo.
+	Duplex est spes iusti, scilicet principalis ad proprium bonum, et in hoc numquam deficit pro se; alia est secundaria, scilicet probatio aliorum, et in hoc quandoque deficit, quia merita illorum contrariantur, sicut iusti quandoque non exaudiuntur pro aliis.
+	Sed numquid fuit deceptus de sua fiducia? Dicendum est, quod futura scire est solius Dei, non autem in cognitione humana, nisi prophetica.
+	Et nullus prophetarum scivit omnia futura de seipso, nisi solus Christus, qui non habuit spiritum sanctum ad mensuram.
+	Sic Isaac magnus propheta fuit deceptus in Iacob.
+	Unde non est mirum de apostolo, si nesciret.
+	Tunc terminat epistolam in salutationem; et primo ex parte aliorum; secundo ex parte sua.
+	Dicit ergo <hi>salutant</hi>, et cetera.
+	De his omnibus habetur Col.
+	IV, 12.
+	Sed dubitatur de hoc quod dicit <hi>demas</hi>.
+	Quomodo potest hoc esse, quia dicitur II Tim. ult.: <hi>demas dereliquit me, diligens hoc saeculum?</hi> Quomodo ergo utitur nomine eius? Dicendum est, quod iam redierat ad eum.
+	Sed nec hoc videtur, quia haec epistola praecesserat secundam epistolam ad Timotheum, quia hic dicitur <hi>spero</hi>, etc., ibi praenuntiat mortem suam, dicens: <hi>et tempus meae resolutionis instat</hi>.
+	Et ideo dicendum est, quod Paulus fuit Romae fere novem annis, et haec epistola fuit facta in principio.
+	Secunda vero ad Timotheum in fine vitae suae, et tunc demas attaediatus ex longis vinculis, dimisit eum.
+	Et epistolae Pauli non ordinantur secundum tempus, quia epistolae ad Corinthios fuerunt ante epistolam ad Romanos, et haec fuit ante ultimam ad Timotheum.
+	Et praemittitur illa propter materiam, quia de digniori.
+	Salutatio sua eadem est cum secunda ad Timotheum.
+	Deo gratias.
+	Amen.</p>
+
+</div1>
+</body></text>
+</TEI> 

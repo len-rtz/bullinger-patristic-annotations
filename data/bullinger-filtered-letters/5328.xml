@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5328" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Fabricius Montanus (Schmid) / Chur an [Heinrich Bullinger], 18. Mai 1562</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/5328</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="32084" type="transcription">S. 6012/100</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 376,79</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Quanta sollicitudine ... hosce dies fuerim, cogitare potes ipse lectis Germanicis literis, quas simul mitto</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graubünden, Korr. II, S. 387f, R, Nr. 444</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>Ferd. Meyer, Die evangelische Gemeinde in Locarno, II, 249</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 104,125</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8009" cert="high"/>
+					<placeName ref="l98" cert="high"/>
+					<date when="1562-05-18" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t10"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5328!Autograph!00%20E_II_376__fol__79_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">5328/Autograph/00 E_II_376__fol__79_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5328!Autograph!01%20E_II_376__fol__79_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">5328/Autograph/01 E_II_376__fol__79_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Quanta in sollicitudine, reverendissime pater, hosce dies fuerim, cogitare potes ipse lectis Germanicis literis, quas simul mitto; eas tu quidem difficillime leges (scripsit eas <persName ref="p1770">Georgius Carlin</persName>, qui pessime pingit), eas tamen tibi mittere volui, ut narrationi meae fidem facerem.</s>
+					<s n="3" xml:lang="la">Summa: principem <placeName>Condensem</placeName> in colloquio circumventum a <persName>Guisiano</persName> pugione percussum, cecidisse simul utrinque 300.</s>
+					<s n="4" xml:lang="la">Haec ille, qui <persName ref="p1770">Carlino</persName> dixit (existimamus autem esse <placeName>Dietägium</placeName>) affirmavit <placeName ref="l1107">Tridento</placeName> per postam in <placeName ref="l822">Germaniam</placeName> missa.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Quaeso te, pater, tu nos hac cura et angore libera.</s>
+					<s n="6" xml:lang="la">Verisimile quidem non est citius haec <placeName ref="l1107">Tridenti</placeName> et in <placeName ref="l822">Germania</placeName> nunciata quam <placeName ref="l760">Solothuri</placeName>; sed tamen quid non timemus amantes?</s>
+					<s n="7" xml:lang="la">aut quid adversarii non audent?</s>
+					<s n="8" xml:lang="la">Deinde addit in literis pro certo exercitum <persName ref="p18477">Ferdinandi</persName> contra <placeName ref="l2510">Turcam</placeName> missum esse deletum et in hoc 400 equites.</s>
+					<s n="9" xml:lang="la">Quae mandasti, maiori curae mihi esse non possunt; scripsi in plura simul loca.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la"><persName ref="p8114">Balingketus</persName> praeterea singulariter promisit operam; interim et hic apud papistas meos habebo exploratores.</s>
+					<s n="11" xml:lang="la"><persName ref="p3375">Vergerius</persName> heri <placeName ref="l93">Clavenna</placeName> rediit.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Nondum conveni hominem; vides, quibus elogiis eum ornet senex <persName ref="p2019">Maynardus</persName>; quod ex specula prospexi et illis ecclesiis ominatus sum, res testatur etc.</s>
+					<s n="13" xml:lang="la">Non est, quod vel <persName ref="p18700">Augustini</persName> vel <persName ref="p1770">Carlini</persName> literas remittas; discerpe tamen.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Collega dicit <persName ref="p3375">Vergerium</persName> dicere pontificem exercitum in <placeName ref="l834">Italia</placeName> conscribere.</s>
+					<s n="15" xml:lang="la">Venit alius <placeName ref="l522">Venetiis</placeName>, qui idem refert.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Novi praeterea habetur plane nihil.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" ana="farewell">Vale, reverende pater, cum tuis omnibus.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la"><placeName ref="l98">Curię</placeName> 18. maii anno 1562.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">Festinanter post concionum molem.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Tui observans.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la">Exemplaria literarum remitto.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la">Habeo gratias; legi cum voluptate; sunt Latinissimae, sed et exscripsi.</s>
+					<s n="23" xml:lang="la">Amplissimo viro d. <persName ref="p495">Heinrycho Bullingero</persName>, domino et patrono suo summe observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,3148 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Cain et Abel</title>
+              <author ref="http://viaf.org/viaf/100227669">Ambrosius Mediolanensis<date>340-397</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 14</title>
+           <idno>AmbMed.DeCaEtA</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>LIBER PRIMUS.</head>
+
+<emph>183</emph> 
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p divs_removed="true"> <hi>Post brevem a libro superiori ad huncce transitionem
+agitur de ortu Cain et Abel; ac per hos sicut et per
+Esau et Jacob, duas hominum sectas sibi invicem
+oppositas praesignari ostenditur.</hi> 
+<pb n="0315A"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ De paradiso in superioribus pro captu nostro,
+ut potuimus, quod Dominus infudit, sensus invenit,
+digessimus, in quibus Adam atque Evae lapsus est
+comprehensus. Nunc quoniam illa penes auctores non
+stetit culpa: sed quod pejus est, deteriorem invenit
+<pb n="0316A"/>
+haeredem, sequentem adoriamur historiam, et ea
+quae secundum Scripturas annexa sunt divinas, nostro
+opere prosequamur.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Adam autem cognovit Evam mulierem suam,
+quae concepit et peperit Cain, et dixit: Acquisivi hominem
+per Deum <note>(Gen. IV, 1)</note>
+            </hi>. Quae acquirimus, ex quo,
+et a quo, et per quid acquiramus, considerari solet:
+ex quo, tanquam ex materia: a quo, quis auctor:
+per quid, tanquam per aliquod instrumentum. Numquid
+hic sic dicit: <hi>Acquisivi hominem per Deum;</hi> ut
+<pb n="0317A"/>
+Deum intelligas instrumentum? Non utique: sed ut
+intelligas auctorem et operatorem Deum. Unde magis
+Deo detulit, quia dixit: <hi>Acquisivi hominem per
+Deum,</hi> ut et nos cum aliquid acquirimus, vel omnes
+eventus secundos Deo magis deferre, quam nobis arrogare
+debemus.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Et adjecit parere Abet <note>(Ibid. 2)</note>
+            </hi>. Cum adjicitur
+aliquid, quod prius erat tollitur. Idque colligitur
+ex arithmeticae portionibus, aut animae cogitationibus:
+addito enim numero, fit alius numerus, aboletur
+superior: et cogitatio accedens nova excludit superiorem.
+Ergo cum adjicitur Abel, <emph>184</emph> aufertur
+Cain. Quod nominum interpretatione plenius deprehenditur.
+Cain etenim dictus, est acquisitio, quod
+omnia sibi acquireret: Abel qui omnia referret ad
+<pb n="0317B"/>
+Deum pia devotus mentis attentione, nihil sibi arrogans,
+ut superior frater, sed totum tribuens conditori
+quod accepisset ab eo.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Duae itaque sectae sunt sub duorum fratrum nomine
+compugnantes invicem, et contrariae sibi. Una quae
+totum menti suae deputat tamquam principali, et quasi
+cuidam cogitationis, et sensus, et motus omnis auctori;
+hoc est, quae omnes inventiones humano ascribit
+ingenio. Altera quae tamquam operatori et creatori
+omnium Deo defert, et ejus tanquam parentis atque
+rectoris subdit omnia gubernaculo. Illa prior, Cain
+significatur: haec posterior, Abel dicitur. Has duas
+sectas una anima parturit; et ideo germanae habentur,
+quod uno fundantur utero: sed contrariae sunt; quia
+oportet eas cum quodam animae partu editae fuerint,
+<pb n="0317C"/>
+dividi ac separari. Compugnantibus enim hospitium
+unum perpetuo esse non potest. Denique Rebecca
+cum duas naturas humani ingenii parturiret, unam
+mali, alteram boni, easque exsilire intra uterum sentiret
+suum (Esau enim typus erat malitiae, Jacob figuram
+bonitatis gerebat), mirata quidnam illud esset
+quod discordiam quamdam concepti cerneret fetus,
+consuluit Deum, ut passionem proderet, medelam
+daret. Itaque precanti est responsum redditum: <hi>Duae
+gentes in utero tuo sunt, et duo populi de ventre tuo
+exibunt <note>(Gen. XXV, 23)</note>
+            </hi>. Quod si ad animam referas,
+eamdem generatricem boni et mali intelliges, quia ex
+eodem fonte animae utrumque dimanat, sed hoc sobrii
+solet esse verique judicii; ut repudiato malo enutriat
+quod bonum est, atque confirmet. Prius ergo quam
+pariat bonum, hoc est, reverentiam Deo debitam;
+<pb n="0317D"/> <emph>185</emph> 
+ ut ipsi totum deferat, sua non praeferat: cum
+vero genuerit confessionem quae defertur Deo, deponit
+cordis sui tumorem. Adjiciens ergo Deus bonum animae
+dogma Abel, abstulit improbum dogma Cain.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>In Cain Judaeorum figuram esse, Christianorum in Abel.
+Hujus occasione quaedam attexuntur de patribus,
+sed praesertim de sepultura Isaac per quem Christi
+incarnatio, et Moysis per quem ejusdem doctoratus
+exprimitur. Denique eorumdem Moysis et Christi
+comparantur inter se sepulturae.</hi> 
+<pb n="0318A"/>
+          </p>
+<div3>
+            <head>5.</head>
+            <p>
+ Ego tamen hoc loco secundum Scripturam mysterium
+magis duorum populorum intelligo, quod
+Deus adjiciendo Ecclesiae suae fidem piae plebis, abstulit
+perfidiam populi praevaricantis, quandoquidem
+verba ipsa hoc significare videantur, dicente Deo: <hi>Duae gentes in utero tuo sunt, et duo populi de ventre
+tuo exibunt 
+ <note>(Gen. XXV, 23)</note>
+            </hi>. Haec figura Synagogae et
+<pb n="0318B"/>
+Ecclesiae in his duobus fratribus ante praecessit Cain
+et Abel. Per Cain parricidialis populus intelligitur
+Judaeorum, qui Domini et auctoris sui et secundum
+Mariae virginis partum fratris, ut ita dicam, sanguinem
+persecutus est. Per Abel autem intelligitur
+Christianus adhaerens Deo, sicut et David ait: <hi>Mihi
+autem adhaerere Deo bonum est <note>(Ps. LXXII, 28)</note>
+            </hi>; ut
+coelestibus se attexeret, et a terrenis separaret. Alibi: <hi>Defecit,</hi> 
+ inquit, <hi>anima mea in verbum tuum <note>(Ps. CXVIII, 81)</note>
+            </hi>;
+eo quod ordinem vivendi atque
+usum non in terrenis voluptatibus, sed in verbi agnitione
+posuisset. Ex quo cognoscitur nec illud otiose
+scriptum esse, sed perpense atque examinate, quod
+legimus in Regnorum libris: <hi>Et appositus est ad patres
+suos <note>(III Reg. II, 11 et 21)</note>
+            </hi>. Intelligi enim datur
+<pb n="0318C"/>
+quod patrum similis fuerit fide. Unde claret non ad
+sepulturam corporis, sed ad consortium vitae relatum.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Denique de Isaac non perfunctorie scriptum putatur <note>(Gen. XXXV, 29)</note>,
+quod requirens corporis istius
+speciem quae animae suae attexebatur, appositus sit
+ad genus suum; eo quod patris sui moribus adhaeserit.
+Pulchre autem ad genus ait, non ad populum,
+sicut alibi. Nam legimus aliis locis appositos fuisse
+ad populum suum, sed isti non tam praestantes: praestantior
+autem qui paucorum similis fuerit, et non
+plurimorum: plures in populo suo quam in genere;
+et praestantius ducitur paucorum similem esse, quam
+plurimorum. Qui ergo Dei erat generatus promissione,
+qui ad sacrificium probandae pietatis electus, qui
+unius uxoris, hoc est, solius sapientiae societate contentus
+<pb n="0318D"/>
+superni illius generis quod est unum sibique
+semper conveniens, non plebeiae vilitatis imitator
+astruendus fuit Scripturae divinae testimonio. Etenim
+ ubi labor, doctrina, meditatio, illic cum pluribus
+<pb n="0319A"/>
+commune collegium, et quoddam populare consortium
+est. Audiendo enim plerique proficiunt, quos
+nominavit populum. Ubi autem non humana traditione,
+sed ingeniosa collectione sine usu laboris disciplina
+percipitur, illic sublimis generis incorrupta
+sinceritas <emph>186</emph> est. Et ideo Isaac tamquam Dei munus
+ad genus suum magis, quam ad populum appositus
+legitur, ut divinorum potius quam humanorum imitatorem
+esse sedulum recognoscas.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Beata et illa mens quae species et ipsum genus
+supergrediens meretur audire quod dictum est ad
+Moysen, cum separaretur a populo: <hi>Tu autem sta
+mecum <note>(Deut. V, 31)</note>
+            </hi>! Nam sicut in Isaac Dominicae
+incarnationis typus humanae generationis supergressus
+consuetudinem, vicit priores; ita ut in eo non
+<pb n="0319B"/>
+vulgaris popularisque gratia, sed specialis praerogativa
+praecelleret, sicut lectio docet: <hi>Abrahae enim dictae
+sunt promissiones et semini ejus: non dicit et seminibus
+tamquam in multis, sed sicut uni, hoc est, semini
+tuo, quod est Christus <note>(Galat. III, 16)</note>
+            </hi>: ita etiam
+in Moyse venturi Doctoris figura, qui legem doceret,
+Evangelium praedicaret, impleret Testamentum vetus,
+novum conderet, coeleste populis alimentum
+daret, humanae dignitatem conditionis excessit eo
+usque, ut Dei donaretur nomine, sicut habemus
+scriptum, dicente Domino: <hi>Posui te in Deum Pharaoni <note>(Exod. VII, 1)</note>
+            </hi>.
+Etenim victor passionum omnium,
+nec ullis captus saeculi illecebris, qui omnem
+istam secundum corpus habitationem coelestis puritate
+conversationis obduxerat, mentem regens, carnem
+<pb n="0319C"/>
+subjiciens, et regia quadam auctoritate castigans,
+nomine Dei vocatus est, ad cujus similitudinem
+se perfectae virtutis ubertate formaverat.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Et ideo non legimus de eo sicut de caeteris,
+quia deficiens mortuus est: sed <hi>per verbum Dei
+mortuus est <note>(Deut. XXXIV, 5)</note>
+            </hi>. Deus enim neque defectionem
+aut diminutiomem patitur, neque adjectionem
+capit. Unde et addidit Scriptura: <hi>Quia nemo
+scit sepulturam ejus usque in hodiernum diem <note>(Ibid. 6)</note>
+            </hi>,
+ut translationem magis, quam interitum ejus intelligas.
+Mors enim secessio quaedam est animae et corporis.
+Mortuus igitur est per verbum Dei, ut ait Scriptura,
+non secundum verbum; ut advertas non nuntium
+mortis, sed gratiae munus expressum, qui translatus
+magis, quam derelictus est, cujus nemo novit
+<pb n="0319D"/>
+sepulturam. Quis enim in terrenis reliquias ejus potuit
+deprehendere, quem secum esse Dei Filius in
+Evangelio demonstravit <note>(Matth. XVII, 3)</note>? Denique
+et Elias simul est visus, qui translatus curru est,
+non sepultus nec mortuus legitur <note>(IV Reg. II, 11)</note>?
+ Vivit enim qui cum Dei Filio est. Moyses autem
+mortuus quidem legitur, sed per verbum Dei mortuus,
+per quod facta sunt omnia. Verbo autem Dei
+<pb n="0320A"/>
+coeli firmati sunt. Per verbum igitur Dei non lapsus
+operis, sed firmamentum est. Non ergo tamquam
+relapsus in terram deprehenditur corporis solutione,
+sed tamquam verbi coelestis operatione donatus et
+munere; ut quietem magis caro ejus, quam bustum
+acceperit.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Bene autem inter dominum et servum servatur
+distantia. Ut praerogativam domini intelligas, servi
+gratiam, de Moyse legitur, quia sepulturam ejus nemo
+scit: de Christo autem, sepultura ejus de terra
+sublata est <note>(Esai. LIII, 8)</note>; quia ille secundum mysterium
+legis exspectabat redemptionem, ut resurgeret:
+hic secundum Evangelii <emph>187</emph> donum redemptionem
+non exspectabat, sed donabat. Et ideo sepultura ejus
+ignorata non est, sed elevata, quam diutius creatura
+<pb n="0320B"/>
+tenere non potuit; quia per ipsum omnis creatura
+properavit a corruptionis servitiis elevari. Nemo ergo
+scit sepulturam Moysi, quia vitam ejus omnes noverunt:
+Christi autem sepulturam vidimus; sed nunc
+jam non novimus, qui resurrectionem ejus agnovimus.
+Debuit enim cognosci tumulus ejus, ut resurrectio
+manifestaretur; et ideo in Evangelio <note>(Matth.
+XXVII, 60 et seq.)</note> tumulus summa expressione describitur:
+in lege non quaeritur; quia licet resurrectionem
+ejus lex annuntiaverit <note>(Esai. XI, 10)</note>, nobis tamen
+Evangelii series plenissime comprobavit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Per Abel et Cain sapientiae humanae processus, qui in
+Christo solo inventus non est, designari; per ordinem
+quo uterque fratrum nominantur, nec non per eorumdem
+officia significari Abelem etsi juniorem, fratre
+tamen esse praestantiorem.</hi> 
+<pb n="0320C"/>
+          </p>
+<div3>
+            <head>10.</head>
+            <p>
+ Ergo ut quod proposuimus, compleamus: <hi>Adjecit,</hi> 
+inquit, <hi>parere Abel,</hi> hoc est, meliorem Eva quae
+graviter ante peccaverat, ex se generavit sententiam
+ut superioris sententiae aboleret errorem. Mentior
+nisi hoc in universis comprobatur. Ita enim nascimur,
+ut ante infirmus infantiae sensus in nobis sit,
+postea pueritiae corporis tantummodo curam sciens,
+nullum cultum, nullam habens observantiam divinorum.
+Unde et evidenti naturae novitate ortum Jesum
+Christum ex virgine ut probaret propheta, ait: <hi>Ecce
+Virgo in utero accipiet, et pariet filium, et vocabitur
+nomen ejus Emanuel: butyrum et mel manducabit,
+<pb n="0320D"/>
+quoniam priusquam sciat malum aut bonum: non credet
+malitiae, ut eligat quod bonum est <note>(Esai. VII, 14 et
+seq.)</note>
+            </hi>. Et infra: <hi>Priusquam sciat puer vocare patrem ac
+matrem, accipiet virtutem Damasci et spolia Samariae
+contra regem Assyriorum <note>(Esai. VIII, 4)</note>
+            </hi>. Solus enim
+fuit qui non est captus saeculi hujus vanitate et carnali
+tumore; ut pote qui se humiliavit factus obediens
+usque ad mortem, longe uniuscujusque nostrum
+<pb n="0321A"/>
+dissimilis, quia nos frustra extollimur mente
+carnis inflati. Unde et nemo sine peccato, nec unius
+diei infans: ille autem peccatum non fecit. Et ideo
+in nobis ante nascitur Cain seipsum praeferens: postea
+Abel generatur, in quo sit reverentia divinitatis.
+Prius ergo irrepit quod malum est, postea agnoscitur
+quod bonum est. Ubi autem bonum, ibi justum;
+ubi justitia, ibi sanctitas, hoc est, Abel qui adhaeret
+Deo.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ <hi>Et factus est,</hi> inquit, <hi>Abel pastor ovium, Cain
+autem operabatur terram <note>(Gen. IV, 2)</note>
+            </hi>. Non est otiosum
+quod cum ante generatus sit Cain, ut lectio docet,
+praelatus sit hoc loco Abel; nec idem sit ordo
+nominum, qui est ordo naturae. Quid sibi vult mutatio
+ordinis; ut prius junioris meminerit, ubi describitur
+<pb n="0321B"/>
+vitae status operisque usus? Officiorum interrogemus
+distantiam, ut colligamus causam praelationis.
+Operari terram usu prius est, gratia inferius, quam
+oves pascere. Hoc enim instar est cujusdam doctoris
+et principis, meritoque senior a vetustioribus inchoavit,
+junior recentiora praetulit, quae nullas spinas, <emph>188</emph> 
+nullos tribulos germinarent, nulli sententiae essent
+obnoxia. Denique peccati reus Adam de paradiso dimissus
+est voluptatis, ut operaretur terram. Recte
+ergo ubi nascuntur hi fratres, servatur etiam in praedicando
+ordo naturae: ubi vero exprimitur disciplina
+vivendi, seniori junior antefertur; quia etsi tempore
+junior, virtute praestantior est. Innocentia enim tempore
+posterior est, quam malitia, et quadam suppar
+aetate, sed meritorum nobilitate antiquior. <hi>Senectus
+<pb n="0321C"/>
+enim venerabilis est, non annis incana, sed moribus. Et
+aetas,</hi> inquit, <hi>senectutis vita immaculata <note>(Sap. IV, 8)</note>
+            </hi>.
+Ubi ergo generatio exprimitur, praeveniat Cain: ubi
+disciplinarum fit praedicatio, praecurrat Abel. Adolescentiam
+igitur, et ipsam in exordiis juventutem variarum
+illecebris passionum fervere quis abnuat: sed
+ubi maturior aetas successerit, tamquam pubescentis
+lasciviae tempestate discussa, tranquillitatem refundi,
+et in quosdam portus quietos lassae animae navigium
+subducere? Itaque graves motus nostrae adolescentiae
+fida senectutis statione placidantur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Malitiam tempore priorem esse, virtutem dignitate:
+Hoc ipsum per Esau et Jacob designari, sicut et per
+duas Scripturae mulieres; quarum altera virtutis,
+altera voluptatis imago est. Denique hujus ultimae
+artes describuntur.</hi> 
+<pb n="0321D"/>
+          </p>
+<div3>
+            <head>12.</head>
+            <p>
+ Ne ergo dubites talibus naturae admonitus exemplis,
+quod malitia praecedat tempore, sed juvenculescat
+infirmitate. Habet illa aetatis stipendium: virtus
+autem praerogativam gloriae, qua plerumque justo
+cedit iniquus. Cujus rei testis est fidelis divina
+Scriptura, quae docet Esau cognomine stultitiae virum
+cessisse patienter primatus suos fratri suo Jacob;
+<pb n="0322A"/>
+ita ut diceret: <hi>Ut quid mihi primatus <note>(Gen. XXV,
+32)</note>
+            </hi>? Sed quos iste posthabuit, hos vir cognomento
+exercitationis praeditus quaesivit mereri. Nonne tibi
+videtur Esau tamquam in agone victus, et propriae
+mentis infirmitate imparem se existimans cessisse
+victori coronam, quem videbat nullis passionum illecebris
+inflecti, quarum ipse pulverem sustinere non
+poterat? <hi>Ut quid mihi,</hi> inquit, <hi>primatus?</hi> Apud ignavos
+enim nulla sunt insignia virtutis, apud sapientes
+prima habentur; studia enim virtutis quaedam instrumenta
+sunt. Itaque sicut bellator sine armis esse
+non potest, ita nec sine exercitatione virtus. Unde
+et Dominus in Evangelio ait: <hi>A diebus Joannis Baptistae
+regnum coelorum cogitur, et cogentes diripiunt
+illud <note>(Matth. XI, 12)</note>
+            </hi>. Et alibi: <hi>Quaerite regnum Dei,
+<pb n="0322B"/>
+et ecce omnia praesto sunt vobis <note>(Matth. VI, 33)</note>
+            </hi>. Non
+dormientibus, neque otiantibus, sed vigilantibus et
+laborantibus pollicentur praemia: et labori merces
+parata est, qui licet non sit suavis ad gratiam, tamen
+fructuosus ad praemium est.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Docet hoc sermo legis, sicut scriptum invenimus: <hi>Si fuerint,</hi> 
+ inquit, <hi>uni homini duae uxores, una
+earum dilecta, et altera odibilis, et pepererint ei ambae
+filios dilecta et odibilis, et primitivus fuerit filius mulieris
+odibilis; qua die haeredes reliquerit filios in substantia
+sua, non poterit primatum dare filio mulieris dilectae,
+omittens filium odibilis:</hi> <emph>189</emph> <hi>sed primitivum filium
+odibilis cognoscet dare illi dotem ex omnibus quae inveniuntur
+ei; quia ipse initium filiorum ejus est, et ipsi
+debentur primitiae <note>(Deut. XXI, 15 et seq.)</note>
+            </hi>. Quam profunda
+latent mysteriorum secreta in litteris! Recognosce,
+<pb n="0322C"/>
+anima, partus tuos, et odibilis istius mulieris
+quaere mysterium. Intra te ea invenies, si requiras.
+Repete cogitationes, relege sensus tuos, et cui primitiae
+debeantur, agnosces. Duae enim mulieres unicuique
+nostrum cohabitant, inimicitiis ac discordiis
+dissidentes, velut quibusdam zelotypiae contentionibus
+nostrae replentes animae domum. Una earum nobis
+suavitati et amori est, blanda conciliatrix gratiae,
+quae vocatur voluptas. Hanc nobis opinamur sociam
+ac domesticam: illam alteram immitem, asperam,
+feram credimus, cui nomen virtus est.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Illa igitur meretricio procax motu, infracto per
+delicias incessu, nutantibus oculis, et ludentibus jaculans
+palpebris retia, quibus pretiosas juvenum animas
+capit (oculus enim meretricis <note>(Prov. VII, 10 et seq.)</note> 
+<pb n="0322D"/>
+laqueus peccatoris), quemcumque viderit dubio sensu
+praetereuntem in angulo transitus domus suae sermonibus
+adoritur gratiosis, faciens juvenum volare
+corda, domi inquieta, in plateis vaga, osculis prodiga,
+pudore vilis, amictu dives, genas picta. Etenim quia
+verum decorem naturae habere non potest, adulterinis
+fucis affectatae pulchritudinis lenocinatur speciem,
+non veritatem. Vitiorum succincta comitatu et quodam
+nequitiarum choro circumfusa, dux criminum,
+talibus verborum machinis murum mentis aggreditur
+<pb n="0323A"/>
+humanae: <hi>Sacrificium pacis est mihi, hodie reddo vota
+mea: hac ex causa progressa sum obviam tibi, desiderans
+faciem tuam invenire. Institis texui lectum meum,
+et tapetis ab Aegypto stravi. Aspersi lectum meum croco,
+domum autem meam cinnamomo. Veni, fruamur amicitia
+usque in diluculum: veni, et colluctemur cupidine <note>(Prov. VII, 14 et seq.)</note>
+            </hi>.
+Hanc enim per os Salomonis
+speciem fornicariae videmus expressam. Nam quid
+tam meretricium, quam saecularis voluptas quae a fenestra
+domus suae intrat, oculis prima tentamenta praeludens;
+et penetrat cito si tu in plateam prospiciens,
+id est, in publicas transeuntium vias, non in legis
+interna mysteria obtutum tuae mentis intendas. Ea
+profecto est quae validioribus vinculis velut cubile
+quoddam consociatae nobis communitatis intexit, ut
+<pb n="0323B"/>
+qui reclinaverit se, ligetur; et opprobriosae fraudis
+velamine operit corporis sui stratum, ad sollicitandos
+juvenum animos absentiam viri, hoc est, incuriam
+legis obtexens. Lex enim absens peccantibus est, nam
+si adesset, non delinqueretur; et ideo ait: <hi>Non
+enim adest vir meus in domo: abiit autem viam longissimam
+involucro pecuniae accepto in manu <note>(Ibid., 19,
+20)</note>
+            </hi>. Quid hoc esse dicam, nisi forte quia divites putant
+nihil esse quod non cedat suae pecuniae, et in
+gratiam sui legem velint esse venalem? Spargit odores
+suos voluptas, quia Christi odorem non habet,
+thesauros demonstrat, regna <emph>190</emph> promittit, amores
+spondet continuos, inexploratos concubitus pollicetur,
+sine paedagogo disciplinas, sine monitore sermones,
+vitam sine sollicitudine, mollem somnum, inexplebilem
+<pb n="0323C"/>
+cupiditatem. <hi>Seducens,</hi> inquit, <hi>eum multo blandimento
+sermonum, et laqueis labiorum suorum alligans,
+domum adusque attraxit. At ille secutus eam circumvenitur <note>(Ibid., 21)</note>
+            </hi>.
+Nitebat aula regio luxu splendida
+caelatis parietibus, et humida natabant pavimenta
+vino. Flagrabat unguento humus, spinis cooperta
+piscium, et marcentibus jam floribus lubrica.
+Illic comessantium tumultus, concertantium clamor,
+litigantium caedes, concentus coenantium, saltantium
+strepitus, ridentium cachinnus, lascivientium
+plausus, confusa omnia, nihil naturae ordine. Saltatrices
+tonsae, et crispantes pueri coma, epulantium
+cruditas, edentium ructus, ebriorum sitis, hesterna
+crapula, hodierna temulentia, repleta vomitu bibentium
+pocula majore odore ebrietatis, quam si recentia
+<pb n="0323D"/>
+tantum vina flagrarent. Ipsa in medio stans: Bibite,
+inquit, et inebriamini, ut cadat unusquisque, et
+non resurgat. Ille apud me primus, qui omnium perditissimus.
+Ille meus est, qui suus non est. Ille mihi
+gratior, qui sibi nequior. Calix aureus Babylonis in
+manu mea inebrians omnem terram, a vino meo biberunt
+omnes gentes. Qui est ergo insipientior divertat
+ad me, et indigentibus sapientia praecipio dicens: <hi>Panibus
+absconditis suaviter utimini, et aquam furtim dulciorem
+<pb n="0324A"/>
+bibite. Manducemus et bibamus; cras enim
+moriemur. Transiet vita nostra tamquam vestigia nubis,
+et tamquam nebula dissipabitur <note>(Prov. IX, 17)</note>
+            </hi>. <hi>Venite
+ergo, fruamur bonis quae sunt, et utamur creatura tamquam
+in juventute celeriter. Vino pretioso et unguentis
+nos impleamus, et non praetereat nos flos temporis. Coronemus
+nos rosis antequam marcescant. Nullum pratum
+sit quod non pertranseat luxuria nostra: ubique
+relinquamus signa laetitiae <note>(Sap. II, 8 et seq.)</note>
+            </hi>. Haec omnia
+relinquuntur, nihil secum quis feret, nisi quod
+corporis voluptate perceperit. Denique ego istam institui
+Philosophiam; nec est alia verior, nisi ea quae
+bonum asserit quod suave atque jucundum sit. Ergo
+vel Philosophiae vel sapientiae Salomonis credite.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Sollicitato a voluptate virtus saniora consulit; quomodo
+diabolicis tentationibus resistendum, et a quo etiam
+temporalia expetenda, quamque illa improbis noxia
+sint, docet; invitat ad convivium sapientiae, et quid
+ejus ebrietas a vinolentia discrepet, aperit; ac tandem
+avaritiae mala declarat.</hi> 
+<pb n="0324B"/>
+          </p>
+<div3>
+            <head>15.</head>
+            <p>
+ His auditis, velut cervus sagittatus in jecore
+haeret saucius. Quem miserans virtus, et casurum
+cito videns, improviso occurrit, verita ne inter moras
+illecebris demulcentibus mens capiatur humana.
+Palam, inquit, apparui tibi non quaerenti me. Ne fallat
+imprudentem, et circumveniat te mulier effrenata
+et <emph>191</emph> luxuriosa quae non novit pudorem: sedet in
+foribus domus in sella, palam in plateis advocans
+<pb n="0324C"/>
+praetereuntes <note>(Prov. IX, 14 et 15)</note>. <hi>Nunc igitur, fili,
+audi me, intende verbis oris mei. Non declinet in vias
+ejus cor tuum. Multos enim vulnerando dejecit, et sunt
+innumerabiles quos trucidavit. Viae inferorum domus ejus,
+deducentes in secessum mortis <note>(Prov. VII, 24 et seq.)</note>
+            </hi>. <hi>Aufer igitur tibi pravum os et injusta labia longe a te
+propelle. Oculi tui recta videant 
+ <note>(Prov. IV, 24 et 25)</note>
+            </hi>: <hi>noli intendere fallaci mulieri 
+ <note>(Prov. V, 2)</note>
+            </hi>. Mella enim
+distillabunt a labiis mulieris fornicariae, quae ad tempus
+impinguat fauces tuas, postea vero amariorem
+felle invenies. Dies me citius defecerit quam vitia
+ejus exponam, quae tamen in Proverbiis ore sapientiae
+descripta atque expressa sunt <note>(Prov. VI, 24 et
+seq.)</note>. Non te vincat formae concupiscentia. Adulterina
+est, fucis illita, nequaquam vero ac sincero fulgens
+<pb n="0324D"/>
+decore. Neque capiaris oculis; circumfusa enim retia
+sunt <note>(Cant. II, 8 et 9)</note>. Esto magis similis illius et sequere
+eum qui salit super montes, et transilit super
+colles, prospiciens per fenestras, eminens super retia.
+Mala sunt voluptatis vincula. Oculos delectat, demulcet
+aures, sed mentem inquinat: multa mentitur,
+falsa adjungit, vera subducit, spondet pecuniam, aurum
+offert; sed aufert disciplinam <note>(Prov. VIII, 10)</note>.
+Tu autem accipe potius disciplinam, quam pecuniam,
+<pb n="0325A"/>
+et scientiam super aurum probatum. Melior est enim
+lapidibus pretiosis <note>(Prov. III, 10 et seq)</note>. Non te celabo
+quae summa ejus feruntur, ne videar deoperire quae
+displiceant in voluptate, et obumbrare quae placeant.
+Elevat enim et extollit mentem suasoriis verbis, ostendit
+omnia regna terrae, dicens: haec omnia tibi
+dabo, si procidens adoraveris me. Ibi tu cave ne
+rapiaris a praeterlabentibus et non manentibus, in
+quibus magna tentatio est.</p>
+          </div3>
+<div3>
+            <head>16.</head>
+            <p>
+ Docuit te certe Dominus Jesus quemadmodum
+adversus hujusmodi tentationes resistas. Tetenderat
+diabolus primum laqueum gulae dicens: <hi>Si filius Dei
+es, dic huic lapidi, ut panis fiat <note>(Matth. IV, 3 et 4)</note>
+            </hi>.
+Respondit Dominus: <hi>Non in pane solo vivit homo,
+sed in omni verbo Dei.</hi> Laqueum solvit hoc dicto. Posuit
+<pb n="0325B"/>
+iterum diabolus secundum jactantiae laqueum, qui
+etiam bonam mentem prosperis currentem semitis solet
+strangulare: <hi>Et duxit illum,</hi> inquit, <hi>in Hierusalem,
+et statuit eum super pinnam templi, et dixit illi: Si Filius
+Dei es, mitte te hinc. Scriptum est enim quod angelis
+suis mandavit de te, ut conservent te, quia in manibus
+tollent te, ne forte offendas ad lapidem pedem
+tuum <note>(Ibid. 5 et 6)</note>
+            </hi>. Itaque cum posset sine ullo periculo
+mittere se Dominus Jesus, cui suppeterent
+spiritales volatus; tamen ne jactantiae genus esset,
+respondit diabolo: <hi>Non tentabis Dominum Deum tuum <note>(Ibid., 7)</note>
+            </hi>.
+Simul docuit nos cavere ne faciamus voluntatem
+diaboli. Si ergo vere jactantia declinanda
+est, quanto magis nemo debet falsa jactare pro veris?
+Tertius superest laqueus avaritiae atque ambitionis.
+Ostendit in monte posito omnia regna orbis terrae in
+<pb n="0325C"/>
+momento temporis <note>(Ibid., 8, et seq.)</note>. Bene in momento,
+quia diuturna esse nequeunt. Paululum exspecta, et
+cito transeunt. Itaque qui sequuntur ea, in monte sibi
+esse videntur: sed non sunt perpetui, sicut habes
+scriptum: <hi>Vidi impium superexaltatum et</hi> <emph>192</emph> <hi>elevatum
+super cedros Libani, et transivi, et ecce non erat <note>(Ps. XXXVI, 35)</note>
+            </hi>.
+Sed qui ea maximi facit, adorare videtur
+diabolum, cujus Deus venter est, et in pudendis
+gloria. Tu autem in Deo gloriam quaere, qui tibi
+ait: <hi>Dominum Deum tuum adorabis, et illi soli servies <note>(Matth. IV, 10)</note>
+            </hi>,
+a quo aeterna accipias, non temporalia.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Tamen si quem etiam ista delectent, ab eo moderatius
+petantur qui verus omnium fons est. Nam
+et ipsa peculiaria quae possidere sibi videtur diabolus,
+<pb n="0325D"/>
+aliena sunt, sicut ipse dixit: <hi>Tibi dabo potestatem
+hanc universam et gloriam eorum, quia mihi tradita
+sunt <note>(Ibid., 9)</note>
+            </hi>. Ab eo ergo spera, licet brevis vitae
+non sit longum viaticum requirendum; tamen ab eo
+spera qui universam creaturam condidit, qui diabolo
+ea ad tempus tradidit, non ut possideat, sed ut tentet.
+Non enim poterat corona esse sine certamine. Probandi
+erant dubii, ut justi coronarentur.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Dedit itaque diabolo ea, quia in his ipsis poena
+<pb n="0326A"/>
+accipientis est, si uti nesciat. Quid est enim thesaurus
+luxurioso, nisi sumptus luxuriae? Unde non luxuriosus,
+sed frugi probatur. Et ideo utere quasi frugi iis
+quae tibi apponuntur, ut non cum manducas multum,
+odibilis fias: <hi>Vigiliae</hi> enim <hi>et tormenta viro edaci <note>(Eccli.
+XXXI, 23)</note>
+            </hi>. Et infra: <hi>Si coactus fueris in edendo,
+surge et vome, et refrigerabit te, et non adduces corpori
+tuo infirmitatem <note>(Ibid., 25)</note>
+            </hi>. Plurimos itaque gula sua
+occidit, nullum frugalitas: innumeris vina nocuerunt,
+nulli parcimonia. Plerique inter epulas fudere animas,
+et mensas proprio replevere sanguine. Aliis
+cruditas vocem simul rapuit et sensum: et si aliquibus
+cruditas noxia non fuit, his ruinam fecit ebrietas.
+Alios enim in crimen egit ebrietas; etsi ipsa
+crimen sit, alios ad egestatem redegit. Postremo audi
+<pb n="0326B"/>
+quos Christus excludat: <hi>Cum intraverit,</hi> inquit, <hi>paterfamilias,
+et clauserit ostium, incipietis foris stare,
+et pulsare ostium dicentes: Aperi nobis. Et respondens
+dicet: Nescio vos unde estis, recedite a me, omnes operarii
+iniquitatis. Tunc incipietis dicere: Manducavimus
+coram te, et bibimus, et in plateis nostris docuisti.
+Et dicet vobis: Nescio unde estis <note>(Luc. XIII, 25 et seq.)</note>
+            </hi>.
+Audisti quid de manducantibus dixerit. Audi nunc
+quid de jejunantibus dicat: <hi>Beati qui nunc esuriunt
+et sitiunt, quia saturabuntur <note>(Luc. VI, 21)</note>
+            </hi>. Et infra; <hi>Vae vobis qui saturati estis, quoniam esurietis 
+ <note>(Ibid.,
+25)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Sed vis manducare, vis bibere? Veni ad convivium
+sapientiae quae invitat omnes cum magna praedicatione
+dicens: <hi>Venite et edite panes meos, et bibite
+vinum quod miscui vobis <note>(Prov. IX, 5)</note>
+            </hi>. Delectant cantica
+<pb n="0326C"/>
+quae epulantem demulceant? Audi hortantem,
+audi cantantem Ecclesiam, non solum in canticis, sed
+etiam in Canticis canticorum: <hi>Manducate, proximi
+mei, et bibite, et inebriamini, patres mei <note>(Cant. V, 1)</note>
+            </hi>.
+Sed haec ebrietas sobrios facit; haec ebrietas gratiae,
+non temulentiae est. Laetitiam generat, non titubantiam.
+Nec verearis ne in convivio Ecclesiae aut grati
+odores tibi, aut dulces cibi, aut diversi potus, aut
+convivae nobiles desint, aut decentes ministri. Quid
+Christo nobilius, qui in convivio Ecclesiae et ministrat
+et ministratur? Istius convivae recumbentis annecte <emph>193</emph> 
+ te lateri, ac te Deo conjunge; non fastidias
+mensam quam Christus elegit dicens: <hi>Introivi in
+hortum meum, soror mea sponsa, vindemiavi myrrham
+<pb n="0326D"/>
+cum aromatibus meis: manducavi panem meum cum
+melle meo, et bibi vinum cum lacte meo <note>(Ibid.)</note>
+            </hi>. In
+horto, hoc est, in paradiso est convivium Ecclesiae,
+ubi erat prius Adam, quam peccatum committeret.
+Ibi recumbebat Eva priusquam culpam crearet et
+pareret. Ibi vindemiabis myrrham, hoc est, Christi
+sepulturam; ut consepultus cum illo per baptismum
+in mortem, quemadmodum ille surrexit ex mortuis,
+et tu resurgas. Ibi manducabis panem qui confirmat
+<pb n="0327A"/>
+cor hominis. Mel gustabis, quo tuorum dulcescat
+meatus faucium. Vinum bibes cum lacte, hoc est,
+cum splendore et sinceritate: sive quod pura simplicitas
+sit; sive quod immaculata gratia, quae in remissionem
+sumitur peccatorum; sive quod parvulos
+consolationis suae lactet uberibus, ut ablactati in deliciis,
+in plenitudinem perfectae aetatis adolescant.
+Succede ergo in hoc convivium. An metuis ne angustior
+domus et brevis convivii locus te comprimat?
+O Israel, quam magna est domus Domini, et ingens
+locus possessionis ejus! Magnus, et non habet finem,
+altus, et immensus <note>(Baruch. III, 24)</note>. Ibi fuerunt
+gigantes illi, qui ab initio fuerunt statura magna
+scientes praelium. Non hos elegit Dominus. Et merito
+non elegit, quia praelium, non pacem sciebant.
+Et ideo tu pacem disce, ut eligaris a Deo. Sed ne
+<pb n="0327B"/>
+forte incomptam domus magnitudinem putes, et diversoria
+te columnata delectent: sapientia aedificavit
+sibi domum, et fulsit columnas septem. Ipse etiam
+Dominus Jesus multas mansiones apud Patrem suum
+esse commemorat <note>(Joan. XIV, 2)</note>. In hac ergo domo
+epulaberis animae cibos, potusque mentis; ut postea
+non esurias, neque sitias umquam. Qui enim manducat,
+manducat usque ad satietatem; et qui bibit,
+usque ad ebrietatem bibit.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Sed haec ebrietas pudicitiae custos est: illa
+vini ebrietas fomes libidinis, quo per carnes vaporantur
+interna viscera, animus ignescit, anima exuritur.
+Saevus criminum stimulus libido est, quae
+numquam manere quietum patitur affectum. Nocte
+fervet, die anhelat, de sommo excitat, a negotio abducit,
+<pb n="0327C"/>
+a ratione revocat, aufert consilium, amantes
+inquietat, lapsos inclinat, castis insidiatur, potiendo
+inflammat, usuque accenditur. Nullus peccandi modus,
+et inexplebilis scelerum sitis, nisi morte amantis
+exstingui non potest. Et ideo ait Apostolus: <hi>Fugite
+fornicationem <note>(I Cor. VI, 18)</note>
+            </hi>; ut veloci fuga tamquam
+furiosae dominae declinare saevitiam, et tetro servitio
+exire possimus.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Nam quid de avaritia dicam, insatiabili pecuniae
+cupiditate, et quadam aeris libidine, quae quo
+plura abstulerit, eo magis inopem esse se credit?
+Omnibus invida, sibi vilis, in summis divitiis inops,
+affectu extenuat quod censu abundat. Nullus rapiendi
+modus, ubi nulla mensura cupiendi. Sic inflammat
+<pb n="0327D"/>
+animum, sic igne suo pascit eum, ut hoc loco distet,
+quod illa formarum adultera sit, ista terrarum. Elementa
+concutit, mare sulcat, terram effodit, coelum
+votis fatigat, nec sereno grata nec nubilo, <emph>194</emph> condemnat
+proventus annuos, fetusque terrarum arguit.
+Sed haec aegritudo est animae, non sanitas. Denique
+Ecclesiastes dicit: <hi>Est languor malus quem vidi sub
+sole, divitias custodiri in malum possidentis eas <note>(Eccle.
+V, 12)</note>
+            </hi>. Et supra: <hi>Qui diligit argentum, non satiabitur
+argento <note>(Ibid., 9)</note>
+            </hi>. Et: <hi>Nec est finis acquisitionis eorum <note>(Baruc. III, 18)</note>
+            </hi>.
+Si quaeris thesauros, accipe invisibiles
+et occultos quos in coeli altissimis, non quos in
+<pb n="0328A"/>
+terrarum venis requiras. Esto pauper spiritu, et eris
+dives qualicumque censu; quia non in abundantia
+divitiarum vita est hominis, sed in virtute ac fide.
+Istae te divitiae verum divitem facient, si sis in Deum
+dives.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Virtutem studio et labore comparari. Hoc Jacobi qui
+primatum in fratrem adeptus est, probatur exemplo;
+et mystica de Abraham, Moyse, ac iisdem duobus
+fratribus exponuntur.</hi> </p>
+<div3>
+            <head>22.</head>
+            <p>
+ Audisti voluptatis mysteria, audisti etiam copiarum
+nostrarum munera, quas ego non supellectili
+operiendas, sed Scripturae nudis sermonibus demonstrandas
+putavi; ut sua ipsa luce fulgerent, et ex se
+ipsae vocem emitterent sui invicem. Neque enim sol
+<pb n="0328B"/>
+et luna interprete indigent. Habent interpretem fulgorem
+sui luminis, quo totus repletus orbis est. Illis
+illuminatio est fides sine indice, quaedam, ut ita
+dicam, intestata testis quae alieno non indiget testimonio,
+ut subito se universorum oculis effundit. Non
+ergo nuntiantur opera nostra, sed clamant, et se
+ipsa nuntiant. Sane ut et hoc quod laboriosum in
+nostris ducitur, non praeteream, fides exigitur, studium
+desideratur, facta quaeruntur. His enim tribus
+Dominus Jesus devotionis humanae officia definivit
+dicens: <hi>Petite, et dabitur vobis: quaerite, et invenietis: pulsate, et aperietur vobis <note>(Matth. VII, 7)</note>
+            </hi>. Et infra: <hi>Omnis ergo qui audit verba mea haec, et facit ea, similis
+est viro sapienti 
+ <note>(Ibid., 24)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Haec qui studiose fuerit prosecutus, primatus
+<pb n="0328C"/>
+benedictionis accipiet, sicut patriarcha Jacob qui
+continentia et fide humanarum supplantavit vestigia
+passionum. Iste ait: <hi>Misericordiam mei habuit Deus,
+et sunt mihi omnia <note>(Gen. XXXIII, 11)</note>
+            </hi>. Hanc itaque
+misericordiam nos fide, studio, operibusque mereamur,
+quibus disciplinis invenit Israel gratiam Dei, et
+per ipsam omnia. Non enim mundi hujus copias, sed
+virtutum disciplinas sibi suppetere gaudebat. Has
+nobis substituamus haeredes, quas sanctus Abraham
+in Isaac filio suo substituit sibi, omnem operum suorum
+deputans haereditatem sapienti et justo viro, nec
+ullum jus haereditarium ancillis vel ancillarum filiis
+derelinquens, sed tantummodo donationis munera.
+Perfectae enim virtutes totum accipiunt gloriae patrimonium,
+<pb n="0328D"/>
+usitatis et mediocribus vile aliquid aspergitur.
+Et ideo Agar quae advena Latine dicitur atque
+accola, et Cethura quae odorifera significatur, haeredes
+non sunt. Qui enim mediis utitur disciplinis,
+accola, non inhabitator est sapientiae. Odore aspersus,
+non fructu expletur. Sanitatem autem cibus,
+non odor invehit, quia odor fructuum nuntius est.
+Principales itaque disciplinas sequentibus, et <emph>195</emph> 
+indigenas accolis agnoscimus praeferendas.</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Hoc secundum ingenium. At vero secundum
+mysterium Abraham pater gentium semini suo legitimo,
+quod est Christus, haereditatem omnem fidei
+<pb n="0329A"/>
+suae detulit, qui in hac terra velut advena fuit; ut
+vitae hujus odorem magis quam fructum referret.
+Haec cum audit mens, avertit se a voluptate, virtutique
+adjungit, veri decoris admirans gratiam, purum
+affectum, simplicem sententiam, mediocrem
+vestem, hoc est, non in persuasione sermonis, sed
+in ostensione Spiritus <note>(I Cor. II, 4)</note>, qualis est apostolicae
+forma sententiae, amictum sapientiae atque
+pietatis omni pretiosiorem auro refulgens, tunc
+chorum prudentiae, temperantiae, fortitudinis, ac
+justitiae suscipiens quae flagrabant odorem disciplinarum,
+incutiens reverentiam, infundens gratiam.
+Itaque talibus mota elegit studia virtutis, quibus
+Jacob vir plenus exercitationis mentem intendit
+suam. Et ideo ovium pastor inducitur <hi>(Gen. XXX, 31
+<pb n="0329B"/>
+et seq.)</hi>; eo quod imperitare corpori et sensibus ejus
+ac voluptatibus, votique modum tenere, ne velut
+ovis vagetur incerta, praestantius aestimatur, quam
+regere populos, vel praeesse urbibus. Difficilius enim
+quispiam se, quam alterum regit. Animum vincere,
+iracundiam cohibere, compugnantesque leges carnis
+et mentis in unum cogere immortalis cujusdam est
+viri quem inferni porta non ceperit. Denique ipse
+sibi Legislator vindicavit hoc munus; ut oves pasceret
+Jetro <note>(Exod. III, 1)</note>, qui dicitur superfluus, et
+ageret in desertum: eo quod irrationabilem et superflui
+vulgarisque sermonis loquacitatem indiscreta
+quaedam sobriae doctrinae coegit mysteria. Ideoque
+Aegyptiis abominationi erant pastores ovium. Omnes
+enim qui corporis dediti passionibus hujusmodi, et
+<pb n="0329C"/>
+voluptatibus indulgent suis, disceptatorem verbi,
+doctoremque virtutis quadam exsecratione declinant.
+Et ideo per aenigmata haec docuit Moyses <note>(Gen. IV, 4)</note> 
+apta Deo esse sacrificia, quae refugit omnis insipiens,
+hoc est, opera et praecepta virtutis. Ideoque pastor
+Abel, Cain autem operator terrae legitur, qui in
+fratre suo vir insipiens formam speciemque virtutis
+expressam ferre non potuit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Indicato duplici defectu sacrificii Cain, ostendit tria
+vitia in nostris oblationibus obrepere posse; nec non
+divina testimonia quibus eadem vitia proscribuntur,
+adducit.</hi> </p>
+<div3>
+            <head>25.</head>
+            <p>
+ <hi>Et factum est, post dies obtulit Cain ex fructibus
+<pb n="0329D"/>
+terrae munus Domino <note>(Gen. IV, 3)</note>
+            </hi>. Duplex culpa:
+una quod post dies obtulit, altera quod ex fructibus,
+non ex primis fructibus. Sacrificium autem et celeritate
+commendatur et gratia. Unde praeceptum est: <hi>Si
+voveris votum, non facias moram reddere illud. Melius
+est enim non vovere votum, quam vovere, et non reddere <note>(Eccle. V, 3, 4)</note>
+            </hi>.
+Cum enim moram facis, non
+reddis. Votum est autem postulatio bonorum a Deo
+cum solvendi muneris promissione. Et ideo cum impetraveris
+quod petisti, ingrati est tardare promissum.
+Sed interdum aut negligentibus irrepit oblivio
+impetratorum, aut tumidis et elatis. Arrogare eventus <emph>196</emph> 
+ sibi hebetis cordis est, et bonum quod
+agit vel quod a Deo consequitur, propriis virtutibus
+<pb n="0330A"/>
+vindicare, nec auctoris deputare gratiae, sed ipsum se
+suorum bonorum auctorem ducere. Tertium genus
+est peccati quidem minoris, sed supparis arrogantiae
+eorum scilicet qui datorem bonorum Deum non negant:
+sed quae acciderint, ea sibi propter prudentiam
+suam, caeterarumque merita virtutum jure delata
+arbitrantur. Propterea etiam divina dignos habitos
+gratia, quod nequaquam viderentur indigni quibus
+talia divinis beneficiis provenirent.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Ne quid ergo hujusmodi accidat, unde votum
+tuum tibi in peccatum fiat, lex te informavit atque
+instruxit, dicente Domino qui legem dedit: <hi>Attende
+tibi, ne obliviscaris beneficia Domini Dei tui, et non
+custodias mandata et judicia, et justitias illius quae ego
+praecipio tibi hodie; ne cum manducaveris, et repletus
+<pb n="0330B"/>
+fueris, et cum domos bonas aedificaveris, et habitare
+coeperis in eis, et oves tuae et boves tui cum repleti fuerint,
+et cum aere, argento et auro completus fueris, et
+omnia possidere coeperis, et plena fuerint horrea tua,
+exaltes cor tuum, et obliviscaris Dominum Deum tuum <note>(Deut. VIII, 11 et seq.)</note>
+            </hi>.
+Tunc ergo oblivisceris Dominum,
+cum oblitus fueris tui. Si autem cognoscas
+infirmum te esse, cognosces Deum esse supra omnia,
+et immemor esse non poteris, ut ei reverentiam debitam
+solvas.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Disce nunc quemadmodum unusquisque moneatur,
+ne se ipse auctorem suorum putet bonorum. <hi>Ne dicas,</hi> 
+ inquit, <hi>in corde tuo: Virtus mea et potentia
+mea fecit mihi virtutem hanc magnam: sed in mente
+tua habebis Dominum Deum tuum; quoniam ipse dat
+<pb n="0330C"/>
+vires, ut facias virtutes <note>(Ibid. 17 et 18)</note>
+            </hi>. Unde bene
+Apostolus <note>(I Cor. XV, 9)</note> quasi legis interpres non
+gloriabatur in virtute sua: sed minimum Apostolorum
+se esse dicebat, et quidquid esset, gratiae divinae
+esse non meriti sui, nihilque nos hahere quod
+non acceperimus. <hi>Quid enim,</hi> inquit, <hi>habes quod
+non accepisti? Si autem accepisti, quid gloriaris quasi
+non acceperis <note>(I Cor. IV, 7)</note>
+            </hi>? Didicisti ergo humilitatem
+magis sequi, quam arrogantiam; sedulitatem
+affectare, quam potestatem. Accepisti salutaria praecepta,
+noli negligere utilia instrumenta medicinae,
+quibus fibra omnis lethalis vulneris exsecatur.</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ Ille quoque qui se justificat, ne infletur cordis
+sui tumore; et ipse accepit salubre mandatum, in
+hujusmodi sententiam resultante oraculo: <hi>Ne dicas
+<pb n="0330D"/>
+in corde tuo, cum consumere coeperit Dominus Deus
+tuus gentes illas a conspectu tuo, dicens: Propter justitiam
+meam induxit me Dominus possidere terram
+istam: sed propter iniquitates gentium istarum exstirpavit
+illos Dominus a facie tua <note>(Deut. IX, 4 et 5)</note>
+            </hi>.
+Non propter justitiam tuam, non propter bonitatem
+tuam, nec propter aequitatem cordis tui intras possidere
+terram istam: sed propter iniquitatem gentium
+disperdet eos Dominus a conspectu tuo, et
+restituet Testamentum tuum quod juravit patribus
+vestris. Testamentum perfecta Dei gratia est; nihil
+enim imperfectum dat Deus: perfecta autem virtus
+est, et opera virtutis. Testamentum autem dicitur,
+quo defertur bonorum haereditas. Merito et testamentum
+<pb n="0331A"/>
+dicitur, et divinum, cum ea quae vere bona
+sunt, attestatione mandatorum coelestium conferuntur.
+Et Testamentum <emph>197</emph> dicitur, quoniam sanguine
+dedicatum est: vetus in typo, novum in veritate.
+Quo Testamento divinae gratiae pignus tenemus;
+quia sic dilexit Deus hunc mundum, ut unigenitum
+Filium suum pro nobis omnibus daret. Unde perfectionem
+gratiae praedicans Apostolus ait: <hi>Quomodo
+non etiam cum illo omnia nobis donavit <note>(Rom.
+VIII, 32)</note>
+            </hi>?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Exemplo sacrificii Abraham qualitates queis Deo grata
+fit oblatio, exprimuntur, nempe celeritas, continuatio
+et fides. Celeritatem Deus in utroque Testamento
+praecipit; quam et ipse exhibet, cum non tantum cito
+largiatur, sed etiam nos praeveniat.</hi> 
+<pb n="0331B"/>
+          </p>
+<div3>
+            <head>29.</head>
+            <p>
+ Prima igitur voti gratia est celeritas solutionis.
+Denique Abraham filium suum ad holocaustum
+jussus offerre, non post dies, ut Cain obtulit: sed <hi>exsurgens mane stravit asinam suam, et adhibuit secum
+duos pueros, et Isaac filium suum; et concidens ligna
+ad holocaustum, surgens abiit, et venit ad locum quem
+dixerat ei Deus, die tertia 
+ <note>(Gen. XXII, 3)</note>
+            </hi>. Primo adverte
+immolaturi studium maturum atque festinum;
+ut mora exspectationis non esset, nisi donec audiretur
+oraculum: deinde ut sterneret asinam suam, obsequium
+omne ipse susciperet, et sacrificio necessaria
+praepararet, duabus quoque fide et spe virtutibus
+comitantibus, hostiam suam duceret, de potestate
+<pb n="0331C"/>
+Dei certus, et de bonitate securus.</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Quod autem ait, <hi>die tertia;</hi> vel quod continua
+esse debeat et perpetua devotio. Tripartitum est
+enim tempus, praeteritum, praesens et futurum. Quo
+admonemur quod nec praeteritorum beneficiorum
+Dei, vel praesentium, vel futurorum irrepere debeat
+ulla oblivio, sed tenax gratiae memoria perseverare,
+et obedientia non deesse. Vel quia is qui sacrificat,
+in unum splendorem, in unam lucem debeat credere
+Trinitatis. Ei enim qui fideliter sacrificat,
+dies lucet, nox nulla est. Sic et in Exodo Moyses ait: <hi>Viam trium dierum ibimus, et immolabimus Domino
+Deo nostro 
+ <note>(Exod. III, 18)</note>
+            </hi>. Sed etiam alibi cum visus
+esset Deus Abrahae ad ilicem Mambre: <hi>Respiciens,</hi> 
+inquit, <hi>Abraham oculis suis vidit, et ecce tres
+viri stabant super eum. Et videns occurrit obviam illis
+<pb n="0331D"/>
+ad ostium tabernaculi sui, et adoravit super terram, et
+dixit: Domine, si inveni gratiam ante te <note>(Gen. XVIII, 2
+et 3)</note>
+            </hi>. Tres videt, unum adorat. Tres mensuras offert
+similaginis <note>(Ibid., 6)</note>. Nam etsi immensus Deus,
+tamen mensuram omnium tenet, sicut scriptum est: <hi>Quis mensus est manu aquam, et coelum palmo, et universam
+terram clausa manu 
+ <note>(Esai. XL, 12)</note>
+            </hi>? Perfectae
+<pb n="0332A"/>
+igitur in personis singulis Trinitati, interiore mentis
+arcano, hoc est, similaginis spiritalis sanctus Patriarcha
+sacrificium deferebat. Haec est similago,
+quam in Evangelio molet mulier illa, quae assumetur: <hi>Una</hi> 
+ enim, inquit, <hi>assumetur, altera relinquetur <note>(Matth. XXIV, 41)</note>
+            </hi>.
+Assumetur Ecclesia, relinquetur
+Synagoga. Vel mens bona assumitur, improba derelinquitur. <emph>198</emph> 
+ Ut scias autem quia et Abraham in
+Christum credidit: <hi>Abraham,</hi> inquit, <hi>diem meum vidit,
+et gavisus est <note>(Joan. VIII, 56)</note>
+            </hi>. Et qui credit in
+Christum, credit et in Patrem. Et qui perfecte credit
+in Patrem, credit in Filium et Spiritum sanctum.
+Tres ergo mensurae, una similago, hoc est, unum
+erat sacrificium quod venerabili Trinitati, pari quadam
+mensura devotionis, et congrua plenitudine pietatis
+<pb n="0332B"/>
+oblatum est.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Adhuc cognosce celeris studia devotionis: <hi>Cucurrit,</hi> 
+ inquit, <hi>et accepit vitulum unum tenerum et
+bonum, et dedit puero, et festinavit facere eum <note>(Gen.
+XVIII, 7)</note>
+            </hi>. Ubique impigra devotio, et ideo Deo fuit
+munus ejus acceptum. Habes et alibi, ut solis ortum
+oratione praevenias: <hi>Occurre,</hi> inquit, <hi>ad solis ortum <note>(Sap. XVI, 28)</note>
+            </hi>.
+Habes in Evangelio dicentem Dominum
+Jesum: <hi>Zacchaee, festinans descende <note>(Luc. XIX,
+5)</note>
+            </hi>. Et ille quia impetraverat quod volebat, ut Christum
+videret; et amplius impetraverat, ut videretur
+et vocaretur a Christo, festinans descendit, et excepit
+illum gaudens; et ideo probavit Dominus ejus
+affectum, et eum celeri remuneratione donavit dicens: <hi>Quia hodie salus domui huic facta est 
+ <note>(Ibid., 9)</note>
+            </hi>.
+<pb n="0332C"/>
+Festinavit enim et Dominus ad beneficium; et ideo
+non exspectavit, ut promitteret, et postea impleret;
+sed antea fecit, et postea declaravit. Dixit enim: <hi>Facta est salus:</hi> 
+ quod utique praevenientis fuit, non
+promittentis. Justus igitur votum suum celeritate
+commendat. Et patres nostri festinantes manducabant
+pascha, succincti lumbos, et pedes suos calceamentorum
+ induti vinculis, et tamquam corporeum
+onus deponentes, ut essent parati ad transitum;
+pascha enim Domini transitus est a passionibus ad
+exercitia virtutis. Et ideo pascha Domini dicitur;
+quoniam et tunc in typo illo agni veritas Dominicae
+passionis annuntiabatur, et nunc ejus celebratur
+gratia.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Cito ergo hoc quaere anima; ut cito etiam
+audias, sicut audivit et Jacob: <hi>Quid est hoc quod
+<pb n="0332D"/>
+tam cito invenisti, fili <note>(Gen. XXVII, 20)</note>
+            </hi>? Et ille secundum
+dogma respondit: <hi>Quod tradidit Dominus
+Deus tuus in manus meas.</hi> Cito dat Deus; quia dixit,
+et facta sunt: mandavit, et creata sunt. Verbum
+enim Dei non sicut quidam ait, opus est, sed operans,
+sicut habes scriptum: <hi>Pater meus usque modo
+operatur, et ego operor <note>(Joan. V, 17)</note>
+            </hi>. Praevenit omnia;
+<pb n="0333A"/>
+est enim ante omnia sicut Pater, et in omnibus
+sicut idem Pater, penetrans omnia. Validum enim et
+acutum, et omni gladio acutius est, penetrans usque
+ad divisionem animae et spiritus, artuumque et medullarum.
+Praeveniens omnium cogitationes, de quo
+ait Pater Deus: <hi>Jam videbis si comprehendit te Verbum
+meum, aut non <note>(Num. XI, 23)</note>
+            </hi>. Ubi enim Deus,
+et Verbum est, sicut dixit: <hi>Veniemus et mansionem
+apud eum faciemus <note>(Joan. XIV, 23)</note>
+            </hi>. Et sicut habes in
+aliis de Deo lectum: <hi>Ego steti hic priusquam tu <note>(Exod., XVII, 6)</note>
+            </hi>:
+ita et Verbum dicit: <hi>Priusquam
+stares sub arbore fici, vidi te <note>(Joan. I, 48)</note>
+            </hi>. Et de
+ipso dictum est Verbo, hoc est, Filio Dei: <hi>Medius
+autem vestrum stat quem vos nescitis <note>(Ibid., 26)</note>
+            </hi>. Ubicumque
+enim sancti, ibi in eorum medio Dei <emph>199</emph> 
+<pb n="0333B"/>
+Verbum in singulorum praecordiis complens maria
+et terras. Et cum hic est, etiam alibi est; non mutato
+loco, sed repleto utique sui praesentia. Ubique
+enim est, qui per omnia, et in omnibus, nullum locum
+immunem sui relinquens. Et ubi adest, erat:
+et ubi erat, adest. Et ideo qui novit velox esse Verbum
+Dei, cito petit, et cito impetrat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Pharao propter moram in obediendo arguitur. Commendatur
+in oratione humilitas, secretum ac brevitas,
+cum reprehensione verbositatis. Quomodo
+orandi formam Dominus docuerit; ac tandem pro
+quibus praecipue orandum?</hi> </p>
+<div3>
+            <head>33.</head>
+            <p>
+ At vero Pharao qui opinionibus et vanis inanibus
+<pb n="0333C"/>
+studium impendebat suum (ranis repleta Aegypto,
+sonum inanem rerum et strepitum vanum reddentibus)
+dicenti Moysi: <hi>Constitue mihi quando pro te
+orem, et pro famulis tuis, et pro populo tuo, ut exterminet
+Dominus ranas <note>(Exod. VIII, 9)</note>
+            </hi>; cum debuerit
+in tanta positus necessitate rogare, ut jam oraret
+nec differret, respondit: <hi>Crastina die;</hi> otiosus et
+negligens, morae poenam Aegypti soluturus excidio.
+Itaque iste ubi impetrabat, immemor fiebat gratiae;
+et exaltatus mente carnis suae, obliviscebatur Deum.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Humilitas autem commendat orationem. Siquidem
+et Pharisaeus ille reprehensus est qui jejunia
+sua velut beneficia enumerabat, et tamquam
+objectabat Deo, et se criminum memorabat exsortem.
+Publicanus autem praedicatus est, <hi>qui a longe
+<pb n="0333D"/>
+stans nolebat oculos ad coelum levare, sed percutiebat
+pectus suum dicens: Domine Deus, propitius esto mihi
+peccatori <note>(Luc. XVIII, 13)</note>
+            </hi>. Et ideo divina eum sententia
+praetulit dicens: <hi>Quia descendit hic publicanus
+justificatus magis, quam pharisaeus <note>(Ibid., 14)</note>
+            </hi>. Ille
+enim justificatur qui peccatum proprium confitetur,
+sicut locutus est ipse Dominus: <hi>Dic iniquitates tuas,
+ut justificeris <note>(Esai. XLIII, 26)</note>
+            </hi>. Et David ait: <hi>Sacrificium
+<pb n="0334A"/>
+Deo, spiritus contribulatus <note>(Ps. L, 19)</note>
+            </hi>. Et iterum: <hi>Cor contritum et humiliatum Deus non spernit <note>(Ibid.)</note>
+            </hi>.
+Hieremias quoque ait: <hi>Anima in angustiis,
+et spiritus anxiatus clamat ad te <note>(Baruch. III, 1)</note>
+            </hi>. Ergo
+et Pharao <note>(Exod. V, 2)</note>, et rex Assyrius qui dicebat: <hi>Quis deorum gentium istarum liberabit terram
+suam de manu mea; quoniam liberabit Dominus Deus
+tuus Hierusalem de manu mea 
+ <note>(IV Reg. XVIII, 35)</note>
+            </hi>?
+exaltatione sua dejecti sunt. Justus autem, sicut Jacob,
+ad auctorem Deum refert quaecumque fuerit
+bona consecutus, dicens de omnibus quaecumque
+sibi prosperare cognoverit: <hi>Quoniam tradidit ea Dominus
+Deus in manus meas <note>(Gen. XXVII, 20)</note>
+            </hi>. Haec
+igitur melior votorum suorum solutio est, sicut et
+David ait: <hi>Immola Deo sacrificium laudis, et redde
+<pb n="0334B"/>
+Altissimo vota tua <note>(Ps. XLIX, 14)</note>
+            </hi>. Laudare Deum,
+commendare est votum, et solvere. Unde et Samaritanus
+ille aliis antefertur, qui cum leprosis aliis
+novem secundum praeceptum Domini, mundatus a
+lepra, solus regressus ad Christum amplificabat
+Deum, et agebat gratias. De quo Jesus ait: <hi>Non fuit
+ex illis qui rediret, et gratias ageret Deo, nisi hic alienigena . . . . .
+Et ait</hi> <emph>200</emph> <hi>illi: Surge, et vade; quia fides
+tua te salvum fecit <note>(Luc. XVII, 18)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Est etiam illa commendandae orationis et voti
+disciplina; ut non divulgemus orationem, sed abscondita
+teneamus mysteria, sicut tenuit Abraham,
+qui subcinericias fecit <note>(Gen. XVIII, 6)</note>. Tenuerunt et
+patres qui coxere conspersum quod extulerant de
+Aegypto, subcinericia facientes azyma, quae Graece
+<pb n="0334C"/> <foreign xml:lang="greek">ἐγκρύφια</foreign>
+ dicuntur, eo quod abscondantur in cinere;
+significantes fermentum illud quod abscondit mulier
+illa Evangelica <note>(Luc. XIII, 21)</note> in farinae mensuris
+tribus, donec fermentaretur totum, mysteriorum
+quoque innuentes premendam esse doctrinam. Quod
+apertius Dominus in Evangelio docuit dicens: <hi>Tu
+autem cum orabis, intra in cubiculum tuum, et clauso
+ostio Patrem tuum ora in abscondito, et Pater tuus
+qui videt in abscondito, reddet tibi: orantes autem nolite
+multum loqui <note>(Matth. VI, 5)</note>
+            </hi>. Et infra: <hi>Scit enim
+Pater vester quid vobis opus sit, antequam petatis ab
+eo <note>(Ibid., 8)</note>
+            </hi>. Cubiculum tuum, mentis arcanum,
+animique secretum est. In hoc cubiculum tuum intra,
+ hoc est, intra in alta praecordia, totus ingredere
+de corporis tui exteriori vestibulo, et claude
+<pb n="0334D"/>
+ostium tuum.</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ Quod sit ostium tuum, disce: <hi>Pone, Domine,
+custodiam ori meo, et ostium circuitus labiis meis <note>(Ps.
+CXL, 3)</note>
+            </hi>. Et Paulus petit orari pro se: <hi>Ut aperiatur
+mihi,</hi> inquit, <hi>ostium verbi, ad loquendum mysterium
+Christi <note>(Coloss. IV, 3)</note>
+            </hi>. Sed ille ut pote electus ad
+Evangelii praedicationem, recte sibi ostium verbi
+optabat aperiri; quia de ore ejus exibat salus gentium,
+<pb n="0335A"/>
+de ore ejus prodibat vita populorum. Nos autem
+claudamus ostium, ne culpa intret, ne lapsus
+aliquis sermonis exeat. Intrat culpa, si lapsus exierit.
+Audi quomodo intret culpa. <hi>In multiloquio,</hi> inquit, <hi>non effugies peccatum 
+ <note>(Prov. X, 19)</note>
+            </hi>. Exivit
+multiloquium, peccatum intravit; quia in multiloquio
+nequaquam qui exeat sermo, trutinatur. imprudenter
+labitur, licet ipsum ultra mensuram aliquid
+loqui grande peccatum sit.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Et ideo cave ne imprudenter loquaris; labia
+enim imprudentis inducunt eum ad mala. Cave ne
+in oratione te extollas; oratio enim humiliantis se
+nubes penetrabit. Cave ne incaute Symboli vel Dominicae
+orationis divulges mysteria. An nescis quam
+grave sit in oratione contrahere peccatum, ubi speras
+<pb n="0335B"/>
+remedium? Certe Dominus per Prophetam docuit
+hoc grave esse maledictum dicens: <hi>Et oratio
+ejus fiat in peccatum <note>(Ps. CVIII, 7)</note>
+            </hi>; nisi forte mediocre
+id tibi putas esse. Diffidere est enim de potentia
+Dei, aestimare quod non audiaris, nisi clamaveris.
+Clament opera tua, clamet fides, clamet
+affectus, clament passiones tuae, clamet sanguis tuus,
+sicut sancti Abel, de quo dixit Deus ad Cain: <hi>Vox
+sanguinis fratris tui ad me clamat <note>(Gen. IV, 10)</note>
+            </hi>. Audit
+enim te in occultis, qui mundat in occultis. Nos
+nisi loquentem aliquem audire non possumus: apud
+Deum loquuntur non verba, sed cogitationes. Et ut
+hoc verum scias, dicebat Dominus Jesus ad Judaeos: <hi>Quid cogitatis mala in cordibus vestris 
+ <note>(Matth. IX, 4)</note>
+            </hi>?
+Non interrogantis vox ista est, sed scientis. Quod
+<pb n="0335C"/>
+tibi manifestat Evangelista dicens: <hi>Jesus</hi> <emph>201</emph> <hi>autem
+sciebat cogitationes eorum <note>(Luc. VI, 8)</note>
+            </hi>. Sicut ergo
+Filius novit, novit et Pater. Filium nosse cognovisti,
+Patrem nosse, audi consiliarium et testem Patris
+dicentem: <hi>Scit enim Pater vester quid vobis opus
+sit, antequam petatis ab eo <note>(Matth. VI, 5)</note>
+            </hi>. Coque
+ergo subcinericiam tuam vapore Spiritus sancti; coque
+etiam animi passiones verbi calore. Et si crudiores
+sunt passiones tuae nuper fortasse de Aegypto
+egredientes, operito eas, et lento calore excoque;
+ne fortiorem ignem ferre non possint, et semiustulentur
+potius quam coquantur. Sunt enim plurima
+quae cruda displiceant, cocta delectent. Fove igitur
+pectore tuo alta mysteria; ne praematuro sermone
+et infidis auribus vel infirmis quasi incocta committas,
+<pb n="0335D"/>
+atque auditor avertatur et cum horrore fastidiat,
+qui si coctiora gustaret, spiritalis cibi perciperet
+suavitatem.</p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Divine autem Dominus Jesus et bonitatem te
+docuit Patris, qui bona noverit dare <note>(Luc. XI, 13)</note>;
+ut quae bona sunt a bono poscas: et impense et frequenter
+monuit orandum; non ut fastidiosa continuetur
+<pb n="0336A"/>
+oratio, sed ut assidua frequenter effundatur <note>(Ibid., 9)</note>.
+Plerumque enim inanis gloria longae
+precationi, intermissae autem prorsus obrepit incuria.
+Deinde monet <note>(Matt. XVIII, 15)</note> ut cum ipse
+veniam tibi poscis, tum maxime largiendam aliis
+noveris, quo precem tuam operis tui voce commendes.
+Apostolus quoque docet <note>(I Tim. II, 8)</note> orandum
+sine ira et disceptatione, ut non turbetur, non interpoletur
+oratio tua. Docet etiam orandum in omni
+loco, cum Salvator dicat: <hi>Intra in cubiculum tuum <note>(Matt. VI, 6)</note>
+            </hi>.
+Sed intellige non cubiculum conclusum
+parietibus, quo tua membra claudantur: sed cubiculum
+quod in te est, in quo includuntur cogitationes
+tuae, in quo versantur sensus tui. Hoc orationis
+tuae cubiculum ubique tecum est, et ubique secretum
+<pb n="0336B"/>
+est, cujus arbiter nullus est nisi solus Deus.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Orandum autem praecipue et pro populo doceris <note>(I Tim. II, 1)</note>,
+hoc est, pro toto corpore, pro
+membris omnibus matris tuae, in quo mutuae charitatis
+est insigne. Si enim pro te roges tantum, solus
+pro te rogabis. Et si pro se tantum singuli orent,
+minor peccatoris quam intercedentis est gratia.
+Nunc autem quia singuli orant pro omnibus, etiam
+omnes orant pro singulis. Ergo ut concludamus, si
+pro te roges tantum, solus, ut diximus, pro
+te rogabis. Si autem pro omnibus roges, omnes pro
+te rogabunt. Siquidem et tu in omnibus es. Ita
+magna remuneratio est, ut orationibus singulorum
+acquirantur singulis totius plebis suffragia. In quo
+arrogantia nulla, sed humilitas major est, et fructus
+<pb n="0336C"/>
+uberior.
+<emph>202</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Exposito primo sacrificii, Cain defectu transitur ad
+alterum, quod scilicet non obtulerit de primitiis.
+Primitias animae praecipue offerendas, et quae illae
+sint. Easdem Abelem obtulisse, ac legem offerendas
+praecepisse. Ibidem quinam dicantur Chananaei:
+item cur Deus jurasse memoretur: non posse sine
+illius ope animi motus pacari. Denique hos partus
+offerri debere ad quos sexus distinctio nihil conferat.</hi> </p>
+<div3>
+            <head>40.</head>
+            <p>
+ Sed jam est tempus alio transire, quoniam de
+eo quod post dies obtulit Cain plene diximus. Factus
+est indicium resupini, cum ipsa postulatio voti matura
+esse debeat; ne videamur de humanis artibus,
+hoc est, medendi peritia, herbarumque succis sperasse
+<pb n="0336D"/>
+magis remedium, quam de Deo subsidium poposcisse.
+Ad ipsum enim prius est confugiendum,
+qui nostrae curare possit animae passiones. Verum
+homines quidam praepostero ordine ante sibi ab hominibus
+opem arcessunt: ubi autem humana subsidia
+defecerint, tunc opinantur divini postulandam
+favoris, gratiam.
+<pb n="0337A"/>
+</p>
+          </div3>
+<div3>
+            <head>41. </head>
+            <p>
+Concluso ergo illo et convicto Cain crimine,
+aliud oblationis vitium discutiamus. <hi>Obtulit,</hi> inquit, <hi>ex fructibus terrae,</hi> 
+ non a primis fructibus primitias
+Deo. Hoc est primitias sibi prius vindicare: Deo
+autem sequentia deferre. Itaque cum vere anima
+corpori tamquam servo domina sit praeferenda, utique
+primitias ejus, hoc est, animae prius quam corporis
+offerre debemus. Primitiae animae primatus
+sunt bonarum disciplinarum. Quae licet tempore
+posteriores sint, quam corporis primitiae, quae sunt
+esca, incrementum, visus, auditus, et tactus, odor,
+vox (mens autem et sensus pars animae) pars corporis
+est, tamen priores sunt disciplinis. Quarum
+primitiva est puro corde et simplici sermone oblata
+Deo gratiarum actio.
+</p>
+          </div3>
+<div3>
+            <head>42. </head>
+<p>
+              <pb n="0337B"/>Haec munera obtulit Abel, et ideo respexit
+Deus in munera ejus, quoniam e primitivis obtulit.
+Accedit ergo quia de primitivis ovium, et de adipibus
+earum. Considera quia non de insensibilibus, sed de
+animantibus obtulit. Plus est enim animalis, quam
+terrenus; siquidem animalis proximus spiritali est.
+Non enim prius quod spiritale est, sed quod animale,
+deinde quod spiritale. Quod animale spirat,
+habet vitalem spiritum: non ita quod de terrarum
+est fructibus. Deinde obtulit non secunda, sed prima;
+non exigua, sed pinguia: talia enim lex probavit,
+et jussit offerri, sicut scriptum est: <hi>Et erit,</hi> 
+inquit, <hi>cum inducet te Deus in terram Chananaeorum,
+sicut juravit patribus tuis, et dabit tibi; tolles omne
+quod aperit vulvam masculinum Domino. Omne quod
+<pb n="0337C"/>
+aperit vulvam de armentis et pecoribus tuis, quaecumque
+nata fuerint tibi masculina, sanctifica Domino. Omne
+quod aperit vulvam asinae, mutabis illud ove: si autem
+non mutabis, redimes</hi> <emph>203</emph> <hi>illud <note>(Exod. XIII, 11 et
+seq.)</note>
+              </hi>. Quid tam profundi mysterii, tam altae secretaeque
+sapientiae, quam ut in venis quibusdam verborum
+simplicium deprehendas atque haurias ubertatem
+gratiae spiritalis? Chananaei enim mobiles et
+inquieti sunt. Cum igitur in eorum terram fueris ingressus,
+quos advertis propter levitatem, inquietudinem,
+et instabilitatem morum, possessione dejectos,
+tu teneto constantiam. Non te vilis ratio, non
+levis sermo perturbet; hoc est enim Chananaeus,
+mobilis sermo, affectus instabilis, et inquieta contentio:
+sed magis tranquillitatem cordis, et animi
+<pb n="0337D"/>
+serenitatem placidus servato; ut tamquam in salo
+maris tutam navibus stationem, portu quodam tuae
+mentis exhibeas.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ Hanc possessionem tibi Dominus pollicetur,
+et quodam sacramenti promittit vinculo, ut constantiam
+tuam firmet. Neque enim ideo Deus jurat, quod
+fide credentis indigeat, aut testimoniorum astipulationibus
+destitutus suffragium sacramenti requirat,
+sicut homines qui fidem nobis adsciscimus sacramento,
+et ideo juramus, ut credamur vera dixisse.
+Deus autem et cum loquitur fidelis est, cujus sermo
+<pb n="0338A"/>
+sacramentum est. Non enim propter sacramentum
+fidelis omnipotens Deus, sed propter Deum etiam
+sacramentum fidele est. Qua ratione igitur Moyses
+jurantem Deum inducit? Quia nos usu quodam mortalium
+claudimur, et velut echini cortice quodam nos
+vulgaris opinionis involvimus, aut velut cochleae quae
+nisi intra testae operimentum sint, spirare non possunt,
+nec aerem liberum carpere aut sustinere: sic
+nos non nisi intra quaedam humanae consuetudinis
+latibula terrena versamur. Unde quia illud verius solemus
+credere, quod jurejurando firmatur; ne nostra
+claudicet fides, jurare describitur Deus qui ipse non
+jurat, sed jurantium judex, et ultor est pejerantium.
+Denique scriptum est: <hi>Juravit Dominus, et non poenitebit
+eum: Tu es sacerdos in aeternum <note>(Ps. CIX, 4)</note>
+            </hi>.
+<pb n="0338B"/>
+Servavit utique quod juravit, dedit nobis aeternum
+principem sacerdotum: ut et tu quod juraveris, ita
+noveris esse servandum; ut quia per eum juras qui
+non mentitur, scias eum futurum, si mentiaris, ultorem.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Expulsis igitur inquietis et mobilibus cogitationibus,
+dabit tibi Deus vacuam possessionem cordis
+et mentis; ut eam cultu quodam tranquillitatis
+exerceas, et fructum ex ea capias, nec sustineas in
+ea Chananaeos, hoc est, turbidos sensus recurrere;
+eradices gentilium vitiorum omnem conceptum; lucos
+eorum diruas quibus obumbratur veritas, et
+quidam coelestis liber visus cogitationis horrore tenebrosae
+disceptationis absconditur.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Sed hoc nisi divino donatus munere efficere
+<pb n="0338C"/>
+non potes; ideo ait: <hi>Dabit tibi Deus <note>(Exod. XIII, 11)</note>
+            </hi>,
+hoc est, <emph>204</emph> cogitationes optimas, placida consilia,
+tranquillas inventiones. Cum dederit haec, tolles
+omne quod aperit vulvam masculinum, et sanctificabis
+Domino. Non totum exigit a te Deus, qui totum
+donavit. Multa enim ad usum substantiae largitur humanae,
+et hoc non potest esse divinum sacrificium,
+ubi est usus naturae. Edere, bibere, dormire, aliaque
+etiam ministeria corporis dono sunt tibi collata,
+non a te relata Deo munera. Quidquid autem sanctum
+cogitaveris, hoc Dei munus est, Dei inspiratio,
+Dei gratia: sicut e contrario illa quae cum in usu
+naturae humanae sint, non coinquinant hominem;
+sed quod exit de ore, furta, falsa testimonia, sacrilegia,
+haec sunt quae coinquinant hominem.
+<pb n="0338D"/>
+</p>
+          </div3>
+<div3>
+            <head>46. </head>
+            <p>
+Interiora ergo nostra mundemus, ut possit
+oblatio non displicere. Ibi quaeramus omne quod
+aperit vulvam masculinum, hoc est, justum et
+principale, quod sanctificare Domino debeamus.
+Neque enim hi nos corporei coitus, conceptus partusque
+sanctificant, quibus vulva feminea deflorato
+pudore virginitatis aperitur. Nam etsi mulier sanctificat
+virum, et vir mulierem; tamen plerumque
+contingit virginis vulvam etiam sine conjugii sanctitate
+reserari. Neque rursus sola virilis est gratia,
+mulier autem sanctificationis aliena est, aut utriusque
+<pb n="0339A"/>
+sexus confusa natura est, ut uterque corporeos
+fundatur in partus. Habent sua munia viri, habent
+mulieres sexus sui officia discreta. Generatio ista
+successionis humanae mulierem decet, impossibilis
+eadem viro.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ Ergo si carnis usui non quadrat hic sensus,
+officia animae discutiamus. Istam sane invenio, quae
+nullo discreta sit sexu: et cum sexum non habeat,
+utriusque sexus munera repraesentat, nubit, concipit,
+parit. Et sicut feminis dedit vulvam natura, in
+qua uniuscujusque animantis generatio per menstruas
+formatur aetates: ita est quaedam virtus animae
+quae velut quodam vulvae genitalis secreto cogitationum
+nostrarum suscipere semina, conceptus fovere,
+<pb n="0340A"/>
+partus solet edere. Neque enim aliter diceret
+Esaias: <hi>In utero accepimus, et parturivimus spiritum
+salutis <note>(Esai. XXVI 18)</note>
+            </hi>; nisi vulvam animae novisset.
+Harum generationum quaedam femineae sunt,
+malitia, petulantia, luxuries, intemperantia, impudicitia,
+aliaque hujusmodi vitia, quibus animi nostri
+quaedam enervatur virilitas. Masculinae sunt, castitas,
+patientia, prudentia, temperantia, fortitudo,
+justitia, quibus mens nostra, et caro ipsa firmatur,
+et ad obeunda impigre munia virtutis erigitur. Hos
+partus alvus ille propheticus parturivit. Et ideo ait: <hi>In utero accepimus et parturivimus spiritum salutis.</hi> 
+Masculum igitur et parturivit, et peperit, qui spiritum
+salutis effudit.
+</p>
+          </div3>
+        </div2>
+      </div1>
+
+<div1>
+        <head>LIBER SECUNDUS.</head>
+
+<pb n="0339"/>
+<emph>205</emph> 
+
+<div2>
+          <head>CAPUT I.</head>
+<p divs_removed="true"> <hi>Animae partus mature producendos: eorum quae forma
+sit? Plebeios sensus mentis imperio domitari posse;
+duplex enim esse sensuam nostrorum genus; et in
+ultro consistant primitiva Deo offerenda? Postremo
+de commixtione qua constamus, ejusque primitiis
+disputatur.</hi> 
+<pb n="0339B"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ Hos partus anima nostra parturiat, nec solum
+parturiat, sed etiam pariat, et diebus pariat impletis;
+ne immaturos partus dies judicii deprehendat.
+De his enim partubus dixit Dominus Jesus: <hi>Vae
+praegnantibus et nutrientibus in illis diebus <note>(Luc. XXI,
+23)</note>
+              </hi>? Maturius igitur absolvatur hic partus, et cogitationes
+nostrae bonorum operum processibus explicentur;
+ut nihil imperfectum finis noster inveniat,
+<pb n="0339C"/>
+nihil inexplicatum terminus vitae nostrae offendat,
+nihil tamquam in incude positum usus nostri operis
+derelinquat. Festina igitur anima formare partus
+tuos, properantius absolvere, celerius quos genueris
+enutrire.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Quae tanti forma sit partus, demonstrat Apostolus
+dicens: <hi>Filioli mei quos iterum parturio, donec
+formetur Christus in vobis <note>(Galat. IV, 19)</note>
+            </hi>. In hanc
+formam tota mentis nostrae coalescant viscera, et in
+illo genitali alvo animae nostrae Christus refulgeat.
+Partus noster fides sit, nutrimenta nostra praecepta
+doctrinae sint. His quaedam cordis nostri imbuatur
+infantia, instituatur pueritia, juvenculescat adolescentia,
+senecta canescat. Aetas enim senectutis
+vita est immaculata. Itaque ea demum bona est
+animae senectus, quam nulla perfidiae inquinamenta
+<pb n="0339D"/>
+maculaverint. Et ideo partus suos ab hac macula
+Paulus defendit: <hi>Ego vos,</hi> inquit, <hi>genui in Evangelio <note>(I Cor. IV, 15)</note>
+            </hi>;
+ne cujus saeva insusurratio rudis
+fidei tentaret infantiam. Masculina igitur generabat,
+qui in virum perfectum populos quos docebat, fidei
+gestiebat unitate concurrere, et in agnitione Filii
+<pb n="0340B"/>
+Dei perfectam plenitudinis Christi tenere mensuram <note>(Ephes. IV, 13)</note>.
+Hoc enim sacrificium acceptabile
+Deo noverat, de quo scriptum est: <hi>Separabis omne
+quod aperit vulvam masculinum, Domino <note>(Exod. XIII,
+11)</note>
+            </hi>. Et qui addidit: <hi>Omne quod aperit vulvam de
+armentis et de pecoribus quae sunt tibi, masculinum
+sanctifica Domino <note>(Ibid., 12)</note>
+            </hi>; ne quid obscuritatis
+habeat, consideremus.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Dixerat de principalibus generationibus, hoc
+est, plenis capacibusque rationis: addidit et de gregalibus,
+hoc est, reliquis velut plebeiis sensibus, qui
+irrationalibus comparantur jumentis. Quae tamen
+cum a rectore aliquo gubernantur, facile mansuescunt;
+et imperata exsequi, et jugum subire, et
+ad vocem magistri accelerare gradum, aut sistere,
+<pb n="0340C"/>
+aut deflectere, aut aliqua munia sui operis quae jubentur,
+humano quodam famulatu obire consueverunt.
+Tantum valet institutio, ut vincat naturam!
+Itaque illa <emph>206</emph> quae consortium nostrae substantiae
+non habent, agnoscunt tamen nostrae vocis imperium:
+et cum suae naturae nullam rationem habeant,
+nostrae rationem capessunt, et quodammodo transfusam
+acquirunt. Equos videmus popularibus incitari
+studiis, gaudere plausibus, blanditiis delectari
+magistri. Torvos leones cernimus naturalem feritatem
+imperata mutare mansuetudine, suam rabiem
+deponere, nostros mores sumere; et cum sint ipsi
+terribiles, discunt timere. Caeditur canis, ut pavescat
+leo: et qui sua injuria exasperatur, coercetur aliena,
+alteriusque exemplo frangitur. Quoties parata praeda
+<pb n="0340D"/>
+et cibo obvio famem perpeti malunt, dum offensam
+magistri verentur? Quoties repentino impulsi
+motu aperta ad morsus ora jussi resolvunt? Ita
+dum nostrae voluntati obsequuntur, suae obliviscuntur.
+Non ita illae ferae, vel illa armenta equorum,
+vel genus omne pecudum, quae sine rectore vagantur
+ullo, et omni domitoris gubernaculo destituta exa
+<pb n="0341A"/>
+sperantur. Et ideo appositi sunt armentarii, opiliones,
+caeterique pastores, quidam magistri gregum
+officia sua singulis animantium sibi commissorum
+conditione formantes.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Videtur ergo et sensuum nostrorum quoddam
+genus aliud domitum et mansuetum: aliud indomitum
+quod armentario quodam motu mentis velut
+deside atque resoluto proruat ad irrationabiles delectationes
+corporis: mansuetum autem quod velut
+duci cuidam moderationi mentis se subjiciat et
+subdat. Quaecumque ergo ejus naturae reguntur, ea
+sunt masculina atque perfecta: quaecumque autem
+sine duce ullo plebeia praesumptione quadam dominantur,
+velut civitatis alicujus quae regis optimatumque
+consilio privata sit, ita corporis sui omnem
+<pb n="0341B"/>
+statum et virilem vigorem muliebri quadam dissolutione
+effeminant. Ex his illa lex carnis est, quae
+legem Apostolicae mentis impugnans, captivam trahebat
+eam quadam lege peccati. Et ideo ut de illo
+mortis corpore liberaretur, spem suam Paulus
+omnem non in sua virtute, sed in Christi gratia
+reponebat <note>(Rom. VII, 25)</note>. Unde liquet quod hae commotiones
+quae secundum legem mentis sunt, ex divino
+favore procedunt, alii autem sensus ex voluptate
+corporea.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Illa igitur quae sancta sunt, primitiva sunt nostrorum
+sensuum: ista velut de quodam grege sunt, et
+vilitate plebeia: quae varia videtur Moyses nominibus
+significasse diversis. Hoc enim declarat etiam
+illa area legis mystica, de qua ait: <hi>Initia areae tuae
+<pb n="0341C"/>
+et lacus tui non novissima facies. Primitiva filiorum
+tuorum dabis mihi <note>(Exod. XXII, 29)</note>
+            </hi>. Sanctae commotiones
+sensuum nostrorum, quae secundum virtutes
+sunt, ipsae sunt primitiae areae spiritalis: propterea
+etiam rurali areae comparantur, in qua ventilantur
+frumenta. Sicut enim in hac rurali area excutitur
+triticum atque hordeum, <emph>207</emph> et dum saepius ventilatur,
+separatur a paleis; quia paleae caeteraque
+purgamenta messis in diversum levis aurae spiramine
+dissipantur; illa vero quae solidiora sunt, in locum
+eumdem excusso pulvere relabuntur: ita cogitationum
+nostrarum fruges quae sunt solidae atque optimae,
+puram atque sinceram exhibent virtutis alimoniam,
+sicut scriptum est: <hi>Quia non in solo pane
+vivit homo, sed in omni verbo Dei <note>(Luc. IV, 4)</note>
+            </hi>: quae
+<pb n="0341D"/>
+autem inutiles sunt et vacuae, disperguntur ut fumus
+ac nebulae; quia sicut fumus oculis, sic iniquitas
+utentibus ea. Et recte fumo iniquitas comparatur,
+quae velut quadam saeculari caligine aciem mentis
+obducit.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Et ideo Dominus dicit: <hi>Cum intraveritis in
+terram in quam induco vos, et cum manducare coeperitis
+de panibus terrae illius, offeretis oblationem separatam
+Domino, primitias conspersionis vestrae, panem
+<pb n="0342A"/>
+sicut oblationem de area: sic offeretis primitias confusionum
+vestrarum, et dabitis Domino <note>(Num. XV, 2 et seq.)</note>
+            </hi>.
+Confusio nos sumus, diversorum elementorum quadam
+commixtione compositi. Siquidem frigidum
+calido, et humidum sicco miscetur in nobis. Haec
+conspersio multas habet carnis illecebras, et plurimas
+delectationes: sed non sunt hi primitivi hujus
+corporis sensus, quia ex anima et corpore constamus
+et spiritu. Haec est conspersio principalis, in
+qua sanctificari nos Apostolus cupit, sicut ait: <hi>Ipse
+autem Deus pacis sanctificet vos per omnia; ut integer
+spiritus vester et anima et corpus sine querela in die
+Domini nostri Jesu Christi servetur <note>(I Thess. V, 23)</note>
+            </hi>.
+Cujus conspersionis primitiae spiritales sunt, hoc
+est, inventiones et generationes sensuum qui ex vigore
+<pb n="0342B"/>
+animae procedunt. Sed non omnes primitivi
+sensus, nisi qui malitiae et improbitatis, atque omnis
+erroris exsortes sunt. Sunt autem necessariae corporis
+delectationes, ut dormiendi, edendi, bibendi,
+deambulandi, et caeteri sensus hujusmodi; sed non
+in his primitiae. Et ideo non in his, sed in illis Domini
+sacramentum, ubi castitas, pietas, ubi fides
+atque devotio. Cujus rei manifestum et evidens
+exemplum est oblatio patriarchae Isaac, quem sacrificii
+modo obtulit pater nullius motu passionis inflexus
+humanae, mundam offerens Deo hostiam,
+vacuamque formidinis, et corporeae cupiditatis immunem,
+cum ipsa pietas patris devotioni cederet
+immolantis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Primitias non tempore, sed sanctitate aestimari: cum
+fide quae imprimis necessaria est, conjungenda ad
+verum sacrificium bona opera: fructu mutandum
+laborem, atque animam ab inutilibus liberandam
+esse.</hi> 
+<pb n="0342C"/>
+          </p>
+<div3>
+            <head>7.</head>
+            <p>
+ Nunc consideremus quae sit vis primitiarum,
+et utrum tempore aestimentur primitiae, an sanctitate,
+hoc est, utrum omnia <emph>208</emph> primogenita sanctificationem
+habeant primitiarum. Primitiae etenim
+fructuum sanctae secundum legem <note>(Num. XVIII, 8)</note>;
+quia in his optimum festinae fidei sacrificium est:
+sed fiunt sanctae devotione, non tempore; quia non
+proventus sanctificat, sed devotio. Denique ubi celer
+proventus est, si devotio moretur, offensa contrahitur.
+Non ergo omnia primogenita sancta: sed
+<pb n="0342D"/>
+omnia quae sancta sunt, sunt etiam primogenita.
+Denique Cain primogenitus, sed non sanctus. Sanctus
+quoque Israel Dei populus, sed non primus
+aetate; et tamen primogenitus appellatur, sicut
+scriptum est in prophetis: <hi>Primogenitus meus Israel <note>(Exod. IV, 22)</note>
+            </hi>.
+Et Levi sanctus, sed non primogenitus;
+nam tertius Liae filius legitur <note>(Gen. XXIX, 34)</note>:
+et tamen levitae primogeniti nuncupati, quibus ab eo
+nomen est derivatum. Scriptum est enim in Numeris:
+<pb n="0343A"/> <hi>Ecce tuli levitas de medio filiorum Israel pro
+omni primogenito qui aperit vulvam a filiis Israel, et
+erunt mihi levitae; mihi enim omne primitivum. In
+qua die percussi omne primogenitum Aegypti, sanctificavi
+omne primogenitum Israel 
+ <note>(Num. III, 12 et 13)</note>
+            </hi>.
+Ergo levitae primogeniti nuncupati, qui sanctificatione
+utique caeteris filiis Israel antelati sunt. Qua
+ratione primogeniti sint, audi Apostolum dicentem: <hi>Sed appropinquastis Sion monti, et civitati Dei vivi
+Hierusalem quae in coelo est, et decem millibus laetantium
+Angelorum, et Ecclesiarum primitivarum, quae
+scriptae sunt in coelo 
+ <note>(Hebr. XII, 22)</note>
+            </hi>. Quatuor ordines
+fecit, montis Sion, civitatis Hierusalem, celebritatis
+angelorum, et Ecclesiarum primitivarum. Tulit ergo
+Dominus Deus de medio populi Israel levitas; quia
+non humanarum eos consortes voluit esse curarum,
+<pb n="0343B"/>
+sed divinae religionis ministros. Et primogenitos
+sibi fecit qui vulvam aperiunt spiritalem; et ideo
+non erant ab utero naturae, sicut diversorum criminum
+peccatores: sed destructis cultoribus saecularibus
+eliguntur. Unde non habent cum plebeia
+possessione consortium, nec in medio populi computantur;
+quia verbum Dei in medio sui possident,
+sicut scriptum est in Evangelio: <hi>Ubi sunt duo vel
+tres congregati in nomine meo, ibi ego sum in medio
+eorum <note>(Matt. XVIII, 20)</note>
+            </hi>. Et alibi: <hi>Medius vestrum
+stat quem vos nescitis <note>(Joan. I, 26)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Hinc ergo cognoscimus quod ante omnia fides
+nos commendare Deo debeat. Cum fidem habuerimus,
+elaboremus ut opera nostra perfecta sint. Siquidem
+hoc plenum est et perfectum sacrificium,
+<pb n="0343C"/>
+sicut ipse Dominus docet nos dicens: De donis et
+datis tuis observabitis offerre mihi in diebus festis
+meis, nihil detrahentes, neque dispertientes; sed
+plena et integra et perfecta offerentes. Festus autem
+dies Domini est, ubi perfectarum virtutum gratia
+est. Quae tunc perfectae sunt, si sollicitudinum saecularium,
+et corporalis illecebrae victor animus delinimenta
+voluptatis excludat, liber a saeculo, Deo
+deditus, nihil de tramite directae intentionis imminuens,
+nec affectus sui tempora nunc luxuriae dividens, <emph>209</emph> 
+ nunc labori. Solus itaque sapiens hanc
+celebrat solemnitatem, nullus alius. Immunem
+enim hujusmodi passionum animam reperire difficile
+est. Divide ergo secundum rationem animae principalia
+et obedientia, et tunc quid masculinum, quidve
+<pb n="0343D"/>
+femininum sit deprehendes. Nulla enim sine labore
+virtus, quia labor processus virtutis est. Quod etiam
+legis ipsius verba significant, quae dicit: <hi>Omne quod
+aperit vulvam asinae, mutabis ove <note>(Exod. XIII, 13)</note>
+            </hi>.
+<pb n="0344A"/>
+Immunda enim animalia lex a sacrificio separavit,
+et pro his ad vicem munda jussit offerri. Asinae ergo
+partum, hoc est, immundum jubet mutari ove, quae
+munda et apta sacrificio est <note>(Levit. XXVII, 27)</note>. Hoc
+est secundum litteram. Caeterum si quis sensum
+spiritalis legis altius persequatur, libet considerare
+quod asina laboriosum sit animal, ovis fructuosum.
+Fructu ergo dicit mutandum laborem, ut finis operis
+sui fructus sit. Vel certe hoc modo: omnem laborem
+tuum, omnem industriam puro et simplici commendabis
+affectu.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ <hi>Si autem non mutabis,</hi> inquit, <hi>redimes <note>(Exod.,
+XIII, 13)</note>
+            </hi>. Jubetur ergo secundum litteram, ut animal
+aliud pro immundo animali offeratur, aut pretium;
+ne inter decimas fructuum vel minus aliquid,
+vel immundum videatur offerri. Intellectus autem
+<pb n="0344B"/>
+profundior liberandam animam tuam docet, ut desistat
+ab iis quae fructum non habent. Qui enim
+redimit se, liberat et quodam exuit debito. Relinquenda
+sunt opera quae verum fructum, bonosque
+processus habere non possunt; qualia sunt ista mundana
+quorum usus non potest esse diuturnus. In
+quibus ipse nudus et veri vacuus effectus est; et
+quamvis summo quaesitus fuerit labore, animam nihil
+juvat. Ea enim quae servitutem animae inferunt, inutilia
+sunt omnia, etsi non desit effectus. Magna videtur
+praeliantium victoria, triumphantium gloria:
+sed frequenter ipsos videmus qui vicerint, rursus
+bellorum subjacere incertis et transferri ad hostem
+eventu praelii, et eo ipso quo victores ante fuerint,
+<pb n="0344C"/>
+fieri miseriores. Opus est ergo ut opera tua ad Deum
+dirigas, et ejus tibi aspiret favor. Athleta ipse qui
+suis non alienis decernit viribus, quoties congreditur,
+dubios casus subire se credit. Et cum ad coronam
+pervenerit, intelligit citius hanc mundi gloriam tamquam
+coronae ipsius folia marcescere. Gubernator
+cum in portus navim subduxerit, vix finem impositum
+labori putat, et statim quaerit laboris exordium.
+Solvitur corpore anima, et post finem vitae hujus
+adhuc tamen futuri judicii ambiguo suspenditur. Ita
+finis nullus, ubi finis putatur. Unde votis et pura
+conscientia et spiritu charitatis adhaereamus Deo
+nostro, et divinum nobis conciliemus favorem: precantes
+ut a saecularibus curis tamquam ab immitibus
+et agrestibus dominis possimus absolvi atque exui,
+mundanoque exire servitio, in libertatem supernae
+<pb n="0344D"/>
+cognitionis quae vera et sola est libertas, vocati.
+<emph>210</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Quod dixerat laborem fructu mutandum, exemplo
+Judaeorum in Aegypto servientium, et Evangelii
+testimonio confirmat; quonam ex loco, et quo pacto
+liberanda sit anima, declarat; et Christum verum
+levitem, id est, liberatorem nostrum esse. Denique
+pulchra de utilitate quam affert justorum familiaritas,
+proponit.</hi> 
+<pb n="0345A"/>
+          </p>
+<div3>
+            <head>10.</head>
+            <p>
+ Et ut praeceptum legis exemplo astruamus,
+cum deprimerent Aegyptii Judaeorum populorum in
+operibus variis, et luto ac lapide, ingemuerunt filii
+Israel, et Domini provocaverunt in se misericordiam.
+Et dixit ad Moysen: <hi>Ego exaudivi gemitum filiorum
+Israel, quomodo Aegyptii in servitutem deprimunt eos,
+et memor factus sum Testamenti mei. Vade et dic filiis
+Israel, ego Dominus, et educam vos de potentia Aegyptiorum,
+<pb n="0345B"/>
+et eruam vos de servitute eorum, et liberabo
+vos in brachio excelso, et judicio magno, et sumam vos
+mihi in plebem, et ero vester Deus, et scietis quoniam
+ego sum Dominus Deus vester qui educam vos de potentia
+Aegyptiorum, et inducam vos in terram in quam
+extendi manum meam <note>(Exod. III, 7 et seq.)</note>
+            </hi>. Ecce quomodo
+populus Hebraeorum fructu mutavit laborem,
+ut qui in luto operabatur, spe regni operaretur
+aeterni. Et ideo Dominus in Evangelio inanem populorum
+gentilium miseratus laborem, qui lateres construerent
+lutulentae superstitioni, et voluptati corporis
+dediti, solidum fidei murum aedificare non
+possent, velut ad quosdam asinae fetus locutus ait: <hi>Venite ad me, omnes qui laboratis, et ego vos reficiam.
+Tollite jugum meum super vos, et discite a me quia sum
+<pb n="0345C"/>
+mitis et humilis corde, et invenietis requiem animabus
+vestris 
+ <note>(Matt. XI, 28 et seq.)</note>
+            </hi> Qua vocatione plenius
+mihi videor verba legis et mysteria recognoscere:
+quia asinam aut commutandam ove docuit, aut redimendam
+pecunia; ut non solum asinae partum ove,
+hoc est, mundis immunda mutemus, sed etiam redimamus.
+Quod videtur exprimi, si prius sacrificio purificationis,
+et mysterio baptismatis delictorum nostrorum
+inquinamenta lavemus; crimina quoque
+nostra bonis operibus, fideique pretio, et miseratione
+redimamus.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Pretium nostrum sanguinis est Christi. Unde
+et apostolus Petrus ait: Non auro vel argento redempti
+estis, sed pretioso sanguine <note>(I Pet. I, 18.)</note> 
+Et Paulus dicit: <hi>Pretio empti estis, nolite effici servi
+<pb n="0345D"/>
+hominum <note>(I Cor. VII, 23)</note>
+            </hi>. Unde non otiose miramur in
+Evangelio quod super pullum asinae sederit Dominus
+Jesus <note>(Marc. XI, 7)</note>; quia populus gentilis coepit esse
+Christi hostia, quia secundum legem habebatur immundus.
+Unde et de levitis scriptum est <note>(Exod. XII, 13)</note> 
+quod sint redemptiones eorum; eo quod et sanctitate
+vitae suae et oratione peccata plebis lavarent. In quibus
+figura agni praecessit mysteriis verum venturum levitem,
+qui proprii corporis passione tolleret peccatum
+mundi. Levites significatur susceptus pro me, vel ipse
+mihi levis; ipse enim perfectae virtutis habet impertiendae
+populo sanitatis indicium. Ipse ergo qui pro
+<pb n="0346A"/>
+salute universorum exspectatus advenit, pro me est
+utero editus virginali, <emph>211</emph> pro me oblatus, pro me
+gustavit mortem, pro me resurrexit. In quo omnium
+hominum suscepta est redemptio, assumpta est resurrectio.
+Ipse est verus levites; ut nos levitas faceret
+adhaerere Deo, ipsi continuas preces fundere, de
+ipso salutem sperare, fugere terrena negotia, in Dei
+possessione numerari, sicut scriptum est: <hi>Domine,
+posside nos <note>(Exod. XXXIV, 9.)</note>
+            </hi> Ea est enim sola possessio,
+quae nullis obnoxia tempestatibus perpetuae
+gratiae ferat fructus. Redemptor levites est,
+quia vir sapiens redemptio insipientis est. Qui
+tamquam medicus aegrum insipientis animum fovet,
+et quaedam aspergit solidiora menti prudentiae medicamina,
+imitatus illum medicum qui de coelo venit,
+<pb n="0346B"/>
+ut demonstraret hominibus prudentiae vias, et sapientiae
+semitas parvulis revelaret. Videbat enim laborantes
+non posse sine remedio salvari, et ideo medicinam
+tribuebat aegris. Ideo omnibus opem sanitatis detulit;
+ut quicumque perierit, mortis suae causas sibi ascribat,
+qui curari noluit, cum remedium haberet, quo
+posset evadere: Christi autem manifesta in omnes
+praedicetur misericordia; eo quod ii qui pereunt,
+sua pereunt negligentia: qui autem salvantur, secundum
+Christi sententiam liberentur, qui omnes
+homines vult salvos fieri, et in agnitionem veritatis
+venire. Denique et Sodoma si habuisset quinquaginta
+justos, non esset eversa, et si decem habuisset,
+esset redempta; eo quod sermo remissionis peccatorum
+animam servitute exuat, et disciplinae plenitudo
+<pb n="0346C"/>
+perfectae mentem non sinat edaci libidinum vapore
+consumi.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Plurimum tamen refert, et moralem aedificat
+affectum, si etiam numerum justorum simpliciter
+accipiamus prodesse populorum saluti. Comprimit
+et resecat invidiam, confundit improbitatem, virtutem
+incitat, auget gratiam. Nemo enim invidere debet
+alteri laudem quae sibi prosit: atque improbus
+quisque redemptorem suum dum suscipit, frequenter
+imitatur; certe veneratur, plerumque etiam diligit.
+Ipse etiam si aliis profuturum sciat, studiis augetur,
+eaque gratia connectit populos, accumulat charitatem
+civium, urbium gloriam. Quam beata civitas quae
+plurimos justos habet, quam celebrabilis ore omnium:
+quomodo benedicitur tota de parte, et beatus atque
+<pb n="0346D"/>
+perpetuus ejus status aestimatur! Quam gaudeo cum
+aliquos mites ac sapientes diu vivere video, cum virgines
+castas, viduas graves aspicio longaevas, velut quamdam
+incanam Ecclesiae curiam quae praetendat ipso
+quodam vultu et specie gravitatis quod revereantur,
+quod imitentur, quo ad omnem morum gratiam colorentur!
+Non enim ipsis gaudeo, cum vivendo
+multa subeant taedia saeculi hujus, sed quia prosunt
+pluribus. Similiter dum aliquis hujusmodi decidit,
+quamvis longa senectute depositus, afficior; quia destituitur
+grex juvenum muro senili. Denique periturae
+urbis, aut malorum imminentium, vel futurae
+<pb n="0347A"/>
+labis hoc primum indicium est, si decedant viri consultiores,
+vel etiam graviores feminae. Hinc primum
+ingruentium porta aperitur malorum. Sicut ergo
+urbs tota solidatur atque urgetur coetu sapientium,
+vel obitu labefactatur: ita sermo gravis, et quidem
+senilis <emph>212</emph> plenus prudentiae stabilire uniuscujusque
+animam, et confirmare mentem solet. Jam si
+accedat multarum lectionum usus, plurimorum praeceptorum
+et consiliorum quidam senatus, velut perpetuum
+urbis ejus quae in singulorum est praecordiis,
+statum efficit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Quare Moyses levitas appellarit primogenitos et redemptores,
+eorumque urbes redemptrices designarit?
+Cur non sit absurdum piis cohabitare facinorosos?
+De duabus in Deo virtutibus, misericordia
+et justitia, atque earum ministris; deque eo quod
+malitiae egressus semper virtutis operetur ingressum,
+et contra; ut Evangelicis exemplis comprobatur.</hi> 
+<pb n="0347B"/>
+          </p>
+<div3>
+            <head>13.</head>
+            <p>
+ Ideo ergo primogenitos et redemptores caeterorum
+levitas Moyses appellavit <note>(Num. III, 12)</note>;
+quod maturioris et utilis sententiae viri altero senectutem
+quamdam animae praeferant, altero redemptionem
+conferant. Unde et civitates levitarum in veteri
+Testamento redemptrices significavit Moyses <note>(Num.
+XXXV, 6)</note>; quia is qui confugit ad eam animam, in
+qua habitat Dei Verbum, quae urbis modo munita atque
+vallata sit, perpetuam libertatem acquirit sibi.
+<pb n="0347C"/>
+Sicut enim in civitatibus levitarum erat poenarum remissio;
+ut si quis ad eas confugeret, qui non voluntariam
+necem hominis admiserat, nulli eum occidere
+liceret intra urbes dumtaxat positum levitarum: ita
+quem peccati proprii poenitet, quod aut imprudenter
+aut invitus admisit, si levitarum adhaereat incolatui,
+et ab illis praeceptoribus qui Dei mandata dispensant,
+recedendum non putet, lex ipsa ab omni eum commissi
+flagitii poena supplicioque liberat.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Nec absurdum putes quod facinorosi cohabitant
+piis, ac maculosi sacratis. Opus enim habent
+purificari qui aliquo polluti sunt delictorum contagio.
+Et quodammodo diverso genere causa concurrit. Sicut
+enim levites mundanis voluptatibus abdicatus,
+exsul est culpae, ita sanguinis reus, fugitivus est patriae.
+<pb n="0347D"/>
+Sed hoc interest, quod iste necessitate suos deserit
+propter metum legis: minister autem Dei humanarum
+consortiis renuntiat passionum, et quadam
+carnalis illecebrae se abdicat necessitudine propter
+studia virtutis. Etiam illud non abhorret a vero,
+quod et iste velut quasdam in se manus injicit; ut
+<pb n="0348A"/>
+interficiat voluptates sui corporis, et quemdam suae
+carnis operetur interitum. Interfecit nempe Moyses
+Aegyptium, et fugax factus est de terra Aegypti, ut
+declinaret ejus terrae tyrannum. Sed non ante illum
+interfecisset Aegyptium hominem, nisi prius in se
+nequitiae spiritalis Aegyptium interemisset, et abdicasset
+se regalium luxu honorum, majus patrimonium
+aestimans thesauris Aegypti opprobrium Christi. Quod
+stultis quidem videtur opprobrium: nobis autem illud
+opprobrium Dominicae crucis virtus Dei est atque
+sapientia.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Accedit eo, quod duo quaedam in Deo principalia
+sunt genera virtutum, unum quo remittit, aliud
+quo vindicat. Remittuntur peccata per Dei verbum,
+cujus levites interpres et quidem exsecutor est <hi>(23,
+<pb n="0348B"/>
+q. 5, cap. Remittuntur; et de Poenit. dist. 1, cap.
+Verbum Dei)</hi>: remittuntur etiam per <emph>213</emph> officium
+sacerdotis, sacrumque ministerium: puniuntur quoque
+per homines, sicut per judices, qui potestate ad tempus
+utuntur, sicut Apostolus docet dicens: <hi>Vis autem
+non timere potestatem? Bonum fac, et habebis laudem
+ex illa; Dei enim minister est tibi in bonum. Si autem
+malum feceris, time. Non enim sine causa gladium
+portat; enim minister est, vindex in iram ei qui malum
+agit. <note>(Rom. XIII, 4)</note>
+            </hi>. Puniuntur peccata etiam per populos,
+sicut legimus <note>(Esai. XIII, 17)</note>; quia saepe ab
+alienigenis Dei jussu excitatis propter divinae majestatis
+offensam subjectus factus est populus Judaeorum.
+Nec is quidem <note>(45, q. 1, cap. Nec is qui)</note> qui
+invitus aliquod fecerit homicidium, extra ministerium
+<pb n="0348C"/>
+est. Siquidem lex ait de eo: <hi>Quia Deus dedit
+eum in manus ejus <note>(Exod. XXI, 13)</note>
+            </hi>. Manus ergo ejus
+instrumenti modo divinae ultioni ministerium praebuerunt.
+Levites igitur minister remissionis est:
+percussor autem qui tamen non ex dispositione,
+sed praeter voluntatem fecerit homicidium, divinae
+minister est ultionis.</p>
+          </div3>
+<div3>
+            <head>16.</head>
+            <p>
+ Illud quoque specta, quia cum interficitur impius,
+Christus infunditur. Et ubi abominatio aboletur,
+sanctificatio congregatur; quia Dominus dixit: <hi>In
+ea die qua interfeci omne primogenitum Aegypti, sanctificavi
+mihi omne primogenitum Israel <note>(Num. III, 13)</note>
+            </hi>.
+Quod non ad unum diem afflictionis Aegypti referes,
+sed ad omne tempus. Cum enim renuntiatur improbitati <note>(32, q. I, cap. Cum renuntiatur)</note>,
+statim adsciscitur
+<pb n="0348D"/>
+virtus. Egressus enim malitiae virtutis operatur
+ingressum: eodemque studio quo crimen excluditur,
+innocentia copulatur. Habes hoc in Evangelio <note>(Joan.
+XIII, 2)</note>; quia ubi Satanas immisit se in cor Judae,
+Christus recessit ab eo, momentoque eo quo illum recepit,
+hunc amisit. Denique sic scriptum est: <hi>Et post
+<pb n="0349A"/>
+buccellam introivit in eum Satanas <note>(Ibid., 27)</note>
+            </hi>. Dixit
+ergo illi Jesus: <hi>Quod facis, fac celerius.</hi> Quid illud?
+Ut quia introierat in illum Satanas, ipse abiret a
+Christo. Ejicitur itaque et excluditur, eo quod jam
+cum Domino Jesu esse non possit; quia coeperat esse
+cum diabolo: nulla enim communicatio Christi
+cum Belial. Unde statim imperio expulsus abcessit,
+sicut legimus, dicente Evangelista: <hi>Qui
+cum accepisset buccellam, exivit continuo <note>(Ibid.,
+30)</note>
+            </hi>; erat enim nox. Non solum exivit, sed continuo,
+et nocte exivit. Nec mirum si noctis tenebras habebat,
+qui Christum deserebat. Verum sicut ipse receptus
+a diabolo, exclusus a Christo est: ita Zachaeus
+renuntians avaritiae, Christum recepit. Meritoque
+videns studium ejus, quod in arborem ascendisset,
+<pb n="0349B"/>
+ut transeuntem Jesum videret, dicit Dominus: <hi>Zachaee,
+festinans descende, quia hodie in domo tua manere
+me oportet. Et descendit festinans, et excepit illum
+gaudens <note>(Luc. XIX, 5 et 6)</note>
+            </hi>. Sed excipiendo Christum,
+exclusit avaritiam, relegavit perfidiam, renuntiavit
+fraudibus. Aliter enim non ingreditur Christus, nisi
+ut vitia excludat; quia non cohabitat erroribus. Denique
+de templo ejiciebat nummularios, quia ipse
+volebat habitare. Unde Zachaeus hoc intelligens, quia
+Christum vetere suo suscipere affectu non poterat,
+superiora vitia exire suo jussit hospitio, ut Christus intraret.
+Merito igitur <emph>214</emph> Pharisaeis obmurmurantibus
+quod Dominus Jesus ad hominem peccatorem divertisset
+manere, dixit ad Dominum: <hi>Ecce dimidium
+bonorum meorum, Domine, do pauperibus; et si cui aliquid
+<pb n="0349C"/>
+fraude abstuli, reddo quadruplum <note>(Ibid., 8)</note>
+            </hi>. In
+quo illis respondit qui dicebant peccatorem Christo
+hospitium non debuisse praebere: Hoc est, jam non
+sum publicanus, non sum ille Zachaeus, non praedo,
+non fraudator. Reddo quae sustuli, reddo qui auferre
+consueveram. Jam dono pauperibus, quos ante nudabam:
+jam mea confero, qui aliena rapiebam. Fugerunt
+crimina postquam Christus intravit. Discussa
+est omnis carnalium caecitas passionum, ubi aeternae
+vitae lumen infusum est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Adipes ac pinguedo sacrificiorum et hostiarum quid
+significent.</hi> </p>
+<div3>
+            <head>17.</head>
+            <p>
+ Diximus de primogenitis, dicamus etiam de
+<pb n="0349D"/>
+adipibus, de quibus satis docet David dicens: <hi>Sicut
+adipe et pinguedine repleatur anima mea <note>(Ps. LXII, 6)</note>
+            </hi>.
+Et supra ait: <hi>Et holocaustum tuum pingue fiat <note>(Ps.
+XIX, 4)</note>
+            </hi>. Hoc docens acceptabile esse sacrificium,
+quod pingue, quod nitidum, et quodam pabulo fidei
+ac devotionis, verbique coelestis uberiore alimonia
+saginatum est. Frequenter pingue opus dicimus quod
+spissum et operosum intelligi velimus: et opima
+hostia praedicatur, quae non sit tenuis, non sit exilis.
+<pb n="0350A"/>
+Unde et sacrificium pingue recte nuncupamus, quod
+opimum cupimus declarare. Sed etiam illud documento,
+est quod pingues vaccae prophetica interpretatione
+annis fertilibus comparatae sunt <note>(Gen. XLI,
+26)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Quid sibi velit quod Dominus ait:</hi> Si recte offeras,
+non recte autem dividas, peccasti, quiesce; <hi>et de
+quatuor generibus quibus sacrificia commendabantur,
+quorum si quid desit, sacrificium non probatur, cum
+pulcherrima istorum morali interpretatione.</hi> </p>
+<div3>
+            <head>18.</head>
+            <p>
+ Nunc consideremus quid sit quod ait Dominus: <hi>Si recte offeras, non autem recte dividas, peccasti,
+quiesce.</hi> 
+ Quod indicium est Deum non muneribus
+<pb n="0350B"/>
+oblatis placari, sed offerentis affectu. Denique condemnati
+oblator muneris Cain, quia pro conscientia
+insincerae oblationis intellexit Deo sacrificium suum
+non probatum, et tristis est factus. Quando enim
+mens sibi recti est conscia, gratulatur, et infusione
+quadam spiritali repletur animus gaudio, cum alicujus
+vel studia, vel opera a Deo probantur. Tristitia
+igitur Cain conscientiae testimonium, repulsae indicium
+est. Et quamvis obtulit munus; tamen quia non
+recte et jure divisit, culpam incidit.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Quatuor enim genera sunt quibus sacrificia
+commendabantur. Si aut nova novorum essent, aut
+frixa, aut divisa, aut continua. Nova novorum primo
+tempore anni, quae specie in primogenitis fructibus
+aestimabantur: nunc autem revelatum est eos
+<pb n="0350C"/>
+significari, qui per baptismatis <emph>215</emph> sacramenta renovantur.
+Hoc est enim vere sacrificium primitivum,
+quando unusquisque se offert hostiam, et a se incipit,
+ut postea munus suum possit offerre <note>(Rom. XII, 1)</note>.
+Nova igitur fides renovatorum, valida, pubescens, incrementum
+virtutis acquirens, non remissa, non fessa,
+non senio quodam marcida, et vigore ignava,
+apta sacrificio est, quae pullulet quodam virenti germine
+sapientiae, et juveniti divinae cognitionis fervore
+pubescat; habeat tamen succum doctrinae veteris.
+Sicut enim novi, ita et veteris Testamenti debet doctrina
+concurrere, quia scriptum est: <hi>Manducate vetera
+veterum, et vetera a facie novorum auferte <note>(Levit.
+XXVI, 10)</note>
+            </hi>. Cibus nobis sit cognitio patriarcharum,
+epuletur animus in prophetarum oraculis: tali sagina
+<pb n="0350D"/>
+mens pascatur interior. Sed jam non species agni
+sit, at veritas corporis Christi. Non umbra legis perstringat
+oculos: sed aperte Dominicae gratia passionis,
+et splendor resurrectionis aciem mentis illuminet.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Si autem offeres sacrificium de primitivis ovibus,
+frixum in igne, frixum pingue, offeres sacrificium
+primitivorum, sicut scriptum est <note>(Levit. VII, 2)</note>:
+quod significat fidem tuam velut igni probatam esse
+<pb n="0351A"/>
+debere, et sancto fervere spiritu. Denique coxit lentem
+Jacob, et fratri primatus benedictionis eripuit,
+quos utique solida consequeretur fides. Hic ergo robustus
+et vividus augebatur: ille autem qui cibum
+suum coquere nesciebat, fatigatus atque deficiens defluebat.
+Uratur igitur verbo Domini sicut igne virtus
+animae tuae. Vide ustum Joseph, sicut scriptum est: <hi>Eloquium Domini ussit eum 
+ <note>(Ps. CIV, 19)</note>
+            </hi>. Torreatur
+fides tua sicut spicae messium. Tunc enim maturitatem
+fructuum praeferunt, cum eas primo solis processu
+tempora aestiva torruerint. Sermo igitur plurimus
+Scripturarum animam confirmat, et quodam spiritalis
+gratiae colorat vapore; rationabilia quoque inventa
+corroborat, dissolvitque omnem vim irrationabilium
+passionum. Ideoque Esau laxatis virtutis
+<pb n="0351B"/>
+suae nexibus dissolutus est. Illi autem qui succincti
+lumbos non crudum, neque coctum in aqua, sed assatum
+in igni caput agni edere jubebantur, sicut habes
+in Exodo, forti ac fideli animo, pedestri itinere
+maria transfretarunt <note>(Exod. XII, 9)</note>. In Evangelio
+quoque assos pisces Dominus Jesus manducabat, sicut
+scriptum est <note>(Luc. XXIV, 43)</note>, in quo plenitudo
+sancti Spiritus redundabat. Et fortasse ideo deficiebat
+Esau, quia coctum in aqua desiderabat cibum,
+quem Jacob quasi inhabilem sibi donavit infirmo.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Oblationem autem atque orationem oportet
+non confusam esse, sed competenti divisione distinctam.
+ In omni enim re confusione melior est distinctio;
+multo magis in oratione atque oblatione,
+quae nisi certas divisiones habeat, fit obscurior. Ideoque
+<pb n="0351C"/>
+hostiae plerumque membra lex dividi jubet, et
+holocausta offerri <note>(Levit. I, 6)</note>; ut sine admixtione et
+ operimento aliquo nudum sacraficium sit; eo quod
+nuda atque omnibus exuta involucris debeat fides
+nostra fervere; ne vagis et fallacibus opinionibus induatur,
+sed pura atque sincera simplicitas mentis
+appareat. Deinde in partes dividatur congruas. Virtus
+enim <emph>216</emph> genus est, quae dividitur in plurimas
+species: sed principales quatuor sunt, prudentia,
+temperantia, fortitudo, justitia. Redoleat igitur oratio
+tua prudentiam erga cognitionem Dei, et veritatem
+fidei: redoleat temperantiam quam etiam a conjugibus
+exigendam putavit Apostolus dicens: <hi>Nolite fraudare
+invicem, nisi forte ex consensu ad tempus, ut vacetis
+orationi <note>(I Cor. VII, 5)</note>
+            </hi>. Et lex castificatos ante
+<pb n="0351D"/>
+hesternum et nudiustertianum diem ad sacrificium
+accedere jubet <note>(Exod., XIX, 10)</note>. Fortitudinem teneat
+oratio, ut nullo interpoletur metu, nulla lassitudine
+deficiat. Tunc enim debet esse intentio ad precandum
+robustior, cum urgemur adversis. Justitiam custodiat
+precatio, quam si tenuisset Judas, non in peccatum
+facta esset ejus oratio. Quando enim magis ab injustis
+operatis ac pravis studiis abstinere debemus, quam
+tunc quando Dei justitiam deprecamur? Et ideo Dominus,
+<pb n="0352A"/>
+ut cordi nobis esset justitia: <hi>Beati,</hi> inquit, <hi>qui
+persecutionem patiuntur propter justitiam: quoniam
+ipsorum est regnum coelorum <note>(Matth. V, 10)</note>
+            </hi>. Haec enim
+defuit Judae; nam si adfuisset, non tradidisset Dominum,
+non prodidisset magistrum. Defuit sacrificio
+etiam Cain istius, qui si tenuisset justitiam, Domino
+debuit primitiva munera, non posteriora deferre. Defuit
+itaque ei divisio, ideoque responsum ait: <hi>Si recte
+offeras, non autem recte dividas, peccasti, quiesce.</hi> 
+Vides quantum sit vitii. Ubi deest divisio, ibi totum
+sacrificium refutatur.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Superest ut de continua et jugi oratione dicamus,
+quod immorari nos et vacate orationi oportet.
+Pernoctabat Dominus in oratione, non ut sibimet
+prodesset, sed ut nos doceret. Frequens enim oratio
+<pb n="0352B"/>
+quamdam operatur disciplinam orandi; quia ipse
+usus docibiles Dei facit, indocibiles negligentia. Bona
+igitur exercitatio. Denique corporis virtus exercitatione
+augetur frequenti: at inexercitata minuitur et labitur.
+Plurimi enim exercitii dissuetudine etiam naturalem
+dissolvere virtutem. Similiter animae fortitudo
+exercitationis assiduitate solidatur; ut labor
+ipse disciplinae sit non oneri futurus, sed usui. Hunc
+cibum menti nostrae deferamus, qui multa attritus
+meditatione ac politus, cor hominis sicut illud coeleste
+manna confirmet. Quod non otiose tritum ac
+politum accipimus; eo quod coelestium scripturarum
+alloquia diu terere ac polire debemus, toto animo et
+corde versantes; ut succus ille spiritalis cibi in omnes
+se venas animae diffundat. Ergo si tamquam pubescens
+<pb n="0352C"/>
+adolescat fides, quae defectum senescentis
+devotionis ableget, et spiritu ferveat, et congrua distinctione
+teneatur mensura legitimae divisionis, et assiduitas
+commendet gratiam; tunc fit illud pingue,
+et tamquam adipale precationis genus, de quo dicit
+Propheta: <hi>Impinguasti in oleo caput meum <note>(Ps. XXII,
+5)</note>
+            </hi>. Sicut enim agni multo lacte pinguescunt, et sicut
+oves bene pastae adipe nitent: ita apostolico succo
+pasta fidelium pinguescit oratio.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Horum si desit aliquid quae superius diximus,
+sacrificium non probatur. Ideoque dictum est ad Cain: <hi>Si recte offeras, non autem recte</hi> 
+ <emph>217</emph> <hi>dividas, peccasti.</hi> 
+Namque mundus ipse distincte legitur factus,
+cum esset ante incomposita pars ejus; quia <hi>Terra
+erat invisibilis, et incomposita <note>(Gen. I, 2)</note>
+            </hi>. Nempe lux
+<pb n="0352D"/>
+primum facta est, et vocavit Deus lucem, et separavit
+Deus inter lucem et tenebras, et vocatae sunt tenebrae
+nox. Et per ordinem singula quod facta sint
+legimus, coelum, terra, ligna fructifera, animalia diversa.
+Distributa autem sunt leviora superioribus, ut
+aer et ignis: graviora inferioribus, hoc est, terra et
+aqua. Utique simul omnia fieri jubere potuit Deus:
+sed distinctionem servare maluit, quam nos in omnibus
+imitaremur negotiis, et maxime in vicissitudinibus
+<pb n="0353A"/>
+gratiarum, in quibus non satis est reddere quod acceperis,
+sed commendare quod reddas. Nam si quis debitum
+solvat, et in referendo injuriam faciat creditori, intolerabilius
+est utique, quam non reddidisse quod debebat.
+Non ergo quantitas solutionis, sed animus reddentis,
+et qualitas consideratur, et affectus. Recte igitur Cain
+obtulit; quia oblatio insigne devotionis, et indicium gratiarum
+est: sed non recte divisit; quia ante omnia Deo
+debuit deferre primitias, ut a gratia inchoaret auctoris.
+Etenim divisionis hic ordo est, ut prima secundis,
+non primis secunda praecurrant; et coelestia terrenis,
+non terrena coelestibus praeferantur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Deum qui in Adamo docuit non peccandum, in Caino
+docuisse non defendendum peccatum. Et ibi quam
+proclive sit ab impietate in alia scelera praecipitari.</hi> 
+<pb n="0353B"/>
+          </p>
+<div3>
+            <head>24.</head>
+            <p>
+ Sed quia Cain confudit hunc ordinem, dicitur
+ei: <hi>Peccasti, quiesce <note>(Gen. IV, 7)</note>
+            </hi>. Omnia docet Deus.
+Primum ne pecces, ut in Adam monuit: secundo, si
+peccaveris, quiescas, ut in Cain doceris. Erubescere
+enim debemus, et condemnare peccatum, non defendere;
+quoniam pudore culpa minuitur, defensione
+cumulatur. Et silendo corrigimur, contentione
+prolabimur. Sit saltem verecundia, ubi non est absolutio.
+Inde illud: <hi>Justus in exordio sermonis accusator
+est sui <note>(Prov. XVIII, 17)</note>
+            </hi>. Et iterum ab ipso
+Domino alibi dictum legimus: <hi>Dic iniquitates tuas,
+ut justificeris <note>(Esai. XLIII, 26)</note>
+            </hi>. Quanta pudoris gratia,
+ut justitiam teneat verecundia, quam culpae
+reatus abstulerit! Ideo autem ait: <hi>Quiesce,</hi> quoniam
+<pb n="0353C"/>
+non habes quod excuses. Culpae ipsius ad te conversio
+est. Non enim frater ei addicitur, sed error
+ascribitur, cujus ipse sibi auctor est. In te, inquit <note>(Gen. IV, 7)</note>,
+revertitur crimen, quod a te coepit.
+Non habes in quo necessitatem magis, quam mentem
+tuam arguas. In te retorquetur improbitas tua, <hi>tu princeps es illius 
+ <note>(Ibid.)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Bene ait: <hi>Tu princeps es illius.</hi> Etenim impietas
+mater quaedam est delictorum; et qui graviora
+peccaverit, in caetera facile prolabitur. Quomodo
+enim potest ab humanis temperare qui divina violavit,
+et hominibus bonus esse qui Deum laesit?
+Atrociorem igitur scelerum reatum vitia reliqua sequuntur;
+quoniam quo flagitiosa propenderint, eo
+inclinant caetera. Tu ergo princeps operis tui, tu
+<pb n="0353D"/>
+dux criminis. Non te invitum, <emph>218</emph> non imprudentem
+error attraxit: sed voluntarius reus judicio,
+non lapsu fecisti dolum, quo divinae injuriae reum
+ipse convincis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Cain admonitione spreta insolentiam et crimen auget.
+Ejusdem verbis:</hi> Eamus in campum, <hi>significari ostenditur
+pravis actionibus deserta loca et sterilia convenire.</hi> </p>
+<div3>
+            <head>26.</head>
+            <p>
+ Admonitus igitur ut quiesceret, auget insolentiam,
+<pb n="0354A"/>
+acerbat flagitium. Quid igitur sibi vult quod
+ait: <hi>Eamus in campum <note>(Ibid., 8)</note>
+            </hi>; nisi quia locus
+nudus gignentium eligitur parricidio? Ubi enim frater
+habebat occidi, nisi ubi fructus deesset? Tamquam
+praesagiens natura tanti sceleris loco germina
+denegaverat; quia non conveniebat, ut idem solum
+et contagia parricidalis sanguinis reciperet praeter
+naturam, et fructus secundum naturam germinaret.
+Merito ipse dicit: <hi>Eamus in campum.</hi> Non dicit: Eamus
+in paradisum, ubi poma florent, non in aliquem
+cultum et fructiferum locum. Ipsi parricidae indicant
+fructum se sceleris habere non posse, nec penes eos
+fructum manere, qui tantae impietati praebuerint officium.
+Nam ipsam refugiunt elementorum benignitatem,
+ut iste Cain qui videtur veritus, ne largior
+<pb n="0354B"/>
+boni terra proventus triste facinus impediret, et liberalitatis
+assuetudine genitalis, quae facit sibi fetus
+et fructus varios germinascere, in hoc quoque criminis
+apparatu vel muta specie sui fraternum revocaret
+affectum. Latro diem refugit quasi criminis
+testem, lucem adulter erubescit quasi adulterii consciam,
+parricida terrarum fecunditatem fugit. Quomodo
+enim poterat communis partus videre consortia,
+qui consortem sui sanguinis trucidabat? Joseph
+in lacum mittitur siccum, Ammon intra domum occiditur.
+Justum igitur natura est impertita judicium,
+ea loca in quibus erat futurum parricidium, muneris
+sui dote privando: ut ex innocentis soli quadam damnatione
+ostenderet quanta essent futura supplicia
+noxiorum. Propter scelus igitur hominum et ipsa
+<pb n="0354C"/>
+elementa damnantur. Denique David montibus, in
+quibus Jonathas cum patre interemptus est, perpetuae
+poenam sterilitatis optavit dicens: <hi>Montes qui
+estis in Gelboe, neque ros, neque pluvia cadat super
+vos, montes mortis <note>(II Reg. I, 21)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Deum interrogasse Cainum, non ut disceret, sed ut
+eum ad confitendum induceret. Hujus responsio in
+Deum ac naturam impia; eique opposita Dei responsio
+germanitatis pietatem egregie docere ostenditur.
+A Deo justos audiri etiam mortuos, quod nimirum
+ei vivant, et peccatores mortui sint. Hos malis
+praesentibus ac futuris cruciari, magis tamen sollicitari
+praesentibus.</hi> </p>
+<div3>
+            <head>27. </head>
+<p>
+              <pb n="0354D"/>Nunc consideremus qua ratione interrogavit
+Deus Cain ubi esset frater suus, quasi nesciret occisum.
+Sed quod ad scientiam Dei spectat, negantem
+arguit, et inficianti quasi sciens respondit: <hi>Vox
+sanguinis fratris tui ad me clamat <note>(Gen. IV, 10)</note>
+              </hi>: quod
+autem ad rationem profundam attinet, <emph>219</emph> peccantes
+admonet ad poenitentiam. Confessio enim
+poenarum compendium est. Inde in judiciis saecularibus
+impositi equuleo torquentur negantes, et quaedam
+tangit judicem miseratio confitentis. Est quaedam
+<pb n="0355A"/>
+in peccatis verecundia, et poenitentiae portio crimen
+fateri, nec derivare culpam, sed recognoscere.
+Mitigat judicem pudor reorum, excitat autem pertinacia
+denegantium. Vult te provocare ad poenitentiam
+Deus, vult de se sperari indulgentiam, vult
+demonstrare tua confessione quod non sit auctor
+malitiae. Nam qui peccatum suum ad quamdam referunt,
+ut gentiles asserunt, decreti aut operis sui
+necessitatem, divina arguere videntur, quasi ipsorum
+vis causa peccati sit. Qui enim necessitate aliqua
+coactus occiderit, quasi invitus occidit. Ea vero
+quae a nobis sunt, excusationem non habent: quae
+autem praeter nos sunt, excusabilia sunt. Sed quanto
+gravius peccato ipso ad Deum referre quod feceris,
+et reatus tui invidiam transfundere in auctorem non
+<pb n="0355B"/>
+criminis, sed innocentiae.</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ Perpende autem parricidae responsionem: <hi>Nescio,</hi> 
+ inquit, <hi>numquid custos fratris mei ego sum <note>(Gen. IV, 9)</note>
+            </hi>?
+Etsi contumaciam prodat hic sermo,
+sonat tamen quia si bonum fratrem considerasset,
+custos debuit esse pietatis. Quem enim magis, quam
+fratrem servare debuerat? Sed quomodo germanitatis
+servaret officium, qui necessitudinis non agnovisset
+affectum? Aut quomodo fieri posset, ut naturae
+obedientiam deferret, qui Deo reverentiam non
+exhiberet? Negat primum quasi apud ignorantem:
+recusat fraternae munus custodiae, quasi exsors naturae:
+declinat judicem, quasi liber arbitrii. Quid
+miraris si pietatem non agnovit, qui non agnovit
+auctorem? Et ideo doceris hac serie Scripturarum
+<pb n="0355C"/>
+fidem esse radicem virtutum omnium. Unde et Apostolus
+ait: <hi>Quia fundamentum nostrum Christus est <note>(I Cor. III, 11)</note>
+            </hi>; et quidquid supra hoc fundamentum
+aedificaveris, hoc solum ad operis tui fructum, et ad
+virtutis proficere mercedem.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Congrue igitur respondit Dominus tam imprudenter
+neganti, dicens: <hi>Vox sanguinis fratris tui ad
+me clamat <note>(Gen. IV, 10)</note>
+            </hi>, hoc est, cur nescis ubi est
+frater tuus? Soli eratis cum duobus parentibus, inter
+paucos frater te latere non debuit. An quia parentes
+tui accusatores esse non possunt? Nolo enim
+ut ea necessitudo quae est auctor salutis, fiat auctor
+periculi. In te solo leges suas natura amiserit. Ideo
+ergo putas crimen latere, quia parentes accusare
+non debent? Sed eo major est condemnatio tua.
+<pb n="0355D"/>
+Nam si chara necessitudinis nomina accusare non
+debent, multo magis non debent occidere. Sed si
+me testem abnuis, et refugis arbitrum, vox sanguinis
+fratris tui testis est, quae ad me clamat. Illa
+te majore auctoritate arguit, quam si frater viveret.
+Soli eratis, quis eum potuit alter occidere? Si accusas
+parentes, parricidam probas. Potuit fratrem
+<pb n="0356A"/>
+occidere, qui non parcit parentibus. Potuit parricida <emph>220</emph> 
+ esse, qui de parricidis se ortum probare
+desiderat.</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Et bene ait: <hi>Vox sanguinis fratris tui clamat,</hi> 
+non frater clamat. Hoc innocentia et gratia germanitatis
+etiam in ipsa morte servat. Non accusat frater
+Abel, ne videatur parricida. Non accusat vox
+ipsius, non anima ejus, sed vox sanguinis accusat,
+quem ipse fudisti. Tuum te ergo facinus, non frater
+accusat. Simul querela criminoso adimitur. Non potest
+de alieno testimonio queri, qui crimem proprio
+facinore confitetur. Minor est sermo, quam factum.
+Est tamen etiam terra testis, quae cepit sanguinem.
+Et bene ait: <hi>Vox sanguinis fratris tui de terra clamat:</hi> 
+non dixit, de fratris clamat corpore, sed <hi>de
+<pb n="0356B"/>
+terra clamat.</hi> Et si frater parcit, terra non parcit.
+Si frater lacet, terra condemnat. Ipsa est, in te et
+testis et judex: testis acrior, quae adhuc parricidii
+tui sanguine madet: judex asperior, quae tanto
+scelere coinquinata est, ut aperiret os suum, et
+exciperet sanguinem fratris tui de manu tua. Et
+illa quidem aperuit os suum, quasi exceptura de
+fratribus verba pietatis, nihil timens cum fratres
+videret, quae sciret jus germanitatis amoris incentivum
+esse, non odii. Nam quomodo poterat parricidium
+suspectare, quae adhuc non viderat homicidium?
+Sed tu effudisti sanguinem, cujus dolens
+ipsa contagium: <hi>Non augebit,</hi> inquit, <hi>virtutem
+suam dare tibi.</hi> Quam innocens ultio, ut quae tam
+graviter violata fuerit, satis habens non prodesse,
+<pb n="0356C"/>
+non quaerat nocere.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Non mediocre etiam dogma quod ait: <hi>Vox
+sanguinis fratris tui ad me clamat;</hi> quia Deus justos
+suos audit etiam mortuos, quoniam Deo vivunt. Et
+merito pro viventibus habentur; quia etiam si corporis
+gustaverint mortem, vitam tamen incorpoream
+capiunt, et illuminantur suorum splendore
+meritorum, luce quoque fruuntur aeterna. Justorum
+ergo audit sanguinem: avertit se autem a precibus
+impiorum; quoniam etiam si videantur vivere, miseriores
+tamen sunt omnibus mortuis, carnem suam
+sicut tumulum circumferentes, cui infelicem infoderunt
+animam suam. Quid enim aliud est quam
+sepulta, quae intra humum volvitur, et terrenae avaritiae
+cupiditatibus, caeterisque vitiis includitur, ut
+<pb n="0356D"/>
+gratiae coelestis auram spirare non possit? Hujus
+modi peccator a terra maledictus est, quae est infima
+et postrema pars mundi. Superius utique coelum,
+et quae in coelo sunt, sol, luna, et stellae,
+Throni, Dominationes, Principatus, et Potestates,
+Cherubim et Seraphim. Non est ergo dubium quod
+eum et superiora damnaverint, quem inferiora damnarunt.
+<pb n="0357A"/>
+Nam quomodo absolvitur pura illic coelestique
+sententia quem nec terrae potuerunt absolvere?
+Et ideo gemens et tremens jubetur esse super
+terram.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Evidens generalisque ratio, quia omni improbo
+mala adsunt, et adfutura sunt. Quae adsunt,
+tristitiam operantur; quae futura, formidinem. Sed
+improbum plus praesentia, quam futura <emph>221</emph> sollicitant.
+Unde et Cain dixit ad Deum: <hi>Major causa mea
+est, quam ut dimittatur mihi. Si derelinques me hodie,
+a facie tua abscondam me.</hi> Nihil enim gravius quam
+errantem a Deo deseri, ut se revocare non possit.
+Mors peccatoris finem peccandi affert: vita autem
+divino gubernaculo destituta praecipitatur, et in graviora
+prolabitur; ut si gregem pastor relinquat, incursent
+<pb n="0357B"/>
+bestiae: ita cum Deus deserit hominem,
+ingruit diabolus. Grave est praesertim insipientibus
+non habere rectorem. Serpit malitia, vulnus augetur,
+ubi medicina defuerit. Abscondit se autem qui
+velare vult culpam, et tegere peccatum. Qui enim
+male agit odit lucem, et tenebras et suorum quaerit
+latibula delictorum. Justus autem non abscondere se
+a Domino Deo suo, sed ipse magis se offerre consuevit
+dicens: Ecce sum ego qui non habeo criminosam
+conscientiam, quam timeam deprehendi.</p>
+          </div3>
+<div3>
+            <head>33.</head>
+            <p>
+ Merito ergo se abscondit male conscius, et
+ait: <hi>Omnis qui invenerit me, occidet me.</hi> Augustae
+mentis homo praesentem mortem veretur, perpetuam
+negligit, et divinum judicium non reformidat,
+interitum solum corporis deprecatur. Sed a quo
+<pb n="0357C"/>
+timebat occidi, qui solos parentes habebat in terris?
+Potuit quidem et incursus bestiarum timere, qui
+legis divinae jura violaverat; nec praesumere de
+subjectis animalibus caeteris, qui hominem docuerat
+occidi. Potuit et parentes parricidas timere, qui docuerat
+parricidium posse committi. Potuerunt enim
+et parentes de filio discere, quod didicerunt posteri
+de parente.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Dei comminatio,</hi> Si quis occiderit Cain, etc., <hi>moraliter
+explicatur; in signo posito super eodem divina
+clementia declaratur, sicut et in eo Caini dementia,
+quod mortem temporalem plus timuerit, quam aeternam.
+Hinc pulchre disseritur de incorruptibilitate
+<pb n="0357D"/>
+animae, ac futura vita. Tandem judicium non praepropere
+ferendum, nec rursus inultum crimen sinendum
+esse ostenditur.</hi> </p>
+<div3>
+            <head>34.</head>
+            <p>
+ Nunc consideremus qua causa dixerit Deus: <hi>Omnis qui occiderit Cain septies vindictam exsolvet <note>(Gen. IV, 15)</note>
+            </hi>;
+et qua ratione signum super eum ponitur,
+ne occidatur parricida, cum prospectum non
+fuerit, ne innocens occideretur. Octavus est homo,
+habet rationabile quo praestet caeteris, habet et quinque
+corporis sensus, habet etiam vocem, habet et
+generandi gratiam. Haec septem nisi illo rationabili
+<pb n="0358A"/>
+regantur, subjecta morti sunt; et ideo stultus in his
+habet omne periculum sui. Qui ergo rationabile illud
+amiserit, frustra de istorum sibi usu septem carnaliam
+munerum blandietur. Dissolvuntur haec omnia,
+nisi habenis quibusdam rationis astricta sint. Mors
+itaque rationis, mortem operatur irrationabilium
+passionum. Sed illud melius quod septimus numerus
+quietis et remissionis est. Ergo qui alii non pepercit
+peccatori, et munus ei remissionis peccatorum inviderit,
+ipse sibi spem remissionis eripiet, et erit in eo
+pari mensura vindicta de gratia.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Quod autem signum posuit super Cain, ne quis
+eum occideret, reflectere voluit errantem, <emph>222</emph> et
+beneficio suo invitare ad correctionem. Ipsis enim nos
+facilius committere solemus, quorum habemus gratiam.
+<pb n="0358B"/>
+Nec tamen magna concedit: sed in eo ipso
+imprudentiam insipientis ulciscitur, qui cum esset
+perpetuis suppliciis obnoxius, non remitti sibi poenam
+poposcit, sed vitam corporis hujus obsecrandam
+putavit, in qua plus aerumnae est, quam voluptatis.
+Mors enim una est in secessione animae et
+corporis, et in fine istius vitae, quae simul ut venit,
+omnes corporis dolores auferre, non augere consuevit.
+Metus vero qui hanc vitam viventibus frequenter
+ingruunt, moestitiae, dolores, gemitus, diversique
+cruciatus, gravitatum, et aegritudinum vulnera
+plurimas etiam mortes generi humano inferunt,
+ut ista mors remedium esse videatur, non poena.
+Non enim peremptoria est, per quam non adimitur
+vita, sed ad meliora transfertur. Nam si nocentes
+<pb n="0358C"/>
+moriuntur, qui gradum a peccatis revocare noluerint;
+vel inviti tamen finem non naturae, sed culpae
+adipiscuntur, ne plura delinquant, quibus vita fenus
+est delictorum. Si autem bonae spei compotes sunt,
+migrare magis quam deficere credendi sunt.</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ Inseritur hoc loco dogma de incorruptione
+animae, quod ipsa vera et beata vita sit, quam unusquisque
+bene conscius vivit multo purius ac beatius,
+cum hujus carnis anima nostra deposuerit involucrum,
+et quodam carcere isto fuerit absoluta corporeo;
+in illum superiorem revolans locum, unde
+nostris infusa visceribus compassione corporis hujus
+ingemuit, donec commissi gubernaculi munus impleret;
+ut carnis hujus irrationabiles motus rationabili
+ductu regeret et coerceret. Inde est quod postea
+<pb n="0358D"/>
+prophetae in captivitatem cum populo Judaeorum
+transierunt; ne reliqua plebs sanctorum destituta
+praesidio, consilioque viduata graviorem subiret
+aerumnam: sed magis frequentibus commonita oraculis
+prophetarum, ad Dominum Deum suum pio
+rediret affectu; ne adversis captivitatis attrita prorueret
+in perfidiae peccatum, salutisque perpetuae
+remedium desperaret.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Redarguuntur itaque hoc in loco qui unicam
+hanc vitam putent esse, quae sit in hoc saeculo
+(omnia plena lapsus, plena moeroris sunt) et redarguuntur
+<pb n="0359A"/>
+simplici serie gestorum. Ecce enim justus,
+innocens, pius, propter gratiam devotionis odia fratris
+incurrens, immaturus adhuc aevi sublatus est
+parricidio; et iniquus, sceleratus, impius, etiam
+fraterna caede pollutus longaevam duxit aetatem, duxit
+uxorem, posteritatem reliquit, urbes condidit,
+et hoc meruit permissione divina. Nonne in his
+aperte vox Dei clamat? Erratis, qui putatis hic esse
+omnem vivendi gratiam: non intelligitis, non advertitis
+senectutem hanc miseriarum esse veteranam,
+processionemque aetatis aerumnarum stipendia, et
+scylleo quodam usu circumsonari nos quotidianis
+naufragiis, tundi fluctibus, in scopulosis habitaculis
+degere, et in his delectari, sicut illud non tam
+aeternum animal, quam immortale malum? Ergo et
+<pb n="0359B"/>
+isti Cain longaevitas indulta, vindicta est; eo quod
+vixit in metu, et prolixum spatium multo cucurrit et
+infructuoso <emph>223</emph> labore, qua poena nihil gravius
+quam ut quis ipse sibi majorum causa poenarum sit.
+Vide igitur quam perpetua vita justorum, et nulla
+sit improborum! Justi sanguis clamat et mortui,
+vita autem peccatoris absconditur.</p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Tertium est, quoniam cum parricidium esset
+admissum, hoc est, scelerum principatus, ubi peccatum
+obrepsit, statim et lex divinae mansuetudinis
+prorogari debuit; ne si continuo vindicatum esset in
+<pb n="0360A"/>
+reum, homines quoque in vindicando nullam patientiam
+moderationemque servarent, sed statim
+reos supplicio darent. Divinae autem sententiae providentia
+hujusmodi est, ut magnanimitatem et patientiam
+doceret judices; ne quis praepropere raperetur
+studio vindictae, et ipsa deliberationis immaturitate
+puniret innoxium, aut poenam acerbaret
+irati: nec tamen penitus inultum esse pateretur in
+eo qui nullam poenitentiam sceleris induisset. <emph>224</emph> 
+Repulit enim eum a facie sua, et a parentibus abdicatum
+separatae habitationis quodam relegavit exsilio;
+eo quod ab humana mansuetudine transisset ad saevitiam
+bestiarum. Verumtamen non homicidio voluit
+homicidam vindicari, qui mavult peccatoris correctionem,
+quam mortem. Unde in Lamech septuagies
+<pb n="0360B"/>
+septies vindicatur; quia gravior culpa ejus est, qui
+nec post damnationem se correxit alterius. Cain
+impetu quodam improvido ante peccaverat: Lamech
+utique quod in altero reprehensum adverterat, cavere
+debuerat. Suo quippe judici sententia debebatur,
+ne quis passim reum esse feriendum putaret.
+Et ut ad mysterium venias, non debuit interimere
+eum, qui usque ad naturalem terminum mortis suae
+agendae habebat spatium poenitentiae. Excusare posset
+quod se redemisset vel sera actione poenitentiae,
+nisi eum praematura poena rapuisset.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

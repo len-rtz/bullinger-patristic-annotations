@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11057" type="Brief" source="CO-X" n="1015">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 9. Juli 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/11057</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=1015</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b46" n="69" type="transcription">S. 113</bibl>
+				<bibl source="b9" n="1015" type="regest">S. 185</bibl>
+				<bibl source="b9" n="1015" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 336,183</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 336,164</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Übersendet im Auftrag <persName ref="p540" cert="high">Calvins</persName> ein Bekenntnis [der <placeName ref="l167" cert="high">Genfer</placeName> zur Trinitätslehre] und nimmt kritisch dazu Stellung. Mißbilligt die - auch früher schon von <persName ref="p1049" cert="high">Farel</persName> - vorgetragenen Angriffe auf <persName ref="p4518" cert="high">Caroli</persName>. Hatte keine Gelegenheit, diesen Brief dem <persName>Scherer</persName> <persName>Philipp</persName> [...] oder <persName>Sebastian</persName> [...] mitzugeben. Ist sich zwar bewußt, in <placeName ref="l587" cert="high">Zürich</placeName> und <placeName ref="l41" cert="high">Bern</placeName> nichts zu gelten, bittet <persName ref="p495" cert="high">Bullinger</persName> aber dennoch um Vermittlung im Streit unter den <placeName ref="l41" cert="high">Berner</placeName> Pfarrern.</p>
+						</summary>
+						<msItem>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Corr. des réformateurs IV, S. 254-256, Nr. 640</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>C.O. X/2, S. 113f, Nr. 69</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8418" cert="high"/>
+					<placeName ref="l28" cert="high"/>
+					<date when="1537-07-09" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11057!Autograph!00%20E_II_336__fol__183_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">11057/Autograph/00 E_II_336__fol__183_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11057!Autograph!01%20E_II_336__fol__183_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">11057/Autograph/01 E_II_336__fol__183_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName> doctissimo in Domino colendo suo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">S.</s>
+					<s n="3" xml:lang="la"><persName ref="p540">Calvini</persName> iussu his colligata mittimus.</s>
+					<s n="4" xml:lang="la">De confessione appendix ad finem amputatus est: nescio si quid subsit latentis causae.</s>
+					<s n="5" xml:lang="la">Displicet nobis, non dico confessio per se, sed consilium confessionis.</s>
+					<s n="6" xml:lang="la">Quid enim opus erat de sanctissima adorandaque trinitate quidpiam velut in dubium per illam vocare?</s>
+					<s n="7" xml:lang="la">Deinde trinitatis et personae vocibus tam iniquum esse, ut eis pertinaciter non utatur ille, quibus est tamen usus in Catechismo?</s>
+					<s n="8" xml:lang="la">Verum quid ad me quid quisque confiteatur, quum iudicare nec possim, nec debeam, nisi quantum ad ecclesiam meam pertinet?</s>
+					<s n="9" xml:lang="la">Hic quidem pro virili cavebo ne contentiones oriantur ob verbula.</s>
+					<s n="10" xml:lang="la">Istud tamen iudicare plane libet: iniquissimum esse ita se velle purgare, ut alium adeo turpiter quis accuset.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Tales fratres sumus.</s>
+					<s n="12" xml:lang="la">Haec est mansuetudo christiana.</s>
+					<s n="13" xml:lang="la">Equidem <persName ref="p4518">Carolum</persName> non defendo, quamvis olim, id est ante annos duos, ipse se apud me coram defenderit, postquam a <persName ref="p1049">Farello</persName> turpissimis literis huc scriptis esset accusatus de iisdem criminibus: non tamen probare possum, taliter eum tractari apud bonos et pios viros.</s>
+					<s n="14" xml:lang="la">Et quid, putas, evangelici <placeName ref="l832">Galli</placeName> confecerunt, si <persName ref="p4518">Carolus</persName> se publico scripto defenderit?</s>
+					<s n="15" xml:lang="la">Hic erit evangelio consultum egregie.</s>
+					<s n="16" xml:lang="la">Scio Cardum publice dixisse: Si consenseritis in confessionem <placeName ref="l28">Basileae</placeName> communiter scriptam, vel in eam quae oblata est Caesari in comitiis <placeName ref="l18">Augustanis</placeName>, et subscripseritis <persName ref="p18895">Athanasii</persName> symbolo, ego vester ero, nihil contra vos movebor: sin aliter, erit quod ferre non licebit.</s>
+					<s n="17" xml:lang="la">Quid est igitur quod istos movet, nisi spiritus dissidii, ne quid dicam aliud?</s>
+					<s n="18" xml:lang="la">Utinam vel evangelium non tractaremus, vel pacis in Domino spiritum recto animo quaereremus.</s>
+					<s n="19" xml:lang="la">Yerum de his satis rerum omnium ignaro et stulto viro.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la"><placeName ref="l28">Basileae</placeName>, 9. Iulii anno 1537.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la"><persName ref="p8418">Os. Myco.</persName> tuus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

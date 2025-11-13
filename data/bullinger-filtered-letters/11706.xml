@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11706" type="Brief" source="VBS-6" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 19. September 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/11706</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b41" n="1257" type="transcription">S. 158</bibl>
+				<bibl source="b15" n="1663" type="regest">S. 186</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 351,12</idno>
+						<idno subtype="Hinweis">Druckfehler in HBBW</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 351r.-v.,12</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Hat die restlichen Teile des Matthäuskommentars [<bibl source="b286">HBBibl</bibl> I 144] mit Zustimmung gelesen und schreibt es <persName ref="p495" cert="high">Bullingers</persName> sicherem Urteil und großem Geist zu, dass er dieses Werk in so kurzer Zeit veröffentlichen konnte; weiter ist es <persName ref="p495" cert="high">Bullingers</persName> fleißiger Lektüre und unermüdlicher Übung zu verdanken, dass er sich gewählt und gewandt auszudrücken und in ähnlicher Fülle zu schreiben vermag wie <persName ref="p6898" cert="high">Varro</persName>, <persName ref="p4543" cert="high">Cicero</persName>, <persName cert="high" ref="p18986">Hieronymus</persName>, <persName ref="p18700" cert="high">Augustin</persName> und vor allem <persName ref="p17753" cert="high">Origenes</persName>. <persName ref="p8049" cert="high">Vadian</persName> weiß sich einig mit <persName ref="p495" cert="high">Bullinger</persName> in der Frage des Abendmahls; <persName ref="p495" cert="high">Bullinger</persName> versteht es, sich dabei klar und bestimmt auszudrücken, ohne sich von den Ausdrucksweisen anderer Kirchen zu entfremden. Auch auf <persName ref="p8441" cert="high">[Kaspar] Schwenkfelds</persName> Lehre hat er so umfassend geantwortet, dass<pb type="edition" next="187"/> sich eine weitere Replik erübrigt; den Heuchlern lässt er keinen Ausweg offen. Gott gebührt Dank für seine Gaben. Gruß.</p>
+						</summary>
+						<msItem>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Vadian BW VI, S. 158f, Nr. 1257</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8049" cert="high"/>
+					<placeName ref="l473" cert="high"/>
+					<date when="1542-09-19" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11706!Autograph!00%20E_II_351__fol__12_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">11706/Autograph/00 E_II_351__fol__12_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11706!Autograph!01%20E_II_351__fol__12_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">11706/Autograph/01 E_II_351__fol__12_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Quae erant in Matthaeum tua reliqua, mature mihi allata sunt.</s>
+					<s n="3" xml:lang="la">Placent mire omnia, neque id animo blandiente, sed certo et destinato iudicio exsultante affirmo et reduntantissimo thesauro animi tui tribuo, quod tempore tam brevi et opera velut tumultuaria id praestare potuisti, quod multi tam praemeditatis et multos annos versis reversisque et mille modis mutatis lucubrationibus non assequuntur.</s>
+					<s n="4" xml:lang="la">Copię illud tribuo et lectionis frequentiae et, quod in omni professione summum est, indefessae exercitationi, ut, quod in parato et promptu habes, non gravate etiam aliis tua illa calami elegantia et facilitate impartiri et commune facere queas.</s>
+					<s n="5" xml:lang="la">Eadem vena et opulentia tot libros <persName ref="p6898">Varroni</persName>, tot <persName ref="p4543">Ciceroni</persName> et nimirum, tot <persName ref="p18986">Hieronymo</persName>, tot <persName ref="p18700">Augustino</persName> et ante omnes Origeni myriadas illas lucubrationum peperit.</s>
+					<s n="6" xml:lang="la">Vidi vero locum de cena Christ, in quo ita nostrum sensum confirmas, ut nihil magis.</s>
+					<s n="7" xml:lang="la">Sed modo uteris loquendi tam dilucido, tam etiam diserto, sed tali tamen, a quo multifariae loquendi formulę, quibus et alię Christi ecclesiae magno fructu pietatis utuntur, nec alienae sensu, nec alienae mysterii explicatione, circumquaque perspectae videantur.</s>
+					<s n="8" xml:lang="la">Sed et <persName ref="p8441">Schwenkfeldio</persName> ita copiose pieque et circumspecte responsum est, ut nec nostris plane, nec aliorum, quos audio in illum armari, labore opus esse videatur.</s>
+					<s n="9" xml:lang="la">Et hypocritis (quot maxime petebam ex te scripturiente) omnis insanię suae via praeclusa est.</s>
+					<s n="10" xml:lang="la">Domino nostro gratia per filium Iesum, qui dona sua laborantibus nobis et iniquissimis temporibus gravatis magno quodam et ubere faenore largiri et promptissima etiam manu exhibere non cessat.</s>
+					<s n="11" xml:lang="la">In quo et te valere cum conlegio omni et mei, qui tibi ex animo faveo, memorem esse cupio.</s>
+					<s n="12" xml:lang="la"><placeName ref="l473">Sangalli</placeName>, XIII Kalendas Octobris, anno MDXLII.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la"><persName ref="p8049">Ioachimus Vadianus</persName>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Clarissimo viro domino <persName ref="p495">Henrycho Bullingero</persName>, clarissimae urbis <placeName ref="l587">Tigurinae</placeName> episcopo, domino et amico inprimis colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

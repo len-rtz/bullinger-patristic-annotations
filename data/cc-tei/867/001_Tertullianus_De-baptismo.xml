@@ -1,0 +1,929 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De baptismo</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 1</title>
+           <idno>Tertul.DeBap</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Argumentum.</head>
+<p>QUINTILLA CARTHAGINE HAERESIM CAIANITARUM DISSEMINAVERAT ET NECESSARIAM IN BAPTISMO
+AQUAM NON ESSE DOCUERAT. HUNC ERROREM IN HOC TRACTATU TERTULLIANUS ADHUCDUM
+CATHOLICUS IMPUGNAT, QUI BIFARIAM DIVISUS EST: PARS PRIMA AD DOGMA DE NECESSITATE
+ET EFFICACIA BAPTISMI SPECTAT, IN ALTERA PARTE PLURES QUAESTIONES DE BAPTISMO AD
+DISCIPLINAM SPECTANTES PERTRACTANTUR.</p>
+</div1>
+
+<div1>
+        <head>I.</head>
+<list>
+<item> <hi>Excellentia aquae Baptismi, cap.</hi> I, II, III.</item>
+<item> <hi>Materia Baptismi et virtus,</hi> IV.</item>
+<item> <hi>Effectus Baptismi,</hi> V, VI.</item>
+<item> <hi>Unctio post Baptismum adhiberi consueta,</hi> VII.</item>
+<item> <hi>Impositio manuum post Baptismum ejusque significatio.</hi> VIII.</item>
+<item> <hi>Baptismi figurae,</hi> IX.</item>
+<item> <hi>Baptismus Joannis an coelestis, an terrenus,</hi> X.</item>
+<item> <hi>Necessitas Baptismi ad salutem,</hi> XI.</item>
+        </list>
+
+</div1>
+
+<div1>
+        <head>II.</head>
+<list>
+<item> <hi>An Apostoli baptizati,</hi> XII.</item>
+<item> <hi>Quo tempore lex Baptismi obligare coeperit,</hi> XIII.</item>
+<item> <hi>S. Paulus an baptizaverit,</hi> XIV.</item>
+<item> <hi>Unitas Baptismi,</hi> XV.</item>
+<item> <hi>Baptismus sanguinis,</hi> XVI.</item>
+<item> <hi>Baptismi minister; an mulieribus baptizare liceat,</hi> XVII.</item>
+<item> <hi>Baptismus in qua vitae aetate conferendus,</hi> XVIII.</item>
+<item> <hi>Baptismi conferendi tempus,</hi> XIX.</item>
+<item> <hi>Dispositiones ad Baptismum,</hi> XX.</item>
+        </list>
+<p>
+          <emph>SCHRAM.</emph>
+</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p>
+            <pb n="1197A"/>Felix sacramentum aquae nostrae qua abluti
+ delictis pristinae caecitatis, in vitam aeternam
+ liberamur. Non erit otiosum digestum
+istud, instruens tam eos qui cum maxime formantur,
+quam et illos qui simpliciter credidisse contenti,
+non exploratis rationibus traditionum, intentatam
+probabilem fidem per imperitiam portant:
+<pb n="1198A"/>
+atque adeo nuper conversata istic quaedam de Caiana
+haeresi vipera venenatissima doctrina sua plerosque
+rapuit, imprimis Baptismum destruens. Plane
+secundum naturam: nam fere viperae, et aspides,
+ipsique reguli serpentes arida et inaquosa sectantur.
+Sed nos pisciculi secundum <foreign xml:lang="greek">ΙΧΘΥΝ</foreign> nostrum Jesum
+Christum in qua nascimur, nec aliter quam in
+<pb n="1199A"/>
+aqua permanendo salvi sumus. Ita Quintillia monstrosissima,
+cui nec integre quidem docendi jus
+<pb n="1200A"/>
+erat, optime norat pisciculos necare, de aqua auferens.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+
+<pb n="1201A"/>
+<p>Sed enim quanta vis est perversitatis ad fidem
+labefactandam, vel in totum non recipiendam,
+ut ex his eam impugnet, ex quibus constat.
+Nihil adeo est quod tam obduret mentes hominum,
+quam simplicitas divinorum operum quae in actu videtur,
+et magnificentia quae in effectu repromittitur:
+ut hic quoque, quoniam tanta simplicitate sine pompa,
+sine apparatu novo aliquo, denique sine sumptu
+homo in aqua demissus, et inter pauca verba
+tinctus, non multo vel nihilo mundior resurgit, eo
+incredibilis existimetur consecutio aeternitatis.
+Mentior, si non e contrario idolorum solemnia vel
+arcana, de suggestu et apparatu, deque sumptu,
+fidem et auctoritatem sibi exstruunt. Pro! misera incredulitas,
+quae denegas Deo proprietates suas,
+<pb n="1201B"/>
+simplicitatem et potestatem. Quid ergo? nonne mirandum
+et lavacro dilui mortem? Atquin eo magis
+credendum, si, quia mirandum est, idcirco non
+creditur. Qualia enim decet esse opera divina, nisi
+super omnem admirationem? Nos quoque ipsi miramur,
+sed quia credimus. Caeterum incredulitas miratur,
+non credit. Miratur enim simplicia quasi vana,
+magnifica quasi impossibilia. Et sit plane ut putas,
+satis ad utrumque divina pronuntiatio praecucurrit: <hi>Stulta mundi elegit Deus ut confundat sapientiam ejus <note>(I Cor., I, 27)</note>
+            </hi>,
+et <hi>Praedifficitia penes homines, facilia
+penes Deum <note>(Matth., XIX, 26)</note>
+            </hi>. Nam si Deus et sapiens
+et potens, quod etiam praetereuntes eum non negant,
+merito in adversariis sapientiae potentiaeque, id est in
+stultitia et impossibilitate materias operationis suae
+<pb n="1201C"/>
+instituit. Quoniam virtus omnis ex his caussam accipit,
+a quibus provocatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p>Hujus memores pronuntiationis, tanquam praescriptionis,
+nihilominus quam stultum et impossibile
+sit aqua reformari tractamus. Quid utique
+<pb n="1202A"/>
+ista materia tantae dignationis meruerit officium? Ut
+opinor, auctoritas liquidi elementi exigenda est. Atquin
+plurima suppetit, et quidem a primordio. Nam
+unum ex his est quae ante omnem mundi suggestum
+impolita adhuc specie penes Deum quiescebant: <hi>In
+primordio,</hi> inquit, <hi>fecit Deus coelum et terram. Terra
+autem erat invisibilis et incomposita, et tenebrae
+erant super abyssum, et spiritus Dei  super aquas
+ferebatur <note>(Gen., I, 1, 2)</note>
+            </hi>. Habes, homo, imprimis aetatem
+venerari aquarum, quod antiqua substantia; dehinc
+dignationem, quod divini spiritus sedes, gratior scilicet
+caeteris tunc elementis. Nam et tenebrae totae
+adhuc sine cultu siderum informes, et tristis abyssus,
+et terra imparata, et coelum rude: solus liquor,
+semper materia perfecta, laeta simplex, de suo
+pura, dignum vectaculum Deo subjiciebat. Quid
+<pb n="1202B"/>
+quod exinde dispositio mundi modulatricibus quodammodo
+aquis Deo constitit. Nam, ut firmamentum
+coeleste suspenderet, in medietate distinctis aquis fecit;
+et, ut terram aridam suspenderet, segregatis
+aquis expediit <note>(Gen. I)</note>. Ordinato dehinc
+per elementa mundo cum incolae darentur <note>(Prov.,
+VIII)</note>, primis aquis praeceptum est animas proferre.
+Primus liquor quod viveret edidit ne mirum
+sit, in Baptismo, si aquae animare, noverunt.
+Nam ipsius quoque hominis figurandi
+opus, sociantibus aquis absolutum est. De terra materia
+convenit, non tamen habilis nisi humecta et
+succida, quam scilicet ante quartum diem segregatae
+aquae in stationem suam, superstite humore, limo
+temperarant. Si exinde universa vel plura prosequar
+<pb n="1202C"/>
+quae de elementi istius auctoritate commemorem,
+quanta vis ejus aut gratia, quot ingenia, quot
+officia, quantum instrumentum mundo ferat; vereor
+ne laudes aquae potius, quam Baptismi rationes videar
+congregasse. Licet eo plenius docerem non esse
+dubitandum, si materiam, quam in omnibus rebus et
+<pb n="1203A"/>
+operibus suis Deus disposuit, etiam in sacramentis
+propriis parere fecit; si quae vitam terrenam gubernat,
+et in coelesti procurat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p>Sed ea satis erit praecerpsisse, in quibus et
+ratio Baptismi recognoscitur prima illa, qua jam
+tunc etiam ipso habitu praenotabatur ad Baptismi
+figuram, Dei spiritum, qui ab initio supervectabatur
+super aquas, intinctos reformaturum.
+Sanctum autem utique super sanctum ferebatur; aut
+ab eo quod superferebatur, id quod ferebat, sanctitatem
+mutuabatur. Quoniam subjecta quaeque materia,
+ejus quae desuper imminet, qualitatem rapiat necesse
+est, maxime corporalis spiritalem, et penetrare et insidere
+facilem per substantiae suae subtilitatem. Ita de
+<pb n="1203B"/>
+Sancto sanctificata natura aquarum, et ipsa sanctificare
+concepit. Nemo dicat: Numquid ipsis enim
+aquis tinguimur quae tunc in primordio fuerunt?
+non utique ipsis nisi ex ea parte, qua genus quidem
+unum, species vero complures. Quod autem generi
+attributum est, etiam in specie redundat. Ideoque
+nulla distinctio est, mari quis an stagno, flumine
+an fonte, lacu an alveo diluatur, nec quidquam refert
+inter eos quos Joannes in Jordane, et quos Petrus
+in Tiberi tinxit. Nisi et ille spado, quem
+<pb n="1204A"/>
+Philippus inter vias fortuita aqua tinxit, plus salutis
+aut minus retulit. Igitur omnes aquae de pristina originis
+praerogativa sacramentum sanctificationis consequuntur,
+invocato Deo. Supervenit enim statim spiritus
+de coelis, et aquis superest, sanctificans eas de
+semetipso, et ita sanctificatae vim sanctificandi combibunt.
+Quanquam ad simplicem actum competat
+similitudo, ut, quoniam vice sordium delictis inquinamur,
+aquis abluamur. Sed delicta, sicut non in
+carne comparent, quia nemo super cutem portat maculam
+idololatriae, aut stupri, aut fraudis; ita ejusmodi
+in spiritu sordent, qui est auctor delicti. Spiritus
+enim dominatur, caro famulatur; tamen utromque
+inter se communicant reatum, spiritus ob
+imperium, caro ob ministerium. Igitur medicatis
+<pb n="1204B"/>
+quodammodo aquis per Angeli interventum, et spiritus
+in aquis corporaliter diluitur, et caro in eisdem spiritaliter
+mundatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p>Sed enim nationes extraneae ab omni intellectu
+spiritalium potestatem eadem efficacia idolis suis
+subministrant, sed, viduis aquis, sibi mentiuntur.
+Nam et sacris quibusdam per lavacrum initiantur,
+Isidis alicujus, aut Mithrae, ipsos etiam deos
+suos lavationibus efferunt. Caeterum villas, domos,
+<pb n="1205A"/>
+templa totasque urbes aspergine circumlatae aquae
+expiant passim, certe ludis Apollinaribus et Eleusiniis
+  tinguntur. Idque se in regenerationem et
+impunitatem perjuriorum suorum agere praesumunt.
+Item penes veteres quisquis se homicidio infecerat,
+purgatrice aqua se expiebat. Igitur si de sola natura
+aquis, quod propria materia sit abluendi in
+auspicia emundationis, blandiuntur, quanto id verius
+aquae praestabunt per Dei auctoritatem, a quo omnis
+natura earum constituta est? Si religione aquam medicari
+putant, quae potior religio, quam Dei vivi?
+quo agnito, hic quoque studium diaboli recognoscimus
+ res Dei aemulantis, cum et ipse Baptismum
+in suis exercet. Quid simile? Immundus emundat,
+perditor liberat, damnatus absolvit. Suam videlicet
+<pb n="1205B"/>
+operam destruet, diluens delicta quae inspirat
+ipse. Haec quidem in testimonium posita sunt repellentibus
+fidem, si minime credant rebus Dei, quarum
+affectationibus apud aemulum Dei credunt. Annon et
+alias sine ullo sacramento immundi spiritus aquis
+incubant, adfectantes illam in primordio divini spiritus
+gestationem <note>(Gen., I)</note>? Sciunt opaci quique
+fontes, et avii quique rivi, et in balneis piscinae, et
+euripi in domibus vel cisternae, et putei, qui rapere
+dicuntur, scilicet per vim spiritus nocentis. Nam et
+enectos et lymphatos et hydrophobos vocant,
+quos aquae necaverunt, aut amentia vel formidine
+exercuerunt. Quorsum ista retulimus? Ne quis durius
+credat Angelum Dei sanctum aquis in salutem
+hominis temperandis adesse, cum Angelus malus
+<pb n="1205C"/>
+profanum commercium ejusdem elementi in perniciem
+hominis frequentet. Angelum aquis intervenire
+si novum videtur, exemplum futuri praecucurrit.
+Piscinam Bethsaidam Angelus <note>(Joan., V)</note> interveniens
+commovebat; observabant qui valetudinem querebantur.
+Nam si quis praevenerat descendere illuc, queri
+post lavacrum desinebat. Figura ista medicinae corporalis
+<pb n="1206A"/>
+spiritalem medicinam canebat, ea forma, qua
+semper carnalia in figura spiritalium antecedunt.
+Proficiente itaque in hominibus gratia Dei, plus aquis
+et Angelo accessit: qui vitia corporis remediabant,
+nunc spiritum medentur: qui temporalem operabantur
+salutem, nunc aeternam reformant: qui unum
+semel anno liberabant, nunc quotidie populos conservant,
+deleta morte per ablutionem delictorum.
+Exempto scilicet reatu, eximitur et poena. Ita
+restituitur homo Deo ad similitudinem ejus <note>(Gen., I)</note>,
+qui retro ad imaginem Dei fuerat; imago
+in effigie, similitudo in aeternitate censetur. Recipit
+enim illum Dei spiritum, quem tunc de afflatu ejus
+acceperat, sed post amiserat per delictum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p>
+            <pb n="1206B"/>Non quod in aquis Spiritum sanctum consequamur;
+sed in aqua emundati sub Angelo,
+Spiritui sancto praeparamur. Hic quoque figura praecessit <note>(Matth., III)</note>.
+Sic enim Joannes ante praecursor
+Domini fuit, praeparans vias ejus: ita et Angelus
+Baptismi arbiter superventuro Spiritui sancto
+vias dirigit ablutione delictorum, quam fides impetrat,
+obsignata <note>(Matth., XXVIII)</note> in Patre, et Filio,
+et Spiritu sancto <note>(Ibidem., XVIII)</note>. Nam si in tribus
+testibus stabit omne verbum, quanto magis, dum
+habemus per benedictionem eosdem arbitros fidei,
+quos et sponsores salutis, sufficit ad fiduciam spei
+nostrae etiam numerus nominum divinorum? Cum
+autem sub tribus, et testatio fidei, et sponsio salutis
+<pb n="1206C"/>
+pignerentur, necessario adjicitur Ecclesiae mentio;
+quoniam ubi tres, id est Pater et Filius et Spiritus
+sanctus, ibi Ecclesia, quae trium corpus est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p>Exinde, egressi de lavacro, perungimur
+benedicta unctione de pristina disciplina, qua
+ungi oleo de cornu in sacerdotium solebant. Ex
+<pb n="1207A"/>
+quo Aaron a Moyse <note>(Levit., XVIII)</note> unctus est:
+unde Christus dicitur, a chrismate quod est
+unctio <note>(I Reg., XV.)</note>, quae Domino nomen accommodavit,
+facta spiritualis, quia spiritu unctus
+est a Deo Patre, sicut in Actis: <hi>Collecti sunt enim
+vere in ista civitate adversus sanctum Filium tuum,
+quem unxisti <note>(Act., IV, 27)</note>
+            </hi>. Sic et in nobis carnaliter
+currit unctio, sed spiritaliter proficit: quomodo
+et ipsius Baptismi carnalis actus, quod in aqua mergimur;
+spiritalis effectus, quod delictis liberamur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p>Dehinc manus imponitur, per benedictionem
+advocans et invitans Spiritum sanctum. Sane
+humano ingenio licebit spiritum in aquam arcessere
+ et concorporationem eorum, accommodatis
+<pb n="1208A"/>
+desuper manibus, alio spiritu tantae
+claritatis animare; Deo autem in suo organo
+non licebit per manus sanctas sublimitatem modulari
+spiritalem? Sed est hoc quoque de veteri sacramento,
+quo nepotes suos ex Joseph Ephraim et Manassem
+Jacob <note>(Gen., XLVIII, 14)</note>, capitibus impositis et intermutatis
+manibus, benedixerit, et quidem ita transversim
+obliquatis in se, ut Christum deformantes,
+jam tunc portenderent benedictionem in Christum
+futuram. Tunc ille sanctissimus Spiritus super emundata
+et benedicta corpora libens a Patre descendit <note>(Matth., III, 16)</note>,
+super Baptismi aquas, tanquam
+pristinam sedem recognoscens, conquiescit, columbae
+figura delapsus in Dominum, ut natura
+Spiritus sancti declararetur per animal simplicitatis
+<pb n="1209A"/>
+et innocentiae, quod etiam corporaliter ipso felle
+careat columba. Ideoque: <hi>Estote,</hi> inquit, <hi>simplices
+sicut columbae <note>(Matth., X, 16)</note>
+            </hi>, ne hoc quidem sine
+argumento praecedentis figurae. Quemadmodum enim
+post aquas diluvii, quibus iniquitas antiqua purgata
+est, post Baptismum (ut ita dixerim) mundi pacem
+coelestis irae praeco columba terris adnuntiavit dimissa
+ex arca, et cum olea reversa <note>(Gen. VIII, 11)</note>;
+quod signum etiam apud nationes paci praetenditur: 
+eadem dispositione spiritalis effectus terrae,
+id est carni nostrae emergenti de lavacro post vetera
+delicta, columba sancti Spiritus advolat <note>(Luc.,
+III)</note>, pacem Dei afferens, emissa de coelis, ubi Ecclesia
+est arca figurata. Sed mundus rursus delinquit,
+quo male comparetur Baptismus diluvio.
+<pb n="1209B"/>
+Itaque igni destinatur, sicut et homo qui post
+Baptismum delicta restaurat, ut hoc quoque in signum
+admonitionis nostrae debeat accipi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p>Quot igitur patrocinia naturae, quot privilegia
+gratiae, quot solemnia disciplinae, figurae, praestructiones,
+precationes religionem aquae ordinaverunt?
+Primo quidem, cum populus de Aegypto <note>(Exod., XIV)</note> 
+ libere expeditus, vim regis
+Aegypti, per aquam transgressus, evadit, ipsum regem
+cum totis copiis aqua exstinxit. Quae figura manifestior
+in Baptimi sacramento? Liberantur de saeculo
+nationes per aquam scilicet, et diabolum, dominatorem
+pristinum, in aqua oppressum derelinquunt. Item
+aqua de amaritudinis vitio in suum commodum
+<pb n="1210A"/>
+suavitatis Mosei ligno remediatur. Lignum illud
+erat Christus, venenatae et amarae retro naturae venas
+insaluberrimas, aquas Baptismi, scilicet, ex
+sese remedians <note>(Exod., VII; Num., XX; I Cor., X)</note>.
+Haec est aqua, quae de comite petra populo defluebat.
+Si enim petra Christus, sine dubio aqua in
+Christo Baptismum videmus benedici. Quanta aquae
+gratia penes Deum et Christum ejus est ad Baptismi
+confirmationem. Nunquam sine aqua Christus, siquidem
+et ipse aqua tinguitur <note>(Matth., III, X, XIV,
+XXVII; Joan., III, IV, VII, XIII, XIX)</note>. Prima rudimenta
+potestatis suae, vocatus ad nuptias, aqua
+auspicatur. Cum sermonem facit, sitientes ad aquam
+suam invitat sempiternam. Cum de agape docet,
+aquae calicem, fratri oblatum, inter opera dilectionis
+<pb n="1210B"/>
+probat. Apud puteum vires resumit; super
+aquam incedit libenter, transfretat; aquam discentibus
+ministrat; perseverat testimonium Baptismi usque
+ad passionem; cum deditur in crucem, aqua intervenit,
+sciunt Pilati manus; cum vulneratur, aqua de
+latere prorumpit, scit lancea militis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p>Diximus, quantum mediocritati nostrae licuit, de
+universis quae Baptismi religionem struunt; nunc
+ad reliquum statum ejus, aeque ut potero, progrediar
+de quaestiunculis quibusdam. Baptismus ab
+Joanne denuntiatus jam tunc habuit quaestionem ab
+ipso quidem Domino propositam Pharisaeis, coelestisne
+is Baptismus esset, an vero terrenus <note>(Matth. XXI)</note>?
+De quo illi non valuerunt constanter respondere, utpote
+<pb n="1211A"/>
+non intelligentes, quia non credentes <note>(Es. VII)</note>.
+Nos porro quantula fide sumus, tantulo et intellectu
+possumus aestimare, divinum quidem eum Baptismum
+fuisse, mandatu tamen, non et potestate, quod et
+Joannem a Domino missum legimus in hoc munus
+caeterum humanum conditione. Nihil enim coeleste
+praestabat, sed coelestibus praeministrabat, poenitentiae
+scilicet praepositus, quae est in hominis potestate.
+Denique legis doctores et Pharisaei, qui
+credere noluerunt, nec poenitentiam egere. Quod
+si poenitentia humanum est, et Baptismus ipsius
+ejusdem conditionis fuerit necesse est; aut daret et
+Spiritum Sanctum et remissionem delictorum, si coelestis
+fuisset. Sed neque peccatum dimittit, neque
+Spiritum indulget, nisi Deus solus <note>(Marc., V)</note>. Etiam
+<pb n="1211B"/>
+ipse Dominus, nisi ipse prius ascenderet ad Patrem,
+aliter negavit <note>(Joan. XVI)</note>, Spiritum descensurum. Id
+quod Dominus nondum conferebat, servus utique
+praestare non posset. Adeo postea in Actis apostolorum
+ invenimus <note>(Act., XIX)</note>, quoniam qui Joannis
+Baptismum habebant, non accepissent Spiritum
+sanctum, quem ne auditu quidem noverant: ergo
+non erat coeleste, quod coelestia non exhibebat <note>(Joan., I)</note>:
+cum ipsum quod coeleste in Joanne
+fuerat, spiritus prophetiae, post totius spiritus in
+Dominum translationem usque adeo defecerit, ut
+quem praedicaverat, quem advenientem designaverat,
+postmodum, an ipse esset miserit sciscitatum <note>(Matth., II)</note>.
+Agebatur itaque Baptismus poenitentiae,
+quasi canditatus remissionis et sanctificationis in
+<pb n="1211C"/>
+Christo subsecuturae. Nam quod praedicabat Baptismum
+poenitentiae in remissionem delictorum, in futuram
+remissionem enuntiatum est. Siquidem poenitentia
+antecedit, remissio subsequitur, et hoc est viam
+praeparare: qui autem praeparat, non idem ipse perficit,
+<pb n="1212A"/>
+sed alii perficiendum procurat. Ipse profitetur
+sua non esse coelestia, sed Christi, dicendo: <hi>Qui de
+terra est, de terra loquitur: qui de supernis venit, super
+omnes est <note>(Joann., III, 31)</note>
+            </hi>. Item, in sola poenitentia
+ tinguere; venturum mox, qui tingueret in
+spiritu et igni <note>(Luc., III, 16)</note>. Scilicet, quia vera et
+stabilis aquae fides qua tinguitur in salutem; simulata
+autem et infirma, igni tinguitur in judicium.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p>Sed ecce, inquit, venit Dominus, et non tinxit.
+Legimus enim: <hi>Et tamen is non tinguebat, verum
+discipuli ejus <note>(Joan., IV)</note>
+            </hi>, quia, revera, ipsum suis
+manibus tincturum Joannes, praedicasset <note>(Luc. III)</note>.
+Non utique sic intelligendum est, sed simpliciter dictum
+more communi. Sicut est, verbi gratia, Imperator
+<pb n="1212B"/>
+proposuit edictum, aut Praefectus fustibus caecidit;
+numquid ipse proponit, aut numquid ipse caedit?
+semper is dicitur facere, cui praeministratur. Ita erit
+accipiendum. Ipse vos tinguet, pro eo quod est, per <hi>ipsum</hi> 
+ tinguemini, vel in <hi>ipsum.</hi> Sed ne moveat quosdam,
+quod non ipse tinguebat. In quem enim tingueret?
+in poenitentiam? quo ergo illi praecursorem? in
+peccatorum remissionem, quam verbo dabat? in semetipsum,
+quem humilitate celabat? in Spiritum
+sanctum, qui nondum a patre descenderat? in Ecclesiam,
+quam nondum apostoli struxerant? Itaque tinguebant
+discipuli ejus, ut ministri, ut Joannes ante
+praecursor, eodem baptismo Joannis, ne qui alio
+putet, quia nec exstat alius nisi postea Christi, qui
+tunc utique a discentibus dari non poterat, utpote,
+<pb n="1212C"/>
+nondum adimpleta gloria Domini, nec instructa
+efficacia lavacri per passionem et resurrectionem:
+quia nec mors nostra dissolvi posset nisi Domini passione <note>(Rom., VI)</note> 
+ nec vita restitui sine resurrectione
+ipsius.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+
+<pb n="1213A"/>
+<p>Cum vero praescribitur nemini sine Baptismo competere
+salutem, ex illa maxime pronuntiatione Domini,
+qui ait: <hi>Nisi natus ex aqua quis erit, non habet vitam <note>(Joan., III)</note>
+            </hi>,
+suboriuntur scrupulosi, imo temerarii
+retractatus quorumdam, quomodo ex ista praescriptione
+Apostolis salus competat, quos tinctos non
+invenimus in Domino, praeter Paulum. Imo cum Paulus
+solus ex illis Baptismum Christi induerit, aut praejudicatum
+esse de caeterorum periculo, qui careant
+aqua Christi, ut praescriptio salva sit, aut rescindi
+praescriptionem, si etiam non tinctis salus statuta est.
+Audivi, Domino teste, ejusmodi, ne quis me tam
+perditum existimet, ut ultro exagitem libidine
+styli, quae aliis scrupulum incutiant. Et nunc illis,
+<pb n="1213B"/>
+ut potero, respondebo, qui negant Apostolos tinctos.
+Nam si humanum Joannis Baptismum inierant, et dominicum
+desiderabant quatenus unum Baptismum
+definierat ipse Dominus, dicens Petro perfundi
+nolenti: <hi>Qui semel lavit, non habet necesse rursum 
+ <note>(Joan., XIII, 6)</note>
+            </hi>: quod utique non tincto
+non omnino dixisset: et haec est probatio exserta adversus
+illos, qui adimunt Apostolis etiam Joannis Baptismum,
+ut destruant aquae sacramentum. An credibile
+videri potest, in his personis viam tunc Domini
+praeparatam, id est Baptismum Joannis, quae ad viam
+Domini per totum orbem aperiendam destinabantur?
+Ipse Dominus, nullius poenitentiae debitor, tinctus est,
+peccatoribus non fuit necesse? Quid ergo? alii tincti
+non sunt? non tamen comites Christi, sed aemuli
+<pb n="1213C"/>
+fidei, legis doctores et Pharisaei. Unde et suggeritur,
+cum adversantes Domino tingui noluerint, eos qui
+Dominum sequebantur, tinctos fuisse, nec cum aemulis
+suis sapuisse, maxime quando Dominus cui adhaerebant,
+<pb n="1214A"/>
+testimonio Joannem extulisset, <hi>nemo,</hi> dicens <note>(Matth., II, 11)</note>,
+ <hi>major inter natos foeminarum Joanne
+baptizatore.</hi> Alii plane satis coacte injiciunt tunc apostolos
+Baptismi vicem implesse cum in navicula fluctibus
+aspersi operti sunt <note>(Matth., VIII)</note>; ipsum quoque
+Petrum per mare ingredientem satis mersum <note>(Matth.,
+XIV)</note>. Ut opinor autem, aliud aspergi vel intercipi
+violentia maris, aliud tingui disciplina religionis. Caeterum
+navicula illa figuram Ecclesiae praeferebat, quod
+in mari, id est saeculo, fluctibus, id est persecutionibus
+et tentationibus inquietatur Domino per patientiam
+velut dormiente <note>(Matth., VIII)</note>, donec orationibus
+Sanctorum in ultimis suscitatus, compescat saeculum
+et tranquillitatem suis reddat. Nunc sive tincti
+quoquo modo fuerunt, sive illoti perseveraverunt, ut
+<pb n="1214B"/>
+et illud dictum Domini <note>(Joan., XIII)</note>, de uno
+lavacro sub Petri persona ad nos tantummodo spectet,
+de salute tamen Apostolorum satis temerarium est
+aestimare, quia illis vel primae allectionis, et exinde
+individuae familiaritatis praerogativa compendium
+Baptismi conferre posset. Cum illo, opinor, sequebantur
+illum, qui credenti cuique salutem pollicebatur: <hi>Fides tua te,</hi> 
+ aiebat, <hi>salvum fecit,</hi> et: <hi>Remittuntur
+tibi peccata <note>(Marc., X)</note>
+            </hi>, credenti utique, nec tamen
+tincto. Id si Apostolis defuit, nescio quorum fides:
+uno verbo Domini suscitatus teloneum dereliquit <note>(Matth., IX)</note>;
+patrem, et navem, et artem qua vitam
+sustentabat, deseruit; patris exequias despexit:
+summum illud Domini praeceptum: <hi>Qui
+patrem aut matrem mihi praetulerit, non est me dignus</hi> 
+<pb n="1214C"/> <note>(Matth., X, 37)</note>,
+ante perfecit quam audivit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p>Hic ergo scelestissimi illi provocant quaestiones.
+Adeo, dicunt, Baptismus non est necessarius, quibus
+<pb n="1215A"/>
+fides satis est, nam et Abraham nullius aquae nisi fidei
+sacramento Deo placuit <note>(Gen., XV)</note>. Sed in omnibus
+posteriora concludunt, et sequentia antecedentibus
+praevalent. Fuerit salus retro per fidem nudam
+ante Domini passionem et resurrectionem. At ubi fides
+aucta est credendi in nativitatem, passionem, resurrectionemque
+ejus, addita est ampliatio sacramento,
+obsignatio Baptismi vestimentum quodammodo
+fidei, quae retro erat nuda, nec potentiam habuit sine
+sua lege. Lex enim tinguendi imposita est, et forma
+praescripta. <hi>Ite,</hi> inquit, <hi>docete nationes, tinguentes eas
+in nomine Patris et Filii et Spiritus sancti <note>(Matth.,
+XXVIII, 19)</note>
+            </hi>. Huic legi collata definitio illa: <hi>Nisi quis
+renatus fuerit ex aqua et spiritu, non intrabit in regnum
+coelorum <note>(Joan., III, 5)</note>
+            </hi>, obstrinxit fidem ad Baptismi
+<pb n="1215B"/>
+necessitatem. Itaque omnes exinde credentes tinguebantur.
+Tunc et Paulus ubi credidit, tinctus est <note>(Act.,
+IX, 6)</note>. Et hoc est quod Dominus in illa plaga orbationis
+praeceperat: <hi>Exsurge,</hi> dicens, <hi>et introi Damascum (Ibidem)</hi>,
+ <hi>illic tibi demonstrabitur quid debeas
+agere,</hi> scilicet tingui, quod solum ei deerat. Alioquin
+satis didicerat atque crediderat Nazarenum esse Dominum
+Dei Filium.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p>Sed de ipso Apostolo revolvunt, quod dixerit: <hi>Non
+enim me ad tinguendum Christus misit <note>(I Cor., I, 17)</note>
+            </hi>,
+quasi hoc argumento Baptismus adimatur. Cur enim
+tinxit Gaium et Crispum et Stephanae domum <hi>(Ibidem)</hi>?
+Quanquam etsi non eum miserat Christus ad
+<pb n="1215C"/>
+tinguendum, tamen aliis Apostolis praeceperat tinguere.
+<pb n="1216A"/>
+Verum haec pro conditione tunc temporis ad
+Corinthios scripta sunt <note>(Ibid.)</note>, quoniam schismata
+et dissensiones inter illos movebantur, dum alius
+Paulo deputat, alius Apollo. Propter quod pacificus
+Apostolus, ne sibi omnia defendere videretur, non ad
+tinguendum ait se missum, sed ad praedicandum. Nam
+et prius est praedicare, posterius tinguere. Si prius
+praedicatum: puto autem licuit et tinguere cui
+licuit praedicare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p>Nescio si quid amplius ad controversiam Baptismi
+ventilatur. Sane retexam, quod supra omisi, ne imminentes
+sensus videar intercidere. Unus omnino baptismus
+est nobis, tam ex Domini Evangelio <note>(Joan.,
+III)</note>, quam ex Apostoli litteris <note>(Eph., IV)</note>; quoniam
+<pb n="1216B"/>
+unus Dominus et unum Baptismum et una Ecclesia in
+coelis. Sed circa haereticos sane quid custodiendum
+sit, digne quis retractet; ad nos enim editum est.
+Haeretici autem nullum habent consortium nostrae
+disciplinae, quos extraneos utique testatur ipsa ademptio
+communicationis. Non debeo in illis agnoscere
+quod mihi est praeceptum, quia non idem Deus est
+nobis et illis, nec unus Christus, id est idem. Ideoque
+nec Baptismus unus, quia non idem. Quem
+cum rite non habeant, sine dubio non habent, nec capit
+numerari, quod non habetur: ita nec possunt
+accipere, quia non habent. Sed de isto plenius jam
+nobis in graeco digestum est. Semel ergo lavacrum
+inimus, semel delicta diluuntur, quia ea iterari
+<pb n="1216C"/>
+non oportet. Caeterum Israel <note>(Marc., VII)</note> Judaeus
+<pb n="1217A"/>
+quotidie lavat, quia quotidie inquinatur <note>(Hebr.,
+VI)</note>. Quod ne in nobis quoque factitaretur, propterea
+de uno lavacro definitum est. Felix aqua quae semel
+abluit, quae ludibrio pescatoribus non est, quae non
+assiduitate sordium infecta, rursus, quos diluit, inquinat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p>Est quidem nobis etiam secundum lavacrum, unum
+et ipsum, sanguinis scilicet: de quo Dominus: <hi>Habeo,</hi> 
+inquit, <hi>Baptismo tingui <note>(Luc., XII, 50)</note>
+            </hi>, cum jam
+tinctus fuisset. Venerat enim per <hi>aquam et sanguinem <note>(I Joan., V, 6)</note>
+            </hi>,
+sicut Joannes scripsit, ut aqua
+tingueretur, sanguine glorificaretur, proinde nos faceret
+aqua vocatos <note>(Joan., XIX)</note>, sanguine electos.
+Hos duos baptismos de vulnere perfossi lateris
+<pb n="1217B"/>
+emisit, quia qui in sanguinem ejus crederent,
+aqua lavarentur: qui aqua lavissent, etiam sanguinem
+potarent. Hic est Baptismus, qui lavacrum et
+non acceptum repraesentat, et perditum reddit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<p>Superest ad concludendam materiolam de observatione
+<pb n="1218A"/>
+quoque dandi et accipiendi Baptismum commonefacere.
+Dandi quidem habet jus summus sacerdos,
+qui est episcopus. Dehinc presbyteri et
+diaconi, non tamen sine episcopi auctoritate,
+propter Ecclesiae honorem. Quo salvo, salva pax est.
+Alioquin etiam laicis jus est. Quod enim ex aequo accipitur,
+ex aequo dari potest, nisi episcopi jam aut
+presbyteri, aut diaconi vocantur, discentes, Domini
+sermo non debet abscondi ab ullo. Proinde et
+Baptismus aeque Dei census ab omnibus exerceri potest:
+sed quanto magis laicis disciplina verecundiae
+et modestiae incumbit, cum ea majoribus
+competat, ne sibi assumant dicatum episcopi
+officium episcopatus. Aemulatio schismatum mater
+est. <hi>Omnia licere,</hi> dixit sanctissimus Apostolus,
+<pb n="1218B"/> <hi>sed non omnia expedire 
+ <note>(I Cor., VI et X)</note>
+            </hi>. Sufficiat
+scilicet in necessitatibus ut utaris, sicubi aut loci,
+aut temporis, aut personae conditio compellit. Tunc
+enim constantia succurrentis excipitur, cum
+urget circumstantia periclitantis. Quoniam reus erit
+perditi hominis, si supersederit praestare, quod
+<pb n="1219A"/>
+libere potuit. Petulantia autem mulieris quae
+usurpavit docere, utique non etiam tinguendi jus
+sibi pariet, nisi si quae nova bestia evenerit similis
+pristinae: ut quemadmodum illa Baptismum auferebat,
+ita aliqua per se eum conferat. Quod si quae
+Paulo perperam adscripta sunt, exemplum Theclae
+ad licentiam mulierum docendi tinguendique defendunt;
+sciant in Asia presbyterum, qui eam
+scripturam construxit, quasi titulo Pauli de suo cumulans,
+convictum atque confessum id se
+amore Pauli fecisse, loco decessisse. Quam enim
+fidei proximum videretur, ut is docendi et tinguendi
+<pb n="1220A"/>
+daret foeminae potestatem, qui ne discere quidem
+constanter mulieri permisit: <hi>Taceant, et domi
+maritos suos consulant <note>(II Cor., XIV)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p>Caeterum Baptismum non temere credendum esse
+sciunt, quorum officium est. Omni petenti te dato,
+suum habet titulum perinde ad eleemosynam
+pertinentem. Imo illud potius perspiciendum: <hi>Nolite
+dare sanctum canibus <note>(Luc., VI)</note>
+            </hi>, et <hi>porcis projicere
+margaritas vestras <note>(Matth., VII, 6)</note>
+            </hi>, et <hi>manus ne
+facile imposueris, ne participes aliena delicta (I Tim.,
+<pb n="1221A"/>
+V, 22; Act., VIII)</hi>. Si Philippus tam facile tinxit eunuchum,
+recogitemus manifestam et exsertam dignationem
+Domini intercessisse. Spiritus Philippo praeceperat
+in eam viam praetendere; spado et ipse
+inventus est non otiosus, nec qui subito tingui concupisceret:
+sed ad templum orandi gratia profectus
+Scripturae divinae impressus. Sic oportebat deprendi,
+cui ultro Deus Apostolum miserat, ad quem rursus
+Spiritus, ut se curriculo eunuchi adjungeret, jussit,
+Scriptura ipsius fidei occurrit in tempore, exhortatus
+assumitur, Dominus ostenditur, fides non moratur,
+aqua non exspectatur, Apostolus perfecto negotio
+eripitur. Sed et Paulus revera cito tinctus est <note>(Act.,
+IX)</note>. Cito enim cognoverat Simon hospes vas
+eum esse electionis constitutum. Dei dignatio suas
+<pb n="1221B"/>
+praemittit praerogativas; omnis petitio et decipere et
+decipi potest. Itaque pro cujusque personae conditione
+ac dispositione, etiam aetate cunctatio Baptismi
+utilior est: praecipue tamen circa parvulos. Quid
+enim necesse est, sponsores etiam periculo ingeri?
+quia et ipsi per mortalitatem destituere
+promissiones suas possunt, et proventu malae
+indolis falli. Ait quidem Dominus: <hi>Nolite illos prohibere
+ad me venire <note>(Matth., XIX, 14)</note>
+            </hi>. Veniant ergo
+dum adolescunt, veniant dum discunt, dum quo veniant,
+docentur; fiant Christiani, cum Christum
+nosse potuerint. Quid festinat innocens aetas ad
+remissionem peccatorum? Cautius agetur in saecularibus,
+ut cui substantia terrena non creditur, divina
+<pb n="1221C"/>
+credatur; norint petere salutem, ut petenti dedisse
+videaris. Non minore de caussa innupti quoque
+procrastinandi, in quibus tentatio praeparata est tam
+virginibus per maturitatem, quam viduis per vagationem,
+<pb n="1222A"/>
+donec aut nubant, aut continentiae corroborentur.
+Si qui pondus intelligant Baptismi, magis
+timebunt consecutionem quam dilationem: fides
+integra secura est de salute.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p>Diem Baptismo solemniorem Pascha praestat,
+ cum et passio Domini in qua tinguimur,
+adimpleta est, nec incongruenter ad figuram
+interpretabitur, quod cum ultimum Pascha
+Dominus esset acturus, missis discipulis ad praeparandum, <hi>Invenietis</hi>,
+inquit, <hi>hominem aquam bajulantem <note>(Marc., XIV, 13)</note>
+            </hi> 
+ Paschae celebrandae locum
+de signo aquae ostendit. Exinde Pentecoste ordinandis
+lavacris latissimum spatium est <note>(Act., II)</note>, quo
+et Domini resurrectio inter discipulos frequentata est,
+<pb n="1222B"/>
+et gratia Spiritus sancti dedicata, et spes adventus
+Domini subostensa, quod tunc in coelos recuperato
+eo, Angeli ad apostolos dixerunt, sic venturum quemadmodum
+et in coelos conscendit <note>(Act., I)</note> utique
+in Pentecoste. Sed enim Jeremias cum dicit: <hi>Et congregabo
+illos ab extremis terrae in die festo <note>(Jer., XXI,
+8)</note>
+            </hi>, Paschae diem significat et Pentecostes, qui est proprie
+dies festus. Caeterum omnis dies Domini est,
+omnis hora, omne tempus habile Baptismo: si de
+solemnitate interest, de gratia nihil refert.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p>Ingressuros Baptismum, orationibus crebris, jejuniis
+et geniculationibus, et pervigiliis orare oportet,
+et cum confessione omnium retro delictorum,
+<pb n="1222C"/>
+ ut exponant etiam Baptismum Joannis, <hi>Tinguebantur,</hi> 
+ inquit, <hi>confitentes delicta sua <note>(Matth.,
+III, 6)</note>
+            </hi>. Nobis gratulandum est, si non publice
+confitemur iniquitates aut turpitudines nostras. Simul
+<pb n="1223A"/>
+enim et de pristinis satisfacimus conflictatione
+carnis et spiritus, et subsecuturis tentationibus munimenta
+praestruimus. <hi>Vigilate et orate,</hi> inquit, <hi>ne
+incidatis in tentationem <note>(Matth., XXVI, 41)</note>
+            </hi>. Et ideo,
+credo, tentati sunt, quoniam obdormierunt, ut apprehensum
+Dominum destituerint, et qui cum eo perstiterit,
+et gladio sit usus, ter etiam negaverit: nam et
+praecesserat dictum: <hi>Neminem intentatum regna coelestia
+consecuturum <note>(Luc., XXII, 28, 29)</note>
+            </hi>. Ipsum
+Dominum post lavacrum statim tentationes circumsteterunt
+quadraginta diebus jejuniis functum. Ergo et
+nos, dicet aliquis, a lavacro potius jejunare oportet. Et
+quis enim prohibet, nisi necessitas gaudii et gratulatio
+salutis? Sed Dominus, quantum existimo,
+de figura Israelis exprobrationem in ipsum retorsit.
+<pb n="1223B"/>
+Namque populus mare transgressus, et in solitudine
+<pb n="1224A"/>
+translatus per quadraginta annos, illic cum
+divinis aleretur, nihilominus ventris et gulae meminerat,
+quam Dei. Deinde Dominus post aquam
+segregatus in deserto  quadraginta dierum jejunia
+emensus, ostendit non pane vivere hominem
+Dei, sed Dei verbo: tentationesque plenitudini et
+immoderantiae ventris appositas abstinentia elidi.
+Igitur benedicti quos gratia Dei expectat. cum de illo
+sanctissimo lavacro novi natalis ascenditis, et primas
+manus apud Matrem cum fratribus aperitis,
+petite de Patre, petite de Domino, peculia,
+gratias, distributiones charismatum, subjiciente, <hi>Petite et accipietis 
+ <note>(Matth., VII. 7)</note>
+            </hi>, inquit. Quaesistis enim
+et invenistis; pulsastis, et apertum est vobis. Tantum
+oro, ut cum petitis etiam Tertulliani peccatoris
+<pb n="1224B"/>
+memineritis.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

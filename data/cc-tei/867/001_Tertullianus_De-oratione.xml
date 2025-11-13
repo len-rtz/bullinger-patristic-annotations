@@ -1,0 +1,1302 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De oratione</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 1</title>
+           <idno>Tertul.DeOra</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Prolegomena.</head>
+<p>
+          <pb n="1143A"/>Plurimos Tertulliani editos libros, paucos vero
+manuscriptos in bibliothecis numeramus. Hinc factum
+ut ne adhuc quidem accuratissime typis descripta
+illius opera habeamus: quaedam mutila, foedisque
+vulneribus horrentia in publicum prodierint: nonnulla
+etiam desiderantur quae a Tertulliano evulgata scimus,
+at nobis ab edacitate temporum omnino erepta aeque
+<pb n="1144A"/>
+suspicamur, et dolemus. Melioribus fatis hucusque
+gavisus non est liber <hi>de Oratione,</hi> quem primus omnium
+Parisiis e vetustissimo codice evulgavit Joannes
+Gagneius parisiensis theologus anno Christi 1545,
+at minime integrum, at illustri coronide destitutum.
+Neque huic editioni reliquae subsecutae opem tulere
+prae codicum inopia. Unus tantum Rigaltius vetustum
+codicem mutilum esse librum animadvertit, et aliquot
+duntaxat lineis in calce additis, medicinam aliis
+propinandam reliquit. Cum itaque ego inciderim in
+<pb n="1145A"/>
+vetustum Ambrosianae bibliothecae codicem, ubi legebantur
+quae in caeteris desunt, continuo anecdotis
+meis addidi veluti gemmas litterariae reipublicae in
+primis gratas. Quae cumque enim e Tertulliano, omnium
+certe sui temporis eruditissimo, litteris consignata
+sunt, eaque praesertim, quae in castris catholicorum
+scripsit, quanti sint apud omnes ecclesiasticae rei
+cultores, vel ipsis tyronibus patet. Ambrosianus autem
+codex non ab orationis dominicae expositione,
+ut in editis habemus, sed ab iis, quae hujusmodi expositionem
+subsequuntur, opusculum exordiebatur
+cum hocce titulo: <hi>Incipit Tertulliani diversarum rerum
+necessariarum.</hi> Tum caput primum, cujus initium est: <hi>Compendiis pauculorum verborum,</hi> 
+ etc., ita praenotabatur: <hi>Anacephalaeosis. Posse nos superadjicere,</hi> 
+ titulus
+<pb n="1145B"/>
+erat sequentis capitis. Reliqua etiam capita suos
+titulos praeferebant, quos itidem in hac nostra editione
+retinendos censuimus. Quod superest opusculum
+istud quibus tam exornare ac illustrare annotationibus
+placuit, ne quod reliquis Tertulliani libris
+eruditissimi viri praestitere, huic desit, et ne tenebras
+et ferreum asperumque scriptoris hujus stylum delicatuli
+quidam caussantes, ab ejus lectione avertantur.
+Nullum denique inter veteres Christianos auctorem
+ostendas, cui eruditionis et scholiorum lumina
+magis admovenda videantur, quam Tertulliano, a
+quo obscuritas in dicendo nescio utrum evitari ullo
+pacto posset an in deliciis haberetur.</p>
+<p>Quae quidem omnia cum digessissem pro viribus
+meis, subiit non ingratum eruditis futurum, si notis
+<pb n="1145C"/>
+meis illas quoque subjicerem, quas Guido Pancirolus
+jurisconsultus regiensis in eumdem de Oratione librum
+conscripserat. Eoque libentius consilium meum probatum
+iri sperabam, quod animadverterem potiorem
+clarissimi viri curam in obscuris Tertulliani sensibus
+exponendis positam, cum contra ego historicas potius
+ac eruditas libelli hujus reliquias mihi illustrandas
+proposuissem. Dolendum autem est, neminem
+adhuc in Italia fuisse, qui ad nostrae gentis gloriam
+caeteros Panciroli in Tertullianum commentarios
+edendos curaverit. Vix brevem de iis mentionem a
+Thomasino in Panciroli Vita, a Dupinio, Guillelmo
+<pb n="1146A"/>
+Cave, aliisque paucis scriptoribus habemus; imo vix
+iis constabat, eorum quidquam superesse. Meliore
+profecto sorte dignus erat labor ille Panciroli viri celeberrimi,
+qui non jurisprudentiae solum, sed sacrae
+etiam et profanae eruditionis laude eximium inter litteratos
+sibi comparavit locum. Et quidem opinor, ut
+et Possevinus in Apparatu opinabatur, uberrimos
+illos in Tertullianum commentarios, quos B. Rhenanus,
+Pamelius, La Cerda, Salmasius, atque alii doctissimi
+viri luci mandarunt, obstitisse ne isti prodirent;
+putantibus nimirum iis, quibus posthuma Panciroli
+fama condifutura erat, se parum utilem operam
+lusuros, si easdem dapes eruditorum palato exhiberent.
+Verum non is est Tertullianus, qui paucis contentus
+sit interpretibus; et cum recentiores ejus
+<pb n="1146B"/>
+interpretes ab antiquiorum conatibus minime deterriti
+sint, quominus et suos illi producerent, cur
+Panciroli studiosos de tam nobili consilio dejicere
+debuit inconsultus hic metus? Facile vero est, ut
+coeuntibus in unius auctoris explicationem pluribus
+diversisque ingeniis, ejus meus ac scripta clariora
+in dies fiant, atque a tenebris liberentur aut ex antiquitate
+temporum, aut ex incuria librariorum,
+aut e scriptoris austeritate manantibus. Quae quanquam
+de singulis veteribus vere dici possunt, imprimis
+tamen de Tertulliano sunt affirmanda, quem
+post tot interpretum curas habemus adhuc obscurum.
+Eodem autem tempore, quo Pamelius in
+Tertulliano explicando exercebatur, Pancirolus nobisque
+plenos reliquit commentarios in omnia illius
+<pb n="1146C"/>
+scripta ad mortem usque suam evulgata. Horum autem
+autographon Regii Lepidi in ejus patria latet.
+Mihi videre ac describere contigit ejus tantummodo
+exemplar, quod accuratissime scriptum in sua bibliotheca
+servat P. Joannes Baptista Cattaneus, Franciscani
+ordinis, ut vocant, de Observantia, ornamentum.
+Et quoniam hujus munere factum est, ut quod
+mihi de ms. illo opere placet, haurire possem,
+hic epistolam quoque dare statui iisdem commentariis
+praepositam, inde enim palam fiet, quae in Tertullianum
+Pancirolus praestiterit. Ita ergo scribit
+ille:
+</p>
+      </div1>
+
+<div1>
+        <head>AD LECTOREM PANCIROLI Praefatio.</head>
+
+<pb n="1145"/>
+<p>
+          <pb n="1145D"/>Felicem mihi adventum Patavio Taurinum ex eo
+potissimum fuisse existimo, quod inter alios, quos
+inveni doctissimos viros, imprimis Vincentius Laurus
+Montisregalis episcopus et S.  D.  N. Gregorii XIII
+Pont. Max. apud Sereniss Emmanuelem Philibertum
+Sabaudiae ducem nuntius apostolicus, ac cardinalis
+in omni disciplinarum genere versatus occurrit,
+qui dum me domesticis colloquiis suis dignum putavit,
+doctrina meliorem semper fecit; et sicut M. Tullius
+<pb n="1146D"/>
+Cicero a Q. Mutii Scevolae latere doctior discedebat
+<note>( <hi>in Laelio, sive de Amicit.</hi> )</note>, ita ego ex eruditissimis
+sermonibus suis non pauca exhauriens locupletior
+abii. Modo enim res ab orbe condito gestas enarrabat,
+modo philosophiae arcana depromebat, aut obscuros
+<pb n="1147A"/>
+aliquos auctores explicabat, vel mendosam lectionem
+ex probatis exemplaribus emendabat, vel ex
+suo pio instituto aliqua ex sacris litteris interpretabatur.
+Cum vero Tertulliani scriptis mirifice delectatus
+<note>( <hi>S. Hier., de Script. eccll. in Tertull.</hi> )</note>, eum velut
+alter Cyprianus quotidie in manibus haberet, valde
+dolebat, ita obscurum inveniri, ut nullus quandoque
+ex illo sensus erui posset. Sed cum multis obrutus
+negotiis, quae sibi Montisregalis antistiti ex sua ditione
+imminebant, et tanquam summi pontificis legato,
+vel Roma demandata, vel ex Subalpinis, undique
+emergentia occurrebant, hunc auctorem explanandi
+otium non haberet, aliquem alium quaerebat,
+qui tanto oneri subeundo posset sufficere. Videbat
+ad hominem omnibus disciplinis imbutum, ac linguae
+<pb n="1147B"/>
+graecae, historiarumque peritissimum interpretandum
+opus esse viro, qui plurium rerum, et imprimis juris
+civilis notitiam haberet, cum Tertullianus ipse,
+ut scribit Eusebius Hist. eccl., lib. I, cap. 2., jurisconsultus
+plurima ex jure civili deprompta passim
+scriptis inserat. Sed etsi alii doctores non deerant,
+qui id exactius praestare potuissent, plura tamen
+sibi de me, quam ferre possem, pollicitus ad hoc
+munus aptum esse existimavit. Dum enim me diu
+Patavii, et aliquot annis Taurinorum Augustae jus
+civile professum esse animadvertit, ac nondum ingenii
+mei tenuitatem agnoscens, publico profitendi,
+ut arbitror, mihi munere demandato deceptus, ad
+tantum onus subeundum idoneum judicavit, ut qui
+non modo tanquam juris interpres, hunc jurisconsultum,
+<pb n="1147C"/>
+sed etiam plura ejus obscuriora possem
+interpretari.</p>
+<p>Hanc itaque provinciam mihi primo obtulit, et
+semel iterumque recusanti institit demum, et pro
+sua auctoritate impetravit, ut mandata susciperem.
+Cernebam quidem multa mihi tenuioris doctrinae
+homini ad tantum auctorem explanandum deesse, et
+mediocrem legum cognitionem ad plura, quae ex reconditis
+historiis, philosophia, medicina ac sacris
+litteris accipit, explananda non sufficere; nec id
+tempus pluribus fori negotiis implicito permittebat:
+sed quod me non posse dicebam ille nolle credebat:
+<l>Quid facerem? neque servitio me exire licebat,</l>
+<l>Nec tam praesentes fas non cognoscere divos.</l> 
+<pb n="1147D"/> <note>(Virg., Ecl. 1.)</note> 
+Illi itaque resistere non licuit, parendoque malui ab
+illo ingenium meum, quam voluntatem quaeri, et
+imbecillitatem quam contumaciam reprehendi.</p>
+<p>Collum igitur jugo subjeci, et quod nec meae
+vires patiebantur, nec tempus commode permittebat,
+subsecivis horis agere coepi. Sed dum illi morem
+gero, vereor ne mihi eveniat, quod Sergio Galbae
+contigit, qui privatus imperio dignus est judicatus,
+princeps vero factus ad illud ineptus apparuit <note>(Tacit.
+lib. I, Hist., seu Annal. l. XVII)</note>. Ego quoque
+dubito, ut qui tacens illi aliquid scire videbar, loquens
+indoctissimus omnibus detegar. Quidquid
+tamen futurum sit, justa capiendo, quid possim sua
+<pb n="1148A"/>
+auctoritate experiri volui. Inveni autem Tertullianum
+suo stylo, ut et Lactantius Firmianus, et D. Hieronymus
+indicant <note>(Lact. Firm., Div. Inst. l. V, c. I; S.
+Hier. ep. 13 ad Paulin.)</note>, obscurum, dum aut
+omissa verba vult subaudiri, vel minus usitata
+usurpat, et novam etiam phrasim sibi format. Ego
+ut legentes sublevarem, horum proprium indicem
+composui, ut in quo sensu dictiones, aut verba accipiat,
+cuique appareat. Cum vero majorem depravati
+codices difficultatem afferant, plura emendavi,
+sed ex his tantum, quae idem auctor saepe repetit vel
+D. Hieronymus aliique post eum recitant. Ex meo
+vero capite praeter litteram, aut syllabam nihil mutare
+sum ausus, maluique ambiguos permanere,
+quam falsos aut extraneos sensus inducere, et aliquid
+<pb n="1148B"/>
+potius desiderari quam corrumpi. Nihil tamen
+intactum omisi, ac in magnis obscuritatibus satius
+esse duxi, ingenium meum periclitari, quam confusos
+lectores dimitti. Et sicut Protogenes, quanquam
+egregius pictor, cum anhelantis equi spumam, rem
+tamen levem exprimere non posset, indignatus arti,
+spongia omnibus coloribus impacta, et animantis
+labiis admota, casu quod optabat perfecit <note>(Plin.,
+l. XXXV, c. 10)</note>: sic ipse, dum mentem pluribus involvo,
+aliquo conatu evenire posse putavi, ut aliquem
+forte auctoris sensum assequerer. quod et
+apud philosophos Averroes in Aristotelem, et apud
+nostros Angelus Ubaldus in novellis Constitutionibus
+Justiniani explicandis male in aliam linguam versis
+effecisse censentur. Historias quoque omnes, quas
+<pb n="1148C"/>
+attingit potius quam narrat, ubi opus fuit, ex probatis
+auctoribus enarravi, ne cui dubitandi scrupulum
+relinquerem. In quibus liber <hi>de Corona militis, ad
+Martyres, de Cultu foeminarum, de Spectaculis,</hi> et <hi>Apologeticus,</hi> 
+sed imprimis opusculum <hi>de Pallio</hi> non mediocre
+mihi negotium exhibuerunt. Quaedam ex his
+aliqui explicarunt; sed quid illi, et ipse praestiterim,
+aliorum erit judicium. Caeterum levioribus quibuscumque,
+et iis quae facilia visa sunt, praetermissis,
+difficilia tantum explicui, ipsaque opera Tertulliani,
+mutato ipsius ordine, in tres partes in gratiam studiosorum
+pro materiae varietate distribui.</p>
+<p>Si quid autem legentes adjuvero, Deo omnium vero
+lumini acceptum; si contra meae imbec, illitati,
+atque facilitati illius, qui malum interpretem elegit,
+<pb n="1148D"/>
+imputabo. Magnum certe, et antiquorum Ecclesiae
+rituum magistrum ab omnibus legendum auctorem
+habemus, qui et recentiorum haereticorum errores
+contundit, dum saepe eucharistiam verum corpus
+Christi esse tradit (de quo tamen nemo unquam usque
+ad Berengarium dubitavit aut dubitare potuit), exomologesim
+peccatorum faciendam monet, pro defunctis
+oblationes fieri consuevisse indicat, romanae sedis
+auctoritatam praedicat, animasque defunctorum igne
+purgari, jejunia, aliaque his similia, quae longum
+esset recensere comprobat. Sed insanis non facile est
+rationibus, aut auctoritatibus persuadere. Has igitur
+meas lucubratiunculas benigne accipies et aequi
+bonique consules. Vale.
+</p>
+      </div1>
+
+<div1>
+        <head>DE ORATIONE LIBER. ARGUMENTUM.</head>
+
+<pb n="1149"/>
+<p>
+          <pb n="1149A"/> <hi>Aureus ille libellus, a Tertulliano sane adhuc
+catholico descriptus, imo, modo ad martyras
+adhortationem, si lubet, excipias, primus,
+judice D. Lumpero, tanti hujusce ingenii
+recenti fide jam reviviscentis fructus,
+partim de re dogmatica est, partim de moribus
+et disciplina.</hi> </p>
+<p> <hi>In priore ipsius parte, Orationem dominicam,
+primus omnium quos noverimus, Septimianus
+noster luculenter explicat, in eaque totius
+Evangelii doctrinam velut in cujusdam
+compendii speculo collectam exhibet; multi
+post eum eamdem tritam habuere viam ac
+in eam imprimis ejus ex aperto discipulus
+Cyprianus totus abiit. In posteriori parte,
+qua praesertim ratione sacris interagendum
+sit, quive precum ritus sint aut omittendi
+<pb n="1149B"/>
+aut sedulo perficiendi, rara admodum,
+pro temporum vestutate, expositione indigitat.</hi> </p>
+<p> <hi>Porro haec sunt praecipua prioris partis capita:
+1º Quanta sit oratio illa quam ipsemet
+tradidit Dei sermo et Dei ratio, sermo rationis
+et ratio sermonis, D.  N.  J.  C. Cap. 1.
+2º Subinde deducitur exordium in quo agnoscitur
+Pater, et in Patre Filius invocatur,
+nec mater quidem Ecclesia praeteritur. Cap. 2.
+3º Tum singula sigillatim explicatur petitio,
+prima nempe, qua et nos Angelorum candidati,
+coelestem Dei gloriam ipsiusque in nobis
+nomen sanctificatum postulamus. Cap. 3.
+Secunda vero rogatur ut fiat ejus voluntas
+in nobis qui coelum et terra sumus. Cap. 4.
+<pb n="1149C"/>
+Tertia autem festinandum est ad spei nostrae
+<pb n="1150A"/>
+complexum, ad votum Christianorum, ad
+confusionem nationum, ad exultationem Angelorum.
+Cap. 5. Quarta trifariam quidem
+habet explicationem, scilicet de pane communi,
+deinde de Christo utpote credentium
+pane, postremo de corpore Christi eucharistico.
+Cap. 6. Tum Dei clementiam quinta
+implorat. Cap. 7. Sexta demum et septima
+tentationem, malumque deprecatur. Cap. </hi> 7-9.</p>
+<p> <hi>Pars vero posterior multiplex est, nec tamen
+aegerrime ad tria haec reducitur: 1º Quaenam
+ante orationem fructuose animam praeparent,
+nimirum memoria praeceptorum,
+ac prae omnibus officia charitatis, libera
+animi intentio qua inenarrabiles spiritus ad
+Patrem gemitus eliciuntur. Cap. 10-15. 2º
+Quaenam sive ante sive post orationem libeat
+<pb n="1150B"/>
+omittere, hoc nempe est vel manus abluere, vel
+penulam deponere, vel assidere. Cap. 16-17.
+3º Quaenam vero deceant aut necesse sint peragenda,
+scilicet manuum elatio; vultus, vocisque
+demissio; osculum pacis; statio ad aram,
+accepto corpore Domini et reservato; habitus
+faeminarum modestus, velamenque virginum;
+genua flectendi ritus, locus orandi,
+horaeque solemniores; alternus psalmorum
+cantus; agapeque devota, coronata cum
+pompa operum bonorum, inter psalmos et
+hymnos ad altare Dei deducta. Cap. 16-28.
+Confertae huic ac mirum in modum opimae
+veterum rituum copiae superadditur, coronidis
+instar, de vi et effectu orationis
+ornata amplissimaque descriptio. Cap. </hi> 29.
+<pb n="1150C"/>
+EDD.
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+
+<pb n="1149C"/>
+<p>Dei spiritus et Dei sermo, et Dei ratio, et
+<pb n="1150C"/>
+sermo rationis et ratio sermonis, utrumque
+Jesus Christus Dominus noster, nobis discipulis
+<pb n="1151A"/>
+novi Testamenti novam orationis formam determinavit.
+Oportebat enim in hac quoque specie <hi>novum 
+ vinum novis utribus recondi et novam plagulam
+novo assui vestimento <note>(Matth., VI; IX, 16; Luc.,
+XI)</note>
+            </hi>. Caeterum quidquid retro fuerat, aut demutatum
+est ut circumcisio; aut suppletum, ut reliqua
+lex; aut impletum, ut prophetia; aut perfectum,
+ut fides ipsa. Omnia de carnalibus in spiritualia renovavit,
+nova Dei gratia, superducto Evangelio expunctore
+totius retro vetustatis, in quo et Dei spiritus
+et Dei sermo et Dei ratio approbatus est Dominus noster
+Jesus Christus; spiritus quo valuit, sermo quo docuit,
+ratio qua venit. Sic igitur oratio a Christo constituta
+ex tribus constituta est: ex sermone quo enuntiatur:
+<pb n="1152A"/>
+ex spiritu, quo tantum potest; ex ratione,
+qua suscipitur. Docuerat et Joannes discipulos suos
+adorare; sed omnia Joannis Christo praestruebantur,
+donec ipso aucto, sicut idem Joannes praenuntiabat, <hi>illum augeri oportere, se vero deminui, 
+ <note>(Joan., III, 30)</note>
+            </hi>,
+totum praeministri opus cum ipso spiritu transiret ad
+Dominum. Ideo nec exstat, in quae verba docuerit
+Joannes adorare, quod terrena coelestibus cesserint. <hi>Qui de terra est,</hi> 
+ inquit, <hi>terrena fatur; et qui de coelis
+adest quae vidit ea loquitur. <note>(Jo., III, 31)</note>
+            </hi>. Et quid
+non coeleste, quod Domini Christi est; ut haec quoque
+orandi disciplina? Consideremus itaque, benedicti,
+coelestem ejus sophiam, imprimis de praecepto
+secrete adorandi, quo et fidem hominis
+<pb n="1153A"/>
+exigebat, ut Dei omnipotentis et conspectum et auditum
+sub tectis et in abditis etiam adesse confideret:
+ et modestiam fidei desiderabat, ut
+quem ubique audire et videre fideret, ei soli religionem
+suam offerre, sequente  sophia in sequenti
+praecepto; quod etsi proinde pertineat
+ad fidem et modestiam fidei, si non agmine verborum
+ adeundum putemus ad Dominum, quem
+ultro suis prospicere certi sumus: attamen 
+brevitas ista, quod ad tertium sophiae gradum faciat,
+magnae ac beatae interpretationis substantia fulta est:
+quantumque substringitur verbis, tantum diffunditur
+sensibus. Neque enim propria tantum orationis
+officia complexa est, venerationem Dei, aut hominis
+petitionem, sed omnem pene sermonem Domini, omnem
+commemorationem disciplinae, ut revera in
+<pb n="1153B"/>
+oratione breviarium totius Evangelii comprehendatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p>Incipit a testimonio Dei, et merito fidei, cum
+<pb n="1154A"/>
+dicimus PATER QUI IN COELIS ES. Nam et Deum
+oramus, et fidem commendamus, cujus meritum
+est haec appellatio. Scriptum est: <hi>Qui in eum crediderint,
+dedit eis potestatem ut filii Dei vocentur <note>(Joan.,
+III; Matth., VII, 9; X et XV)</note>
+            </hi>. Quanquam frequentissime
+Dominus patrem nobis pronuntiavit
+Deum; imo et praecepit <hi>ne quem in terris patrem vocemus,
+nisi quem habemus in coelis <note>(Matth., XXIII, 9)</note>
+            </hi> 
+Itaque sic adorantes etiam praeceptum obimus.
+Felices qui patrem agnoscunt. Hoc est, quod Israeli
+exprobratur, quod coelum ac terram Spiritus
+contestatur: <hi>Filios,</hi> dicens, <hi>genui, et illi me non agnoverunt <note>(Isa., I, 1)</note>
+            </hi>.
+Dicendo autem patrem, Deum
+quoque cognominamus. Appellatio ista et pietatis et
+potestatis est. Item in Patre Filius invocatur. <hi>Ego
+enim,</hi> inquit, <hi>et Pater unum sumus <note>(Joan., X, 30)</note>
+            </hi>.
+<pb n="1154B"/>
+Ne mater quidem Ecclesia praeteritur. Si quidem
+in filio et patre mater recognoscitur, de qua constat
+et patris et filii nomen. Uno igitur genere aut vocabulo
+<pb n="1155A"/>
+et Deum cum suis honoramus, et praecepti
+meminimus, et oblitos patris denotamus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p>Nomen Dei Patris nemini proditum est. Etiam
+qui de ipso interrogaverat Moyses, aliud quidem nomen
+audierat. Nobis revelatum est in Filio. Jam
+enim Filius novum Patris nomen est. <hi>Ego veni,</hi> inquit, <hi>in nomine Patris 
+ <note>(Joan., V, 43)</note>
+            </hi>. Et rursus, <hi>Pater,
+glorifica nomen tuum</hi>. Et apertius: <hi>Nomen tuum
+manifestavi hominibus.</hi> Id ergo ut SANCTIFICETUR postulamus: 
+non quod deceat homines bene Deo
+<pb n="1156A"/>
+optare, quasi sit et aliud, de quo ei possit optari,
+aut laboret nisi optemus. Plane <hi>benedici Deum <note>(Psal. CIII, 22)</note>
+            </hi> 
+ omni loco ac tempore condecet, ob
+debitam semper memoriam beneficiorum ejus ab omni
+homine. Sed et hoc benedictionis vice fungitur.
+Caeterum quando non sanctum et sanctificatum est
+per semetipsum nomen Dei, cum caeteros sanctificet
+ex semetipso? Cui illa <hi>Angelorum circumstantia non cessant 
+ dicere: Sanctus, Sanctus, Sanctus <note>(Isa., VI, 3; Apoc., IV, 8)</note>
+            </hi>.
+Proinde igitur et nos
+Angelorum, si meminerimus, candidati jam
+<pb n="1157A"/>
+hinc coelestem illam in Deum vocem, et officium futurae
+claritatis ediximus. Hoc quantum ad gloriam
+Dei. Alioquin quantum ad nostram petitionem, cum
+dicimus: <hi>Sanctificetur nomen tuum <note>(Matth., VI, 9)</note>
+            </hi>,
+id petimus ut sanctificetur in nobis, qui in illo sumus:
+simul et in caeteris, quos adhuc gratia Dei exspectat,
+ut et huic praecepto pareamus, <hi>orando pro omnibus,
+etiam pro inimicis nostris <note>(Matth., V, 44)</note>
+            </hi>. Ideoque
+suspensa enuntiatione non dicentes: Sanctificetur
+in nobis, in omnibus dicimus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p>Secundum hanc formam subjungimus FIAT VOLUNTAS
+TUA IN COELIS ET IN TERRA, non quod aliquis
+obsistat quominus voluntas Dei fiat, et ei successum
+<pb n="1157B"/>
+voluntatis suae oremus; sed in omnibus petimus
+fieri voluntatem ejus. Ex interpretatione enim figurata
+carnis et spiritus, nos sumus coelum et terra.
+Quanquam etsi simpliciter intelligendum est, idem
+tamen est sensus petitionis, ut in nobis fiat voluntas
+Dei in terris, ut possit scilicet fieri et in coelis. Quid
+autem Deus vult, quam incedere nos secundum
+suam disciplinam? Petimus ergo, substantiam, et facultatem
+voluntatis suae subministret nobis, ut salvi
+simus et in coelis, et in terris; quia summa est voluntatis
+ejus, salus eorum, quos adoptavit. Est et illa
+Dei voluntas, quam Dominus administravit praedicando,
+<pb n="1158A"/>
+operando, sustinendo. Sic enim ipse pronuntiavit, <hi>non suam, sed Patris facere se voluntatem <note>(Joan., VI, 39)</note>
+            </hi>.
+Sine dubio quae faciebat, ea erant
+voluntas Patris, ad quae nunc nos velut ad exemplaria
+provocamus, ut praedicemus, et operemur, et
+sustineamus ad mortem usque. Quae ut implere possimus,
+opus est Dei voluntate. Ita dicentes: <hi>Fiat
+voluntas tua,</hi> vel eo nobis bene optamus, quod nihil
+mali sit in Dei voluntate, etiam si quid pro meritis
+cujusque secus irrogatur. Jam hoc dicto, ad sufferentiam
+nosmetipsos praemonemus. Dominus quoque
+cum sub instantiam passionis infirmitatem
+carnis demonstrare jam in sua carne voluisset, <hi>Pater,</hi> 
+inquit, <hi>transfer poculum istud <note>(Luc., XXII, 42)</note>
+            </hi>. Et recordatus
+<pb n="1158B"/>,
+ <hi>nisi quod mea non, sed tua fiat voluntas.</hi> 
+Ipse erat voluntas, et potestas Patris; et
+tamen ad demonstrationem sufferentiae debitae, voluntati
+se Patris tradidit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p>VENIAT quoque REGNUM TUUM, ad id pertinet quod
+et <hi>Fiat voluntas tua,</hi> in nobis scilicet. Nam Deus
+quando non regnat? <hi>in cujus manu cor omnium regum
+est <note>(Prov., XXI, 1)</note>
+            </hi>. Sed quicquid nobis optamus,
+in illum auguramur, et illi deputamus, quod ab illo
+exspectamus. Itaque si ad Dei voluntatem, et ad
+nostram suspensionem pertinet regni dominici
+<pb n="1159A"/>
+repraesentatio, quomodo quidam protractum
+quemdam saeculo postulant, cum regnum Dei,
+quod ut adveniat oramus, ad consummationem saeculi
+tendat? Optamus maturius regnare, et non diutius
+servire. Etiam si praefinitum in oratione non
+esset, de postulando regni adventu, ultro eam vocem
+protulissemus <hi>festinantes ad spei nostrae complexum <note>(Heb., IV, 11)</note>
+            </hi>.
+ <hi>Clamant ad Dominum invidia 
+  animae martyrum sub altari: Quonam usque
+non ulcisceris, Domine, sanguinem nostrum de incolis
+terrae <note>(Apoc., VI, 9)</note>
+            </hi>? Nam utique ultio illorum a saeculi
+fine dirigitur. Imo quam celeriter <hi>veniat,
+Domine, regnum tuum <note>(Matt., VI, 10)</note>
+            </hi>. Votum christianorum,
+confusio nationum, exultatio angelorum, propter
+<pb n="1160A"/>
+quod conflictamur, imo potius propter quod oramus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p>Sed quam eleganter divina sapientia ordinem orationis
+instruxit! ut post coelestia, id est post Dei nomen,
+Dei voluntatem, et Dei regnum, terrenis quoque
+necessitatibus petitioni locum faceret? Nam et
+edixerat Dominus: <hi>Quaerite prius regnum, et tunc
+vobis etiam haec adjicientur <note>(Matth., VI, 33)</note>
+            </hi>. Quanquam
+PANEM NOSTRUM QUOTIDIANUM DA NOBIS HODIE,
+spiritaliter potius intelligamus. Christus enim panis
+noster est, quia vita Christus, et vita panis. <hi>Ego
+sum,</hi> inquit, <hi>panis vitae <note>(Joan., VI, 35)</note>
+            </hi>. Et paulo supra: <hi>Panis est sermo Dei vivi, qui descendit de coelis.</hi> 
+Tum quod et corpus ejus in pane censetur.
+<pb n="1161A"/> <hi>Hoc est corpus meum 
+ <note>(Luc., XXII, 19)</note>
+            </hi>. Itaque
+petendo panem quotidianum, perpetuitatem postulamus
+in Christo, et individuitatem a corpore ejus. Sed et
+quia carnaliter admittitur ista vox, non sine religione
+potest fieri et spiritalis disciplinae. Panem enim peti
+mandat, quod solum fidelibus necessarium est; <hi>caetera
+enim nationes requirunt.</hi> Ita et exemplis inculcat,
+et parabolis retractat, cum dicit: <hi>Numquid
+panem filiis pater aufert, et canibus tradit <note>(Matth.,
+XXV, 26)</note>
+            </hi>? Item: <hi>Numquid filio panem poscenti lapidem
+tradit <note>(Matth., VII, 9)</note>
+            </hi>? Ostendit enim, quid a
+patre filii exspectent. Sed et <hi>nocturnus ille pulsator
+panem poscebat <note>(Luc., XI, 5)</note>
+            </hi>. Merito autem adjecit: <hi>Da nobis hodie,</hi> 
+ ut qui praemiserat: <hi>Nolite de crastino
+cogitare quid edatis.</hi> Cui rei parabolam quoque
+<pb n="1162A"/>
+accommodavit <hi>illius hominis, qui provenientibus fructibus ampliationem horreorum, et longae securitatis
+spatia cogitavit; is ipsa nocte moritur 
+ <note>(Luc., XII, 16)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p>Consequens erat, ut observata Dei liberalitate,
+etiam clementiam ejus precaremur; quid enim alimenta
+proderunt, si illi reputamur revera quasi
+taurus ad victimam? Sciebat Dominus se solum sine
+delicto esse. Docet itaque petamus DIMITTI NOBIS
+DEBITA NOSTRA. Exomologesis est, petitio veniae; quia
+qui petit veniam, delictum confitetur. Sic et poenitentia
+demonstratur acceptabilis Deo, quia <hi>vult eam, quam mortem peccatoris 
+ <note>(Ezech. XXXIII, 11)</note>
+            </hi>.
+Debitum autem in Scripturis delicti figura est,
+quod perinde judicio debeatur, et <hi>ab eo exigatur, nec
+<pb n="1163A"/>
+evadat justitiam exactionis, nisi donetur exactio, sicut
+illi servo dominus debitum remisit <note>(Matth., V, 25)</note>
+            </hi>.
+Huc enim spectat exemplum parabolae totius. Nam
+et quod idem servus a domino liberatus, non perinde
+parcit debitori suo, ac propterea delatus penes dominum
+tortori delegatur ad solvendum novissimum
+quadrantem, id est, modicum usque delictum, eo
+competit, quod remittere nos quoque profitemur
+debitoribus nostris. Jam et alibi ex specie
+orationis: <hi>Remittite,</hi> inquit, <hi>et remittetur vobis (Luc,
+VI, 37)</hi>. Et cum <hi>interrogasset Petrus si septies remittendum
+esset fratri: Imo,</hi> inquit, <hi>septuagies septies <note>(Matth., XVIII, 22)</note>
+            </hi>,
+ut legem in melius reformaret,
+quod in Genesi <hi>de Cain septies, de Lamech autem septuagies
+septies ultio reputata est <note>(Gen., IV, 24)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+
+<pb n="1163B"/>
+<p>Adjecit ad plenitudinem tam expeditae orationis, ut
+non de remittendis tantum, sed etiam de avertendis
+in totum delictis supplicaremus, NE NOS INDUCAS IN
+TENTATIONEM, id est ne nos patiaris induci, ab eo utique
+<pb n="1164A"/>
+qui tentat. Caeterum absit ut Dominus tentare
+videatur, quasi aut ignoret fidem cujusque, aut dejicere
+ gestiens. Diaboli est et infirmitas et
+malitia. Nam et Abrahamum non tentandae fidei gratia,
+sacrificare de filio jusserat, sed probandae, ut per
+eum faceret exemplum praecepto suo, quo mox
+praecepturus erat, neque pignora Deo cariora
+habenda. Ipse a diabolo tentatus, praesidem
+et artificem tentationis demonstravit. Hunc locum
+posterioribus confirmat: <hi>Orate,</hi> dicens, <hi>ne tentemini <note>(Luc., XXII, 46)</note>
+            </hi>.
+Adeo tentati sunt Dominum
+deserendo, qui somno potius indulserant quam orationi.
+Eo respondet clausula interpretans quid sit: <hi>Ne
+nos deducas in tentationem.</hi> Hoc est enim: SED
+DEVEHE NOS A MALO.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+
+<pb n="1164B"/>
+<p>Compendiis pauculorum verborum, quot
+attinguntur edicta prophetarum, Evangeliorum,
+apostolorum, sermones Domini, parabolae exempla,
+praecepta? Quot simul expunguntur officia? Dei
+<pb n="1165A"/>
+honor in Patre, fidei testimonium in nomine, oblatio
+obsequii in voluntate, commemoratio spei in regno,
+petitio vitae in pane, exomologesis debitorum in
+deprecatione, sollicitudo tentationum in postulatione
+tutelae. Quid mirum? Deus solus docere potuit ut se
+vellet orari. Ab ipso igitur ordinata religio orationis,
+et de spiritu ipsius, jam tunc cum ex ore divino
+ferretur, animata suo privilegio ascendit in coelum,
+commendans Patri quae Filius docuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p>Quoniam tamen Dominus prospector humanarum
+necessitatum, seorsum post traditam orandi
+disciplinam, <hi>Petite,</hi> inquit, <hi>et accipietis <note>(Luc., XI, 8)</note>
+            </hi>,
+et sunt quae petantur pro circumstantia cujusque,
+praemissa legitima et ordinaria oratione, quasi fundamento,
+<pb n="1165B"/>
+accidentium jus est desideriorum, jus
+est superfluendi extrinsecus petitiones, cum
+memoria tamen praeceptorum, ne quantum a praeceptis,
+<pb n="1166A"/>
+tantum ab auribus Dei longe simus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI .</head>
+<p>Memoria praeceptorum viam orationibus sternit
+ad coelum, quorum praecipuum est, <hi>ne prius ascendamus
+ad Dei altare, quam si quid discordiae vel offensae
+cum fratribus contraxerimus, resolvamus <note>(Matth., V, 23)</note>
+            </hi>.
+Quid est enim ad pacem Dei recedere sine
+pace? ad remissionem debitorum cum retentione? Quomodo
+placabit Patrem iratus in fratrem, cum omnis ira
+ab initio interdicta sit nobis? nam et Joseph dimittens
+fratres suos ad perducendum patrem, <hi>Et ne,</hi> inquit, <hi>irascimini in via 
+ <note>(Gen., XLV, 24)</note>
+            </hi>: nos scilicet
+monuit. Alias enim via cognominatur disciplina
+nostra. Tum ne in via orationis constituti, ad Patrem
+cum ira incedamus. Exinde aperte Dominus
+<pb n="1166B"/>
+amplians legem, iram in fratrem homicidio superponit,
+ne verbo quidem malo permittit expungi <hi>etiamsi irascendum est, non ultra solis receptum 
+ (Ephes.,
+<pb n="1167A"/>
+IV, 26)</hi>, ut Apostolus admonet. Quam autem temerarium
+est, aut diem sine oratione transigere, dum
+cessas fratri satisfacere, aut orationem perseverante
+iracundia perdere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p>Nec ab ira solummodo, sed omni omnino confusione
+ animi libera debet esse orationis intentio,
+de tali spiritu emissa, qualis est spiritus, ad quem
+mittitur. Neque enim agnosci poterit a Spiritu Sancto
+spiritus inquinatus; aut tristis a laeto, aut impeditus
+a libero. Nemo adversarium recipit; nemo nisi comparem
+suum admittit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII .</head>
+<p>
+            <pb n="1167B"/>Caeterum quae ratio est, manibus quidem ablutis,
+<pb n="1168A"/>
+spiritu vero sordente orationem obire? quando
+et ipsis manibus spiritales munditiae sint necessariae,
+ut a falso, a caede, a veneficiis, ab idololatria,
+caeterisque maculis, quae spiritu conceptae manuum
+opera transiguntur, purae alleventur. Hae sunt verae
+munditiae, non quas plerique superstitiose curant,
+ad omnem orationem etiam cum lavacro totius corporis
+aquam sumentes. Id cum scrupulose percunctarer,
+et rationem requirerem, comperi commemorationem
+esse in Domini deditionem. Nos Dominum
+adoramus, non dedimus. Imo et adversari debemus
+deditoris exemplo, nec propterea manus abluere,
+nisi quod conversationis humanae inquinamentum
+conscientiae caussa lavemus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+
+<pb n="1169A"/>
+<p>Caeterum satis mundae sunt manus, quas cum toto
+corpore in Christo semel lavimus. Omnibus licet
+membris lavet quotidie Israel, nunquam tamen mundus
+est. Certe manus ejus semper immundae sanguine
+prophetarum, et ipsius Domini cruentatae in aeternum.
+Et ideo conscientia patrum haereditarii rei
+nec attollere eas ad Dominum audent, ne exclamet
+aliquis Isaias, ne exhorreat Christus. Nos vero
+non attollimus tantum, sed etiam expandimus e
+<pb n="1170A"/>
+dominica passione modulatum, et orantes
+confitemur Christo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV .</head>
+<p>Sed quoniam unum aliquod attigimus vacuae
+observationis, non pigebit caetera quoque denotare,
+quibus merito vanitas exprobranda est; siquidem sine
+ullius aut dominici, aut apostolici praecepti auctoritate
+fiunt. Hujusmodi enim non religioni, sed superstitioni
+deputantur, affectata, et coacta, et curiosi potius,
+quam rationalis officii; certe vel eo coercenda, quod
+gentilibus adaequent. Ut est quorumdam, expositis
+<pb n="1171A"/>
+ penulis orationem facere; sic enim
+adeunt ad idola nationes. Quod utique si fieri oporteret,
+Apostoli, qui de habitu orandi docent, comprehendissent;
+nisi si qui putant, Paulum penulam
+suam in oratione penes Carpum reliquisse. Deus
+scilicet non audiat penulatos, qui tres sanctos in fornace
+babylonii regis orantes cum sarabaris et
+tyaris suis exaudivit?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p>Item quod, assignata oratione, assidendi mos
+<pb n="1172A"/>
+est quibusdam, non perspicio rationem nisi si
+Hermas ille, cujus scriptura fere <hi>Pastor</hi> inscribitur,
+transacta oratione non lectum assedisset, verum
+aliud quid fecisset, id quoque ad observationem vindicaremus.
+Utique non. Simpliciter enim et nunc
+positum est: <hi>Cum adorassem, et assedissem super
+lectum,</hi> ad ordinem narrationis, non ad instar disciplinae.
+Alioquin nusquam erit adorandum, nisi ubi
+fuerit lectus. Imo contra Scripturam fecerit, si quis
+in cathedra aut subsellio sederit. Porro cum perinde
+<pb n="1173A"/>
+faciant nationes, adoratis sigillaribus suis
+residendo, vel propterea in nobis reprehendi meretur,
+quod apud idola celebratur. Eo apponitur
+et irreverentiae crimen, etiam ipsis nationibus, si quid
+saperent, intelligendum. Siquidem irreverens est assidere
+sub conspectu, contraque conspectum ejus,
+quem quam maxime reverearis, ac venereris; quanto
+<pb n="1174A"/>
+magis sub conspectu Dei vivi, angelo adhuc orationis
+astante, factum istud irreligiosissimum est, nisi
+exprobramus Deo, quod nos oratio fatigaverit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII .</head>
+<p>Atqui cum modestia et humilitate adorantes, magis
+commendabimus Deo preces nostras, ne ipsis
+quidem manibus sublimius elatis, sed temperate
+<pb n="1175A"/>
+ac probe elatis, ne vultu quidem in audaciam
+erecto. Nam ille publicanus, qui non tantum prece,
+sed et vultu humiliatus atque dejectus orabat, justificatior
+pharisaeo procacissimo discessit. Sonos
+etiam vocis subjectos esse oportet. Aut quantis arteriis
+opus est, si pro sono audiamur? Deus autem
+non vocis, sed cordis auditor est, sicut conspector.
+Daemonium oraculi Pythii: <hi>Et mutum,</hi> inquit, <hi>intelligo,
+et non loquentem exaudio.</hi> Dei aures sonum
+exspectant? Quomodo ergo oratio Jonae de ventre
+<pb n="1176A"/>
+ceti per tantae bestiae viscera, ab ipsis abyssis per
+tantam aequoris molem ad coelum potuit evadere?
+Quid amplius referent isti, qui clarius adorant,
+nisi quod proximis obstrepunt? Imo prodendo petitiones
+suas, quid minus faciunt, quam si in publico
+ orent?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII .</head>
+<p>Alia jam consuetudo invaluit, jejunantes habita
+oratione cum fratribus, subtrahunt osculum
+<pb n="1177A"/>
+pacis, quod est signaculum orationis. Quando autem
+magis conferendo cum fratribus pax est, nisi cum
+oratio commendabilior ascendit, ut ipsi de nostra
+operatione participes, jam audeant de sua pace
+fratri transigere? Quae oratio cum divortio sancti
+osculi integra? quem Domino officium facientem
+impedit pax? quale sacrificium est, a quo sine pace
+receditur? Quaecumque operatio sit, non
+erit potior praecepti observatione, quo jubemur jejunia
+<pb n="1178A"/>
+nostra celare. Jam enim de abstinentia osculi
+agnoscimur jejunantes. Sed et si qua ratio est,
+ne tamen huic praecepto reus sis, potes domi, si
+forte, inter quos latere jejunium in totum non
+datur, differre pacem. Ubicumque autem alibi operationem
+ tuam abscondere potes, debes meminisse
+ praecepti: ita et disciplinae foris, et consuetudini
+domi satisfacies. Sic et die Paschae, quo communis
+et quasi publica jejunii religio est, merito
+<pb n="1179A"/>
+deponimus osculum, nihil curantes de occultando
+<pb n="1181A"/>
+ quod cum omnibus faciamus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p>Similiter  et stationum diebus non putant
+plerique sacrificiorum orationibus interveniendum,
+<pb n="1182A"/>
+quod statio solvenda sit, accepto corpore
+Domini. Ergo devotum Deo obsequium Eucharistia
+resolvit? An magis Deo obligat? Nonne solemnior
+erit statio tua, si et ad aram Dei steteris? Accepto
+<pb n="1183A"/>
+ corpore Domini, et reservato, utrumque salvum
+est, et participatio sacrificii, et executio officii.
+Si statio de militari exemplo nomen accipit <note>(nam
+et militia Dei sumus, II Cor. X, 4; I Tim. I, 18)</note> utique
+nulla laetitia, sive tristitia obveniens castris,
+stationes militum rescindit. Nam laetitia libentius,
+tristitia sollicitius administrabit disciplinam.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX .</head>
+<p>De habitu vero duntaxat foeminarum, varietas
+observationis effecit, post sanctissimum
+Apostolum, nos vel maxime nullius loci homines,
+impudenter retractare: nisi quod non impudenter,
+si secundum Apostolum retractemus. De modestia
+<pb n="1184A"/>
+quidem cultus et ornatus, aperta praescriptio est
+etiam Petri, cohibentis eodem ore, quia eodem et spiritu,
+quo Paulus, et vestium gloriam, et auri superbiam,
+et crinium lenonem operositatem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI .</head>
+<p>Sed quid  promiscue observetur per Ecclesias,
+quasi incertum id retractandum est velarine debeant
+virgines, an non. Qui enim virginibus indulgent capitis
+ immunitatem, hoc niti videntur quod Apostolus
+non virgines nominatim, sed mulieres designaverit
+velandas esse; nec sexum, ut diceret foeminas,
+sed gradum sexus, dicendo <hi>mulieres <note>(I Cor. XI,
+5)</note>
+            </hi>. Nam si sexum nominasset, foeminas dicendo, absolute
+<pb n="1185A"/>
+definisset de omni muliere. Aut cum unum
+gradum sexus nominat, alium tacendo secernit. Potuit
+enim, inquiunt, aut et virgines nominare specialiter
+aut compendio generaliter foeminas.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p>Qui ita concedunt, recogitare debent de statu vocabuli
+ipsius, quid est mulier a primis quidem litteris
+sanctorum commentariorum; nam inveniunt
+sexus esse nomen, non gradum sexus. Siquidem Evam
+ nondum virum expertam Deus <hi>mulierem et
+foeminam <note>(Gen., II, 23.)</note>
+            </hi> cognominavit: foeminam, qua
+sexus generaliter, mulierem, qua gradus sexus specialiter.
+Itaque jam tunc innupta adhuc Eva mulieris
+vocabulo fuit, commune id vocabulum et virgini factum
+<pb n="1185B"/>
+est. Nec mirum, si Apostolus eodem utique spiritu
+actus, quocum omnis Scriptura divina, tum et
+illa Genesis digesta est, eadem voce usus est mulierem
+ponendo; quae exemplo Evae innuptae et virgini
+competat. Caetera denique non sonant, nam et hoc
+ipso, quod virgines non nominavit, sicut alio in
+loco, ubi de nubendo docet, satis praedicat de omni
+muliere, et de toto sexu dictum, nec distinctum
+esse inter virginem, omnino non nominat. Qui enim
+alibi distinguere meminit, ubi scilicet differentia postulat
+<pb n="1186A"/>
+(distinguit autem utramque speciem suis vocabulis
+designans) ubi non distinguit, dum utramque
+non nominat, nullam vult differentiam intelligi. Quid
+quod graeco sermone, quo litteras Apostolus fecit,
+usui est mulieres vocare tam foeminas, id est <foreign xml:lang="greek">γυναῖκας,</foreign>
+ quam <foreign xml:lang="greek">θηλεῖας.</foreign> Igitur si pro sexus nomine
+vocabulum istud frequentatur, quod est interpretatione
+pro eo, quod est foemina, sexum nominavit,
+dicens <foreign xml:lang="greek">γυναῖκα.</foreign> In sexu autem et virgo contingitur.
+Sed et manifesta pronuntiatio est: <hi>Omnis,</hi> inquit, <hi>mulier adorans, et prophetans intecto capite dedecorat
+caput suum 
+ <note>(I Cor., XI, 5)</note>
+            </hi>. Quid est <hi>omnis mulier,</hi> 
+nisi omnis aetatis, omnis ordinis, omnis conditionis?
+Nihil mulieris excipit, dicendo <hi>omnis;</hi> sicut nec
+vir nec velandi; proinde enim <hi>omnis vir <note>(Ibid.)</note>
+            </hi>, inquit.
+<pb n="1186B"/>
+Sicut ergo in masculino sexu sub viri nomine
+etiam investis velari vetatur, ita et in foeminino sub nomine
+mulieris etiam virgo velari jubetur. Aequaliter
+in utroque sexu minor aetas majoris sequatur disciplinam:
+aut velentur et virgines masculi, si non velantur
+et virgines foeminae, qui nec isti nominatim
+tenentur. Aliud sit vir et investis, si aliud est mulier
+et virgo. Nempe <hi>propter Angelos <note>(Ibid.)</note>
+            </hi> ait velari oportere,
+quod Angeli propter filias hominum desciverunt
+a Deo. Quis ergo contendat, solas mulieres,
+<pb n="1187A"/>
+id est nuptas jam, et virginitati defunctas concupiscentiae,
+nisi si non licet et virgines specie praestare,
+et amatores invenire? Imo videmus quod non
+virgines solas concupierint, cum dicat Scriptura <hi>filias
+hominum <note>(Gen., VI. 2.)</note>
+            </hi>, quia potuit uxores hominum
+nominasse, vel foeminas indifferenter. Etiam
+quod ait, <hi>Et acceperunt sibi in uxores <note>(Ibid.)</note>
+            </hi> in eo facit
+quod accipiuntur in uxores, quae vacant scilicet. De
+non vacantibus autem aliter enuntiasset. Itaque
+vacant tam viduitate quam et virginitate: adeo
+sexum nominando, generaliter filias et species in genere
+commiscuit. Item cum dicit naturam ipsam
+docere, foeminas velandas esse, quae capillum pro
+tegumento et ornamento mulieribus assignarit; nonne
+idem tegumentum et idem honor capitis virginibus
+<pb n="1187B"/>
+quoque adscriptus est? Si <hi>mulieri turpe est radi,</hi> 
+<pb n="1188A"/> <note>(I Cor., XI, 6)</note>,
+et virgini perinde. In quibus ergo
+una conditio capitis deputatur, una et disciplina capitis
+exigitur, etiam ad eas virgines, quas pueritia defendit;
+a primo enim <hi>foemina</hi> nominata est. Sic denique
+et Israel observat. Sed si non observaret,
+nostra lex ampliata atque suppleta defenderet sibi
+adjectionem. Virginibus quoque injiciens velamentum
+excusetur. Nunc aetas, quae sexum suum ignorat,
+simplicitatis privilegium teneat. Nam et Eva et Adam,
+ubi eis contigit sapere, texuerunt statim quod
+agnoverant. Certe in quibus pueritia mutavit, sicut
+naturae,
+ita et disciplinae debet aetas esse munifica.
+Nam et membris et officiis mulieribus resignantur.
+Nulla virgo est, ex quo potest nubere, quoniam aetas
+jam in ea nupsit suo viro, id est tempori; sed aliqua
+<pb n="1188B"/>
+ se Deo vovit. Jam et crinem exinde transfigurat,
+<pb n="1189A"/>
+et omnem habitum ad mulieres convertit.
+Totum ergo asseveret, et totum virginis praestet:
+quod propter Deum abscondit, plane obumbret. Interest
+nostra, quod Dei gratia exerceat, solius Dei
+conscientiae commendare, ne quod a Deo speramus, ab
+homine compensemus. Quid denudas ante Deum
+quod ante homines tegis! Verecundior eris in publico
+quam in Ecclesia? <hi>Si Dei gratia est et accepisti, quid
+gloriaris,</hi> inquit, <hi>quasi non acceperis <note>(I Cor., IV, 7)</note>
+            </hi>?
+Quid alias ostentatione tui judicas? an alias gloria
+tua ad bonum invitas? Atqui et ipsa periclitaris amittere,
+si gloriaris; et alias ad eadem pericula cogis.
+Facile eligitur, quod affectione gloriae assumitur. Velare
+virgo, si virgo es; debes enim erubescere. Si
+<pb n="1189B"/>
+virgo es, plures oculos pati noli. Nemo miretur in
+tuam faciem; nemo mendacium tuum sentiat. Bene
+ mentiris nuptam, si caput veles. Imo mentiri
+non videris; nupsisti enim Christo, illi carnem
+tuam tradidisti. Age pro mariti tui disciplina. Si
+<pb n="1190A"/>
+nuptas alienas velari jubet, suas utique multo magis.
+Sed non putet institutione unusquisque antecessoris
+commovendam. Multi  alienae consuetudini
+prudentiam suam, et constantiam ejus addicunt, ne
+compellantur velari. Certe voluntarias prohiberi
+non oportet, quae se etiam virgines negare non
+possunt, contentae abuti in fama suae conscientiae
+apud Deum securitate. De illis tamen quae sponsis
+dicantur, constanter super meum modulum pronuntiare
+contestarique possum, velandas ex ea die
+esse, qua ad primum viri corpus osculo et dextera
+expaverint. Omnia enim in his praenupserunt, et
+aetas per maturitatem, et caro per aetatem, et spiritus
+per conscientiam, et pudor per osculi experimentum,
+<pb n="1190B"/>
+et spes per exspectationem, et mens per
+voluntatem. Satisque nobis exemplo Rebecca est <note>(Gen., XXXIV, 65)</note>,
+quae sponso demonstrato, tantum
+notitia ejus nubendo velata est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIII .</head>
+
+<pb n="1191A"/>
+<p>De genu quoque ponendo varietatem observationis
+patitur oratio per pauculos quosdam, qui sabbato
+abstinent genibus. Quae dissensio cum maxime apud
+Ecclesias caussam dicat, Dominus dabit gratiam
+suam, ut aut cedant, aut sine aliorum scandalo sententia
+sua utantur. Nos vero, sicut accepimus, solo
+ die dominico Resurrectionis non ab isto tantum,
+sed omni anxietatis habitu, et officia cavere debemus,
+differentes etiam negotia, ne quem diabolo locum
+demus. Tantumdem et spatio Pentecostes, quae
+eadem exultationis solemnitatem dispungimur.
+Caeterum omni die quis dubitet prosternere se Deo
+vel prima saltem oratione, qua lucem ingredimur?
+Jejuniis autem et stationibus nulla oratio sine genu,
+<pb n="1191B"/>
+et reliquo humilitatis more, celebranda est. Non enim
+<pb n="1192A"/>
+oramus tantum, sed et deprecamur, et satisfacimus
+Deo Domino nostro. De temporibus orationis nihil
+omnino praescriptum est, nisi plane omni in tempore
+ et loco orare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIV .</head>
+<p>Sed quomodo <hi>omni loco <note>(I. Tim., I, 2)</note>
+            </hi>, cum prohibeamur
+in publico? Omni, inquit, loco, quem opportunitas,
+aut etiam necessitas importaret. Non enim
+contra praeceptum reputatur ab Apostolis factum, qui
+in carcere audientibus custodiis orabant et canebant
+Deo, apud Paulum, qui in navi coram omnibus
+Eucharistiam fecit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXV .</head>
+<p>De tempore vero non erit otiosa extrinsecus observatio
+etiam horarum quarumdam. Istarum dico communium,
+<pb n="1192B"/>
+quae diu inter spatia signant, tertia, sexta,
+<pb n="1193A"/>
+nona, quas solemniores in Scripturis invenire est.
+Primus Spiritus sanctus congregatis discipulis hora
+tertia infusus est <note>(Act. ap., II, 15)</note>. Petrus, qua die
+visionem communitatis omnis in illo vasculo expertus
+est, sexta hora ascenderat orandi gratia in superiora <note>(Ibid., X, 9)</note>.
+Idem cum Joanne ad nonam in templum
+adibat, ubi paralyticum sanitati reformavit suae <note>(Ib.,
+III, 1)</note>. Etsi simpliciter se habeant sine ullius observationis
+praecepto, bonum tamen sit aliquam constituere
+praesumptionem, qua et orandi admonitionem
+constringat, et quasi lege ad tale munus extorqueat a
+negotiis interdum, ut quod Danieli quoque legimus
+observatum utique ex Israelis disciplina <note>(Dan., VI, 10)</note>,
+ne minus ter die saltem adoremus, debitores Patris, et
+Filii, et Spiritus sancti. Exceptis utique legitimis
+<pb n="1193B"/>
+orationibus, quae sine ulla admonitione debentur ingressu
+lucis et noctis. Sed et cibum non prius sumere,
+et lavacrum non prius adire quam interposita oratione,
+fideles decet. Priora enim habenda sunt spiritus
+refrigeria et pabula, quam carnis, et priora coelestia,
+quam terrena.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVI .</head>
+<p>Fratrem domum tuam introgressum ne sine oratione
+dimiseris. Vidisti, inquit, fratrem, vidisti
+Dominum tuum: maxime advenam, ne angelus forte
+sit. Sed nec ipse a fratribus exemptis priora fecerit
+refrigeria terrena coelestibus. Statim enim judicabitur
+<pb n="1194A"/>
+fides tua. Aut quomodo secundum praeceptum <hi>pax huic domui 
+ <note>(Luc., X, 5)</note>
+            </hi> dices, nisi et eis, qui in
+domo sunt, pacem mutuam reddas?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVII .</head>
+<p>Diligentiores in orando subjungere in orationibus
+ Alleluia solent, et hoc genus psalmos, quorum
+ clausulis respondeant, qui simul sunt. Et est optimum
+utique institutum omne, quod proponendo et
+honorando Deo competit, saturatam orationem
+velut optimam hostiam admovere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<p>Haec est enim hostia spiritalis, quae pristina sacrificia
+delevit. <hi>Quo mihi,</hi> inquit, <hi>multitudinem sacrificiorum
+vestrorum? Plenus sum haulocaustomatum arietum;
+et adipem agnorum, et sanguinem taurorum et
+<pb n="1194B"/>
+hircorum nolo. Quis enim requisivit ista de manibus
+vestris (Isaiae, I, 11)</hi>? Quae ergo quaesierit Deus,
+Evangelium docet. <hi>Veniet hora,</hi> inquit, <hi>cum veri adoratores
+adorabunt Patrem in spiritu et veritate <note>(Joan.,
+IV, 23)</note>
+            </hi>. <hi>Deus enim spiritus est <note>(II Cor., III, 17)</note>
+            </hi>: et
+adoratores itaque tales requirit. Nos sumus veri adoratores,
+et veri sacerdotes, qui spiritu orantes spiritu
+sacrificamus orationem Dei propriam, et acceptabilem
+quam scilicet requisivit, quam sibi prospexit. Hanc
+de toto corde devotam, fide pastam, veritate curatam,
+innocentia integram, castitate mundam, agape
+ coronatam cum pompa operum bonorum inter
+<pb n="1195A"/>
+psalmos et hymnos deducere ad Dei altare debemus
+omnia nobis a Deo impetraturam.</p>
+</div2>
+
+<div2>
+          <head>CAPUT ULTIMUM.</head>
+<p>Quid enim orationi de spiritu et veritate venienti negavit
+Deus, qui eam exigit? Legimus, et audimus, et credimus,
+quanta documenta efficaciae ejus. Vetus quidem
+oratio et ab ignibus, et a bestiis, et ab inedia liberabat,
+et tamen non a Christo acceperat formam. Caeterum
+quanto amplius oratur oratio Christianorum, non
+roris Angelum in mediis ignibus sistit, nec ora leonibus
+obstruit, nec esurientibus rusticorum prandium
+transfert, nullum sensum passionis delegata gratia
+avertit; sed patientes, et sentientes, et dolentes sufferentia
+instruit, virtute ampliat gratiam, ut sciat fides
+quid a Domino consequatur, intelligens quid pro
+<pb n="1195B"/>
+Dei nomine patiatur. Sed et retro oratio plagas irrogabat,
+fundebat hostium exercitus, imbrium utilia
+ prohibebat. Nunc vero oratio justitiae omnem iram
+Dei avertit, pro inimicis excubat, pro persequentibus
+supplicat. Mirum si aquas coelestes extorquere novit,
+quae potuit et ignes impetrare? Sola est oratio, quae
+Deum vincit. Sed Christus eam nihil mali novit operari.
+Omnem illi virtutem de bono contulit. Itaque
+<pb n="1196A"/>
+nihil novit, nisi defunctorum animas de ipso mortis
+itinere vocare, debiles reformare, aegros remediare,
+daemoniacos expiare, claustra carceris aperire, vincula
+innocentium solvere. Eadem diluit delicta, tentationes
+repellit, persecutiones extinguit, pusillanimos
+consolatur, magnanimos oblectat, peregrinantes deducit,
+fluctus mitigat, latrones obstupefacit, alit pauperes,
+regit divites, lapsos erigit, cadentes suspendit,
+stantes continet. Oratio murus est fidei, arma et
+tela nostra adversus hominem, qui nos undique
+observat. Itaque nunquam inermes incedamus. Die
+stationis, nocte vigiliae meminerimus. Sub armis
+orationis signum nostri imperatoris custodiamus; tubam
+Angeli exspectemus. Orantes erant etiam Angeli
+omnes. Orat omnis creatura. Orant pecudes, et ferae,
+<pb n="1196B"/>
+et genua declinant, et egredientes de stabulis ac speluncis,
+ad coelum non otiosi ore suspiciunt, vibrantes
+ spiritu suo movere. Sed et aves nunc exsurgentes
+eriguntur ad coelum, et alarum crucem pro
+manibus extendunt, et dicunt aliquid, quod oratio
+videatur. Quid ergo amplius de officio orationis?
+Etiam ipse Dominus oravit, cui sit honor et virtus in
+saecula saeculorum.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

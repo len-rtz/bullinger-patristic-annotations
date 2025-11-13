@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10043" type="Brief" source="HBBW-1" n="18">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Kappel am Albis an [Leo Jud], 11. Mai 1526</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/10043</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=18</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b1" n="18" type="transcription">S. 115</bibl>
+				<bibl source="b1" n="18" type="regest">S. 115</bibl>
+				<bibl source="b1" n="18" type="footnotes"/>
+				<bibl type="scan">Zürich ZB</bibl>
+				<msDesc type="Brief" subtype="Autograph__(Kopie)" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Autograph__(Kopie)">Msc A 82,106r</idno>
+						<idno subtype="Zustand">sehr gut erhalten</idno>
+						<idno subtype="Hinweis">1/3 fol. S.</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Gibt seinem Unmut über <persName cert="high" ref="p20278">Johannes Fabri</persName> Ausdruck und weist auf zwei Stellen in den Werken von <persName ref="p18993" cert="high">Ambrosius</persName> und <persName ref="p19001" cert="high">Laktanz</persName> hin, welche dessen Anklagen gegen die evangelischen Christen widerlegten.</p>
+						</summary>
+						<msItem>
+							<author>[Bullinger, Heinrich]</author>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc><p>sehr gut erhalten</p></objectDesc>
+					</physDesc>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 1, Nr. 18, S. 115</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="low"/>
+					<placeName ref="l242" cert="high"/>
+					<date when="1526-05-11" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p1753" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10043!Autograph%20%28Kopie%29!00%20Msc_A_82_fol_106r.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">10043/Autograph (Kopie)/00 Msc_A_82_fol_106r.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<note xml:id="fn1" type="footnote" subtype="metadata" n="1">Siehe oben S. 55, Anm. 1.</note>
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la"><persName ref="p1753">Leoni</persName> suo gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Ita zelo dei, frater mi, adversus sanguinarium<note xml:id="fn2" type="footnote" n="2">Die Anschuldigung der Blutrünstigkeit der Katholiken erhebt <persName ref="p495">Bullinger</persName> auch in seiner Schrift «Verglichung der uralten und unser zyten kätzeryen», <placeName ref="l587">Zürich</placeName> 1526, Bl. C iij r.: «Oder wie könnend ir Doctoren / die doch wüssend das wir recht lerend / unnd ee muß himel und erden brechen / dann ützid daruon fallen / uns armen schefflin / über alles anbieten unnd bitten / so unmenschlich uff den fleischbanck geben?» <persName ref="p4091">Zwingli</persName> wirft <persName ref="p20278">Fabri</persName> in seiner Schrift «Über den ungesandten Sendbrief <persName ref="p20278">Fabers</persName> <persName ref="p4091">Zwinglis</persName> Antwort», 1526, ebenfalls Blutrünstigkeit vor und bezieht sich dabei auf eine <placeName ref="l18">Augsburger</placeName> Predigt <persName ref="p20278">Fabris</persName>, wobei dieser gesagt haben soll: «es tüge summa summarum nit gut, man lege dann die klingen uff sölche prediger», <bibl source="b700">Z</bibl> V 47,7f (vgl. auch <bibl source="b700">Z</bibl> V 129,22ff).</note> <persName ref="p20278">Fabrum</persName><note xml:id="fn3" type="footnote" ana="bio" n="3"><persName ref="p20278">Johannes Fabri (Heigerlin)</persName>, 1478-1541, studierte in <placeName ref="l512">Tübingen</placeName> und <placeName ref="l922">Freiburg</placeName>, Dr. iuris utriusque; Pfarrer in <placeName ref="l981">Leutkirch</placeName> und <placeName ref="l291">Lindau</placeName>, dann Kanonikus und Offizial in <placeName ref="l28">Basel</placeName>, 1518 - 1523 Generalvikar in <placeName ref="l257">Konstanz</placeName>, hierauf in den Diensten Erzherzog <persName ref="p18477">Ferdinands von Österreich</persName>, 1530 Bischof von <placeName ref="l546">Wien</placeName>. Obwohl ursprünglich kirchlichen Reformen nicht abgeneigt und mit <persName ref="p4091">Zwingli</persName> und <persName ref="p18722">Erasmus</persName> befreundet, wurde <persName ref="p20278">Fabri</persName> doch nach 1523 einer der schärfsten Gegner der <placeName ref="l587">Zürcher</placeName> Reformation, s. Leo <hi>Helbling,</hi> Dr. Johann Fabri, Generalvikar von Konstanz und Bischof von Wien, 1478-1541. Beiträge zu seiner Lebensgeschichte, Münster i. W. 1941. - <bibl source="b538">RGST</bibl> 67/68. Über <persName ref="p20278">Fabris</persName> Verhältnis zur <placeName ref="l862">schweizerischen</placeName> Reformation s. Leo <hi>Helbling,</hi> Dr. Johann Fabri und die schweizerische Reformation, Diss. phil. FreiburgSchweiz, Einsiedeln o. J. - Die Entrüstung <persName ref="p495">Bullingers</persName> über <persName ref="p20278">Fabri</persName> dürfte auf dessen Angriffe gegen die Evangelischen in der Schrift «Ein Sandbrieff Doctor <persName ref="p8009">Johann Fabri</persName> an <persName ref="p4091">Ulrich Zuinglin</persName> Maister zu <placeName ref="l587">Zürich</placeName>», 1526, (s. dazu <hi>Helbling,</hi> Beiträge, S. 140; <bibl source="b700">Z</bibl> V 43, Anm. 1; Leonhard <hi>von Muralt,</hi> Die Badener Disputation 1526, Leipzig 1926. -QASRG III, S. 69ff) zurückgehen. Hier wirft <persName ref="p20278">Fabri</persName> <persName ref="p4091">Zwingli</persName> und seinen Anhängern u. a. vor, sie trieben Bilderstürmerei (Bl. a ij v.), hätten Lobgesänge (Bl. a ij v.) und Gottesdienste (Bl. a iiij r.) abgeschafft, schmähten das Sakrament (Bl. a ij v.) und verkauften Meßgewänder (Bl. a iiij r.). Nach <persName ref="p495">Bullingers</persName> Überzeugung entkräften <persName ref="p18993">Ambrosius</persName> (s. unten Anm. 6) und <persName ref="p19001">Laktanz</persName> (s. unten Anm. 7) die Anklagen <persName ref="p20278">Fabris</persName> und beweisen die Berechtigung des reformatorischen Vorgehens.</note> suique similes <persName ref="p18900">lugurthas</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p18900">Jugurtha</persName>, König von <placeName ref="l3469">Numidien</placeName> und <placeName ref="l3774">Gaetulum</placeName>, etwa 160-104, gefährdete durch seine Gewalttätigkeit, Bestechungskünste und listigen Machenschaften jahrelang die römische Republik (<bibl source="b479">Pauly/Wissowa</bibl> XIX 1-6); er wurde in der Reformationszeit häufig als Beispiel der Grausamkeit und Gewalttätigkeit herangezogen (vgl. <bibl source="b700">Z</bibl> I 182, 4-14; <persName ref="p20278">Fabri</persName> wird mit <persName ref="p18900">Jugurtha</persName> verglichen in <bibl source="b700">Z</bibl> V 146, 8).</note> excandeo<note xml:id="fn5" type="footnote" n="5">Eigentlich excandesco: ergrimmen, in Jähzorn geraten.</note>, ut ipse mihi temperare non potuerim, quin haec pauca moneremus, nempe ut legas <persName ref="p18993">Ambrosii</persName> 2. lib. offitiorum cap. 28<note xml:id="fn6" type="footnote" n="6"><persName ref="p18993">Ambrosius</persName>, De officiis ministrorum, II, 28 (<bibl source="b446">MPL</bibl> XVI 148-150). Über die Auslegung einer anderen Ambrosiusstelle stritten sich <persName ref="p20278">Fabri</persName> und <persName ref="p4091">Zwingli</persName>, s. <bibl source="b700">Z</bibl> V 138, 7ff.</note> et <persName ref="p19001">Lactantium</persName> in 6, «De vero cultu» cap. 25<note xml:id="fn7" type="footnote" n="7"><persName ref="p19001">Laktanz</persName>, Divinae institutiones, lib. VI: «De vero cultu», 25 (<bibl source="b170">CSEL</bibl> XIX 577-580).</note>; sic, ut ex ipsis patribus Thrasonis<note xml:id="fn8" type="footnote" n="8">Thraso ist der Name des prahlerischen Soldaten im Eunuchus des <persName ref="p18901">Terenz</persName>, s. <bibl source="b56">Adagia</bibl>, prolegomena (<bibl source="b370">LB</bibl> II 13 B).</note> profligetur impietas, qua<pb type="edition" next="116"/> impulsus pauperibus detrahit, harpigiis<note xml:id="fn9" type="footnote" n="9">harpigium, Nebenform zu harpago.</note> vero papisticis convehit et insontes sacrilegii accusat, scilicet quod ecclesiam dei, hoc est larvas, ficulneos<note xml:id="fn10" type="footnote" n="10">Ergänze homines oder ähnliches; das Adjektiv ficulnus (bzw. griech. <hi><foreign xml:lang="el">σύκινος</foreign></hi> wurde wegen der Eigenschaft des Holzes im Altertum in der Bedeutung «schwach» gebraucht und kommt in Sprichwörtern und sprichwörtlichen Redensarten vor, s. <bibl source="b479">Pauly/Wissowa</bibl> XII 2143; Adagia, 1, 7, 85 (<bibl source="b370">LB</bibl> II 295f). In der christlichen Tradition kommt durch <cit type="bible"><ref>Mk 11,13ff par.</ref></cit> das Motiv der Unfruchtbarkeit noch hinzu, s. z. B. <persName ref="p18700">Augustin</persName>, Sermo 89 (<bibl source="b446">MPL</bibl> XXXVIII 5531) und S VI/I 358.</note>, lamias, lemures et lares spoliaverint.</s>
+					<s n="3" xml:lang="la">Etsi non ignorem fortiorem esse scripturae authoritatem, quae stat a partibus nostris, attamen ardor hic nescio quis compulit, ut Minervam sus<note xml:id="fn11" type="footnote" n="11">Zu dieser Redensart s. <bibl source="b56">Adagia</bibl>, 1, 1, 40 (<bibl source="b370">LB</bibl> II 43 A-F) und <bibl source="b473">Otto</bibl> 224, Nr. 1118; der Sinn ist: Ein Dummer belehrt einen Klugen.</note> monerem.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" ana="farewell">Vale.</s>
+					<s n="5" xml:lang="la" ana="salute">Salutabis mihi <persName ref="p4091">Zuinglium</persName><note xml:id="fn12" type="footnote" n="12">Siehe oben S. 67, Anm. 6.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la"><placeName ref="l242">Cappellae</placeName>, 11. maii in 1526.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

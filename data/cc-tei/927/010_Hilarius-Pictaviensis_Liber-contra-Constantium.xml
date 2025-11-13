@@ -1,0 +1,1118 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber contra Constantium</title>
+              <author ref="http://viaf.org/viaf/89595978">Hilarius Pictaviensis<date>315-367</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 10</title>
+           <idno>HilPic.LiCoCo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>1.</head>
+        <p>
+ <hi>Exhortatio ad certandum pro fide.</hi> --Tempus
+est loquendi: quia jam praeteriit tempus tacendi.
+Christus exspectetur: quia obtinuit antichristus.
+Clament pastores: quia mercenarii fugerunt. Ponamus
+<pb n="0577C"/>
+animas pro ovibus: quia fures introierunt, et
+leo saeviens circuit. Ad martyrium per has voces
+exeamus, quia angelus satanae transfiguravit se in Angelum
+lucis. Intremus per januam: quia nemo vadit
+ad Patrem nisi per Filium <note>(Joan. XIV, 6)</note>. Manifestentur
+in pace sua pseudoprophetae: quia in haeresi
+et schismate manifestabuntur probati. Sustineatur
+tribulatio, qualis non fuit a constitutione mundi:
+sed intelligantur breviandi dies propter electos Dei <note>(Matth. XXIV, 22)</note>.
+Impleta est prophetia, dicens: <hi>Erit tempus, quando sanam doctrinam non sustinebunt,
+sed ad sua desideria coacervabunt sibi magistros
+scalpentes aures: et a veritate quidem auditum avertent,
+ad fabulas autem convertentur 
+ <note>(II Tim. IV, 3)</note>
+        </hi>; sed
+exspectetur promissio protestantis, <hi>Beati estis, cum
+<pb n="0577D"/>
+vos maledicent, et persequentur, et dicent omne malum
+adversum vos propter justitiam. Gaudete et exsultate,
+<pb n="0578B"/>
+quoniam merces vestra copiosa est in coelo. Sic
+enim persecuti sunt et prophetas qui erant ante vos <note>(Matth. V, 11, 12)</note>
+        </hi>.
+Stemus ante judices et potestates
+pro Christi nomine: quia beatus est qui usque
+<pb n="0578C"/>
+in finem perseveraverit <hi>
+          <note>(Matth. X, 22)</note>.</hi> Non timeamus
+cum qui potest corpus occidere, animam autem
+non potest: sed timeamus eum, qui potest corpus
+et animam occidere in gehennam <hi>
+          <note>(Ibid., 28)</note>.</hi> Nec
+solliciti de nobis simus: quia capilli capitis nostri
+numerati sunt <hi>
+          <note>(Ibid., 30)</note>.</hi> Et per Spiritum sanctum
+sequamur veritatem: ne per spiritum erroris credamus
+mendacio. Et commoriamur Christo, ut Christo
+conregnemus. Ulterius enim tacere, diffidentiae signum
+est, non modestiae ratio, quia non minus periculi
+est semper tacuisse, quam numquam.</p>
+      </div1>
+<div1>
+        <head>2.</head>
+        <p>
+ <hi>Ut Hilarius in tuenda fide semper paci studuerit.
+Ut modestiam cum adversariis servarit.</hi> --Ego, Fratres,
+ut mihi omnes, qui me vel audiunt vel familiaritate
+cognitum habent, testes sunt, gravissimum fidei
+<pb n="0578D"/>
+periculum longe antea praevidens, post sanctorum
+virorum exsilia Paulini, Eusebii, Luciferi, Dionysii,
+<pb n="0579A"/>
+quinto abhinc anno, a Saturnini et Ursacii et
+Valentis communione me cum Gallicanis episcopis
+separavi, indulta caeteris consortibus eorum resipiscendi
+facultate: ut nec pacis abesset voluntas, et
+principalium morborum foetida, et in corruptionem
+totius corporis membra proficientia desecarentur;
+si tamen hoc ipsum beatissimis confessoribus Christi
+editum decretum tum a nobis manere placuisset. <emph>563</emph> 
+ Qui postea per factionem eorum pseudoapostolorum
+ad Biterrensem synodum compulsus, cognitionem
+ demonstrandae hujus haereseos obtuli.
+Sed hi timentes publicae conscientiae, audire ingesta
+a me noluerunt: putantes se innocentiam
+suam Christo posse mentiri, si volentes nescirent,
+quod gesturi postmodum essent scientes. Atque
+<pb n="0579B"/>
+exinde toto hoc tempore in exsilio detentus, neque
+decedendum mihi esse de Christi confessione decrevi,
+neque honestam aliquam ac probabilem ineundae
+unitatis rationem statui respuendam. Denique
+exinde nihil in tempora maledictum, nihil in
+eam, quae tum se Christi ecclesiam mentiebatur, nunc
+autem antichristi est synagoga, famosum ac dignum
+ipsorum impietate scripsi, aut locutus sum: neque
+interim criminis loco duxi, quemquam aut cum his
+<pb n="0580A"/>
+colloqui, aut suspensa licet communionis societate,
+orationis domum adire, aut paci optanda sperare;
+dum erroris indulgentiam, ab antichristo ad Christum
+ recursum, per poenitentiam praepararemus <note>(Vid. l. de Synod. n. 4 et 8)</note>.</p>
+      </div1>
+<div1>
+        <head>3.</head>
+        <p>
+ <hi>Quod jam dicturus est, non est impatientiae, sed
+libertatis christianae.</hi> --Si quis igitur prudens rationem
+silentii mei percipit, profecto me usque nunc
+recentis injuriae acerbitatem moderatum, nunc demum
+fideli in Christo libertate testante, non aliquo
+vitio humanae perturbationis, ad haec scribenda
+arguet incitatum. Neque enim immature loquar, qui
+diu tacui, nec sine modestia tacui, qui aliquando
+jam loquor: neque injuriam queror, qui dissimulavi
+recentem, et qui, ne quid ex causa mea loqui existimarer,
+<pb n="0580B"/>
+ tantum adhibui ad silentium temporis.
+Nunc mihi non alia ad dicendum causa, quam Christi
+est: cui <emph>564</emph> et hoc debui, quod usque nunc tacui;
+et ( <hi>supple,</hi> cui) ex reliquo me intelligo debere, ne
+taceam.</p>
+      </div1>
+<div1>
+        <head>4.</head>
+        <p>
+ <hi>Persecutorum optat tempora.</hi> --Atque utinam
+illud potius, omnipotens Deus et universorum creator,
+sed et unius Domini nostri Jesu Christi pater,
+aetati meae et tempori praestitisses, ut hoc confessionis
+<pb n="0581A"/>
+meae in te atque in unigenitum tuum ministerium
+Neronianis, Decianisve temporibus explessem! Nec
+ego, per misericordiam Domini et Dei filii tui Jesu
+Christi calens Spiritu sancto, equuleum metuissem,
+qui desectum Esaiam scissem, nec ignes timuissem,
+inter quos Hebraeos pueros cantasse meminissem:
+nec crucem et fragmenta crurum meorum
+ vitassem, postquam in paradisum translatum latronem
+recordarer: nec profundum maris et Pontici
+aestus absorbentem rheumam trepidassem, cum per
+Jonam et Paulum docuisses fidelibus esse in mari
+vitam. Adversus enim absolutos hostes tuos felix
+mihi illud certamen fuisset; quia nec dubium relinqueretur,
+quin persecutores essent, qui ad negandum
+te poenis, ferro, igni compellerent: neque ad
+<pb n="0581B"/>
+testificandum plus tibi nos, quam mortes nostras liceret
+impendere. Pugnaremus enim palam et cum fiducia
+contra negantes, contra torquentes, contra jugulantes:
+et nos populi tui, tamquam duces suos, ad
+confessionis religionem intelligentia persecutionis
+publicae comitarentur.</p>
+      </div1>
+<div1>
+        <head>5.</head>
+        <p>
+ <hi>Constantii persecutio qualis.</hi> --At nunc pugnamus
+contra persecutorem fallentem, contra hostem
+ blandientem, contra Constantium antichristum:
+qui non dorsa caedit, sed ventrem palpat; non proscribit
+ad vitam, sed ditat in mortem; <emph>565</emph> non
+trudit carcere ad libertatem, sed intra palatium honorat
+ ad servitutem; non latera vexat, sed cor occupat;
+non caput gladio desecat, sed animam auro
+occidit; non ignes publice minatur, sed gehennam
+<pb n="0582A"/>
+privatim accendit. Non contendit, ne vincatur; sed
+adulatur, ut dominetur. Christum confitetur, ut neget;
+ unitatem procurat, ne pax sit; haereses
+comprimit, ne christiani sint; sacerdotes honorat, ne
+episcopi sint; ecclesiae tecta struit, ut fidem destruat.
+Te in verbis, te in ore circumfert; et omnia
+omnino agit, ne tu Deus ita, ut pater, esse credaris.</p>
+      </div1>
+<div1>
+        <head>6.</head>
+        <p>
+ <hi>Hilarius a maledicti suspicione se purgat.</hi> --Cesset itaque maledictorum opinio, et mendacii suspicio.
+Veritatis enim ministros decet vera proferre.
+Si falsa dicimus, infamis sit sermo maledicus: si
+vero universa haec manifesta esse ostendimus, non
+sumus extra apostolicam libertatem et modestiam
+post longum haec silentium arguentes. Sed temerarium
+<pb n="0582B"/>
+me forte quisquam putabit, quia dicam Constantium
+antichristum esse. Quisquis petulantiam
+istud magis quam constantiam judicabit, relegat primum
+Joannem dixisse ad Herodem, <hi>Non tibi licet
+facere istud <note>(Marc. VI, 18)</note>
+        </hi>: sciat a Martyre esse dictum
+regi Antiocho, <hi>Tu quidem iniquus de praesenti vita
+nos perdis, sed Rex mundi defunctos nos pro suis legibus
+ in aeternam vitam in resurrectione suscitabit <note>(II Mach. VII, 9)</note>
+        </hi>:
+et rursum beata fidelique voce
+alium increpasse, <hi>Potestatem,</hi> inquit, <hi>inter homines
+habens, cum sis corruptibilis facis quod vis: noli autem
+putare genus nostrum</hi> <emph>566</emph> <hi>a Deo esse derelictum. Patienter
+sustine, et vide magna potestas ipsius qualiter te
+et semen tuum torquebit <note>(Ibid., 16, 17)</note>
+        </hi>. Et quidem
+ita pueri. At vero foemina nihil minus perfectis et
+<pb n="0583A"/>
+beatis viris locuta est, dicens: <hi>Tu vero, qui inventor
+omnis malitiae factus es in Hebraeos, non effugies manum
+Dei. Si enim nobis vivis propter increpationem
+et correptionem Dominus modicum iratus est, sed iterum
+ reconciliabitur servis suis <note>(Ibid., 31 et seqq.)</note>
+        </hi>.
+Non est istud temeritas, sed fides; neque inconsideratio,
+sed ratio; neque furor, sed fiducia.</p>
+      </div1>
+<div1>
+        <head>7.</head>
+        <p>
+ <hi>Constantius Neroni, Decio,</hi> etc., <hi>confertur.</hi> --Proclamo
+tibi, Constanti, quod Neroni locuturus fuissem,
+quod ex me Decius et Maximianus audirent:
+Contra Deum pugnas, contra Ecclesiam saevis, sanctos
+persequeris, praedicatores Christi odis, religionem
+tollis, tyrannusnon jam humanorum, sed divinorum
+es. Haec tibi a me atque illis socia atque communia
+sunt: at vero nunc propria tua accipe. Christianum
+<pb n="0583B"/>
+te mentiris, Christi novus hostis es: antichristum
+praevenis, et arcanorum mysteria ejus operaris. Condis
+ fides, contra fidem vivens. Doctor profanorum
+<pb n="0584A"/>
+es, indoctus piorum episcopatus tuis donas,
+bonos malis demutas. Sacerdotes custodiae mandas,
+exercitus tuos ad terrorem Ecclesiae disponis,
+synodos contrahis, et Occidentalium fidem ad impietatem
+compellis, conclusos urbe (Ariminensi) una
+minis terres, fame debilitas, hieme conficis, dissimulatione
+depravas. Orientales autem dissensiones artifex
+nutris, blandos elicis, fautores instigas:
+veterum <emph>567</emph> turbator es, profanus novorum es.
+Omnia saevissima sine invidia gloriosarum mortium
+peragis. Novo inauditoque ingenii triumpho de
+diabolo vincis, et sine martyrio persequeris.</p>
+      </div1>
+<div1>
+        <head>8.</head>
+        <p>
+ <hi>Martyrum Reliquiae venerandae: earum virtus.</hi> --Plus crudelitati vestrae, Nero, Deci, Maximiane, debemus.
+Diabolum enim per vos vicimus. Sanctus ubique
+<pb n="0584B"/>
+beatorum Martyrum sanguis exceptus est, et
+veneranda ossa quotidie testimonio sunt: dum in his
+daemones mugiunt, dum aegritudines depelluntur,
+<pb n="0585A"/>
+elevari sine laqueis corpora, et suspensis pede feminis
+vestes non defluere in faciem, uri sine ignibus
+spiritus, confiteri sine interrogatione vexatos,
+agere omnia non minus cum profectu examinantis,
+quam incremento fidei. At tu, omnium crudelium
+crudelissime, damno majore in nos, et venia minore
+desaevis. Subrepis nomine, blandimento occidis,
+specie religionis impietatem peragis, Christi fidem
+Christi mendax praedicator exstinguis. Non relinquis
+saltem miseris excusationes, ut aeterno judici suo
+poenas et aliquas laniatorum corporum perferant
+cicatrices, ut infirmitas defendat necessitatem. Scelestissime
+mortalium, omnia persecutionis mala ita
+temperas, ut excludas et in peccato veniam, et in
+confessione martyrium. Sed haec ille pater tuus
+<pb n="0585B"/>
+artifex humanarum mortium docuit, <emph>568</emph> vincere
+sine contumacia, jugulare sine gladio, persequi sine
+infamia, ordire sine suspicione, mentiri sine intelligentia,
+profiteri sine fide, blandiri sine bonitate,
+agere quod velis, nec manifestare quae velis.</p>
+      </div1>
+<div1>
+        <head>9.</head>
+        <p>
+ <hi>Domini nomen in verbis Constantii, non in gestis.
+Deum inducit fallacem.</hi> --Sed me ipse unigenitus
+Deus, quem in me persequeris, admonuit ne tibi
+crederem, neque me hoc fallax in te ementitumque
+nomen illuderet, dicens: <hi>Non omnis qui dicit mihi,
+Domine, Domine, intrabit in regnum coelorum: sed qui
+facit voluntatem Patris mei, qui in coelis est, hic intrabit
+in regnum coelorum <note>(Matth. VII, 21)</note>
+        </hi>. Agnoscis
+ne nunc divinae in te prophetiae veritatem et dominicae
+sententiae fidem, qua non professio nominis
+<pb n="0585C"/>
+in coeleste regnum, sed obedientia paternae voluntatis
+<pb n="0586A"/>
+admittitur? At vide tu, si praeferens nomen Domini
+in verbis, voluntatem efficias Dei patris in rebus.
+Clamat ille: <hi>Hic est filius meus dilectus, in quo mihi bene
+complacui <note>(Matth. III. 17)</note>
+        </hi>: et tu decernis non esse
+filium, neque esse patrem; sed adoptionis nomina,
+externas nuncupationes, et simulantem de se omnia
+Deum novus hodie religionis divinae persecutor inducis.
+Antehac patres tui <note>(Nero, Decius, etc.)</note> in solum
+Christum hostes fuerunt: tu autem ad Patrem
+Deum certas, ut mendax sit, ut fefellerit, ut hoc de
+se professus sit quod non esset, quasi neque esse
+possit, Clamat Filius: <hi>Ego et Pater unum sumus <note>(Joan. X, 30)</note>
+        </hi>;
+et, <hi>Operibus meis credite, quia Pater
+in me, et ego in Patre <note>(Ibid., 38)</note>
+        </hi>; et, <hi>Omnia, quae Patris</hi> <emph>569</emph> 
+ <hi>sunt, mea sunt <note>(Joan. XVI, 15)</note>
+        </hi>: tu Christum
+<pb n="0586B"/>
+objurgas veritatis, tu Patrem arguis professionis.
+Emendas Deum homo, vitam moderaris corruptio,
+et nox lucem illuminas, et promulgas fidem infidelis,
+et pietatem impius mentiris, et orbem
+terrae profana simultate committis: negans hoc de
+Deo, quod ipse de se professus est.</p>
+      </div1>
+<div1>
+        <head>10.</head>
+        <p>
+ <hi>Constantio vestis ovina.</hi> --Sed praeter hanc
+emendationem falsitatis, aliud me Dominus, ad intelligendum
+te, dictum docuit, dicens: <hi>Attendite a
+pseudoprophetis, qui veniunt ad vos in vestimentis
+ovium, ab intus autem sunt lupi rapaces: a fructibus
+eorum cognoscetis eos <note>(Matth. VII, 15, 16)</note>
+        </hi>. Est
+enim aliquid in corde, quod dissimulatur in vultu, et
+velatum est mente: et ovem putantes, lupum senserunt.
+Si quae ovium sunt agunt, credantur et oves
+<pb n="0586C"/>
+esse: si autem rapacium luporum opus peragunt,
+<pb n="0587A"/>
+lupi esse per opus suum intelliguntur; et gestorum
+fructu, vestimentorum species arguitur. Vestem ovis
+tuae, lupe rapax, cernimus. Auro reipublicae sanctum
+Dei oneras, et vel dectracta templis, vel publicata
+edictis, vel exacta poenis Deo ingeris. Osculo sacerdotes
+excipis, quo et Christus est proditus: caput
+benedictioni submittis, ut fidem calces: convivio dignaris,
+ex quo Judas ad proditionem egressus est:
+ censum capitum remittis, quem Christus, ne
+scandalo esset, exsolvit <note>(Matth. XVII, 26)</note>: vectigalia
+Caesar donas, ut ad negationem Christianos invites:
+quae tua sunt relaxas, <emph>570</emph> ut quae Dei sunt amittantur.
+Haec tua, falsa ovis, indumenta sunt.</p>
+      </div1>
+<div1>
+        <head>11.</head>
+        <p>
+ <hi>Gesta lupi. Quid perpessa Alexandria, quid Treviri,
+quid Mediolanum, quid Roma, quid Tolosana.</hi> --
+<pb n="0587B"/>At nunc fructus operum tuorum, lupe rapax, audi.
+Neque ego alia potius quam quae gesta sunt in Ecclesia
+refero, aut tyrannidem aliam praeter quam
+Dei proferam. Non queror, quia causam ignoro, sed
+tamen querela famosa est, jussos a te episcopos non
+esse, quos condemnare nullus audebat, etiam nunc
+<pb n="0588A"/>
+in ecclesiasticis frontibus scriptos metallicae damnationis
+titulo recenseri. Adest mecum Alexandria
+tot concussa bellis, tantum commotarum expeditionum
+pavens tumultum. Brevius enim adversum
+Persam, quam adversum eam armis certatum est.
+Mutati praefecti, electi duces, corrupti populi, commotae
+legiones, ne ab Athanasio Christus praedicaretur.
+Taceo de minoribus populis et civitatibus,
+quibus per totum Orientem aut terror, aut bellum
+est. Postquam omnia contulisti arma adversum fidem
+Occidentis, et exercitus tuos convertisti in oves
+Christi: fugere mihi sub Nerone licuit. Aut tu Paulinum
+beatae passionis virum blandimento
+sollicitatum
+relegasti <note>( <hi>an.</hi> 353)</note>, et ecclesiam sanctam
+Trevirorum tali sacerdote spoliasti. Edictis fidem terruisti.
+<pb n="0588B"/>
+Ipsum usque ad mortem demutasti exsiliis et
+fatigasti, extra Christianum quoque nomen relegasti:
+ ne panem aut de horreo tuo sumeret, aut de
+Montanae Maximillaeque antro profanatum exspectaret. <emph>571</emph> 
+ Mediolanensem piissimam plebem quam
+tu furore terroris tui turbasti! Tribuni tui adierunt
+<pb n="0589A"/>
+sancta sanctorum, et viam sibi omni per populum
+crudelitate pandentes, protraxerunt de altario
+sacerdotes. Levius te putas, sceleste, Judaeorum impietate
+peccasse? Effuderunt quidem illi Zachariae
+sanguinem; sed, quantum in te est, concorporatos
+Christo a Christo discidisti. Vertisti deinde
+usque ad Romam bellum tuum, eripuisti illinc ( <hi>Liberium</hi> )
+episcopum: et o te miserum, qui nescio utrum
+majore impietate relegaveris, quam remiseris! Quos
+tu deinde in ecclesiam Tolosanam exercuisti furores!
+Clerici fustibus caesi, diacones plumbo elisi, et in
+ipsum, ut sancti mecum intelligunt, in ipsum
+Christum manus missae. Haec, Constanti, si ego mentior,
+ovis es: si vero tu peragis, antichristus es.
+<pb n="0590A"/>
+</p>
+      </div1>
+<div1>
+        <head>12. </head>
+        <p>
+ <hi>De Seleuciae synodo.</hi> --Nunc quia haec, quae
+conscientia publica <emph>572</emph> tenentur, non magis a me
+maledicta sunt dicta quam vera; si cui in Christo
+reliqua spes est, si quis judicii diem metuit, si quis
+diabolo renuntiavit, si quis se regeneratum in vitam
+recordatur, accipiat quae dico, et de his judicio,
+quo in se judicandum est, judicet. Quae enim dicturus
+sum, non aliunde cognovi: sed ipse audivi, et
+praesens adfui cum gerebantur. In Christo itaque non
+mentior, quia discipulus veritatis, testis quoque
+nunc veritatis. Assisto <note>( <hi>die 27 Sept. an.</hi> 359)</note> Orientalium
+in Seleucia synodo, ubi reperi tantum blasphemorum,
+quantum Constantio placebat. Nam prima
+secessione in ea deprehendi, ut centum
+<pb n="0591A"/>
+et quinque episcopi homoeusion, id est, similis essentiae
+praedicarent, et decem et novem anomoeusion,
+id est dissimilis essentiae, profiterentur, et soli
+Aegyptii praeter Alexandrinum haereticum ( <hi>Georgium</hi> )
+homousion constantissime obtinerent. <emph>573</emph> Cogente
+( <hi>Concilii 3º die</hi> ) itaque Leona Comite, in unum
+omnes congregati sunt. Ex his, qui homoeusion
+praedicabant, aliqui nonnulla pie verbis praeferebant:
+quod et ex Deo esset, id est, de substantia Dei filius,
+et semper fuisset. Qui vero anomoeusion defendebant,
+nihil nisi profanissimum asserebant: negantes
+quidquam substantiae Dei simile esse posse, neque
+de Deo posse exsistere generationem, sed esse
+Christum creaturam; ita quod creatus est, id ei
+nativitas deputaretur: ex nihilo autem esse; et idcirco
+non esse filium, nec Deo similem.</p>
+      </div1>
+<div1>
+        <head>13.</head>
+        <p>
+ <hi>Blasphemiae publice recitatae.</hi> --Loquor autem
+vobis, quod ego ipse recitari in conventu publice audivi,
+ quod praedicante episcopo Antiochiae exceptum
+habebatur. Haec ergo ita dicta esse ab eo commemorabantur:
+ « Erat Deus, quod est. Pater non
+erat, quia neque ei Filius: nam si filius, necesse est
+ut et femina sit, et colloquium, et sermocinatio,
+et conjunctio conjugalis verbi, et blandimentum, et
+postremum ad generandum naturalis machinula. » 
+<pb n="0592A"/>
+O miseras aures meas, quae tam funestae vocis sonum
+audierunt, haec de Deo ab homine dici, et de Christo
+in ecclesia praedicari! Post multas autem istiusmodi
+impietates, cum Patrem et Filium ex nominibus potius
+quam ex natura comparasset, ait:  « Quantum
+enim Filius se extendit cognoscere Patrem, tantum
+Pater superextendit se ne cognitus Filio sit. » 
+Quibus recitatis, tumultus exortus est. <emph>574</emph>
+</p>
+      </div1>
+<div1>
+        <head>14.</head>
+        <p>
+ <hi>Dissimilitudinem quo sensu damnent negantes
+similitudinem.</hi> --Cum autem intellexissent et
+hi, qui dissimilem Deum dicunt, humanas aures
+tantae impietatis verba non suscepturas esse; rursum
+hi ipsi, fallaces potius quam Ecclesiae episcopi,
+fidem scribunt, homousion et homoeusion et dissimilitudinem
+damnant. Quod cum contrarium ipsis
+<pb n="0592B"/>
+sensu audientium esset: ipse ego quemdam eorum,
+qui forte ad me pertentandum accesserat, quasi ignorans
+rerum gestarum percontatus sum, quid sibi
+vellet istud, ut qui unam substantiam Filii esse cum
+Patre damnassent, vel esse similis substantiae denegassent,
+dissimilitudinem damnarent. Tunc mihi ait:
+ « Christum Deo similem non esse, sed similem Patri
+esse. »  Rursus hoc obscurius mihi adhuc videbatur.
+De quo cum iterum interrogarem, tunc haec ita locutus
+est:  « Dico eum dissimilem Deo esse, similem
+<pb n="0593A"/>
+Patri posse intelligi; quia Pater voluisset creaturam
+istiusmodi creare, quae similia sui vellet: et idcirco
+similem Patri esse, quia voluntatis esset potius
+filius, quam divinitatis; dissimilem autem Deo esse,
+quia neque Deus esset, neque ex Deo, id est, de
+substantia Dei natus esset. »  Haec audiens hebui,
+neque credidi, donec cum publice ex consensu
+omnium eorum profanissimae hujus similitudinis ratio
+praedicaretur.</p>
+      </div1>
+<div1>
+        <head>15.</head>
+        <p>
+ <hi>Damnati rursus dominantur.</hi> --Hi autem, qui
+homoeusion praedicabant, omnes eos, qui maxime sine
+aliquo impietatis pudore impudentissime haec loquebantur,
+condemnaverunt. Condemnati <emph>575</emph> ad regem
+suum advolaverunt: exceptique honorifice impietates
+suas quanta potuerunt ambitione confirmaverunt,
+<pb n="0593B"/>
+similem Deo esse, vel ex Deo natum, vel naturalem
+esse filium denegantes. Pauci plurium dominati
+sunt. Constantius res blasphemiae suae, metu extorsit
+exsilii. Vicisse se jam Orientales gloriatus, quia decem
+legatos voluntati suae subdidisset, comminatusque
+et populo per praefectum, et episcopis intra
+palatium, per maximas Orientis civitates haereticos
+episcopos subrogatos communione haeretica
+munivit. Nihil prorsus aliud egit, quam ut orbem terrarum,
+pro quo Christus passus est, diabolo condonaret.</p>
+      </div1>
+<div1>
+        <head>16.</head>
+        <p>
+ <hi>Verba non scripta male vetat Constantius. Ipse
+admittit non scripta.</hi> --Utitur autem etiam nunc, ut
+<pb n="0594A"/>
+in caeteris ante, artis suae consuetudine, ut per recti
+speciem prava confirmet, et per rationis nomen insana
+constituat. « Nolo, »  inquit,  « verba quae non
+scripta sunt dici. » Hoc tandem rogo quis episcopis
+jubeat? et quis apostolicae praedicationis vetet
+formam? Dic prius, si recte dici putas: Nolo adversum
+nova venena novas medicamentorum comparationes,
+nolo adversum novos hostes, nova bella,
+nolo adversum novas insidias consilia recentia.
+Si enim Ariani haeretici idcirco homoeusion hodie
+evitant, quia prius negaverunt; nonne tu hodie
+idcirco refugis, ut hi nunc quoque denegent? Novitates
+vocum, sed profanas devitare jubet Apostolus <note>(I Tim. VI, 20)</note>:
+tu cur pias excludis? cum praesertim
+ab eo dictum sit: Omnis Scriptura divinitus
+<pb n="0594B"/>
+inspirata utilis est <note>(II Tim. III, 16)</note>. Innascibilem
+scriptum nusquam legis: numquid ex hoc negandum
+erit, quia novum est? Decernis <hi>similem Patri
+Filium.</hi> Evangelia non praedicant: quid est quod non
+refugis hanc vocem? In uno novitas eligitur, in alio
+submovetur. <emph>576</emph> Ubi impietatis occasio patet, novitas
+admittitur: ubi autem religionis maxima et sola
+cautela est, excluditur.</p>
+      </div1>
+<div1>
+        <head>17.</head>
+        <p>
+ <hi>Scripturae tradunt aequalem Patri Filium.</hi> --Sed diabolici ingenii tui fallentem subtilitatem non
+tacebo. Similem, quod scriptum non est, Patri Filium
+decernis praedicari: ut aequalem Christum Deum,
+<pb n="0595A"/>
+quod scriptum est, taceas. Domini enim mortis haec
+causa est: <hi>Propter hoc magis Judaei quaerebant eum
+occidere, quia non solum solvebat sabbatum, sed quod
+patrem suum dicebat Deum, aequalem se faciens Deo <note>(Joan. V, 18)</note>
+        </hi>.
+Hoc Joannes loquens magna voce proclamabat:
+ut professus Filius sibi patrem Deum, professus
+ se aequalem esse Deo intelligatur. Quod si
+forte dicis, aequalitatem sibi et Deo negasse Christum,
+quia dixerit: <hi>Non potest Filius ab se facere quidquam,
+nisi quod viderit Patrem facientem <note>(Ibid., 19)</note>
+        </hi>: memento
+Christum et respondisse de sabbato, quod
+violasse arguebatur, ut in hoc ipso Patris in se operantis
+praeferret auctoritatem, et aequalitatem sibi
+virtutis honorisque sumpsisse: <hi>Omnia quaecumque
+Pater facit, eadem et Filius facit similiter (Ibidem)</hi>;
+<pb n="0595B"/>
+et iterum, <hi>Ut honorificent Filium, sicut honorificant
+Patrem <note>(Ibid., 23)</note>
+        </hi>: et, <hi>Qui non honorificat Filium,
+non honorificat Patrem qui misit illum (Ibidem)</hi>. Si
+virtus eadem est, si honor idem est; quaero in quo
+desit aequalitas?</p>
+      </div1>
+<div1>
+        <head>18.</head>
+        <p>
+ <hi>Natura unum.</hi> --Sed similitudo tibi placet; ne
+audias, <hi>Ego et Pater unum sumus <note>(Joan. X, 30)</note>
+        </hi>?
+Numquid et hoc quod <hi>unum sumus,</hi> in quo neque unio,
+neque diversitas relinquebatur, calumniantibus rursum
+Judaeis quod se per hoc dictum Deum faceret,
+Dominus denegavit, dicens: <hi>Si non facio opera Patris
+mei, nolite mihi credere: sin autem facio, et non vultis
+mihi credere, vel operibus meis credite, quia Pater in me
+est, et ego in Patre <note>(Ibid., 37, 38)</note>
+        </hi>? Quid rogo aequalitati
+Dei deest? An opus? an natura? an <emph>577</emph> professio?
+<pb n="0595C"/>
+Nam <hi>Pater in me est, et ego in Patre <note>(Ib., 38)</note>
+        </hi>.
+aequalitas est: quae vicissitudinem aequalitatis expressit,
+dum inesse atque esse commune est. Opera
+vero patris sui facere, non aliud est, quam virtutem
+in se paternae divinitatis operari. Unum vero quod
+sunt, hoc est non aequalitatem abnuere, sed incremento
+intelligentiae fidem aequalitatis instruere.
+<pb n="0596A"/>
+</p>
+      </div1>
+<div1>
+        <head>19. </head>
+        <p>
+ <hi>In eadem forma et gloria.</hi> --Vetas igitur non
+scripta dici: et ipse tamen non scriptis uteris, neque
+quae sunt scripta loqueris. Similem vis Patri Filium
+praedicari: ne ab Apostolo audias: <hi>Qui cum in forma
+Dei esset, non rapinam arbitratus est esse se aequalem
+Deo, sed exinanivit se formam servi accipiens <note>(Philip.
+II, 6, 7)</note>
+        </hi>. Non rapit quod erat Christus, id est,
+in forma Dei esse. Non est aequalitas Dei in forma
+Dei esse, si non aequalitas hominis est esse in forma
+servi. Quod si in forma servi homo Christus est; quid
+aliud in forma Dei, quam Christus Deus est? Similem
+itaque ob id praedicari vis, ne in fide tua sit: <hi>Et omnis
+lingua confiteatur, quoniam Dominus Jesus in gloria
+est Dei patris <note>(Ibid., 11)</note>
+        </hi>.</p>
+      </div1>
+<div1>
+        <head>20.</head>
+        <p>
+ <hi>Dolosa est professio,</hi> similis secundum Scripturas.--
+<pb n="0596B"/>O Fallax blandimentum tuum! Paleis enim
+aquas tegis, et foveas cespitibus occultas, et escis
+laqueos supponis. Satisfacere te ignorantibus putas,
+quia dicis <hi>similem Patri secundum Scripturas.</hi> 
+Audi etiam nunc impietatis tuae artem. Numquid non
+pie dicimus hominem similem Deo secundum Scripturas;
+quia dictum est: <hi>Faciamus hominem ad imaginem
+et similitudinem nostram <note>(Gen. I, 26)</note>
+        </hi>? Homo ergo
+ad imaginem et similitudinem Dei patris et Dei filii
+ est. Et cujusmodi imago est, catholici si requirantur,
+docebunt. Nunc autem homo ad similitudinem
+et imaginem Dei conditur: non etiam similitudo <emph>578</emph> 
+ intra Patrem et Filium praedicatur. Id
+enim, quod ait <hi>nostram,</hi> aequalitatis est demonstratio;
+dum non differat, cujus in sacramento et
+<pb n="0596C"/>
+imago sit et similitudo.</p>
+      </div1>
+<div1>
+        <head>21.</head>
+        <p>
+ <hi>De Filio nusquam praedicatur mera similitudo.</hi> --De Filio autem nusquam similitudinem reperies.
+Imaginem autem eum Dei esse Apostolus dicit, sed
+cum additamento fidei: ne imaginem conformationem
+sentires. Ait enim: <hi>Qui est imago Dei invisibilis <note>(Coloss. I, 15)</note>
+        </hi>:
+ut imago invisibilis Dei, etiam per
+id quod ipse invisibilis est, invisibilis Dei imago
+<pb n="0597A"/>
+esset. Similitudinem vero cum imagine ad Deum
+homini deputavit: ne veritatis esse proprietas existimaretur,
+cui ad imaginem similitudo esset adjuncta.
+Denique ubi ad significationem virtutis
+aequatur, et similitudo in Filio demonstratur operandi:
+cum profectus vero intelligentiae praedicatur:
+tum ita dicitur: <hi>Omnia quaecumque facit Pater, eadem
+et Filius facit similiter <note>(Joan. V, 19)</note>
+        </hi>. Facere <hi>similiter</hi> 
+parum visum est, nisi eadem fierent quae similia
+fiebant. Atque ita similitudo faciendi pie demonstrata
+est in eorumdem proprietate factorum. Est autem et
+similitudo in Domino carnis peccati <note>(Rom. VIII, 2)</note>:
+sed illi non similitudo carnis est, sed similitudo
+carnis peccati est: ut quod in forma Dei est,
+homo sit; quod autem in similitudine carnis peccati
+<pb n="0597B"/>
+est, hominis sit similitudo, dum in hominis statura
+est, et extra hominis peccatum est. Quae ergo
+callida religionis tuae professio est, similem secundum
+Scripturas Patri Filium dicere; cum ad imaginem
+et similitudinem Dei homo tantum factus sit? Quid
+itaque verbis fallis? Quid arte eludis? Cur non aequalem
+Deo (hoc enim secundum Scripturas) pie dicis?</p>
+      </div1>
+<div1>
+        <head>22.</head>
+        <p>
+ <hi>Filii praelata aequalitate similitudo potest praedicari.</hi> --Sed vereris, ne aequalem dicens, innascibilem <emph>579</emph> 
+ significes? Sed verum intellige, quod hinc aequalis
+Deo esse intellectus est, quia sibi proprium
+Deum professus est esse; et protestari patrem sibi
+<pb n="0598A"/>
+proprium Deum esse, nativitatis demonstratio est.
+Mihi quidem similitudo, ne unioni detur occasio,
+sancta est: sed tibi a me non concedenda est: quia
+aequalem eumdem, et similem postea pie fatebor.
+Similem autem Patri, similem quoque et Deo,
+religiose praedicabo; similem vero ita, ut similitudini
+hoc dictum semper anteferam: <hi>Ego et Pater
+unum sumus <note>(Joan. X, 30)</note>
+        </hi>: tu autem his omnibus
+contradicis, quia similitudinem excusatione defendis.
+Negas Filium per nativitatem, negas Deum per
+naturam, negas similem per aequalitatem, negas verum
+per unitatem. Et jam quaero, quid ei relinquas
+similitudinis, cui nihil ad quod filius est, proprietatis
+impertias.</p>
+      </div1>
+<div1>
+        <head>23.</head>
+        <p>
+ <hi>Constantii in fide inconstantia.</hi> --Hoc nunc a te,
+<pb n="0598B"/>
+Constanti, requiro, in qua tandem fide credas. Pergo
+ enim nunc per demutationis tuae tempora,
+quibus usque in imum blasphemiae tuae barathrum
+descendens, per gradus praecipites cucurristi. Namque
+post primam vere fidem synodi Nicaenae, congregato
+rursum <note>(an. 341)</note> Antiochiae concilio, fidem
+tibi renovas. Sed accidit tibi, quod imperitis aedificatoribus,
+quibus sua semper displicent, accidere
+solet: ut semper destruas, quod semper aedifices.
+Ac ne me iniquum voluntatis tuae judicem arguas,
+quid tibi in eadem Encaeniorum fide displiceat renuntiabo.
+ Ni me fallit, illud quod tuum est:
+<pb n="0599A"/>
+ « Qui generatus est ex <emph>580</emph> Patre, Deum de Deo,
+totum de toto, unum de uno, perfectum a perfecto,
+regem de rege, inconvertibilem, divinitatis essentiaeque,
+virtutis et gloriae incommutabilem imaginem. » 
+His quidem ego, intra Nicaeam scripta a
+patribus fide fundatus manensque, non egeo:
+sed tamen haec tu emandando rescindis, ac sine fidei
+meae damno tibi requiris perfidiae occasionem. Post
+synodum deinde Sardicensem <note>(an. 347)</note>, omnem rursum
+adversum Photinum <note>(an. 351)</note> Sirmium catholicae
+doctrinae tuae commoves curam. Sed tibi statim
+hoc, quod utraque fide continebatur, exhorret:
+ « Eos autem, qui dicunt de non exstantibus esse Filium
+Dei, vel ex alia substantia, et non ex Deo, et
+quod erat aliquando tempus aut saeculum quando non
+<pb n="0599B"/>
+erat, alienos novit sancta et catholica Ecclesia. » 
+ Tuis ipsis dissides, et adversus tuos hostis rebellas.
+Novis vetera subvertis, nova ipsa rursum innovata
+emendatione rescindis, emendata autem iterum
+emendando condemnas. Suscipis etiam adversum
+deliramenta Osii et incrementa Ursacii ac Valentis,
+emendationum tuarum damnationes: sed mox
+ emendanda tua omnia esse, vel potius damnanda
+constituis. Offenderis enim his paucis inimicissimis
+tibi verbis:  « Et si quis seniorem tempore Patrem
+dicat Filio esse unigenito, juniorem autem Filium
+Patre, anathema sit. » 
+<pb n="0600A"/>
+</p>
+      </div1>
+<div1>
+        <head>24. </head>
+        <p>
+ <hi>Fides nulla, ubi non una.</hi> --Non calumniamur
+de rescissis, de quibus magis post Nicaenam synodum
+ institutis conquerimur. Nam etiamsi in
+his omnibus nihil vitiorum subjacere affirmetur, <emph>581</emph> 
+ non tamen causa religiosae voluntatis inesset:
+quia mali meditatio est, bonorum demutatio; et non
+necessaria emendatio, perversitatis occasio est. Taceo
+cur nostra apud Nicaeam a patribus gesta rescindis;
+non enim cum his tibi convenit: hoc tantum
+quaero, cur tua damnas? Fidem enim unam et unum
+baptisma Apostolus praedicat <note>(Ephes. IV, 5)</note>: jam
+quidquid apud te praeter fidem unam est, perfidia, non
+fides est. Nam qui fidem emendando condemnas, damnationem
+fidei esse constituis; dum apud te aboletur
+per alteram, quae per alteram rursus abolenda est.
+</p>
+      </div1>
+<div1>
+        <head>25. </head>
+<p>
+          <pb n="0600B"/> <hi>Nullus juxta Arianos jam non reus.</hi> --Cujus
+enim tu exinde episcopi manum innocentem reliquisti?
+Quam linguam non an falsiloquium coegisti?
+Quod cor non ad damnationem anterioris sententiae
+demutasti? Damnare homousion decernis, antiquitatis
+fidem, et pietatis securitatem. Anathematizari
+ homoeusion ab his ipsis, a quibus usurpatum
+est, constituisti: quod tametsi nobis ad fidem
+ otiosum est, tamen rescindentibus fidei suae
+damnatio est. Damnas quoque et substantiae nomen,
+quo te et Sardicensi synodo et Sirmiensi
+pium esse Occidentalibus mentiebaris: quod tamen
+<pb n="0601A"/>
+prophetica auctoritate susceptum, fidei intelligentiam
+continebat. Omne itaque, quod probatum
+antea est, damnare jubes; quod improbatum semper est,
+sanctificare compellis. O tu sceleste, qui
+ ludibrium de Ecclesia facis! Soli canes ad vomitum
+suum redeunt: tu sacerdotes Christi resorbere <emph>582</emph> 
+ ea quae exspuerant coegisti. Probare eos
+id in se confessionibus suis praecipis, quod ante
+damnaverant: in negando reos suos absolvunt, et
+se ipsos reos reddunt. Omnia in impietatem et in
+reatum detrusisti: dum omnes reos se esse atque
+impios, aut ex praesentibus statuunt, aut ex praeteritis
+confitentur. Non recipit mendacium veritas,
+nec patitur religio impietatem.</p>
+      </div1>
+<div1>
+        <head>26.</head>
+        <p>
+ <hi>Constantii in Orientales et Afros violentia.</hi> --
+<pb n="0601B"/>Christianum te loqueris: sed quam non sis, ipse
+testaris: nec professioni tuae gesta conveniunt. Substravisti
+enim voluntati tuae Orientales episcopos;
+neque solum voluntati tuae, sed et violentiae. Mandas
+tibi subscriptiones Afrorum, quibus blasphemiam
+Ursacii et Valentis condemnaverant, reddi. Renitentibus
+comminaris, et postremum ad diripiendos
+mittis. Quid? existimas Christum non nisi per litteram
+judicare, et ad arguendam voluntatem egere
+chartula Deum? aut quod semel scriptum est, et per
+te violenter abreptum, id de conscientia posse divinae
+<pb n="0602A"/>
+potestatis aboleri? Sequentur te quidem in
+cineres chartulae, sed criminosorum apud Deum vivent
+damnationes. Unum tantum proficis, ut posteritas
+quid decernere in eos debeat, instructa sit timendo.</p>
+      </div1>
+<div1>
+        <head>27.</head>
+        <p>
+ <hi>Ariani mortuis bellum indicunt.</hi> Et o quantis
+ad impietatem proficis incrementis! Et caeteri
+quidem mortales semper cum vivis bella gesserunt,
+dum homini ad hominem ultra mortem nihil causae
+est: tibi vero inimicitiarum nullus est finis. Receptos
+enim jam in aeternam quietem patres <emph>583</emph> nostros
+lacessis, et in decreta eorum perversus irrumpis.
+Apostolus communicare nos sanctorum memoriis
+docuit <note>(Rom. XII, 13)</note>: tu eas damnare coegisti.
+Estne aliquis hodie aut vivus, aut mortuus,
+<pb n="0602B"/>
+cujus tu dicta non rescideris? Episcopatus ipsos,
+qui nunc videntur, sustulisti penitus: quia nemo
+non jam per se damnatus est, et eum, a quo sacerdotium
+sumpsit, non jam et ipse damnavit. Cui nunc
+sanctorum memoriae communicabitur? Anathema tibi
+trecenti decem et octo convenientes apud Nicaeam
+episcopi sunt: anathema deinde omnes, qui variis
+exinde expositionibus adfuerunt. Ipse quoque pridem
+jam mortuus anathema tibi pater tuus est,
+cui Nicaena synodus fuit curae, quam tu falsis opinionibus
+infamatam perturbas, et contra humanum divinumque
+<pb n="0603A"/>
+judicium cum paucis satellitibus tuis profanis
+ impugnas. Sed non licet tibi nunc regno
+potenti etiam in posterum praejudicare. Exstant enim
+litterae, quibus id, quod tu criminosum putas, pie
+tunc esse susceptum docetur. Audi verborum
+sanctam intelligentiam, audi Ecclesiae imperturbatam
+constitutionem, audi patris tui professam fidem,
+audi humanae spei confidentem securitatem, audi
+haereticae damnationis publicum sensum, et intellige
+te divinae religionis hostem, et inimicum memoriis
+ sanctorum, et paternae pietatis haeredem rebellem.
+</p>
+        <p>
+          <emph> <hi>Additamentum ex libris de Trinitate.</hi> </emph>
+        </p>
+</div1>
+<div1>
+        <head>28.</head>
+        <p>
+ <hi>Ex lib.</hi> II <hi>de Trin., num. </hi> 6. Pater est, ex quo
+<pb n="0603B"/>
+omne quod est consistit. Ipse in Christo et per Christum
+origo omnium. Caeterum esse ejus in sese
+est: non aliunde quod est sumens, sed id quod est,
+ex se atque in se obtinens; infinitus, quia non ipse
+in aliquo, sed intra eum omnia; semper extra locum,
+quia non continetur in loco; semper ante aevum,
+quia tempus ab eo est. Curre sensu si quid
+ei putas ultimum esse, eum semper invenies: quia
+cum semper intendas, semper est quod intendas.
+Semper autem locum ejus intendere <emph>584</emph> ita tibi
+est, ut ei esse sine fine est. Sermo in eo deficiet,
+non natura claudetur. Iterum revolve tempora, esse
+semper invenies: et cum calculi numerus in sermone
+defecerit, Deo tamen semper esse non deficit.
+Intelligentiam commove, et totum mente complectere;
+<pb n="0603C"/>
+nihil tenes. Totum hoc habet reliquum, reliquum
+autem hoc semper in toto est. Ergo neque
+totum est, cui reliquum est; neque reliquum est,
+cui est omne quod totum est. Reliquum enim, portio
+est; omne vero, quod totum est. Deus autem et
+ubique est, et totus ubique est. Ita regionem
+intelligentiae excedit, extra quem nihil est, et cujus
+est semper ut semper sit. Haec veritas est sacramenti
+Dei, hoc imperspicabilis naturae nomen in Patre. Deus
+invisibilis, ineffabilis, infinitus: ad quem et eloquendum
+sermo sileat, et investigandum sensus hebeat,
+et complectendum intelligentia coarctetur.</p>
+      </div1>
+<div1>
+        <head>29.</head>
+        <p>
+ <hi>Ex lib.</hi> III <hi>de Trin., num.</hi> 18. Volens itaque
+Filius hujus nativitatis suae fidem facere, factorum
+suorum nobis posuit exempla, ut per inenarrabilium
+<pb n="0603D"/>
+gestorum suorum efficientiam de virtute nativitatis
+<pb n="0604A"/>
+inenarrabilis doceremur: cum aqua fit vinum, cum
+quinque panes, saturatis quinque millibus virorum,
+excepto sexu et aetate reliqua, replent fragmentis
+cophinos duodecim. Res cernitur, et nescitur; fit,
+et non intelligitur; ratio non apprehenditur, effectus
+ingeritur. Stultum est autem, calumniam in eo
+inquisitionis intendere, in quo comprehendi id unde
+quaeritur per naturam suam non potest. Ut enim
+inenarrabilis est Pater in eo quod ingenitus est; ita
+enarrari Filius in eo quod unigenitus est non potest;
+quia ingeniti est imago qui genitus est. Cum enim
+sensu atque verbis imaginem apprehendimus, necesse
+est etiam eum cujus imago est consequamur.
+Sed invisibilia persequimur, et incomprehensibilia
+tentamus, quibus intelligentia ad conspicabiles
+<pb n="0604B"/>
+res et corporeas coarctatur; non erubescimus
+stultitiae, non nosmetipsos irreligiositatis arguimus,
+Dei arcanis, Dei virtutibus calumniantes. Quomodo
+Filius, et unde Filius, et quo damno Patris, vel ex
+qua sit portione natus inquirimus. Habueras in
+exemplo operationum, ut crederes Deum efficere
+posse, quorum intelligere efficientiam non possis.</p>
+      </div1>
+<div1>
+        <head>30.</head>
+        <p>
+ <hi>Ex num. 19 ejusdem libri.</hi> Quaeris quomodo
+secundum Spiritum natus sit Filius: ego te de corporeis
+rebus interrogo. Non quaero quomodo natus
+ex virgine sit: an detrimentum sui caro perfectam
+ex se carnem <emph>585</emph> generans perpessa sit. Et certe
+non suscepit quod edidit: sed caro carnem sine elementorum
+nostrorum pudore provexit, et perfectum
+ipsa de suis non imminuta generavit. Et quidem fas
+<pb n="0604C"/>
+esset, non impossibile in Deo opinari, quod per virtutem
+ejus possibile fuisse in homine cognoscimus.</p>
+      </div1>
+<div1>
+        <head>31.</head>
+        <p>
+ <hi>Ex num.</hi> 20. Sed te, quisquis es, investigabilia
+sectantem, et divinorum secretorum atque
+virtutum gravem arbitrum consulo, ut mihi imperito,
+et tantum de omnibus Deo ut sunt ab eo dicta
+credenti, rationem saltem facti istius afferas. Dominum
+audio, et quia his credo quae scripta sunt, scio
+jam post resurrectionem frequenter videndum se in
+corpore praebuisse multis non credentibus; certe
+Thomae non nisi contrectatis ejus vulneribus credituro,
+sicut ait: <hi>Nisi videro in manibus ejus figuram
+clavorum, et misero digitum meum in locum clavorum,
+et mittam manum meam in latus ejus, non
+credam <note>(Joan. XX, 25)</note>
+        </hi>. Dominus se ad omnem intelligentiae
+<pb n="0604D"/>
+nostrae imbecillitatem accomodat, et dubitationi
+<pb n="0605A"/>
+infidelium satisfacturus, arcanum virtutis
+invisibilis operatur: facti rationem, quisquis eris
+coelestium rerum scrutator, expone. Erant discipuli
+inclusi, et secreto post passionem Domini conjuncti
+consederant. Dominus Thomae fidem propositis conditionibus
+confirmaturus assistit, palpandi corporis,
+et contrectandi vulneris obtulit facultatem: et utique
+qui compunctus recognoscendus sit, necesse est ut
+corpus in quo est compunctus attulerit. Quaero ergo
+per quas clausae domus partes sese corporeus intulerit.
+Diligenter enim Evangelista expressit, dicens: <hi>Venit Jesus januis clausis, et stetit in medio discipulorum
+ suorum 
+ <note>(Ibid., 26)</note>
+        </hi>. An constructa parietum
+penetrans, solidam lignorum naturam impenetrabilem
+transcurrit? Stetit namque corporeus, non simulatus
+<pb n="0605B"/>
+aut fallax. Sequantur ergo oculi mentis tuae
+penetrantis ingressum, et cum eo clausam domum
+intelligentiae tuae visus introeat. Integra sunt omnia
+et obserata: sed ecce assistit medius, cui per virtutem
+suam universa sunt pervia. Invisibilibus calumniaris:
+ego a te visibilium exposco rationem.
+Nihil cedit ex solido, neque per naturam suam aliquid
+tamquam lapsu insensibili ligna et lapides admittunt.
+Corpus Domini a sese non deficit, ut sese
+resumat ex nihilo: et unde qui assistit in medio
+est? Cedit ad haec et sensus et sermo, <emph>586</emph> et extra
+rationem humanam est veritas facti. Idcirco ergo ut
+de nativitate fallimus, ita et de ingressu Domini
+mentiamur. Dicamus factum non fuisse, quia intelligentiam
+facti non apprehendimus: et cessante
+<pb n="0605C"/>
+sensu nostro, facti ipsius cesset effectus. Sed mendacium
+nostrum facti fides vincit. Adstitit Dominus
+clausa domo in medio discipulorum: et Filius est
+natus ex Patre. Noli negare quod steterit, quia per
+intelligentiae infirmitatem consistentis non consequaris
+introitum: noli nescire quod ab ingenito et
+<pb n="0606A"/>
+perfecto Deo patre unigenitus et perfectus filius Deus
+natus sit, quia sensum et sermonem humanae naturae
+virtus generationis excedat.</p>
+      </div1>
+<div1>
+        <head>32.</head>
+        <p>
+ <hi>Ex num.</hi> 21. Et omnia quidem insuper mundi
+opera adesse nobis in testimonium possent, ne
+ambigere de Dei rebus atque virtutibus fas crederemus.
+Sed in ipsam veritatem infidelitas nostra procurrit,
+et violenti in excidium Dei potestatis irrumpimus.
+Si liceret, et corpora et manus ad coelum
+levaremus, solem astraque caetera annui cursus suis
+limitibus proturbaremus, permisceremus decessus
+Oceani et accessus, fluenta etiam fontium inhiberemus,
+et naturas fluminum referremus, concuteremus
+fundamenta terrae, et toto in haec opera Dei parricidio
+desaeviremus. Sed bene est, quod nos intra
+<pb n="0606B"/>
+hanc modestiae necessitatem natura corporum detinet.
+Certe non fallimus, quid, si liceret, essemus
+acturi: namque quia possumus, profana voluntatis
+audacia naturam veritatis convellimus, et bellum
+dictis Dei comparamus.</p>
+      </div1>
+<div1>
+        <head>33.</head>
+        <p>
+ <hi>Ex lib.</hi> II <hi>de Trin. n.</hi> 9. Cesset dolor querelarum.
+Nam te, quisquis es qui haec requires, non
+revoco in excelsum, non in amplitudinem tendo,
+non deduco in profundum. Nonne aequanimiter ignorabis
+Creatoris nativitatem, ignorans originem creaturae?
+Hoc saltem requiro, sentisne te genitum, et
+quae ex te generentur intelligis? Non quaero, sensum
+unde hauseris, vitam unde sortitus sis, intelligentiam
+unde adeptus sis, quale sit quod in te est, odor,
+sensus, visus, auditus; certe nemo quod facit nescit:
+<pb n="0606C"/>
+quaero unde ista his quos generas indulgeas, qualiter
+sensum inseras, oculos accendas, cor affigas.
+Haec, si potes, enarra. Habes ergo quod nescis, et
+tribuis quae non intelligis: aequanimiter imperitus
+in tuis, insolenter in Dei rebus ignarus.
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

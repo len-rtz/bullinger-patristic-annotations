@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>Officium corporis Christi Sapientia</title>
+               <author ref="http://viaf.org/viaf/264344179">Thomas Aquinas<date>1225-1274</date></author>
+</titleStmt>
+               
+               <extent></extent>
+               <editionStmt>
+              <edition>critical edition, apparatus not encoded</edition>
+              <editor>C.
+	Lambot</editor>
+         </editionStmt>
+               <publicationStmt>
+                  <pubPlace>Romae</pubPlace>
+                  <publisher>Revue Bénédictine</publisher>
+                  <date>1943</date>
+               </publicationStmt>
+<seriesStmt>
+             <title>Corpus Thomisticum</title>
+            <idno>ThomAqu.OffSapi</idno>
+            </seriesStmt>
+         <notesStmt>
+            <note></note>
+         </notesStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>based on data from Corpus Thomisticum (http://www.corpusthomisticum.org), this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+          <note>Textus a C.
+	Lambot in "Revue Bénédictine" 1942 editosemendatum ac translatum a Roberto Busa SJ in taenias magneticas denuo recognovit Enrique Alarcón atque instruxit</note>
+          <editorialDecl>
+             <normalization>Classical Latin orthography</normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date></date>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item></item>
+		  <item></item>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme='genre'>
+  		 <list>
+   			<item></item>
+  		</list>
+  		</keywords>
+  		<keywords scheme='period'>
+ 		 <list>
+   			<item></item>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>
+<div1><head>vesp. 1 antiph. 1</head>
+<p><A NAME="91339"/><emph>Ad vesperas</emph></p>
+<A NAME="91340"/><p> Sapientia aedificavit sibi domum, excidit columnas septem, immolavit victimas suas, miscuit vinum et posuit mensam suam.</p>
+
+</div1>
+<div1><head>vesp. 1 ps. 1</head>
+<A NAME="91341"/><p><emph>Psalmus</emph></p>
+<l>Dixit dominus domino meo:</l>
+<l>sede a dextris meis</l>
+<l>donec ponam inimicos tuos</l>
+<l>scabillum pedum tuorum.</l>
+<l>Virgam virtutis tuae</l>
+<l>emittet dominus ex Sion.</l>
+<l>Dominare in medio inimicorum tuorum.</l>
+<l>Tecum principium in die virtutis tuae.</l>
+<l>In splendoribus sanctorum,</l>
+<l>ex utero, ante luciferum, genui te.</l>
+<l>Iuravit dominus, et non paenitebit eum:</l>
+<l>tu es sacerdos in aeternum</l>
+<l>secundum ordinem Melchisedech.</l>
+<l>Dominus a dextris tuis.</l>
+<l>Confregit in die irae suae reges.</l>
+<l>Iudicabit in nationibus.</l>
+<l>Implebit cadavera.</l>
+<l>Conquassabit capita in terra multorum.</l>
+<l>De torrente in via bibet,</l>
+<l>propterea exaltabit caput.
+</l>
+<p><l></l></p><p><A NAME="91342"/></p><p> Melchisedech rex Salem, proferens panem et vinum, erat enim sacerdos Dei summus, benedixit Abrahae et ait: benedictus Abraham Deo excelso qui creavit caelum et terram.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>vesp. 1 ps. 2</head>
+<A NAME="91343"/>Confitebor tibi, domine, in toto corde meo,
+<l>in consilio iustorum et congregatione.</l>
+<l>Magna opera domini,</l>
+<l>exquisita in omnes voluntates eius.</l>
+<l>Confessio et magnificentia opus eius,</l>
+<l>et iustitia eius manet in saeculum saeculi.</l>
+<l>Memoriam fecit mirabilium suorum</l>
+<l>misericors et miserator dominus.</l>
+<l>Escam dedit timentibus se.</l>
+<l>Memor erit in saeculum testamenti sui.</l>
+<l>Virtutem operum suorum adnuntiabit populo suo</l>
+<l>ut det illis hereditatem gentium.</l>
+<l>Opera manuum eius veritas et iudicium.</l>
+<l>Fidelia omnia mandata eius,</l>
+<l>confirmata in saeculum saeculi,</l>
+<l>facta in veritate et aequitate.</l>
+<l>Redemptionem misit populo suo.</l>
+<l>Mandavit in aeternum testamentum suum.</l>
+<l>Sanctum et terribile nomen eius:</l>
+<l>initium sapientiae timor domini,</l>
+<l>intellectus bonus omnibus facientibus eum.</l>
+<l>Laudatio eius manet in saeculum saeculi.
+</l>
+<p><l></l></p><p><A NAME="91344"/></p><p> Immolabit haedum multitudo filiorum Israel, et sumet de sanguine eius ac ponent super utrumque postem et insuper liminaribus domorum, in quibus comedunt illum.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>vesp. 1 ps. 3</head>
+<A NAME="91345"/>Credidi, propter quod locutus sum:
+<l>ego autem humiliatus sum nimis.</l>
+<l>Ego dixi in excessu meo:</l>
+<l>omnis homo mendax.</l>
+<l>Quid retribuam domino</l>
+<l>pro omnibus quae retribuit mihi?</l>
+<l>Calicem salutaris accipiam,</l>
+<l>et nomen domini invocabo.</l>
+<l>Vota mea domino reddam</l>
+<l>coram omni populo eius.</l>
+<l>Pretiosa in conspectu domini</l>
+<l>mors sanctorum eius.</l>
+<l>O domine, quia ego servus tuus,</l>
+<l>ego servus tuus et filius ancillae tuae,</l>
+<l>disrupisti vincula mea.</l>
+<l>Tibi sacrificabo hostiam laudis,</l>
+<l>et in nomine domini invocabo.</l>
+<l>Vota mea domino reddam</l>
+<l>in conspectu omnis populi eius,</l>
+<l>in atriis domus domini,</l>
+<l>in medio tui, Hierusalem.
+</l>
+<p><l></l></p><p><A NAME="91346"/></p><p> Et edent carnes nocte illa assas igni et azymos panes cum lactucis agrestibus; non comedetis ex eo crudum quid nec coctum aqua, sed assum tantum igni.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>vesp. 1 ps. 4</head>
+<A NAME="91347"/>Beati omnes qui timent dominum,
+<l>qui ambulant in viis eius.</l>
+<l>Labores manuum tuarum, quia manducabis,</l>
+<l>beatus es, et bene tibi erit.</l>
+<l>Uxor tua sicut vitis abundans</l>
+<l>in lateribus domus tuae.</l>
+<l>Filii tui sicut novella olivarum</l>
+<l>in circuitu mensae tuae.</l>
+<l>Ecce sic benedicetur homo</l>
+<l>qui timet dominum:</l>
+<l>benedicat te dominus ex Sion,</l>
+<l>et videas bona Hierusalem</l>
+<l>omnibus diebus vitae tuae,</l>
+<l>et videas filios filiorum tuorum.</l>
+<l>Pax super Israhel.
+</l>
+<p><l></l></p><p><A NAME="91348"/></p><p> Pluit illis manna ad manducandum et panem caeli dedit eis; panem Angelorum manducavit homo, cibaria misit eis in </p><p>.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>vesp. 1 ps. 5</head>
+<A NAME="91349"/>Lauda, Hierusalem, dominum.
+<l>Lauda Deum tuum, Sion,</l>
+<l>quoniam confortavit seras portarum tuarum.</l>
+<l>Benedixit filiis tuis in te</l>
+<l>qui posuit fines tuos pacem,</l>
+<l>et adipe frumenti satiat te,</l>
+<l>qui emittit eloquium suum terrae.</l>
+<l>Velociter currit sermo eius.</l>
+<l>Qui dat nivem sicut lanam,</l>
+<l>nebulam sicut cinerem spargit,</l>
+<l>mittit cristallum suum sicut buccellas:</l>
+<l>ante faciem frigoris eius, quis sustinebit?</l>
+<l>Emittet verbum suum, et liquefaciet ea.</l>
+<l>Flabit spiritus eius, et fluent aquae.</l>
+<l>Qui adnuntiat verbum suum Iacob,</l>
+<l>iustitias et iudicia sua Israhel,</l>
+<l>non fecit taliter omni nationi,</l>
+<l>et iudicia sua non manifestavit eis.
+</l>
+<p><l></l></p><p><A NAME="91350"/></p><p> Dominus Iesus Christus in qua nocte tradebatur, accepit panem, et gratias agens fregit et dixit: accipite et manducate: hoc est corpus meum quod pro vobis tradetur; hoc facite in meam commemorationem.</p>
+</div1>
+<div1><head>vesp. 1 resp. 1</head>
+<A NAME="91351"/><p> Cumque operuisset ros superficiem terrae apparuit in solitudine minutum et quasi pilo tunsum in similitudinem pruinae super terram.
+<l></l></p><p> Iste est panis quem dominus dedit vobis ad vescendum.
+	Apparuit in solitudine minutum et quasi pilo tunsum in similitudinem pruinae super terram.
+	Gloria patri et filio et spiritui sancto.
+	Tunsum in similitudinem pruinae super terram.</p>
+<l>Hymnus</l>
+<l>
+</l></div1>
+<div1><head>vesp. 1 hymnus 1</head>
+<A NAME="91352"/>Pange, lingua, gloriosi
+<l>corporis mysterium</l>
+<l>sanguinisque pretiosi,</l>
+<l>quem in mundi pretium</l>
+<l>fructus ventris generosi</l>
+<l>rex effudit gentium.</l>
+<p><l>Nobis natus, nobis datus</l>
+<l>ex intacta virgine</l>
+<l>et in mundo conversatus</l>
+<l>sparso verbi semine</l>
+<l>sui moras incolatus</l>
+<l>miro clausit ordine.</l></p>
+<p><l>In supremae nocte cenae</l>
+<l>recumbens cum fratribus</l>
+<l>observata lege plene</l>
+<l>cibis in legalibus</l>
+<l>cibum turbae duodenae</l>
+<l>se dat suis manibus.</l></p>
+<p><l>Verbum caro panem verum</l>
+<l>verbo carnem efficit,</l>
+<l>fitque sanguis Christi merum,</l>
+<l>et, si sensus deficit,</l>
+<l>ad firmandum cor sincerum</l>
+<l>sola fides sufficit.</l></p>
+<p><l>Tantum ergo sacramentum</l>
+<l>veneremur cernui,</l>
+<l>et antiquum documentum</l>
+<l>novo cedat ritui,</l>
+<l>praestet fides supplementum</l>
+<l>sensuum defectui.</l></p>
+<p><l>Genitori genitoque</l>
+<l>laus et iubilatio,</l>
+<l>salus, honor, virtus quoque</l>
+<l>sit et benedictio,</l>
+<l>procedenti ab utroque</l>
+<l>compar sit laudatio.
+
+</l></p>
+</div1>
+<div1><head>vesp. 1 v. 1</head>
+<A NAME="91353"/><p> Aser pinguis panis eius, alleluia.
+<l></l></p><p> Et praebebit delicias regibus, alleluia.</p>
+</div1>
+<div1><head>vesp. 1 antiph. 6</head>
+<A NAME="91354"/><p> Angelorum esca nutrivisti populum tuum et panem de caelo praestitisti illis sine labore, omne delectamentum in se habentem et omnis saporis suavitatem; substantiam enim tuam et dulcedinem tuam quam in filios habes ostendebas.</p>
+<l>Magnificat
+
+</l></div1>
+<div1><head>vesp. 1 hymnus 2</head>
+<A NAME="91355"/>Magnificat anima mea dominum:
+<l>et exultavit spiritus meus in Deo salutari meo.</l>
+<l>Quia respexit humilitatem ancillae suae:</l>
+<l>ecce enim ex hoc beatam me dicent omnes generationes.</l>
+<l>Quia fecit mihi magna qui potens est:</l>
+<l>et sanctum nomen eius.</l>
+<l>Et misericordia eius a progenie in progenies</l>
+<l>timentibus eum.</l>
+<l>Fecit potentiam in brachio suo:</l>
+<l>dispersit superbos mente cordis sui.</l>
+<l>Deposuit potentes de sede,</l>
+<l>et exaltavit humiles.</l>
+<l>Esurientes implevit bonis:</l>
+<l>et divites dimisit inanes.</l>
+<l>Suscepit Israel puerum suum,</l>
+<l>recordatus misericordiae suae.</l>
+<l>Sicut locutus est ad patres nostros,</l>
+<l>Abraham et semini eius in saecula.
+</l>
+<p><l></l></p><p><A NAME="91356"/></p><p> Deus qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos corporis et sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus.
+	Qui vivis et regnas cum Deo patre in unitate spiritus sancti Deus per omnia saecula saeculorum.
+	Amen.</p>
+<p><emph><l><A NAME="91357"/>Ad Matutinum</l></emph></p>
+</div1>
+<div1><head>matutin. 1 invitatorium 1</head>
+<A NAME="91358"/><p> Venite comedite panem meum, et bibite vinum quod miscui vobis.
+	Venite comedite panem meum, et bibite vinum quod miscui vobis.</p>
+<l>Hymnus
+
+</l></div1>
+<div1><head>matutin. 1 hymnus 1 Sacris solemniis</head>
+<A NAME="91359"/>Sacris solemniis <p> gaudia,
+<l>et ex praecordiis sonent praeconia,</l>
+<l>recedant vetera, nova sint omnia,</l>
+<l>corda, voces et opera.</l></p>
+<p><l>Noctis recolitur cena novissima,</l>
+<l>qua Christus creditur agnum et azima</l>
+<l>dedisse fratribus iuxta legitima</l>
+<l>priscis indulta patribus.</l></p>
+<p><l>Post agnum typicum expletis epulis</l>
+<l>corpus dominicum datur discipulis</l>
+<l>sic totum omnibus, quod totum singulis</l>
+<l>eius fatemur manibus.</l></p>
+<p><l>Dedit fragilibus corporis ferculum,</l>
+<l>dedit et tristibus sanguinis poculum,</l>
+<l>dicens: accipite, quod trado, vasculum,</l>
+<l>omnes ex eo bibite.</l></p>
+<p><l>Sic sacrificium istud instituit,</l>
+<l>cuius officium committi voluit</l>
+<l>solis presbyteris, quibus sic congruit,</l>
+<l>ut sumant et dent ceteris.</l></p>
+<p><l>Panis angelicus fit panis hominum,</l>
+<l>dat panis caelicus figuris terminum;</l>
+<l>O res mirabilis.
+	Manducat dominum</l>
+<l>servus pauper et humilis.</l></p>
+<p><l>Sic tu nos visita, sicut te colimus;</l>
+<l>te, trina deitas unaque, poscimus,</l>
+<l>per tuas semitas duc nos, quo tendimus,</l>
+<l>ad lucem, quam inhabitas.</l></p>
+
+<p><emph><l><A NAME="91360"/>In primo nocturno</l></emph></p>
+</div1>
+<div1><head>noct. 1 antiph. 1</head>
+<A NAME="91361"/><p> Numquid poterit Deus parare mensam in deserto, numquid et panem poterit dare, aut parare mensam populo suo.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 1 ps. 1</head>
+<A NAME="91362"/> Conserva me, domine, quoniam in te speravi.
+<l>Dixi domino: dominus meus es tu,</l>
+<l>quoniam bonorum meorum non eges.</l>
+<l>Sanctis, qui sunt in terra eius,</l>
+<l>mirificavit mihi omnes voluntates meas in eis.</l>
+<l>Multiplicatae sunt infirmitates eorum,</l>
+<l>postea adceleraverunt.</l>
+<l>Non congregabo conventicula eorum de sanguinibus,</l>
+<l>nec memor ero nominum eorum per labia mea.</l>
+<l>Dominus pars hereditatis meae et calicis mei.</l>
+<l>Tu es qui restitues hereditatem meam mihi.</l>
+<l>Funes ceciderunt mihi in praeclaris,</l>
+<l>etenim hereditas mea praeclara est mihi.</l>
+<l>Benedicam domino, qui tribuit mihi intellectum.</l>
+<l>Insuper et usque ad noctem increpaverunt me renes mei.</l>
+<l>Providebam dominum in conspectu meo semper,</l>
+<l>quoniam a dextris est mihi, ne commovear.</l>
+<l>Propter hoc laetatum est cor meum,</l>
+<l>et exultavit lingua mea.</l>
+<l>Insuper et caro mea requiescet in spe,</l>
+<l>quoniam non derelinques animam meam in inferno:</l>
+<l>non dabis sanctum tuum videre corruptionem.</l>
+<l>Notas mihi fecisti vias vitae.</l>
+<l>Adimplebis me laetitia cum vultu tuo.</l>
+<l>Delectatio in dextera tua usque in finem.
+</l>
+<p><l></l></p><p><A NAME="91363"/></p><p> Parasti in conspectu meo mensam adversus eos qui tribulant me; impinguasti in oleo caput meum et calix meus inebrians quam praeclarus est.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 1 ps. 2</head>
+<A NAME="91364"/>Exaudiat te dominus in die tribulationis.
+<l>Protegat te nomen Dei Iacob.</l>
+<l>Mittat tibi auxilium de sancto,</l>
+<l>et de Sion tueatur te.</l>
+<l>Memor sit omnis sacrificii tui,</l>
+<l>et holocaustum tuum pingue fiat.</l>
+<l>Tribuat tibi secundum cor tuum,</l>
+<l>et omne consilium tuum confirmet.</l>
+<l>Laetabimur in salutari tuo,</l>
+<l>et in nomine Dei nostri magnificabimur.</l>
+<l>Impleat dominus omnes petitiones tuas.</l>
+<l>Nunc cognovi quoniam salvum fecit dominus christum suum.</l>
+<l>Exaudiet illum de caelo sancto suo</l>
+<l>in potentatibus salus dexterae eius.</l>
+<l>Hii in curribus, et hii in equis,</l>
+<l>nos autem in nomine domini Dei nostri invocabimus.</l>
+<l>Ipsi obligati sunt et ceciderunt,</l>
+<l>nos vero surreximus et erecti sumus.</l>
+<l>Domine salvum fac regem,</l>
+<l>et exaudi nos in die qua invocaverimus te.
+</l>
+<p><l></l></p><p><A NAME="91365"/></p><p> De fructu operum tuorum satiabitur terra, ut educas panem de terra et vinum laetificet cor hominis, ut exhilaret faciem in oleo, et panis cor hominis confirmet.</p>
+<p><emph>Psalmus</emph>
+
+</p><p><A NAME="91366"/>Deus, Deus meus, respice me: quare me dereliquisti?
+<l>Longe a salute mea verba delictorum meorum.</l>
+<l>Deus meus, clamabo per diem, et non exaudies,</l>
+<l>et nocte, et non ad insipientiam mihi.</l>
+<l>Tu autem in sancto habitas, laus Israhel.</l>
+<l>In te speraverunt patres nostri,</l>
+<l>speraverunt, et liberasti eos.</l>
+<l>Ad te clamaverunt, et salvi facti sunt.</l>
+<l>In te speraverunt, et non sunt confusi.</l>
+<l>Ego autem sum vermis, et non homo,</l>
+<l>obprobrium hominum et abiectio plebis.</l>
+<l>Omnes videntes me deriserunt me,</l>
+<l>locuti sunt labiis, moverunt caput:</l>
+<l>speravit in domino, eripiat eum;</l>
+<l>salvum faciat eum, quoniam vult eum.</l>
+<l>Quoniam tu es qui extraxisti me de ventre,</l>
+<l>spes mea ab uberibus matris meae.</l>
+<l>In te proiectus sum ex utero.</l>
+<l>De ventre matris meae Deus meus es tu.</l>
+<l>Ne discesseris a me,</l>
+<l>quoniam tribulatio proxima est,</l>
+<l>quoniam non est qui adiuvet.</l>
+<l>Circumdederunt me vituli multi.</l>
+<l>Tauri pingues obsederunt me.</l>
+<l>Aperuerunt super me os suum,</l>
+<l>sicut leo rapiens et rugiens.</l>
+<l>Sicut aqua effusus sum,</l>
+<l>et dispersa sunt universa ossa mea.</l>
+<l>Factum est cor meum tamquam cera,</l>
+<l>liquescens in medio ventris mei.</l>
+<l>Aruit tamquam testa virtus mea,</l>
+<l>et lingua mea adhesit faucibus meis,</l>
+<l>et in limum mortis deduxisti me;</l>
+<l>quoniam circumdederunt me canes multi.</l>
+<l>Concilium malignantium obsedit me.</l>
+<l>Foderunt manus meas et pedes meos,</l>
+<l>dinumeraverunt omnia ossa mea.</l>
+<l>Ipsi vero consideraverunt et inspexerunt me,</l>
+<l>diviserunt sibi vestimenta mea,</l>
+<l>et super vestem meam miserunt sortem.</l>
+<l>Tu autem, domine, ne elongaveris auxilium tuum.</l>
+<l>Ad defensionem meam conspice.</l>
+<l>Erue a framea animam meam,</l>
+<l>et de manu canis unicam meam.</l>
+<l>Salva me ex ore leonis,</l>
+<l>et a cornibus unicornium humilitatem meam.</l>
+<l>Narrabo nomen tuum fratribus meis.</l>
+<l>In media ecclesia laudabo te.</l>
+<l>Qui timetis dominum laudate eum.</l>
+<l>Universum semen Iacob magnificate eum.</l>
+<l>Timeat eum omne semen Israhel,</l>
+<l>quoniam non sprevit neque dispexit deprecationem pauperis,</l>
+<l>nec avertit faciem suam a me,</l>
+<l>et, cum clamarem ad eum, exaudivit me.</l>
+<l>Apud te laus mea in ecclesia magna.</l>
+<l>Vota mea reddam in conspectu timentium eum.</l>
+<l>Edent pauperes, et saturabuntur,</l>
+<l>et laudabunt dominum qui requirunt eum.</l>
+<l>Vivent corda eorum in saeculum saeculi.</l>
+<l>Reminiscentur et convertentur ad dominum universi fines terrae,</l>
+<l>et adorabunt in conspectu eius universae familiae gentium,</l>
+<l>quoniam Dei est regnum, et ipse dominabitur gentium.</l>
+<l>Manducaverunt et adoraverunt omnes pingues terrae.</l>
+<l>In conspectu eius cadent omnes qui descendunt in terram,</l>
+<l>et anima mea illi vivet,</l>
+<l>et semen meum serviet ipsi.</l>
+<l>Adnuntiabitur domino generatio ventura,</l>
+<l>et adnuntiabunt iustitiam eius</l>
+<l>populo qui nascetur quem fecit dominus.</l></p>
+
+<p><l></l></p><p><A NAME="91367"/></p><p> Petierunt et venit coturnix, alleluia.
+<l></l></p><p> Et pane caeli saturavit eos, alleluia.</p>
+</div1>
+<div1><head>noct. 1 l. 1</head>
+<A NAME="91368"/><p> Dominus Iesus ad invisibilia paternae maiestatis migraturus, celebrato cum discipulis typico Pascha, quoddam memoriale eis commendare volens, sub specie panis et vini corpus et sanguinem suum eis tradidit, ut ostenderet legis veteris sacramenta, inter quae praecipuum erat agni paschalis sacrificium, in morte sua terminari; ac legis novae sacramenta substitui, in quibus excellit mysterium eucharistiae.</p>
+Liquido etiam apparet, quando primo acceperunt discipuli corpus et sanguinem domini, non eos accepisse ieiunos.
+	Numquid tamen propterea calumniandum est universae Ecclesiae, quod a ieiunis semper accipitur? Ex hoc enim placuit spiritui sancto, ut in honore tanti sacramenti, prius in os Christiani dominicum corpus intraret quam exteri cibi.
+	Nam ideo per universum orbem mos iste servatur.
+	Neque enim, quia post cibos dominus dedit, propterea pransi aut cenati ad illud sacramentum accipiendum convenire debent, aut, sicut faciebant quos apostolus arguit et emendat, mensis suis ista miscere.
+	Namque salvator, quo vehementius commendaret mysterii illius altitudinem, ultimum hoc voluit infigere cordibus et memoriae discipulorum, a quibus ad passionem digressurus erat.
+	Et ideo non praecepit quo deinceps ordine sumeretur, ut apostolis per quos ecclesias dispositurus erat, servaret hunc locum.
+Huius sacramenti figura praecessit, quando manna pluit Deus patribus in deserto, qui cotidiano caeli pascebantur alimento.
+	Unde dictum est: panem Angelorum manducavit homo.
+	Sed tamen panem illum qui manducaverunt, omnes in deserto mortui sunt.
+	Ista autem esca quam accipitis, iste panis vivus qui de caelo descendit, vitae aeternae substantiam ministrat.
+	Et quicumque hunc panem manducaverit non morietur in aeternum, quia corpus Christi est.
+</div1>
+<div1><head>noct. 1 resp. 1</head>
+<A NAME="91369"/><p> Cenantibus discipulis, accepit Iesus panem et benedixit ac fregit deditque illis, et ait: accipite et comedite, hoc est corpus meum.
+	Et accipiens calicem, gratias egit et dedit illis dicens: bibite ex eo omnes.
+<l></l></p><p> Hic est sanguis meus novi testamenti, qui pro multis effundetur in remissione peccatorum.
+	Bibite ex eo omnes.</p>
+</div1>
+<div1><head>noct. 1 l. 2</head>
+<A NAME="91370"/><p> Considera utrum nunc praestantior sit panis Angelorum an caro Christi, quae utique est corpus vitae.
+	Manna illud de caelo, hoc super coelum; illud caeli, hoc domini caelorum; illud corruptioni obnoxium, si in diem alterum servaretur, hoc alienum ab omni corruptione.
+	Quicumque religiose gustaverit, corruptionem sentire non poterit.
+	Illis aqua de petra fluxit, tibi sanguis ex Christo.
+	Illos ad horam satiavit aqua, te sanguis diluit in aeternum.
+	Iudaeus bibit et sitit; tu cum biberis sitire non poteris.
+	Et illud in umbra, hoc in veritate.
+	Si illud quod miraris umbra est, quantum istud est cuius umbram miraris? Audi quia umbra est, quae apud patres facta est: bibebant, inquit, de spirituali consequente eos petra, petra autem erat Christus, sed non in pluribus eorum complacitum est Deo, nam prostrati sunt in deserto.
+	Haec autem facta sunt in figura nostri.
+	Cognovisti potiora.
+	Potior est enim lux quam umbra, veritas quam figura, corpus auctoris quam manna de caelo.
+	Forte dicis: aliud video.
+	Quomodo tu mihi asseris quod corpus Christi accipiam? Et hoc nobis superest ut probemus.
+	Quantis igitur utimur exemplis, ut probemus hoc non esse quod natura formavit, sed quod benedictio consecravit, maioremque vim esse benedictionis quam naturae, quia benedictione etiam natura ipsa mutatur? Unde virgam tenebat Moyses, proiecit eam et facta est serpens.
+	Rursus apprehendit caudam serpentis et in virgae naturam revertitur.
+	Vides ergo prophetica gratia bis mutatam naturam esse, et serpentis et virgae.
+	Currebant Aegypti flumina puro meatu aquarum; subito de fontium venis sanguis coepit erumpere, non erat potus in fluviis.
+	Rursus ad prophetae preces cruor fluminum cessavit, aquarum natura remeavit.
+	Circumclusus undique erat populus Hebraeorum, hinc Aegyptiis vallatus, inde mari conclusus.
+	Virgam levavit Moyses, separavit se aqua et in murorum speciem se congelavit, atque inter undas via pedestris apparuit.
+	Iordanis retrorsum conversus, contra naturam in sui fontis revertitur exordium.
+	Nonne claret naturam, vel maritimorum fluctuum, vel cursus fluvialis, esse mutatam? Sitiebat populus patrum, tetigit Moyses petram, et aqua de petra fluxit.
+	Numquid non praeter naturam operata est gratia ut aquam vomeret petra quam non habebat natura?</p>
+</div1>
+<div1><head>noct. 1 resp. 2</head>
+<A NAME="91371"/><p> Accepto pane gratias egit Iesus, et fregit et dedit discipulis suis dicens: hoc est corpus meum quod pro vobis tradetur; hoc facite in meam commemorationem.
+<l></l></p><p> Similiter et calicem, postquam cenavit, dicens: hic est calix novi testamenti in meo sanguine qui pro vobis fundetur.</p>
+</div1>
+<div1><head>noct. 1 l. 3</head>
+<A NAME="91372"/><p> Marath fluvius amarissimus erat, ut sitiens populus bibere non posset.
+	Moyses misit lignum in aquam, et amaritudinem suam aquarum natura deposuit, quam infusa subito gratia temperavit.
+	Sub Helisaeo propheta, uni ex filiis prophetarum excussum est ferrum de securi, et statim immersum est.
+	Rogavit Helisaeum qui amiserat ferrum.
+	Misit etiam Helisaeus lignum in aquam, et ferrum natavit.
+	Utique etiam hoc praeter naturam factum cognovimus.
+	Gravior enim est ferri species, quam aquarum liquor.
+	Advertimus enim maiorem esse gratiam quam naturam, et adhuc tamen propheticae benedictionis miramur gratiam.
+	Quod si tantum valuit humana benedictio ut naturam converteret, quid dicimus de ipsa consecratione divina, ubi ipsa verba domini salvatoris operantur? Nam sacramentum istud quod accipis, Christi sermone conficitur.
+	Quod si tantum valuit sermo Heliae ut ignem de caelo praeponeret, non valebit sermo Christi ut species mutet elementorum? De totius mundi operibus legisti quia ipse dixit et facta sunt, ipse mandavit et creata sunt.
+	Sermo igitur qui potuit ex nihilo facere quod non erat, non potuit ea quae sunt in id mutare quod non erant? Non est enim minus dare, quam mutare novas naturas rebus.
+	Sed quid? Cuius argumentis utimur, suis utamur exemplis, incarnationisque struamus mysterii veritatem.
+	Numquid naturae usus persensit, cum dominus Iesus ex Maria nasceretur? Si ordinem quaerimus, viro mixta femina generare consuevit.
+	Liquet igitur quod praeter naturae ordinem virgo generavit.
+	Et hoc quod conficimus, corpus ex virgine est.
+	Quid hic quaeris naturae ordinem in Christi corpore, cum praeter naturam sit ipse dominus Iesus partus ex virgine? Vera utique caro Christi quae crucifixa, quae sepulta est.
+	Vere ergo illius carnis sacramentum est.
+	Ipse clamat dominus noster Iesus: hoc est corpus meum.
+	Ante benedictionem verborum caelestium, alia species nominatur; post consecrationem, corpus significatur.
+	Ipse dicit sanguinem suum.
+	Ante consecrationem aliud dicitur; post consecrationem sanguis Christi nuncupatur.
+	Tu dicis: amen: hoc verum est.
+	Quod sermo sonat, affectus sentiat.</p>
+</div1>
+<div1><head>noct. 1 resp. 3</head>
+<A NAME="91373"/><p> Manducantibus discipulis accepit Iesus panem et benedicens fregit et dedit illis et ait: sumite, hoc est corpus meum.
+	Et accepto calice, gratias agens dedit illis, et biberunt ex eo omnes.
+<l></l></p><p> Et ait illis: hic est sanguis meus novi testamenti, qui pro multis effundetur.
+	Et biberunt ex eo omnes.</p>
+<p><emph><l><A NAME="91374"/>In secundo nocturno</l></emph></p>
+</div1>
+<div1><head>noct. 2 antiph. 1</head>
+<A NAME="91375"/><p> </p><p> mensam de lignis Sethim et inaura bis eam auro purissimo, et pones super eam panes propositionis in conspectu meo semper.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 2 ps. 1</head>
+<A NAME="91376"/>Dominus reget me, et nihil mihi deerit.
+<l>In loco pascuae, ibi me conlocavit.</l>
+<l>Super aquam refectionis educavit me.</l>
+<l>Animam meam convertit.</l>
+<l>Deduxit me super semitas iustitiae,</l>
+<l>propter nomen suum.</l>
+<l>Nam, et si ambulavero in medio umbrae mortis,</l>
+<l>non timebo mala, quoniam tu mecum es.</l>
+<l>Virga tua et baculus tuus,</l>
+<l>ipsa me consolata sunt.</l>
+<l>Parasti in conspectu meo mensam</l>
+<l>adversus eos qui tribulant me.</l>
+<l>Inpinguasti in oleo caput meum,</l>
+<l>et calix meus inebrians, quam praeclarus est,</l>
+<l>et misericordia tua subsequitur me</l>
+<l>omnibus diebus vitae meae,</l>
+<l>et ut inhabitem in domo domini</l>
+<l>in longitudinem dierum.
+</l>
+<p><l></l></p><p><A NAME="91377"/></p><p> Sacerdotes sancti erunt Deo suo, et non polluent nomen eius; incensum enim domini et panes Deo offerunt, et ideo sancti erunt.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 2 ps. 2</head>
+<A NAME="91378"/>Benedicam dominum in omni tempore.
+<l>Semper laus eius in ore meo.</l>
+<l>In domino laudabitur anima mea:</l>
+<l>audiant mansueti et laetentur.</l>
+<l>Magnificate dominum mecum,</l>
+<l>et exaltemus nomen eius in id ipsum.</l>
+<l>Exquisivi dominum, et exaudivit me,</l>
+<l>et ex omnibus tribulationibus meis eripuit me.</l>
+<l>Accedite ad eum, et inluminamini,</l>
+<l>et facies vestrae non confundentur.</l>
+<l>Iste pauper clamavit, et dominus exaudivit eum,</l>
+<l>et de omnibus tribulationibus eius salvavit eum.</l>
+<l>Vallabit Angelus domini</l>
+<l>in circuitu timentium eum, et eripiet eos.</l>
+<l>Gustate et videte quoniam suavis est dominus:</l>
+<l>beatus vir qui sperat in eo.</l>
+<l>Timete dominum omnes sancti eius,</l>
+<l>quoniam non est inopia timentibus eum.</l>
+<l>Divites eguerunt et esurierunt,</l>
+<l>inquirentes autem dominum non minuentur omni bono.</l>
+<l>Venite, filii, audite me.</l>
+<l>Timorem domini docebo vos.</l>
+<l>Quis est homo qui vult vitam?</l>
+<l>Cupit videre dies bonos?</l>
+<l>Prohibe linguam tuam a malo,</l>
+<l>et labia tua ne loquantur dolum.</l>
+<l>Deverte a malo, et fac bonum.</l>
+<l>Inquire pacem, et persequere eam.</l>
+<l>Oculi domini super iustos,</l>
+<l>et aures eius in precem eorum.</l>
+<l>Facies domini super facientes mala,</l>
+<l>ut perdat de terra memoriam eorum.</l>
+<l>Clamaverunt iusti, et dominus exaudivit,</l>
+<l>et ex omnibus tribulationibus eorum liberavit eos.</l>
+<l>Iuxta est dominus his qui tribulato sunt corde,</l>
+<l>et humiles spiritu salvabit.</l>
+<l>Multae tribulationes iustorum,</l>
+<l>et de omnibus his liberavit eos.</l>
+<l>Dominus custodit omnia ossa eorum:</l>
+<l>unum ex his non conteretur.</l>
+<l>Mors peccatorum pessima,</l>
+<l>et qui oderunt iustum delinquent.</l>
+<l>Redimet dominus animas servorum suorum,</l>
+<l>et non delinquent omnes qui sperant in eum.
+</l>
+<p><l></l></p><p><A NAME="91379"/></p><p> Faciet dominus exercituum omnibus populis in monte Sion convivium pinguium, convivium vindemiae pinguium medulatorum vindemiae defecatae.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 2 ps. 3</head>
+<A NAME="91380"/>
+Iudica me, Deus,
+<l>et discerne causam meam de gente non sancta.</l>
+<l>Ab homine iniquo et doloso erue me,</l>
+<l>quia tu es, Deus, fortitudo mea.</l>
+<l>Quare me reppulisti?</l>
+<l>quare tristis incedo, dum adfligit me inimicus?</l>
+<l>Emitte lucem tuam et veritatem tuam.</l>
+<l>Ipsa me deduxerunt,</l>
+<l>et adduxerunt in montem sanctum tuum,</l>
+<l>et in tabernacula tua;</l>
+<l>Et introibo ad altare Dei,</l>
+<l>ad Deum, qui laetificat iuventutem meam.</l>
+<l>Confitebor tibi in cithara.</l>
+<l>Deus, Deus meus,</l>
+<l>quare tristis es anima mea?</l>
+<l>Et quare conturbas me?</l>
+<l>Spera in Deum, quoniam adhuc confitebor illi:</l>
+<l>salutare vultus mei et Deus meus.
+</l>
+<p><l></l></p><p><A NAME="91381"/></p><p> Cibavit illos ex adipe frumenti, alleluia.
+<l></l></p><p> Et de petra melle saturavit eos, alleluia.</p>
+</div1>
+<div1><head>noct. 2 l. 4</head>
+<A NAME="91382"/><p> Panis est in altari usitatus ante verba sacramentorum.
+	Ubi accessit consecratio, de pane fit caro Christi.
+	Quomodo autem potest quod panis est esse corpus Christi? Consecratio igitur quibus verbis et cuius sermonibus est? Domini Iesu.
+	Nam per reliqua omnia quae dicuntur, laus Deo offertur, oratione petitur pro populo, pro regibus, pro ceteris.
+	Ubi autem sacramentum conficitur, iam non suis sermonibus sacerdos, sed utitur sermonibus Christi.
+	Ergo sermo Christi hoc conficit sacramentum.
+	Quis sermo Christi? Hic nempe quo facta sunt omnia: caelum, terra, maria.
+	Vides ergo quam operarius sit sermo Christi.
+	Si ergo tanta vis est in sermone domini Iesu Christi, ut inciperet esse quod non erat, quanto magis operarius est ut sint quae erant et in aliud convertantur? Et sic quod erat panis ante consecrationem iam corpus Christi post consecrationem est, quia sermo Christi creaturam mutat, et sic ex pane fit corpus Christi.
+	Et vinum cum aqua in calice mixtum, fit sanguis consecratione verbi caelestis.
+	Sed forte dicis: speciem sanguinis non video, sed habet similitudinem.
+	Sicut enim mortis similitudinem assumpsisti, ita etiam Christi similitudinem sanguinis bibis, ut nullus horror cruoris sit, et pretium tamen operetur redemptionis.
+	Didicisti quia corpus accipis Christi.
+	Vis scire quia verbis caelestibus consecratur? Accipe quae sunt verba.
+	Dicit sacerdos: fac nobis, inquit, hanc oblationem adscriptam, rationabilem, </p><p> Inde, omnia illa Evangelistae sunt usque ad Accipite, sive corpus, sive sanguinem.
+	Inde verba Christi sunt: accipite et bibite ex hoc omnes.
+	Hic est enim sanguis meus.
+	Vide singula.
+	Qui pridie quam pateretur accepit, inquit, in sanctis manibus panem.
+	Antequam consecretur panis est.
+	Ubi autem verba Christi accesserint, corpus Christi est.
+	Deinde audi dicentem: accipite et edite ex hoc omnes: hoc est enim corpus meum.
+	Et ante verba Christi, calix est vino et aqua plenus.
+	Ubi autem verba Christi operata fuerint, ibi sanguis efficitur, qui plebem redemit.
+	Ergo vide quam potens est sermo Christi universa convertere.
+	Deinde ipse Iesus testificatur, quod corpus suum et sanguinem suum accipiamus, de cuius fide et testificatione dubitare non debemus.</p>
+</div1>
+<div1><head>noct. 2 resp. 1</head>
+<A NAME="91383"/><p> Dominus Iesus, in qua nocte tradebatur, accepit panem, et gratias agens fregit et dixit: accipite et manducate: hoc est corpus meum quod pro vobis tradetur, hoc facite in meam commemorationem.
+<l></l></p><p> Similiter et calicem, postquam cenavit dicens: hic calix novum testamentum est in meo sanguine.
+	Hoc facite in meam commemorationem.</p>
+</div1>
+<div1><head>noct. 2 l. 5</head>
+<A NAME="91384"/><p> Christus panis est de quo ipsemet dixit: et panis quem ego dabo caro mea est pro mundi vita.
+	Determinat quomodo sit panis, non solum secundum verbum quo vivunt omnia, sed secundum carnem assumptam pro mundi vita.
+	Humana enim caro quae erat peccato mortua, carni mundae unita, incorporata, unum cum illa effecta, vivit de spiritu eius, sicut vivit corpus de suo spiritu.
+	Qui vero non est de corpore Christi, non vivit de </p><p> Christi.</p>
+Corpus et sanguinem Christi dicimus illud quod ex fructibus terrae acceptum et prece mystica consecratum recte sumimus ad salutem spiritualem, in memoriam dominicae passionis.
+	Quod, cum per manus hominis ad illam visibilem speciem perducatur, non sanctificatur ut sit tam magnum sacramentum, nisi operante invisibiliter spiritu sancto, cum haec omnia quae per corporales motus in illo opere fiunt, Deus operetur.
+Hoc est sacramentum pietatis et est signum unitatis et vinculum caritatis.
+	Qui vult vivere accedat et credat, <p> vult intelligi corporis et membrorum suorum quod est ecclesiae in praedestinatis.</p>
+Hoc est quod dicimus, quod omnibus modis approbare contendimus, sacrificium ecclesiae duobus confici, duobus constare: visibili elementorum specie, et invisibili domini nostri Iesu Christi carne et sanguine, et sacramento et re sacramenti, id est, corpore Christi, sicut Christi persona constat et conficitur ex Deo et homine, cum ipse Christus verus sit Deus et verus homo, quia omnis res illarum rerum naturam et veritatem in se continet ex quibus conficitur.
+	Conficitur autem sacrificium ecclesiae duobus, sacramento et re sacramenti, id est, corpore Christi.
+	Est igitur sacramentum et res sacramenti, id est, corpus Christi.
+	Caro eius est quam forma panis opertam in sacramento accipimus, et sanguis eius quem sub vini specie et sapore potamus.
+	Caro videlicet est carnis, et sanguis est sacramentum sanguinis.
+	Carne et sanguine utroque invisibili intelligibili spirituali significatur visibile corpus domini nostri Iesu Christi et palpabile, plenum gratia omnium virtutum et divina maiestate.
+	Sicut ergo caelestis panis qui vere Christi caro est, suo modo vocatur corpus Christi, cum revera sit sacramentum corporis Christi, illius videlicet quod visibile, quod palpabile mortale in cruce est positum, vocaturque ipsa carnis immolatio, quae sacerdotis manibus fit, Christi passio mors crucifixio, non rei veritate sed significanti mysterio: sic sacramentum fidei, quod baptismus intelligitur, fides est.
+</div1>
+<div1><head>noct. 2 resp. 2</head>
+<A NAME="91385"/><p> Quicumque manducaverit panem, vel biberit calicem domini indigne reus erit corporis et sanguinis domini.
+	Probet autem seipsum homo et sic de pane illo edat et de calice bibat.
+<l></l></p><p> Qui enim manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans corpus domini.
+	Probet autem seipsum homo et sic de pane illo edat et de calice bibat.</p>
+</div1>
+<div1><head>noct. 2 l. 6</head>
+<A NAME="91386"/><p> Iteratur cotidie haec oblatio, licet Christus semel passus in carne, per unam eamdemque mortis passionem semel </p><p> mundum, ex qua morte idem resurgens ad vitam, mors ei ultra non dominabitur.
+	Quod profecto sapientia Dei patris necessarium pro multis causis providit.
+	Primo quidem quia cotidie peccamus, saltem in peccatis sine quibus mortalis infirmitas vivere non potest, quia, licet omnia peccata donata </p><p> in baptismo, infirmitas tamen peccati adhuc manet in carne.
+	Unde psalmista: benedic anima mea domino, qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas.
+	Et ideo, quia cotidie labimur, cotidie Christus pro nobis mystice immolatur, et passio Christi in mysterio traditur, ut qui semel moriendo mortem vicerat, cotidie recidiva delictorum per haec sacramenta corporis et sanguinis peccata relaxet.
+	Unde oramus: dimitte nobis debita nostra; quia si dixerimus quod peccatum non habemus, ipsi nos seducimus et veritas in nobis non est.
+	Iteratur etiam hoc mysterium et ob commemorationem passionis Christi, sicut ipse ait: hoc quotiescumque agitis, in meam commemorationem facite.
+	Quotiescumque ergo hunc panem sumitis, et bibitis hunc calicem, mortem domini annunciabitis donec veniat.
+	Non utique sic accipiendum est: donec Christi mors veniat, quia iam ultra non morietur, sed: donec ipse dominus ad iudicium veniat.
+	Interdum autem semper mors est Christi pro saeculi vita posteris nuntianda, ut discant qua caritate dilexit suos, qui pro suis mori dignatus est, cui omnes vicem debemus impendere caritatis, quia ad hoc nos prior dilexit cum essemus gehennae filii, ut diligeremus eum a morte iam liberati.</p>
+Quia morte domini iam liberati sumus, huius rei memores in edendo carnem et potando sanguinem eius, quae pro nobis oblata sunt significamus.
+</div1>
+<div1><head>noct. 2 resp. 3</head>
+<A NAME="91387"/><p> Calix benedictionis cui benedicimus, nonne communicatio sanguinis Christi est? Et panis quem frangimus, nonne participatio corporis domini est?
+<l></l></p><p> Quoniam unus panis et unum corpus multi sumus, nam omnes de uno pane et uno calice participamus.
+	Et panis quem frangimus, nonne participatio corporis domini est?</p>
+<p><emph><l><A NAME="91388"/>In tertio nocturno</l></emph></p>
+</div1>
+<div1><head>noct. 3 antiph. 1</head>
+<A NAME="91389"/><p> Tulit Manue haedum de capris et libamenta, et posuit supra petram, offerens domino qui facit mirabilia.
+	Cum ascenderet flamma altaris in caelum, Angelus domini pariter in flamma ascendit.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 3 ps. 1</head>
+<A NAME="91390"/>
+Te decet hymnus, Deus, in Sion,
+<l>et tibi reddetur votum in Hierusalem.</l>
+<l>Exaudi orationem: ad te omnis caro veniet.</l>
+<l>Verba iniquorum praevaluerunt super nos,</l>
+<l>et impietatibus nostris tu propitiaberis.</l>
+<l>Beatus quem elegisti et adsumpsisti:</l>
+<l>inhabitabit in atriis tuis.</l>
+<l>Replebimur in bonis domus tuae:</l>
+<l>sanctum est templum tuum.</l>
+<l>Mirabile in aequitate, exaudi nos,</l>
+<l>Deus, salutaris noster,</l>
+<l>spes omnium finium terrae et in mari longe,</l>
+<l>praeparans montes in virtute tua, accinctus potentia,</l>
+<l>qui conturbas profundum maris.</l>
+<l>Sonum fluctuum eius turbabuntur gentes,</l>
+<l>et timebunt qui inhabitant terminos.</l>
+<l>A signis tuis exitus matutini, et vespere delectabis.</l>
+<l>Visitasti terram, et inebriasti eam.</l>
+<l>Multiplicasti, locupletare eam.</l>
+<l>Flumen Dei repletum est aquis.</l>
+<l>Parasti cibum illorum, quoniam ita est praeparatio eius.</l>
+<l>Rivos eius inebria, multiplica genimina eius.</l>
+<l>In stillicidiis eius laetabitur germinans.</l>
+<l>Benedices, coronae anni benignitatis tuae,</l>
+<l>et campi tui replebuntur ubertate.</l>
+<l>Pinguescent speciosa deserti,</l>
+<l>et exultatione colles accingentur.</l>
+<l>Induti sunt arietes ovium,</l>
+<l>et valles abundabunt frumento.</l>
+<l>Clamabunt, etenim hymnum dicent.
+</l>
+<p><l></l></p><p><A NAME="91391"/></p><p> Erit quasi oliva gloria eius, et odor eius ut Libani convertetur; sedentes in umbra eius vivent tritico.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 3 ps. 2</head>
+<A NAME="91392"/>
+Quam dilecta tabernacula tua, domine virtutum.
+<l>Concupiscit et defecit anima mea in atria domini.</l>
+<l>Cor meum et caro mea exultavit in Deum vivum:</l>
+<l>Etenim passer invenit sibi domum,</l>
+<l>et turtur nidum sibi, ubi ponat pullos suos:</l>
+<l>altaria tua, domine virtutum, rex meus et Deus meus.</l>
+<l>Beati qui habitant in domo tua,</l>
+<l>in saecula saeculorum laudabunt te.</l>
+<l>Beatus vir cui est auxilium abs te:</l>
+<l>ascensiones in corde suo disposuit</l>
+<l>in valle lacrimarum, in loco quem posuit.</l>
+<l>Etenim benedictiones dabit legis dator:</l>
+<l>ibunt de virtute in virtutem.</l>
+<l>Videbitur Deus deorum in Sion.</l>
+<l>Domine, Deus virtutum, exaudi orationem meam.</l>
+<l>Auribus percipe, Deus Iacob.</l>
+<l>Protector noster, aspice, Deus,</l>
+<l>et respice in faciem christi tui:</l>
+<l>quia melior est dies una in atriis tuis super milia,</l>
+<l>elegi abiectus esse in domo Dei mei,</l>
+<l>magis quam habitare in tabernaculis peccatorum:</l>
+<l>quia misericordiam et veritatem diligit Deus,</l>
+<l>gratiam et gloriam dabit dominus.</l>
+<l>Non privabit bonis eos qui ambulant in innocentia.</l>
+<l>Domine virtutum, beatus vir qui sperat in te.
+</l>
+<p><l></l></p><p><A NAME="91393"/></p><p> Quid enim bonum eius est, et quid pulchrum eius nisi frumentum electorum et vinum germinans virgines.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 3 ps. 3</head>
+<A NAME="91394"/>
+Inclina, domine, aurem tuam, et exaudi me,
+<l>quoniam inops et pauper sum ego.</l>
+<l>Custodi animam meam, quoniam sanctus sum.</l>
+<l>Salvum fac servum tuum, Deus meus, sperantem in te.</l>
+<l>Miserere mei, domine, quoniam ad te clamabo tota die.</l>
+<l>Laetifica animam servi tui,</l>
+<l>quoniam ad te, domine, animam meam levavi;</l>
+<l>quoniam tu, domine, suavis et mitis,</l>
+<l>et multae misericordiae omnibus invocantibus te.</l>
+<l>Auribus percipe, domine, orationem meam,</l>
+<l>et intende voci orationis meae.</l>
+<l>In die tribulationis meae clamavi ad te,</l>
+<l>quia exaudisti me.</l>
+<l>Non est similis tui in diis, domine,</l>
+<l>et non est secundum opera tua.</l>
+<l>Omnes gentes quascumque fecisti venient,</l>
+<l>et adorabunt coram te, domine,</l>
+<l>et glorificabunt nomen tuum:</l>
+<l>quoniam magnus es tu,</l>
+<l>et faciens mirabilia:</l>
+<l>tu es Deus solus.</l>
+<l>Deduc me, domine, in via tua,</l>
+<l>et ingrediar in veritate tua.</l>
+<l>Laetetur cor meum, ut timeat nomen tuum.</l>
+<l>Confitebor tibi, domine Deus meus, in toto corde meo,</l>
+<l>et glorificabo nomen tuum in aeternum,</l>
+<l>quia misericordia tua magna est super me,</l>
+<l>et eruisti animam meam ex inferno inferiori.</l>
+<l>Deus, iniqui insurrexerunt super me,</l>
+<l>et synagoga potentium quaesierunt animam meam,</l>
+<l>et non proposuerunt te in conspectu suo.</l>
+<l>Et tu, domine Deus, miserator et misericors,</l>
+<l>patiens et multae misericordiae, et verax,</l>
+<l>respice in me, et miserere mei.</l>
+<l>Da imperium tuum puero tuo,</l>
+<l>et salvum fac filium ancillae tuae.</l>
+<l>Fac mecum signum in bono,</l>
+<l>et videant qui oderunt me, et confundantur:</l>
+<l>quoniam tu, domine, adiuvasti me, et consolatus es me.
+</l>
+<p><l></l></p><p><A NAME="91395"/></p><p> Panis frugum terrae, alleluia.
+<l></l></p><p> Erit uberrimus, alleluia.</p>
+</div1>
+<div1><head>noct. 3 l. 7 n. 1</head>
+<A NAME="91396"/><p> In illo tempore dixit Iesus discipulis suis et turbis Iudaeorum: amen, amen dico vobis, nisi manducaveritis carnem filii hominis, et biberitis eius sanguinem, non habetis vitam in vobis.
+	Qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam: et ego resuscitabo eum in novissimo die.
+	Caro enim mea vere est cibus: et sanguis meus, vere est potus; qui manducat meam carnem et bibit meum sanguinem, in me manet, et ego in illo.
+	Sicut misit me vivens pater, et ego vivo propter patrem: et qui manducat me, et ipse vivet propter me.
+	Hic est panis qui de caelo descendit.
+	Non sicut manducaverunt patres vestri manna, et mortui sunt.
+	Qui manducat hunc panem, vivet in aeternum.
+	Haec dixit in synagoga docens, in Capharnaum.
+	Multi ergo audientes ex discipulis eius, dixerunt: durus est hic sermo, et quis potest eum audire? Sciens autem Iesus apud semetipsum quia murmurarent de hoc discipuli eius, dixit eis: hoc vos scandalizat? Si ergo videritis filium hominis ascendentem ubi erat prius? Spiritus est qui vivificat: caro non prodest quidquam: verba quae ego locutus sum vobis, spiritus et vita sunt.
+	Sed sunt quidam ex vobis qui non credunt.
+	Sciebat enim ab initio Iesus qui essent non credentes, et quis traditurus esset eum.
+	Et dicebat: propterea dixi vobis, quia nemo potest venire ad me, nisi fuerit ei datum a patre meo.
+	Ex hoc multi discipulorum eius abierunt retro: et iam non cum illo ambulabant.
+	Dixit ergo Iesus ad duodecim: numquid et vos vultis abire? Respondit ergo ei Simon Petrus: domine, ad quem ibimus? Verba vitae aeternae habes.</p>
+</div1>
+<div1><head>noct. 3 l. 7 n. 2</head>
+<A NAME="91397"/><p> Quomodo quidem detur, et quisnam modus sit manducandi istum panem, ignoratis.
+	Verumtamen nisi manducaveritis carnem filii hominis, et biberitis eius sanguinem, non habebitis vitam in vobis.
+	Haec utique non cadaveribus sed viventibus loquebatur.
+	Unde ne istam vitam intelligentes, et de hac re litigarent, secutus adiunxit: qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam.
+	Hanc ergo non habet, qui istum panem non manducat, nec istum sanguinem bibit.
+	Nam temporalem vitam sine illo utcumque homines in hoc saeculo, qui non sunt in corpore eius per fidem, habere possunt: aeternam autem nunquam, quae sanctis promittitur.</p>
+Ne autem putarent sic in isto cibo et potu eius, qui carnaliter sumunt et spiritualiter non intelligunt in fide, promitti vitam aeternam, ut qui eam sumerent iam nec corpore morerentur, huic cogitationi est dignatus occurrere.
+	Nam cum dixisset: qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam, continuo subiecit et dixit: et ego resuscitabo eum in novissimo die, ut habeat interim secundum spiritum aeternam requiem, quae sanctorum spiritus recipit.
+	Quod autem ad corpus attinet, nec <p> vita aeterna fraudabitur in resurrectione mortuorum in novissimo die.</p>
+Caro, inquit, mea vere est cibus et sanguis meus vere est potus.
+	Cum enim cibo et potu id appetant homines ut non esuriant neque sitiant, hoc vere non praestat nisi iste cibus et potus, qui eos a quibus sumitur immortales et incorruptibiles facit, id est societas ipsorum sanctorum, ubi pax erit et unitas plena atque perfecta.
+	Propterea quippe sicut etiam ante nos intellexerunt homines Dei, dominus noster Iesus Christus corpus et sanguinem suum in eis rebus commendavit, quae ad unum aliquid rediguntur.
+	Ex multis namque granis unus panis conficitur et ex multis racemis vinum confluit.
+Denique iam exponit quomodo id fiat quod loquitur, et quid sit manducare corpus eius et sanguinem bibere.
+	Et qui manducat meam carnem et bibit meum sanguinem in me manet et ego in eo.
+	Hoc est ergo manducare illam escam et illum bibere potum, in Christo manere et illum manentem in se habere.
+	Ac per hoc qui non manet in Christo et in quo non manet Christus, proculdubio non manducat spiritualiter eius carnem, licet carnaliter et visibiliter premat dentibus sacramenta corporis et sanguinis Christi; sed magis tantae rei sacramentum ad iudicium sibi manducat et bibit qui immundus praesumpsit ad Christi accedere sacramenta <p> alius non digne sumit nisi qui mundus est de quibus dicitur: beati mundo corde quoniam ipsi Deum videbunt.</p>
+</div1>
+<div1><head>noct. 3 resp. 1</head>
+<A NAME="91398"/><p> Ego sum panis vitae.
+	Patres vestri manducaverunt manna in deserto et mortui sunt.
+	Hic est panis de caelo descendens ut si quis ex ipso manducaverit non moriatur.
+<l></l></p><p> Ego sum panis vivus qui de caelo descendi.
+	Si quis manducaverit ex hoc pane vivet in aeternum.
+	Hic est panis de caelo descendens ut si quis ex ipso manducaverit non moriatur.</p>
+</div1>
+<div1><head>noct. 3 l. 8</head>
+<A NAME="91399"/><p> Sicut me misit, inquit, vivens pater, et ego vivo propter patrem, et qui manducat me, et ipse vivet propter me.
+	Non enim filius </p><p> patris fit melior, qui est </p><p> aequalis, sicut participatione filii per unitatem corporis et sanguinis quam illa manducatio potatioque significat efficit nos meliores.
+	Vivimos ergo nos propter ipsum, manducantes eum, idest, ipsum accipientes vitam aeternam quam non habemus ex nobis.
+	Vivit autem ipse propter pater, missus ab eo, quia semetipsum exinanivit, factus obediens usque ad signum crucis.
+	Sicut </p><p> vivens pater, et ego vivo propter patrem; et qui manducat me, et ipse vivet propter me.
+	Ac si diceret: et ego vivo propter patrem; id est, ut ad illum tamquam ad maiorem referam vitam meam, exinanitio mea fecit in qua me misit.
+	Ut autem quisque vivat propter me participatio facit </p><p> manducat me.
+	Ego itaque humiliatus vivo propter patrem, ille rectus vivit propter me.
+	Non de ea natura dixit qua semper est aequalis patri, sed ea in qua minor factus est patre, de qua etiam superius dixit: sicut pater habet vitam in semetipso, sic dedit </p><p> filio vitam habere in semetipso, id est genuit filium habentem vitam in semetipso.</p>
+Hic est panis qui de caelo descendit, ut illum manducando vivamus, quia aeternam vitam ex nihilo habere non possumus.
+	Non sicut manducaverunt, inquit, patres vestri manna et mortui sunt.
+	Qui manducat hunc panem vivet in aeternum.
+	Quod ergo illi mortui sunt, ita vult intelligi, ut non vivant in aeternum.
+	Nam temporaliter profecto et hic morientur qui Christum manducant, sed vivunt in aeternum, quia Christus est aeternae vitae signum.
+Qui manducat et bibit, hoc est si manet et manetur, si habitat et habitatur.
+	Hoc ergo nos docuit et admonuit mysticis verbis ut <p> in eius corpore sub ipso capite in membris eius, edentes carnem eius, non relinquentes unitatem eius.
+	Sed </p><p> aderant plures non intelligendo scandalizati sunt.
+	Non enim cogitabant haec audiendo nisi carnem quod ipsi erant.
+	Apostolus autem dicit et verum dicit: sapere secundum carnem, mors est.
+	Carnem suam dicit nobis dominus manducare et sapere.
+	Sapere secundum carnem mors est, cum de carne sua dicat quia </p><p> est vita aeterna.
+	Ergo </p><p> carnem debemus sapere secundum carnem, sicut in hiis verbis:</p>
+Multi itaque audientes, non ex inimicis sed ex dicipulis eius, dixerunt: durus est hic sermo.
+	Quis potest eum audire? Si discipuli durum habuerunt istum sermonem, quid inimici? Et tamen sic oportebat ut diceretur quod non ab hominibus intelligeretur.
+	Secretum Dei intentos debet facere, non adversos.
+</div1>
+<div1><head>noct. 3 resp. 2</head>
+<A NAME="91400"/><p> Amen amen dico vobis, nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis.
+	Qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam, et ego resuscitabo eum in novissimo die.
+<l></l></p><p> Caro enim mea vere est cibus et sanguis meus vere est potus.
+	Qui manducat meam carnem et bibit meum sanguinem, in me manet et ego in eo.</p>
+</div1>
+<div1><head>noct. 3 l. 9</head>
+<A NAME="91401"/><p> Spiritus est qui vivificat, caro non prodest quicquam.</p>
+Diximus enim hoc dominum commendasse in manducatione carnis suae et potatione sanguinis sui, ut in illo commaneamus et ipse in nobis.
+	Manemus autem in illo, cum sumus membra eius.
+	Manet autem ipse in nobis, cum sumus templum eius.
+	Ut autem simus membra eius, unitas nos compaginat.
+	Unitas autem ex caritate est.
+	Caritas ex spiritu.
+	Ergo est spiritus qui vivificat.
+	Spiritus enim facit viva membra.
+	Nec viva membra spiritus facit, nisi quae in corpore quod vegetat ipse spiritus invenerit.
+	Nam spiritus qui est in te, o homo, quo constas ut homo sis, quomodo vivificat membrum quod separatum invenerit a carne tua? Spiritum tuum dico animam tuam.
+	Anima tua non vivificat nisi membra quae sunt in carne tua.
+	Unum si tollas, iam ex anima tua non vivificatur, quia unitate corporis tui non copulatur.
+	Haec dicuntur ut amemus unitatem et timeamus separationem.
+	Nihil enim sic debet timere christianus quam separari a corpore Christi.
+	Si enim separatur a corpore Christi, non est membrum eius.
+	Si non est membrum eius, non vegetatur spiritu eius.
+	Quisquis, inquit apostolus, spiritum Christi non habet, hic non est eius.
+	Spiritus est ergo qui vivificat, caro non prodest quicquam.
+	Verba quae ego locutus sum vobis spiritus et vita sunt: spiritualiter intelligenda sunt.
+	Intellexistis spiritualiter? Spiritus et vita sunt.
+	Sed tibi non sunt, o homo qui spiritualiter ea non intelligis, nec fide ea venerari nosti.
+Sunt enim quidam in vobis qui non credunt, et ideo non intelligunt quia non credunt.
+	Propheta enim dixit: nisi credideritis, non intelligetis.
+	Per fidem copulamur, per intellectum vivificamur.
+	Prius habeamus per fidem ut sic post vivificemur per intellectum.
+Ex hoc multi discipulorum eius abierunt retro <p> non post Christum sed post Satanam.
+	Isti autem sic abierunt retro quomodo praecisi a corpore Christi, nec ultra redeuntes ad eum, quia fixi fideliter in corpore eius non fuerunt, et hii non pauci sed multi.</p>
+Audiamus ergo quid ad paucos dixit qui remanserunt.
+	Dixit ergo Iesus ad duodecim: numquid et vos vultis abire? Non discessit nec Iudas, sed quare manebat <p> iam apparebat; postea manifestatus est.
+	Respondit </p><p> pro omnibus, unus pro multis, unitas pro universis.
+	Respondit ergo ei Simon Petrus: domine ad quem ibimus? Verba vitae aeternae habes.
+	Videte quemadmodum Petrus, dante domino, recreante spiritu sancto, intellexit.
+	Unde nisi quia credidit verba vitae aeternae? Vitam enim aeternam habes in ministratione corporis et sanguinis tui.
+	Et nos </p><p> et cognovimus.
+	Credidimus enim ut cognosceremus.
+	Nam si prius cognoscere et deinde credere vellemus, </p><p>.
+	Quid credidimus et quid cognovimus? Quia tu es Christus filius Dei vivi, id est, quia </p><p> vita aeterna tu es, et non das in carne et sanguine tuo nisi quod es.</p>
+</div1>
+<div1><head>noct. 3 resp. 3</head>
+<A NAME="91402"/><p> Sicut vivens misit me pater et ego vivo propter patrem et qui manducat me ipse vivit propter me.
+	Hic est panis qui de caelo descendit.
+<l></l></p><p> Non sicut patres vestri manducaverunt manna et mortui sunt.
+	Qui manducat hunc panem vivet in aeternum.</p>
+<p><emph><l><A NAME="91403"/>In quarto nocturno</l></emph></p>
+</div1>
+<div1><head>noct. 4 antiph. 1</head>
+<A NAME="91404"/><p> Extendit Ionathas summitatem virgulae quam habebat in manu, et intinxit in favum mellis, et convertit manum suam ad os suum, et illuminati sunt oculi eius.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 4 ps. 1</head>
+<A NAME="91405"/>
+Domine, exaudi orationem meam,
+<l>et clamor meus ad te veniat.</l>
+<l>Non avertas faciem tuam a me.</l>
+<l>In quacumque die tribulor,</l>
+<l>inclina ad me aurem tuam.</l>
+<l>In quacumque die invocavero te,</l>
+<l>velociter exaudi me:</l>
+<l>quia defecerunt sicut fumus dies mei,</l>
+<l>et ossa mea sicut gremium aruerunt.</l>
+<l>Percussum est ut faenum et aruit cor meum,</l>
+<l>quia oblitus sum comedere panem meum.</l>
+<l>A voce gemitus mei adhesit os meum carni meae.</l>
+<l>Similis factus sum pelicano solitudinis.</l>
+<l>Factus sum sicut nycticorax in domicilio.</l>
+<l>Vigilavi, et factus sum sicut passer solitarius in tecto.</l>
+<l>Tota die exprobrabant mihi inimici mei,</l>
+<l>et qui laudabant me adversus me iurabant:</l>
+<l>quia cinerem tamquam panem manducavi,</l>
+<l>et poculum meum cum fletu miscebam</l>
+<l>a facie irae et indignationis tuae:</l>
+<l>quia elevans adlisisti me.</l>
+<l>Dies mei sicut umbra declinaverunt,</l>
+<l>et ego sicut faenum arui.</l>
+<l>Tu autem, domine, in aeternum permanes,</l>
+<l>et memoriale tuum in generationem et generationem.</l>
+<l>Tu exsurgens misereberis Sion,</l>
+<l>quia tempus miserendi eius, quia venit tempus,</l>
+<l>quoniam placuerunt servis tuis lapides eius,</l>
+<l>et terrae eius miserebuntur;</l>
+<l>et timebunt gentes nomen domini,</l>
+<l>et omnes reges terrae gloriam tuam:</l>
+<l>quia aedificabit dominus Sion,</l>
+<l>et videbitur in gloria sua.</l>
+<l>Respexit in orationem humilium,</l>
+<l>et non sprevit precem eorum.</l>
+<l>Scribantur haec in generationem alteram,</l>
+<l>et populus qui creabitur laudabit dominum:</l>
+<l>quia prospexit de excelso sancto suo.</l>
+<l>Dominus de caelo in terram aspexit</l>
+<l>ut audiret gemitum conpeditorum,</l>
+<l>ut solvat filios interemptorum,</l>
+<l>ut adnuntiet in Sion nomen domini,</l>
+<l>et laudem suam in Hierusalem</l>
+<l>in conveniendo populos in unum,</l>
+<l>et reges ut serviant domino.</l>
+<l>Respondit ei in via virtutis suae.</l>
+<l>Paucitatem dierum meorum nuntia mihi.</l>
+<l>Ne revoces me in dimidio dierum meorum,</l>
+<l>in generationem et generationem anni tui.</l>
+<l>Initio tu, domine, terram fundasti,</l>
+<l>et opera manuum tuarum sunt caeli.</l>
+<l>Ipsi peribunt, tu autem permanes,</l>
+<l>et omnes sicut vestimentum veterescent,</l>
+<l>et sicut opertorium mutabis eos, et mutabuntur.</l>
+<l>Tu autem idem ipse es,</l>
+<l>et anni tui non deficient.</l>
+<l>Filii servorum tuorum habitabunt,</l>
+<l>et semen eorum in saeculum dirigetur.
+</l>
+<p><l></l></p><p><A NAME="91406"/></p><p> Comede fili mi mel quia bonum est et favum dulcissimum gutturi tuo.
+	Mel invenisti, comede quod sufficit tibi.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 4 ps. 2</head>
+<A NAME="91407"/>
+Benedic, anima mea, domino.
+<l>Domine Deus meus, magnificatus es vehementer.</l>
+<l>Confessionem et decorem induisti,</l>
+<l>amictus lumine sicut vestimento,</l>
+<l>extendens caelum sicut pellem:</l>
+<l>qui tegis in aquis superiora eius,</l>
+<l>qui ponis nubem ascensum tuum,</l>
+<l>qui ambulas super pinnas ventorum,</l>
+<l>qui facis Angelos tuos spiritus</l>
+<l>et ministros tuos ignem urentem,</l>
+<l>qui fundasti terram super stabilitatem suam:</l>
+<l>non inclinabitur in saeculum saeculi.</l>
+<l>Abyssus sicut vestimentum amictus eius,</l>
+<l>super montes stabunt aquae.</l>
+<l>Ab increpatione tua fugient,</l>
+<l>a voce tonitrui tui formidabunt.</l>
+<l>Ascendunt montes et descendunt campi</l>
+<l>in locum quem fundasti eis.</l>
+<l>Terminum posuisti quem non transgredientur,</l>
+<l>neque convertentur operire terram.</l>
+<l>Qui emittis fontes in convallibus:</l>
+<l>inter medium montium pertransibunt aquae</l>
+<l>potabunt omnes bestiae agri,</l>
+<l>expectabunt onagri in siti sua.</l>
+<l>Super ea volucres caeli habitabunt,</l>
+<l>de medio petrarum dabunt vocem.</l>
+<l>Rigans montes de superioribus suis,</l>
+<l>de fructu operum tuorum satiabitur terra</l>
+<l>producens faenum iumentis,</l>
+<l>et herbam servituti hominum,</l>
+<l>ut educas panem de terra,</l>
+<l>et vinum laetificat cor hominis,</l>
+<l>ut exhilaret faciem in oleo,</l>
+<l>et panis cor hominis confirmat.</l>
+<l>Saturabuntur ligna campi,</l>
+<l>et cedri Libani quas plantavit.</l>
+<l>Illic passeres nidificabunt:</l>
+<l>erodii domus dux est eorum.</l>
+<l>Montes excelsi cervis,</l>
+<l>petra refugium erinaciis.</l>
+<l>Fecit lunam in tempora,</l>
+<l>sol cognovit occasum suum,</l>
+<l>posuisti tenebras, et facta est nox:</l>
+<l>in ipsa pertransibunt omnes bestiae silvae,</l>
+<l>catuli leonum rugientes ut rapiant,</l>
+<l>et quaerant a Deo escam sibi:</l>
+<l>ortus est sol, et congregati sunt,</l>
+<l>et in cubilibus suis conlocabuntur.</l>
+<l>Exibit homo ad opus suum,</l>
+<l>et ad operationem suam usque ad vesperum.</l>
+<l>Quam magnificata sunt opera tua, domine:</l>
+<l>omnia in sapientia fecisti.</l>
+<l>Impleta est terra possessione tua.</l>
+<l>Hoc mare magnum et spatiosum manibus,</l>
+<l>illic reptilia quorum non est numerus,</l>
+<l>animalia pusilla cum magnis.</l>
+<l>Illic naves pertransibunt.</l>
+<l>Draco iste, quem formasti ad inludendum ei.</l>
+<l>Omnia a te expectant,</l>
+<l>ut des illis escam in tempore.</l>
+<l>Dante te, illis colligent.</l>
+<l>Aperiente te manum tuam, omnia implebuntur bonitate.</l>
+<l>Avertente autem te, faciem turbabuntur.</l>
+<l>Auferes spiritum eorum,</l>
+<l>et deficient, et in pulverem suum revertentur.</l>
+<l>Emittes spiritum tuum, et creabuntur,</l>
+<l>et renovabis faciem terrae.</l>
+<l>Sit gloria domini in saeculum.</l>
+<l>Laetabitur dominus in operibus suis,</l>
+<l>qui respicit terram, et facit eam tremere,</l>
+<l>qui tangit montes, et fumigant.</l>
+<l>Cantabo domino in vita mea.</l>
+<l>Psallam Deo meo quamdiu sum:</l>
+<l>iucundum sit ei eloquium meum.</l>
+<l>Ego vero delectabor in domino.</l>
+<l>Deficiant peccatores a terra,</l>
+<l>et iniqui. ita ut non sint.</l>
+<l>Benedic, anima mea, domino.
+</l>
+<p><l></l></p><p><A NAME="91408"/></p><p> Venite, emite absque argento vinum, et absque commutatione vinum et lac.
+	Audite audientes me et comedite bonum, et delectabitur in crassitudine anima vestra.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>noct. 4 ps. 3</head>
+<A NAME="91409"/>
+Confitemini domino, et invocate nomen eius.
+<l>Adnuntiate inter gentes opera eius.</l>
+<l>Cantate ei, et psallite ei.</l>
+<l>Narrate omnia mirabilia eius.</l>
+<l>Laudamini in nomine sancto eius.</l>
+<l>Laetetur cor quaerentium dominum.</l>
+<l>Quaerite dominum, et confirmamini.</l>
+<l>Quaerite faciem eius semper.</l>
+<l>Mementote mirabilium eius:</l>
+<l>quae fecit prodigia eius, et iudicia oris eius.</l>
+<l>Semen Abraham, servi eius,</l>
+<l>filii Iacob, electi eius:</l>
+<l>ipse dominus Deus noster.</l>
+<l>In universa terra iudicia eius.</l>
+<l>Memor fuit in saeculum testamenti sui,</l>
+<l>verbi quod mandavit in mille generationes,</l>
+<l>quod disposuit ad Abraham,</l>
+<l>et iuramenti sui ad Isaac;</l>
+<l>et statuit illud Iacob in praeceptum</l>
+<l>et Israhel in testamentum aeternum,</l>
+<l>dicens: tibi dabo terram Chanaan,</l>
+<l>funiculum hereditatis vestrae,</l>
+<l>cum essent numero breves,</l>
+<l>paucissimos et incolas eius.</l>
+<l>Et pertransierunt de gente in gentem,</l>
+<l>et de regno ad populum alterum.</l>
+<l>Non reliquit hominem nocere eis,</l>
+<l>et corripuit pro eis reges:</l>
+<l>nolite tangere christos meos,</l>
+<l>et in prophetis meis nolite malignari.</l>
+<l>Et vocavit famem super terram:</l>
+<l>omne firmamentum panis contrivit.</l>
+<l>Misit ante eos virum,</l>
+<l>in servum venundatus est Ioseph.</l>
+<l>Humiliaverunt in conpedibus pedes eius,</l>
+<l>ferrum pertransiit anima eius,</l>
+<l>donec veniret verbum eius.</l>
+<l>Eloquium domini inflammavit eum.</l>
+<l>Misit rex, et solvit eum;</l>
+<l>princeps populorum, et dimisit eum.</l>
+<l>Constituit eum dominum domus suae,</l>
+<l>et principem omnis possessionis suae,</l>
+<l>ut erudiret principes eius sicut semet ipsum,</l>
+<l>et senes eius prudentiam doceret.</l>
+<l>Et intravit Israhel in Aegyptum,</l>
+<l>et Iacob accola fuit in terra Cham;</l>
+<l>et auxit populum eius vehementer,</l>
+<l>et firmavit eum super inimicos eius.</l>
+<l>Convertit cor eorum ut odirent populum eius,</l>
+<l>ut dolum facerent in servos eius.</l>
+<l>Misit Mosen servum suum,</l>
+<l>Aaron quem elegit ipsum.</l>
+<l>Posuit in eis verba signorum suorum,</l>
+<l>et prodigiorum in terra Cham.</l>
+<l>Misit tenebras, et obscuravit,</l>
+<l>et non exacerbavit sermones suos.</l>
+<l>Convertit aquas eorum in sanguinem,</l>
+<l>et occidit pisces eorum.</l>
+<l>Dedit terra eorum ranas</l>
+<l>in penetrabilibus regum ipsorum.</l>
+<l>Dixit et venit cynomia,</l>
+<l>et scinifes in omnibus finibus eorum.</l>
+<l>Posuit pluvias eorum grandinem,</l>
+<l>ignem conburentem in terra ipsorum;</l>
+<l>et percussit vineas eorum et ficulneas eorum,</l>
+<l>et contrivit lignum finium eorum.</l>
+<l>Dixit et venit lucusta,</l>
+<l>et bruchus cuius non erat numerus;</l>
+<l>et comedit omne faenum in terra eorum,</l>
+<l>et comedit omnem fructum terrae eorum;</l>
+<l>et percussit omne primogenitum in terra eorum,</l>
+<l>primitias omnis laboris eorum;</l>
+<l>et eduxit eos in argento et auro,</l>
+<l>et non erat in tribubus eorum infirmus.</l>
+<l>Laetata est Aegyptus in profectione eorum,</l>
+<l>quia incubuit timor eorum super eos.</l>
+<l>Expandit nubem in protectionem eorum,</l>
+<l>et ignem ut luceret eis per noctem.</l>
+<l>Petierunt et venit coturnix,</l>
+<l>et panem caeli saturavit eos.</l>
+<l>Disrupit petram, et fluxerunt.</l>
+<l>Aquae abierunt in sicco flumina,</l>
+<l>quoniam memor fuit verbi sancti sui</l>
+<l>quod habuit ad Abraham puerum suum;</l>
+<l>et eduxit populum suum in exultatione,</l>
+<l>et electos suos in laetitia;</l>
+<l>et dedit illis regiones gentium,</l>
+<l>et labores populorum possederunt,</l>
+<l>ut custodiant iustificationes eius,</l>
+<l>et legem eius requirant.
+</l>
+<p><l></l></p><p><A NAME="91410"/></p><p> Comedi favum cum melle meo, alleluia.
+<l></l></p><p> Bibi vinum meum cum lacte meo, alleluia.</p>
+</div1>
+<div1><head>noct. 4 l. 10</head>
+<A NAME="91411"/><p> Utrum sub figura an sub veritate hoc mysticum calicis sacramentum fiat, veritas ait: caro mea vere est cibus et sanguis meus vere est potus.
+	Alioquin, quomodo magnum erit: panis quem ego dabo caro mea est pro mundi vita, nisi vera sit caro? Sed quia Christum fas vorari dentibus non est, voluit hunc panem et vinum in ministerio vere carnem suam et sanguinem suum consecratione spiritus sancti potentialiter creari, et cotidie pro mundi vita mystice immolari, ut sicut de virgine per spiritum sanctum vera caro sine coitu creatur, ita per eumdem ex substantia panis et vini mystice idem corpus Christi consecretur.
+	Corpus Christi et veritas et figura est.
+	Veritas, dum corpus Christi et sanguis, in virtute spiritus sancti et in virtute ipsius, ex panis vinique substantia efficitur.
+	Figura vero est id quod exterius sentitur.
+	Intra catholicam ecclesiam in ministerio corporis Christi, nihil bono maius, nihil a malo minus perficitur sacerdote, quia non in merito consecrantis, sed in verbo efficitur creatoris et in virtute spiritus sancti.
+	Si enim in merito esset sacerdotis, nequaquam ad Christum pertineret.
+	Nunc autem, sicut ipse est qui baptizat, ita ipse est qui per spiritum sanctum hanc suam efficit carnem et transit vinum in sanguinem.
+	Unde et sacerdos: iube haec, inquit, offerri per manus Angeli tui sancti in sublime altare tuum in conspectu divinae maiestatis tuae.
+	Ut quid deferenda in lucem deposcit, nisi ut intelligatur, quod ista fiant in eo sacerdotio? Hanc ergo oblationem benedictam per quam benedicimur, adscriptam per quam homines in caelo adscribuntur, ratam per quam visceribus Christi esse censeamur, rationabilem per quam a bestiali sensu exuamur, acceptabilem ut qui nobis ipsis displicemus, per hanc acceptabiles eius unico filio simus.
+	Nihil rationabilius, ut quia nos iam similitudinem mortis eius in baptismo accepimus, similitudinem quoque carnis et sanguinis sumamus, ita ut veritas non desit in sacramento et ridiculum nullum fiat a paganis, quod cruorem occisi hominis bibamus.
+	Credendum est quod in verbis Christi sacramenta conficiantur.
+	Cuius enim potentia creantur prius, eius utique verbo ad melius procreantur.
+	Reliqua omnia quae sacerdos dicit aut clerus chori canit, nihil aliud quam laudes et gratiarum actiones sunt aut certe obsecrationes, et fidelium petitiones.</p>
+</div1>
+<div1><head>noct. 4 resp. 1</head>
+<A NAME="91412"/><p> Melchisedech vero rex Salem proferens panem et vinum, erat autem sacerdos Dei altissimi, benedixit Abrahae et ait.
+<l></l></p><p> Benedictus Abraham Deo excelso qui creavit caelum et terram.</p>
+</div1>
+<div1><head>noct. 4 l. 11</head>
+<A NAME="91413"/><p> </p>
+Cotidie eucharistiae communionem accipere nec laudo nec vitupero.
+	Omnibus tamen dominicis diebus communicandum hortor.
+	Si tamen mens in affectu peccandi est, gravari magis dico eucharistiae perceptione quam purificari.
+	Et ideo, quamvis <p> peccato mordeatur, peccandi tamen de cetero non habeat voluntatem, et communicaturus satisfaciat lacrimis et orationibus, et confidens in domini miseratione, accedat ad eucharistiam intrepidus et securus.
+	Sed hoc de illo dico, quem mortalia peccata non gravant.
+	Item dixerit quispiam non cotidie accipiendam eucharistiam, alius affirmat cotidie.
+	Faciat unusquisque quod secundum fidem suam pie credit esse faciendum.
+	Neque enim litigarunt inter se aut quisquam eorum se alteri praeposuit Zachaeus et ille centurio, cum alter eorum gaudenter in domo sua susceperit dominum, alter dixerit domino: domine non sum dignus ut intres sub tectum meum, ambo salvatorem honorificantes, quamvis non uno modo, ambo peccatis miseri, ambo misericordiam consecuti.
+	Ad hoc valet quod manna secundum propriam voluntatem in ore cuiusque sapiebat.</p>
+Si quotiescumque effunditur sanguis Christi, in remissionem peccatorum funditur, debeo illum semper accipere, ut semper mihi peccata dimittantur.
+	Qui semper pecco, semper debeo habere medicinam.
+</div1>
+<div1><head>noct. 4 resp. 2</head>
+<A NAME="91414"/><p> Immolabit haedum universa multitudo filiorum Israel, et sument de sanguine eius ac ponent super utrumque postem et insuper liminaribus domorum in quibus comedent illum.
+<l></l></p><p> Et edent carnes nocte illa assas igni et azymos panes cum lactucis agrestibus.
+	Et sument de sanguine eius ac ponent super utrumque postem et insuper liminaribus domorum in quibus comedent illum.</p>
+</div1>
+<div1><head>noct. 4 l. 12</head>
+<A NAME="91415"/><p> Qui scelerate vivunt in ecclesia, et communicare non desinunt, putantes se tali communione mundari, discant nihil ad emundationem proficere sibi, dicente propheta: quid est quod dilectus meus fecit in domo mea scelera multa? Numquid carnes sanctae auferunt a te malitias tuas? Et apostolus: probet, inquit, se homo, et sic de pane illo edat et de calice bibat.</p>
+Non iste panis est qui vadit in corpus, sed panis vitae aeternae, qui animae nostrae substantiam fulcit.
+	Iste panis cotidianus est.
+	Accipe cotidie quod cotidie tibi prosit.
+	Sic vive ut cotidie merearis accipere.
+Sancta malis possunt obesse.
+	Bonis sunt ad salutem, malis ad iudicium.
+	Unde apostolus: qui manducat et bibit indigne, iudicium sibi manducat et bibit.
+	Non quia illa res mala est, sed quia malus male accipit quod bonum est.
+	Non enim mala erat buccella quae Iudae data est a domino.
+	Salutem medicus dedit, sed quia ille qui indignus erat accepit, ad perniciem suam accepit.
+Non prohibeat dispensator pingues terrae mensam domini manducare, sed exactorem moneat timere.
+Sicut Iudas, cum buccellam tradidit dominus, non malum accipiendo, sed bonum male accipiendo, locum praebuit diabolo, sic indigne quisquis sumens corpus Christi non efficit ut, quia malus est, malum sit, aut quia ad salutem non accipit, nihil accipit.
+	Corpus enim et sanguis domini nihilominus erat in illis, quibus dicebat apostolus: qui manducat et bibit indigne, iudicium sibi manducat et bibit.
+	Sed quomodo manducandus est Christus? Quomodo ipse dicit: qui enim manducat carnem meam et bibit sanguinem meum digne, in me manet et ego in eo.
+	Et si indigne accipit sacramentum, acquirit magnum tormentum.
+</div1>
+<div1><head>noct. 4 resp. 3</head>
+<A NAME="91416"/><p> Cumque operuisset ros superficiem terrae apparuit in solitudine minutum et quasi pilo tunsum in similitudinem pruinae super terram.
+<l></l></p><p> Iste est panis quem dominus dedit vobis ad vescendum.
+	Apparuit in solitudine minutum et quasi pilo tunsum in similitudinem pruinae super terram.
+	Gloria patri et filio et spiritui sancto.
+	Tunsum in similitudinem pruinae super terram.</p>
+<p><emph><l><A NAME="91417"/>Ad Laudes</l></emph></p>
+</div1>
+<div1><head>laudes 1 antiph. 1</head>
+<A NAME="91418"/><p> Memoriam fecit mirabilium suorum misericors et miserator dominus, escam dedit timentibus se, alleluia.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>laudes 1 ps. 1</head>
+<A NAME="91419"/>
+Dominus regnavit,
+<l>decore indutus est.</l>
+<l>Indutus est dominus fortitudine,</l>
+<l>et praecinxit se,</l>
+<l>etenim firmavit orbem terrae,</l>
+<l>qui non commovebitur.</l>
+<l>Parata sedis tua, ex tunc a saeculo tu es.</l>
+<l>Elevaverunt flumina, domine,</l>
+<l>elevaverunt flumina vocem suam.</l>
+<l>Elevabunt flumina fluctus suos</l>
+<l>a vocibus aquarum multarum.</l>
+<l>Mirabiles elationes maris.</l>
+<l>Mirabilis in altis dominus.</l>
+<l>Testimonia tua credibilia facta sunt nimis.</l>
+<l>Domum tuam decet sanctitudo, domine,</l>
+<l>in longitudine dierum.
+</l>
+<p><l></l></p><p><A NAME="91420"/></p><p> Memoria mea in generationes saeculorum: qui edunt me adhuc esurient, et qui bibunt me adhuc sitient, alleluia.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>laudes 1 ps. 2</head>
+<A NAME="91421"/>
+Iubilate domino omnis terra.
+<l>Servite domino in laetitia.</l>
+<l>Introite in conspectu eius in exultatione.</l>
+<l>Scitote quoniam dominus ipse est Deus:</l>
+<l>ipse fecit nos, et non ipsi nos,</l>
+<l>populus eius et oves pascuae eius.</l>
+<l>Introite portas eius in confessione,</l>
+<l>atria eius in hymnis.</l>
+<l>Confitemini illi, laudate nomen eius,</l>
+<l>quoniam suavis dominus:</l>
+<l>in aeternum misericordia eius,</l>
+<l>et usque in generationem et generationem</l>
+<l>veritas eius.
+</l>
+<p><l></l></p><p><A NAME="91422"/></p><p> Omnes eamdem escam spiritalem manducaverunt et omnes eumdem potum spiritalem biberunt; bibebant autem de spiritali consequente eos petram: petra autem erat Christus, alleluia.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>laudes 1 ps. 3</head>
+<A NAME="91423"/>
+Deus, Deus meus, ad te de luce vigilo.
+<l>Sitivit in te anima mea,</l>
+<l>quam multipliciter tibi caro mea.</l>
+<l>In terra deserta et invia et inaquosa,</l>
+<l>sic in sancto apparui tibi,</l>
+<l>ut viderem virtutem tuam et gloriam tuam,</l>
+<l>quoniam melior est misericordia tua super vitas:</l>
+<l>labia mea laudabunt te.</l>
+<l>Sic benedicam te in vita mea:</l>
+<l>in nomine tuo levabo manus meas.</l>
+<l>Sicut adipe et pinguidine repleatur anima mea,</l>
+<l>et labia exultationis laudabit os meum.</l>
+<l>Si memor fui tui super stratum meum,</l>
+<l>in matutinis meditabar in te,</l>
+<l>quia fuisti adiutor meus,</l>
+<l>et in velamento alarum tuarum exultabo.</l>
+<l>Adhesit anima mea post te.</l>
+<l>Me suscepit dextera tua.</l>
+<l>Ipsi vero in vanum quaesierunt animam meam.</l>
+<l>Introibunt in inferiora terrae.</l>
+<l>Tradentur in manus gladii.</l>
+<l>Partes vulpium erunt.</l>
+<l>Rex vero laetabitur in Deo.</l>
+<l>Laudabitur omnis qui iurat in eo,</l>
+<l>quia obstructum est os loquentium iniqua.
+</l>
+<p><l></l></p><p><A NAME="91424"/></p><p> Nolo vos socios fieri daemoniorum, quia non potestis calicem domini bibere et calicem daemoniorum: non potestis mensae domini participes esse et mensae daemoniorum, alleluia.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>laudes 1 ps. 4</head>
+<A NAME="91425"/>
+Benedicite, omnia opera domini, domino;
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, Angeli domini, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, caeli , domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, aquae omnes, quae super caelos sunt, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, omnes virtutes domini, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, sol et luna, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, stellae caeli, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, omnis imber et ros , domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, omnes spiritus Dei, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, ignis et aestus, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, frigus et aestus, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, rores et pruina, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite gelu et frigus, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, glacies et nives, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, noctes et dies, domino.</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, lux et tenebrae, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, fulgura et nubes, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicat terra dominum;</l>
+<l>laudet et superexaltet eum in saecula.</l>
+<l>Benedicite, montes et colles, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, universa germinantia in terra, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, fontes, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, maria et flumina, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, cete, et omnia quae moventur in aquis, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, omnes volucres caeli, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, omnes bestiae et pecora, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, filii hominum, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedic, Israel, domino;</l>
+<l>laudet et superexaltet eum in saecula.</l>
+<l>Benedicite, sacerdotes domini, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, servi domini, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, spiritus et animae iustorum, domino,</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, sancti et humiles corde, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Benedicite, Anania, Azaria, Misael, domino;</l>
+<l>laudate et superexaltate eum in saecula.</l>
+<l>Quia eruit nos de inferno,</l>
+<l>et salvos fecit de manu mortis;</l>
+<l>et liberavit nos de medio ardentis flammae,</l>
+<l>et de medio ignis eruit nos.
+</l>
+<p><l></l></p><p><A NAME="91426"/></p><p> Qui habet aures audiendi audiat quid spiritus Dei dicat ecclesiis: vincenti dabo manna absconditum, alleluia.</p>
+<p><emph>Psalmus</emph>
+</p>
+</div1>
+<div1><head>laudes 1 ps. 5</head>
+<A NAME="91427"/>
+Laudate dominum de caelis.
+<l>Laudate eum in excelsis.</l>
+<l>Laudate eum omnes Angeli eius.</l>
+<l>Laudate eum omnes virtutes eius.</l>
+<l>Laudate eum sol et luna.</l>
+<l>Laudate eum omnes stellae et lumen.</l>
+<l>Laudate eum caeli caelorum,</l>
+<l>et aqua quae super caelum est.</l>
+<l>Laudent nomen domini,</l>
+<l>quia ipse dixit, et facta sunt;</l>
+<l>ipse mandavit, et creata sunt.</l>
+<l>Statuit ea in saeculum,</l>
+<l>et in saeculum saeculi.</l>
+<l>Praeceptum posuit, et non praeteribit.</l>
+<l>Laudate dominum de terra,</l>
+<l>dracones et omnes abyssi,</l>
+<l>ignis, grando, nix, glacies,</l>
+<l>spiritus procellarum,</l>
+<l>quae faciunt verbum eius,</l>
+<l>montes et omnes colles,</l>
+<l>ligna fructifera, et omnes cedri,</l>
+<l>bestiae et universa pecora,</l>
+<l>serpentes et volucres pinnatae,</l>
+<l>reges terrae et omnes populi,</l>
+<l>principes et omnes iudices terrae.</l>
+<l>Iuvenes et virgines,</l>
+<l>senes cum iunioribus</l>
+<l>laudent nomen domini,</l>
+<l>quia exaltatum est nomen eius solius.</l>
+<l>Confessio eius super caelum et terram,</l>
+<l>et exaltabit cornu populi sui hymnus,</l>
+<l>omnibus sanctis eius,</l>
+<l>filiis Israhel,</l>
+<l>populo adpropinquanti sibi.</l>
+<p><l>Cantate domino canticum novum.</l>
+<l>Laus eius in ecclesia sanctorum.</l>
+<l>Laetetur Israhel in eo qui fecit eum,</l>
+<l>et filii Sion exultent in rege suo.</l>
+<l>Laudent nomen eius in choro.</l>
+<l>In tympano et psalterio psallant ei,</l>
+<l>quia beneplacitum est domino in populo suo,</l>
+<l>et exaltabit mansuetos in salute.</l>
+<l>Exultabunt sancti in gloria.</l>
+<l>Laetabuntur in cubilibus suis.</l>
+<l>Exaltationes Dei in gutture eorum,</l>
+<l>et gladii ancipites in manibus eorum</l>
+<l>ad faciendam vindictam in nationibus,</l>
+<l>increpationes in populis,</l>
+<l>ad alligandos reges eorum in conpedibus,</l>
+<l>et nobiles eorum in manicis ferreis,</l>
+<l>ut faciant in eis iudicium conscriptum:</l>
+<l>gloria haec est omnibus sanctis eius.</l></p>
+<p><l>Laudate dominum in sanctis eius.</l>
+<l>Laudate eum in firmamento virtutis eius.</l>
+<l>Laudate eum in virtutibus eius.</l>
+<l>Laudate eum secundum multitudinem magnitudinis eius.</l>
+<l>Laudate eum in sono tubae.</l>
+<l>Laudate eum in psalterio et cithara.</l>
+<l>Laudate eum in tympano et choro.</l>
+<l>Laudate eum in cordis et organo.</l>
+<l>Laudate eum in cymbalis bene sonantibus.</l>
+<l>Laudate eum in cymbalis iubilationis.</l>
+<l>Omnis spiritus laudet dominum.</l></p>
+
+<p><l></l></p><p><A NAME="91428"/></p><p> Omnis pontifex ex hominibus assumptus pro hominibus constituitur in hiis quae sunt ad Deum, ut offerat dona et sacrificia pro peccatis.</p>
+<l>Hymnus
+
+</l></div1>
+<div1><head>laudes 1 hymnus 1 Verbum supernum</head>
+<A NAME="91429"/>
+Verbum supernum prodiens
+<l>nec patris linquens dexteram,</l>
+<l>ad opus suum exiens</l>
+<l>venit ad vitae vesperam.</l>
+<p><l>In mortem a discipulo</l>
+<l>suis tradendus aemulis</l>
+<l>prius in vitae ferculo</l>
+<l>se tradidit discipulis.</l></p>
+<p><l>Quibus sub bina specie</l>
+<l>carnem dedit et sanguinem,</l>
+<l>ut duplicis substantiae</l>
+<l>totum cibaret hominem.</l></p>
+<p><l>Se nascens dedit socium,</l>
+<l>convescens in edulium,</l>
+<l>se moriens in pretium,</l>
+<l>se regnans dat in praemium.</l></p>
+<p><l>O salutaris hostia,</l>
+<l>quae caeli pandis ostium,</l>
+<l>bella premunt hostilia,</l>
+<l>da robur, fer auxilium.</l></p>
+<p><l>Uni trinoque domino</l>
+<l>sit sempiterna gloria,</l>
+<l>qui vitam sine termino</l>
+<l>nobis donet in patria.</l></p>
+<p><l>Amen.</l></p>
+
+<p><l></l></p><p><A NAME="91430"/></p><p> Omnia a te expectant, alleluia.
+<l></l></p><p> Ut des illis escam in tempore opportuno, alleluia.</p>
+</div1>
+<div1><head>laudes 1 antiph. 6</head>
+<A NAME="91431"/><p> Dixit Iesus: ego sum panis vitae; qui venit ad me non esuriet, et qui crediderit in me non sitiet in aeternum, alleluia.</p>
+<l>Benedictus
+
+<p><A NAME="91432"/>
+Benedictus dominus Deus Israel,</p></l>
+<l>quia visitavit, et fecit redemptionem plebis suae:</l>
+<l>et erexit cornu salutis nobis:</l>
+<l>in domo David pueri sui.</l>
+<l>Sicut locutus est per os sanctorum,</l>
+<l>qui a saeculo sunt, prophetarum eius:</l>
+<l>salutem ex inimicis nostris,</l>
+<l>et de manu omnium qui oderunt nos:</l>
+<l>ad faciendam misericordiam cum patribus nostris;</l>
+<l>et memorari testamenti sui sancti.</l>
+<l>Iusiurandum, quod iuravit ad Abraham patrem nostrum,</l>
+<l>daturum se nobis:</l>
+<l>ut sine timore, de manu inimicorum nostrorum liberati,</l>
+<l>serviamus illi.</l>
+<l>In sanctitate et iustitia coram ipso,</l>
+<l>omnibus diebus nostris.</l>
+<l>Et tu puer, propheta Altissimi vocaberis:</l>
+<l>praeibis enim ante faciem domini parare vias eius:</l>
+<l>ad dandam scientiam salutis plebi eius:</l>
+<l>in remissionem peccatorum eorum:</l>
+<l>per viscera misericordiae Dei nostri:</l>
+<l>in quibus visitavit nos, oriens ex alto:</l>
+<l>illuminare his qui in tenebris et in umbra mortis sedent:</l>
+<l>ad dirigendos pedes nostros in viam pacis.
+</l>
+<p><emph><l><A NAME="91433"/>Ad Tertiam</l></emph></p>
+</div1>
+<div1><head>hora 3 antiph. 1</head>
+<A NAME="91434"/><p> Memoria fecit mirabilium suorum misericors et miserator dominus, escam dedit timentibus se, alleluia.</p>
+</div1>
+<div1><head>hora 3 cap. 1</head>
+<A NAME="91435"/><p> Dominus Iesus Christus in qua nocte tradebatur, accepit panem, et gratias agens fregit, et dixit: accipite et manducate: hoc est corpus meum quod pro vobis tradetur; hoc facite in meam commemorationem.</p>
+</div1>
+<div1><head>hora 3 resp. 1</head>
+<A NAME="91436"/><p> Parasti in conspectu meo mensam, alleluia, alleluia.
+<l></l></p><p> Adversus eos qui tribulant me, alleluia.
+	Gloria patri et filio et spiritui sancto, sicut erat in principio et nunc et semper, et in secula seculorum.
+	Amen.</p>
+</div1>
+<div1><head>hora 3 v.</head>
+<A NAME="91437"/><p> Oculi omnium in te sperant, domine, alleluia.
+<l></l></p><p> Et tu das illis escam in tempore opportuno, alleluia.</p>
+<p><emph><l><A NAME="91438"/>Ad Sextam</l></emph></p>
+</div1>
+<div1><head>hora 6 antiph. 1</head>
+<A NAME="91439"/><p> Omnes eamdem escam spiritalem manducaverunt et omnes eumdem potum spiritalem biberunt; bibebant autem de spiritali consequente eos petram: petra autem erat Christus, alleluia.</p>
+</div1>
+<div1><head>hora 6 cap. 1</head>
+<A NAME="91440"/><p> Quotiescumque manducabitis panem hunc, et calicem bibetis, mortem domini annuntiabitis donec veniat.</p>
+</div1>
+<div1><head>hora 6 resp. 1</head>
+<A NAME="91441"/><p> Panem Angelorum manducavit homo, alleluia, alleluia.
+<l></l></p><p> Cibaria misit eis in abundantia, alleluia.</p>
+</div1>
+<div1><head>hora 6 v.</head>
+<A NAME="91442"/><p> Dominus pars hereditatis meae, alleluia.
+<l></l></p><p> Tu es qui restitues hereditatem meam mihi, alleluia.</p>
+<p><emph><l><A NAME="91443"/>Ad Nonam</l></emph></p>
+</div1>
+<div1><head>hora 9 antiph. 1</head>
+<A NAME="91444"/><p> Qui habet aures audiendi audiat quid spiritus Dei dicat ecclesiis: vincenti dabo manna absconditum, alleluia.</p>
+</div1>
+<div1><head>hora 9 cap.</head>
+<A NAME="91445"/><p> Quicumque manducaverit panem, et biberit calicem domini indigne reus erit corporis et sanguinis domini.</p>
+</div1>
+<div1><head>hora 9 resp. 1</head>
+<A NAME="91446"/><p> Calicem salutaris accipiam, alleluia, alleluia.
+<l></l></p><p> Et nomen domini invocabo, alleluia.</p>
+</div1>
+<div1><head>hora 9 v.</head>
+<A NAME="91447"/><p> Impinguasti in oleo caput meum, alleluia.
+<l></l></p><p> Et calix meus inebrians quam praeclarus est, alleluia.</p>
+<p><emph><l><A NAME="91448"/>Ad Vesperas</l></emph></p>
+</div1>
+<div1><head>vesp. 2 antiph. 1</head>
+<A NAME="91449"/><p> Amen amen dico vobis, non dedit Moyses vobis panem de caelo, sed pater meus dat vobis panem de caelo verum.
+	Panis enim Dei est, qui de caelo descendit, et dat vitam mundo.</p>
+<l>Magnificat
+
+</l></div1>
+<div1><head>vesp. 2 hymnus 1</head>
+<A NAME="91450"/>
+Magnificat anima mea dominum:
+<l> et exultavit spiritus meus in Deo salutari meo.</l>
+<l>Quia respexit humilitatem ancillae suae:</l>
+<l>ecce enim ex hoc beatam me dicent omnes generationes.</l>
+<l>Quia fecit mihi magna qui potens est:</l>
+<l>et sanctum nomen eius.</l>
+<l>Et misericordia eius a progenie in progenies</l>
+<l>timentibus eum.</l>
+<l>Fecit potentiam in brachio suo:</l>
+<l>dispersit superbos mente cordis sui.</l>
+<l>Deposuit potentes de sede,</l>
+<l>et exaltavit humiles.</l>
+<l>Esurientes implevit bonis:</l>
+<l>et divites dimisit inanes.</l>
+<l>Suscepit Israel puerum suum,</l>
+<l>recordatus misericordiae suae.</l>
+<l>Sicut locutus est ad patres nostros,</l>
+<l>Abraham et semini eius in saecula.
+</l>
+<p><emph><l><A NAME="91451"/>Infra octavam</l></emph></p>
+<A NAME="91452"/>Secunda die
+</div1>
+<div1><head>dies 2 l. 1</head>
+<A NAME="91453"/><p> Quia corpus assumptum ablaturus erat dominus ab oculis et illaturus sideribus, necessarium erat, ut in die cenae sacramentum nobis corporis et sanguinis consecraret, ut coleretur iugiter per mysterium quod semel offerebatur in pretium, ut quia cotidiana et indefessa currebat pro hominum salute redemptio, perpetua esset etiam redemptionis oblatio, et perennis victima illa viveret in memoria, et semper praesens esset in gratia, vere unica et perfecta hostia, fide existimanda non specie, neque exteriori censenda visu, sed interiori affectu.
+	Unde merito caelestis confirmat auctoritas, quia: caro mea vere est cibus et sanguis meus vere est potus.
+	Recedat ergo omne infidelitatis ambiguum, quoniam quidem qui auctor est muneris, ipse est et testis veritatis.
+	Nam et invisibilis sacerdos visibiles creaturas in substantiam corporis sui et sanguinis verbo suo secreta potestate convertit, ita dicens: accipite et comedite: hoc est corpus meum.
+	Et sanctificatione repetita: accipite et bibite: hic est sanguis meus.
+	Ergo sicut ad nutum praecipientis domini repente ex nihilo substiterunt excelsa caelorum, profunda fluctuum, vasta terrarum; ita, pari potestate in spiritualibus sacramentis, ubi praecipit virtus, servit effectus.</p>
+</div1>
+<div1><head>dies 2 l. 2</head>
+<A NAME="91454"/><p> Quanta itaque et quam celebranda beneficia vis divinae benedictionis operetur, et quomodo tibi novum et impossibile esse non debeat, quod in Christi substantiam terrena et mortalia convertuntur, te ipsum qui in Christo es regeneratus interroga.
+	Dudum alienus a vita, peregrinus a misericordia et a salutis via, intrinsecus mortuus exsulabas.
+	Subito initiatus Christi legibus et salutaribus ministeriis innovatus in corpus ecclesiae non videndo sed credendo transilisti, et de filio perditionis adoptivus Dei filius fieri occulta puritate meruisti; in mensura visibili permanens, maior factus es te ipso invisibiliter, sine quantitatis augmento.
+	Cum idem atque ipse esses, multo alter fidei processibus exstitisti.
+	In exteriori nihil additum est, et totum in interiori mutatum est.
+	Ac sic homo Christi filius effectus, et Christus hominis in mente formatus est.
+	Sicut ergo sine corporali sensu, vilitate praeterita deposita, subito novam indutus es dignitatem; et sicut hoc quod Deus in te laesa curavit, infecta diluit, maculata detersit, non oculis sed sensibus tuis sunt credita: et cum reverendum ad altare cibis spiritualibus satiandus ascendis, sacrum Dei tui corpus et sanguinem fide respice, honora et mirare, mente continge, cordis manu suscipe, et maxime mente totum haustu interioris hominis assume.</p>
+</div1>
+<div1><head>dies 2 l. 3</head>
+<A NAME="91455"/><p> In Christo semel oblata est hostia ad salutem sempiternam potens.
+	Quid ergo nos dicimus? Nonne per singulos dies offerimus? Sed ad recordationem mortis eius; et una est hostia, non multae.
+	Quomodo una et non multae? Quia semel oblatus est Christus.
+	Hoc autem sacrificium exemplum est illius, idipsum et semper idipsum.
+	Proinde hoc idem est sacrificium unum solum.
+	Alioquin diceretur, quoniam in multis locis offertur: multi sunt Christi.
+	Nequaquam, sed unus ubique Christus, et hic plenus existens et illic plenus.
+	Sicut enim quod ubique offertur unum est corpus, et non multa corpora, ita et unum sacrificium.
+	Pontifex autem est ille, qui hostiam obtulit nos mundantem.
+	Ipsam offerimus etiam nunc, quae tunc oblata consumi non potest.
+	Quod nos facimus, in commemorationem fit eius quod factum est: hoc enim facite, ait, in meam commemorationem.</p>
+<p><emph><l><A NAME="91456"/>Tertia die</l></emph></p>
+</div1>
+<div1><head>dies 3 l. 1</head>
+<A NAME="91457"/><p> In sacramentorum oblationibus, quae inter missarum solemnia offeruntur, panis tantum et vinum aqua permixtum in sacrificium offerantur.
+	Non enim debet in calice domini aut vinum solum, aut aqua sola offerri, sed utrumque permixtum, quia utrumque ex latere eius in passione sua profluxisse legitur.</p>
+Calix etiam dominicus vino et aqua permixtus debet offerri, quia videmus in aqua populum intelligi, in vino vero ostendi sanguinem Christi.
+	Ergo cum in calice vinum aqua miscetur, Christo populus adunatur, et credentium plebs ei in quem credit copulatur et iungitur; quae copulatio et coniunctio aquae et vini sic miscetur in calice domini, ut mixtio illa non possit separari.
+	Nam si vinum tantum quis offerat, sanguis Christi incipit esse sine nobis.
+	Si vero aqua sit sola, plebs incipit esse sine Christo.
+	Ergo quando botrus solus offertur, in quo vini efficientia tantum designatur, salutis nostrae sacramentum negligitur quod aqua significatur.
+</div1>
+<div1><head>dies 3 l. 2</head>
+<A NAME="91458"/><p> Huius sacramenti ritum Melchisedech ostendit ubi panem et vinum Abrahae obtulit.
+	Sed tu mihi dicis: quomodo ergo Melchisedech vinum et panem tantum obtulit? Quid sibi vult admixtio aquae? Rationem accipe.
+	Primo omnium figura fuit quae ante praecessit tempore Moysi.
+	Quia cum sitiret populus Iudaeorum et murmuraret quod aquam inveniri non posset, iussit dominus Moysi ut tangeret petram cum virga.
+	Tetigit petram et petra undam maximam fudit, sicut apostolus dicit: bibebant autem de consequenti petra, petra autem erat Christus.
+	Non immobilis petra, quae populum sequebatur.
+	Et tu bibe ut te Christus sequatur.
+	Vide mysterium: Moyses, hic est propheta; virga, hoc est verbum Dei.
+	Sacerdos verbo Dei tangit petram et fluit aqua et bibit populus Dei.
+	Tangit ergo sacerdos calicem, redundat aqua in calice, et salit in vitam aeternam, et bibit populus Dei, qui Dei gratiam consecutus est.</p>
+</div1>
+<div1><head>dies 3 l. 3</head>
+<A NAME="91459"/><p> Didicisti hoc.
+	Ergo accipe et aliud.
+	In tempore dominicae passionis, cum sabbatum magnum instaret, quia diu in cruce vivebat dominus noster Iesus Christus et latrones, missi sunt qui percuterent eos.
+	Qui venientes invenerunt defunctum dominum nostrum Iesum Christum.
+	Tunc unus de militibus lancea tetigit latus, et de latere eius aqua fluxit et sanguis, aqua autem ut mundaret, sanguis ut redimeret.
+	Quare de latere? Quia unde culpa, inde gratia.
+	Culpa per feminam, gratia per dominum nostrum Iesum Christum.</p>
+Sic vero calix domini non est aqua sola et vinum solum, nisi utrumque misceatur, quomodo nec corpus domini potest esse farina sola, nisi utrumque adunatum fuerit et copulatum et unius compage solidatum.
+In sacramento corporis et sanguinis domini nihil amplius offeratur quam quod ipse dominus tradidit, hoc est panis et vinum aqua mixtum, nec amplius in sacrificiis offeratur, quam de uvis et frumento.
+Haec tria unum sunt in Christo Iesu.
+	Haec hostia et oblatio Dei in odorem suavitatis.
+<p><emph><l><A NAME="91460"/>Quarta die</l></emph></p>
+</div1>
+<div1><head>dies 4 l. 1</head>
+<A NAME="91461"/><p> In Christo pater et Christus in nobis unum in hiis esse nos faciunt.
+	Si vere carnem corporis nostri Christus assumpsit, et vere homo ille Christus est, nos quoque vere sub mysterio carnem corporis sui sumimus, et per hoc unum erimus, quia pater in eo est, et ille in nobis. </p><p> voluntatis unitas asseritur, cum naturalis per sacramentum proprietas perfectum sacramentum sit unitatis? Non est humano aut saeculi sensu de hiis rebus loquendum, neque per violentiam atque imprudentem praedicationem dictorum caelestium sanitati alienae atque impiae intelligentiae perversitas extorquenda est.
+	De naturali enim in nobis Christi veritate vel unitate quae dicimus, nisi quae dixerimus ab eo didicimus, stulte atque impie dicimus.
+	Ipse enim ait: caro mea vere est esca et sanguis meus vere est potus.
+	Qui edit carnem meam et bibit sanguinem meum, in me manet, et ego in eo.</p>
+</div1>
+<div1><head>dies 4 l. 2</head>
+<A NAME="91462"/><p> De veritate carnis et sanguinis non relictus est ambigendi locus.
+	Nunc enim et ipsius domini professione et fide nostra, vere caro est et vere sanguis est; et haec accepta atque hausta efficiunt, ut et nos in Christo et Christus in nobis sit.
+	Est ergo ipse in nobis per carnem.
+	Quod autem in eo per sacramentum communicatae carnis et sanguinis simus, ipse testatur dicens: vos autem me videbitis, quia ego vivo et vos vivetis, quia ego in patre meo, et vos in me, et ego in vobis.
+	Si voluntatis tantum intelligi unitatem vellet, ut heretici asserunt, cur gradum quemdam atque ordinem consummandae unitatis exposuit, nisi ut ille in patre per naturam divinitatis, nos contra in eo per corporalem eius nativitatem, et ille rursus in nobis per sacramentorum inesse mysterium crederetur; ac sic perfecta mediatorem unitas doceret, cum nobis in se permanentibus, ipse maneret in patre, et in patre manens, maneret in nobis; et ita ad unitatem proficisceremus, cum qui in eo naturaliter secundum nativitatem inest, nos quoque in eo naturaliter inessemus, ipso in nobis naturaliter permanente?</p>
+</div1>
+<div1><head>dies 4 l. 3</head>
+<A NAME="91463"/><p> Quod autem haec in nobis naturaliter unitas sit, ipse testatus est: qui edit carnem meam et bibit sanguinem meum in me manet et ego in eo.
+	Non enim in eo erit, nisi in quo ipse fuerit, eius tamen in se assumptam hominis carnem, qui suam sumpserat.
+	Sicut misit me, inquit, pater vivens, et ego vivo per patrem, qui manducaverit carnem meam, ipse vivet per me.
+	Quomodo per patrem vivit, eodem modo nos per carnem eius vivemus.
+	Haec ergo vitae nostrae causa est, quod in nobis manere per carnem Christum habemus victuri per eum ea conditione qua vivit ille per patrem.
+	Si ergo nos naturaliter secundum carnem per eum vivimus, id est naturam carnis suae adepti, quomodo non naturaliter secundum spiritum in se patrem habeat, cum vivat ipse per patrem? Corpus Christi quod sumitur de altari figura est, dum panis et vinum extra videtur; veritas autem, dum corpus Christi et sanguis in veritate interius creditur.</p>
+<p><emph><l><A NAME="91464"/>Quinta die</l></emph></p>
+</div1>
+<div1><head>dies 5 l. 1</head>
+<A NAME="91465"/><p> Haec salutaris victima illam nobis mortem unigeniti per mysterium reparat, qui, licet surgens a mortuis iam non moritur, mors illi ultra non dominabitur, tamen in seipso immortaliter et incorruptibiliter vivens, iterum in hoc ministerio moritur.
+	Eius quoque ibique corpus sumitur, eius caro in populi salutem partitur, eius sanguis non iam in manus infidelium sed in ora fidelium funditur.
+	Hinc ergo pensemus, quale sit hoc sacrificium quod pro nostra absolutione passionem unigeniti filii semper imitatur.
+	Quis enim fidelium habere dubium possit in ipsa immolationis hora ad sacerdotis vocem caelos aperiri, et in illo Iesu Christi mysterio choros Angelorum adesse, summa et ima sociari, unum quid ex invisibilibus atque visibilibus fieri.
+	Idem.
+	Uno, inquit, eodemque tempore ac momento, et in caelo rapitur ministerio Angelorum consociandum corpori Christi, et ante oculos sacerdotis in altari videtur.</p>
+</div1>
+<div1><head>dies 5 l. 2</head>
+<A NAME="91466"/><p> Tanta est unitas ecclesiae in Christo, ut unus ubique sit panis corporis Christi, et unus sit calix sanguinis eius.
+	Calix enim quem sacerdos catholicus sacrificat non est alius nisi ipse quem dominus apostolis tradidit, quia sicut divinitas verbi Dei una est quae totum implet mundum, ita licet multis locis et innumerabilibus diebus illud corpus consecretur, non sunt tamen multa corpora Christi, neque multi calices, sed unum corpus Christi et unus sanguis cum illo, quod sumpsit in utero virginis et quod dedit apostolis.
+	Divinitas enim verbi replet illud quod ubique est, et coniungit ac facit ut sicut ipsa una est, ita et unum corpus eius sit in veritate.
+	Unde animadvertendum est, quia sive plus sive minus quis inde percipiat, omnes aequaliter corpus Christi integerrime sumunt, et generaliter omnes, et specialiter unusquisque.</p>
+</div1>
+<div1><head>dies 5 l. 3</head>
+<A NAME="91467"/><p> Mysterium fidei dicitur, quia credere debes, quod ibi salus nostra consistat.
+	Providens enim nobis dominus dedit hoc sacramentum salutis, ut quia nos cotidie peccamus, et ille iam mori non potest, per istud sacramentum remissionem consequamur.
+	Cotidie enim ipse comeditur et bibitur in veritate, sed integer et vivus atque immaculatus permanet.
+	Et ideo magnum et pavendum mysterium est, quia aliud videtur et aliud intelligitur.
+	Sed cum mysterium sit, </p><p> unum corpus et sanguis dicitur? Figuram panis et vini habet, faciente domino, quia non habemus in usum carnem crudam comedere et bibere sanguinem.</p>
+Sicut verus est filius Dei dominus noster Iesus Christus, non quemadmodum homines per gratiam, sed quasi filius <p> substantia patris, ita vera est Christi caro, sicut ipse dixit, quam accipimus, et verus sanguis est potus.
+	Ego sum, inquit, panis vivus qui de caelo descendi.
+	Sed caro non descendit de caelo.
+	Quomodo ergo descendit de caelo panis vivus? Quia idem dominus noster Iesus consors est divinitatis et corporis.
+	Et tu qui accipis carnem, divinae eius substantiae in illo participas alimento.</p>
+<p><emph><l><A NAME="91468"/>Sexta die</l></emph></p>
+</div1>
+<div1><head>dies 6 l. 1</head>
+<A NAME="91469"/><p> Quia passus est pro nobis dominus, commendavit nobis in isto sacramento sanguinem suum et corpus, quod etiam fecit nosmetipsos.
+	Nam et nos corpus ipsius facti sumus, et per misericordiam ipsius, quod accipimus nos sumus.
+	Recordamini.
+	Et vos non fuistis, et creati estis, et ad aream dominicam comportati estis, laboribus boum, id est annuntiantium evangelium, triturati estis.
+	Quando catechumeni deferebamini, in horreo servabamini.
+	Nomina vestra dedistis, moli coepistis ieiuniis, exorcismis.
+	Postea ad aquam venistis, et conspersi estis, et panis dominicus facti estis.
+	Ecce quod accepistis.
+	Quomodo ergo unum videtis esse quod factum est, sic unum estote vos, diligentes vos, scilicet tenendo unam fidem, unam spem, individuam caritatem.
+	Heretici, quando hoc accipiunt sacramentum, testimonium contra se accipiunt, quia illi quaerunt divisionem, cum panis iste indicet unitatem.
+	Sic et vinum in multis racemis fuit, et modo unum est.
+	Vinum est in sua nativitate, calix est post pressuram torcularis.
+	Et vos, post illa ieiunia, post labores, post humilitatem et contritionem, iam in nomine domini, tamquam ad calicem Christi venistis, et ibi vos estis in mensa, et in calice nobiscum vos estis.
+	Simul enim hoc sumimus, simul bibimus, quia simul vivimus.</p>
+</div1>
+<div1><head>dies 6 l. 2</head>
+<A NAME="91470"/><p> Ita dominus noster Iesus Christus nos significavit, nos ad se pertinere voluit, mysterium pacis et unitatis nostrae in mensa consecravit.
+	Qui accipit mysterium unitatis et non tenet vinculum pacis, non mysterium accipit pro se, sed testimonium contra se.
+	Nulli est aliquatenus ambigendum unumquemque fidelium corporis et sanguinis dominici tunc esse participem, quando in baptismate efficitur membrum Christi, nec alienari ab illius panis calicisque consortio, etiam si antequam panem illum comedat calicemque bibat, de hoc saeculo migraverit, in unitate corporis constitutus.
+	Sacramenti quippe illius participatione ac beneficio non privatur, quando in se hoc quod illud sacramentum significat invenitur.</p>
+Qui manducant et bibunt Christum, vitam manducant et bibunt.
+	Illud manducare est refici, illud bibere est vivere.
+	Quod in sacramento visibiliter sumitur, in ipsa veritate spiritualiter manducatur et bibitur.
+</div1>
+<div1><head>dies 6 l. 3</head>
+<A NAME="91471"/><p> Manducatur Christus, vivit manducatus quia surrexit occisus.
+	Nec, quando manducamus, partes de illo facimus.
+	Et quidem in sacramento sic fit.
+	Et norunt fideles: quando manducant carnem Christi, unusquisque accipit partem suam.
+	Per partes manducatur in sacramento, et manet integer totus in caelo.
+	Per partes manducatur in sacramento, et manet integer totus in corde tuo.
+	Totus enim erat apud patrem, quando venit in virginem, implevit illam nec recessit ab illo.
+	Veniebat in carnem ut homines eum manducarent et manebat integer apud patrem ut Angelos pasceret.</p>
+Invitat dominus servos, et praeparat eis cibum seipsum.
+	Quis audeat dominum suum manducare? Et tamen ait: qui manducat me vivit propter me.
+	Quando manducatur, vita manducatur, nec occiditur ut manducetur, sed mortuos vivificat.
+	Quando manducatur, reficit sed non deficit.
+Non ergo timeamus, fratres, manducare istum panem ne forte finiamus illum, et postea quod manducemus non inveniamus.
+Quod videtur, calix est et panis, quod etiam oculi renuntiant.
+	Quod autem fides postulat instruenda: panis est corpus Christi, et calix est sanguis.
+	Ista ideo dicuntur sacramenta, quia in eis aliud videtur, aliud intelligitur.
+	Quod videtur speciem habet corporalem, quod intelligitur fructum habet spiritalem.
+<p><emph><l><A NAME="91472"/>Septima die</l></emph></p>
+</div1>
+<div1><head>dies 7 l. 1</head>
+<A NAME="91473"/><p> Nihil in sacrificiis maius potest esse quam corpus et sanguis Christi, nec ulla oblatio hac potior est, sed haec omnes praecellit, quae pura conscientia domino offerenda est, et pura mente sumenda, atque ab omnibus veneranda.
+	Et sicuti potior est ceteris, ita potius excoli et venerari debet.</p>
+Triforme est corpus domini: pars oblatae in calicem missa, corpus Christi quod iam resurrexit monstrat; pars comesta, ambulans adhuc super terram; pars in altari usque ad finem missae remanens, corpus in sepulchro, quia usque in finem saeculi corpora sanctorum in sepulcris erunt.
+Dum frangitur hostia, dum sanguis de calice in ora fidelium funditur, quid aliud quam dominici corporis in cruce immolatio eiusque sanguinis de latere effusio designatur?
+Panis et calix non qualibet sed certa consecratione mysticus nobis fit, non nascitur.
+	Proinde quod ita fit nobis, quamvis sit panis et calix, alimentum est resurrectionis.
+Ante benedictionem alia species nominatur, post benedictionem Christi corpus significatur.
+	In illo sacramento Christus est.
+	Qui manducat hoc corpus, fiat ei remissio peccatorum.
+</div1>
+<div1><head>dies 7 l. 2</head>
+<A NAME="91474"/><p> In illa mystica distributione spiritualis alimoniae, hoc impertitur, hoc sumitur, ut accipientes virtutem caelestis cibi in carnem ipsius qui caro nostra factus est transeamus.
+	Et cibus refectionis est cibus sanguinis.
+	Sicut enim caro Christi vere est cibus, ita sanguis eius vere est potus.
+	Idem est corpus de quo dictum est: caro mea vere est cibus et sanguis meus vere est potus.
+	Circa hoc corpus aquilae sunt, quae alis circumvolant spiritualibus.
+	Unde et idem corpus Christi edimus, ut vitae aeternae possimus esse participes.</p>
+Nos autem in specie panis et vini quam videmus, res invisibiles, id est carnem et <p>, honoramus.
+	Nec similiter comprehendimus has duas species quemadmodum ante consecrationem comprehendebamus, cum fideliter fateamur, ante consecrationem panem esse et vinum quod natura formavit, post consecrationem vere esse carnem et sanguinem Christi quod benedictio consecravit.</p>
+</div1>
+<div1><head>dies 7 l. 3</head>
+<A NAME="91475"/><p> Forte dicas: quomodo vera caro, quomodo verus sanguis, quia similitudinem non video carnis, non video sanguinis veritatem? Primo omnium dixi tibi de sermone Christi, qui operatur ut possit mutare et convertere genera et instituta naturae.
+	Deinde, ubi non tulerunt sermonem Christi discipuli eius, sed audientes quod carnem suam daret manducare et sanguinem suum ad bibendum, recedebant.
+	Solus tamen Petrus dixit: verba vitae aeternae habes, et ego a te quomodo recedam? Ne igitur plures hoc dicerent et ne veluti quidam esset horror cruoris, sed maneret gratia redemptoris, ideo in similitudine quidem accipis sacramentum, sed vere naturae gloriam virtutemque consequeris: ego sum, inquit, panis vivus qui de caelo descendi.</p>
+Sub alia autem specie tribus de causis carnem et sanguinem tradidit Christus, et deinceps sumendum instituit, ut scilicet fides haberet meritum, quae est de his quae non videntur, quia fides non habet meritum cui humana ratio praebet experimentum.
+	Et ideo ne abhorreret animus quod cerneret oculus, quia non habemus usum carnem crudam et sanguinem comedere, quia ergo Christum vorari dentibus fas non est, in mysterio carnem et sanguinem nobis commendavit.
+	Et etiam ideo ne ab incredulis religioni christianae insultaretur.
+<p><emph><l><A NAME="91476"/>Octava die</l></emph></p>
+</div1>
+<div1><head>dies 8 l. 1</head>
+<A NAME="91477"/><p> Nihil rationabilius quam ut sanguinis similitudinem sumamus, ut ita et veritas non desit et ridiculum nullum fiat a paganis quod cruorem occisi bibamus.</p>
+Sed quare sub duplici specie sumitur, cum substantialiter unum totus sit Christus? Ut ostenderetur totam humanam naturam assumpsisse, ut totam redimeret.
+	Panis enim ad carnem refertur, vinum ad animam; quia vinum operatur sanguinem, in quo sedes animae a physicis esse dicitur.
+	Ideo ergo in duabus speciebus celebratur, ut animae et carnis susceptio in Christo et utriusque liberatio in nobis significetur.
+	Valet enim ad tuitionem corporis et animae quod percipimus, quia caro Christi pro salute corporis, sanguis vero pro anima nostra offertur, sicut praesignavit Moyses: caro, inquit, pro corpore vestro offertur, sanguis vero pro anima; sed tamen sub utraque specie sumitur quod ad utrumque valet, quia sub utraque specie sumitur totus Christus.
+</div1>
+<div1><head>dies 8 l. 2</head>
+<A NAME="91478"/><p> Porro illa species visibilis sacramentum est geminae rei, quia utramque rem significat et utriusque rei similitudinem gerit expressam.
+	Nam sicut panis prae ceteris cibis corpus reficit et sustentat, et vinum hominem laetificat atque inebriat, sic caro Christi interiorem hominem plus ceteris gratiis spiritualiter reficit et saginat.</p>
+Unde excellenter eucharistia dicitur, id est bona gratia, quia in hoc sacramento non modo est augmentum virtutis et gratiae, sed ille totus sumitur, qui est fons et origo totius gratiae.
+Habet etiam similitudinem cum re mystica <p> est unitas fidelium, quia sicut ex multis granis conficitur unus panis, et ex multis acinis vinum in unum confluit, sic ex multis fidelium personis unitas ecclesiastica constat.
+	Unde apostolus: unus panis et unum corpus multi sumus.
+	Unus panis et unum corpus ecclesia dicitur, pro eo quod sicut unus panis ex multis granis et unum corpus ex multis membris componitur, sic ecclesia ex multis fidelibus caritate copulante connectitur.</p>
+</div1>
+<div1><head>dies 8 l. 3</head>
+<A NAME="91479"/><p> Credere in Iesum Christum, hoc est manducare panem et vinum.
+	Qui credit, manducat.
+	Invisibiliter saginatur, quia invisibiliter renascitur.
+	Et qui manducat carnem Christi et bibit sanguinem illius vitam habet aeternam.
+	Participatione enim filii, quod est per unitatem corporis et sanguinis eius, homo manducans vivit, non sumens tantum in sacramento, quod et mali faciunt, sed usque ad spiritus participationem, ut in corpore domini tamquam membrum maneat et eius spiritu vegetetur, quod est, dum eius mandatum servat.
+	Ad altare Dei invisibile, quo non accedit iniustus, ille pervenit, qui ad hoc praesens iustificatus accedit.
+	Invenit illic vitam qui hic discernit causam suam.</p>
+Singuli autem accipiunt Christum dominum, et in singulis portionibus totus est, nec per singulos minuitur, sed integrum se praebet in singulis.
+Ubi pars est corporis, est et totum.
+	Eadem ratio est in corpore domini, quae in manna, quod in eius figura praecessit, de quo dicitur: qui plus collegerat non habuit amplius, neque qui minus paraverat habuit minus.
+Illud datum fuit antiquis post transitum maris Rubri, ubi submersis Aegyptiis liberati sunt Hebraei.
+	Ita hoc caeleste manna non nisi regeneratis praestari debet.
+	Corporalis panis ille populum antiquum ad terram promissionis per desertum eduxit, hic caelestis fideles huius saeculi desertum transeuntes in caelum subvehit.
+	Unde recte viaticum appellatur, quia in via nos reficiens usque ad patriam deducit.
+<p><emph><l><A NAME="91480"/>Ad Missam officium</l></emph></p>
+</div1>
+<div1><head>missa 1 v. 1</head>
+<A NAME="91481"/><p> Ego sum panis vivus qui de caelo descendi.
+	Si quis manducaverit ex hoc pane vivet in aeternum, et panis quem ego dabo caro mea est pro mundi vita.</p>
+</div1>
+<div1><head>missa 1 v. 2</head>
+<A NAME="91482"/><p> Panis enim verus est qui de caelo descendit et dat vitam mundo.
+	Gloria patri et filio et spiritui sancto, sicut erat in principio et nunc et semper, et in saecula saeculorum.
+	Amen.</p>
+<p><emph><l><A NAME="91483"/>Kyrie</l></emph></p>
+</div1>
+<div1><head>missa 1 resp. 1</head>
+
+<p> Kyrie, eleison.
+<l></l></p><p> Kyrie, eleison.</p>
+<p><l></l></p><p> Christe, eleison.
+<l></l></p><p> Christe, eleison.</p>
+<p><l></l></p><p> Kyrie, eleison.
+<l></l></p><p> Kyrie, eleison.
+<l></l></p>
+<p><emph><l><A NAME="91484"/>Gloria</l></emph></p>
+
+</div1>
+<div1><head>missa 1 hymnus 1</head>
+
+Gloria in excelsis Deo,
+<l>et in terra pax hominibus</l>
+<l>bonae voluntatis.</l>
+<l>Laudamus te.</l>
+<l>Benedicimus te.</l>
+<l>Adoramus te.</l>
+<l>Glorificamus te.</l>
+<l>Gratias agimus tibi</l>
+<l>propter magnam gloriam tuam.</l>
+<l>Domine Deus, rex caelestis,</l>
+<l>Deus pater omnipotens.</l>
+<l>Domine fili unigenite,</l>
+<l>Iesu Christe.</l>
+<l>Domine Deus, agnus Dei,</l>
+<l>filius patris.</l>
+<l>Qui tollis peccata mundi,</l>
+<l>miserere nobis.</l>
+<l>Qui tollis peccata mundi,</l>
+<l>suscipe deprecationem nostram.</l>
+<l>Qui sedes ad dexteram patris,</l>
+<l>miserere nobis.</l>
+<l>Quoniam tu solus sanctus.</l>
+<l>Tu solus dominus.</l>
+<l>Tu solus altissimus,</l>
+<l>Iesu Christe,</l>
+<l>cum sancto spiritu</l>
+<l>in gloria Dei patris.</l>
+<l>Amen.
+</l>
+<p><l></l></p><p><A NAME="91485"/></p><p>Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos corporis et sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus.
+	Qui vivis et regnas cum Deo patre in unitate spiritus sancti Deus per omnia saecula saeculorum.
+	Amen.</p>
+<p><emph><l><A NAME="91486"/>Lectio epistolae beati Pauli apostoli ad Corinthios</l></emph></p>
+<p> Fratres, ego enim accepi a domino quod et tradidi vobis; quoniam dominus Iesus in qua nocte tradebatur, accepit panem, et gratias agens fregit et dixit: accipite et manducate: hoc est corpus meum, quod pro vobis tradetur; hoc facite in meam commemorationem.
+	Similiter et calicem, postquam cenavit, dicens: hic calix novum testamentum est in meo sanguine; hoc facite, quotiescumque sumitis, in meam commemorationem.
+	Quotiescumque enim manducabitis panem hunc et calicem bibetis, mortem domini annuntiabitis donec veniat.
+	Itaque quicumque manducaverit panem vel biberit calicem domini indigne, reus erit corporis et sanguinis domini.
+	Probet autem seipsum homo; et sic de pane illo edat, et de calice bibat.
+	Qui enim manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans corpus domini.</p>
+<p><l></l></p><p><A NAME="91487"/></p><p> Nisi manducaveritis carnem filii hominis et biberitis eius sanguinem non habetis vitam in vobis.
+	Qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam.</p>
+</div1>
+<div1><head>missa 1 resp. 3</head>
+<A NAME="91488"/><p> Alleluia, alleluia.
+	Caro mea vere est cibus, et sanguis meus vere est potus: qui manducat meam carnem et bibit meum sanguinem, in me manet, et ego in eo.
+<l></l></p><p> Qui manducat meam carnem et bibit meum sanguinem, in me manet, et ego in eo.</p>
+<p><emph><l><A NAME="91489"/>Prosa</l></emph></p>
+</div1>
+<div1><head>missa 1 hymnus 2</head>
+
+
+Lauda, Sion, salvatorem,
+<l>lauda ducem et pastorem</l>
+<l>in hymnis et canticis.</l>
+<p><l>Quantum potes, tantum aude,</l>
+<l>quia maior omni laude,</l>
+<l>nec laudare sufficis.</l></p>
+<p><l>Laudis thema specialis,</l>
+<l>panis vivus et vitalis,</l>
+<l>hodie proponitur.</l></p>
+<p><l>Quem in sacrae mensa coenae,</l>
+<l>turbae fratrum duodenae</l>
+<l>datum non ambigitur.</l></p>
+<p><l>Sit laus plena, sit sonora;</l>
+<l>sit iucunda, sit decora</l>
+<l>mentis iubilatio;</l>
+<l>dies enim solennis agitur,</l>
+<l>in qua mensae prima recolitur</l>
+<l>huius institutio.</l></p>
+<p><l>In hac mensa novi regis,</l>
+<l>novum Pascha novae legis</l>
+<l>phase vetus terminat;</l>
+<l>vetustatem novitas,</l>
+<l>umbram fugat veritas,</l>
+<l>noctem lux eliminat.</l></p>
+<p><l>Quod in cena Christus gessit,</l>
+<l>faciendum hoc expressit</l>
+<l>in sui memoriam,</l></p>
+<p><l>docti sacris institutis,</l>
+<l>panem vinum in salutis</l>
+<l>consecramus hostiam.</l></p>
+<p><l>Dogma datur Christianis,</l>
+<l>quod in carnem transit panis</l>
+<l>et vinum in sanguinem;</l></p>
+<p><l>quod non capis, quod non vides,</l>
+<l>animosa firmat fides</l>
+<l>praeter rerum ordinem.</l></p>
+<p><l>Sub diversis speciebus,</l>
+<l>signis tantum et non rebus</l>
+<l>latent res eximiae,</l></p>
+<p><l>caro cibus, sanguis potus,</l>
+<l>manet tamen Christus totus</l>
+<l>sub utraque specie.</l></p>
+<p><l>A sumente non concisus,</l>
+<l>non confractus, non divisus,</l>
+<l>integer accipitur;</l></p>
+<p><l>sumit unus, sumunt mille,</l>
+<l>quantum isti, tantum ille,</l>
+<l>nec sumptus consumitur.</l></p>
+<p><l>Sumunt boni, sumunt mali,</l>
+<l>sorte tamen inaequali,</l>
+<l>vitae vel interitus;</l></p>
+<p><l>mors est malis, vita bonis;</l>
+<l>vide, paris sumptionis</l>
+<l>quam sit dispar exitus.</l></p>
+<p><l>Fracto demum sacramento,</l>
+<l>ne vacilles, sed memento</l>
+<l>tantum esse sub fragmento,</l>
+<l>quantum toto tegitur.</l></p>
+<p><l>Nulla rei fit scissura,</l>
+<l>signi tantum fit fractura,</l>
+<l>qua nec status nec statura</l>
+<l>signati minuitur.</l></p>
+<p><l>Ecce, panis Angelorum,</l>
+<l>factus cibus viatorum,</l>
+<l>vere panis filiorum,</l>
+<l>non mittendus canibus.</l></p>
+<p><l>In figuris praesignatur,</l>
+<l>cum Isaac immolatur,</l>
+<l>agnus Paschae deputatur,</l>
+<l>datur manna patribus.</l></p>
+<p><l>Bone pastor, panis vere,</l>
+<l>Iesu nostri miserere,</l>
+<l>tu nos pasce, nos tuere,</l>
+<l>tu nos bona fac videre</l>
+<l>in terra viventium.</l></p>
+<p><l>Tu qui cuncta scis et vales,</l>
+<l>qui nos pascis hic mortales,</l>
+<l>tu nos ibi commensales,</l>
+<l>coheredes et sodales</l>
+<l>fac sanctorum civium.</l></p>
+<p><l>Amen.</l></p>
+
+<p><l></l></p><p><A NAME="91490"/></p><p> In illo tempore dixit Iesus discipulis suis et turbis Iudaeorum: Ego sum panis vitae.
+	Patres vestri manducaverunt in deserto manna et mortui sunt.
+	Hic est panis de caelo descendens, ut si quis ex ipso manducaverit non moriatur.
+	Ego sum panis vivus qui de caelo descendi.
+	Si quis manducaverit ex hoc pane vivet in aeternum, et panis quem ego dabo caro mea est pro mundi vita.
+	Litigabant ergo Iudaei ad invicem dicentes: quomodo potest hic nobis carnem suam dare ad manducandum? Dixit ergo eis Iesus: amen, amen dico vobis: nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habetis vitam in vobis.
+	Qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam et ego resuscitabo eum in novissimo die.
+	Caro enim mea vere est cibus, et sanguis meus vere est potus.
+	Qui manducat meam carnem et bibit meum sanguinem, in me manet et ego in illo.
+	Sicut misit me vivens pater, et ego vivo propter patrem; et qui manducat me, et ipse vivet propter me.
+	Hic est panis qui de caelo descendit.
+	Non sicut manducaverunt patres vestri manna, et mortui sunt: qui manducat hunc panem, vivet in aeternum.</p>
+<p><emph><l><A NAME="91491"/>Credo</l></emph></p>
+
+</div1>
+<div1><head>missa 1 hymnus 3</head>
+
+Credo in unum Deum,
+<l>patrem omnipotentem</l>
+<l>factorem coeli et terrae,</l>
+<l>visibilium omnium</l>
+<l>et invisibilium.</l>
+<l>Et in unum dominum</l>
+<l>Iesum Christum,</l>
+<l>filium Dei unigenitum,</l>
+<l>et ex patre natum</l>
+<l>ante omnia saecula.</l>
+<l>Deum de Deo, lumen de lumine,</l>
+<l>Deum verum de Deo vero.</l>
+<l>Genitum, non factum,</l>
+<l>consubstantialem patri</l>
+<l>per quem omnia facta sunt.</l>
+<l>Qui propter nos homines</l>
+<l>et propter nostram salutem</l>
+<l>descendit de caelis.</l>
+<l>Et incarnatus est</l>
+<l>de spiritu sancto</l>
+<l>ex Maria virgine:</l>
+<l>et homo factus est.</l>
+<l>Crucifixus etiam pro nobis</l>
+<l>sub Pontio Pilato</l>
+<l>passus et sepultus est.</l>
+<l>Et resurrexit tertia die</l>
+<l>secundum scripturas.</l>
+<l>Et ascendit in coelum;</l>
+<l>sedet ad dexteram patris.</l>
+<l>Et iterum venturus est cum gloria</l>
+<l>iudicare vivos et mortuos.</l>
+<l>Cuius regni</l>
+<l>non erit finis.</l>
+<l>Et in spiritum sanctum</l>
+<l>dominum et vivificantem:</l>
+<l>qui ex patre filioque procedit.</l>
+<l>Qui cum patre et filio</l>
+<l>simul adoratur</l>
+<l>et glorificatur;</l>
+<l>qui locutus est per prophetas.</l>
+<l>Et unam, sanctam, catholicam</l>
+<l>et apostolicam ecclesiam.</l>
+<l>Confiteor unum baptismum</l>
+<l>in remissionem peccatorum.</l>
+<l>Et expecto</l>
+<l>resurrectionem mortuorum</l>
+<l>et vitam venturi saeculi.</l>
+<l>Amen.
+</l>
+<p><l></l></p><p><A NAME="91492"/></p><p> Sicut vivens pater misit me, et ego vivo propter patrem et qui manducat me et ipse vivet propter me, alleluia, alleluia.</p>
+</div1>
+<div1><head>missa 1 oratio 3</head>
+<A NAME="91493"/><p> Ecclesiae tuae, quaesumus, domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur.</p>
+</div1>
+<div1><head>missa 1 oratio 4</head>
+<A NAME="91494"/><p> Vere dignum et iustum est, aequum et salutare, nos tibi semper et ubique gratias agere: domine, sancte pater, omnipotens aeterne Deus: quia per incarnati verbi mysterium nova mentis nostrae oculis lux tuae claritatis infulsit: ut, dum visibiliter Deum cognoscimus, per hunc in invisibilium amorem rapiamur.
+	Et ideo cum Angelis et Archangelis, cum thronis et dominationibus, cumque omni militia caelestis exercitus, hymnum gloriae tuae canimus, sine fine dicentes: sanctus, sanctus, santus dominus Deus Sabaoth.
+	Pleni sunt caeli et terra gloria tua.
+	Hosanna in excelsis.
+	Benedictus qui venit in nomine domini.
+	Hosanna in excelsis.</p>
+</div1>
+<div1><head>missa 1 oratio 5</head>
+<A NAME="91495"/><p> Quotiescumque enim manducabitis panem hunc et calicem bibetis, mortem domini annuntiabitis donec veniat.
+	Itaque quicumque manducaverit panem vel biberit calicem domini indigne, reus erit corporis et sanguinis domini, alleluia.</p>
+</div1>
+<div1><head>missa 1 oratio 6</head>
+<A NAME="91496"/><p> Fac nos, quaesumus, domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi corporis et sanguinis tui temporalis perceptio praefigurat.
+	Qui vivis et regnas cum Deo patre in unitate spiritus sancti Deus per omnia saecula saeculorum.
+	Amen.</p>
+
+</div1>
+</body></text>
+</TEI> 

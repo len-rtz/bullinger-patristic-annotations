@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1922" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Philipp Gallicius (Saluz) / Chur an Heinrich Bullinger / Zürich, 10. Juli 1553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/1922</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="23114" type="transcription">S. 3194</bibl>
+				<bibl source="b45" n="23114" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 365,505</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Accepimus literas tuas et quas Heinricho fratri ad nos scripsisti et quas siliginario.</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graubünden, Korr. I, S. 305, Nr. 213</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>de Porta, Hist. Ref. Raet. I 2, 256 Anm. e</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>Ferd. Meyer, Die evang. Gemeinde in Locarno, I, 84</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 79,174</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8359" cert="high"/>
+					<placeName ref="l98" cert="high"/>
+					<date when="1553-07-10" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1922!Autograph!00%20E_II_365__fol__505_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">1922/Autograph/00 E_II_365__fol__505_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1922!Autograph!01%20E_II_365__fol__505_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">1922/Autograph/01 E_II_365__fol__505_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Accepimus literas tuas, vir observandissime, et quas <persName>Heinricho</persName> fratri ad nos scripsisti et quas siliginario.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Communitas illum amplius retinere noluit.</s>
+					<s n="4" xml:lang="la">Venit ad nos; aliam ei ecclesiam ostendemus, cui praesit quaeque recipiat eum.</s>
+					<s n="5" xml:lang="la">Recte fecisti, quod ad nos remiseris illum; multae enim ecclesiae apud nos carent concionatore.</s>
+					<s n="6" xml:lang="la">Agimus autem gratias ingentes tibi, quod scribere ad nos non desinis alioqui satis occupatus, sed nihilominus nos omnium facis cerciores.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Videntur appetere tempora illa, de quibus olim <persName ref="p19001">Lactantius</persName> ille scripsit, quibus nemo quicquam habebit nisi violencia manuque armata partum conservatumque.</s>
+					<s n="8" xml:lang="la">Deus misereatur nostri, ut scribis.</s>
+					<s n="9" xml:lang="la">D. <persName ref="p8332">Baionensis</persName> misit ad me heri has literas, quas curem tibi reddi.</s>
+					<s n="10" xml:lang="la">Hoc scio cum doctis conservatum esse diu et doctos benevolencia prosequi, te eciam cum primis diligere, nisi me fallant, qui ipsi sunt familiarissimi.</s>
+					<s n="11" xml:lang="la">Sed hoc nominatim me tibi scribere iussit sese scripsisse nunc ad te maxima cum festinatione, cum esset iam paratus abire et ocreis indutus.</s>
+					<s n="12" xml:lang="la">In <placeName>Foederibus</placeName> nostris sunt, quibus minus placeat, quod Luteranum suspicentur esse, forsan ob hoc, quod nulla convicia eructet in Luteranos, imo honorifice ubique de illis loquatur, pessime autem semper de Eccio.</s>
+					<s n="13" xml:lang="la">Ex <placeName ref="l834">Italia</placeName> novi adfertur prorsus nihil.</s>
+					<s n="14" xml:lang="la">Quod dictum fuerat <placeName ref="l2510">Turcam</placeName> venisse in <placeName ref="l834">Italiam</placeName>, nihil est, neque audimus venire.</s>
+					<s n="15" xml:lang="la" ana="farewell">His vale, vir humanissime, et nos redamare perge.</s>
+					<s n="16" xml:lang="la" ana="salute">Salutant te <persName ref="p654">Comander</persName>, <persName ref="p6130">Ponticella</persName> et <persName>Heinrichus <span type="pronoun">tuus</span> Gassenser</persName><note xml:id="fn1" type="footnote" n="1"><persName>Heinrich Gasenzer</persName>, von <placeName>Werdenberg</placeName>, gemäß Besitzeintrag in einem Buch (Sammelband in der Staatl. Bibl. Neuburg/Donau), mitgeteilt 2007 durch Reinhard A. Seitz (publiziert in <bibl source="b714">Zwa</bibl> XXXIV, 2007, s. Reg.). Entlassung in der Pfalz 1564, s. Erast an HB, 29. Juli [1564].</note>.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la">Tuus totus <persName ref="p8359">Philippus Gallicius</persName>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Vere magno viro d. <persName ref="p495">Heinrycho Bullingero</persName>, domino suo colendissimo, ecclesiae ministro fidissimo.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

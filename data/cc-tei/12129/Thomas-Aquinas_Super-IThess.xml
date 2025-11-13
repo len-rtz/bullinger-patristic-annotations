@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>Super I Epistolam B.
+	Pauli ad Thessalonicenses lectura</title>
+               <author ref="http://viaf.org/viaf/264344179">Thomas Aquinas<date>1225-1274</date></author>
+</titleStmt>
+               
+               <extent></extent>
+               <editionStmt>
+              <edition>critical edition, apparatus not encoded</edition>
+              <editor></editor>
+         </editionStmt>
+               <publicationStmt>
+                  <pubPlace>Romae</pubPlace>
+                  <publisher>Textum Leoninum</publisher>
+                  <date>1965</date>
+               </publicationStmt>
+<seriesStmt>
+             <title>Corpus Thomisticum</title>
+            <idno>ThomAqu.Sup1The</idno>
+            </seriesStmt>
+         <notesStmt>
+            <note></note>
+         </notesStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>based on data from Corpus Thomisticum (http://www.corpusthomisticum.org), this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+          <note>Textum Leoninum 1965 editum emendatum ac translatum a Roberto Busa SJ in taenias magneticas denuo recognovit Enrique Alarcón atque instruxit</note>
+          <editorialDecl>
+             <normalization>Classical Latin orthography</normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date></date>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item></item>
+		  <item></item>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme='genre'>
+  		 <list>
+   			<item></item>
+  		</list>
+  		</keywords>
+  		<keywords scheme='period'>
+ 		 <list>
+   			<item></item>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>
+<div1 id="pro."><head>Prooemium</head>
+<p><A NAME="87861"/><hi>Multiplicatae sunt aquae</hi>, et cetera.
+	Gen.
+	VII, 17.
+	Haec verba competunt materiae huius epistolae.
+	Ecclesia enim figuratur per arcam, sicut dicitur I Petr.
+	III, 20, quia sicut in arca, caeteris pereuntibus, paucae animae salvatae sunt, ita in Ecclesia pauci, id est, soli electi salvabuntur.
+	Per aquas autem significantur tribulationes.
+	Primo quia aquae impellunt irruendo, sicut tribulationes.
+	Matth.
+	VII, 25: <hi>venerunt flumina, et flaverunt venti, et irruerunt in domum illam</hi>.
+	Sed impulsu fluminum Ecclesia non movetur.
+	Unde subdit <hi>et non cecidit</hi>.
+	Secundo aqua extinguit ignem.
+	Eccli.
+	XXX: <hi>ignem ardentem extinguit aqua</hi>.
+	Sic tribulationes extinguunt impetus concupiscentiarum, ne homines ad libitum eas sequantur, sed non extinguunt veram charitatem Ecclesiae.
+	Cant.
+	VIII, 7: <hi>aquae multae non poterunt extinguere charitatem, nec flumina obruent illam</hi>.
+	Tertio aquae submergunt per inundationem.
+	Thren.
+	III, 54: <hi>inundaverunt aquae super caput meum</hi>.
+	Sed Ecclesia non per has submergitur.
+	Iona II, 6: <hi>circumdederunt me aquae usque ad animam meam, abyssus vallavit me, pelagus operuit caput meum</hi>, etc.; et post: <hi>rursum videbo templum sanctum tuum</hi>, et cetera.
+	Non ergo deficit, sed sublevatur.
+	Et primo per elevationem mentis ad Deum.
+	Gregorius: <hi>mala quae nos hic premunt, ad Deum nos ire compellunt</hi>.
+	Os.
+	VI, 1: <hi>in tribulatione sua mane consurgent ad me</hi>.
+	Secundo per spiritualem consolationem.
+	Ps.
+	XCIII, 19: <hi>secundum multitudinem dolorum in corde meo consolationes tuae laetificaverunt animam meam</hi>.
+	II Cor.
+	I, 5: <hi>sicut abundant passiones Christi in nobis, ita per Christum abundat consolatio nostra</hi>.
+	Tertio per multiplicationem fidelium, quia tempore persecutionum Deus multiplicavit Ecclesiam.
+	Ex.
+	I, 12: <hi>quantoque magis opprimebant eos, tanto magis multiplicabantur et crescebant</hi>.
+	Sic ergo convenit huic epistolae, quia isti multas tribulationes passi, steterunt fortes.
+	Videamus ergo textum.</p>
+</div1>
+<div1 n="1"><head>Caput 1</head>
+<div2 n="1"><head>Lectio 1</head>
+<p><A NAME="87862"/>Apostolus vult munire hic Ecclesiam contra tribulationes et primo contra tribulationes praesentes, et hoc in prima epistola.
+	Secundo contra futuras, tempore Antichristi, et hoc in secunda.
+	Prima dividitur in salutationem et epistolarem narrationem, ibi <hi>gratias agimus</hi>.
+	Item primo tangit personas salutantes; secundo Ecclesiam salutatam; tertio bona optata.
+	Notandum est autem, quod quia ubi non delinquimus, omnes pares sumus, ideo quia istis bonis scribit, non facit mentionem de officio suo, sed solum de nomine humilitatis, quod est Paulus.
+	Sap.
+	VII, 11: <hi>et innumerabilis honestas per manus illius</hi>.
+	Et adiungit duos, qui eis praedicaverunt cum eo, scilicet <hi>Silvanum</hi>, qui est Sylas, et <hi>Timotheum</hi>, quem circumcidit, ut dicitur Act.
+	XVI, 3.
+	Salutat autem Ecclesiam, quae est congregatio fidelium.
+	Et hoc <hi>in Deo patre et domino nostro Iesu Christo</hi>, id est, in fide Trinitatis, et divinitatis et humanitatis Christi, quia in horum cognitione erit nostra beatitudo.
+	Tangit autem personam patris et filii incarnati, in quibus intelligitur spiritus sanctus, qui est nexus amborum.
+	Bona optata sunt <hi>gratia</hi>, quae est principium omnium bonorum.
+	I Cor.
+	XV, 10: <hi>gratia Dei sum id quod sum</hi>.
+	Et <hi>pax</hi> quae est finis, quia tunc est pax, quando appetitus totaliter pacatur.
+	Deinde cum dicit <hi>gratias agimus</hi>, incipit epistolaris narratio, et primo commendat eos de praeterita perseverantia; secundo monet eos ad bene agendum in futurum, cap.
+	IV, ibi <hi>de caetero</hi>.
+	Item primo agit gratias universaliter de bonis eorum; secundo ea commemorat in speciali, ibi <hi>scientes, fratres</hi>, et cetera.
+	Circa primum duo facit, quia primo ponit gratiarum actionem; secundo eius materiam, ibi <hi>memores</hi>.
+	Item primo pro eis gratias agit; secundo pro eis orat, ibi <hi>memoriam vestri</hi>.
+	Quantum ergo ad primum dicit tria, quae debent esse in gratiarum actione.
+	Primo quod sit ordinata, scilicet ad Deum.
+	Ideo dicit <hi>gratias agimus Deo</hi>.
+	Ps.
+	LXXXIII, 12: <hi>gratiam et gloriam dabit dominus</hi>.
+	Iac.
+	I, 17: <hi>omne datum optimum et omne donum perfectum de sursum est descendens a patre luminum</hi>.
+	Item assidua, quia <hi>semper</hi>.
+	Item universalis, ibi <hi>pro omnibus vobis</hi>.
+	Infra V, 18: <hi>in omnibus gratias agite</hi>.
+	Deinde orat pro eis, dicens <hi>memoriam vestri faciens</hi>, etc., quasi dicat: quandocumque oro, habeo vos in memoria.
+	Rom. c.
+	I, 9: <hi>sine intermissione memoriam vestri facio semper in orationibus meis</hi>.
+	Deinde cum dicit <hi>memores operis</hi>, ponit bona de quibus agit gratias, scilicet fidem, spem et charitatem.
+	I Cor.
+	XIII, 13: <hi>nunc autem manent fides, spes, charitas: tria haec</hi>, et cetera.
+	Fidem praemittit, quia <hi>est substantia sperandarum rerum</hi>, et cetera. <hi>Accedentem enim ad Deum oportet credere</hi>, et cetera.
+	Hebr. c.
+	XI, 1 et 6.
+	Haec autem non est sufficiens, nisi habeat operationem et laborem.
+	Et ideo dicit <hi>operis fidei vestrae et laboris</hi>.
+	Iac.
+	II, 26: <hi>fides sine operibus mortua est</hi>.
+	Item quia qui laborando propter Christum deficit, nihil valet.
+	Lc.
+	VIII, 13: <hi>ad tempus credunt, et in tempore tentationis recedunt</hi>.
+	Ideo dicit <hi>operis et laboris</hi>.
+	Quasi dicat: memores fidei vestrae operantis et laborantis.
+	Item, <hi>charitatis</hi>, in cuius operibus abundabant.
+	Infra IV, 9: <hi>charitatem fraternitatis</hi>, et cetera.
+	Item <hi>spei</hi>, quae facit patienter sustinere adversa.
+	Rom.
+	XII, 12: <hi>spe gaudentes, in tribulatione patientes</hi>.
+	Et <hi>sustinentiae</hi>, quam spes facit.
+	Iac.
+	V, 11: <hi>patientiam Iob audistis</hi>, et cetera. <hi>Spei</hi>, inquam, <hi>domini nostri</hi>, id est, quam habemus de Christo, vel quam Christus dedit nobis.
+	I Petr.
+	I, 3: <hi>regeneravit nos in spem vivam</hi>, et cetera.
+	Haec spes est <hi>ante Deum</hi>, non ante oculos hominum.
+	Matth.
+	VI, 1: <hi>attendite ne iustitiam vestram faciatis coram hominibus</hi>, et cetera.
+	Hebr.
+	VI, 19: <hi>quam sicut anchoram habemus animae tutam</hi>, et cetera.
+	Spes enim in veteri testamento non induxit ad Deum.
+	Deinde cum dicit <hi>scientes, fratres</hi>, in speciali commemorat eorum bona, quos primo commendat, quod devote et prompte susceperunt praedicationem, non obstante tribulatione; secundo quod propter tribulationem ab ea non recesserunt, in II capite, ibi <hi>nam ipsi scitis</hi>.
+	Iterum prima pars dividitur in duas, quia primo ostendit qualis fuit ista praedicatio; secundo qualiter ab eis recepta, ibi <hi>et vos imitatores</hi>.
+	Circa primum tria facit, quia primo ostendit quid circa eos sciebat; secundo modum praedicationis suae, ibi <hi>quia Evangelium</hi>.
+	Tertio quid ipsi sciebant de apostolo, ibi <hi>sicut scitis</hi>.
+	Dicit ergo <hi>o fratres dilecti a Deo</hi>.
+	Non solum communiter, inquantum dat esse naturae, sed inquantum specialiter ad bona aeterna estis vocati.
+	Mal.
+	I, 2: <hi>Iacob dilexi, Esau autem odio habui</hi>, et cetera.
+	Deut.
+	XXXIII, 3: <hi>dilexit populos</hi>, et cetera. <hi>Electionem vestram</hi>.
+	Quasi dicat: certitudinaliter cognosco vos esse electos, quia hanc electionem non meruistis, sed a Deo estis gratuite electi.
+	Et hoc scio, quia Deus dedit mihi magnum argumentum in praedicatione, scilicet quod illi, quibus loquor, sunt a Deo electi, scilicet quando Deus dat eis gratiam fructuose audiendi verbum eis praedicatum, vel mihi gratiam copiose praedicandi eis.
+	Contra videtur esse quod dicitur Ezech.
+	III, 26: <hi>et linguam tuam adhaerere faciam palato tuo</hi>, et cetera.
+	Ideo primo commemorat quam virtuose eis praedicavit, secundo inducit eorum testimonium, ibi <hi>sicut scitis</hi>.
+	Virtuose quidem, quia non fuit in sublimitate sermonis, sed <hi>in virtute</hi>.
+	I Cor.
+	II, v. 4: <hi>sermo meus et praedicatio mea non in persuasibilibus humanae sapientiae verbis, sed in ostensione spiritus et virtutis</hi>.
+	I Cor.
+	IV, v. 20: <hi>non enim in sermone est regnum Dei, sed in virtute</hi>.
+	Vel potest referri ad confirmationem praedicationis, vel ad modum praedicandi.
+	Si ad primum, sic confirmata fuit praedicatio mea vobis, non argumentis, sed virtute miraculorum.
+	Unde dicitur Mc. ult.: <hi>domino cooperante et sermonem confirmante sequentibus signis</hi>.
+	Item in datione spiritus sancti; unde dicit: <hi>et in spiritu sancto</hi>.
+	Act. c.
+	X, 44: <hi>adhuc loquente Petro verba haec, cecidit spiritus sanctus super omnes, qui audiebant verbum</hi>, et cetera.
+	Hebr.
+	II, 4: <hi>contestante Deo signis et portentis et variis virtutibus et spiritus sancti distributionibus.
+	Et in plenitudine</hi>, et cetera.
+	Et hoc addit, ne crederent se minus recepisse quam Iudaei; quasi dicat: spiritus sanctus non est personarum acceptor, sed in ea plenitudine fuit apud vos sicut apud Iudaeos.
+	Act.
+	II, 4: <hi>repleti sunt omnes spiritu sancto</hi>, et cetera.
+	Sed si ad secundum, sic <hi>in virtute</hi>, id est virtuosam vitam vobis ostendens.
+	Act.
+	I, 1: <hi>coepit dominus facere et docere.
+	Et in spiritu sancto</hi>, scilicet suggerente.
+	Matth.
+	X, v. 20: <hi>non estis vos qui loquimini</hi>, et cetera. <hi>In plenitudine multa</hi>, scilicet quia instruxi vos de omnibus ad fidem necessariis.
+	Inducit autem eorum testimonium ad hoc, cum dicit <hi>sicut vos scitis</hi>, etc., id est, qualia dona et virtutes ostendimus in vobis.
+	II Cor.
+	V, 11: <hi>spero autem in conscientiis vestris manifestos nos esse</hi>.
+	Deinde cum dicit <hi>et vos imitatores</hi>, etc., ostendit quomodo praedicationem suam virtuose receperunt, nec propter tribulationes recesserunt.
+	Et primo ostendit eorum virtutem in hoc, quod alios imitati sunt; secundo quod aliis se imitabiles praestiterunt, ibi <hi>ita ut facti sitis</hi>.
+	Circa primum duo facit, quia primo ostendit quos sunt imitati; secundo in quibus sunt imitati, ibi: <hi>excipientes</hi>.
+	Circa primum dicit, quod imitati sunt eos quos debuerunt, scilicet praelatos.
+	Et ideo dicit <hi>imitatores nostri facti</hi>, et cetera.
+	Phil.
+	III, v. 17: <hi>imitatores mei estote, fratres</hi>.
+	Sed imitati sunt non eo in quo delinquimus sicut homines, sed in quo imitamur Christum.
+	Unde et dicitur I Cor.
+	IV, 16: <hi>imitatores mei estote, sicut et ego Christi</hi>, id est, in quo imitatus sum Christum, scilicet in patientia tribulationis.
+	Matth.
+	XVI, 24: <hi>si quis vult post me venire, abneget semetipsum, et tollat crucem suam, et sequatur me</hi>.
+	I Petr. c.
+	II, 21: <hi>Christus passus est pro nobis, vobis relinquens exemplum, ut sequamini vestigia eius</hi>.
+	Et ideo dicit <hi>in tribulatione multa cum gaudio</hi>, id est, quamvis multa tribulatio immineret propter verbum, tamen illud accepistis cum gaudio.
+	Iac.
+	I, 2: <hi>omne gaudium existimate, fratres mei, cum in tentationes varias incideritis</hi>, et cetera.
+	Act.
+	V, 41: <hi>ibant apostoli gaudentes a conspectu Concilii, quoniam digni habiti sunt pro nomine Iesu contumeliam pati.
+	Cum gaudio</hi>, inquam, <hi>spiritus sancti</hi>, non alio quocumque, qui est amor Dei, qui facit gaudium patientibus propter Christum, quia amant eum.
+	Cant.
+	VIII, 7: <hi>si dederit homo omnem substantiam domus suae pro dilectione, quasi nihil despiciet eam</hi>.
+	Et sic estis imitatores nostri, quod scilicet aliis estis imitabiles.
+	Unde dicit <hi>ita ut facti sitis</hi>, et cetera.
+	Circa quod tria facit, quia primo ostendit eos esse imitabiles; secundo quomodo eorum fama divulgata est, ibi <hi>a vobis enim diffamatus</hi>; tertio quomodo ab omnibus laudabantur populis, ibi <hi>ipsi enim annuntiant</hi>.
+	Dicit ergo: ita perfecte nos imitati estis, <hi>ut sitis facti forma</hi>, id est, exemplum vitae, non solum in terra vestra, sed in aliis.
+	Matth.
+	V, 16: <hi>sic luceat lux vestra coram hominibus, ut videant opera vestra</hi>, et cetera.
+	Sed credentibus forma facti estis quibus fides vestra innotuit.
+	Ad quod bonitas vestra accessit. <hi>A vobis enim diffamatus est sermo domini</hi>, id est, praedicandi dominum, id est, vestra fama diffusa est, <hi>non tantum in Macedonia et Achaia</hi>, quae sunt vobis vicinae, sed <hi>fides vestra ad Deum perfecta</hi>, id est, quam Deus acceptat, et quae coniungit vos Deo, quae etiam est <hi>in omni loco</hi> divulgata.
+	Rom.
+	I, 8: <hi>fides vestra annuntiatur in universo mundo</hi>, et cetera.
+	Et signum huius est, quia <hi>non est necesse</hi>, et cetera.
+	Boni enim praedicatoris est bona aliorum in exemplum adducere.
+	II Cor.
+	IX, 2: <hi>vestra enim aemulatio provocavit plurimos</hi>.
+	Deinde cum dicit <hi>ipsi enim</hi>, etc., ponit eorum laudem qua ab aliis laudabantur, quia <hi>de nobis annuntiant</hi>, et cetera.
+	Prov. ult.: <hi>laudent illam in portis opera eius</hi>.
+	Laudant autem in vobis meam praedicationem et vestram conversionem.
+	Annuntiant ergo <hi>qualem introitum habuerimus ad vos</hi>, quia cum magna difficultate et in tribulationibus.
+	Laudant etiam vestram conversionem.
+	Et ostendit quomodo, a quo, et ad quid conversi sunt.
+	Quo ad primum dicit <hi>et quomodo conversi estis ad Deum</hi>, id est, quam faciliter, et perfecte.
+	Ioel.
+	II, 12: <hi>convertimini ad me in toto corde vestro</hi>, et cetera.
+	Eccli.
+	V, 8: <hi>ne tardes converti ad dominum, et ne differas de die in diem</hi>.
+	Quo ad secundum dicit <hi>a simulacris</hi>.
+	I Cor.
+	XII, 2: <hi>scitis quoniam cum gentes essetis, ad simulacra muta prout ducebamini euntes</hi>.
+	Quo ad tertium dicit <hi>servire Deo</hi>, scilicet servitute latriae, non creaturae, sed Deo.
+	Contra quod dicitur Rom.
+	I, 25: <hi>servierunt creaturae potius quam creatori</hi>, et cetera.
+	Et dicit <hi>vivo</hi>, ut excludat idololatriae cultum, quia idololatrae colebant quosdam mortuos, quorum animas dixerunt deificatas, sicut Romulum et Herculem.
+	Et ideo dicit <hi>vivo</hi>.
+	Deut.
+	XXXII, 40: <hi>vivo ego in aeternum</hi>.
+	Item quia Platonici putabant quasdam substantias separatas deos esse participatione, dicitur <hi>vero</hi>, non participatione divinae naturae, sed quia servientes ei sunt remunerandi.
+	Ideo, quia sic estis, restat ut remunerationem expectetis.
+	Unde dicit <hi>et expectare filium eius</hi>, scilicet Dei, <hi>de caelis</hi> descendentem.
+	Lc.
+	XII, 36: <hi>et vos similes hominibus expectantibus dominum suum quando revertatur a nuptiis</hi>.
+	Is.
+	XXX, 18: <hi>beati omnes qui expectant eum</hi>.
+	Illi autem sunt, qui sunt lumbis praecincti.
+	Duo autem expectamus, scilicet resurrectionem, ut scilicet ei conformemur.
+	Unde dicit <hi>quem suscitavit ex mortuis Iesum</hi>.
+	Rom. c.
+	VIII, 11: <hi>qui suscitavit Iesum Christum a mortuis, vivificabit et mortalia corpora vestra</hi>, et cetera.
+	Phil.
+	III, 21: <hi>reformabit corpus humilitatis nostrae configuratum corpori claritatis suae</hi>.
+	Item liberari a poena futura, quae imminet reis.
+	A causa autem poenae, scilicet a peccato, liberamur per Christum.
+	Unde dicit <hi>qui eripuit nos</hi>, et cetera.
+	Apoc.
+	VI, 16: <hi>abscondite vos a facie sedentis super thronum et ab ira agni</hi>, et cetera.
+	Ab hac ira nullus potest nos liberare nisi Christus.
+	Matth.
+	III, 7: <hi>quis demonstrabit vobis fugere a ventura ira?</hi></p>
+</div2></div1>
+<div1 n="2"><head>Caput 2</head>
+<p><A NAME="87863"/>Supra commendavit eos, quod in tribulationibus verbum Dei receperunt, hic commendat eos, quod ab eo non recesserunt propter tribulationes.
+	Et circa hoc tria facit, quia primo commemorat eorum tribulationes; secundo ostendit quale eis remedium adhibuit, in III capite, ibi <hi>propter quod</hi>; tertio propter quid <hi>quia nunc vivimus</hi>.
+	Quia vero supra dixit de eis nuntiari ab omnibus introitum apostoli ad eorum conversionem, ideo primo agit de introitu suo; secundo de eorum conversione, ibi <hi>ideo et nos gratias</hi>.
+	Circa primum tria facit, quia primo commemorat suam constantiam, quam habuit antequam ad eos veniret; secundo sinceritatem doctrinae per quam eos convertit, ibi <hi>exhortatio enim nostra</hi>; tertio sinceritatem suae conversationis cum conversis, ibi <hi>vos enim</hi>.
+	Iterum prima in duas, quia primo praemittit tribulationes, quas passus est antequam ad eos veniret; secundo quomodo fiduciam ex hoc non amisit, ibi <hi>fiduciam habuimus</hi>.
+	Dicit ergo: dico quod annuntiat introitum nostrum, quem et vos scitis, quoniam <hi>non fuit inanis</hi>, etc., id est levis, sed difficilis, quia per multas tribulationes.
+	Vel <hi>non inanis</hi>, id est vacuus, sed plenus.
+	Gen. c.
+	I, 2: <hi>terra erat inanis et vacua</hi>, et cetera.
+	Vel <hi>non inanis</hi>, id est mobilis, sed stabilis.
+	Phil. c.
+	II, 17: <hi>non in vanum cucurri, neque in vacuum laboravi.
+	Sed ante</hi> sumus <hi>passi</hi> passiones corporales.
+	Prov.
+	XIX, 11: <hi>doctrina viri per patientiam noscitur</hi>.
+	Ps.
+	XCI, 15: <hi>bene patientes erunt, ut annuntient</hi>.
+	Item spirituales, quia <hi>contumeliis</hi> ex hoc <hi>affecti in Philippis</hi>, ubi propter curationem pythonissae passus est tribulationes.
+	Et haec civitas est Macedoniae.
+	Nec tamen propter haec fiducia praedicandi est extincta.
+	Is.
+	XII, 2: <hi>ecce Deus salvator meus, fiducialiter agam, et non timebo</hi>.
+	Et haec fiducia fuit praedicandi <hi>ad vos Evangelium Dei in multa sollicitudine</hi> de vestra conversione.
+	Rom.
+	XII, 8: <hi>qui praeest in sollicitudine</hi>.
+	II Cor.
+	XI, 28: <hi>praeter ea quae extrinsecus sunt, instantia mea quotidiana, sollicitudo omnium Ecclesiarum</hi>.
+	Deinde cum dicit <hi>exhortatio</hi>, ostendit sinceritatem suae praedicationis.
+	Et circa hoc duo facit, quia primo probat sinceritatem suae doctrinae; secundo quaedam quae dixerat, exponit, ibi <hi>non quasi hominibus</hi>.
+	Circa primum duo facit, quia primo excludit corruptionem doctrinae; secundo ponit sinceritatem, ibi <hi>sed sicut probati</hi>.
+	Doctrina autem corrumpitur vel propter rem quae docetur, vel propter intentionem docentis.
+	Propter primum dupliciter corrumpitur doctrina, scilicet vel per errorem, sicut docens salutem esse per Christum cum legalibus.
+	II Tim.
+	III, 13: <hi>mali homines et seductores proficient in peius errantes, et in errorem alios mittentes</hi>.
+	Ideo dicit <hi>exhortatio enim nostra non est</hi>, sicut aliquorum, <hi>de errore</hi>.
+	Vel propter immunditiam, sicut dicentium vacandum esse voluptatibus, quae doctrina est a quodam Nicolao, qui permisit promiscua matrimonia, communicans alii suam uxorem; ideo dicit <hi>neque de immunditia</hi>.
+	Ap.
+	II, v. 20: <hi>permittis mulierem Iezabel, quae se dicit prophetam, docere et seducere servos meos fornicari, et manducare de idolotitis</hi>, et cetera.
+	Iob VI, 30: <hi>non invenietis in lingua mea iniquitatem</hi>.
+	Item nec est exhortatio in dolo sicut quorumdam, qui licet verum dicant, habent tamen intentionem corruptam, quia non profectum auditorum neque Dei honorem, sed suum quaerunt honorem.
+	Contra quod dicit <hi>neque in dolo</hi>.
+	Ier.
+	IX, 8: <hi>sagitta vulnerans lingua eorum, dolum locuta est</hi>, et cetera.
+	Sua ergo praedicatio non est corrupta, sed sincera.
+	Sincerum autem aliquid est, quod servat suam naturam.
+	Tunc autem est praedicatio sincera, quando quis docet eo tenore et fine quo Christus docuit.
+	Et ideo dicit <hi>sed sicut probati</hi>, id est, eo modo et ea intentione qua Deus nos elegit et approbavit ad praedicandum Evangelium loquimur.
+	Gal.
+	II, 7: <hi>creditum est mihi Evangelium praeputii, sicut Petro circumcisionis</hi>.
+	Act.
+	IX, v. 15: <hi>vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Israel</hi>.
+	Deinde cum dicit <hi>non quasi hominibus</hi>, etc., ostendit quod sua praedicatio non est in dolo.
+	Primo excludens illud per quod videretur esse dolosa; secundo manifestat per signum, ibi <hi>neque aliquando</hi>; tertio per causam, ibi <hi>neque in occasione</hi>.
+	Propter primum dicit: praedicatio mea non est quasi hominibus placens, scilicet finaliter.
+	Ps.
+	LII, 6: <hi>dissipata sunt ossa eorum, qui hominibus placent</hi>.
+	Gal.
+	I, 10: <hi>si hominibus placerem, Christi servus non essem</hi>.
+	Aliquando tamen debent velle placere hominibus propter gloriam Dei, ut praedicatio magis fructificet, sicut dicitur I Cor.
+	X, 33: <hi>ego per omnia omnibus placeo</hi>, et cetera. <hi>Sed Deo</hi>, et cetera.
+	Prov.
+	XVI, 2: <hi>omnes viae hominum patent oculis eius</hi>.
+	Huius autem signum est, quia non adulati sumus loquentes eis placentia.
+	Is. c.
+	XXX, 10: <hi>loquimini nobis placentia, videte nobis errores</hi>, et cetera.
+	Prov.
+	XXIV, 28: <hi>non lactes quemquam labiis tuis</hi>, et cetera.
+	Et idem ostendit per causam.
+	Propter duo enim aliquis quaerit hominibus placere, scilicet vel propter beneficia, vel propter gloriam.
+	Hoc autem hic excludit, et primo, primum, dicens <hi>neque fuimus</hi>, et cetera.
+	Quia non solum adulationem devitamus, sed etiam omnem occasionem avaritiae.
+	I Tim.
+	VI, 5: <hi>existimantium quaestum esse pietatem</hi>.
+	Ier.
+	VI, 15: <hi>a minori quippe usque ad maiorem, omnes avaritiae student</hi>.
+	Secundo, secundum, ibi <hi>neque quaerentes a vobis neque ab aliis gloriam</hi> de doctrina, cum haberemus unde possemus gloriari et accipere, imo oneri esse, quia debebant ei gloriam et sustentationem; unde dicit <hi>cum possemus</hi>.
+	Et vocat onus, quia perverse eis praedicantes ultra modum haec ab eis quaerebant.
+	Is.
+	III, 14: <hi>vos enim depasti estis vineam meam</hi>, et cetera.
+	Deinde cum dicit <hi>sed facti sumus</hi>, etc., manifestat haec duo, et primo quod non quaerit humanam gloriam; secundo quod nec occasionem avaritiae, ibi <hi>memores enim estis</hi>.
+	Circa primum duo facit; quia primo ostendit suam humilitatem; secundo sub similitudine ostendit suam sollicitudinem, ibi <hi>tamquam si nutrix</hi>.
+	Ponit ergo primum, dicens quod <hi>facti sumus parvuli</hi>, etc., id est humiles.
+	Eccli.
+	XXXII, v. 1: <hi>rectorem te posuerunt? Noli extolli, sed esto in illis quasi unus ex ipsis</hi>.
+	Quod ostendit in similitudine, dicens <hi>tamquam si nutrix</hi>, quae scilicet condescendit infanti balbutiendo ei loquens, ut puer loqui discat, et in gestibus ei etiam condescendit.
+	I Cor.
+	IX, 22: <hi>omnibus omnia factus sum</hi>.
+	I Cor.
+	III, 1: <hi>tamquam parvulis in Christo lac vobis potum dedi, non escam.
+	Etiam animas</hi>.
+	Io.
+	X, 11: <hi>bonus pastor animam suam dat pro ovibus suis</hi>, et cetera. <hi>Quoniam charissimi</hi>, et cetera.
+	II Cor.
+	XII, 15: <hi>ego autem libentissime impendam et superimpendar ego ipse pro animabus vestris</hi>, et cetera.
+	Deinde cum dicit <hi>memores enim estis</hi>, ostendit, secundum, quod supra dixerat, scilicet <hi>item neque per occasionem avaritiae</hi>, quia nihil a vobis sumpsimus, sed de labore, quia <hi>laboris</hi>, et cetera.
+	Et aliqui laborant quidem, sed ex solatio, sed nos non, sed cum labore.
+	Ideo dicit <hi>laboris nostri</hi>, non propter exercitationem corporis, sed cum fatigatione.
+	Unde dicit <hi>et fatigationis</hi>.
+	Aliqui etiam laborant de die, nos vero <hi>nocte et die</hi>.
+	Per hoc enim voluit arcere pseudo, qui nimis accipiebant, et propter otiosos inter eos.
+	I Cor.
+	IV, 12: <hi>laboramus operantes manibus nostris</hi>, et cetera.
+	Deinde cum dicit <hi>vos enim estis</hi>, ponit puritatem suae conversationis, et primo quomodo sancta, quo ad vitam; secundo quomodo sollicita, quo ad doctrinam, ibi <hi>qualiter unumquemque</hi>.
+	Dicit ergo: scitis <hi>quam sancte</hi>, id est pure.
+	Lev.
+	XI, 44 et XIX, 2: <hi>sancti estote, quia ego sanctus sum.
+	Iuste</hi>, quo ad proximum.
+	Tit.
+	II, 12: <hi>sobrie et iuste, et pie vivamus in hoc saeculo.
+	Sine querela, vobis qui credidistis</hi>, id est ex quo credidistis nihil agentes, unde quis posset scandalizare unumquemque vestrum singulariter.
+	Nota quod singularis praedicatio quandoque multum valet.
+	Tamquam <hi>pater</hi>.
+	I Cor.
+	IV, 15: <hi>in Christo Iesu per Evangelium ego vos genui.
+	Deprecantes</hi>.
+	Philem. 8: <hi>multam fiduciam habens in Christo Iesu imperandi tibi quod ad rem pertinet, propter charitatem magis obsecro.
+	Et consolantes</hi> per verba lenia.
+	Contra quod dicitur Ezech.
+	XXXIV, 4: <hi>cum austeritate imperabatis eis cum potentia</hi>.
+	Is.
+	LXI, 2: <hi>ut consolarer omnes lugentes, et ponerem consolationem lugentibus Sion</hi>.
+	Et quid praedicasti? <hi>Ut digne</hi>, id est, ut vestra conversatio esset talis, qualis decet ministros Christi.
+	Col.
+	I, 10: <hi>ambuletis digne Deo per omnia placentes.
+	Deo, qui</hi>, et cetera.
+	Sap.
+	VI, 21: <hi>concupiscentia itaque sapientiae deducet ad regnum perpetuum</hi>.</p>
+
+<div2 n="2"><head>Lectio 2</head>
+<p><A NAME="87864"/>Supra ostendit apostolus qualis fuit ad eos introitus suus, hic ostendit qualis fuit eorum conversio.
+	Et circa hoc duo facit, quia primo ostendit, quod perfecte conversi sunt per fidem firmam; secundo quomodo fortiter perstiterunt in tribulationibus, ibi <hi>vos enim</hi>.
+	Ponit ergo primo bona eorum pro quibus gratias agit, et reddit rationem.
+	Dicit ergo <hi>ideo</hi>, quia sollicite vobis praedicavi, sicut pater filiis, ideo de bonis vestris <hi>gratias ago</hi>, sicut pater de bonis filiorum.
+	III Io.
+	II, v. 4: <hi>maiorem horum non habeo gratiam, quam ut audiam filios meos in veritate ambulare</hi>.
+	Phil.
+	IV, 6: <hi>cum gratiarum actione</hi>.
+	Sed de quo? <hi>Quoniam cum accepissetis a nobis</hi>, et cetera.
+	Gratias debet agere praedicator quando verbum eius in auditoribus proficit.
+	Et dicit verba <hi>auditus Dei a nobis</hi>, id est, per nos.
+	Ps.
+	LXXXIV, 9: <hi>audiam quid loquatur in me dominus Deus</hi>.
+	Rom.
+	X, 17: <hi>fides enim ex auditu, auditus autem per verbum Christi.
+	Accepistis illud</hi>, id est, firmiter in corde tenuistis, <hi>non ut verbum hominum</hi>, quia vana verba hominis.
+	II Cor.
+	XIII, 3: <hi>an experimentum quaeritis eius, qui in me loquitur Christus?</hi> II Petr.
+	I, 21: <hi>non enim voluntate humana allata est aliquando prophetia, sed spiritu sancto inspirati locuti sunt sancti Dei homines</hi>.
+	Et quare gratias agitis? Quia hoc ipsum quod <hi>credidistis</hi>, Deus in vobis operatus est.
+	Phil.
+	II, 12: <hi>Deus est qui operatur in vobis velle et perficere pro bona voluntate</hi>.
+	Is. c.
+	XXVI, 13: <hi>omnia opera nostra operatus es in nobis, domine</hi>.
+	Deinde cum dicit <hi>vos enim</hi>, ostendit quomodo fortiter perstiterunt in tribulationibus.
+	Et circa hoc duo facit, quia primo ponit tribulationes eorum in quibus steterunt; secundo quod remedium proposuit adhibere, ibi <hi>nos autem</hi>.
+	Item prima dividitur in duas, quia primo commendat eorum patientiam in adversis; secundo reprehendit eos, qui intulerunt adversa, ibi <hi>qui Christum</hi>.
+	Dicit ergo: accepistis verbum non ut est hominum, <hi>sed sicut est vere verbum Dei</hi>, quia exposuistis vos pro illo usque ad mortem.
+	Per hoc enim, quod homo moritur propter Christum, testificatur quod verba fidei sunt verba Dei.
+	Et ideo martyres idem est quod testes. <hi>In Iudaea</hi>.
+	Ibi enim fides Christi primo est annuntiata.
+	Is.
+	II, 3: <hi>de Sion exibit lex, et verbum domini de Ierusalem</hi>.
+	Ibi etiam primo persecutio fidei facta fuit.
+	Act.
+	VIII, 1: <hi>facta est autem in illa die persecutio magna in Ecclesia, quae erat Ierosolymis</hi>, et cetera.
+	Hebr. c.
+	X, 32: <hi>rememoramini autem pristinos dies, in quibus illuminati magnum certamen sustinuistis passionum</hi>.
+	Et isti similes passiones passi sunt.
+	Et ideo dicit <hi>eadem passi a contribulibus vestris</hi>, id est, ab infidelibus Thessalonicensibus.
+	Matth.
+	X, 36: <hi>inimici hominis</hi>, et cetera.
+	Deinde cum dicit <hi>qui et dominum</hi>, vituperat Iudaeos, a quibus incepit persecutio.
+	Et primo commemorat eorum culpam; secundo rationem culpae, ibi <hi>ut impleant</hi>.
+	Circa primum tria facit: primo eorum culpam ponit in comparatione ad Dei ministros; secundo ad ipsum; tertio ad totum genus humanum.
+	Ministri Dei sunt praedicatores.
+	Praedicatio autem principaliter est a Christo, figuraliter a prophetis, executive ab apostolis.
+	Contra hos tres insurrexerunt Iudaei.
+	Et primo dicit de Christo, ibi <hi>qui et dominum</hi>.
+	Matth.
+	XXI, 38: <hi>hic est haeres, venite, occidamus eum</hi>.
+	Nec obstat si gentiles occiderunt eum, quia ipsi suis vocibus petierunt eum occidi a Pilato.
+	Ier.
+	XII, 8: <hi>facta est haereditas mea mihi, quasi leo in silva, dedit contra me vocem</hi>, et cetera.
+	Secundo dicit de prophetis, ibi <hi>et prophetas</hi>.
+	Act.
+	VII, 52: <hi>quem prophetarum non sunt persecuti patres vestri? Et occiderunt eos, qui praenuntiabant de adventu iusti, cuius vos nunc proditores et homicidae fuistis</hi>.
+	Tertio dicit de apostolis <hi>et nos</hi>, scilicet apostolos.
+	Matth.
+	X, 17: <hi>tradent vos in Conciliis</hi>, et cetera.
+	Secundo ponit culpam in comparatione ad Deum, ibi <hi>Deo non placent</hi>, licet crederent in hoc se obsequium praestare Deo Io.
+	XVI, 2.
+	Sed quia zelum Dei habent non secundum scientiam, ideo Deo non placent, quia non faciunt recta fide, et <hi>sine fide impossibile est placere Deo</hi>, Hebr.
+	XI, 6.
+	Is.
+	V, v. 25: <hi>iratus est furor domini in populo</hi>, et cetera.
+	Tertio ostendit eorum culpam in comparatione ad totum genus humanum, cum dicit <hi>omnibus hominibus adversantur</hi>.
+	Gen. c.
+	XVI, 12: <hi>manus eius contra omnes</hi>, et cetera.
+	Adversantur autem in hoc, quia prohibent et impediunt praedicationem gentilium et conversionem.
+	Act.
+	XI, 2 reprehenditur Petrus, quod ivit ad Cornelium.
+	Item Lc.
+	XV, v. 28 filius maior, scilicet populus Iudaeorum, turbatur, quia filius minor, id est, populus gentilium recipitur a patre.
+	Is.
+	XLV, 10: <hi>vae qui dicit patri: quid generas?</hi> Num.
+	XI, 29: <hi>quis det ut omnis populus prophetet?</hi> Ratio autem huius culpae est ex divina permissione, qua vult ut impleant peccata sua.
+	Omnium enim quae fiunt, sive bona, sive mala, est quaedam certa mensura, quia nihil est infinitum.
+	Et omnium istorum mensura est in praescientia.
+	Bonorum quidem, in eius praeparatione.
+	Eph.
+	IV, 7: <hi>quia unicuique nostrum data est gratia secundum mensuram donationis Christi</hi>.
+	Malorum vero, in permissione, quia si aliqui sunt mali, non tamen quantum volunt, sed quantum Deus permittit.
+	Et ideo tamdiu vivunt, quamdiu perveniant ad hoc, quod Deus permittit.
+	Matth.
+	XXIII, 32: <hi>implete mensuram patrum vestrorum</hi>, et cetera.
+	Et ideo dicit <hi>ut impleant</hi>, et cetera.
+	Deus enim dedit Iudaeis post passionem Christi spatium poenitentiae per quadraginta annos, nec conversi sunt, sed addebant peccata peccatis.
+	Et ideo Deus non plus permisit.
+	Unde dicit hic <hi>pervenit ira Dei</hi>, et cetera.
+	IV Reg.
+	XXII, 13: <hi>ira Dei magna succensa est contra nos, quia non audierunt patres nostri verba libri huius</hi>, et cetera.
+	Lc.
+	XXI, 23: <hi>erit enim pressura magna super terram, et ira populo huic</hi>, et cetera.
+	Et non credas quod haec ira sit per centum annos, sed <hi>usque in finem</hi> mundi, quando plenitudo gentium intraverit, et cetera.
+	Lc.
+	XIX, 44 et XXI, 6 et Matth.
+	XXIV, 2: <hi>non relinquetur lapis super lapidem, qui non destruatur</hi>.
+	Deinde cum dicit <hi>nos autem</hi>, ostendit remedium, quod eis proposuit adhibere, scilicet quod personaliter iret ad eos.
+	Et circa hoc duo facit, quia primo ponit propositum suae visitationis; secundo impedimentum, ibi <hi>sed impedivit</hi>; tertio causam quare volebat ire, ibi <hi>quae autem est</hi>.
+	Dicit ergo <hi>nos autem, fratres, desolati a vobis</hi>, a quibus eramus separati, vel propter tribulationes vestras, <hi>ore</hi>, id est, carentes collocutione, <hi>et aspectu</hi>, id est, carentes visione: propter haec enim duo necessaria est amici praesentia, quia est consolativa; sed <hi>non corde</hi>, quia corde sumus praesentes.
+	I Cor.
+	V, 3: <hi>ego absens quidem corpore, praesens autem spiritu.
+	Abundantius festinavimus faciem</hi>, et cetera.
+	Ut sicut corde, sic et corpore praesens esset.
+	Rom.
+	XV, 23: <hi>cupiditatem habens veniendi ad vos ex multis iam praecedentibus annis</hi>, et cetera. <hi>Festinavimus</hi>, dicit pluraliter, quia scribit ex persona trium, scilicet sui, Silvani et Timothei.
+	Ideo etiam <hi>voluimus venire ad vos</hi>, omnes forte semel, sed ego Paulus <hi>semel et iterum</hi>, id est, bis proposui, <hi>sed impedivit nos Satanas</hi>, id est, procuravit impedimenta, forte per aeris tempestates.
+	Ap.
+	VII, 1: <hi>isti sunt Angeli, qui tenent ventos</hi>.
+	Deinde cum dicit <hi>quae est enim</hi>, ostendit causam propositi.
+	Primo quantum ad futurum; secundo quantum ad praesens, ibi <hi>vos enim</hi>, et cetera.
+	Dicit ergo: desidero videre vos, et gratias ago de bonis vestris, quae sunt spes nostra.
+	Nam pro his speramus a Deo praemia, quando reddere venerit unicuique secundum opera sua.
+	Maxima enim est retributio praedicatori ex his quos convertit. <hi>Aut gaudium</hi>, quia gaudium illorum est gaudium apostoli, sicut bonum eorum est bonum apostoli; bonum enim effectus reducitur in bonum causae. <hi>Aut corona gloriae</hi>, quia pro certaminibus eorum et iste, qui induxit ad certandum, coronatur.
+	Dux enim, qui induxit milites ad pugnam coronabitur.
+	Eccli.
+	XXX, v. 2: <hi>qui docet filium, laudabitur in illo, et in medio domesticorum in illo gloriabitur</hi>, et cetera.
+	Haec, inquam, spes, quae est? <hi>Nonne vos?</hi> Imo sic in futuro <hi>ante dominum nostrum Iesum Christum in adventu eius</hi>.
+	Sed etiam in praesenti <hi>vos enim estis</hi>, apud omnes fideles, <hi>gloria nostra</hi>.
+	I Cor. c.
+	IX, 15: <hi>melius est mihi mori, quam ut gloriam meam quis evacuet.
+	Et gaudium</hi>, quo laetor de bonis vestris in praesenti.</p>
+</div2></div1>
+<div1 n="3"><head>Caput 3</head>
+<p><A NAME="87865"/>Commemoravit tribulationes quas passi erant, et remedium quod proposuit eis impendere, hic ostendit quomodo eis subvenisset visitando per Timotheum.
+	Et primo agit de missione nuntii; secundo de relatione facta per eum, ibi <hi>nunc autem</hi>; tertio de effectu relationis in apostolo, ibi <hi>ideo consolati</hi>.
+	Item prima in tres, quia primo praemittit causam quare misit eum; secundo qualem misit; tertio causam propter quam misit.
+	Dicit ergo <hi>propter quod</hi>, id est, quia impedivit nos Satanas, tamen <hi>vos estis gloria nostra</hi>; ideo <hi>non sustinentes</hi> pondus amoris inclinantis ad vos.
+	Is.
+	I, 14: <hi>facta sunt mihi molesta</hi>, et cetera.
+	Gen.
+	XLV, 1: <hi>non se poterat ultra cohibere.
+	Placuit nobis</hi>, scilicet Paulo et Silvano, <hi>remanere Athenis</hi> solis <hi>et misimus Timotheum</hi>, quia erat apostolo convenientissimus.
+	Phil.
+	II, 20: <hi>neminem habeo tam unanimem, qui sincera affectione pro vobis sollicitus sit</hi>.
+	I Cor.
+	IV, 17: <hi>misi ad vos Timotheum, qui est filius meus charissimus et fidelis in domino.
+	Fratrem</hi>, per charitatem adiuvantem.
+	Prov.
+	XVIII, 19: <hi>frater qui iuvatur a fratre, quasi civitas firma.
+	Et ministrum</hi>.
+	Ecclesiae dignitas est.
+	II Cor.
+	XI, 23: <hi>ministri Christi sunt, et ego</hi>, et cetera.
+	Mittit autem ad confirmandos eos et referendum sibi.
+	Deinde cum dicit <hi>ad confirmandos</hi>, etc., ostendit quod mittitur ad confirmandum.
+	Et primo facit hoc; secundo ponitur ratio confirmationis, ibi <hi>ipsi enim</hi>.
+	Dicit ergo <hi>ad confirmandos vos et exhortandos</hi>, quia per exhortationes animus hominis confirmatur.
+	Iob IV, 4: <hi>vacillantes confirmaverunt sermones tui</hi>.
+	Lc.
+	XXII, v. 32: <hi>et tu aliquando conversus confirma fratres tuos</hi>.
+	Et indigetis exhortari <hi>pro fide vestra, ut nemo moveatur in his tribulationibus</hi>.
+	Eccli. c.
+	X, 4: <hi>si spiritus potestatem habentis ascenderit super te, locum tuum ne dimiseris</hi>.
+	Est autem ratio duplex confirmans.
+	Una ex ordinatione divina: <hi>ipsi enim scitis</hi>, etc., quasi dicat: ita voluit Deus, ut per tribulationes in caelum intraretis.
+	Act.
+	XIV, 22: <hi>per multas tribulationes oportet vos intrare in regnum Dei</hi>, et II Tim.
+	III, 12: <hi>omnes qui pie volunt vivere in Christo Iesu, persecutionem patientur</hi>.
+	Per hanc viam ivit Christus.
+	Lc. ult.: <hi>oportebat Christum pati et resurgere, et sic intrare in gloriam suam</hi>.
+	Alia ratio est ex parte praenuntiationis, quia praevisa minus feriunt.
+	Unde dicit <hi>nam et cum apud</hi>, etc., id est, quia ego praedixi vobis tribulationes, quas estis passi in istis annis, <hi>misi ad cognoscendum</hi>, etc., qualiter scilicet essetis fortes in fide.
+	Prov.
+	XXVII, v. 23: <hi>diligenter agnosce vultum pecoris tui, et greges tuos considera.
+	Is qui tentat</hi>, scilicet Diabolus.
+	Matth.
+	IV, 3: <hi>accedens tentator</hi>, Glossa: cuius officium est tentare.
+	Sed contra: tentant mundus et caro.
+	Iac. c.
+	I, 14: <hi>unusquisque tentatur a concupiscentia sua</hi>, et cetera.
+	Item Gen.
+	XXII, 1: <hi>tentavit Deus Abraham</hi>, et cetera.
+	Respondeo.
+	Tentare est experimentum de aliquo sumere.
+	In hoc considerandum est ad quid velit sumere, et quomodo.
+	Nam hoc est dupliciter: vel ut ipse cognoscat, vel ut alium cognoscere faciat.
+	Primo modo Deus non tentat, ipse enim scit quid est in homine Io.
+	II, 25.
+	Secundo modo sic: Deus enim tentavit Abraham, scilicet ut alii scirent fidem eius.
+	Sed primo modo tentare est dupliciter, scilicet ut promoveat ad bonum, sicut episcopus promovendos examinat; vel aliquis tentat ut decipiat, et hoc est Diaboli, quia scilicet inquirit conditionem hominum, ut secundum diversas conditiones ad diversa vitia ad quae proni sunt inducat.
+	I Petr.
+	V, 8: <hi>adversarius vester Diabolus</hi>, et cetera.
+	Officium ergo eius est tentare ad decipiendum.
+	Mundus autem et caro dicuntur tentare materialiter, quia per ea, ad quae ipsa inclinant, sumitur experimentum de homine, utrum firmus sit ad mandata Dei et dilectionem.
+	Si enim vicerit concupiscentia, non perfecte diligit Deum.
+	Et similiter quando res mundi vel terrent, vel afficiunt. <hi>Et inanis</hi>, quia si tentationi non resistitis, labor vester esset inanis.
+	Gal.
+	IV, 11: <hi>timeo vos ne forte sine causa laboraverim in vobis</hi>.
+	Ez.
+	XVIII, 24: <hi>omnes iustitiae eius quas operatus est, non recordabuntur</hi>.
+	Inanis autem dicitur, respectu mercedis aeternae; tamen bona ante peccatum commissa ad aliquid valent, quia post poenitentiam reviviscunt, et disponitur quis faciliter ad convertendum.
+	Deinde cum dicit <hi>nunc autem</hi>, etc., ostendit quomodo retulit Timotheus bona eorum pertinentia ad Deum et apostolum: ad Deum fidem et charitatem.
+	Gal.
+	VI, 15: <hi>in Christo Iesu, neque circumcisio aliquid valet, neque praeputium, sed nova creatura</hi>.
+	Sed fidem, etiam ad apostolum; unde dicit <hi>et quia memoriam</hi>.
+	Eccli.
+	XLIX, 1: <hi>memoria Iosiae in compositione operis facta, opus pigmentarii</hi>, et cetera.
+	Prov.
+	X, 7: <hi>memoria iusti cum laudibus</hi>, et cetera. <hi>Desiderantes videre nos, sicut et nos quoque vos</hi>.
+	Augustinus: <hi>durus est animus, qui dilectionem, et si non velit impendere, noluit rependere</hi>.
+	Is.
+	LI, 2: <hi>attendite ad Abraham patrem vestrum</hi>, et cetera.
+	Deinde cum dicit <hi>ideo consolati</hi>, ponitur effectus relationis triplex, scilicet spiritualis consolationis, gratiarum actionis, ibi <hi>quam enim</hi>, et orationis multiplicatae, ibi <hi>nocte</hi>.
+	Dicit ergo: quia talia audivimus de vobis, licet necessitates temporalium immineant et tribulationes corporales, tamen <hi>consolati sumus</hi>.
+	Ps.
+	XCIII, 19: <hi>secundum multitudinem dolorum meorum in corde meo consolationes tuae laetificaverunt animam meam</hi>, et cetera.
+	II Cor.
+	I, 3: <hi>benedictus Deus et pater domini nostri Iesu Christi, pater misericordiarum, et Deus totius consolationis</hi>, et cetera.
+	Et hoc <hi>per fidem vestram</hi>, id est, audiens firmitatem fidei vestrae, <hi>quoniam vivimus</hi>, et cetera.
+	Quasi dicat: tantum diligo statum vestrum, quod reputo me per ipsum vivere.
+	Gen. c.
+	XLV, 28: <hi>sufficit mihi si adhuc Ioseph filius meus vivit</hi>.
+	Deinde cum dicit <hi>quam enim</hi>, etc. ponitur secundus effectus relationis factae, scilicet gratiarum actio; quasi dicat: non sufficio, quod aliquam condignam gratiarum actionem agam Deo pro vobis.
+	Mich.
+	VI, 6: <hi>quid dignum offeram domino</hi>, et cetera.
+	Ps.
+	CXV, v. 12: <hi>quid retribuam domino pro omnibus</hi>, et cetera.
+	Referendae sunt tamen gratiarum actiones <hi>in omni gaudio</hi>, quod omnino non est exterius, sed <hi>quo gaudemus propter vos</hi>, in conscientia, <hi>ante dominum</hi>, qui videt eam.
+	Vel <hi>ante dominum</hi>, quia de proximo placet Deo.
+	I Cor.
+	XIII, 6: <hi>congaudet veritati</hi>, et cetera.
+	Deinde cum dicit <hi>nocte</hi>, etc., ponitur tertius effectus relationis, et primo proponit multiplicitatem orationis, secundo ostendit quid orando optet, ibi <hi>ipse autem</hi>, et cetera.
+	Dicit ergo: gratias agimus de praeteritis, nec tamen deficimus quin oremus pro futuris, imo <hi>nocte ac die</hi>, id est, adversis et prosperis.
+	Ps.
+	LIV, 18: <hi>vespere et mane ac meridie narrabo</hi>, et cetera. <hi>Quae desunt</hi>, et cetera.
+	Non quidem quae erant de necessitate fidei, sed aliqua secreta, quae necdum apostolus eis praedicavit in sua novitate.
+	I Cor.
+	III, 1: <hi>non potui loqui vobis quasi spiritualibus, sed quasi carnalibus</hi>, et cetera.
+	Io.
+	XVI, 12: <hi>multa habeo vobis loqui, quae non</hi>, et cetera.
+	Deinde cum dicit <hi>ipse autem Deus</hi>, etc., demonstrat quid optet eis.
+	Et circa hoc primo ostendit quid petat, ibi <hi>ad confirmanda</hi>.
+	Petit autem duo: unum ex parte sua, ut posset ire ad eos.
+	Unde dicit <hi>ipse Deus et pater noster</hi>, et cetera.
+	Io.
+	XX, 17: <hi>ascendo ad patrem meum et patrem vestrum</hi>, et cetera.
+	Prov.
+	XVI, 1: <hi>hominis est praeparare animum, et domini gubernare linguam</hi>.
+	Aliud ex parte eorum.
+	Unde dicit <hi>vos autem multiplicet</hi>, scilicet in fide.
+	II Reg.
+	XXIV, v. 3: <hi>adaugeat dominus populum suum centuplum, quam sunt</hi>, et cetera.
+	Et ut augeantur merita.
+	Unde dicit <hi>et abundare faciat charitatem vestram</hi>, quae semper in via crescere potest.
+	Col.
+	III, 14: <hi>super omnia charitatem habete, quod est vinculum perfectionis</hi>.
+	Et primo, <hi>invicem</hi>; secundo, <hi>in omnes</hi>.
+	Gal.
+	VI, 10: <hi>operemur bonum ad omnes: maxime autem ad domesticos fidei</hi>.
+	Et ponit exemplum de seipso, dicens <hi>quemadmodum</hi>, etc., quasi dicat: sicut et ego diligo vos.
+	II Cor.
+	VII, 3: <hi>in cordibus nostris estis ad commoriendum et ad convivendum</hi>.
+	Sed ad quid petit? <hi>Ad confirmanda corda vestra sine querela</hi>, id est, ut nullus possit conqueri de vobis.
+	Lc.
+	I, 6: <hi>incedentes in omnibus mandatis et iustificationibus sine querela</hi>.
+	Et <hi>sanctitate ante Deum</hi>, scilicet qui cor videt.
+	Lc.
+	I, 75: <hi>in sanctitate et iustitia coram ipso</hi>, et cetera.
+	Et hoc apparet <hi>in adventu domini nostri Iesu Christi</hi>, ut vos inveniat sanctos; qui adventus erit <hi>cum omnibus sanctis eius</hi>, id est, sitis in conspectu eius, sicut sunt omnes sancti ante eum.</p>
+</div1>
+<div1 n="4"><head>Caput 4</head>
+<div2 n="1"><head>Lectio 1</head>
+<p><A NAME="87866"/>Supra commendavit apostolus fideles de constantia in tribulationibus et aliis bonis, hic in futurum monet ad bene agendum.
+	Et primo proponit generalem admonitionem; secundo specificat, ibi <hi>ut abstineatis</hi>.
+	Circa primum duo facit, quia primo proponit intentum, secundo rationem monitionis assignat, ibi <hi>ut abundetis</hi>, et cetera.
+	Dicit ergo: audivi bona vestra praeterita, sed in futurum <hi>rogamus</hi>, et cetera.
+	Inducit autem eos primo ex parte sua.
+	Et ideo dicit <hi>rogamus</hi>.
+	Ps.
+	CXXI, 6: <hi>rogate quae ad pacem sunt</hi>, et cetera.
+	Item ex parte Christi, et sic dicit <hi>obsecramus</hi>, et cetera.
+	Obsecrat autem, quia erant perfecti.
+	I Tim.
+	V, 1: <hi>seniorem te ne increpaveris, sed obsecra ut patrem</hi>.
+	Sed quid rogat? <hi>Ut quemadmodum</hi>, et cetera.
+	Docuerat eos apostolus quomodo oporteret eos ambulare in via communi iustitiae, quae est per mandata.
+	Unde dicit: <hi>accepistis</hi>, et cetera.
+	Ps.
+	CXVIII, 32: <hi>viam mandatorum tuorum</hi>, et cetera.
+	Item quomodo placerent Deo in via consiliorum.
+	Sap.
+	IV, 10: <hi>placens Deo factus est dilectus</hi>.
+	Vel quomodo ambuletis, scilicet per rectam operationem.
+	Io.
+	XII, 35: <hi>ambulate dum lucem habetis</hi>.
+	Quomodo placeatis, scilicet per rectam intentionem. <hi>Sic et ambuletis</hi>, id est, ut servetis primam doctrinam non recedendo ab ea.
+	Gal.
+	I, 8: <hi>sed licet nos aut Angelus de caelo evangelizet vobis praeter quam quod evangelizavimus vobis, anathema sit</hi>.
+	Ratio monitionis accipitur primo ex fructu servatae monitionis; secundo ex ipsa monitione, ibi <hi>scitis enim quae</hi>, et cetera.
+	Dicit ergo: licet sitis boni, tamen per exercitium mandatorum et consiliorum abundabitis et proficietis.
+	II Cor.
+	IX, 8: <hi>potens est Deus omnem gratiam abundare facere in vobis</hi>.
+	Est enim charitas tam magna, quod semper restat quo proficiendum sit.
+	Item quae ex monitione accepistis, honesta sunt et utilia.
+	Ps.
+	XVIII, 8: <hi>lex domini immaculata</hi>, et cetera.
+	Prov.
+	VI, 23: <hi>mandatum lucerna est, et lex lux et via vitae</hi>.
+	Ideo dicit <hi>quae praecepta</hi>, id est, qualia.
+	Et hoc <hi>per dominum Iesum</hi> accepta ab eo.
+	I Cor. c.
+	XI, 23: <hi>ego enim accepi a domino quod et tradidi vobis</hi>, et cetera.
+	Hebr.
+	II, 3: <hi>quae cum initium accepisset enarrari per dominum ab his, qui audierunt</hi>, et cetera.
+	Et haec sunt ista. <hi>Haec est voluntas Dei sanctificatio vestra</hi>, quasi dicat: omnia praecepta Dei sunt ad hoc quod sitis sancti.
+	Sanctitas enim dicit munditiam et firmitatem.
+	Et omnia Dei praecepta inducunt ad ista, ut quis mundus sit a malo, et firmus in bono.
+	Rom.
+	XII, 2: <hi>probetis quae sit voluntas Dei</hi>, scilicet explicata per praecepta.
+	Deinde cum dicit <hi>ut abstineatis</hi>, monet in speciali.
+	Et primo corrigit eos de quibusdam inordinationibus inter eos; secundo promovet ad observantiam bonorum, V cap., ibi <hi>de temporibus</hi>.
+	Tres autem inordinationes erant inter eos, scilicet carnalium vitiorum quantum ad quosdam, item curiositatis, item tristitiae de mortuis, et ideo de istis agit.
+	Secunda, ibi <hi>de charitate autem</hi>.
+	Tertia, ibi <hi>nolumus vos</hi>.
+	Circa primum duo facit, quia primo monet abstinere ab immoderato appetitu carnalium; secundo ponit rationem, ibi <hi>quoniam vindex</hi>.
+	Iterum prima in duas, quia primo prohibet luxuriam; secundo avaritiam.
+	Et coniungit haec semper: quia utrumque est circa obiectum corporale, licet hoc compleatur in delectatione spirituali.
+	Item, primo docet cavere luxuriam quantum ad non suam, secundo quantum ad uxorem propriam, ibi <hi>ut sciat</hi>.
+	Dicit ergo <hi>ut abstineatis a fornicatione</hi>.
+	Voluntas enim Dei est abstinere a fornicatione, ergo est peccatum mortale, quia est contra praeceptum et voluntatem Dei.
+	Tob.
+	IV, 13: <hi>attende tibi ab omni fornicatione</hi>.
+	Sed et respectu uxoris abstineatis honeste, <hi>ut sciat unusquisque vas suum</hi>, id est, uxorem, <hi>possidere in sanctificatione</hi>, cessando ad tempus, <hi>et in honore, non in passione</hi>, ut scilicet passio praecedat; <hi>sicut et gentes</hi>, quia hoc est gentilium quaerere delectationes praesentes, non autem futurae vitae. <hi>In sanctificatione et honore</hi>, quia hic est debitus usus matrimonii, quia est ad bonum prolis, vel ad reddendum debitum, et sic potest esse sine peccato; sed aliquando est veniale peccatum, si non efferatur concupiscentia ultra limites matrimonii, scilicet quando licet concupiscentiam habeat, non tamen uteretur ea nisi esset uxor sua.
+	Sed quando est extra limites matrimonii, sequitur mortale, et hoc quando si non esset sua uxor, adhuc uteretur ea, et libentius cum alia.
+	Hebr. ult., 4: <hi>sit honorabile connubium, et thorus immaculatus</hi>.
+	Fornicatores autem et adulteros iudicabit Deus.
+	I Petr.
+	III, 7: <hi>viri similiter cohabitantes secundum scientiam quasi infirmiori vasculo muliebri impartientes honorem, tamquam cohaeredibus gratiae et vitae, ut non impediantur orationes vestrae</hi>.
+	Deinde cum dicit <hi>et ne quis</hi>, prohibet avaritiam.
+	Unde dicit <hi>et ne quis supergrediatur</hi>, id est, violentiam inferat auferendo aliena per potentiam.
+	Iac.
+	II, 6: <hi>nonne divites per potentiam vos opprimunt? Neque circumveniat</hi> per dolum.
+	Ier.
+	V, 27: <hi>sicut decipula plena avibus, sic domus eorum plenae dolo</hi>.
+	Deinde cum dicit <hi>quoniam vindex</hi>, etc., ponitur ratio monitionis, quam primo assignat ex divina ultione; secundo ostendit hanc ultionem esse iustam, ibi <hi>non enim vocavit</hi>.
+	Dicit ergo: abstineamus ab his, quia <hi>dominus est vindex</hi>.
+	Gal.
+	V, 21: <hi>praedico vobis sicut praedixi, quoniam qui talia agunt, regnum Dei non consequentur</hi>.
+	Nam certe iuste ulciscitur, cuius una est ratio ex Deo vocante, secunda ex contrarietate doni.
+	Si dominus vocat te ad unum, et tu agis contrarium, dignus es poena.
+	Et ideo dicit <hi>non enim vocavit</hi>, et cetera.
+	Eph.
+	I, 4: <hi>elegit nos in ipso ante mundi constitutionem, ut simus sancti et immaculati in conspectu eius in charitate</hi>.
+	Rom.
+	VIII, 30: <hi>quos vocavit, hos et iustificavit</hi>, et cetera.
+	Ideo dicit <hi>itaque</hi>, etc.; quasi dicat: haec est una ratio specialis quam dixi.
+	Alia est ratio, quia contrariantur haec vitia spiritui, qui datus est nobis.
+	Unde qui haec agit, iniuriam facit spiritui sancto.
+	Ideo dicit <hi>qui etiam</hi>, et cetera.
+	Hebr.
+	X, 28: <hi>irritam quis faciens legem Moysi sine ulla miseratione duobus, vel tribus testibus moritur, quanto magis putatis deteriora mereri supplicia, qui filium Dei conculcaverit et sanguinem testamenti pollutum duxerit in quo sanctificatus est, et spiritui gratiae contumeliam fecerit?</hi> Deinde cum dicit <hi>de charitate autem</hi>, etc., retrahit ab otiositate.
+	Sciendum est autem, quod sicut dicit Hieronymus in epistola ad Galatas, Thessalonicenses erant liberales, et erat consuetudo apud eos divites dare multum; et ideo pauperes otiose inhaerebant beneficio eorum, non curantes labores, sed discurrere per domos.
+	Et ideo primo commendat liberalitatem dantium; secundo otium accipientium dissuadet, ibi <hi>et operam detis</hi>.
+	Dicit ergo primo, quod non indigent moneri ad charitatem; secundo monet quod in ea proficiant, ibi <hi>rogamus autem</hi>.
+	Dicit ergo <hi>de charitate autem fraternitatis</hi>, id est, quod diligatis fratres, <hi>non est necesse scribere vobis</hi>.
+	Rom.
+	XII, 10: <hi>charitate fraternitatis invicem diligentes</hi>.
+	Hebr. ult.: <hi>charitas fraternitatis maneat in vobis</hi>.
+	Et ratio est quia <hi>ipsi didicistis a Deo</hi>, scilicet praeceptum in lege.
+	Lev.
+	XIX, 18: <hi>diliges amicum tuum sicut teipsum</hi>.
+	Item in Evangelio.
+	Io.
+	XIII, 34: <hi>mandatum novum do vobis, ut diligatis invicem</hi>, et cetera.
+	Vel <hi>didicistis</hi> interiori disciplina.
+	Io.
+	VI, 45: <hi>omnis qui audivit a patre et didicit, venit ad me</hi>, et cetera.
+	Et hoc addiscit per spiritum sanctum.
+	Deinde cum dicit <hi>rogamus autem</hi>, hortatur eos ad proficiendum in charitate, dicens: et quia habetis charitatem ad omnes, ideo <hi>rogamus</hi> ut proficiatis.
+	Et licet alii abutantur, vos tamen insistatis.
+	Prov.
+	XV, 5: <hi>in abundanti iustitia virtus maxima est</hi>.
+	Deinde cum dicit <hi>et operam detis</hi>, arguit otiosos, et primo eorum inquietudinem; secundo ostendit quomodo eam reprimant; tertio quare.
+	Dicit ergo: <hi>operam detis, ut quieti sitis</hi>.
+	Prov.
+	VII, 10: <hi>garrula et vaga, quietis impatiens, nec valens pedibus suis in domo consistere</hi>, et cetera.
+	II Thess.
+	III, 7: <hi>non inquieti fuimus inter vos, neque gratis panem manducavimus ab aliquo, sed in labore et fatigatione nocte et die operantes</hi>, et cetera. <hi>Otium</hi> reprimentes exercendo negotia.
+	Unde dicit <hi>et ut vestrum negotium agatis</hi>.
+	Prov.
+	XXIV, 27: <hi>diligenter exerce agrum, ut postea aedifices domum tuam</hi>.
+	Dicit autem <hi>vestrum</hi>, sed numquid non alienum negotium est agendum? Et videtur quod sic.
+	Rom. ult.: <hi>assistatis ei in quocumque negotio</hi>.
+	Respondeo.
+	Dicendum est, quod omnia possunt inordinate fieri, si fiant praeter ordinem rationis, tunc scilicet quando aliquis se improbe gerit, et ordinate, scilicet quando servatur ordo rationis, et in necessitate, et hoc est commendabile. <hi>Et operemini manibus vestris</hi>, id est, operando manibus vestris.
+	Eccli.
+	XXXIII, 29: <hi>multa mala docuit otiositas</hi>, et cetera.
+	Ez.
+	XVI, 49: <hi>haec fuit iniquitas Sodomae sororis tuae, superbia, saturitas panis, et abundantia, et otium ipsius et filiarum eius, et manum egeno et pauperi non porrigebant</hi>, et cetera.
+	Et hoc est in praecepto omnibus illis, qui non habent alia unde licite vivere possunt; quia de praecepto naturae est, quod homo corpus sustentet, II Thess.
+	III, 10: <hi>qui non vult operari, nec manducet</hi>.
+	Huius est duplex ratio.
+	Prima propter exemplum aliorum.
+	Unde dicit <hi>ut et honeste</hi>, et cetera.
+	Infideles enim videntes conversationem vestram sic otiosam, detestantur vos.
+	I Tim.
+	III, 7: <hi>oportet autem illum testimonium habere bonum ab his qui foris sunt</hi>, et cetera.
+	Secunda ratio, ut non desideretis ea quae sunt aliorum; unde dicitur <hi>et nullius aliquid desideretis</hi>.
+	Prov.
+	XXI, 25: <hi>desideria occidunt pigrum</hi>.
+	Eph.
+	IV, 28: <hi>qui furabatur, iam non furetur</hi>, et cetera.
+	Et ideo haec inquietudo si reprimatur, est in bonum exemplum, et in repressionem desiderii.</p>
+</div2>
+<div2 n="2"><head>Lectio 2</head>
+<p><A NAME="87867"/>Supra induxit ad continentiam a cupiditatibus, et compescuit ab otiositate, hic compescit ab inordinata tristitia.
+	Primo praemittens monitionem, secundo assignat rationem, ibi <hi>si enim credimus</hi>.
+	Prohibentur ergo, ne scilicet inordinate tristentur, unde dicit <hi>sicut et caeteri</hi>.
+	Videtur autem apostolus bene concedere tristari pro mortuis, aliquid tamen prohibere, ne scilicet inordinate tristentur, unde dicit <hi>sicut et caeteri</hi>.
+	Quod enim aliquis tristetur, scilicet de mortuis, habet pietatem.
+	Primo propter defectum corporis deficientis.
+	Debemus enim eos diligere, et corpus propter animam.
+	Eccli.
+	XLI, v. 1: <hi>o mors, quam amara est memoria tua homini pacem habenti</hi>, et cetera.
+	Secundo propter discessum et separationem, quae dolorosa est amicis.
+	I Reg.
+	XV, 32: <hi>siccine separat amara mors?</hi> Tertio quia per mortem fit commemoratio peccati.
+	Rom.
+	VI, 23: <hi>stipendia peccati mors</hi>.
+	Quarto quia fit commemoratio mortis nostrae.
+	Eccle.
+	VII, 3: <hi>in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit</hi>, et cetera.
+	Sic ergo tristandum, sed moderate.
+	Unde Eccli.
+	XXII, 11: <hi>modicum plora supra mortuum, quoniam requievit</hi>, et cetera.
+	Et ideo dicit <hi>sicut et caeteri qui spem non habent</hi>, scilicet quia isti credunt huiusmodi defectus perpetuos, sed nos non.
+	Phil.
+	III, 20-21: <hi>salvatorem expectamus dominum nostrum Iesum Christum, qui reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae</hi>.
+	Unde signanter dicit <hi>de dormientibus</hi>.
+	Io.
+	XI, v. 11: <hi>Lazarus amicus noster dormit</hi>.
+	Dormiens enim tria facit.
+	Cubat in spe surgendi.
+	Ps.
+	X: <hi>numquid qui dormit non adiiciet ut resurgat?</hi> Sic et qui moritur in fide.
+	Item in dormiente anima vigilat.
+	Cant. c.
+	V, 2: <hi>ego dormio, et cor meum vigilat</hi>, et cetera.
+	Item postea homo resurget magis refectus et vegetus.
+	Sic sancti resurgent incorruptibiles, I Cor.
+	XV, 52.
+	Deinde cum dicit <hi>si enim credimus</hi>, ponitur ratio monitionis.
+	Et primo astruit resurrectionem; secundo excludit dilationis suspicionem, ibi <hi>hoc enim vobis</hi>; tertio ponit resurrectionis ordinem, ibi <hi>quoniam ipse dominus</hi>.
+	Sciendum est autem quod apostolus I Cor.
+	XV, 12 ex resurrectione Christi astruit nostram, quia illa est causa nostrae, unde arguit per locum a causa.
+	Et resurrectio Christi non est causa solum, sed etiam exemplar: quia verbum caro factum suscitat corpora, verbum vero simpliciter animas.
+	Etenim eo quod Christus accepit carnem, et in ea resurrexit, est exemplar nostrae resurrectionis.
+	Nec solum hoc est, sed et causa efficiens: quia quae humanitate Christi gesta sunt, non solum sunt gesta secundum virtutem humanitatis, sed virtute divinitatis sibi unitae.
+	Unde sicut tactus suus curabat leprosum inquantum instrumentum divinitatis, sic resurrectio Christi causa est nostrae resurrectionis non inquantum corporis, sed inquantum resurrectio corporis uniti verbo vitae.
+	Et ideo apostolus, hoc firmiter supponens, sic arguit: <hi>si enim credimus</hi>, firmiter, <hi>quod Christus resurrexit, ita et eos qui dormierunt</hi>, et cetera.
+	Illi <hi>dormierunt per Iesum</hi>, qui facti sunt conformes morti eius per Baptismum.
+	Vel <hi>per Iesum</hi>, quos secum <hi>adducet</hi>, scilicet cum ipso Christo.
+	Zac.
+	XIV, 5: <hi>et veniet dominus Deus meus omnesque sancti eius cum eo</hi>, et cetera.
+	Is.
+	III, 14: <hi>dominus ad iudicium veniet cum senibus populi sui et principibus eius</hi>.
+	Deinde cum dicit <hi>hoc enim</hi>, excludit dilationem resurrectionis; quasi dicat: scimus quod resurgent et venient cum Christo, ideo non debemus tantum dolere.
+	Non enim illi, qui invenientur vivi, prius consequentur resurrectionis gloriam, quam mortui.
+	Et ideo <hi>hoc enim vobis dicimus</hi>, non ex coniectura hominis, sed <hi>in verbo domini</hi>, cuius verba non deficient, <hi>quia nos qui vivimus</hi>, id est, illi, qui sunt vivi, non prius sortientur consolationem ex adventu Christi, quam mortui.
+	Et ideo dicit <hi>nos qui vivimus</hi>.
+	Ex quo videtur non intelligentibus, quod apostolus hic dicat, quod adhuc apostolo vivente hoc fieret, et hoc etiam Thessalonicensibus videbatur.
+	Et ideo scribit eis aliam epistolam, in qua dicit, II Thess.
+	II, 2: <hi>non moveamini a vestro sensu</hi>, et cetera.
+	Sed non loquitur ex persona sua, et tunc existentium, sed eorum qui tunc vivi reperientur. <hi>Qui residui sumus</hi>, id est, erunt residui post persecutionem Antichristi. <hi>Non praeveniemus eos</hi>, id est, non prius recipient consolationem.
+	I Cor.
+	XV, 52: <hi>in momento enim, in ictu oculi, in novissima tuba</hi>, et cetera.
+	Deinde cum dicit <hi>quoniam ipse</hi>, etc., ostendit ordinem resurrectionis et modum.
+	Primo proponit resurrectionis causam; secundo eius ordinem et modum, ibi <hi>et mortui</hi>; tertio concludit eorum consolationem, ibi <hi>itaque consolamini invicem</hi>.
+	Primum ostendit dicens <hi>ipse dominus</hi>.
+	Ubi notandum est, quod, sicut dictum est, causa communis resurrectionis est resurrectio Christi.
+	Sed si dicas, quod iam fuit, quare ergo non sequitur effectus eius? Respondeo.
+	Dicendum est, quod est causa resurrectionis nostrae secundum quod operatur in virtute divina.
+	Deus autem operatur per ordinem suae sapientiae.
+	Tunc ergo erit nostra resurrectio, quando hoc disposuit ordo divinae sapientiae.
+	Ut ostendat quod Christus sit causa, ostendit quod ad praesentiam Christi omnes mortui resurgent.
+	Ad resurrectionem autem communem faciendam triplex causa concurrit.
+	Una principalis, scilicet virtus divinitatis; secunda instrumentalis, scilicet virtus humanitatis Christi; tertia quasi ministerialis, scilicet virtus Angelorum, qui habebunt aliquem effectum in resurrectione.
+	Augustinus enim probat, quod ea quae fiunt nunc per creaturas corporales, fiunt a Deo eis mediantibus; in resurrectione vero aliqua per eos sunt agenda, sicut collectio pulveris; sed reintegratio corporum, et unio animae ad corpus, erit immediate per Christum.
+	Has ergo tres causas ponit.
+	Primo humanitatem Christi gloriosam, dicens <hi>ipse dominus</hi>, et cetera.
+	Act.
+	I, 11: <hi>quemadmodum vidistis eum ascendentem in caelum, ita veniet.
+	In iussu</hi>.
+	In primo adventu venit ut obediens.
+	Phil.
+	II, 8: <hi>factus est obediens usque ad mortem</hi>.
+	Et hoc, quia ille fuit adventus humilitatis, sed iste erit gloriae.
+	Lc.
+	XXI, 27: <hi>venit cum potestate magna et maiestate</hi>.
+	Secundo virtutem Angelorum, cum dicit <hi>in voce Archangeli</hi>.
+	Non quod operetur in voce eius, sed ministerio eius.
+	Et dicit <hi>Archangeli</hi>, quia omnes Angeli sub uno Archangelo ministrant Ecclesiae.
+	Apoc.
+	XII, 7: <hi>hic est Michael princeps Ecclesiae</hi>.
+	Vel <hi>in voce Archangeli</hi>, id est, Christi principis Angelorum.
+	Is. c.
+	IX: <hi>magni consilii Angelus</hi>.
+	Et in voce eius corporali, vel spirituali erit resurrectio.
+	Io.
+	V, 28: <hi>audient vocem filii Dei</hi>, scilicet: surgite, mortui, et venite ad iudicium, et illi voci corporali obedient.
+	Tertio virtutem divinitatis, cum dicit <hi>in tuba Dei</hi>.
+	Haec est virtus divina, quia dicitur vox Archangeli, inquantum fiet ministerio Archangelorum, et tuba Dei, inquantum virtute divina fiet.
+	Et dicitur tuba propter eius sonoritatem, quae provenit a Deo suscitans mortuos.
+	Item tuba congruit ad officia, cuius usus fuit multiplex in veteri testamento, ut ad bellum: <hi>et tunc pugnabit pro eo orbis terrarum</hi>, Sap.
+	V, 21.
+	Item fiebat usus eius ad solemnitates, sic ista ad caelestem Ierusalem.
+	Item ad movendum castra, et tunc sancti movebunt castra.
+	Unde si sit vox corporalis, dicitur tuba propter has rationes; vel non erit vox corporalis, sed virtus divina Christi praesens et manifesta toti mundo.
+	Deinde cum dicit <hi>et mortui</hi>, ponitur ordo resurrectionis, et circa hoc tria facit, quia primo ponit resurrectionem mortuorum; secundo occursum vivorum, ibi <hi>deinde</hi>; tertio beatitudinem sanctorum utrorumque, ibi <hi>et sic semper</hi>.
+	Occasione horum verborum crediderunt aliqui quod futuri in fine numquam morerentur, ut dicit Hieronymus in epistola, propter hoc quod dicit <hi>deinde nos</hi>, etc.: alias enim frustra distingueret viventes a morientibus.
+	Sed contra I Cor.
+	XV, 51: <hi>omnes quidem resurgemus</hi>.
+	Item: <hi>sicut in Adam omnes moriuntur</hi>, etc., ut habetur Rom.
+	V, 12 <hi>ergo mors ad omnes pertransit</hi>.
+	Dicendum est ergo, quod aliqui invenientur vivi in tempore illo, quo Christus veniet ad iudicium; sed in illo momento temporis morientur et statim resurgent.
+	Et ideo propter modicam interpolationem reputantur viventes.
+	Sed tunc est quaestio, quia dicitur hic <hi>et mortui, qui in Christo sunt, resurgent primi, et deinde nos</hi>, et cetera.
+	Ergo prius resurgent mortui, quam vivi occurrant Christo, et in hoc occursu morientur.
+	Ergo prius aliqui resurgent et sic non erit omnium resurrectio simul, quod est contra illud I Cor.
+	XV, 52: <hi>in momento, in ictu oculi, in novissima tuba</hi>, et cetera.
+	Respondeo.
+	Dicendum est, quod duplex est hic opinio: quidam enim dicunt quod resurrectio non erit simul, sed primo mortui venient cum Christo.
+	Et tunc, in adventu Christi, vivi rapientur in nubibus, et in illo raptu morientur et resurgent.
+	Et ideo quod dicitur esse in momento, intelligitur, quia in modico tempore fiet.
+	Et si dicatur, quod erit in instanti, tunc non est hoc referendum ad totam resurrectionem omnium, sed ad resurrectionem singularium, quia singulus resurget in instanti.
+	Alii vero dicunt quod omnes simul et in instanti resurgent.
+	Quod ergo dicit: <hi>resurgent primi</hi>, denotat ordinem dignitatis, non temporis.
+	Sed videtur hoc difficile, quia de vivis multi erunt probati in persecutione Antichristi, qui dignitate praecellent multos prius defunctos.
+	Et ideo videtur aliter esse dicendum, quod omnes morientur et omnes resurgent, et quod simul.
+	Nec apostolus dicit hic quod illi prius resurgent, quam isti, sed quod illi prius resurgent, quam isti occurrant.
+	Apostolus enim non ponit ordinem resurrectionis ad resurrectionem, sed ordinem ad raptum, vel ad occurrentiam.
+	Nam primo veniente domino morientur qui invenientur vivi, et tunc statim cum illis, qui prius mortui fuerant resurgentes rapientur in nubibus, etc., ut apostolus hic dicit.
+	Est autem haec inter bonos et malos differentia, quia mali remanebunt in terra, quam dilexerunt, boni rapientur ad Christum, quem quaesierunt.
+	Matth.
+	XXIV, 28: <hi>ubi fuerit corpus, ibi congregabuntur et aquilae</hi>.
+	In resurrectione etiam sancti conformabuntur Christo, non solum quantum ad gloriam corporis, Phil.
+	III, sed etiam quantum ad situm, quia Christus erit in nube.
+	Act.
+	I, 9: <hi>et nubes suscepit eum</hi>; et: <hi>quemadmodum vidistis eum</hi>, et cetera.
+	Sic et sancti a nubibus rapientur.
+	Et quare hoc? Ad ostendendum eorum deiformitatem.
+	In veteri enim testamento gloria domini apparuit per modum nubis.
+	III Reg.
+	VIII, 10: <hi>dominus venit in nebula</hi>.
+	Hae nubes erunt praeparatae virtute divina ad ostensionem gloriae sanctorum.
+	Vel ipsa fulgentia corpora gloriosorum videbuntur malis quaedam nubes, qui erunt in terra.
+	Matth. c.
+	XXV, 6: <hi>ecce sponsus venit, exite obviam ei</hi>.
+	Deinde cum dicit <hi>et sic semper</hi>, ostendit beatitudinem sanctorum, quia semper erunt cum domino, eo fruentes.
+	Io.
+	XIV, v. 3: <hi>iterum veniam et accipiam vos ad meipsum, ut ubi ego sum, et vos sitis</hi>.
+	Hoc sancti desiderant.
+	Phil.
+	I, 23: <hi>desiderium habens dissolvi et esse cum Christo</hi>.
+	Deinde cum dicit <hi>itaque</hi>, etc., concludit consolationem habendam esse de mortuis, dicens: ex quo sancti resurgunt, et nullum detrimentum consequuntur, ergo de mortuis consolamini.
+	Is.
+	XL, 1: <hi>consolamini, consolamini, popule meus, dicit dominus Deus vester</hi>.</p>
+</div2></div1>
+<div1 n="5"><head>Caput 5</head>
+<div2 n="1"><head>Lectio 1</head>
+<p><A NAME="87868"/>Supra correxit in eis corrigenda, hic monet eos in futurum, et primo ponit monitionem; secundo orationem, ibi <hi>ipse autem Deus</hi>.
+	Haec autem duo sunt nobis necessaria.
+	Nam quia bona quae facimus sunt ex libero arbitrio, ideo indiget homo monitione, et quoniam sunt etiam ex gratia, ideo oratione.
+	Circa primum duo facit, quia primo hortatur, ut praeparent se ad futurum iudicium; secundo ostendit praeparandi modum, ibi <hi>propter quod consolamini</hi>.
+	Iterum prima in duas, quia primo ostendit qualis sit conditio futuri iudicii; secundo qualiter praeparent se ad illud, ibi <hi>igitur non dormiamus</hi>.
+	Item prima in duas, quia primo praemittit conditionem futuri iudicii; secundo exponit, ibi <hi>cum enim</hi>.
+	Item primo quietat eorum sollicitudinem circa scientiam futuri adventus; secundo ostendit quid circa illum sciant, ibi <hi>ipsi enim</hi>.
+	Dicit ergo: necesse erat, quod scriberem de praemissis, quia indiguistis.
+	Sed <hi>de temporibus</hi>, scilicet aestate, hyeme, vel potius, quae tempora futura sint, non erat necesse, quia quaedam de his sunt soli divinae scientiae reservata.
+	Matth.
+	XXIV, 36 et Mc.
+	XIII, v. 32: <hi>de die illa, vel hora nemo scit, neque Angeli in caelo, neque filius, nisi pater</hi>, et cetera.
+	Act.
+	I, 7: <hi>non est vestrum nosse tempora, vel momenta</hi>, et cetera.
+	Eccle.
+	VII, 1: <hi>quid necesse est homini maiora se quaerere, cum ignoret quid conducat sibi in vita, numero dierum vitae suae?</hi> et cetera.
+	Et ideo hoc non est necesse scribere, quia illud quod sciendum est <hi>vos scitis</hi>, quia scilicet <hi>dies domini sicut fur in nocte</hi>, et cetera.
+	Sunt autem omnes dies domini.
+	Ps.
+	CXVIII, v. 91: <hi>ordinatione tua perseverant dies</hi>.
+	Sed iste specialiter est domini, quia facit in omnibus suam voluntatem, quae impletur in bonis, qui perducuntur ad finem praescitum a Deo, scilicet salutem.
+	I Tim.
+	II, 4: <hi>vult omnes homines salvos fieri</hi>, et cetera.
+	In malis, quia punientur.
+	Ps.
+	LXXIV, 3: <hi>dum accepero tempus, ego iustitias iudicabo</hi>.
+	Iste veniet sicut fur, id est, ex impraemeditatione.
+	Lc.
+	XIII, 36: <hi>si sciret paterfamilias qua hora fur veniret</hi>, et cetera.
+	II Petr. c.
+	III, 10: <hi>adveniet dies domini sicut fur</hi>.
+	Apoc.
+	III, 3: <hi>veniam tibi tamquam fur</hi>.
+	Quomodo autem dies dicitur venire in nocte? Sed sciendum quod utrumque est, quia in die venit propter manifestationem cordium I Cor. c.
+	IV, 5: <hi>quoadusque veniat dominus, qui et illuminabit abscondita tenebrarum, et manifestabit consilia cordium</hi>, sed in nocte propter incertitudinem.
+	Matth.
+	XXV, 6: <hi>media nocte clamor factus est, ecce sponsus venit</hi>, et cetera.
+	Incertum enim est qua hora erit.
+	Deinde cum dicit <hi>cum enim dixerint</hi>, exponit quae dixerat, et primo quantum ad malos; secundo quantum ad bonos, ibi <hi>vos autem</hi>.
+	Circa primum duo facit.
+	Primo describit praesumptionem malorum; secundo periculum morae.
+	Dicit ergo: veniet sicut fur, quia ex improviso. <hi>Cum enim dixerint pax</hi>, quantum ad praesentia, id est, dum tranquille vivunt, sic decipiuntur.
+	Sap.
+	XIV, 22: <hi>in magno viventes inscientiae bello, tot et tam magna mala pacem appellant.
+	Et securitas</hi>, quantum ad futura.
+	Lc.
+	XII, 19: <hi>anima mea, multa habes bona reposita in annos plurimos, requiesce, comede, bibe, et epulare</hi>.
+	Sed contra Lc.
+	XXI, 26: <hi>arescentibus hominibus prae timore et expectatione, quae supervenient universo orbi</hi>, et cetera.
+	Ergo nulla securitas.
+	Solutio est duplex.
+	Una quae est Augustini, quae talis est: in tempore illo aliqui erunt boni, et affligentur, lugebunt, et expectabunt; et de hoc dicitur Lc.
+	XXI, 26: <hi>arescentibus</hi> ex carentia voluptatum, et abundantia malorum, etc., sed in malis erit pax et securitas.
+	Alia datur solutio in Glossa.
+	Deinde cum dicit <hi>tunc repentinus</hi>, describit periculum a quatuor.
+	Primo quia subitum, ibi <hi>repentinus</hi>.
+	Is.
+	XXX, 13: <hi>subito dum non speratur, veniet contritio eius</hi>.
+	Secundo quia mortiferum, ibi <hi>interitus</hi>.
+	Iob XVIII, 14: <hi>calcet super eum quasi rex interitus</hi>, et cetera.
+	Tertio afflictivum, ibi <hi>dolor</hi>.
+	Ps.
+	XLVII, 7: <hi>ibi dolores ut parturientis</hi>, et cetera.
+	Quarto inevitabile, ibi <hi>et non effugient</hi>.
+	Iob XI, 20: <hi>effugium peribit ab eis</hi>.
+	Ab ira Dei nunc est effugere ad eius misericordiam, ibi vero non est tempus misericordiae, sed iustitiae.
+	Deinde cum dicit <hi>vos autem</hi>, exponit quae dixerat quo ad bonos, et duo facit, quia primo excipit bonos a consortio malorum; secundo rationem assignat, ibi <hi>omnes enim vos</hi>.
+	Dicit ergo: <hi>non estis in tenebris</hi>, quia illuminati estis per Christum de illo die, ideo vobis non est improvisus.
+	Io.
+	VIII, 12: <hi>qui sequitur me, non ambulat in tenebris, sed habebit lumen vitae</hi>.
+	Et huius ratio est, ibi: <hi>omnes enim vos filii lucis estis</hi>.
+	Astruit enim quod sunt filii lucis et diei.
+	Filii autem alicuius rei in Scriptura dicuntur aliqui propter abundantiam in re illa.
+	Is.
+	V, 1: <hi>in cornu filio olei</hi>, id est, habente multum oleum.
+	Qui ergo participant multum de die et luce dicuntur eorum filii.
+	Haec lux est fides Christi.
+	Io.
+	VIII, v. 12: <hi>ego sum lux mundi</hi>, et cetera.
+	Io.
+	XII, 36: <hi>credite in lucem, ut filii lucis sitis</hi>.
+	Item <hi>diei</hi>.
+	Sicut enim ex luce fit dies, ita ex fide Christi fit dies, scilicet honestas bonorum operum.
+	Rom.
+	XIII, 12: <hi>nox praecessit</hi>, et cetera.
+	Et ideo <hi>non sumus</hi> filii <hi>noctis</hi>, id est, infidelitatis, <hi>neque tenebrarum</hi>, id est, peccatorum.
+	Rom.
+	XIII, 12: <hi>abiiciamus ergo a nobis opera tenebrarum</hi>, et cetera.
+	Deinde cum dicit <hi>igitur non dormiamus</hi>, etc., ostendit qualiter se praeparent ad illum adventum, et primo qualiter per ultionem malorum, secundo per observantiam bonorum, ibi <hi>induti</hi>.
+	Circa primum duo facit, quia primo ponit monitionem, secundo eius rationem, ibi <hi>qui enim dormiunt</hi>.
+	Dicit igitur: ex quo dies domini est sicut fur, Lc.
+	XII, 39: <hi>si sciret paterfamilias qua hora fur veniret, vigilaret utique</hi>, ergo vos, quia scitis, vigiletis.
+	Unde dicit <hi>igitur non dormiamus</hi>, somno peccati.
+	Eph.
+	V, 14: <hi>surge, qui dormis, et exurge a mortuis</hi>.
+	Item nec pigritiae.
+	Prov.
+	VI, 9: <hi>usquequo, piger, dormis?</hi> et cetera. <hi>Sed vigilemus</hi>, per sollicitudinem.
+	Matth.
+	XXIV, 42: <hi>vigilate itaque</hi>, et cetera.
+	Et ad hoc est necessarium, quod <hi>sobrii simus</hi>, ut et corpus et mens sint sobria, id est, non occupata voluptatibus, et curis mundi.
+	Lc.
+	XXI, 34: <hi>attendite vobis, ne forte graventur corda vestra crapula et ebrietate</hi>.
+	I Petr. c.
+	V, 8: <hi>sobrii estote, et vigilate</hi>.
+	Ratio autem huius est ex temporis congruitate, quia qui dormiunt, vel ebrii sunt, aliquid faciunt in nocte.
+	Sed nos non sumus in nocte.
+	Ergo, et cetera.
+	Dicit ergo <hi>qui enim dormiunt, nocte dormiunt</hi>, idest, tempus noctis deputant quieti, diem vero operationi.
+	Ps.
+	CIII, 22: <hi>ortus est sol, et congregati sunt, et in cubilibus suis collocabuntur</hi>.
+	Et rursum ibi, 23: <hi>exibit homo ad opus suum, et ad operationem suam usque ad vesperam</hi>.
+	Item abstinent aliqui a vino in die propter negotia exercenda, sed de nocte tantum non curant.
+	Iob XXIV, 15: <hi>oculus adulteri observat caliginem</hi>.
+	Somnus ergo et ebrietas est nocti conveniens, eo quod nocte infidelitatis et tenebris peccatorum occupati, sunt ebrii, per amorem praesentium non habentes spem futurorum.
+	Eph.
+	IV, 19: <hi>desperantes tradiderunt se impudicitiae in operationem immunditiae omnis in avaritia</hi>, et cetera. <hi>Nos autem qui diei sumus</hi>, id est pertinentes ad diem honestatis et fidei, <hi>simus sobrii</hi>.
+	Rom.
+	XIII, 13: <hi>honeste ambulemus in die</hi>.
+	Deinde cum dicit <hi>induti</hi>, etc., ostendit quomodo se praeparent per bona; et primo ponit monitionem generalem; secundo specialem, ibi <hi>propter quod</hi>.
+	Item prima in duas, quia primo ponit ipsam monitionem; secundo rationem eius, ibi <hi>quoniam non posuit</hi>.
+	Sunt autem in homine duo principalia membra, quae consueverunt in bellis protegi, scilicet cor, quod est principium vitae, et caput, scilicet principium motus exterioris, a quo sunt sensus, et aliquo modo nervi.
+	Et protegitur cor lorica, caput galea.
+	Spiritualis vita in nobis est Christus, per quem anima vivit, et dominus in nobis per fidem habitat.
+	Eph.
+	III, 17: <hi>habitare Christum per fidem in cordibus vestris</hi>.
+	Habitat etiam per charitatem, I Io.
+	IV, 16: <hi>qui manet in charitate, in Deo manet, et Deus in eo</hi>, quae informat fidem.
+	Et ideo debemus habere fidem et charitatem.
+	Unde dicit <hi>loricam fidei et charitatis</hi>, quia protegit vitalia, <hi>et galeam, spem salutis</hi>, quae est principium motus spiritualis, quod est ex intentione finis, quem speramus assequi.
+	Deinde cum dicit <hi>quoniam non posuit nos</hi>, ostendit rationem quomodo in nobis operatur.
+	Et primo ex praeordinatione divina, secundo ex gratia Christi, tertio ostendit modum consequendae salutis.
+	Dicit ergo <hi>quoniam non posuit</hi>, id est, non ordinavit.
+	Io.
+	XV, 16: <hi>posui vos</hi>, scilicet sanctos, <hi>ut eatis</hi>, et cetera. <hi>Deus in iram</hi>, id est, ad hoc, ut consequamur eius iram.
+	Sap.
+	I, 13: <hi>Deus mortem non fecit</hi>.
+	Ezech.
+	XVIII, 23: <hi>numquid voluntatis meae est mors impii? Dicit dominus Deus</hi>, et cetera. <hi>Sed in acquisitionem</hi>, id est, ut acquiramus salutem.
+	Matth.
+	XI, 12: <hi>regnum caelorum vim patitur, et violenti rapiunt illud</hi>.
+	I Petr.
+	II, 9: <hi>vos estis genus electum, regale sacerdotium</hi>, et cetera.
+	Et hoc per gratiam Christi, ideo dicit <hi>per dominum nostrum</hi>, et cetera.
+	Act.
+	IV, 12: <hi>non est aliud nomen sub caelo datum hominibus, in quo oporteat nos salvos fieri.
+	Qui mortuus est pro nobis</hi>, id est, salvavit nos, moriendo pro nobis.
+	I Petr.
+	III, 18: <hi>mortuus est iustus pro iniustis, ut offeret nos Deo mortificatos quidem carne, vivificatos autem spiritu</hi>.
+	Et modus perveniendi est quia Christus docuit nos operando salutem nostram, et hoc moriendo et resurgendo.
+	Rom.
+	IV, 25: <hi>traditus est propter delicta nostra, et resurrexit propter iustificationem nostram</hi>.
+	Et ideo dicit <hi>sive vigilemus, sive dormiamus, simul cum illo vivamus</hi>.
+	Rom.
+	XIV, 8: <hi>sive vivimus, sive morimur, domini sumus</hi>.
+	Deinde cum dicit <hi>propter quod</hi>, docet nos quomodo praeparemus nos quantum ad speciales conditiones personarum.
+	Et circa hoc tria facit, quia primo ostendit quomodo se debeant habere ad aequales; secundo quomodo subditi se habeant ad praelatum, ibi <hi>rogamus autem</hi>; tertio quomodo praelati ad subditos, ibi <hi>rogamus autem</hi>.
+	Debemus autem aequalibus consolationem in adversis; unde dicit <hi>consolamini invicem</hi>.
+	Item aedificationem in exemplis; unde dicit <hi>et aedificate</hi>, et cetera.
+	Rom.
+	XIV, 19: <hi>quae aedificationis sunt invicem custodiamus</hi>.
+	Subditi autem ad praelatos, primo debent beneficiorum recognitionem, secundo charitatem, tertio pacem.
+	Unde <hi>ut noveritis</hi>, id est, ut recognoscatis beneficia eorum.
+	Hebr. ult.: <hi>mementote praepositorum vestrorum</hi>, et cetera.
+	Noveritis, inquam, primo, ex parte eorum, quia maximum laborem ferunt pro vobis.
+	Unde dicit <hi>eos qui laborant inter vos</hi>, pro bono vestro.
+	II Tim.
+	II, 3: <hi>labora sicut bonus miles Christi</hi>, et cetera.
+	Secundo ex parte Dei.
+	Et ideo est habenda reverentia ad eos sicut ad Deum.
+	Unde dicit <hi>et praesunt vobis in domino</hi>, id est, vice domini.
+	II Cor.
+	II, 10: <hi>ego si quid donavi vobis in persona Christi</hi>.
+	Tertio ex parte vestra, quia sunt vobis utiles.
+	Unde dicit: <hi>et monent vos, ut habeatis</hi>, et cetera.
+	Ideo, secundo, debetis eis charitatem <hi>abundantius</hi>, idest prae aliis.
+	Tertio <hi>pacem</hi> propter opus illorum.
+	Sed contra hoc quidam agunt.
+	Amos V, 10: <hi>odio habuerunt in porta corripientem</hi> et cetera.
+	Eccli.
+	XIX, v. 5: <hi>qui odit correctionem, minuetur vita</hi>.
+	Sed vos habete pacem propter opus correctionis, quod proprie spectat ad eorum officium.
+	Ps.
+	CXIX, 7: <hi>dum loquebar illis, impugnabant me gratis</hi>.</p>
+</div2>
+<div2 n="2"><head>Lectio 2</head>
+<p><A NAME="87869"/>Supra ostendit quomodo subditi debent se habere ad praelatos, hic ostendit e converso.
+	Et circa hoc duo facit, quia primo docet quomodo praelati ad sacerdotes subditos se debeant habere; secundo generaliter quomodo se debeant habere ad omnes, ibi <hi>videte ne quis</hi>.
+	Sciendum est autem, quod cura praelatorum ad duo debet tendere, scilicet ad retrahendum alios a peccatis, et ad custodiendum seipsos.
+	Quantum ad primum, tria apostolus dicit.
+	Tripliciter enim subditi possunt pati defectum.
+	Primo in actu, secundo in voluntate, tertio in virtute.
+	In actu autem, quando prorumpunt in actum peccati, et tunc sunt corrigendi.
+	Et quamvis de omni peccato, specialiter tamen corrigendi sunt de peccato inquietudinis.
+	Et ideo dicit <hi>corripite inquietos</hi>.
+	II Thess.
+	III, 7: <hi>non inquieti fuimus inter vos</hi>.
+	Eccli.
+	XIX, 17: <hi>corripe proximum antequam commineris, et da locum timori</hi>.
+	In voluntate vero, quando non aggreditur magna, quia deiicitur propter adversa et peccata praecedentia.
+	Unde dicit <hi>consolamini pusillanimes</hi>.
+	Pusillanimis est non habens animum ad magna, timens ne deficiat.
+	Is.
+	XXXV, v. 4: <hi>dicite pusillanimis: confortamini et nolite timere</hi>.
+	Iob IV, 4: <hi>vacillantes confirmaverunt manus tuae</hi>, et cetera.
+	In virtute autem, quando vel ex infirmitate peccant, vel debilitantur in bono actu, et isti sunt fovendi.
+	Unde dicit <hi>suscipite</hi>, scilicet in visceribus charitatis fovendo, <hi>infirmos</hi>, quorum est virtus debilis, vel ad resistendum malis, vel ad faciendum bona.
+	Rom.
+	XV, 1: <hi>debemus nos firmiores, imbecillitates infirmorum sustinere</hi>.
+	Praelatus autem debet se custodire a defectu cuiuscumque modi, et maxime ab impatientia quia ipse portat totum pondus multitudinis.
+	Num.
+	XI, 14: <hi>non possum solus sustinere omnem hanc multitudinem, quia gravis est mihi</hi>, et cetera.
+	Et ideo dicit <hi>patientes estote ad omnes</hi>.
+	Prov.
+	XIX, 11: <hi>doctrina viri per patientiam noscitur</hi>.
+	Ps.
+	XCI, 15: <hi>bene patientes erunt, ut annuntient</hi>.
+	Deinde cum dicit <hi>videte ne quis</hi>, ostendit generaliter quomodo se habeant ad omnes.
+	Et circa hoc duo facit, quia primo ostendit qualiter omnes in quibusdam debeant se habere; secundo quid in omnibus, ibi <hi>omnia autem</hi>.
+	Circa primum tria facit, quia primo ostendit quomodo se debeant habere ad proximum; secundo quomodo se habeant in his quae ad Deum sunt, ibi <hi>semper gaudete</hi>; tertio quomodo se habeant ad eius dona, ibi <hi>spiritum nolite</hi>.
+	Quantum ad proximum debent se habere, ut non inferant ei mala, et ut studeant ei benefacere.
+	Unde dicit: dixi supra in speciali, sed nunc in generali dico <hi>ne quis malum</hi>, et cetera.
+	Ps.: <hi>si reddidi retribuentibus mihi mala</hi>.
+	Sed contra: multoties vindicta petitur coram iudice.
+	Respondeo.
+	Sicut actus moralis sumitur secundum intentionem finis, sic ad duo potest esse intentio vel ad malum illius, ita quod quiescat ibi, et hoc est illicitum, quia ex livore vindictae; vel ad bonum correctionis seu iustitiae et conservationis reipublicae, et sic non reddit malum pro malo, sed bonum, scilicet eius correctionem.
+	Quantum ad secundum dicit <hi>sed semper quod bonum est</hi>, et cetera.
+	Et dicit <hi>sectamini</hi>, et non faciatis: quia tu ex te debes sumere occasionem benefaciendi ad proximum tuum, et non expectare quod ipse det tibi occasionem benefaciendi sibi.
+	Unde Ps.
+	XXXIII, 15: <hi>inquire pacem, et persequere eam</hi>.
+	Rom.
+	XII, 21: <hi>noli vinci a malo</hi>, ut scilicet sis tractus ab eo ad malefaciendum, <hi>sed vince in bono malum</hi>, retrahendo eum ad bonum.
+	Gal. ult.: <hi>dum tempus habemus, operemur bonum ad omnes</hi>.
+	Deinde cum dicit <hi>semper gaudete</hi>, ostendit quomodo se debeant habere quoad Deum, ad quem tria oportet habere.
+	Primo gaudere de ipso; unde dicit <hi>semper gaudete</hi>, scilicet de Deo, quia quicquid malum proveniat est incomparabile bono, quod est Deus.
+	Et ideo nullum malum illud interrumpat; unde dicit <hi>semper gaudete</hi>.
+	Secundo, orate pro beneficiis suscipiendis, ibi <hi>sine intermissione orate</hi>.
+	Lc. c.
+	XVIII, 1: <hi>oportet semper orare, et numquam deficere</hi>.
+	Sed quomodo potest hoc esse? Respondeo.
+	Dicendum est, quod hoc potest esse tripliciter.
+	Primo quod ille semper orat, qui statutas horas non intermittit.
+	Simile habetur II Reg. c.
+	IX, 7: <hi>tu comedes panem in mensa mea semper</hi>.
+	Secundo sic: semper, id est, continue orate, sed tunc oratio sumitur pro effectu orationis.
+	Est enim oratio interpretatio seu explicatio desiderii, quia quando desidero aliquid, tunc illud orando peto.
+	Unde et oratio est petitio decentium a Deo, et ideo desiderium habet vim orationis.
+	Ps.
+	IX, 38: <hi>desiderium pauperum exaudivit dominus</hi>.
+	Omnia ergo quae facimus, ex desiderio proveniunt.
+	Ergo oratio in bonis quae facimus, manet in virtute, quia bona quae facimus, ex desiderio bono proveniunt.
+	Glossa: <hi>non cessat orare, qui non cessat benefacere</hi>.
+	Tertio quo ad causam orationis, scilicet faciendo eleemosynam.
+	In vitis patrum: <hi>ille semper orat, qui eleemosynas dat, quia qui eleemosynam accepit, orat pro te, etiam te dormiente</hi>.
+	Item tertio, orare pro beneficiis suscipiendis et gratias agere pro susceptis, ideo dicit <hi>in omnibus</hi>, scilicet bonis et adversis, <hi>gratias agite</hi>.
+	Rom.
+	VIII, 28: <hi>diligentibus Deum omnia cooperantur in bonum</hi>.
+	Col.
+	II, 7: <hi>abundantes in illo in gratiarum actione</hi>.
+	Phil.
+	IV, 6: <hi>cum gratiarum actione.
+	Haec est enim voluntas</hi>, et cetera.
+	I Tim.
+	II, 4: <hi>qui vult omnes homines salvos fieri, et ad agnitionem veritatis venire</hi>.
+	Deinde cum dicit <hi>spiritum nolite</hi>, etc., ostendit quomodo se habeant ad dona Dei.
+	Et primo quod ea non impediant; secundo quod ea non contemnant, ibi <hi>prophetias</hi>.
+	Spiritus autem sanctus est persona divina incorruptibilis et aeterna, unde in sua substantia extingui non potest.
+	Sed tamen dicitur quis extinguere spiritum, uno modo, fervorem eius extinguendo, vel in se, vel in alio.
+	Rom.
+	XII, 11: <hi>spiritu ferventes</hi>.
+	Cum enim aliquis aliquid boni ex fervore spiritus sancti vult facere, vel etiam cum aliquis bonus motus surgit, et ipse impedit, extinguit spiritum sanctum.
+	Act.
+	VII, 51: <hi>vos semper spiritui sancto restitistis</hi>.
+	Alio modo, mortaliter peccando.
+	Spiritus enim sanctus in se semper vivit, sed in nobis vivit quando facit nos in se vivere; sed quando quis peccat mortaliter, non vivit in ipso spiritus sanctus.
+	Sap.
+	I, 5: <hi>spiritus enim sanctus disciplinae effugiet fictum</hi>, et cetera.
+	Tertio modo, occultando, quasi dicat: si donum spiritus sancti habetis, utimini eo ad utilitatem proximorum.
+	Eccli.
+	XX, 32: <hi>sapientia abscondita et thesaurus invisus, quae utilitas in utrisque?</hi> Matth.
+	V, 15: <hi>nemo accendit lucernam, et ponit eam sub modio</hi>, et cetera. <hi>Prophetias nolite spernere</hi>.
+	Aliqui enim apud istos spiritu prophetiae erant pollentes, qui ab istis reputabantur insani.
+	I Cor.
+	XIV, 1: <hi>aemulamini spiritualia, magis autem ut prophetetis</hi>.
+	Vel <hi>prophetias</hi>, id est, divinam doctrinam.
+	Exponentes enim divinam doctrinam dicuntur prophetae; quasi dicat: non spernatis verba Dei et praedicationes.
+	Hier.
+	XX, 8: <hi>factus est sermo domini in opprobrium et in derisum tota die</hi>.
+	Deinde cum dicit <hi>omnia autem probate</hi>, ostendit qualiter se habeant ad omnia, et unum est, quod in omnibus utantur discretione.
+	Rom.
+	XII, 1: <hi>rationabile obsequium vestrum</hi>.
+	In hac materia debet esse diligens examinatio, boni electio, mali abiectio.
+	Quantum ad primum dicit <hi>prophetias nolite spernere</hi>, tamen, <hi>omnia probate</hi>, scilicet quae sunt dubia.
+	Manifesta enim examinatione non indigent.
+	I Io.
+	IV, 1: <hi>omni spiritui nolite credere</hi>.
+	Iob XII, 8: <hi>nonne auris verba diiudicat?</hi> Quantum ad secundum dicit <hi>quod bonum est tenete</hi>.
+	Gal.
+	IV, 18: <hi>bonum autem aemulamini in bono semper</hi>.
+	Quantum ad tertium dicit <hi>ab omni specie mala abstinete vos</hi>.
+	Is.
+	VII, 15: <hi>ut sciat reprobare malum et eligere bonum</hi>.
+	Et dicit, <hi>specie</hi>, quia etiam quae habent similitudinem malitiae vitare debemus, quae scilicet non possemus servare coram hominibus absque scandalo eorum.
+	Deinde cum dicit <hi>ipse autem</hi>, subdit orationem, et circa hoc tria facit, quia primo orat pro eis; secundo dat spem de exauditione; tertio dat speciales monitiones.
+	Dicit ergo: ita moneo, sed nihil valet, nisi Deus gratiam det.
+	Unde <hi>ipse Deus pacis sanctificet vos</hi>.
+	Lev.
+	XXI, 8: <hi>ego dominus, qui sanctifico vos</hi>, et cetera. <hi>Per omnia</hi>, id est, ut sitis totaliter sancti.
+	Et hoc <hi>ut integer</hi>, et cetera.
+	Occasione enim verborum istorum dixerunt quidam quod in homine aliud est spiritus, et aliud anima, ponentes duas in homine animas, unam quae animat, aliam quae ratiocinatur.
+	Et haec sunt reprobata in ecclesiasticis dogmatibus.
+	Unde sciendum quod haec non differunt secundum essentiam, sed secundum potentiam.
+	In anima enim nostra sunt quaedam vires, quae sunt actus corporalium organorum, sicut sunt potentiae sensitivae partis.
+	Aliae sunt, quae non sunt actus talium organorum, sed sunt abstractae ab eis, sicut sunt potentiae intellectivae partis.
+	Et hae dicuntur spiritus, quasi immateriales et separatae aliquo modo a corpore, inquantum non sunt actus corporis, et dicuntur etiam mens.
+	Eph.
+	IV, 23: <hi>renovamini spiritu mentis vestrae</hi>.
+	Inquantum autem animat, dicitur anima, quia hoc est ei proprium.
+	Et loquitur hic Paulus proprie.
+	Nam ad peccandum tria concurrunt: ratio, sensualitas et executio corporis.
+	Optat ergo, quod in nullo horum sit peccatum.
+	Non in ratione; unde dicit <hi>ut spiritus</hi>, id est, mens vestra, servetur <hi>integer</hi>.
+	In omni enim peccato ratio corrumpitur, secundum quod omnis malus est ignorans.
+	Item nec in sensualitate, unde dicit <hi>anima</hi>.
+	Item nec in corpore; et ideo dicit <hi>et corpus</hi>.
+	Hoc autem fit sic, quando servatur immune a peccato.
+	Et dicit <hi>sine querela</hi>, non sine peccato, quod est solius Christi; sed esse sine querela est etiam aliorum, qui etsi venialia, non tamen committunt gravia, et quibus proximus scandalizatur.
+	Lc.
+	I, 6: <hi>incedentes in omnibus mandatis et iustificationibus domini sine querela</hi>.
+	Et addit <hi>in adventu</hi>, etc., scilicet perdurando usque in finem vitae.
+	Vel <hi>integer spiritus</hi> refertur ad donum spiritus sancti, quasi dicat: donum spiritus sancti, quod habetis, sit integrum.
+	Deinde cum dicit <hi>fidelis</hi>, etc., dat spem exauditionis; quasi dicat: ut ego spero, sic fiet, quia et ipse <hi>qui vocavit faciet</hi>, id est, complebit.
+	Ps.
+	CXLIV, 13: <hi>fidelis dominus in omnibus verbis suis</hi>, et cetera.
+	Rom. c.
+	VIII, 30: <hi>quos vocavit, hos et iustificavit</hi>, et cetera.
+	Ultimo subiungit familiares monitiones, scilicet orationem, ibi <hi>orate</hi>; item mutuam pacem, ibi <hi>salutate omnes fratres in osculo sancto</hi>, non proditorio, sicut Iudas Matth.
+	XXVI, 49 nec libidinoso, ut libidinosa mulier Prov.
+	VII, 10. <hi>Ut legatur</hi>, et cetera.
+	Timebat enim ne praelati propter aliqua quae erant hic, eam occultarent.
+	Prov.
+	XI, 26: <hi>qui abscondit frumenta, maledicetur in populis</hi>, et cetera.
+	Ultimo concludit epistolam in salutatione.</p>
+
+</div2></div1>
+</body></text>
+</TEI> 

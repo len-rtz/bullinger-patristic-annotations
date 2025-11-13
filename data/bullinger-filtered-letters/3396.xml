@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3396" type="Briefschluss" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Zürich] an [Johannes (Jan) a Lasco (Laski)], 6. November 1557</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/3396</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="27281" type="transcription">S. 4802/373</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Briefschluss" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 346,384</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Lavater, Ludwig</author>
+							<incipit>Res sacramemtaria magis atque magis rapitur in contentionem, Saxonum quorundam ministris tantum non insanientibus.</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<sealDesc>
+							<seal><p>Siegelspur</p></seal>
+						</sealDesc>
+					</physDesc>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XVI, S. 687f, Nr. 2752 Exc.</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Erwähnung">
+								<title>Wotschke, «Der Briefwechsel der Schweizer mit den Polen», S. 72, Nr. 116</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>A. Mühling, HB's europ. Kirchenpolitik 237</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Briefschluss" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 90,208</idno>
+						<idno subtype="Ära">18. Jh.</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="low"/>
+					<placeName ref="l587" cert="low"/>
+					<date when="1557-11-06" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8041" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3396!Kopie!00%20E_II_346__fol__384_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">3396/Kopie/00 E_II_346__fol__384_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3396!Kopie!01%20E_II_346__fol__384_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">3396/Kopie/01 E_II_346__fol__384_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">D. <persName ref="p8041">Ioanni a Lasco</persName>, novembris 6. 1557.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Res sacramentaria magis atque magis rapitur in contentionem, <placeName ref="l749">Saxonum</placeName> quorundam ministris tantum non insanientibus.</s>
+					<s n="3" xml:lang="la">Neque videmus quomodo in tanta exacerbatione veritati bene possit consuli nisi ut praeteritis omnibus personis et confessionibus hoc doceamus et profiteamur simpliciter quod res est, ne fortassis, dum aliquid in gratiam hominum facimus, obscuretur veritas et simpliciores tandem quid tuto sequantur ignorent.</s>
+					<s n="4" xml:lang="la">Allega(n)t pro se <placeName ref="l749">Saxones</placeName> <placeName ref="l18">Augustanam</placeName> confessionem et exponunt eam crassissime ita ut et Apologia exposuit ac recessus imperii anno 1530 editus exponendam evincit.</s>
+					<s n="5" xml:lang="la">Relinquamus ergo istis confessionem illam, sequamur nos veritatem.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Waldenses in libro suo edito sub <persName ref="p1974">Lutheri</persName> auspiciis sibi in hac doctrina non constant, sicuti et Lutherani omnes.</s>
+					<s n="7" xml:lang="la">Habent fucos et pharmaca quibus morbida tingunt: ineffabili potentia, ratione a saeculo semoto, ineffabiliter, inenarrabili spiritus virtute.</s>
+					<s n="8" xml:lang="la">Quibus item uti video quosdam melioris notae homines.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Nos omnino periculosum esse putamus et veritati perniciosum involucra verborum quaerere et his contegere res ut utraque fere pars suam sententiam proferri existimet.</s>
+					<s n="10" xml:lang="la">Omissis ergo huiusmodi loquutionibus fateamur, Christum verum et naturale habere corpus ideoque corporaliter non esse in coena praesentem, sed spiritualiter: manducari eius carnem ad vitam, sed spiritualiter per fidem.</s>
+					<s n="11" xml:lang="la">Sic enim loquitur scriptura: sic exposuit illam universa vetustas.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Nec patiamur haec nobis eripi ex oculis et supponi nescio quam subtilia quae tamen nos magis reddant dubios quam certos.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Audio, nescio quid et nescio quos in <placeName ref="l2472">Poloniam</placeName> mittendos, doctos et vafros et huiusmodi artificio subtili exercitatos, qui mitigent diversas sententias et medium quidpiam confingant.</s>
+					<s n="14" xml:lang="la">Tu vero simplicitati studens conare, ut, quod dicitur, intelligi possit et minime sit captiosum et subtile.</s>
+					<s n="15" xml:lang="la">Quid enim simplicius, quam quod nobis relinquerunt apostoli?</s>
+					<s n="16" xml:lang="la">Sed infringet forte dominus consilia versutorum.</s>
+					<s n="17" xml:lang="la">Dominus det gratiam!</s>
+					<s n="18" xml:lang="la">In disciplina constituenda ab initio non essem nimis rigidus; moderatio in rebus omnibus commendatur; scis, quae hac de rescriptum reliquerit beatus <persName ref="p18700">Augustinus</persName> lib[ro] contra Parmenionem 3.</s>
+					<s n="19" xml:lang="la">At fuit d. <persName ref="p18700">Augustinus</persName> in hac causa si quis alius omnium exercitatissimus dicitque plurima ipsa rerum experientia; mire enim exercuerunt eum annis pluribus Donatistae etc.</s>
+				</p>
+				<p>
+					<note>[Schluss fehlt wie d. Anfang.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

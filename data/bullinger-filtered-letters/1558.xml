@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1558" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel an Heinrich Bullinger / Zürich, 4. Februar 1552</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/1558</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="22032" type="transcription">S. 2769</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 366,100</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Nihil novi habeo nunc temporis, quod ad te vel scribam vel mittam. Panthaleon noster disputabit iis diebus questiones Borrhai</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>J. Gast, Tagebuch 63 173; 406 53</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 77,37</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p1278" cert="high"/>
+					<placeName ref="l28" cert="high"/>
+					<date when="1552-02-04" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="995">Latein</language>
+				<language ident="de" usage="5">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t3"/>
+					<category n="t4"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1558!Autograph!00%20E_II_366__fol__100_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">1558/Autograph/00 E_II_366__fol__100_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1558!Autograph!01%20E_II_366__fol__100_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">1558/Autograph/01 E_II_366__fol__100_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. in domino.</s>
+					<s n="2" xml:lang="la">Nihil novi habeo nunc temporis, quod ad te vel scribam vel mittam.</s>
+					<s n="3" xml:lang="la"><persName>Panthaleon</persName> noster disputabit iis diebus quęstiones <placeName>Borrhai</placeName>, quo facilius doctoratus titulum assequatur, quem iam olim concupivit; nam est gloriae mancipium.</s>
+					<s n="4" xml:lang="la">Quales autem quęstiones sint, nondum excussi; si scirem tibi gratam rem fore, misissem.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Dedi nuper etiam literas ad te, quas perfert d. <persName>Ioannes Thomas Hausierus</persName> <placeName ref="l303">Magdeburgensis</placeName>, legatus a civitate missus ad <placeName ref="l862">Helveticas</placeName> ecclesias pro subsidio colligendo; quam rem melius ab ipso intellige.</s>
+					<s n="6" xml:lang="la">Omnia apud nos tranquilla sunt, etsi parum pestis nos adhuc vexet.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Si dialogum concilii <placeName ref="l1107">Tridentini</placeName> nondum accepisti, rescribe, et mittam, ut legas, quid instituant isti episcopi, qui iam <placeName ref="l1107">Tridenti</placeName> agunt, et ut nomina illorum tibi sint nota, qui columnae omnium ecclesiarum volunt esse.</s>
+					<s n="8" xml:lang="la">Nolunt disputare cum hęreticis, sed monere, ut ad ecclesiam redeant etc.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la"><persName ref="p4541">Chrysostomi</persName> homiliae inventę sunt Gręce nunquam [factę]<note type="margin">a.R.: ... könnte Abkürzg. f. hactenus sein /man erw. hactenus.</note> hactenus visae, quas <persName ref="p8126">Oporinus</persName> sub prelo habet, quarum te participem faciam.</s>
+					<s n="10" xml:lang="la" ana="farewell">Vale et <persName ref="p1278">Gastium</persName> amare perge.</s>
+					<s n="11" xml:lang="la"><placeName ref="l28">Basileę</placeName> 4. februarii 1552.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">T[uus] <persName ref="p1278">Gastius</persName> ex animo.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la"><placeName ref="l18">Augustani</placeName> concionatores omnem gratiam in concionando amiserunt.</s>
+					<s n="14" xml:lang="la">Principio blandi fuere; sed quum contiones suas iuxta pręscriptum Interim dirigant, incipit populus sapere veterem papismum.</s>
+					<s n="15" xml:lang="la">Ideo raros habent auditores; domi manent fideles.</s>
+					<s n="16" xml:lang="la">Omnia ad seditionem illic spectant.</s>
+					<s n="17" xml:lang="la">Dominus suos custodiat ab omni hęresi.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Domino <persName ref="p495">Heinrycho Bullingero</persName>, pastori <placeName ref="l587">Tigurinae</placeName> ecclesiae vigilantissimo.</s>
+					<s n="19" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

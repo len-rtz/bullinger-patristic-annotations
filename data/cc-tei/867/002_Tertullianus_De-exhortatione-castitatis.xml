@@ -1,0 +1,743 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De exhortatione castitatis</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.DeExCa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>ARGUMENTUM.</head>
+
+<pb n="0913C"/>
+<p>-- <hi>Hic tractatus a Tertulliano Montanista
+exaratus est, in quo quemdam viduum fratrem, a
+secundis nuptiis dehortatur; quas modo diserte vermittit
+nec a Sancto Paulo prohibitas assent, modo damnat
+et tanquam adulterium traducit.</hi> EDD.</p>
+</div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+<p>Non dubito, frater, te post uxorem in pace praemissam,
+ad compositionem animi conversum, de
+<pb n="0914C"/>
+exitu singularitatis cogitare, et utique consilii indigere.
+Quamquam in hujusmodi cum fide sua
+conloqui debet unusquisque, ejusque vires consulere;
+tamen quoniam, in ista specie, carnis necessitas cogitatum
+movet, quae fere apud eamdem conscientiam
+ fidei resistit, opus est fidei extrinsecus consilio,
+tanquam advocato adversus carnis necessitates.
+Quae quidem necessitas facillime circumscribi potest,
+si voluntas potuis Dei, quam indulgentia consideratur.
+<pb n="0915A"/>
+Nemo indulgentia utendo promeretur, sed voluntati
+obsequendo. <hi>Voluntas Dei est sanctificatio nostra.</hi> 
+Vult enim imaginem suam nos etiam similitudinem
+fieri, ut simus <hi>sancti, sicuti ipse sanctus est.</hi> Id bonum,
+sanctificationem dico, in species distribuit complures,
+ut in aliqua earum deprehendamur. Prima
+species, virginitas a nativitate. Secunda virginitas,
+a secunda nativitate, id est a lavacro, quae aut in
+matrimonio purificat ex compacto, aut in viduitate
+perseverat ex arbitrio. Tertius gradus superest
+monogamia, cum post matrimonium unum interceptum
+ exinde sexui renuntiatur. Prima virginitas
+felicitatis est, non nosse in totum a
+quo postea optabis liberari. Secunda virtutis est,
+contemnere cujus vim optime noris. Reliqua species
+hactenus nubendi post matrimonium morte disjunctum,
+praeter virtutis, etiam modestiae laus est.
+Modestia est enim, ablatum non desiderare, et ablatum
+<pb n="0915B"/>
+a Domino Deo; sine cujus voluntate nec folium de
+arbore delabitur, <hi>nec passer assis unius ad terram cadit.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>Quam denique modesta illa vox est: <hi>Dominus dedit,
+Dominus abstulit (Job, I, 21)</hi>, ut Domino visum est,
+ita factum est: et ideo si nuptias sublatas restauremus,
+sine dubio contra voluntatem Dei nitimur, volentes
+habere rursus, quod habere nos noluit. Si enim
+voluisset, non abstulisset. Nisi si et hoc voluntatem
+Dei interpretamur, quasi et rursus nos voluerit habere
+quod jam noluit. Non est bonae et solidae fidei,
+sic omnia ad voluntatem Dei referre, et ita adulari
+sibi unumquemque, dicendo nihil fieri sine nutu
+ ejus, ut non intelligamus esse aliquid in nobis
+<pb n="0915C"/>
+ipsis. Caeterum, excusabitur omne delictum, si
+contenderimus nihil fieri in nobis sine Dei voluntate;
+et ibit definitio ista in destructionem
+totius disciplinae, etiam ipsius Dei, si aut quae non
+vult de sua voluntate producit, aut nihil est quod
+Deus non vult. Sed quomodo vetat quaedam, quibus
+<pb n="0916A"/>
+etiam supplicium aeternum comminatur? utique
+enim quae vetat non vult, a quibus et offenditur:
+sicut et quae vult, praecipit, et accipit, et aeternitatis
+mercede dispungit. Itaque cum utrumque ex
+praeceptis ejus didicerimus, quid velit, et quid nolit;
+tamen nobis est voluntas et arbitrium eligendi
+alterum, sicut scriptum est: <hi>Ecce posui ante te bonum
+et malum <note>(Eccles., XV, 18)</note>
+          </hi>, gustasti enim de
+arbore agnitionis. Et ideo non debemus quod nostro
+ expositum est arbitrio, in Dei referre voluntatem,
+quos vult ipse et velle, qui malum
+non vult. Ita nostra est voluntas, cum malum volumus
+adversus Dei voluntatem, qui bonum vult. Porro,
+si quaeris unde venit ea voluntas, qua quid volumus
+adversus Dei voluntatem, dicam: ex nobis ipsis.
+Nec temere; semini enim tuo respondeas necesse
+est: siquidem ille princeps et generis et delicti,
+<pb n="0916B"/>
+Adam, voluit quod deliquit. Neque enim diabolus voluntatem
+ei imposuit deliquendi, sed materiam
+voluntati subministravit. Caeterum, voluntas Dei in
+obaudientiam venerat. Proinde et tu, si non
+obaudieris Deo, qui te, proposito praecepto, liberae potestatis
+instituit, per voluntatis libertatem volens deverges
+in id quod Deus non vult, et ita te putas
+a diabolo subversum, qui etsi quid vult te velle quod
+Deus non vult, non tamen facit ut et velis; quia nec
+tunc istos protoplastos ad voluntatem delicti
+subegit; imo neque invitos, neque ignorantes quid
+Deus nollet; utique enim nolebat fieri, cum admisso
+mortem destinabat. Ita diaboli opus unum est, tentare
+ quod in te est, an velis. At ubi voluisti, sequitur
+ut te sibi subigat, non operatus in te voluntatem,
+sed nactus occasionem voluntatis. Igitur
+<pb n="0916C"/>
+cum solum sit in nobis velle, et in hoc probetur
+ nostra erga Deum mens, an ea velimus quae
+cum voluntate ipsius faciant.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Alte et impresse recogitandam esse dico Dei voluptatem,
+<pb n="0917A"/>
+quid etiam in occulto velit. Quae enim in manifesto,
+scimus omnes; eaque ipsa qualiter in manifesto
+sint, perspiciendum est. Nam etsi quaedam videntur
+voluntatem Dei sapere, dum a Deo permittuntur,
+non statim omne quod permittitur, ex mera et tota voluntate
+procedit ejus qui permittit. Ex indulgentia
+est, quodcumque permittitur; quae etsi sine voluntate
+non est, quia tamen aliquam habet caussam in illo
+cui indulgetur, quasi de invita venit voluntate, passa
+caussam sui, quae cogit voluntatem. Vide qualis sit voluntas,
+cujus alter est caussa. Secunda item species
+consideranda est non purae voluntatis. Vult nos
+Deus agere quaedam placita sibi, in quibus non indulgentia
+ patrocinatur, sed disciplina dominatur.
+Si tamen alia istis praeposuit, utique quae magis
+<pb n="0917B"/>
+vult, dubiumne est ea nobis sectanda esse, quae
+mavult; cum quae minus vult, quia alia magis
+vult, perinde habenda sint atque si nolit? Nam
+ostendens quid magis velit, minorem voluntatem
+majore delevit. Quantoque notitiae tuae utramque
+proposuit, tanto definiit id te sectari debere, quod
+declaravit se magis velle. Ergo si ideo declaravit
+ut id secteris quod magis vult, sine dubio nisi
+ita facis contra voluntatem ejus sapis, sapiendo contra
+potiorem ejus voluntatem: magisque offendis
+quam promereris, quod vult quidem faciendo,
+et quod mavult respuendo. Ex parte delinquis; ex
+parte, si non delinquis, non tamen promereris. Porro
+et promereri nolle, delinquere est. Secundum igitur
+matrimonium, si est ex illa Dei voluntate, quae indulgentia
+<pb n="0917C"/>
+vocatur, negabimus meram voluntatem,
+cui indulgentia est caussa; si ex ea,
+cui potior alia praeponitur continentiae magis appetendae,
+didicerimus non potiorem a potiore rescindi.
+Haec praestrinxerim, ut jam Apostoli voces
+ decurram. In primis autem non videbor irreligiosus,
+<pb n="0918A"/>
+si, quod ipse profitetur, animadvertam;
+omnem illum indulgentiam nuptiarum, de suo, id est,
+de humano sensu, non de divino praescripto induxisse.
+Nam et cum de viduis et innuptis definiit uti
+nubant, si continere non possunt, quia <hi>melius sit nubere
+quam uri;</hi> conversus ad alteram speciem: <hi>Nuptis autem denuntio,</hi> 
+ inquit, <hi>non quidem ego, sed
+Dominus <note>(I Cor., VII, 10)</note>
+          </hi>. Ita ostendit, ex tralatione
+ personae suae in Dominum, id quod supra
+dixerat, non ex Domini persona, sed ex sua pronuntiasse, <hi>Melius est nubere 
+ quam uri.</hi> Quae vox licet
+ad eos pertineat, qui innupti, vel vidui a fide
+deprehenduntur; quia tamen omnes eam ad
+nubendi licentiam amplectuntur, velim pertractare,
+ quale bonum ostendat, quod melius est
+<pb n="0918B"/>
+poena: quod non potest videri bonum, nisi pessimo
+comparatum; ut ideo bonum sit nubere, quia deterius
+est ardere. Bonum ita est, si perseveret nomen
+obtinens sine comparatione, non dico mali, sed etiam
+boni alterius; ut et si bono alii comparatur, et
+alio <hi>adumbratur</hi>, nihilominus remaneat in boni
+nomine. Caeterum, si per mali conditionem
+cogitur bonum dici, non tam bonum est quam genus
+mali inferioris, quod a superiore malo obscuratum ad
+nomen boni impellitur. Aufer denique conditionem
+comparationis, ut non dicas: <hi>melius est nubere
+quam uri;</hi> et quaero, an dicere audeas: <hi>melius est
+nubere;</hi> non adjiciens quid sit id, quod melius est. Ergo
+quod non melius, utique nec bonum; quia abstulisti
+et removisti conditionem comparationis, quae
+<pb n="0918C"/>
+dum melius illud facit, ita bonum haberi cogit.
+Melius est nubere quam uri; sic accipiendum est,
+quomodo melius est uno oculo quam duobus carere:
+si tamen a comparatione discedas, non erit
+melius unum oculum habere, quia nec bonum.
+Nemo igitur captet ex hoc capitulo defensionem,
+<pb n="0919A"/>
+quod proprie ad innuptos et viduos spectat,
+quibus nulla adhuc conjunctio numeratur. Quamquam
+ostenderim etiam illis intelligendam esse permissi
+conditionem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Caeterum, de secundo matrimonio scimus plane
+Apostolum pronuntiasse, <hi>Solutus es ab uxore, ne
+quaesieris uxorem: sed si duxeris, non delinquis.</hi> Perinde
+tamen et hujus sermonis ordinem, de consilio
+suo, non de divino praecepto introducit. Multum
+autem interest inter Dei praeceptum, et consilium
+hominis. <hi>Praeceptum Domini,</hi> inquit, <hi>non habeo;</hi> sed <hi>consilium do, quasi misericordiam consecutus a Domino
+fidelis esse.</hi> 
+ Caeterum, neque in Evangelio, neque
+in ipsius Pauli Epistolis, ex praecepto Dei invenias
+permissam matrimonii separationem. Unde
+<pb n="0919B"/>
+unum habendum confirmatur; quia quod a Domino
+permissum non invenitur, id ignoscitur. Adde quod
+et haec ipsa humani consilii interjectio quasi jam
+recogitationem excessus sui passa, statim se refraenat
+et revocat, cum subjungit: <hi>Verumtamen
+hujusmodi, pressuram carnis habebunt;</hi> cum <hi>parcere
+se</hi> eis dicit; cum <hi>tempus in collectum esse</hi> adjicit,
+quo oporteat etiam <hi>habentes matrimonia pro non
+habentibus agere:</hi> cum sollicitudinem nuptorum et
+innuptorum committit. Per haec enim docens, cur
+non expediat nubere, dissuadet ab eo quod supra indulserat.
+Et hoc de primo matrimonio; quanto magis
+de secundo? Cum vero nos ad exemplum
+suum hortatur, utique ostendens quid nos velit esse,
+id est continentes, pariter declarat quid nos esse
+<pb n="0919C"/>
+nolit, id est incontinentes. Ita et ipse cum aliud
+vult, id quod non vult nec sponte nec veritate permittit.
+Si enim vellet, non permisisset, imo imperasset.
+ Sed ecce rursus <note>(I Cor. VII)</note>, mulierem <hi>marito defuncto dicit nubere posse, si cui velit,
+tantum in Domino. At enim felicior erit,</hi> 
+ inquit, <hi>si sic
+permanserit secundum meum consilium. Puto autem,
+et ego Dei spiritum habeo.</hi> Videmus duo consilia, quo
+supra nubendi veniam facit, et quo postmodum continentiam
+nubendi indicit. Cui ergo, inquis, adsentabimur?
+Inspice, et lege. Cum veniam facit,
+hominis prudentis consilium adlegat. Cum continentiam
+indicit, Spiritus Sancti consilium affirmat.
+Sequere admonitionem cui divinitas patrocinatur.
+<pb n="0920A"/>
+Spiritum quidem Dei etiam fideles habent, sed non
+omnes fideles Apostoli. Cum ergo qui se fidelem
+dixerat, adjecit postea, Spiritum Dei se habere,
+quod nemo dubitaret etiam de fideli; idcirco id dixit,
+ut sibi Apostoli fastigium redderet. Proprie enim
+Apostoli Spiritum Sanctum habent in operibus prophetiae
+et efficacia virtutum, documentisque linguarum,
+non ex parte, quod caeteri. Ita Spiritus
+Sancti auctoritatem ad eam speciem adire fecit,
+cui nos magis obsequi voluit; et factum est jam non
+consilium divini Spiritus, sed pro ejus majestate
+praeceptum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Ad legem semel nubendi dirigendam, ipsa origo
+humani generis patrocinatur, contestans quid Deus
+<pb n="0920B"/>
+in primordio constituerit, in formam posteritati
+recensendam.</p>
+<p>Nam cum hominem figurasset, eique parem
+necessariam propexisset, unam de costis ejus mutuatus,
+unam illi foeminam finxit; cum utique nec
+artifex, nec materia defecisset, plures costae in
+Adam, et infatigabiles manus in Deo, sed non plures
+uxores apud Deum et ideo homo Dei Adam, et
+mulier Dei Eva, unis inter se nuptiis functi
+sunt. Formam hominibus Dei, de originis
+auctoritate, et prima Dei voluntate sanxerunt. Denique, <hi>erunt duo,</hi> 
+ inquit, <hi>in carne una;</hi> non tres,
+neque quatuor. Alioquin jam non una caro, nec
+duo in unam carnem. Tunc erunt, si conjunctio
+et concretio in unitatem semel fiat. Si vero rursus
+<pb n="0920C"/>
+aut saepius, jam una esse desiit; et erunt non duo
+in unam carnem, sed una plane costa in plures.
+At quam Apostolus in Ecclesiam et Christum interpretatur, <hi>erunt duo in unam carnem,</hi> 
+ secundum spiritales
+nuptias Ecclesiae et Christi (unus enim Christus,
+et una ejus Ecclesia), agnoscere debemus duplicatam
+et exaggeratam esse nobis unius matrimonii
+ legem, tam secundum generis fundamentum,
+quam secundum Christi sacramentum. De uno matrimonio
+censemur utrobique, et carnaliter in Adam,
+et spiritaliter in Christo. Duarum nativitatum unum
+est monogamiae praescriptum. In utraque degenerat,
+qui de monogamia exorbitat. Numerus matrimonii
+a maledicto viro coepit. Primus Lamech, duabus
+maritatus, tres in unam carnem effecit.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+
+<pb n="0921A"/>
+<p>Sed et benedicti, inquis, Patriarchae non modo
+pluribus uxoribus, verum etiam concubinis conjugia
+miscuerunt. Ergo propterea nobis quoque licebit
+innumerum nubere? Sane licebit, si adhuc typi
+futuri alicujus sacramenta supersunt, quos nuptiae
+tuae figurent; vel si etiam nunc locus est vocis illius: <hi>crescite et multiplicamini,</hi> 
+ id est, si nondum alia vox
+supervenit, <hi>tempus jam in collecto esse, restare ut
+et qui uxores habent, tanquam non habentes agant;</hi> 
+utique enim continentiam indicens, et compescens
+concubitum, seminarium generis, abolefecit <hi>crescite</hi> 
+illud et <hi>multiplicamini.</hi> Ut opinor autem, unius
+et ejusdem Dei utraque pronuntiatio et dispositio est:
+qui tum quidem in primordio sementem generis emisit,
+indultis conjugiorum habenis, donec mundus repleretur,
+<pb n="0921B"/>
+donec novae disciplinae materia proficeret;
+nunc vero sub extremitatibus temporum compressit
+quod emiserat, et revocavit quod indulserat, non
+sine ratione prorogationis in primordio, et pastinationis
+ in ultimo. Semper initia laxantur, fines contrahuntur.
+Propterea sylvam quis instituit, et
+crescere sinit, ut tempore suo caedat. Sylva erit vetus
+dispositio, quae ab Evangelio novo deputatur, in
+quo et <hi>
+            <note>(Matth. XXI)</note> securis ad radices arboris posita
+est.</hi> Sic et <hi>oculum pro oculo, et dentem pro dente,</hi> 
+jam senuit, ex quo juvenuit <hi>
+            <note>(Rom. XII, 17)</note> malum pro
+malo nemo reddat.</hi> Puto autem etiam in humanas constitutiones
+atque decreta posteriora pristinis praevalere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+
+<pb n="0921C"/>
+<p>Cur autem de pristinis exemplis non ea potus agnoscamus,
+<pb n="0922A"/>
+quae cum posterioribus communicant,
+de disciplina et forma vetustatis ad novitatem transmittunt?
+Ecce enim in veteri lege animadverto castratam
+licentiam saepius nubendi. Cautum in Levitico: <hi>Sacerdotes mei non plus nubent 
+ <note>(Lev. XXI, 14)</note>
+          </hi>.
+Possum dicere, etiam illud plus esse quod semel non
+est. Quod non unum est, numerus est. Denique,
+post unum incipit numerus. Unum autem est, omne
+quod semel est. Sed Christo servabatur, sicut in
+caeteris, ita in isto quoque legis plenitudo. Inde igitur
+apud nos plenius atque instructius praescribitur,
+unius matrimonii esse oportere <note>(Tit. I, 6)</note> qui
+alleguntur in ordinem sacerdotalem. Usque adeo
+quosdam memini digamos loco dejectos. Sed dices:
+Ergo caeteris licet quos excipit. Vani erimus, si
+<pb n="0922B"/>
+putaverimus quod sacerdotibus non liceat, laicis licere.
+Nonne et laici sacerdotes sumus? Scriptum
+est: <hi>Regnum quoque nos et sacerdotes Deo et Patri suo
+fecit <note>(Apoc. I, 6)</note>
+          </hi>. Differentiam inter ordinem et plebem
+constituit Ecclesiae auctoritas, et honor per ordinis
+consessum sanctificatus. Adeo  ubi ecclesiastici
+ordinis non est consessus, et offers, et
+tinguis, et sacerdos es tibi solus. Sed ubi tres,
+Ecclesia est, licet laici. Unusquisque enim <hi>sua
+fide vivit, nec est personarum acceptio apud Deum;</hi> 
+quoniam <hi>non auditores legis justificantur a Deo, sed
+factores,</hi> secundum quod et Apostolus dicit <note>(Rom. II,
+11, 13)</note>. Igitur si habes jus sacerdotis in temetipso,
+ubi necesse est; habeas oportet etiam disciplinam
+sacerdotis, ubi necesse sit habere jus sacerdotis.
+<pb n="0922C"/>
+Digamus tinguis? digamus offers? Quanto magis
+laico digamo capitale est agere pro sacerdote,
+<pb n="0923A"/>
+cum ipsi sacerdoti digamo facto auferatur agere sacerdotem!
+Sed necessitati, inquis, indulgetur.
+Nulla necessitas excusatur, quae potest non esse.
+Noli denique digamus deprehendi, et non committis
+in necessitatem administrandi quod non licet digamo.
+Omnes nos Deus ita vult dispositos esse,
+ut ubique sacramentis ejus obeundis apti simus.
+Unus Deus, una fides, una et disciplina. Usque
+adeo, nisi et laici ea observent, per quae presbyteri
+alleguntur, quomodo erunt presbyteri, qui de laicis
+alleguntur? Ergo pugnare debemus ante laicum
+jussum a secundo matrimonio abstinere, dum
+presbyter esse non alius potest, quam laicus qui
+semel fuerit maritus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p>
+          <pb n="0923B"/>Liceat nunc denuo nubere, si omne quod licet
+bonum est. Idem Apostolus exclamat: <hi>omnia licent,
+sed non omnia prosunt <note>(I Cor. VI, 12)</note>
+          </hi>. Quod non
+prodest, oro te, bonum potest dici? Si licita sunt
+et quae non pro salute, ergo et quae non bona
+sunt, licita sunt. Quid autem magis velle debebis,
+quod ideo bonum est, quia licet, an quod ideo
+quia prodest? Multum existimo esse inter licentiam
+et salutem. De bono non dicitur, licet, quia
+bonum permitti non exspectat, sed adsumi. Permittitur
+autem quod, an bonum sit, in dubio est, quod potest
+etiam non permitti, si non habeat aliquam sui caussam
+primam. Propter incontinentiae periculum permittitur
+nubere secundo; quia nisi licentia alicujus
+non bonae rei subjaceret, non esset in quo probaretur
+<pb n="0923C"/>
+qui divinae voluntati, et qui suae potestati obsequeretur;
+ quis nostrum utilitatis praesentiam
+sectetur, et quis occasionem licentiae amplexetur.
+Licentia plerumque tentatio est disciplinae, quoniam
+<pb n="0924A"/>
+disciplina per tentationem probatur, tentatio per licentiam
+operatur. Ita fit, ut <hi>omnia liceant, sed non
+omnia expediant;</hi> dum tentatur cui permittitur, et
+judicatur dum in permissione tentatur. Licebat
+et Apostolis <hi>nubere, et uxores circumducere <note>(I
+Cor. VI, 12)</note>
+          </hi>; licebat et de Evangelio ali. Sed qui
+jure hoc usus non est in occasionem, ad exemplum
+nos suum provocat, docens in eo esse probationem,
+in quo licentia experimentum abstinentiae praestruxit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Si penitus sensus ejus interpretemur, non aliud
+dicendum erit secundum matrimonium, quam species
+stupri. Cum enim dicat, maritos hoc in sollicitudine
+habere, quemadmodum sibi placeant; non utique
+<pb n="0924B"/>
+de moribus (nam bonam sollicitudinem non sugillaret);
+et de cultu, et ornatu, et omni studio formae,
+ad illecebras movendas sollicitos intelligi velit; de
+forma autem et cultu placere carnalis concupiscentiae
+ingenium sit, quae etiam stupri caussa est: ecquid videtur
+tibi stupri adfine esse secundum matrimonium,
+quoniam ea in illo deprehendo quae stupro competunt?
+Ipse Dominus: <hi>Qui viderit,</hi> inquit, <hi>mulierem ad concupiscendum,
+jam stupravit eam in corde suo <note>(Matth.,
+V, 28)</note>
+          </hi>. Qui autem eam ad ducendum viderit,
+minus an plus fecit? Quid, si etiam duxerit?
+quod non faceret. nisi et ad ducendum concupisset, et
+ad concupiscendum vidisset. Nisi si potest duci uxor,
+quam non videris nec concupieris. Multum sane
+interest, maritus an caelebs aliam concupiscat.
+<pb n="0924C"/>
+Omnis mulier etiam caelibi alia est, quamdiu aliena;
+nec per aliud tamen fit marita, nisi per quod
+et adultera. Leges videntur matrimonii et stupri differentiam
+facere per diversitatem illiciti, non per
+<pb n="0925A"/>
+conditionem rei ipsius. Alioquin quae res et viris
+et foeminis omnibus adest ad matrimonium et
+stuprum? commixtio carnis scilicet, cujus concupiscentiam
+Dominus stupro adaequavit. Ergo, inquis.
+jam et primas, id est, unas nuptias destruis. Nec
+immerito, quoniam et ipsae ex eo constant, quo et
+stuprum. Ideo optimum est homini mulierem non attingere,
+et ideo virginis principalis sanctitas, quia
+caret stupri adfinitate. Et cum haec etiam de primis
+et unis nuptiis praetendi ad caussam continentiae possint,
+quanto magis secundo matrimonio recusando
+praejudicabunt! Gratus esto, si semel tibi indulsit
+Deus nubere; gratus autem eris, si iterum indulsisse
+illum tibi nescias. Caeterum, abuteris indulgentia,
+cum sine modestia uteris. Modestia a modo intelligitur.
+<pb n="0925B"/>
+Non tibi sufficit de summo illo immaculatae
+virginitatis gradu in secundum recidisse nubendo;
+sed in tertium adhuc devolveris, et in quartum, et
+fortassis in plures, postquam in secunda statione
+continens non fuisti: quia nec prohibere plures
+nuptias voluit, qui de secundis provocandis retractavit.
+Nubamus igitur quotidie, et nubentes ab ultimo
+die deprehendamur tanquam Sodoma et Gomorra:
+quo die, <hi>Vae</hi> illud super praegnantes [adimplebitur],
+id est, super maritos et incontinentes: de nuptiis
+enim uteri, et ubera, et infantes. Et quando finis
+nubendi? Credo post finem vivendi.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Renuntiemus carnalibus, ut aliquando spiritalia
+retractemus. Rape occasionem, etsi non exoptatissimam,
+<pb n="0925C"/>
+attamen opportunam, non habere cui debitum
+solveres, et a quo exsolvereris: desiisti esse
+debitor. O te felicem! dimisisti debitorem; sustine
+damnum. Quid si, quod diximus damnum, lucrum
+sentias? Per continentiam enim negotiaberis
+magnam substantiam sanctitatis; parcimonia carnis,
+spiritum adquires. Recogitemus enim ipsam
+conscientiam nostram, quam alium se homo sentiat:
+cum forte a sua foemina cessat, spiritaliter sapit. Si
+<pb n="0926A"/>
+orationem facit ad Dominum, prope est coelo. Si scripturis
+incumbit, totus illic est. Si psalmum canit, placet
+sibi. Si daemonem adjurat, confidit sibi. Ideo
+Apostolus temporalem purificationem orationum
+commendandarum caussa adjecit; ut sciremus, quod
+ad tempus prodest semper nobis exercendum esse,
+ut semper prosit. Quotidie, imo omni momento
+oratio hominibus necessaria est, utique et continentia,
+postquam oratio necessaria est. Oratio de conscientia
+procedit. Si conscientia erubescat, erubescit
+oratio. Spiritus deducit orationem ad Deum.
+Si spiritus reus apud se sit conscientiae erubescentis,
+quomodo audebit orationem ducere ab illa,
+de qua erubescente et ipse suffunditur sanctus minister?
+Etenim est prophetica vox veteris Testamenti:
+<pb n="0926B"/> <hi>Sancti eritis, quia Deus sanctus 
+ <note>(Lev., XI, 44,
+sq.; XIX, 2; I Petr., I, 16)</note>
+          </hi>; et rursus: <hi>Cum sancto
+sanctificaberis, et cum viro innocente innocens eris, et
+cum electo electus <note>(Ps., XVIII, 26)</note>
+          </hi>. Debemus enim
+ita ingredi in disciplina Domini, ut dignum est, non secundum
+carnis calentes concupiscentias. Ita enim
+et Apostolus dicit, quod sapere secundum carnem mors
+sit; secundum spiritum vero sapere vita aeterna
+sit in Christo Jesu Domino nostro. Si haec obfusio,
+etiam cum in unis nuptiis res carnis exercetur, Spiritum
+Sanctum avertit, quanto magis cum in secundo
+matrimonio agitur?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Duplex enim rubor est; quia in secundo matrimonio
+duae uxores eumdem circumstant maritum; una
+<pb n="0926C"/>
+spiritu, alia in carne: neque enim pristinam poteris
+odisse, cui etiam religiosiorem reservas affectionem,
+ut jam receptae apud Dominum, pro cujus spiritu
+postulas, pro qua oblationes annuas reddis. Stabis
+ergo ad Dominum cum tot uxoribus, quot in oratione
+commemoras? et offeres pro duabus? et commendabis
+ illas duas per sacerdotem de monogamia
+ordinatum, aut etiam de virginitate sancitum,
+circumdatum virginibus ac univiris, et ascendet sacrificium
+<pb n="0927A"/>
+tuum libera fronte? et inter caeteras voluntates
+bonae mentis, postulabis tibi et uxori castitatem?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Scio quibus caussationibus coloremus insatiabilem
+carnis cupiditatem: praetendimus necessitates adminiculorum,
+domum administrandam, familiam regendam,
+loculos, claves custodiendas, lanificium dispensandum,
+victum procurandum, curas domesticas.
+Scilicet solis maritorum domibus bene est. Perierunt
+caelibum familiae, res spadonum, fortunae militum,
+aut peregrinantium sine uxoribus. Non enim nos et
+milites sumus? eo quidem majoris disciplinae, quanto
+tanti imperatoris. Non et nos peregrinantes in isto
+saeculo sumus? Cur autem ita dispositus es, o christiane,
+ut sine uxore non possis? Nunc et consors onerum
+<pb n="0927B"/>
+domesticorum necessaria est. Habe aliquam uxorem
+spiritalem, adsume de viduis, fide pulcram, paupertate
+dotatam, aetate signatam: bonas nuptias feceris.
+Hujusmodi uxores etiam plures haberi Deo gratum
+est. Sed posteritatem recogitant christiani, quibus
+crastinum non est. Haeredes Dei servus desiderabit,
+qui semetipsum de saeculo exhaeredavit? Et ideo quis
+repetat matrimonium, si de pristino non habeat liberos?
+Habebit itaque hoc primum, ut diutius velit
+vivere, ipso apostolo festinante ad Dominum? Certe
+expeditissimus in persecutionibus, constantissimus
+in martyriis, promptissimus in communicationibus,
+temperantissimus in acquisitionibus: postremo securus
+morietur, relictis filiis forsitan qui illi parentent.
+<pb n="0927C"/>
+Numquid ergo hujusmodi et reipublicae prospectu
+aguntur, ne civitates deficiant, si soboles non
+exerceantur: ne leges, ne jura, ne commercia delabantur;
+ne templa derelinquantur; ne non sint qui
+adclament: CHRISTIANI AD BESTIAS. Haec enim
+audire desiderant, qui filios quaerunt. Sufficiant ad
+consilium viduitatis vel ista, praecipue apud nos, importunitas
+liberorum, ad quos suscipiendos legibus
+compelluntur homines; quia sapiens quique nunquam
+<pb n="0928A"/>
+libens filios desiderasset. Quid ergo facies si
+novam uxorem de tua conscientia impleveris?
+dissolvas medicaminibus conceptum? Puto nobis
+non magis licere nascentem necare, quam natum.
+Sed fortasse illo tempore praegnantis uxoris, remedium
+ tantae sollicitudini a Deo petere audebis,
+quod in te positum recusasti. Aliqua, opinor, sterilis
+prospicietur, jam vel frigidioris aetatis. Satis consulte,
+et in primis fideliter. Nullam enim credidimus,
+Deo volente, sterilem aut anum enixam; quod adeo
+magis evenire potest, si quis praesumptione hujus
+providentiae suae Dei aemulationem provocarit. Scimus
+denique quemdam ex fratribus, cum, propter
+filiam suam, secundo matrimonio sterilem captasset
+uxorem, tam iterum patrem factum, quam et iterum
+<pb n="0928B"/>
+maritum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p>Ad hanc meam cohortationem, frater dilectissime,
+ accedunt etiam saecularia exempla, quae saepe nobis
+etiam in testimonio posita sunt, cum quid bonum, et
+Deo placitum ab extraneis quoque agnoscitur, et testimonio
+oneratur. Denique, monogamia apud ethnicos
+ita in summo honore est, ut et virginibus legitime nubentibus
+ univira pronuba adhibeatur; et si auspicii
+caussa, utique boni auspicii est. Item, ut in quibusdam
+solemnibus et officiis, prior sit univirae locus. Certe
+flaminica nonnisi univira est, quae et flaminis lex
+est. Nam prior cum ipsi pontifici maximo iterare matrimonium
+non licet, utique monogamiae gloria est:
+<pb n="0928C"/>
+cum autem Dei sacramenta Satanas affectat, provocatio
+est nostra; imo suffusio, si pigri sumus ad
+continentiam Deo exhibendam, quam diabolo quidam
+praestant, nunc virginitate, nunc viduitate perpetua.
+Novimus virgines Vestae et Junonis apud
+Achaiae oppidum, Apollinis apud Ephesos, et Minervae
+quibusdam locis. Novimus et continentes viros,
+et quidem tauri illius aegyptii antistites. Foeminas
+vero Cereri Africanae; cui etiam sponte abdicato
+<pb n="0929A"/>
+matrimonio adsenescunt, aversantes exinde contactum
+masculorum, usque ad oscula filiorum. Invenit
+scilicet diabolus, post luxuriam, etiam castitatem
+perditricem, quo magis reus sit christianus, qui
+castitatem recusaverit conservatricem. Erunt nobis
+in testimonium et foeminae quaedam saeculares, ob univiratus
+obstinationem, famam consecutae: ut Dido,
+quae profuga in alieno solo, ubi nuptias regis ultro
+optasse debuerat, ne tamen secundas experiretur,
+maluit e contrario uri quam nubere; vel illa Lucretia
+quae etsi semel per vim, et invita, alium virum passa
+est, sanguine suo maculatam carnem abluit, ne
+viveret jam non sibi univira. Plura exempla curiosius
+<pb n="0930A"/>
+de nostris invenias, et quidem tanto potiora,
+quanto facilius est vivere in castitate, quam pro
+ea mori; hoc est, animae id bonum misceri, quam
+non vivendo separari. Quanti igitur et quantae in
+ecclesiasticis ordinibus de continentia censentur,
+qui Deo nubere maluerunt, qui carnis suae honorem
+restituerunt, quique se jam illius aevi filios
+dicaverunt, occidentes in se concupiscentiam libidinis,
+et totum illud quod intra paradisum non
+potuit admitti? Unde praesumendum est hos, qui intra
+paradisum recipi volent, tandem debere cessare
+ab ea re, a qua paradisus intactus est.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

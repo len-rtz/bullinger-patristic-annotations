@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12419" type="Brief" source="HBBW-16" n="2372">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel an Heinrich Bullinger, 7. März 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/12419</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=2372</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b19" n="2372" type="transcription">S. 205</bibl>
+				<bibl source="b19" n="2372" type="regest">S. 205</bibl>
+				<bibl source="b19" n="2372" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 366,208</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Den Bücherkatalog kann <persName ref="p1278" cert="high">Gast</persName> erst dann schicken, wenn er alle Druckereien durchstöbert hat. Die Ausgabe von <persName ref="p18989" cert="high">Boethius</persName>’ Werken wird <persName ref="p495" cert="high">Bullinger</persName> mit der Büchersendung für <persName ref="p4851" cert="high">[Christoph] Froschauer</persName> empfangen. <persName ref="p1278" cert="high">Gast</persName> wird der Sendung auch [je] einen Brief von <persName ref="p8073" cert="high">Gilbert Cousin</persName> an <persName ref="p495" cert="high">Bullinger</persName> und an <persName ref="p8011" cert="high">[Rudolf] Gwalther</persName> beilegen. [Etwaige] Antworten an <persName ref="p8073" cert="high">Cousin</persName> kann <persName ref="p1278" cert="high">Gast</persName> gerne weiterleiten, denn zu Ostern [25. April] wird <persName ref="p8073" cert="high">Cousins</persName> Bruder [<persName ref="p4575" cert="high">Antoine</persName>?] wieder in <placeName ref="l28" cert="high">Basel</placeName> sein.</p>
+							<p xml:id="regest2">- Der Meldung einiger Kaufleute zufolge hat [<persName ref="p19042" cert="high">Cheireddin] Barbarossa</persName> den König von <placeName ref="l1151" cert="high">Tunis</placeName> [Kalif <persName cert="high" ref="p46">Achmed III.</persName>] gefangen genommen. „<placeName cert="high" ref="l2792">Algerien</placeName>“ sei besetzt, und die <placeName ref="l875" cert="high">Spanier</placeName> seien in Gefahr. Daher eile Kaiser [<persName ref="p18538" cert="high">Karl V.</persName>] nach <placeName ref="l410" cert="high">Regensburg</placeName>, um die Religionsangelegenheit zu regeln und von dort weiter nach <placeName ref="l834" cert="high">Italien</placeName> und <placeName cert="high" ref="l875">Spanien</placeName> zu gelangen. Käme er doch nie zurück! Er wird auch von körperlichen Leiden heimgesucht, und er hat schlechte Berater, die aus Furcht, dass ihnen etwas entgehen könnte, keinen guten Rat annehmen.</p>
+							<p xml:id="regest3">- Grüße an <persName ref="p8171" cert="high">Theodor [Bibliander]</persName>, <persName ref="p8127" cert="high">[Konrad] Pellikan</persName> und <persName ref="p8011" cert="high">Gwalther</persName>.</p>
+						</summary>
+						<msItem>
+							<textLang>Deutsch</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 16, Nr. 2372, S. 205</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p1278" cert="high"/>
+					<placeName ref="l28" cert="high"/>
+					<date when="1546-03-07" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="995">Latein</language>
+				<language ident="de" usage="5">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t10"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12419!Autograph!00%20E_II_366__fol__208_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">12419/Autograph/00 E_II_366__fol__208_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12419!Autograph!01%20E_II_366__fol__208_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">12419/Autograph/01 E_II_366__fol__208_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">S. in domino.</s>
+					<s n="2" xml:lang="la">Catalogum librorum nunc non mitto, quia nondum perreptavi typographias<note xml:id="fn1" type="footnote" n="1">Druckereien; s. <bibl source="b527">Ramminger</bibl> s.v.</note> omnium.</s>
+					<s n="3" xml:lang="la">Mittam autem brevi non solum librorum indicem,<note xml:id="fn2" type="footnote" n="2">Die Sendung erfolgte erst am 7. Juni 1546; s. <ref target="file12409">Nr. 2362</ref>, Anm. 50.</note> sed etiam quicquid volueris.</s>
+					<s n="4" xml:lang="la"><persName ref="p18989">Boethii</persName> opera in vas inclusi, quę recipies cum libris <persName ref="p4851">Froscophori</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p4851">Christoph Froschauer</persName>. - Zur <persName ref="p18989">Boethius</persName>-Ausgabe s. <ref target="file12409">Nr. 2362</ref> und Anm. 43; <ref target="file12415">Nr. 2368</ref> und Anm. 28. Die Übermittlung dieser Edition erfolgte erst nach dem 25. März; s. <ref target="file12441">Nr. 2394</ref>,1-3.</note>.</s>
+					<s n="5" xml:lang="la">Simul etiam accipies literas <persName ref="p8073">Gilberti</persName> nostri<note xml:id="fn4" type="footnote" ana="bio" n="4"><persName ref="p8073">Gilbert Cousin</persName>. -Angekündigt wird hier <persName ref="p8073">Cousins</persName> Brief an <persName ref="p495">Bullinger</persName> vom 25. März (<ref target="file12440">Nr. 2393</ref>). <persName ref="p1278">Gast</persName> wird davon durch <persName ref="p8073">Cousins</persName> Bruder <persName ref="p4575">Antoine</persName> (s. unten Z. 6) oder durch einen Brief <persName ref="p8073">Cousins</persName> erfahren haben.</note> et ad te et <persName ref="p8011">Gvaltherum</persName>;<note xml:id="fn5" type="footnote" n="5">Nicht erhalten.</note> cui si vultis scribere, potestis ad me mittere ante paschatos festum<note xml:id="fn6" type="footnote" n="6">25. April 1546.</note>.</s>
+					<s n="6" xml:lang="la">Nam in ipsa paschę die reversurus ad nos est <persName ref="p8073">Gilberti</persName> <persName ref="p4575">frater</persName><note xml:id="fn7" type="footnote" n="7">Vielleicht <persName ref="p4575">Antoine Cousin</persName>; s. <ref target="file12415">Nr. 2368</ref>, Anm. 30.</note> coempturus libros nuper excusos.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la">Novi nihil habeo nisi quędam incerta.</s>
+					<s n="8" xml:lang="la">Sparserunt mercatores quidam <placeName ref="l3451">Tuneti</placeName> <persName ref="p46">regem</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p46">Achmed III.</persName>, Kalif aus der Dynastie der <persName ref="p20057">Hafsiden</persName> bis 1570; s. <bibl source="b16">HBBW XIII</bibl> 328, Anm. 3.</note> esse captum a <persName ref="p19042">Barbarossa</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p19042">Cheireddin Barbarossa</persName>.</note> et <placeName ref="l2792">Argeriam</placeName> insulam<note xml:id="fn10" type="footnote" n="10"><placeName ref="l2792">Argeriam</placeName> insulam: Zu dieser Bezeichnung s. <bibl source="b18">HBBW XV</bibl> 669, Anm. 6. - Zu <placeName ref="l2792">Algerien</placeName> vgl. auch die im Briefe <persName ref="p5026">Groppers</persName> vom 20. April 1546 übermittelte Nachricht; s. <bibl source="b263">Gropper BW</bibl> I 409.</note> obsessam ac <placeName ref="l875">Hispanos</placeName> periclitari<note xml:id="fn11" type="footnote" n="11">Über diese Ereignisse konnte nichts Näheres ermittelt werden.</note>.</s>
+					<s n="9" xml:lang="la">Propterea <persName ref="p18538">cęsarem</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p18538">Karl V.</persName></note> properare <placeName ref="l410">Ratisbonam</placeName>, compositurus<pb type="edition" next="206"/> ecclesie negotium aliquo modo,<note xml:id="fn13" type="footnote" n="13">Gleich nach seiner Ankunft in <placeName ref="l410">Regensburg</placeName> am 10. April 1546 (s. <ref target="file12378">Nr. 2331</ref>, Anm. 3) nahm sich Kaiser <persName ref="p18538">Karl V.</persName> der Religionsfrage an; s. dazu <bibl source="b663">Vogel</bibl> 503-516.</note> dein per <placeName ref="l834">Italiam</placeName> <placeName ref="l875">Hispaniam</placeName> aditurus<note xml:id="fn14" type="footnote" n="14"><persName ref="p18538">Karl V.</persName> kam erst wieder im Jahre 1556 nach <placeName ref="l875">Spanien</placeName>; s. <bibl source="b610">Stälin</bibl> 582.</note>.</s>
+					<s n="10" xml:lang="la">Utinam nunquam reversurus eo animo, quo hactenus fuit praeditus!</s>
+					<s n="11" xml:lang="la">Calamitatibus obruitur variis, cruce premitur in ipso corpore,<note xml:id="fn15" type="footnote" n="15"><persName ref="p18538">Karl V.</persName> litt an Gicht und Syphilis.</note> attamen omnes dei minas et plagas parvi facit.</s>
+					<s n="12" xml:lang="la">Consiliarios pessimos habet et impios,<note xml:id="fn16" type="footnote" n="16">Gemeint sind wohl vor allem <persName ref="p7689">Johann von Naves</persName>, Reichsvizekanzler, und <persName ref="p7706">Nicolas Perrenot de Granvelle</persName>; vgl. <ref target="file12423">Nr. 2376</ref>,62f.</note> qui bonum consilium non admittunt; timent, ne aliquid decedat eis.</s>
+					<s n="13" xml:lang="la">Dominus illuminet illos luce veritate, ne in perpetuis tenebris pereant.</s>
+					<s n="14" xml:lang="la">Amen.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="15" xml:lang="la" ana="farewell">Vale in domino.</s>
+					<s n="16" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 7. martii 1546.</s>
+					<s n="17" xml:lang="la" ana="salute">D. <persName ref="p8171">Theodorum</persName><note xml:id="fn17" type="footnote" n="17"><persName ref="p8171">Theodor Bibliander</persName>.</note> cum <persName ref="p8127">Pellicano</persName> et <persName ref="p8011">Gvalthero</persName> salutabis.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Tuus <persName ref="p1278">Gastius</persName> ex animo.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la">Docto et pio m. <persName ref="p495">Heinrycho Bullingero</persName>, <placeName ref="l587">Tigurinę</placeName> ecclesiae pastori diligentissimo, amico suo et domino perpetuo colendo.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,1063 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De virginibus velandis</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.DeViVe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>Prooemium.</head>
+<p>
+          <pb n="0887"/>Nullus fere est inter omnes Tertulliani montanisticos
+<pb n="0887A"/>
+liber, in quo majorem vim adhibeat ad defendendam
+disciplinam Montanistarum a culpa novitatis,
+quam tractatus <hi>de Velandis Virginibus;</hi> hinc inter
+primordia temporis ab ipso apud Montanistas acti
+exaratum fuisse merito creditur. Arbitratur quidem
+perdoctus Remigius Ceillierus librum <hi>de Velandis Virginibus</hi> 
+omnium novissimum esse, quia in nullo alio
+opere, nequidem in <hi>libro de corona,</hi> ubi cap. 14 ipsa
+materia ibi pertractata id exegisse videtur, illum citat
+Tertullianus. Verum haec conjectura nihil probat, eo
+quod liber <hi>de Corona</hi> ante hunc <hi>de Velandis Virginibus</hi> 
+exaratus fuit, in aliis autem operibus hunc allegandi
+quampiam occasionem habuisse Tertullianum haud
+perspicimus; sed utut haec sint, evidens saltem est, hoc
+opusculum in schismate scriptum fuisse; siquidem
+<pb n="0887B"/>
+Montani genium nimis aperte sapit; mox enim cap.
+1, ait: <hi>Justitia primo fuit in rudimentis; dehinc per
+legem et prophetas promovit in infantiam: dehinc per
+Evangelium efferbuit in juventutem: nunc per Paracletum
+componitur in maturitatem.</hi> Occasionem hunc exarandi
+libellum Tertulliano dedit consuetudo ecclesiarum
+quarumdam tum Occidentis, tum plurium aliarum
+Graeciae seu Orientis virgines in Ecclesia velandi, cum
+<pb n="0888"/>
+e contra in Africana ecclesia pleraeque virgines
+<pb n="0888A"/>
+christianae aperto capite incederent. Quare in hoc libro
+contra patriae suae morem, in qua solae nuptae velabantur,
+ostendit, eum contra veritatem praescribere non
+posse, quod quidem juxta adnotationem Cl. Dupinii
+verum est cum agitur de dogmate, non vero cum de
+disciplina parvi momenti. LUMP.</p>
+</div2>
+
+<div2>
+        <head>ARGUMENTUM.</head>
+<p>-- <hi>Tertullianus, ob quamdam, ut videtur,
+cum graecis disputationem de virginibus velandis,
+conviciis exceptus, et pro haeretico exagitatus, in suos
+insectatores, consuetudinem jactitantes, ab initio invehitur,
+declamatque veritati consuetudinem praescribere
+non posse.</hi> </p>
+<p> <hi>Hinc asserit consuetudinem virgines velandi esse
+meliorem, nec in Scriptura sacra reprobatam, imo ab
+Apostolo commendatam, disciplina Ecclesiae confirmatam,
+<pb n="0888B"/>
+multis sanctorum exemplis suffultam, ipsismet
+virginum haud velatarum periculis sancitam.</hi> EDD.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+<p>Proprium jam negotium passus meae opinionis,
+ latine quoque ostendam, virgines nostras velari
+oportere, ex quo transitum aetatis suae fecerint:
+hoc exigere veritatem, cui nemo praescribere
+<pb n="0889A"/>
+potest, non spatium temporum, non patrocinia
+personarum, non privilegium regionum, ex his enim
+fere consuetudo initium ab aliqua ignorantia vel simplicitate
+sortita, in usum per successionem corroboratur,
+et ita adversus veritatem vindicatur.
+Sed Dominus noster Christus veritatem se,
+non consuetudinem cognominavit. Si semper Christus,
+et prior omnibus: aeque veritas sempiterna
+et antiqua res. Viderint ergo quibus novum est quod
+sibi vetus est. Haeresim non tam novitas quam veritas
+revincit. Quodcumque adversus veritatem sapit, hoc
+erit haeresis, etiam vetus consuetudo. Caeterum suo
+vitio quis quid ignorat. Quod autem ignoratur, fuit
+tam requirendum, quam recipiendum quod agnoscitur.
+Regula quidem fidei una omnino est, sola immobilis,
+et irreformabilis, credendi scilicet in unicum
+Deum omnipotentem, mundi conditorem, et Filium
+ejus Jesum Christum, natum ex virgine Maria, crucifixum
+<pb n="0889B"/>
+sub Pontio Pilato tertia die resuscitatum a
+mortuis, receptum in coelis, sedentem nunc ad dexteram
+Patris, venturum judicare vivos et mortuos
+per carnis etiam resurrectionem. Hac lege fidei manente,
+caetera jam disciplinae et conversationis
+admittunt novitatem correctionis, operante scilicet
+et proficiente usque in finem gratia Dei.
+Quale est enim ut diabolo semper operante et adjiciente
+quotidie ad iniquitatis ingenia, opus Dei aut
+cessaverit, aut proficere destiterit? cum propterea
+Paracletum miserit Dominus, ut quoniam humana
+mediocritas omnia semel capere non poterat, paulatim
+dirigeretur, et ordinaretur, ei ad perfectum perduceretur
+disciplina, ab illo vicario Domini Spiritu
+Sancto. <hi>Adhuc,</hi> inquit, <hi>multa habeo loqui vobis, sed
+<pb n="0889C"/>
+nondum potestis ea bajulare: cum venerit ille Spiritus
+veritatis, deducet vos in omnem veritatem, et
+supervenientia renuntiabit vobis <note>(Jo. XVI, 12)</note>
+          </hi>. Sed et
+<pb n="0890A"/>
+supra de hoc ejus opere pronuntiavit. Quae est ergo
+Paracleti administratio nisi haec, quod disciplina dirigitur,
+quod Scripturae revelantur, quod intellectus
+reformatur, quod ad meliora proficitur? Nihil sine
+aetate, et omnia tempus expectant. Denique Ecclesiastes: <hi>Tempus,</hi> 
+ inquit, <hi>omni rei <note>(Eccles. III, 17)</note>
+          </hi>.
+Aspice ipsam creaturam paulatim ad fructum promoveri.
+Granum est primo, et de grano frutex oritur,
+et de frutice arbuscula enititur: deinde rami et frondes
+invalescunt, et totum arboris nomen expanditur,
+ inde germinis tumor et flos de germine solvitur,
+et de flore fructus aperitur; is quoque rudis
+aliquandiu et informis, paulatim aetatem suam dirigens,
+ eruditur in mansuetudinem saporis. Sic et
+justitia (nam idem Deus justitiae et creaturae) primo
+fuit in rudimentis, natura Deum metuens: dehinc
+per Legem et Prophetas promovit in infantiam: dehinc
+per Evangelium efferbuit in juventutem: nunc per
+<pb n="0890B"/>
+Paracletum componitur in maturitatem. Hic erit solus
+a Christo magister et dicendus et verendus. Non
+enim ab se loquitur, sed quae mandantur a
+Christo. Hic solus antecessor, quia solus post Christum.
+Hunc qui receperunt, veritatem consuetudini
+anteponunt. Hunc qui audierunt usque nunc non olim
+prophetantem, virgines contegunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>Sed nolo interim hunc morem veritati deputare.
+Consuetudo sit tantisper, ut consuetudini etiam
+consuetudinem opponam. Per Graeciam et quasdam
+barbarias ejus, plures Ecclesiae virgines suas
+abscondunt. Est et sub hoc coelo institutum istud alicubi,
+ne qui gentilitati graecanicae aut barbaricae
+consuetudinem illam adscribat. Sed eas ego Ecclesias
+<pb n="0890C"/>
+proposui, quas et ipsi Apostoli vel Apostolici viri
+condiderunt, et puto ante quosdam. Habent igitur
+et illae eamdem consuetudinis auctoritatem, tempora
+<pb n="0891A"/>
+et antecessores opponunt magis quam posterae
+istae. Quod observabimus, quid deligemus? Non
+possumus respuere consuetudinem, quam damnare
+non possumus, utpote non extraneam, quia non extraneorum,
+cum quibus scilicet communicamus jus
+pacis et nomen fraternitatis. Una nobis et illis fides,
+unus Deus, idem Christus, eadem spes, eadem lavacri
+sacramenta. Semel dixerim, una Ecclesia sumus.
+Ita nostrum est, quodcumque nostrorum est. Caeterum
+dividis corpus. Tamen hic, sicut in omnibus varie
+institutis et dubiis et incertis fieri solet, adhibenda
+fuit examinatio, quae magis ex duabus tam diversis
+consuetudinibus disciplinae Dei conveniret. Et
+utique ea deligenda quae virgines includit, soli
+Deo notas, quibus, praeter quod a Deo, non ab hominibus
+<pb n="0891B"/>
+captanda gloria est, etiam ipsum bonum
+suum erubescendum est. Virginem magis laudando,
+quam vituperando confundas: quia delicti durior
+frons est, ab ipso et in ipso delicto impudentiam docta.
+Nam illam consuetudinem, quae virgines negat dum
+ostendit, nemo probasset, nisi aliqui tales quales
+virgines ipsae. Tales enim oculi volent virginem visam,
+quales habet virgo quae videri volet. Invicem se
+eadem oculorum genera desiderant. Ejusdem
+libidinis est videri, et videre. Tam sancti viri est subfundi,
+si virginem viderit, quam sanctae virginis, si a
+viro visa sit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Sed nec inter consuetudines dispicere voluerunt
+illi sanctissimi antecessores. Tamen tolerabilius apud
+<pb n="0891C"/>
+nos usque ad proxime utrique consuetudini communicabatur.
+Arbitrio permissa res erat, ut quaeque voluisset
+aut tegi aut prostitui, sicut et nubere: quod et
+<pb n="0892A"/>
+ipsum neque cogitur neque prohibetur. Contenta erat
+veritas pacisci cum consuetudine, ut tacite sub
+consuetudinis nomine frueretur se vel ex parte. Sed
+quoniam coeperat agnitio proficere, ut per licentiam
+utriusque moris, indicium melioris partis emergeret,
+statim ille adversarius bonorum, multoque institutorum,
+opus suum fecit. Ambiunt virgines hominum
+adversus virgines Dei, nuda plane fronte in temerariam
+ audaciam excitatae. Et virgines videntur
+quae aliquid a viris petere possunt, nedum tale factum,
+ut scilicet aemulae earum, tanto magis liberae, quanto
+Christi solius ancillae, dedantur illis. Scandalizamur,
+inquiunt, quia aliter aliae incedunt: et malunt scandalizari,
+quam provocari. Scandalum, nisi fallor,
+non bonae rei, sed malae exemplum est, aedificans ad
+<pb n="0892B"/>
+delictum. Bonae res neminem scandalizant, nisi malam
+mentem. Si bonum est modestia, verecundia, fastidium
+gloriae soli Deo captans placere, agnoscant malum
+suum, quae de tali bono scandalizantur. Quid
+enim si et incontinentes dicant se a continentibus
+scandalizari, continentia revocanda est? et ne
+multinubi scandalizentur, monogamia recusanda est?
+Cur non magis hae querantur scandalo sibi esse petulantiam,
+impudentiam ostentatitiae virginitatis?
+Propter ejusmodi igitur capita nundinatitia, trahantur
+virgines sanctae in Ecclesiam, erubescentes quod
+cognoscantur in medio, paventes quod detegantur
+accersitae quasi ad stuprum. Non minus
+enim et hoc pati nolunt. Omnis publicatio virginis
+bonae, stupri passio est. Et tamen vim carnis pati,
+<pb n="0892C"/>
+minus est; quia de officio naturae venit. Sed cum
+spiritus ipse violatur in virgine, sublato velamine
+didicit amittere quod tuebatur. O sacrilegae ma
+<pb n="0893A"/>
+nus, quae dicatum Deo habitum detrahere potuerunt!
+Quid pejus aliquis persecutor fecisset, si
+hoc a virgine electum cognovisset? Denudasti
+puellam a capite, et tota jam virgo sibi non est:
+alia est facta. Exsurge igitur, veritas, exsurge, et quasi
+de patientia erumpe: nullam volo consuetudinem
+defendas; nam jam et illa, sub qua te fruebaris,
+expungitur. Te esse demonstra quae virgines tegis.
+Ipsa Scripturas tuas interpretare, quas consuetudo
+non novit. Si enim nosset, nunquam esset.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Quatenus autem et de Scripturis adversus veritatem
+argumentari consuetudo est, statim opponitur nobis,
+nullam mentionem virginum ab Apostolo factam ubi de
+<pb n="0893B"/>
+velamine praefinit, sed tantum mulieres nominatas:
+cum, si voluisset et virgines tegi, de virginibus quoque
+cum mulieribus nominatis pronuntiasset:
+quomodo illic, inquit, ubi de nuptiis tractat, quid
+observandum sit etiam de virginibus, declarat. Itaque
+non contineri eas lege velandi capitis, ut non
+nominatas in hac lege; imo ex hoc revelari,
+quia non jubentur, quae nec nominantur. Sed et nos
+eamdem argumentationem retorquemus. Qui enim
+sciebat alias utriusque generis facere mentionem,
+virginis dico, et mulieris, id est non virginis, ex caussa
+distinctionis, in his in quibus non nominat virginem,
+non faciens distinctionem, ostendit conditionis communionem.
+Caeterum potuit hic quoque constituere
+differentiam inter virginem et mulierem, sicut alibi
+<pb n="0893C"/>
+dicit: <hi>Divisa est mulier et virgo.</hi> Igitur quas non divisit,
+tacendo inalteravit. Nec tamen, quia illic
+<pb n="0894A"/>
+divisa est et mulier et virgo, hic quoque patrocinabitur
+illa divisio, ut quidam volunt. Quanta enim
+alibi dicta non valent, ubi dicta scilicet non sunt,
+nisi eadem sit caussa, quae alibi, ut sufficiat semel
+dictum? Illa autem caussa virginis et mulieris longe
+divisa est ab hac specie. <hi>Divisa est,</hi> inquit, <hi>mulier et
+virgo <note>(I Cor. VII, 32)</note>
+          </hi>. Quare? Quoniam <hi>innupta,</hi> id
+est virgo, <hi>cogitat ea quae sunt Domini, ut sit sancta,
+et corpore et spiritu. Nupta autem,</hi> id est, non virgo, <hi>cogitat quomodo placeat viro.</hi> 
+ Haec erit interpretatio
+divisionis illius, nullum habens locum in isto capitulo,
+in quo neque de nuptiis, neque de animo et cogitatu
+ mulieris et virginis pronuntiatum, sed
+de capite velando. Cujus nullam volens esse discrepationem,
+Spiritus Sanctus, uno nomine mulieris,
+<pb n="0894B"/>
+etiam virginem intelligi voluit, quam proprie non
+nominando, a muliere non separavit, et non separando
+conjunxit ei a qua non separavit. Novum est nunc
+ergo principali vocabulo uti et caetera nihilominus in
+eo vocabulo intelligi, ubi nulla est necessitas singillatim
+distinguendae universitatis? Naturaliter compendium
+sermonis et gratum et necessarium est:
+quoniam sermo laciniosus, et onerosus et vanus
+est. Sic et generalibus vocabulis contenti sumus,
+comprehendentibus in se specialium intellectum. Ergo
+jam de vocabulo ipso. Naturale vocabulum est foemina,
+ naturalis vocabuli generale mulier. Generalis
+etiam speciale, virgo, vel nupta, vel vidua, vel
+quot etiam aetatis nomina accedunt. Subjectum igitur
+est generali speciale, quia generale prius est: et
+<pb n="0894C"/>
+subsessivum antecessivo, et portionale universali:
+et in ipso intelligitur cui subjicitur, et in ipso
+<pb n="0895A"/>
+significatur, quia in ipso continetur. Sic nec manus,
+nec pes, nec ullum membrorum desiderat significari,
+corpore nominato. Et si mundum dixeris, illic
+erit et coelum, et quae in eo, sol et luna, et sidera,
+et astra, et terra, et freta, omnis census elementorum.
+Omnia dixeris, cum id dixeris quod ex omnibus
+constat. Sic et mulierem nominando, quidquid est
+mulieris nominavit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Sed quoniam ita mulieris nomen usurpant, ut non
+putent competere illud, nisi ei soli quae virum passa
+sit; probari a nobis oportet, proprietatem ejus vocabuli
+ad sexum ipsum, non ad gradum sexus pertinere,
+ quod communiter etiam virgines censeantur.
+Cum hoc genus secundi hominis a Deo factum est
+<pb n="0895B"/>
+in adjutorium hominis <note>(Gen. II, 18)</note>; foemina illa statim
+mulier est cognominata, adhuc felix, adhuc
+digna paradiso, adhuc virgo. <hi>Vocabitur,</hi> inquit, <hi>mulier <note>(Gen., II, 23)</note>
+          </hi>.
+Habes itaque nomen, non dico jam
+virgini commune, sed proprium, quod a principio virgo
+sortita est. Sed ingeniose quidam de futuro volunt dictum, <hi>Vocabitur mulier,</hi> 
+ quasi quae hoc futura esset,
+cum virginitatem resignasset: quoniam et adjicit: <hi>Propterea 
+ relinquet homo patrem et matrem,</hi> 
+et conglutinabitur mulieri suae, et erunt duo in
+carne una. Ostendant igitur primo ubi sit subtilitas
+ista, si de futuro mulier cognominata est quod
+interea vocabulum acceperit? Non potest enim sine
+vocabulo praesentis qualitatis suae fuisse. Caeterum
+quale est, ut quae in futurum vocaretur nomine designato,
+<pb n="0895C"/>
+in praesenti nihil cognominaretur? Omnibus
+animalibus Adam nomina imposuit, et nemini
+ex futura conditione, sed ex praesenti institutione,
+cui conditio quaecumque serviret, hoc appellata, quod
+a primordio voluit; quid ergo tunc vocabatur? Atquin
+quotienscumque in Scriptura nominatur, mulier appellatur,
+antequam nupta, et nunquam virgo cum virgo.
+Hoc nomen tum unum illi fuit, et quando nihil
+<pb n="0896A"/>
+ prophetico modo dictum est. Nam cum Scriptura
+refert fuisse nudos duos, Adam et mulierem ejus,
+nec hoc de futuro sapit quasi mulierem dixerit ejus
+in praesagio uxoris, sed quoniam et innupta illius
+mulier, ut de substantia ipsius: <hi>Hoc,</hi> inquit, <hi>os
+ex ossibus meis, et caro ex carne mea vocabitur
+mulier.</hi> Hinc ergo tacita conscientia naturae, ipsa divinitas
+animae in usum sermonis eduxit, nescientibus
+hominibus (sicut et alia multa, quae ex Scriptura fieri
+et dici solere alibi poterimus ostendere), uti mulieres
+nostras dicamus uxores. Quanquam et improprie
+quaedam loquamur; nam et Graeci qui magis vocabulo
+mulieris in uxore utuntur, alia habent propria
+vocabula uxoris. Sed malo hunc usum ad Scripturae
+testimonium deputare. Ubi enim duo in unam carnem
+<pb n="0896B"/>
+efficiuntur per matrimonii nexum, caro ex carne,
+et os ex ossibus, vocatur secundum originem mulier
+ejus, ex cujus substantia incipit censeri facta uxor.
+Ita mulier non natura nomen est uxoris, sed uxor
+conditione nomen est mulieris. Denique mulier et non
+uxor dici potest, non mulier autem uxor dici non potest,
+quia nec esse. Constituto igitur nomine novae
+foeminae, quod est mulier, et explicito quod prius fuit,
+id est nomine assignato, convertit jam ad propheticam
+rationem, uti diceret: <hi>Propter hanc relinquet homo
+patrem et matrem.</hi> Adeo separatum est nomen a prophetia,
+quantum et ab ipsa persona, ut non utique de
+ipsa Eva dixerit, sed in illas foeminas futuras, quas in
+matrice generis foeminini nominarit. Alioqui, non Adam
+relicturus erat patrem et matrem, quos non habebat,
+<pb n="0896C"/>
+propter Evam. Ergo non ad Evam pertinet, quia nec
+ad Adam, quod prophetice dictum est. De maritorum
+enim conditione praedictum, qui ob mulierem parentes
+suos erant relicturi: quod in Evam cadere non potuit,
+quia nec in Adam. Si ita res est, apparet non propter
+futurum mulierem cognominatam, ad quam futurum
+non pertinebat. Eo accedit, quod ipse rationem
+ejus nominis edidit. Cum enim dixisset: <hi>vocabitur
+<pb n="0897A"/>
+mulier,</hi> addidit: <hi>quoniam ex viro suo sumpta est,</hi> 
+ et ipso adhuc virgine. Sed dicemus et de viri
+nomine suo loco. Nemo itaque nomen ad prophetiam
+interpretetur, quod ex alia significatione deductum
+est: praesertim cum appareat, ubi de futuro nomen
+acceperit, illic scilicet, ubi Eva cognominatur, personali
+jam vocabulo, quia naturale praecesserat. Si
+enim Eva mater viventium est, ecce ex futuro cognominatur,
+ecce uxor et non virgo praenuntiatur. Hoc
+erit vocabulum nupturae: ex nupta enim mater. Ita
+hic quoque ostenditur, non de futuro mulierem tunc
+nominatam, quae postmodum acceptura erat futurae
+conditionis suae nomen. Responsum satis est ad hanc
+partem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>
+          <pb n="0897B"/>Videamus nunc si et Apostolus formam vocabuli
+istius secundum Genesim observet, sexui deputans
+illud, sic mulierem vocans virginem Mariam,
+quemadmodum et Genesis Evam. Scribens enim ad
+Galatas: <hi>Misit,</hi> inquit, <hi>Deus Filium suum factum
+ex muliere <note>(Gal. IV, 4)</note>
+          </hi>; quam utique virginem constat
+fuisse, licet Hebion resistat. Agnosco et angelum
+Gabrielem ad virginem missum; sed cum benedicit
+illam, inter mulieres, non inter virgines deputat:
+ <hi>Benedicta tu inter mulieres <note>(Luc. I, 28)</note>
+          </hi>. Sciebat
+et Angelus mulierem etiam virginem dici. Sed et
+ad haec duo ingeniose quidam respondisse sibi visus
+est: quoniam quidem desponsata est Maria, idcirco et
+ab Angelo et ab Apostolo mulierem pronuntiatam:
+desponsata enim quodammodo nupta: tamen inter
+<pb n="0897C"/>
+quodammodo, et verum, satis interest duntaxat in
+loco: nam alibi ita sane habendum est. Nunc vero non
+quasi jam nuptam mulierem Mariam pronuntiaverunt,
+<pb n="0898A"/>
+sed quasi nihilominus foeminam, etiamsi non sponsam,
+quasi hoc a primordio dictam. Illud enim praejudicet
+necesse est, a quo forma descendit. Caeterum quod
+pertineat ad hoc capitulum, si hic desponsatae
+adaequatur, ut ideo mulier dicta sit Maria, non qua
+ foemina, sed qua marita; jam ergo Christus non
+ex virgine natus est, quia ex desponsata, quae virgo
+esse desierit hoc nomine. Quod si ex virgine natus
+est, licet ex desponsata, tamen integra, agnosce mulierem
+etiam virginem, etiam integram dici. Hic certe
+nihil prophetice dictum videri potest, ut futuram mulierem,
+id est, nuptam Apostolus nominarit dicendo, <hi>factum ex muliere.</hi> 
+ Non enim poterat posteriorem mulierem
+nominare, de qua Christus nasci non habebat,
+id est, virum passam: sed illa quae erat praesens,
+<pb n="0898B"/>
+quae erat virgo, et mulier vocabatur per vocabuli
+hujus proprietatem, secundum primordii formam,
+virgini, et ita universo mulierum generi defensam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Convertamus ad ipsas jam rationes recensendas,
+per quas Apostolus docet velari foeminam oportere,
+an eaedem etiam virginibus competant: ut ex hoc
+quoque vocabuli communio inter virgines et
+non virgines constet, dum eaedem velaminis caussae in
+utraque parte deprehenduntur. Si caput mulieris vir
+est, utique et virginis, de qua sit mulier illa quae nupsit:
+nisi si virgo, tertium genus est monstruosum aliquod
+sui capitis. Si mulieri turpe est radi sive tonderi <note>(I Cor. XI, 5)</note>,
+utique et virgini. Proinde viderit
+ saeculum aemulum Dei, si ita virgini caesum
+<pb n="0898C"/>
+capillum decori mentitur, quemadmodum et
+puero permissum. Ergo cui aeque non convenit
+radi sive tonderi, aeque convenit operiri. Si gloria
+<pb n="0899A"/>
+viri est mulier, quanto magis virgo, quae et gloria
+sibi est! Si mulier ex viro et propter virum, costa
+illa Adae virgo primum fuit. Si mulier potestatem
+habere super caput debet, vel eo justius virgo, ad
+quam pertinet quod in caussa est. Si enim propter
+angelos <note>(I Cor. XI, 8, 10)</note>, scilicet quos legimus a Deo
+et coelo excidisse ob concupiscentiam foeminarum;
+quis praesumere potest tales angelos, maculata jam
+corpora et humanae libidinis reliquias desiderasse, ut
+non ad virgines potius exarserint, quarum flos
+etiam humanam libidinem excusat? Nam et Scriptura
+sic suggerit: <hi>Et factum est,</hi> inquit, <hi>cum coepissent
+homines plures fieri super terram, et filiae natae sunt
+cis; conspicati autem filii Dei filias hominum, quod
+pulchrae essent, acceperunt sibi uxores ex omnibus
+<pb n="0899B"/>
+quas elegerunt.</hi> Hic enim nomen mulierum graecum
+uxores sapit, quia de nuptiis mentio est. Cum ergo
+filias hominum dicit, manifeste virgines portendit,
+quae adhuc apud parentes deputarentur. Nam nuptae,
+maritorum nuncupantur, cum potuerit dixisse uxores
+hominum, aeque non adulteros nominans angelos,
+sed maritos, dum innuptas sumunt filias hominum,
+quas natas supra dixit, sic quoque virgines significavit
+supra natas. At hic angelis nuptas aliud eas
+nescio quam natas, et dehinc nuptas. Debet ergo
+adumbrari facies tam periculosa, quae usque ad coelum
+scandala jaculata est, ut cum Deo assistens, cui
+rea est angelorum exterminatorum, caeteris quoque
+angelis erubescat, et malam illam aliquando libertatem
+capitis sui comprimat, jam nec hominum oculis
+<pb n="0899C"/>
+offerendam. Sed et si contaminatas jam foeminas angeli
+illi appetissent, tanto magis propter angelos velari
+debuissent, quanto magis propter virgines angeli
+deliquisse potuissent. Si autem et naturae praejudicium
+adjicit Apostolus, quod honor sit mulieris
+redundantia capillorum, quia coma pro operimento
+<pb n="0900A"/>
+est; utique hoc maxime virginis insigne est, quarum
+ et ornatus ipse proprie sic est, ut cumulata
+in verticem, ipsam capitis arcem ambitu crinium
+contegat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p>Horum certe omnium contraria efficiunt, ne vir
+caput velet: scilicet quia non sit naturaliter consecutus
+ambitionem capillorum, quia radi sive tonderi
+non sit turpe illi, quia non propter illum angeli exorbitarint,
+quia gloria et imago Dei sit, quia caput
+ejus Christus <note>(I Cor. XI, 2, 7)</note>. Itaque cum de viro
+et muliere Apostolus tractet, cur illam oporteat velari,
+illum vero non, apparet cur et virginis silentium
+fecerit: eadem ratione scilicet virginem in muliere
+ intelligendam sinens, qua et puerum ut in
+<pb n="0900B"/>
+viro deputandum non nominavit, totum ordinem
+utriusque sexus propriis vocabulis complexus, mulieris
+et viri. Sic Adam, etiam adhuc integer, vir
+in Genesi est cognominatus: <hi>Vocabitur,</hi> inquit, <hi>mulier,
+quia de viro suo sumpta est <note>(Gen. II, 23)</note>
+          </hi>. Sic
+vir Adam ante nuptiarum congressum, quemadmodum
+et Eva mulier. De utraque parte satis ad universam
+speciem cujusque sexus Apostolus pronuntiavit,
+et breviter et plene, tam instructa definitione. <hi>Omnis,</hi> 
+ inquit, <hi>mulier <note>(I Cor. XI, 5)</note>
+          </hi>. Quid est <hi>omnis,</hi> 
+nisi omnis generis, omnis ordinis? omnis conditionis,
+omnis dignitatis, omnis aetatis. Siquidem
+omne totum est, et integrum, et nulla sui parte defectum.
+Pars autem mulieris et virgo est. Aeque et
+de viro non velando: <hi>Omnis,</hi> inquit <note>(I Cor. XI, 4)</note>.
+<pb n="0900C"/>
+Ecce duo diversa nomina, vir et mulier, omnis uterque.
+Duae leges obnoxiae invicem, hinc velandi, inde
+nudandi. Igitur si eo quod dictum sit omnis vir, commune
+est nomen viri, etiam nondum viri, masculi
+investis: commune autem cum sit nomen secundum
+naturam, communis est et lex non velandi ejus,
+<pb n="0901A"/>
+qui inter viros virgo est secundum disciplinam:
+cur non praejudicatum sit proinde et mulierem virginem
+omnem muliere nominata contineri consortio
+nominis, ut contineatur et communione legis? Si viro
+mulier non est, nec vir investis est. Si non operitur
+virgo, quia mulier non sit, operiatur investis, quia
+vir non sit. Ejusdem virginitatis aequa sit venia. Sicut
+virgines non coguntur velari, ita pueri non jubeantur
+revelari. Cur ex parte definitionem Apostoli
+agnoscimus absolutam circa omnem virum, nec retractamus
+ quare non et puerum nominarit: ex
+parte autem praevaricamur, aeque absoluta ea circa
+omnem mulierem? <hi>Si quis,</hi> inquit, <hi>contentiosus est,
+nos talem consuetudinem non habemus, neque Ecclesia
+Dei <note>(I Cor. VI, 16)</note>
+          </hi>. Ostendit contentionem
+<pb n="0901B"/>
+aliquam de ista specie fuisse, ad quam exstinguendam
+toto compendio usus est: neque virginem nominans,
+ut ostenderet dubitandum de velanda non esse, et
+omnem nominans mulierem, cum nominasset virginem.
+Sic et ipsi Corinthii intellexerunt. Hodie denique
+virgines suas Corinthii velant; quid docuerint
+Apostoli, qui didicerunt, approbantes.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Videamus nunc, an, sicut naturae et caussae argumenta
+virgini quoque competere monstravimus, ita
+etiam disciplinae ecclesiasticae praescripta de muliere
+in virginem spectent. Non permittitur mulieri
+<pb n="0902A"/>
+in ecclesia loqui <note>(I Cor. XIV, 34; I Tim. II, 12)</note>,
+sed nec docere, nec tinguere, nec offerre, nec
+ullius virilis muneris, nedum sacerdotalis officii
+sortem vindicare. Quaeramus an aliquid horum virgini
+liceat. Si virgini non licet, sed in omnibus eadem
+conditione subjicitur, et necessitas humilitatis cum
+muliere censetur, unde illi unum hoc licebit, quod
+omni foeminae non licet? Quid praerogativae meretur
+adversus conditionem suam, si qua virgo est, et
+carnem suam sanctificare proposuit? Idcirco velaminis
+venia fit illi, ut in ecclesiam notabilis et insignis
+introeat, ut honorem sanctitatis in libertate capitis
+ostendat? Potuit dignius honorari aliqua praerogativa
+virilis aut gradus, aut officii. Plane scio alicubi
+virginem in viduatu ab annis nondum viginti
+<pb n="0902B"/>
+collocatam. Cui si quid refrigerii debuerat episcopus,
+aliter utique salvo respectu disciplinae praestare potuisset,
+ne tale nunc miraculum, ne dixerim monstrum,
+in Ecclesia denotaretur: virgo vidua, hoc
+quidem portentuosior, quod nec qua vidua caput
+texit: utrumque se negans, et virginem, quae vidua
+deputetur, et viduam, quae virgo dicatur. Sed ea auctoritate
+illic sedet intecta, qua et virgo. Ad
+quam sedem praeter annos sexaginta <note>(I Tim. V, 9)</note> 
+non tantum univirae, id est nuptae, aliquando eliguntur,
+sed et matres, et quidem educatrices filiorum,
+scilicet, ut experimentis omnium affectuum
+<pb n="0903A"/>
+structae, facile norint caeteras et consilio et solatio
+juvare, et ut nihilominus ea decucurrerint, per quae
+foemina probari potest. Adeo nihil virgini ad honorem
+de loco permissum est.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Sic nec de aliquibus insignibus. Caeterum satis inhumanum,
+si foeminae quidem per omnia viris subditae,
+honorigeram notam virginitatis suae praeferant,
+qua suspiciantur et circumspiciantur et magnificentur
+a fratribus, viri autem tot virgines, tot spadones
+voluntarii, caeco bono suo incedant, nihil gestantes,
+quod et ipsos faceret illustres. Debebunt
+etiam et ipsi aliqua sibi insignia defendere, aut
+pennas Garamantum, aut stropulos Barbarorum,
+aut cicadas Atheniensium, aut cirros
+<pb n="0903B"/>
+Germanorum, aut stigmata Britonum: aut
+ex diverso fiat, capite velati in ecclesia lateant.
+Certi sumus Spiritum Sanctum magis masculis
+tale aliquid subscribere potuisse, si foeminis subscripsisset,
+cum praeter sexus auctoritatem, etiam
+ipsius continentiae nomine masculos potius honorari
+oportuisset; quorum quanto sexus avidior
+et calidior in foeminas, tanto continentia majoris
+ardoris laboratior, ideoque dignior omni ostentatione:
+si ostentatio, virginitatis est dignitas. Non enim et
+continentia virginitati antistat, sive viduorum, sive
+qui ex consensu contumeliam communem jam
+recusaverunt? Nam virginitas gratia constat, continentia
+vero virtute. Non concupiscendi, cui concupiscendo
+inoleveris, grande certamen est. Cujus autem
+<pb n="0903C"/>
+ concupiscendi ignoraveris fructum, facile non
+concupisces, adversarium non habens, concupiscentiam
+fructus. Quomodo ergo non magis viris aliquid
+tale Deus in honorem subscripsisset, vel quia familiariori,
+scilicet imagini suae, vel quia plus laboranti? Si
+<pb n="0904A"/>
+autem nihil masculo, multo magis foeminae.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Sed quod supra intermisimus, ex parte subsecutae
+disputationis, ne cohaerentiam ejus dispergeremus,
+nunc responso expungemus. Ubi enim gradum fiximus
+de Apostoli absoluta definitione, omnem mulierem
+etiam omnis aetatis intelligendam <note>(I Cor., XI, 5)</note>,
+responderi ex diverso habebat, ergo a nativitate et
+a primo nomine aetatis virginem operiri oportere.
+Non ita est autem, sed ex quo se intelligere coeperit,
+et censum naturae suae intrare, et de virginis
+exire, et pati novum illud quod alterius aetatis est.
+Nam et principes generis Adam et Eva <note>(Gen. II)</note>,
+quamdiu intellectu carebant, nudi agebant <note>(Gen. II)</note>.
+At ubi de arbore agnitionis gustaverunt, nihil primum
+<pb n="0904B"/>
+senserunt quam erubescendum. Itaque sui
+quique sexus intellectum tegmine notaverunt. Sed et
+si propter angelos velanda est, sine dubio ab ea aetate
+lex velaminis operabitur, a qua potuerunt filiae hominum
+concupiscentiam sui adducere, et nuptias
+pati. Ex illo enim virgo desinit, ex quo potest non
+esse. Et ideo penes Israel illicitum est ad virum
+tradere, nisi post contestatam sanguine maturitatem:
+ita ante hunc indicem acerba res est. Igitur si tamdiu
+virgo, quamdiu acerba est, desinit virginem cum
+matura cognoscitur, et ut non virgo jam legi applicatur,
+sicut et nuptiis. Et desponsatae quidem habent
+exemplum Rebeccae <note>(Gen. XXIV, 64)</note>, quae
+cum ad sponsum ignotum adhuc ignota perduceretur,
+simul ipsum cognovit esse, quem de longinquo prospexerat
+<pb n="0904C"/>,
+non sustinuit dexterae colluctationem,
+nec osculi congressionem, nec salutationis
+communicationem, sed confessa quod senserat, id
+est spiritu nuptam, negavit virginem velata ibidem.
+O mulierem jam de Christi disciplina! Ostendit enim
+<pb n="0905A"/>
+etiam nuptias de aspectu et animo fieri, quemadmodum
+stuprum. Nisi quod etiam Rebeccam quidam
+adhuc velant. De caeteris vero, id est, quae desponsatae
+non sunt, viderit parentum procrastinatio
+ex angustiis vel scrupulositate descendens, viderit
+et ipsum continentiae votum. Nihil pertinet ad
+aetatem sua spatia currentem, suaque debita maturitati
+luentem. Alia in occulto mater, natura, et alius in
+latenti pater, tempus, filiam suam legibus suis maritarunt.
+ Aspice nuptam jam illam tuam virginem,
+et animam expectatione, et carnem transfiguratione,
+ cui tu secundum paras maritum. Jam
+et vox obsolefacta est, et membra completa sunt,
+et pudor ubique vestitur, et menses tributa dependunt:
+ac tu mulierem negas, quam muliebria
+<pb n="0905B"/>
+pati dicis! Si congressio viri mulierem facit, non tegantur,
+nisi post ipsam nuptiarum passionem. Atquin
+etiam apud ethnicos velatae ad virum ducuntur. Si
+autem ad desponsationem velantur, quia et corpore
+et spiritu masculo mixtae sunt per osculum et dexteras,
+per quae primum resignarunt pudorem spiritus,
+per commune conscientiae pignus, quo
+totam condixerunt confusionem, quanto magis tempus
+illas velabit, sine quo sponsari non possunt, et
+quo urgente sine sponsalibus virgines desinunt esse!
+Tempus etiam ethnici observant, ut ex lege naturae jura
+sua aetatibus reddant. Nam foeminas quidem a duodecim
+annis, masculum vero a duobus amplius ad negotia mittunt,
+<pb n="0906A"/>
+pubertatem in annis, non sponsalibus aut nuptiis
+decernentes. Materfamiliae vocatur licet virgo, et paterfamiliae
+licet investis. A nobis nec naturalia observantur,
+quasi alius sit Deus naturae quam noster.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Agnosce et mulierem, agnosce et nuptam, de testimoniis
+et corporis et spiritus, quae patitur et in
+conscientia et in carne. Hae sunt tabellae priores naturalium
+sponsalium et nuptiarum. Impone velamen
+extrinsecus, habenti tegumen intrinsecus. Tegantur
+etiam superiora, cujus inferiora nuda non sunt. Vis
+scire quae sit aetatis auctoritas? Propone utramque,
+immature compressam in habitu mulieris, et quae
+maturitate progressa in virginitate duret cum suo
+habitu, facilius illa mulier negabitur, quam ista virgo
+credetur. Tanta est adeo fides aetatis, ut nec habitu
+<pb n="0906B"/>
+obstrui possit. Quid quod etiam hae nostrae etiam
+habitu mutationem aetatis confitentur, simulque se
+mulieres intellexerunt, de virginibus educantur,
+a capite quidem ipso deponentes quod fuerunt:
+ vertunt capillum, et acu lasciviore comam
+sibi inserunt, crinibus a fronte divisis apertam professae
+mulieritatem. Jam et consilium formae a speculo
+petunt, et faciem morosiorem lavacro macerant,
+forsitan et aliquo eam medicamine interpolant, pallium
+extrinsecus jactant, calceum stipant multiformem,
+ plus instrumenti ad balneas deferunt. Quid
+singula persequar? Solae autem manifestae paraturae
+<pb n="0907A"/>
+totam circumferunt mulieritatem. Sed
+virginari volunt sola capitis nuditate, uno habitu
+negantes quod toto suggestu profitentur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p>Si propter homines habitu abutuntur, impleant
+illum etiam in hoc, ut et apud ethnicos caput velent.
+Certe in ecclesia virginitatem suam abscondant,
+quam extra ecclesiam celant. Timent extraneos, revereantur
+et fratres: aut constanter audeant, et in
+vicis virgines videri sicut audent in ecclesiis. Laudabo
+vigorem, si aliquid et apud ethnicos virginitatis
+nundinarent. Eadem natura foris quae et intus,
+eadem institutio apud homines et apud Dominum eadem
+libertate constat. Quo ergo foris quidem bonum
+suum abstrudunt, in ecclesia vero provulgant?
+<pb n="0907B"/>
+Exposco rationem; utrumne ut fratribus suis placeant,
+an ut ipsi Deo? Si ut ipsi Deo: tam idoneus est ad
+conspicienda quae in occulto fiunt, quam justus ad
+remuneranda quae soli sibi fiunt. Denique praecipit,
+nihil debuccinemus eorum quae apud illum mercedem
+merebuntur, nec ea ab hominibus compensemus.
+Quod si unius victoriati, vel quamcunque eleemosynae
+operationem, sinistra conscia facere prohibemur <note>(Matth. VI)</note>, quantum tenebrarum circumfundere
+debemus, cum tantam oblationem Deo offerimus,
+ipsius corporis et ipsius spiritus nostri, cum
+illam ipsam naturam consecramus. Ergo quod non
+potest videri propter Deum fieri, quia sic fieri Deus
+<pb n="0908A"/>
+non vult, sequitur ut hominum gratia fiat: utique
+primo illicitum, ut gloriae libidinosum. Gloria enim
+illicitum est eis, quorum probatio in omni humiliatione
+ constat. Et si a Deo confertur continentiae
+virtus; <hi>Quid gloriaris quasi non acceperis <note>(I Cor. IV,
+7)</note>
+          </hi>? <hi>Si vero non accepisti, quid habes quod datum tibi
+non est?</hi> Hoc ipso autem constat a Deo datam
+tibi non esse, quod illam non soli Deo praestas. Videamus
+ergo quod humanum est, an firmum sit et
+verum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+<p>Referunt aliquando dictum a quadam, cum
+primum quaestio ista tentata est: Et quomodo
+caeteras sollicitabimus ad hujusmodi opus. Scilicet
+felices nos facient, si plures erunt, et non Dei
+<pb n="0908B"/>
+gratia vel merita cujusque. Virgines ecclesiam, an
+ecclesia virgines ornat Deo, sive commendat?
+Confessa est igitur gloriam esse in caussa.
+Porro ubi gloria, illic sollicitatio; ubi sollicitatio,
+illic coactio; ubi coactio, illic necessitas; ubi necessitas,
+illic infirmitas. Merito itaque dum caput non
+tegunt ut sollicitentur gloriae caussa, ventres tegere
+coguntur infirmitatis ruina. Aemulatio enim illas,
+non religio producit: aliquando et ipse venter
+Deus earum, quia facile virginis fraternitas suscipit.
+Nec tantum autem ruunt, sed et funem longum
+delictorum sibi adtrabunt. Prolatae enim in medium,
+et publicato bono suo elatae, et a fratribus
+<pb n="0909A"/>
+omni honore et caritatis operatione cumulatae, dum
+non latent ubi quid admissum est, tantum dedecoris
+cogitant, quantum honoris habuerunt. Si intectum
+caput virginitati adscribitur, si qua virgo exciderit
+de gratia virginitatis, ne prodatur, intecto permanet
+capite: et tunc jam alieno ambulat habitu,
+id est quem sibi vindicat virginitas: permanet
+nihilominus in habitu, vel tunc saltem alieno, ne
+scilicet mutatione prodatur. Consciae mulieritatis
+jam indubitatae, audent nudo capite ad Deum adire.
+Sed aemulator Deus et Dominus, qui dixit: <hi>Nihil
+occultum quod non revelabitur <note>(Matth. X, 26)</note>
+          </hi>, plerasque
+etiam in conspectum deducit. Non enim confitebuntur,
+nisi ipsorum infantium suorum vagitibus
+proditae. Quantum autem plures, non etiam de pluribus
+<pb n="0909B"/>
+sceleribus suspectas habebis? Dicam, licet nolim,
+ difficile mulier semel fit, quae non timet
+fieri, quaeque jam facta potest virginem mentiri sub
+Deo. Quanta item circa uterum suum audebit, ne
+etiam mater detegatur! Scit Deus quod jam infantes
+et perfici et perduci ad partum integros duxerit,
+debellatos aliquandiu a matribus. Facillime semper
+concipiunt, et felicissime pariunt hujusmodi
+virgines, et quidem simillimos patribus. Haec
+admittit flagitia coacta et invita virginitas. Ipsa
+concupiscentia non latendi non est pudica, patitur
+aliquid quod virginis non sit, studium placendi, utique
+et viris. Quantum velis bona mente conetur,
+necesse est publicatione sui periclitetur, dum percutitur
+oculis incertis et multis, dum digitis demonstrantium
+<pb n="0909C"/>
+titillatur, dum nimium amatur, dum
+inter amplexus et oscula assidua concalescit. Sic
+<pb n="0910A"/>
+frons duratur, sic pudor teritur, sic solvitur, sic
+discitur aliter jam placere desiderare.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p>Sed enim vera, et tota, et pura virginitas nihil
+magis timet quam semetipsam; etiam foeminarum
+oculos pati non vult; alios ipsa oculos; habet, confugit
+ad velamen capitis, quasi ad galeam, quasi ad
+clypeum, qui bonum suum protegat adversus ictus
+tentationum, adversus jacula scandalorum, adversus
+suspiciones, et susurros, et aemulationem, ipsum
+quoque livorem. Nam est aliquid etiam apud ethnicos
+metuendum, quod fascinum vocant, infeliciorem
+laudis et gloriae enormioris eventum. Hoc nos interdum
+diabolo interpretamur: ipsius est enim, boni
+odium, interdum Deo deputamus: illius est enim
+<pb n="0910B"/>
+superbiae judicium, extollentis humiles, et deprimentis
+elatos. Timebit itaque virgo sanctior, vel in nomine
+fascini, hinc adversarium, inde Deum: illius lividum
+ingenium, hujus censorium lumen: et gaudebit sibi
+soli et Deo nota. Sed et si cui innotuerit, sapit si
+tentationibus gradum obstruxerit. Quis enim audebit
+oculis suis premere faciem clausam, faciem
+non sentientem, faciem, ut dixerim, tristem? Quicunque
+malus cogitatus ipsa severitate frangetur.
+Jam se etiam mulierem negat, quae virginem celat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI.</head>
+<p>In his consistit defensio nostrae opinionis secundum
+Scripturam, secundum naturam, secundum
+disciplinam. Scriptura legem condit, natura contestatur,
+disciplina exigit. Cui ex his consuetudo opinionis
+<pb n="0910C"/>
+prodest, vel qui diversae sententiae color est?
+Dei est Scriptura, Dei est natura, Dei est disciplina.
+<pb n="0911A"/>
+Quidquid contrarium est istis, Dei non est. Si Scriptura
+incerta est, natura manifesta est, et de ejus
+testimonio Scriptura incerta non potest esse. Si de
+natura dubitatur, disciplina quid magis Deo ratum
+sit ostendit. Nihil est illi carius humilitate, nihil acceptius
+modestia, nihil perosius gloria, et studio
+hominibus placendi. Illud itaque sit tibi et Scriptura,
+et natura, et disciplina, quod ratum Deo inveneris,
+sicut juberis omnia examinare, et meliora quaeque
+sectari <note>(I Thess. V, 21)</note>. Superest etiam ut ad ipsa
+convertamur, quod libentius ista suscipiant. Oro te,
+sive mater, sive soror, sive filia virgo, secundum
+annorum nomina dixerim, vela caput: si mater,
+propter filios: si soror, propter fratres: si filia,
+propter patres; omnes in te aetates periclitantur. Indue
+<pb n="0911B"/>
+ armaturam pudoris, circumduc vallum verecundiae,
+murum sexui tuo strue, qui nec tuos
+emittat oculos, nec admittat alienos. Adimple habitum
+mulieris, ut statum virginis serves. Mentire
+aliquid ex his quae intus sunt, ut soli Deo exhibeas
+veritatem, quamquam non mentiris nuptam; nupsisti
+enim Christo: illi tradidisti carnem tuam, illi
+sponsasti maturitatem tuam. Incede secundum sponsi
+tui voluntatem. Christus est, qui et alienas sponsas
+et maritatas velari jubet, utique multo magis suas.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII.</head>
+<p>Sed et vos admonemus alterius pudicitiae, mulieres
+quae in nuptias incidistis, ne sic a disciplina velaminis
+<pb n="0911C"/>
+exsolescatis, ne quidem in momento horae, ut
+<pb n="0912A"/>
+quia rejicere illam non potestis, alio modo destruatis,
+neque tectae, neque nudae incendentes. Mitris
+enim et lanis quaedam non velant caput, sed conligant,
+a fronte quidem protectae, qua proprie autem
+caput est, nudae. Aliae modice linteolis, credo, ne
+caput premant, nec ad aures usque demissis cerebro
+tenus operiuntur. Misereor, si tam infirmo auditu
+sunt, ut per tegmen audire non possint. Sciant quia
+totum caput mulier est. Limites et fines ejus eo
+usque porriguntur, unde incipit vestis; quantum resoluti
+crines occupare possunt, tanta est velaminis
+regio, ut cervices quoque ambiantur. Ipsae enim sunt
+quas subjectas esse oportet, propter quas potestas
+supra caput haberi debet <note>(I Cor. X, 10)</note>: velamen
+jugum illarum est. Judicabunt vos Arabiae foeminae
+<pb n="0912B"/>
+ethnicae, quae non caput, sed faciem quoque ita totam
+tegunt, ut uno oculo liberato, contentae sint dimidiam
+frui lucem, quam totam faciem prostituere, quas
+propterea infelicissimas ait romana quaedam regina,
+ quod adamare magis quam adamari possint,
+cum sint vel ex alterius infelicitatis, et quidem
+frequentioris, immunitate felices, quia facilius adamari
+quam adamare foeminae possint. Et ethnicae
+quidem disciplinae meracior, et, ut ita dixerim, barbarior
+modestia. Nobis Dominus, etiam revelationibus,
+velaminis spatia metatus est. Nam cuidam sorori
+nostrae angelus in somnis cervices quasi applauderet
+verberans: Elegantes, inquit, cervices, et merito
+<pb n="0912C"/>
+nudae; bonum est usque ad lumbos a capite veleris,
+<pb n="0913A"/>
+ne et tibi ista cervicum libertas non prosit. Et utique
+quod uni dixeris, omnibus dixeris. Quantam autem
+castigationem merebuntur etiam illae, quae inter
+psalmos, vel in quacumque Dei mentione retectae
+perseverant! Meritone etiam quae in oratione
+ipsa facillime fimbriam, aut villum, aut quodlibet
+filum cerebro superponunt, et tectas se opinantur,
+tanti caput suum metiuntur? Aliae, quibus
+plane major est palma omni fimbria et filo, non
+minus capite suo abutuntur, ut bestia quaedam
+magis quam avis, licet pennata, brevi capite, protracta
+cervice, caetera altegradia. Hanc aiunt, cum
+<pb n="0914A"/>
+delitescendum habet, caput solum plane totum in
+condensum abstrudere, reliquam se in aperto relinquere.
+Ita dum in capite secura est, nuda qua major
+est, capitur tota cum capite. Tales erunt et istae
+minus, quam utile est, tectae. Oportet ergo omni tempore
+et omni loco memores legis incedere, paratas
+et instructas ad omnem Dei mentionem: qui si fuerit
+in pectore, cognoscetur et in capite foeminarum. Haec
+cum bona pace legentibus, veritatem consuetudini
+praeponentibus, pax et gratia a Domino nostro
+Jesu redundet, cum Septimio Tertulliano, cujus hoc
+opusculum est.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

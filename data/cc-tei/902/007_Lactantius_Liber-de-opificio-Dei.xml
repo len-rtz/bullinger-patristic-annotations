@@ -1,0 +1,1811 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber de opificio Dei</title>
+              <author ref="http://viaf.org/viaf/100198064">Lactantius<date>250-325</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 7</title>
+           <idno>Lactan.LiDeOpD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head> CAPUT PRIMUM. <hi>Prooemium et adhortatio ad Demetrianum.</hi> </head>
+<p>Quam minime sim quietus et in summis necessitatibus,
+ex hoc libello poteris existimare; quem ad
+te rudibus pene verbis, prout ingenii mediocritas
+tulit, Demetriane, perscripsi, ut quotidianum studium
+meum et nosses, et non deessem tibi, praeceptor
+etiamnunc, sed honestioris rei meliorisque
+<pb n="0010A"/>
+doctrinae. Nam si te in litteris, nihil aliud quam
+linguam instruentibus, auditorem satis strenuum
+praebuisti: quanto magis in his veris, et ad vitam
+pertinentibus, docilior esse debebis? Apud quem
+nunc profiteor, nulla me necessitate vel rei, vel temporis
+impediri, quominus aliquid excudam, quo
+philosophi nostrae sectae, quam tuemur, instructiores
+doctioresque in posterum fiant; quamvis nunc
+male audiant, castigenturque vulgo, quod aliter
+<pb n="0011A"/>
+ quam sapientibus convenit vivant, et vitia sub obtentu
+nominis celent, quibus illos aut mederi oportuit,
+aut ea prorsus effugere, ut beatum atque incorruptum
+sapientiae nomen vita ipsa cum praeceptis
+congruente praestarent. Ego tamen, ut nos ipsos
+simul et caeteros instruam, nullum laborem recuso.
+Neque enim possum oblivisci mei, tum praesertim,
+cum maxime opus sit meminisse; sicut ne tu quidem
+tui, ut spero, et opto. Nam licet te publicae rei necessitas
+a veris et justis operibus avertat: tamen
+fieri non potest, quin subinde in coelum aspiciat.
+<l>Mens sibi conscia recti.</l>
+        </p>
+<p>Ego quidem laetor omnia tibi, quae pro bonis habentur,
+prospere fluere; sed ita, si nihil de statu
+mentis immutent. Vereor enim ne paulatim consuetudo,
+<pb n="0011B"/>
+et jucunditas earum rerum (sicut fieri solet)
+in animum tuum repat. Ideoque te moneo,
+<l>Et repetens iterumque monebo</l>
+ne oblectamenta ista terrae, pro magnis aut veris bonis
+habere te credas; quae sunt non tantum fallacia,
+quia dubia, verum etiam insidiosa, quia dulcia. Nam
+ille colluctator et adversarius noster scis quam sit
+astutus, et idem ipse violentus, sicuti nunc videmus.
+Is haec omnia, quae illicere possunt, pro laqueis habet,
+<pb n="0012A"/>
+et quidem tam subtilibus, ut oculos mentis effugiant,
+ne possint hominis provisione vitari. Summa
+ergo prudentia est, pedetentim procedere; quoniam
+utrobique saluti insidet, et offensacula pedibus latenter
+opponit. Itaque res tuas prosperas, in quibus nunc
+agis, suadeo ut pro tua virtute aut contemnas, si potes,
+aut non magnopere mireris. Memento et veri
+parentis tui, et in qua civitate nomen dederis, et cujus
+ordinis fueris. Intelligis profecto quid loquar. Nec
+enim te superbiae arguo, cujus in te ne suspicio quidem
+ulla est: sed ea quae dico, ad mentem referenda
+sunt, non ad corpus, cujus omnis ratio ideo comparata
+est, ut animo tanquam domino serviat, et regatur
+nutu ejus. Vas est quidem corpus quodammodo
+fictile, quo animus, id est homo ipse verus continetur,
+<pb n="0012B"/>
+et quidem non a Prometheo fictum (ut poetae loquuntur),
+sed a summo illo rerum conditore atque
+artifice Deo; cujus divinam providentiam perfectissimamque
+virtutem, nec sensu comprehendere, nec
+verbo enarrare possibile est.</p>
+<p>Tentabo tamen, quoniam corporis et animi facta
+mentio est, utriusque rationem, quantum pusillitas
+intelligentiae meae pervidet, explicare. Quod officium
+hac de causa maxime suscipiendum puto, quod
+M. Tullius, vir ingenii singularis, in quarto de Republica
+<pb n="0013A"/>
+ libro, cum id facere tentasset, nihil prorsus effecit;
+nam materiam late patentem angustis finibus
+terminavit, leviter summa quaeque decerpens. Ac ne
+ulla esset excusatio, cur eum locum non fuerit executus,
+ipse testatus est, nec voluntatem sibi defuisse,
+nec curam. In libro enim de Legibus primo, cum hoc
+idem summatim stringeret, sic ait: <hi>Hunc locum satis
+(ut mihi videtur) in iis libris, quos legistis, expressit
+Scipio.</hi> Postea tamen in libro de Natura deorum secundo,
+hoc idem latius exequi conatus est. Sed quoniam
+ne ibi quidem satis expressit, aggrediar hoc
+munus et sumam mihi audacter explicandum, quod
+homo disertissimus pene omisit intactum. Forsitan
+reprehendas, quod in rebus obscuris coner aliquid
+disputare; cum videas tanta temeritate homines extitisse,
+<pb n="0013B"/>
+qui vulgo philosophi nominantur, ut ea, quae
+abstrusa prorsus atque abdita Deus esse voluit, scrutarentur,
+ac naturam rerum coelestium terrenarumque
+conquirerent, quae a nobis longe remotae, neque
+oculis contrectari, neque tangi manu, neque percipi
+sensibus possunt: et tamen de illarum omnium ratione
+sic disputant, ut ea, quae afferunt, probata et
+cognita videri velint. Quid est tandem, cur nobis invidiosum
+quisquam putet, si rationem corporis nostri
+dispicere et contemplari velimus? Quae plane obscura
+<pb n="0014A"/>
+non est; quia ex ipsis membrorum officiis, et usibus
+partium singularum, quanta vi providentiae quidque
+factum sit, intelligere nobis licet.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II. <hi>De generatione belluarum et hominis.</hi> </head>
+<p>Dedit enim homini artifex ille noster ac parens
+Deus sensum atque rationem; ut ex eo appareret nos
+ab eo esse generatos, quia ipse intelligentia, ipse
+sensus ac ratio est. Caeteris animantibus quoniam
+rationalem istam vim non attribuit, quemadmodum
+tamen vita eorum tutior esset, ante providit. Omnes
+enim suis ex se pilis texit, quo facilius possent vim
+pruinarum ac frigorum sustinere. Singulis autem
+generibus, ad propulsandos impetus externos, sua
+<pb n="0014B"/>
+propria munimenta constituit; ut aut naturalibus
+telis repugnent fortioribus, aut quae sunt imbecilliora,
+subtrahant se periculis pernicitate fugiendi, aut
+quae simul, et viribus, et celeritate indigent, astu
+se protegant, aut latibulis sepiant. Itaque alia eorum,
+vel plumis levibus in sublime suspensa sunt,
+vel suffulta ungulis, vel instructa cornibus; quibusdam
+in ore arma sunt dentes, aut in pedibus adunci
+ungues; nullique munimentum ad tutelam sui
+deest.</p>
+<p>
+          <pb n="0015A"/> Si qua vero in praedam majoribus cedunt, ne tamen
+stirps eorum funditus interiret, aut in ea sunt
+relegata regione, ubi majora esse non possunt; aut
+acceperunt uberem generandi foecunditatem, ut et
+bestiis, quae sanguine aluntur, victus suppeteret ex
+illis, et illatam tamen cladem, ad conservationem
+generis, multitudo ipsa superaret. Hominem autem,
+ratione concessa, et virtute sentiendi atque eloquendi
+data, eorum, quae caeteris animantibus attributa
+sunt, fecit expertem, quia sapientia reddere poterat,
+quae illi naturae conditio denegasset, statuit nudum,
+et inermem, quia et ingenio poterat armari,
+et ratione vestiri. Ea vero ipsa, quae mutis data, et
+homini denegata sunt, quam mirabiliter homini ad
+pulchritudinem faciant, exprimi non potest. Nam si
+in homine ferinos dentes, aut cornua, aut ungues,
+<pb n="0015B"/>
+aut ungulas, aut caudam, aut varii coloris pilos addidisset;
+quis non sentiat quam turpe animal esset
+futurum, sicut muta, si nuda et inermia fingerentur?
+Quibus si detrahas, vel naturalem sui corporis
+vestem, vel ea quibus ex se armantur, nec speciosa
+poterunt esse, nec tuta; ut mirabiliter, si utilitatem
+cogites, instructa, si speciem, ornata videantur:
+adeo miro modo consentit utilitas cum decore.</p>
+<p>Hominem vero, quem aeternum animal atque immortale
+fingebat, non forinsecus, ut caetera, sed
+interius armavit; nec munimentum ejus in corpore,
+<pb n="0016A"/>
+sed in animo posuit: quoniam supervacuum fuit,
+cum illi, quod erat maximum, tribuisset, corporalibus
+eum tegere munimentis; cum praesertim pulchritudinem
+humani corporis impedirent. Unde ego
+philosophorum, qui Epicurum sequuntur, amentiam
+soleo mirari, qui naturae opera reprehendunt, ut ostendant,
+nulla providentia instructum esse ac regi
+mundum; sed originem rerum insecabilibus ac solidis
+corporibus assignant, quorum fortuitis concursionibus
+universa nascantur, et nata sint. Praetereo
+quae ad ipsum mundum pertinentia vitio dant, in
+quo ridicule insaniunt; id sumo, quod ad rem, de
+qua nunc agimus, pertinet.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III. <hi>De conditione pecudum et hominis.</hi> </head>
+<p>
+          <pb n="0016B"/>Queruntur, hominem nimis imbecillum et fragilem
+nasci, quam caetera animalia nascuntur; quae ut sunt
+edita ex utero, protinus in pedes suos erigi, et gestire
+discursibus, statimque aeri tolerando idonea esse,
+quod in lucem naturalibus indumentis munita processerint:
+hominem contra, nudum, et inermem tanquam
+ex naufragio in hujus vitae miserias projici et expelli;
+qui neque movere se loco, ubi effusus est, possit,
+nec alimentum lactis appetere, nec injuriam
+temporis ferre; itaque naturam, non matrem esse
+humani generis, sed novercam, quae cum mutis tam
+<pb n="0017A"/>
+ liberaliter se gesserit, hominem vero sic effuderit,
+ut inops, et infirmus, et omni auxilio indigens, nihil
+aliud possit, quam fragilitatis suae conditionem ploratu
+ac fletibus suis ominari: scilicet,
+<l>Cui tantum in vita restet transire malorum.</l> 
+Quae cum dicunt, vehementer sapere creduntur,
+propterea quod unusquisque inconsiderate suae conditioni
+ingratus est: ego vero illos nunquam tam desipere
+contendo, quam cum haec loquuntur. Considerans
+enim conditionem rerum, intelligo nihil fieri
+aliter debuisse, ut non dicam, potuisse, quia Deus
+potest omnia; sed necesse est, ut providentissima illa
+majestas id effecerit, quod erat melius et rectius.</p>
+<p>Libet igitur interrogare istos divinorum operum
+reprehensores, quid in homine deesse, quia imbecillior
+nascitur, credant? Num idcirco minus educentur
+<pb n="0017B"/>
+homines? num minus ad summum robur aetatis provehantur;
+num imbecillitas aut incrementum impediat,
+aut salutem? quoniam quae desunt, ratio dependit.
+At hominis, inquiunt, educatio maximis
+laboribus constat: pecudum scilicet conditio melior,
+quod hae omnes, cum foetum ediderint, non nisi pastus
+sui curam gerunt; ex quo efficitur, ut uberibus
+sua sponte distentis, alimentum lactis foetibus ministretur,
+et id cogente natura, sine matrum sollicitudine
+appetant. Quid aves, quarum ratio diversa est,
+<pb n="0018A"/>
+nonne maximos suscipiunt in educando labores? ut
+interdum aliquid humanae intelligentiae habere videantur:
+nidos enim, aut luto aedificant, aut virgultis et
+frondibus construunt; et ciborum expertes incubant
+ovis; et quoniam foetus de suis corporibus alere datum
+non est, cibos convehunt, et totos dies in hujusmodi
+discursatione consumunt, noctibus vero defendunt,
+fovent, protegunt. Quid amplius facere
+homines possunt? nisi hoc solum fortasse, quod non
+expellunt adultos, sed perpetua necessitudine ac
+vinculo charitatis adjunctos habent. Quid, quod avium
+foetus multo fragilior est, quam hominis: quia non
+materno corpore ipsum animal edunt; sed quod materni
+corporis fotu et calore tepefactum, animal efficiat,
+quod tamen cum spiritu fuerit animatum, id vero
+implume ac tenerum, non modo volandi, sed ambulandi
+<pb n="0018B"/>
+quoque usu caret. Non ergo ineptissimus sit, si
+quis putet male cum volucribus egisse naturam, primum
+quod bis nascuntur; deinde, quod tam infirmae, ut
+sint quaesitis per laborem cibis a parentibus nutriendae.
+Sed illi fortiora eligunt, imbecilliora praetereunt.</p>
+<p>Quaero igitur ab iis, qui conditionem pecudum suae
+praeferunt, quid eligant, si Deus his deferat optionem;
+utrum malint humanam sapientiam cum imbecillitate,
+an pecudum firmitatem cum illarum natura?
+Scilicet non tam pecudes sunt, ut non malint vel fragiliorem
+<pb n="0019A"/>
+ multo, quam nunc est, dummodo humanam,
+quam illam irrationabilem firmitatem. Sed videlicet
+prudentes viri, neque hominis rationem volunt cum
+fragilitate, neque mutorum firmitatem sine ratione.
+Quod nihil est tam repugnans, tamque contrarium,
+quod unumquodque animal, aut ratio instruat necesse
+est, aut conditio naturae. Si naturalibus munimentis
+instruatur, supervacua ratio est. Quid enim excogitabit?
+quid faciet? aut quid molietur? aut in quo lumen
+illud ingenii ostendet, cum ea, quae possunt esse
+rationis, ultro natura concedat? Si autem ratione sit
+praeditum, quid opus erit sepimentis corporis? cum
+semel concessa ratio naturae munus possit implere:
+quae quidem tantum valet ad ornandum tuendumque
+hominem, ut nihil potuerit majus ac melius a Deo
+<pb n="0019B"/>
+dari. Denique cum et corporis non magni homo, et
+exiguarum virium, et valetudinis sit infirmae, tamen
+quoniam id, quod est majus accepit, et instructior
+est caeteris animalibus, et ornatior. Nam cum fragilis
+imbecillisque nascatur, tamen et a mutis omnibus
+tutus est, et ea omnia, quae firmiora nascuntur,
+etiamsi vim coeli fortiter patiuntur, ab homine tamen
+tuta esse non possunt. Ita fit, ut plus homini conferat
+ratio, quam natura mutis, quoniam in illis, neque
+magnitudo virium, neque firmitas corporis efficere
+potest, quominus aut opprimantur a nobis, aut nostrae
+subjecta sint potestati.</p>
+<p>Potestne igitur aliquis, cum videat etiam boves lucas,
+aut equos, cum immanissimis etiam corporibus
+ac viribus servire homini, queri de opifice rerum
+<pb n="0019C"/>
+Deo, quod modicas vires, quod parvum corpus acceperit?
+nec beneficia in se divina pro merito aestimat,
+<pb n="0020A"/>
+quod est ingrati, aut (ut verius loquamur) insani.
+Plato, ut hos, credo, ingratos refelleret, naturae
+gratias egit, quod homo natus esset. Quod et ipsum
+quale sit, non est hujus materiae ponderare. Quanto
+melius, et sanius, qui sentit conditionem hominis
+esse meliorem, quam isti, qui se pecudes natos esse
+maluerunt. Quos si Deus in ea forte converterit animalia,
+quorum sortem praeferunt suae, jam profecto
+cupiant remigrare, magnisque clamoribus conditionem
+pristinam flagitent; quia non est tanti robur ac
+firmitas corporis, ut officio linguae careas, aut avium
+per aerem libera discursatio, ut manibus indigeas:
+plus enim manus praestant, quam levitas ususque
+pennarum, plus lingua, quam totius corporis fortitudo.
+Quae igitur amentia est, ea praeferre, quae, si
+<pb n="0020B"/>
+data sint, accipere detrectes?
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IV. <hi>De imbecillitate hominis.</hi> </head>
+<p>Iidem queruntur, hominem morbis et immaturae
+morti esse subjectum. Indignantur videlicet, non
+deos se esse natos. Minime, inquiunt: sed ex hoc ostendimus,
+hominem nulla providentia esse factum,
+quod aliter fieri debuit. Quid si ostendero, id ipsum
+magna ratione provisum esse, ut morbis vexari posset,
+et vita saepe in medio cursus sui spatio rumperetur?
+Cum enim Deus animal, quod fecerat, sua
+sponte ad mortem transire cognovisset, ut mortem
+ipsam, quae est dissolutio naturae, capere posset, dedit
+ei fragilitatem, quae morti aditum ad dissolvendum
+<pb n="0020C"/>
+animal inveniret. Nam si ejus roboris fieret, ut
+ad eum morbus et aegritudo adire non posset, ne mors
+<pb n="0021A"/>
+ quidem posset, quoniam mors sequela morborum est.
+Immatura vero mors quomodo abesset ab eo, cui esset
+constituta matura? Nempe nullum hominem mori
+volunt, nisi cum centesimum aetatis compleverit annum.
+Quomodo illis in tanta repugnantia rerum ratio
+poterit constare? Ut enim ante annos centum mori
+quisque non possit, aliquid illi roboris, quod sit immortale,
+tribuendum est. Quo concesso, necesse est
+conditionem mortis excludi. Id autem ipsum cujusmodi
+potest esse, quod hominem contra morbos et
+ictus extraneos solidum atque inexpugnabilem faciat?
+Cum enim constet ex ossibus, et nervis, et visceribus,
+et sanguine, quid horum potest esse tam
+firmum, ut fragilitatem repellat ac mortem? Ut igitur
+homo indissolubilis sit ante id tempus, quod illi
+<pb n="0021B"/>
+putant oportuisse constitui, ex qua ei materia corpus
+attribuent? Fragilia sunt omnia, quae videri, ac tangi
+possunt. Superest, ut aliquid ex coelo petant, quoniam
+in terra nihil est, quod non sit infirmum.</p>
+<p>Cum ergo homo sic formandus esset a Deo, ut mortalis
+esset aliquando, res ipsa exigebat, ut terreno et
+fragili corpore fingeretur. Necesse est igitur, ut mortem
+recipiat quandolibet, quoniam corporalis est;
+corpus enim quodlibet solubile atque mortale est.
+Stultissimi ergo, qui de morte immatura queruntur;
+quoniam naturae conditio locum illi facit. Ita consequens
+erit, ut morbis quoque subjectus sit; neque
+enim patitur natura, ut abesse possit infirmitas ab eo
+corpore, quod aliquando solvendum est. Sed putemus
+<pb n="0021C"/>
+fieri posse, quemadmodum volunt, ut homo non
+<pb n="0022A"/>
+ea conditione nascatur, qua morbo mortive subjectus
+sit, nisi peracto aetatis suae spatio, ad ultimam processerit
+senectutem. Non igitur vident, si ita sit constitutum,
+quid sequatur, omni utique caetero tempore
+mori nullo modo posse: sed, si prohiberi ab altero
+victu potest, mori poterit; res igitur exigit, ut homini,
+qui ante certum diem mori non potest, ciborum
+alimentis, quia subtrahi possunt, opus non sit.
+Si opus cibo non erit, jam non homo ille, sed Deus
+fiet. Ergo (ut superius dixi) qui de fragilitate hominis
+queruntur, id potissimum queruntur, quod non
+immortales et sempiterni sint nati. Nemo, nisi senex,
+mori debet. Nempe ideo mori debet, quia Deus non
+est. Atqui mortalitas non potest cum immortalitate
+conjungi. Si enim mortalis est in senectute, immortalis
+<pb n="0022B"/>
+esse in adolescentia non potest; nec est ab eo
+conditio mortis aliena, qui quandoque moriturus est;
+nec ulla immortalitas est, cui sit terminus constitutus.
+Ita fit, ut et immortalitas exclusa in perpetuum,
+et ad tempus recepta mortalitas, hominem constituat
+in ea conditione, ut sit in qualibet aetate mortalis.</p>
+<p>Quadrat igitur necessitas undique, nec debuisse
+aliter fieri, nec fas fuisse. Sed isti rationem sequentium
+non vident, quia semel erraverunt in ipsa summa.
+Exclusa enim de rebus humanis divina providentia,
+necessario sequebatur, ut omnia sua sponte sint nata.
+Hinc invenerunt illas minutorum seminum plagas, et
+concursiones fortuitas, quia rerum originem non videbant.
+In quas se angustias cum conjecissent, jam
+<pb n="0022C"/>
+cogebat eos necessitas existimare, animas cum corporibus
+<pb n="0023A"/>
+ nasci, et item cum corporibus extingui. Assumpserant
+enim nihil fieri mente divina. Quod
+ipsum non aliter probare poterant, quam si ostenderent
+esse aliqua, in quibus videretur providentiae
+ratio claudicare. Reprehenderunt igitur ea, in quibus
+vel maxime divinitatem suam providentia mirabiliter
+expressit, ut illa, quae retuli de morbis et immatura
+morte, cum debuerint cogitare, his assumptis, quid
+necessario sequeretur (sequuntur autem illa, quae
+dixi) si morbum non reciperet, neque tectis, neque
+vestibus indigeret. Quid enim ventos, aut imbres,
+aut frigora metueret, quorum vis in eo est, ut morbos
+afferant? Idcirco enim accepit sapientiam, ut adversus
+nocentia fragilitatem suam muniat. Sequatur necesse
+est, ut quoniam retinendae rationis causa morbos
+capit, etiam mortem semper accipiat; quia is ad
+<pb n="0023B"/>
+quem mors non venit, firmus sit necesse est: infirmitas
+autem habet in se mortis conditionem; firmitas
+vero ubi fuerit, nec senectus locum potest habere,
+nec mors, quae sequitur senectutem.</p>
+<p>Praeterea, si mors certae constituta esset aetati, fieret
+homo insolentissimus, et humanitate omni careret.
+Nam fere jura omnia humanitatis, quibus inter
+nos cohaeremus, ex metu, et conscientia fragilitatis
+oriuntur. Denique imbecilliora, et timidiora quaeque
+animalia congregantur, ut quoniam viribus tueri se
+nequeunt, multitudine tueantur: fortiora vero solitudines
+appetunt, quoniam robore viribusque confidunt.
+Homo quoque si eodem modo haberet ad propulsanda
+<pb n="0023C"/>
+pericula suppetens robur, nec ullius alterius
+<pb n="0024A"/>
+auxilio indigeret, quae societas esset? quaeve ratio?
+quae humanitas? aut quid esset tetrius homine? quid
+efferacius? quid immanius? Sed quoniam imbecillis
+est, nec per se potest sine homine vivere, societatem
+appetit, ut vita communis et ornatior fiat, et tutior.
+Vides igitur omnem hominis rationem in eo vel
+maxime stare, quod nudus fragilisque nascitur, quod
+morbis afficitur, quod immatura morte multatur. Quae
+si homini detrahantur, rationem quoque ac sapientiam
+detrahi, necesse est. Sed nimis diu de rebus
+apertis disputo, cum sit liquidum, nihil sine providentia,
+nec factum esse unquam, nec fieri potuisse.
+De cujus operibus universis, si nunc libeat disputare
+per ordinem, infinita materia est. Sed ego de uno
+corpore hominis tantum institui dicere, ut in eo divinae
+providentiae potestatem, quanta fuerit, ostendam
+<pb n="0024B"/>
+his dumtaxat in rebus, quae sunt comprehensibiles
+et apertae; nam illa quae sunt animae, nec subjici
+oculis, nec comprehendi queunt. Nunc de ipso
+vase hominis loquimur, quod videmus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT V. <hi>De figuris animalium et membris.</hi> </head>
+<p>In principio, cum Deus fingeret animalia, noluit ea
+in rotundam formae speciem conglobare atque colligere,
+ut et moveri ad ambulandum, et flectere se in quamlibet
+partem facile possent: sed ex ipsa corporis
+summa produxit caput; item produxit membra quaedam
+longius, quae vocantur pedes, ut alternis motibus
+solo fixa producerent animal, quo mens tulisset, aut
+<pb n="0024C"/>
+quo petendi cibi necessitas provocasset. Ex ipso autem
+<pb n="0025A"/>
+ vasculo corporis quatuor fecit extantia: bina posterius,
+quae sunt in omnibus pedes; item bina capiti
+et collo proxima, quae varios animantibus usus praebent.
+In pecudibus enim ac feris sunt posterioribus
+pedes similes, in homine autem manus; quae non sunt
+ad ambulandum, sed ad faciendum temperandumque
+sunt natae. Est et tertium genus, in quo priora illa,
+neque pedes, neque manus sunt, sed alae, in quibus
+pennae per ordinem fixae volandi exhibent usum. Ita
+una fictio diversas species et usus habet. Atque ut
+ipsam corporis crassitudinem firmiter comprehenderet,
+majoribus et brevibus ossibus invicem colligatis,
+quasi carinam compegit, quam nos spinam dicimus,
+eamque noluit ex uno perpetuoque osse formare, ne
+gradiendi flectendique se facultatem animal non haberet.
+<pb n="0025B"/>
+Ex ejus parte quasi media costas, id est transversa
+et plana ossa porrexit in diversum, quibus clementer
+curvatis, et in se velut in circulum pene conductis,
+interna viscera contegantur, ut ea, quae mollia et
+minus valida fieri opus erat, illius solidae cratis amplexu
+possent esse munita. In summa vero constructionis
+ejus, quam similem navis carinae diximus, caput
+collocavit, in quo esset regimen totius animantis; datumque
+illi hoc nomen est, ut quidem Varro ad Ciceronem
+scribit, quod hinc capiant initium sensus ac nervi.</p>
+<p>Ea vero, quae diximus de corpore, vel ambulandi,
+vel faciendi, vel volandi causa esse producta, neque
+<pb n="0025C"/>
+nimium longis, propter celerem mobilitatem, neque
+<pb n="0026A"/>
+nimium brevibus, propter firmitatem, sed et paucis
+et magnis ossibus constare voluit. Aut enim bina
+sunt ut in homine; aut quaterna, ut in quadrupede:
+quae tamen non fecit solida, ne in gradiendo pigritia
+et gravitas retardaret, sed cavata et ad vigorem corporis
+conservandum medullis intrinsecus plena; eaque
+rursus non aequaliter porrecta finivit: sed summas
+eorum partes crassioribus nodis conglobavit, ut et
+substringi nervis facilius, et verti tutius possent, unde
+sunt vertibula nominata. Eos nodos firmiter solidatos
+leni quodam operculo texit, quod dicitur cartilago;
+scilicet, ut sine attritu et sine sensu doloris aliquo
+flecterentur. Eosdem tamen non in unum modum informavit:
+alios enim fecit simplices, et in orbem rotundos,
+in iis dumtaxat articulis, in quibus moveri
+<pb n="0026B"/>
+membra in omnes partes oportebat, ut in scapulis;
+quoniam manus utrolibet agitari et contorqueri necessarium
+est: alios autem latos, et aequales, et in
+unam partem rotundos, et in his utique locis, ubi
+tantummodo curvari membra oportebat, ut in genibus
+et in cubitis, et in manibus ipsis. Nam sicut manus ex
+eo loco, unde oriuntur, ubique versus moveri, speciosum
+simul et utile fuit: sic profecto, si hoc idem
+etiam cubitis accideret, et supervacuus esset ejus
+modi motus, et turpis.</p>
+<p>Jam enim manus amissa dignitate, quam nunc habet,
+mobilitate nimia proboscidi similis videretur,
+<pb n="0026C"/>
+essetque homo plane anguimanus: quod genus in illa
+<pb n="0027A"/>
+ immanissima bellua mirabiliter effectum est. Deus
+enim, qui providentiam et potestatem suam multarum
+rerum mirabili varietate voluit ostendere, quoniam
+caput ejus animalis non tam longe porrexerat,
+ut terram posset ore contingere, quod erat futurum
+horribile atque tetrum, et quia os ipsum profusis dentibus
+sic armaverat, ut etiamsi contingeret, pascendi
+tamen facultatem dentes adimerent; produxit inter
+eos a summa fronte molle ac flexibile membrum, quo
+prendere, quo tenere quodlibet posset, ne rationem
+victus capiendi, vel dentium prominens magnitudo,
+vel cervicis brevitas impediret.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI. <hi>De Epicuri errore; et de membris eorumque usu.</hi> </head>
+<p>Non possum hoc loco teneri, quominus Epicuri
+<pb n="0027B"/>
+stultitiam rursum coarguam; illius enim sunt omnia
+quae delirat Lucretius: qui, ut ostenderet animalia
+non artificio aliquo divinae mentis, sed, ut solet, fortuito
+esse nata; dixit, in principio mundi alias quasdam
+innumerabiles animantes miranda specie et magnitudine
+fuisse natas, sed eas permanere non potuisse,
+quod illas aut sumendi cibi facultas, aut coeundi
+generandique ratio defecisset. Videlicet ut et
+atomis suis locum faceret per infinitum et inane volitantibus,
+divinam providentiam voluit excludere.
+Sed cum videret in omnibus quae spirant. mirabilem
+<pb n="0028A"/>
+Providentiae inesse rationem, quae (malum!) vanitas
+erat dicere fuisse animalia prodigiosa, in quibus
+nascendi ratio cessaret?</p>
+<p>Quoniam igitur omnia quae videmus cum ratione
+nata sunt, id enim ipsum nasci, efficere nisi ratio non
+potest, manifestum est, nihil omnino rationis expers
+potuisse generari. Ante enim provisum est in singulis
+quibusque fingendis, quatenus et ministerio membrorum
+ad necessaria vitae uteretur, et quatenus adjugatis
+corporibus elata soboles, universas generatim
+conservaret animantes. Nam si peritus architectus,
+cum magnum aliquod aedificium facere constituit, primo
+omnium cogitat, quae summa perfecti aedificii futura
+sit, et ante emetitur, quem locum leve pondus
+expectet, ubi magni operis statura sit moles, quae columnarum
+<pb n="0028B"/>
+intervalla, qui, aut ubi aquarum cadentium
+decursus et exitus, et receptacula, haec, inquam,
+prius providet, ut quaecumque sunt perfecto jam operi
+necessaria, cum ipsis fundamentis pariter ordiatur:
+cur Deum quisquam putet in machinandis animalibus
+non ante providisse, quae ad vivendum necessaria
+essent, quam ipsam vitam daret? Quae utique constare
+non posset, nisi prius effecta essent quibus constat.</p>
+<p>Videbat igitur Epicurus in corporibus animalium
+divinae rationis solertiam: sed ut efficeret, quod ante
+imprudenter assumpserat, adjecit aliud deliramentum
+superiori congruens. Dixit enim, neque oculos ad
+<pb n="0029A"/>
+ videndum esse natos, neque aures ad audiendum, neque
+pedes ad ambulandum, quoniam membra haec
+prius nata sunt quam esset usus videndi, et audiendi,
+et ambulandi: sed horum omnia officia ex natis extitisse.
+Vereor ne hujusmodi portenta et ridicula refutare
+non minus ineptum esse videatur. Sed libet
+ineptire, quoniam cum inepto agimus, ne se ille nimis
+argutum putet. Quid ais, Epicure? Non sunt ad
+videndum oculi nati? Cur igitur vident? Postea, inquit,
+usus eorum apparuit. Videndi ergo causa nati
+sunt; siquidem nihil possunt aliud quam videre. Item
+membra caetera, cujus rei causa nata sunt, ipse usus
+ostendit: qui utique nullo modo posset existere, nisi
+essent membra omnia tam ordinate, tam providenter
+effecta, ut usum possent habere.</p>
+<p>
+          <pb n="0029B"/>Quid enim, si dicas aves non ad volandum esse
+natas, neque feras ad saeviendum, neque pisces ad
+natandum, neque homines ad sapiendum; cum appareat
+ei naturae, officioque servire animantes, ad
+quod est quaeque generata? Sed videlicet qui summam
+ipsam veritatis amisit, semper erret necesse
+est. Si enim non providentia, sed fortuitis atomorum
+concursionibus nascuntur omnia, cur nunquam fortuito
+accidit, sic coire illa principia, ut efficerent
+<pb n="0030A"/>
+animal ejusmodi, quod naribus potius audiret, odoraretur
+oculis, auribus cerneret? Si enim primordia
+nullum genus positionis inexpertum relinquunt,
+oportuit ejusmodi quotidie monstra generari, in quibus
+et membrorum ordo praeposterus, et usus longe
+diversus existeret. Cum vero universa genera, et
+universa quoque membra leges suas, et ordines, et
+usus sibi attributos tueantur, manifestum est nihil
+fortuito esse factum, quoniam divinae rationis dispositio
+perpetua servatur. Verum alias refellemus Epicurum;
+nunc de providentia (ut coepimus) disseramus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VII. <hi>De omnibus corporis partibus.</hi> </head>
+<p>
+          <pb n="0030B"/>Deus igitur solidamenta corporis, quae ossa dicuntur,
+nodata et adjuncta invicem nervis alligavit atque
+constrinxit, quibus mens, si excurrere, aut resistere
+velit, tanquam retinaculis uteretur; et quidem
+nullo labore, nulloque conatu: sed vel minimo nutu
+totius corporis molem temperaret ac flecteret. Haec
+autem visceribus operuit, ut quemque locum decebat,
+ut quae solida essent, conclusa tegerentur.
+Item visceribus ipsis venas admiscuit, quasi rivos
+<pb n="0031A"/>
+ per corpus omne divisos, per quas discurrens humor,
+et sanguis, universa membra succis vitalibus
+irrigaret; et ea viscera, formata in eum modum,
+qui unicuique generi ac loco aptus fuit, superjecta
+pelle contexit, quam vel sola pulchritudine decoravit,
+vel setis adoperuit, vel squamis munivit, vel
+plumis insignibus adornavit. Illud vero commentum
+Dei mirabile, quod una dispositio, et unus habitus,
+innumerabiles imaginis praeferat varietates. Nam in
+omnibus fere, quae spirant, eadem series et ordo
+membrorum est. Primum enim caput, et huic annexa
+cervix. Item collo pectus adjunctum, et ex eo
+prominentes armi, adhaerens pectori venter. Item
+ventri subnexa genitalia. Ultimo loco femina pedesque.</p>
+<p>
+          <pb n="0031B"/>Nec solum membra suum tenorem ac situm in omnibus
+servant, sed etiam partes membrorum. Nam in
+uno capite ipso certam sedem possident aures, certam
+oculi, nares item, os quoque, et in eo dentes, et
+lingua. Quae omnia cum sint eadem in omnibus animantibus,
+tamen infinita et multiplex diversitas figuratorum
+est; quod ea quae dixi, aut productiora, aut
+contractiora lineamentis varie differentibus comprehensa
+sunt. Quid, illud nonne divinum, quod in tanta
+<pb n="0032A"/>
+viventium multitudine, unumquodque animal in sui
+genere et specie pulcherrimum est? ut si quid vicissim
+de altero in alterum transferatur, nihil impeditius ad
+utilitatem, nihil deformius ad aspectum videri necesse
+sit: ut si elephanto cervicem prolixam tribuas, aut
+camelo brevem; vel si serpentibus pedes, aut pilos
+addas, in quibus porrecti aequaliter corporis longitudo
+nihil aliud exhibeat, nisi ut maculis terga distincti,
+et squammarum laevitate suffulti, in lubricos tractus
+sinuosis flexibus laberentur. In quadrupedibus autem,
+idem opifex contextum spinae a summo capite deductum
+longius extra corpus eduxit, et acuminavit in
+caudam, ut obscoenae corporis partes, vel propter foeditatem
+tegerentur, vel propter teneritudinem munirentur,
+ut animalia quaedam minuta et nocentia motu
+<pb n="0032B"/>
+ejus arcerentur a corpore: quod membrum si detrahas,
+imperfectum fit animal, ac debile. Ubi autem
+ratio, et manus est, tam non est id necessarium,
+quam indumentum pilorum: adeo in suo quaeque genere
+aptissime congruunt, ut neque nudo quadrupede,
+neque homine tecto excogitari quidquam turpius
+possit.</p>
+<p>Sed tamen cum ipsa nuditas hominis mire ad pulchritudinem
+valeat, non tamen etiam capiti congruebat;
+<pb n="0033A"/>
+ quanta enim in eo futura deformitas esset, ex
+calvitio apparet. Texit ergo illud pilo; et quia in summo
+futurum erat; quasi summum aedificii culmen ornavit:
+qui ornatus non est in orbem coactus, aut in
+figuram pilei teres factus, ne quibusdam partibus nudis
+esset informis, sed alicubi effusus, alicubi retractus
+pro cujuslibet loci decentia. Frons ergo vallata
+per circuitum, et a temporibus effusi ante aures capilli,
+et earum summae partes in coronae modum
+cinctae, et occipitium omne contectum, speciem miri
+decoris ostentant. Jam barbae ratio incredibile est
+quantum conferat, vel ad dignoscendam corporum
+maturitatem, vel ad differentiam sexus, vel ad decorem
+virilitatis ac roboris; ut videatur omnino non
+constatura fuisse totius operis ratio, si quidquam
+aliter esset effectum.</p>
+</div2>
+
+<div2>
+        <head> CAPUT VIII. <hi>De hominis partibus, oculis et auribus.</hi> </head>
+<p>Nunc rationem totius hominis ostendam, singulorumque
+<pb n="0034A"/>
+membrorum, quae in corpore aperta, aut
+operta sunt, utilitates et habitus explicabo. Cum igitur
+statuisset Deus ex omnibus animalibus solum hominem
+facere coelestem, caetera universa terrena,
+hunc ad coeli contemplationem rigidum erexit, bipedemque
+constituit, scilicet ut eodem spectaret, unde
+illi origo est; illa vero depressit ad terram, ut quia
+nulla his immortalitatis expectatio est, toto corpore
+in humum projecta ventri pabuloque servirent. Hominis
+itaque solius recta ratio, et sublimis status, et
+vultus Deo patri communis ac proximus, originem
+suam, fictoremque testatur. Ejus prope divina mens,
+quia non tantum animantium, quae sunt in terra, sed
+etiam sui corporis est sortita dominatum, in summo
+capite collocata, tanquam in arce sublimis speculatur
+omnia, et contuetur. Hanc ejus aulam, non obductam
+<pb n="0034B"/>
+porrectamque formavit, ut in mutis animalibus, sed
+orbi et globo similem; quod omnis rotunditas perfectae
+rationis est, ac figurae. Eo igitur mens et ignis ille
+divinus tanquam coelo tegitur: cujus cum summum
+<pb n="0035A"/>
+ fastigium naturali veste texisset, priorem partem,
+quae dicitur facies, necessariis membrorum ministeriis
+et instruxit pariter et ornavit.</p>
+<p>Ac primum, quod oculorum orbes concavis foraminibus
+conclusit, a quo foratu frontem nominatam
+Varro existimavit; et eos, neque minus, neque amplius,
+quam duos esse voluit, quod ad speciem nullus
+est perfectior numerus, quam duorum: sicut et
+aures duas, quarum duplicitas incredibile est quantam
+pulchritudinem praeferat, quod tum pars utraque
+similitudine ornata est, tum ut venientes altrinsecus
+voces facilius colligantur; nam et forma ipsa
+mirandum in modum ficta, quod earum foramina
+noluit esse nuda et inobsepta, quod et minus decorum
+et utile minus fuisset, quoniam simplicium
+<pb n="0035B"/>
+cavernarum angustias praetervolare vox posset, nisi
+<pb n="0036A"/>
+exceptam per cavos sinus, et repercussu retentam
+foramina ipsa cohiberent: illis similia vasculis, quibus
+impositis solent angusti oris vasa compleri.</p>
+<p>Eas igitur aures (quibus est inditum nomen a vocibus <hi>hauriendis,</hi> 
+ unde Virgilius:
+<l>. . . . . .Vocemque his auribus hausi;</l>
+aut quia vocem ipsam Graeci <foreign xml:lang="greek">αὐδὴν</foreign> vocant, ab auditu,
+per immutationem litterae, aures velut audes sunt
+nominatae) noluit Deus artifex mollibus pelliculis informare,
+quae pulchritudinem demerent pendulae
+atque flaccentes, neque duris ac solidis ossibus, ne
+ad usum inhabiles essent immobiles ac rigentes: sed
+quod esset horum medium excogitavit, ut eas cartilago
+mollior alligaret, et haberent aptam simul et
+<pb n="0036B"/>
+flexibilem firmitatem. In his audiendi tantum officium
+<pb n="0037A"/>
+ constitutum est, sicut in oculis videndi; quorum
+praecipue inexplicabilis est ac mira subtilitas,
+quia eorum orbes gemmarum similitudinem praeferentes,
+ab ea parte qua videndum fuit, membranis
+perlucentibus texit, ut imagines rerum contra positarum
+tanquam in speculo refulgentes, ad sensum
+intimum penetrarent. Per eas igitur membranas sensus
+ille, qui dicitur mens, ea quae sunt foris transpicit.
+Ne forte existimes, aut imaginum incursione
+nos cernere (ut philosophi dixerunt) quoniam videndi
+officium in eo debet esse quod videt, non in eo quod
+videtur: aut intentione aeris, cum acie aut effusione
+radiorum, quoniam, si ita esset, radium quem
+oculis advertimus, videremus, donec intentus aer
+cum acie, aut effusi radii ad id quod videndum esset
+<pb n="0037B"/>
+pervenirent.</p>
+<p>Cum autem videamus eodem momento temporis,
+plerumque vero aliud agentes, nihilominus tamen
+universa quae contra sunt posita intueamur, verius et
+<pb n="0038A"/>
+manifestius est mentem esse, quae per oculos ea quae
+sunt opposita, transpiciat, quasi per fenestras lucente
+vitro, aut speculari lapide obductas. Et idcirco
+mens, et voluntas ex oculis saepe dignoscitur.
+Quod quidem ut refelleret Lucretius, ineptissimo usus
+est argumento. Si enim mens (inquit) per oculos videt,
+erutis et effossis oculis magis videret; quoniam
+evulsae cum postibus fores plus inferunt luminis,
+quam si fuerint obductae. Nimirum ipsi, vel potius
+Epicuro, qui eum docuit, effossi oculi erant, ne viderent,
+effossos orbes, et ruptas oculorum fibras, et
+fluentem per venas sanguinem, et crescentes ex vulneribus
+carnes, et obductas ad ultimum cicatrices
+nihil posse lucis admittere, nisi forte auribus oculos
+similes nasci volebat; ut non tam oculis, quam foraminibus
+<pb n="0038B"/>
+cerneremus: quo nihil ad speciem foedius,
+ad usum inutilius fieri potest. Quantulum enim videre
+possemus, si mens ab intimis penetralibus capitis
+per exiguas cavernarum rimulas attenderet; ut
+<pb n="0039A"/>
+ si quis velit transpicere per cicutam, non plus profecto
+cernat, quam cicutae ipsius capacitas comprehendat.
+Itaque ad videndum membris potius in orbem
+conglobatis opus fuit, ut visus in latum spargeretur,
+et quae in primori facie adhaererent, ut libere
+possent omnia contueri. Ergo ineffabilis divinae providentiae
+virtus fecit duos simillimos orbes, eosque
+ita devinxit, ut non in totum converti, sed moveri
+tamen ac flecti cum modo possent. Orbes autem ipsos
+humoris puri ac liquidi plenos esse voluit, in
+quorum media parte scintillae luminum conclusae tenerentur,
+quas pupillas nuncupamus, in quibus puris
+ac subtilibus cernendi sensus ac ratio continetur,
+Per eos igitur orbes seipsam mens intendit ut videat,
+miraque ratione in unum miscetur et conjungitur
+<pb n="0039B"/>
+amborum luminum visus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IX. <hi>De sensibus eorumque vi.</hi> </head>
+<p>Libet hoc loco illorum reprehendere vanitatem,
+qui dum volunt ostendere sensus falsos esse, multa
+colligunt, in quibus oculi fallantur; inter quae illud
+etiam, quod furiosis et ebriis omnia duplicia videantur:
+quasi vero ejus erroris obscura sit causa. Ideo
+enim fit, quia duo sunt oculi. Sed quomodo id fiat,
+accipe. Visus oculorum intentione animi constat. Itaque
+quoniam mens (ut supra dictum est) oculis tanquam
+fenestris utitur, non tantum hoc ebriis aut insanis
+<pb n="0040A"/>
+accidit, sed et sanis, ac sobriis. Nam si aliquid
+nimis propius admoveas, duplex videbitur; certum
+est enim intervallum, ac spatium, quo acies oculorum
+coït. Item si retrorsum avoces animum, quasi
+ad cogitandum, et intentionem mentis relaxes, tum
+acies oculi utriusque diducitur, tunc singuli videre
+incipiunt separatim.</p>
+<p>Si animum rursus intenderis, aciemque direxeris,
+coit in unum quidquid duplex videbatur. Quid ergo
+mirum, si mens veneno, ac potentia vini dissoluta,
+dirigere se non potest ad videndum, sicut ne pedes
+quidem ad ambulandum, nervis stupescentibus debiles?
+aut si vis furoris in cerebrum saeviens concordiam
+disjungit oculorum? Quod adeo verum est, ut
+luscis hominibus, si aut insani, aut ebrii fiant, nullo
+<pb n="0040B"/>
+modo possit accidere, ut aliquid duplex videant.
+Quare si ratio apparet, cur oculi fallantur, manifestum
+est non esse falsos sensus; qui aut non falluntur,
+si sunt puri et integri, aut si falluntur, mens tamen
+non fallitur, quae illorum novit errorem.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT X. <hi>De exterioribus hominis membris, eorumque usu.</hi> </head>
+<p>Sed nos ad Dei opera revertamur. Ut igitur oculi
+munitiores essent ab injuria, eos ciliorum tegminibus
+occuluit; unde oculos dictos esse, Varroni placet.
+Nam et ipsae palpebrae, quibus mobilitas inest, et
+palpitatio vocabulum tribuit, pilis in ordine stantibus
+<pb n="0041A"/>
+ vallatae, septum oculis decentissimum praebent. Quarum
+motus assiduus incomprehensibili celeritate concurrens,
+et videndi tenorem non impedit, et reficit
+obtutum. Acies enim, id est membrana illa perlucens,
+quam siccari et obarescere non oportet, nisi
+humore assiduo tersa pure niteat, obsolescit. Quid
+ipsa superciliorum fastigia pilis brevibus adornata?
+nonne, quasi aggeribus, et munimentum oculis, ne
+quid superne incidat, et speciem simul praestant? Ex
+quorum confinio nasus exoriens, et veluti aequali
+porrectus jugo, utramque aciem simul et discernit et
+munit. Inferius quoque genarum non indecens tumor,
+in similitudinem collium leniter exurgens, ab omni
+parte oculos efficit tutiores; provisumque est ab artifice
+summo, ut si quis forte vehementior ictus extiterit,
+eminentibus repellatur. Nasi vero pars superior
+<pb n="0041B"/>
+usque ad medium solida formata est, inferior
+autem cartilagine adhaerente mollita, ut ad usum digitorum
+possit esse tractabilis. In hoc autem, quamvis
+simplici membro, tria sunt officia constituta;
+unum ducendi spiritus; alterum capiendi odoris; tertium
+ut per ejus cavernas purgamenta cerebri defluant:
+quas ipsas Deus quam mirabili, quam divina
+<pb n="0042A"/>
+ratione molitus est, ut tamen hiatus ipse nasi oris
+speciem non deformaret. Quod erat plane futurum,
+si unum ac simplex foramen pateret. At id velut pariete
+per medium ducto intersepsit atque divisit, fecitque
+ipsa duplicitate pulcherrimum. Ex quo intelligimus
+quantum dualis numerus, una et simplici
+compage solidatus, ad rerum valeat perfectionem.</p>
+<p>Nam cum sit corpus unum, tamen totum ex simplicibus
+membris constare non poterat, nisi ut essent
+partes vel dextrae, vel sinistrae. Itaque ut pedes duo,
+et item manus, non tantum ad utilitatem aliquam
+usumque, vel gradiendi, vel faciendi valent, sed et
+habitum, decoremque admirabilem conferunt: sic in
+capite, quod totius divini operis quasi culmen est, et
+auditus, in duas aures, et visus in duas acies, et odoratio
+<pb n="0042B"/>
+in duas nares a summo artifice divisa est: quia
+cerebrum, in quo sentiendi ratio est, quamvis sit
+unum, tamen in duas partes membrana interveniente
+discretum est. Sed et cor, quod sapientiae domicilium
+videtur, licet sit unum, duos tamen intrinsecus sinus
+habet, quibus fontes vivi sanguinis continentur, septo
+intercedente divisi; ut sicut in ipso mundo summa
+<pb n="0043A"/>
+ rerum vel de simplici duplex, vel de duplici simplex,
+et gubernat, et continet totum: ita in corpore de
+duobus universa compacta, indissociabilem praetenderent
+unitatem. Oris quoque species, et rictus ex
+transverso patefactus, quam utilis, quam decens sit,
+enarrari non potest: cujus usus in duobus constat
+officiis, sumendi victus, et loquendi.</p>
+<p>Lingua intus inclusa, quae vocem motibus suis in
+verba discernit, et est interpres animi; nec tamen
+sola potest per se loquendi munus implere, nisi acumen
+suum palato illiserit, nisi juta vel offensione
+dentium, vel compressione labiorum: dentes tamen
+plus conferunt ad loquendum; nam et infantes non
+ante incipiunt fari, quam dentes habuerint, et senes
+amissis dentibus ita balbutiunt, ut ad infantiam re
+<pb n="0043B"/>
+voluti denuo esse videantur. Sed haec ad hominem solum
+pertinent, aut ad aves, in quibus acuminata et
+vibrata certis motibus lingua, innumerabiles cantuum
+flexiones, et sonorum varios modos exprimit. Habet
+praeterea et aliud officium, quo in omnibus, sed tamen
+solo in mutis utitur, quod contritos et commolitos
+dentibus cibos colligit, et conglobatos vi sua deprimit,
+<pb n="0044A"/>
+et transmittit ad ventrem. Itaque Varro a ligando
+cibo putat linguae nomen impositum. Bestias
+etiam potu adjuvat; protenta enim cavataque hauriunt
+aquam, eamque comprehensam linguae sinu,
+ne tarditate ac mora effluat, ad palatum celeri mobilitate
+complodunt. Haec itaque palati concavo tanquam
+testudine tegitur; eamque dentium septis Deus
+quasi muro circumvallavit.</p>
+<p>Dentes autem ipsos mirabili modo per ordinem
+fixos, ne nudi ac restricti magis horrori quam ornamento
+essent, gingivis mollibus, quae a gignendis
+dentibus nominantur, ac deinde labiorum tegminibus
+honestavit, quorum durities, sicut in molari lapide,
+major est et asperior, quam in caeteris ossibus, ut
+ad conterendos cibos pabulumque sufficerent. Labra
+<pb n="0044B"/>
+ipsa, quae quasi antea cohaerebant, quam decenter
+intercidit; quorum superius sub ipsa medietate narium
+lacuna quadam levi, quasi valle signavit, inferius
+honestatis gratia foras molliter explicavit. Nam
+quod attinet ad saporem capiendum, fallitur, quisquis
+hunc sensum palato inesse arbitratur; lingua est enim,
+qua sapores sentiuntur: nec tamen tota; nam partes
+<pb n="0045A"/>
+ ejus, quae sunt ab utroque latere teneriores, saporem
+subtilissimis sensibus trahunt. Et cum neque ex cibo
+quidquam, neque ex potione minuatur; tamen inenarrabili
+modo penetrat ad sensum sapor, eadem ratione,
+qua nihil de quaque materia odoris capio decerpit.</p>
+<p>Caetera quam decora sint, vix exprimi potest. Deductum
+clementer a genis mentum, et ita inferius
+conclusum, ut acumen ejus extremum signare videatur
+leviter impressa divisio; rigidum ac teres collum;
+scapulae velut mollibus jugis a cervice demissae; valida
+et substricta nervis ad fortitudinem brachia; insignibus
+toris extantium lacertorum vigens robur;
+utilis ac decens flexura cubitorum. Quid dicam de
+manibus, rationis ac sapientiae ministris? quas solertissimus
+<pb n="0045B"/>
+artifex plano ac modice concavo sinu fictas,
+ut si quid tenendum sit, apte possit insidere, in digitos
+terminavit: in quibus difficile est expedire, utrumne
+<pb n="0046A"/>
+species, an utilitas major sit. Nam et numerus
+perfectus, ac plenus, et ordo ac gradus decentissimus,
+et articulorum parium curvatura flexibilis, et forma
+unguium rotunda, concavis tegminibus digitorum fastigia
+comprehendens atque firmans, ne mollitudo carnis
+in tenendo cederet, magnum praebet ornatum. Illud
+vero ad usum miris modis habile, quod unus a
+caeteris separatus cum ipsa manu oritur, et in diversum
+maturius funditur: qui se velut obvium caeteris
+praebens, omnem tenendi faciendique rationem vel
+solus, vel praecipue possidet, tamquam rector omnium
+atque moderator; unde etiam pollicis nomen
+accepit, quod vi et potestate inter caeteros polleat.
+Duos quidem articulos extantes habet, non ut alii
+ternos, sed unus ad manum carne connectitur pulchritudinis
+<pb n="0046B"/>
+gratia. Si enim fuisset tribus articulis et ipse
+discretus, foeda et indecora species ademisset manibus
+honestatem.</p>
+<p>
+          <pb n="0047A"/> Jam pectoris latitudo sublimis, et exposita oculis,
+mirabilem prae se fert habitus sui dignitatem. Cujus
+haec causa est, quod videtur hominem solum Deus
+veluti supinum formasse (nam fere nullum aliud animal
+jacere in tergum potest), mutas autem animantes
+quasi alterno latere jacentes finxisse, atque ad terram
+compressisse. Idcirco illis angustum pectus, et
+ab aspectu remotum, et ad terram versus abjectum:
+homini autem patens et erectum; quia plenum rationis
+a coelo datae, humile, aut indecens esse non debuit.
+Papillae quoque leviter eminentes, et fuscioribus
+ac parvis orbibus coronatae, non nihil addunt
+venustatis, foeminis ad alendos foetus datae, maribus
+ad solum decus, ne informe pectus, et quasi mutilum
+videretur. Huic subdita est planities ventris, quam
+<pb n="0047B"/>
+mediam fere umbilicus non indecenti nota signat, ad
+hoc factus, ut per eum foetus, dum est in utero, nutriatur.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XI. <hi>De intestinis in homine, eorumque usu.</hi> </head>
+<p>Sequitur necessario, ut de internis quoque visceribus
+dicere incipiam: quibus non pulchritudo, quia
+sunt abdita, sed utilitas incredibilis attributa est,
+quoniam opus fuerat, ut terrenum hoc corpus succo
+aliquo de cibis ac potibus aleretur, sicut terra ipsa
+imbribus ac pruinis. Providentissimus artifex in medio
+ejus receptaculum cibis fecit, quibus concoctis et
+liquefactis, vitales succos membris omnibus dispertiret.
+Sed cum homo constet ex corpore atque anima,
+illud quod supra dixi receptaculum, soli corpori
+praestat alimentum: animae vero aliam sedem dedit.
+Fecit enim genus quoddam viscerum molle atque
+<pb n="0048B"/>
+rarum, quod pulmonem vocamus, in quod spiritus
+reciproca vicissitudine commearet; eumque non in
+uteri modum finxit, ne effunderetur simul spiritus,
+aut inflaret simul. Ideoque ne plenum quidem viscus
+effecit, sed inflabile, atque aeris capax; ut paulatim
+<pb n="0049A"/>
+ spiritum reciperet, dum vitalis ventus per illam
+spargitur raritatem, et eumdem rursus paulatim redderet,
+dum se ex illo explicat. Ipsa enim vicissitudo
+flandi et spirandi, respirandique tractus, vitam sustentat
+in corpore.</p>
+<p>Quoniam ergo duo sunt in homine receptacula,
+unum aeris, quod alit animam, alterum ciborum,
+quod alit corpus, ut flecti cervix, ac moveri facile
+possit, duas esse per collum fistulas necesse est, cibalem,
+ac spiritalem, quarum superior ab ore ad
+ventrem ferat, inferior a naribus ad pulmonem. Quarum
+ratio, et natura diversa est. Ille enim qui est ab
+ore transitus, mollis effectus est, et qui semper clausus
+cohaereat sibi, sicut os ipsum; quoniam potus,
+et cibus, dimota et patefacta gula, quia corporales
+<pb n="0049B"/>
+sunt, spatium sibi transmeandi faciunt. Spiritus contra,
+qui est incorporalis, ac tenuis, quia spatium
+sibi facere non poterat, accepit viam patentem, quae
+<pb n="0050A"/>
+vocatur gurgulio. Is constat ex ossibus flexuosis ac
+mollibus, quasi ex annulis in cicutae modum invicem
+compactis et cohaerentibus; patetque semper hic
+transitus. Nullam enim requiem meandi habere spiritus
+potest, quia is, qui semper commeat, demissa
+utiliter de cerebro membri portione, cui uva nomen
+est, velut occursu quodam refraenatur, ne aut teneritudinem
+domicilii cum impetu veniens attracta pestilenti
+aura corrumpat, aut totam nocendi violentiam
+internis receptaculis perferat. Ideoque etiam nares
+breviter sunt apertae, quae idcirco sic nominantur,
+quia per eas vel odor, vel spiritus nare non desinit,
+quae sunt hujus fistulae quasi ostia. Tamen haec fistula
+spiritalis non tantum ad nares, verum ad os quoque
+interpatet in extremis palati regionibus, ubi se colles
+faucium spectantes uvam tollere incipiunt in tumorem.
+<pb n="0050B"/>
+Cujus rei causa et ratio non obscura est; loquendi
+enim facultatem non haberemus, si, ut gulae
+iter ad os tantum, ita gurgulio ad nares tantum pateret,
+<pb n="0051A"/>
+ nec procedens ex eo spiritus efficere vocem
+sine linguae ministerio posset.</p>
+<p>Aperuit igitur viam voci divina solertia ex illa
+fistula spiritali, ut posset lingua ministerio suo
+fungi, et vocis ipsius inoffensum tenorem pulsibus
+suis in verba concidere. Qui meatus, si aliquo modo
+interceptus sit, mutum faciat necesse est. Errat enim
+profecto quisquis aliam causam putat, cur homines
+muti sint. Non enim (ut vulgo creditur) vinctam gerunt
+linguam: sed ii vocalem illum spiritum per nares
+quasi mugientes profundunt, quod voci transitus
+ad os aut nullus omnino est, aut non sic patens ut
+plenam vocem possit emittere. Quod plerumque natura
+fit; aliquando etiam casu accidit, ut morbo aliquo
+hic aditus obseptus vocem non transmittat ad
+<pb n="0051B"/>
+linguam, faciatque de loquentibus mutos. Quod cum
+acciderit, auditum quoque obstrui necesse est; ut
+quia vocem emittere non potest, ne admittere quidem
+possit. Loquendi ergo causa patefactus est hic
+meatus. Illud quoque praestat, ut in lavacris celebrandis,
+quia nares calorem ferre non possunt, aer
+fervens ore ducatur; item, si forte spiramenta narium
+frigoris pituita praecluserit, per os auram trahere
+possimus, ne obstructa meandi facultate, spiritus
+stranguletur. Cibi vero in alvum recepti, et cum
+potus humore permixti, cum jam calore percocti fuerint,
+eorum succus inenarrabili modo per membra
+<pb n="0052A"/>
+diffusus, irrigat universum corpus, et vegetat.</p>
+<p>Intestinorum quoque multiplices spirae, ac longitudo
+in se convoluta, et uno tamen substricta vinculo,
+quam mirificum Dei opus est? Nam ubi maceratos ex
+se cibos alvus emiserit, paulatim per illos internorum
+anfractus extruduntur, ut quidquid ipsis inest succi,
+quo corpus alitur, membris omnibus dividatur. Et
+tamen necubi forte obhaereant, ac resistant, quod
+fieri poterat, propter ipsorum voluminum flexiones
+in se saepe redeuntes, et fieri sine pernicie non poterat,
+oblevit ea intrinsecus crassiore succo, ut purgamenta
+illa ventris ad exitus suos facilius per lubricum
+niterentur. Illa quoque ratio subtilissima est,
+quod vesica, cujus usum volucres non habent, cum
+sit ab intestinis separata, nec ullam habeat fistulam,
+<pb n="0052B"/>
+qua ex illis urinam trahat, completur tamen, et humore
+distenditur. Id quomodo fiat, non est difficile
+pervidere, intestinorum enim partes, quae ab alvo cibum
+potumque suspiciunt, patentiores sunt quam
+caeterae spirae, et multo tenuiores. Hae vesicam circumplectuntur,
+et continent: ad quas partes cum
+potus et cibus mixta pervenerint, fimum quidem
+crassius fit, et transmeat, humor autem omnis per
+illam teneritudinem percolatur, eumque vesica, cujus
+aeque tenuis subtilisque membrana est, absorbet, et
+colligit, ut foras, qua natura exitum patefecit, emittat.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XII. <hi>De utero, et conceptione, atque sexibus.</hi> </head>
+<p>De utero quoque et conceptione, quoniam de internis
+loquimur, dici necesse est, ne quid praeterisse
+videamur: quae quanquam in operto latent, sensum
+tamen atque intelligentiam latere non possunt. Vena
+in maribus, quae seminium continet, duplex est,
+paulo interior quam illud humoris obscoeni receptaculum.
+Sicut enim renes duo sunt, ita testes, ita et
+venae seminales duae, in una tamen compage cohaerentes;
+quod videmus in corporibus animalium, cum
+interfecta patefiunt: sed illa dexterior masculinum
+<pb n="0053B"/>
+continet semen, sinisterior foemininum; et omnino
+<pb n="0054A"/>
+in toto corpore pars dextra masculina est, sinistra
+vero foeminina. Ipsum semen quidam putant ex medullis
+tantum, quidam ex omni corpore ad venam
+genitalem confluere, ibique concrescere. Sed hoc, humana
+mens, quomodo fiat, non potest comprehendere.
+Item in foeminis uterus in duas se dividit partes,
+quae in diversum diffusae ac reflexae, circumplicantur,
+sicut arietis cornua. Quae pars in dextram
+retorquetur, masculina est; quae in sinistram foeminina.</p>
+<p>Conceptum igitur Varro et Aristoteles sic fieri arbitrantur.
+Aiunt non tantum maribus inesse semen,
+verum etiam foeminis, et inde plerumque matribus
+<pb n="0054B"/>
+similes procreari: sed earum semen sanguinem esse
+<pb n="0055A"/>
+ purgatum, quod si recte cum virili mixtum sit, utraque
+concreta et simul coagulata informari: et primum
+quidem cor hominis effingi, quod in eo sit et
+vita omnis et sapientia; denique totum opus quadragesimo
+die consummari. Ex abortionibus haec fortasse
+collecta sunt. In avium tamen foetibus primum
+oculos fingi dubium non est, quod in ovis saepe deprehendimus.
+Unde fieri non posse arbitror, quin
+fictio a capite sumat exordium.</p>
+<p>Similitudines autem in corporibus filiorum sic fieri
+putant. Cum semina inter se permixta coalescunt, si
+virile superaverit, patri similem provenire, seu marem,
+<pb n="0055B"/>
+seu foeminam; si muliebre praevaluerit, progeniem
+<pb n="0056A"/>
+cujusque sexus ad imaginem respondere maternam.
+Id autem praevalet e duobus, quod fuerit uberius;
+alterum enim quodammodo amplectitur et includit:
+hinc plerumque fieri, ut unius tantum lineamenta
+praetendat. Si vero aequa fuerit ex pari semente permixtio,
+figuras quoque misceri; ut soboles illa communis,
+aut neutrum referre videatur, quia totum ex
+altero non habet, aut utrumque, quia partem de singulis
+mutuata est. Nam in corporibus animalium videmus,
+aut confundi parentum colores, ac fieri tertium
+neutri generantium simile; aut utriusque sic exprimi,
+ut discoloribus membris per omne corpus concors mixtura
+<pb n="0056B"/>
+varietur. Dispares quoque naturae hoc modo
+<pb n="0057A"/>
+ fieri putantur. Cum forte in laevam uteri partem masculinae
+stirpis semen inciderit, marem quidem gigni
+opinatio est; sed quia sit in foeminina parte conceptus,
+aliquid in se habere foemineum, supra quam decus
+virile patiatur; vel formam insignem, vel nimium
+candorem, vel corporis levitatem, vel artus delicatos,
+vel staturam brevem, vel vocem gracilem, vel animum
+imbecillum, vel ex his plura. Item, si partem in
+dextram semen foeminini sexus influxerit, foeminam
+quidem procreari: sed quoniam in masculina parte
+concepta sit, habere in se aliquid virilitatis, ultra
+quam sexus ratio permittat; aut valida membra, aut
+immoderatam longitudinem, aut fuscum colorem, aut
+hispidam faciem, aut vultum indecorum, aut vocem
+robustam, aut animum audacem, aut ex his plura.</p>
+<p>Si vero masculinum in dexteram, foemininum in
+<pb n="0057B"/>
+sinistram pervenerit, utrosque foetus recte provenire;
+ut et foeminis per omnia naturae suae decus constet, et
+maribus tam mente, quam corpore robur virile servetur.
+Istud vero ipsum quam mirabile institutum
+Dei, quod ad conservationem generum singulorum,
+duos sexus maris ac foeminae machinatus est; quibus
+inter se per voluptatis illecebras copulatis, successiva
+soboles pareretur, ne omne genus viventium conditio
+mortalitatis extingueret. Sed plus roboris maribus attributum
+est, quo facilius ad patientiam jugi maritalis
+foeminae cogerentur. Vir itaque nominatus est, quod
+major in eo vis est, quam in foemina; et hinc
+virtus nomen accepit. Item mulier (ut Varro interpretatur)
+<pb n="0057C"/>
+a mollitie, immutata et detracta littera,
+<pb n="0058A"/>
+velut mollier; cui suscepto foetu, cum partus appropinquare
+jam coepit, turgescentes mammae dulcibus
+succis distenduntur, et ad nutrimenta nascentis fontibus
+lacteis foecundum pectus exuberat. Nec enim
+decebat aliud quam ut sapiens animal a corde alimoniam
+duceret. Idque ipsum solertissime comparatum
+est, ut candens ac pingui humor teneritudinem
+novi corporis irrigaret, donec ac capiendos fortiores
+cibos, et dentibus instruatur, et viribus roboretur.
+Sed redeamus ad propositum, ut caetera, quae supersunt
+breviter explicemus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIII. <hi>De Membris inferioribus.</hi> </head>
+<p>Poteram nunc ego ipsorum quoque genitalium
+<pb n="0058B"/>
+membrorum mirificam rationem tibi exponere, nisi
+me pudor ab hujusmodi sermone revocaret: itaque
+a nobis indumento verecundiae, quae sunt pudenda
+velentur. Quod ad hanc rem attinet, queri satis est
+homines impios, ac profanos, summum nefas admittere,
+qui divinum et admirabile Dei opus, ad propagandam
+successionem inexcogitabili ratione provisum
+et effectum, vel ad turpissimos quaestus, vel ad obscoenae
+libidinis pudenda opera convertunt; ut jam
+nihil aliud ex re sanctissima petant, quam inanem et
+sterilem voluptatem. Quid reliquae corporis partes,
+num carent ratione, ac pulchitudine? Conglobata in
+nates caro, quam sedendi officio apta! et eadem firmior,
+quam in caeteris membris, ne premente corporis
+<pb n="0058C"/>
+mole ossibus cederet. Item foeminum deducta, et latioribus
+<pb n="0059A"/>
+ toris valida longitudo, quo facilius onus corporis
+sustineret: quam paulatim deficientem in angustum
+genua determinant, quorum decentes nodi
+flexuram pedibus, ad gradiendum sedendumque aptissimam,
+praebent. Item crura non aequali modo
+ducta, ne indecens habitudo deformaret pedes, sed
+teretibus suris clementer extantibus, sensimque tenuatis,
+et firmata sunt et ornata.</p>
+<p>In plantis vero eadem quidem, sed tamen longe
+dispar, quam in manibus ratio est: quae quoniam
+totius corporis quasi fundamenta sunt, mirificus eas
+artifex non rotunda specie, ne homo stare non posset,
+aut aliis ad standum pedibus indigeret, sicut
+quadrupedes, sed porrectiores, longioresque formavit,
+ut stabile corpus efficerent planitie sua; unde
+<pb n="0059B"/>
+illis inditum nomen est. Digiti aeque totidem, quot in
+manibus, speciem magis, quam usum majorem praeferentes,
+ideoque et juncti, et breves, et gradatim
+compositi: quorum qui est maximus, quoniam illum
+sicut in manu discerni a caeteris opus non erat, ita
+in ordinem redactus est, ut tamen ab aliis magnitudine,
+<pb n="0060A"/>
+ac modico intervallo distare videatur. Haec eorum
+speciosa germanitas, non levi adjumanto nisum
+pedum firmat; concitari enim ad cursum non possumus
+nisi, digitis in humum pressis soloque nitentibus,
+impetum saltumque capiamus. Explicasse videor
+omnia, quorum ratio intelligi potest. Nunc ad
+ea venio, quae vel dubia vel obscura sunt.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIV. <hi>De intestinorum quorumdam ignota ratione.</hi> </head>
+<p>Multa esse constat in corpore, quorum vim, rationemque
+perspicere nemo, nisi qui fecit, potest. An
+aliquis enarrare se putat posse quid utilitatis, quid
+effectus habeat tenuis membrana illa perlucens, qua
+circumretitur alvus, ac tegitur? Quid renum gemina
+<pb n="0060B"/>
+similitudo? quos ait Varro ita dictos, quod rivi ab
+his obscoeni humoris oriantur: quod est longe secus,
+quia spinae altrinsecus supini cohaerent, et sunt ab intestinis
+separati. Quid splen? quid jecur? quae viscera
+quasi ex conturbato sanguine videntur esse concreta:
+quid fellis amarissimus liquor? quid globus cordis?
+<pb n="0061A"/>
+ Nisi forte illis credendum putabimus, qui affectum
+iracundiae in felle constitutum putant, pavoris in
+corde, in splene laetitiae. Ipsius autem jecoris officium
+volunt esse, ut cibos in alvo concoquat amplexu et
+calefactu suo: quidam libidines rerum venerearum
+in jecore contineri arbitrantur.</p>
+<p>Primum ista perspicere acumen humani sensus non
+potest, quia horum officia in operto latent, nec usus
+suos patefacta demonstrant. Nam si ita esset, fortasse
+placidiora quaeque animalia, vel nihil fellis omnino,
+vel minus haberent, quam ferae; timidiora plus cordis,
+salaciora plus jecoris, lasciviora plus splenis
+habuissent. Sicuti igitur nos sentimus audire auribus,
+oculis cernere, naribus odorare: ita profecto sentiremus,
+nos felle irasci, jecore cupere, splene gaudere.
+Cum autem, unde affectus isti veniant, minime sentiamus,
+<pb n="0061B"/>
+fieri potest, et aliunde veniant, et aliud viscera
+illa, quam suspicamur, efficiant. Nec tamen
+convincere possumus, falsa illos, qui haec disputant,
+<pb n="0062A"/>
+dicere. Sed omnia, quae ad motus animi animaeque
+pertineant, tam obscurae altaeque rationis esse arbitror,
+ut supra hominem sit, ea liquido pervidere. Id
+tamen certum et indubitatum esse debet, tot res, tot
+viscerum genera, unum et idem habere officium, ut
+animam contineant in corpore. Sed quid proprie muneris
+singulis sit injunctum, quis scire, nisi artifex,
+potest, cui soli opus suum notum est?
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XV. <hi>De Voce.</hi> </head>
+<p>De voce autem quam rationem reddere possumus?
+Grammatici quidem ac philosophi vocem esse definiunt,
+aerem spiritu verberatum: unde verba sunt nuncupata,
+quod perspicue falsum est. Non enim vox
+extra os gignitur, sed intra; et ideo verisimilior est
+<pb n="0062B"/>
+illa sententia, stipatum spiritum, cum obstantia faucium
+fuerit illisus, sonum vocis exprimere: veluti
+cum in patentem cicutam, labroque subjectam demittimus
+
+<pb n="0063A"/>
+ spiritum, et is cicutae concavo repercussus ac
+revolutus a fundo, dum ad descendentem occursu suo
+redit, ad exitum nitens, sonum gignit, et in vocalem
+spiritum resiliens per se ventus animatur. Quod quidem
+an verum sit, Deus artifex viderit. Videtur enim
+non ab ore, sed ab intimo pectore vox oriri. Denique
+et ore clauso, ex naribus emittitur sonus qualis potest.
+Praeterea et maximo spiritu, quo anhelamus, vox
+non efficitur, et levi, et non coarctato spiritu, quoties
+volumus, efficitur. Non est igitur comprehensum,
+quemodo fiat, aut quid sit omnino. Nec me
+nunc in Academiae sententiam delabi putes, quia
+non omnia sunt incomprehensibilia. Ut enim fatendum
+est multa nesciri, quae voluit Deus intelligentiam
+hominis excedere: sic tamen multa esse, quae
+<pb n="0063B"/>
+possint et sensibus percipi, et ratione comprehendi.
+Sed erit, nobis contra philosophos integra disputatio.
+Conficiamus igitur spatium, quod nunc decurrimus.</p>
+</div2>
+
+<div2>
+        <head> CAPUT XVI. <hi>De mente, et ejus sede.</hi> </head>
+<p>Mentis quoque rationem incomprehensibilem esse
+quis nesciat, nisi qui omnino illam non habet, cum
+ipsa mens quo loco sit, aut cujusmodi, nesciatur?
+Varia ergo a philosophis de natura ejus ac loco disputata
+sunt. At ego non dissimulabo, quid ipse sentiam;
+non quia sic esse affirmem (quod est insipientis
+in re dubia facere), sed ut exposita rei difficultate,
+intelligas, quanta sit divinorum operum magnitudo.
+Quidam sedem mentis in pectore esse voluerunt.
+Quod si ita est, quanto tandem miraculo dignum
+est, rem in obscuro ac tenebroso habitaculo
+sitam, in tanta rationis atque intelligentiae luce versari?
+<pb n="0064B"/>
+tum quod ad eam sensus ex omni corporis parte
+conveniunt, ut in qualibet regione membrorum praesens
+esse videatur. Alii sedem ejus in cerebro esse
+<pb n="0065A"/>
+ dixerunt. Et sane argumentis probabilibus usi sunt:
+oportuisse scilicet, quod totius corporis regimen haberet
+potius in summo, tamquam in arce habitare; nec
+quidquam esse sublimius, quam id, quod universum
+ratione moderetur, sicut ipse mundi dominus et
+rector in summo est. Deinde quod sensus omnis, id
+est audiendi, et videndi, et odorandi ministra membra
+in capite sint locata, quorum omnium viae non ad
+pectus, sed ad cerebrum ferant: alioqui necesse nos
+esset tardius sentire, donec sentiendi facultas longo
+itinere per collum ad pectus usque descenderet. Ii vero
+aut non multum, aut fortasse non errant.</p>
+<p>Videtur enim mens, quae dominatum corporis tenet,
+in summo capite constituta, tamquam in coelo Deus:
+sed cum in aliqua sit cogitatione, commeare ad pectus,
+<pb n="0065B"/>
+et quasi ad secretum aliquod penetrale secedere,
+ut consilium, tamquam ex thesauro recondito, eliciat
+ac proferat; ideoque cum intenti ad cogitandum
+sumus, et cum mens occupata in altum se abdiderit,
+neque audire quae circumsonant, neque videre, quae
+obstant, solemus. Id vero sive ita est, admirandum
+profecto est, quomodo id fiat, cum ad pectus ex cerebro
+nullum iter pateat. Sin autem non est ita, tamen
+nihilominus admirandum est, quod divina nescio qua
+ratione fiat, ut ita esse videatur. An potest aliquis
+non admirari, quod sensus ille vivus atque coelestis,
+qui mens, vel animus nuncupatur, tantae mobilitatis
+est, ut ne tum quidem, cum sopitus est, conquiescat;
+<pb n="0065C"/>
+tantae celeritatis, ut uno temporis puncto coelum
+<pb n="0066A"/>
+omne collustret, et si velit, maria pervolet, terras, ac
+urbes peragret, omnia denique, quae libuerit, quamvis
+longe lateque summota sint, in conspectu sibi ipse
+constituat.</p>
+<p>Et miratur aliquis, si divina mens Dei per universas
+mundi partes intenta discurrit, et omnia regit,
+omnia moderatur, ubique praesens, ubique diffusa;
+cum tanta sit vis ac potestas mentis humanae intra
+mortale corpus inclusae ut ne septis quidem gravis
+hujus ac pigri corporis, cui alligata est, coerceri ullo
+pacto possit, quominus sibi liberam vagandi facultatem,
+quietis impatiens, largiatur? Sive igitur in
+capite mens habitat, sive in pectore, potestne aliquis
+comprehendere, quae vis rationis efficiat, ut sensus
+ille incomprehensibilis aut in medulla cerebri haereat,
+<pb n="0066B"/>
+aut in illo sanguine bipartito, qui est inclusus in
+corde? ac non ex eo ipso colligat, quanta sit Dei potestas,
+quod animus se ipsum non videt, aut qualis,
+aut ubi sit; nec si videat, tamen perspicere possit, quo
+pacto rei corporali res incorporalis adjuncta sit? Sive
+etiam mentis locus nullus est, sed per totum corpus
+sparsa discurrit, quod et fieri potest, et a Xenocrate
+Platonis discipulo disputatum est, siquidem sensus
+in qualibet parte corporis praesto est, nec quid sit
+mens ista, nec qualis, intelligi potest, cum sit natura
+ejus tam subtilis ac tenuis, ut solidis visceribus infusa,
+vivo, et quasi ardenti sensu, membris omnibus
+misceatur.</p>
+<p>
+          <pb n="0066C"/>Illud autem cave, ne unquam simile veri putaveris,
+<pb n="0067A"/>
+ quod Aristoxenus dixit: Mentem omnino nullam esse,
+sed quasi harmoniam in fidibus, ex constructione
+corporis, et compagibus viscerum vim sentiendi existere.
+Musici enim intentionem concentumque nervorum
+in integros modos, sine ulla offensione consonantium,
+harmoniam vocant. Volunt igitur animum
+simili ratione constare in homine, qua et concors
+modulatio constat in fidibus; scilicet, ut singularum
+corporis partium firma conjunctio, membrorumque
+omnium consentiens in unum vigor, motum illum
+sensibilem faciat, animumque concinnet, sicut sunt
+nervi bene intenti ad conspirantem sonum. Et sicut
+in fidibus, cum aliquid aut interruptum, aut relaxatum
+est, omnis canendi ratio turbatur, et solvitur: ita in
+corpore, cum pars aliqua membrorum duxerit vitium,
+destrui universa, corruptisque omnibus atque turbatis,
+<pb n="0067B"/>
+occidere sensum, eamque mortem vocari. Verum ille,
+si quidquam mentis habuisset, non harmoniam de fidibus
+ad hominem transtulisset. Non enim canere
+sua sponte fides possunt, ut sit ulla in his comparatio
+ac similitudo viventis. Animus autem sua sponte et
+cogitat, et movetur. Quod si quid in nobis harmoniae
+simile esset, ictu moveretur externo, sicut nervi
+manibus, qui sine tactu artificis pulsuque digitorum,
+muti atque inertes jacent. Sed nimirum pulsandus ille
+manu fuit, ut aliquando sentiret; quia mens ejus ex
+membris male compacta torpebat.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XVII. <hi>De Anima, deque ea sententia philosophorum.</hi> </head>
+<p>Superest de anima dicere; quamquam percipi ratio
+ejus et natura non possit. Nec ideo tamen immortalem
+esse animam non intelligimus; quoniam quidquid
+viget, moveturque per se semper, nec videri, aut
+tangi potest, aeternum sit necesse est. Quid autem sit
+anima, nondum inter philosophos convenit, nec unquam
+fortasse conveniet. Etenim alii sanguinem esse
+dixerunt, alii ignem, alii ventum; unde anima, vel
+animus nomen accepit, quod Graece ventus <foreign xml:lang="greek">ἄνεμος</foreign> dicitur;
+nec illorum tamen quisquam dixisse aliquid videtur.
+Non enim, si anima sanguine aut per vulnus
+effuso, aut febrium calore consumpto, videtur extingui,
+continuo in materia sanguinis animae ratio ponenda
+<pb n="0068B"/>
+est: veluti si veniat in quaestionem, lumen quo
+utimur, quid sit, et respondeatur oleum esse, quoniam
+consumpto illo, lumen extinguitur; cum sint
+utique diversa, sed alterum sit alterius alimentum.
+Videtur ergo anima similis esse lumini, quae non ipsa
+sit sanguis, sed humore sanguinis alatur, ut lumen
+oleo.</p>
+<p>Qui autem ignem putaverunt, hoc usi sunt argumento,
+quod praesente anima corpus caleat, recedente
+frigescat. Sed ignis et sensu indiget, et videtur,
+et tactu comburit. Anima vero et sensu aucta est, et
+<pb n="0069A"/>
+ videri non potest, et non adurit. Unde apparet, animam
+nescio quid esse Deo simile. At illi, qui ventum
+putant, hoc falluntur, quod ex aere spiritum ducentes,
+vivere videamur. Varro ita definit: <hi> « Anima est aer
+conceptus ore, tepefactus in pulmone, fervefactus in
+corde, diffusus in corpus. » </hi> Haec apertissime falsa sunt.
+Neque enim tam obscuram nobis hujusmodi dico esse
+rationem, ut ne hoc quidem intelligamus, quid verum
+esse non possit. An si mihi quis dixerit, aeneum
+esse coelum, aut vitreum, aut, ut Empedocles ait,
+aerem glaciatum, statimne assentiar, quia coelum ex
+qua materia sit ignorem? sicut enim hoc nescio,
+ita illud scio. Anima ergo non est aer ore conceptus,
+quia multo prius gignitur anima, quam concipi aer
+ore possit. Non enim post partum insinuatur in corpus,
+<pb n="0069B"/>
+ut quibusdam philosophis videtur, sed post
+conceptum protinus, cum foetum in utero necessitas
+divina formavit; quia adeo vivit intra viscera genitricis,
+ut et incremento augeatur, et crebris pulsibus
+gestiat emicare. Denique abortum fieri necesse est,
+si fuerit animal intus extinctum. Caeterae definitionis
+partes eo spectant, ut illis novem mensibus, quibus
+<pb n="0070A"/>
+in utero fuimus, mortui fuisse videamur. Nulla ergo
+ex his tribus vera sententia est. Nec tamen in tantum
+falsos esse dicendum est, qui haec senserunt,
+ut omnino nihil dixerint; nam et sanguine simul, et
+calore, et spiritu vivimus. Sed cum constet anima
+in corpore his omnibus adunatis, non expresserunt
+proprie quid esset, quia tam non potest exprimi,
+quam videri.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVIII. <hi>De anima et animo, eorumque affectionibus.</hi> </head>
+<p>Sequitur alia, et ipsa inextricabilis quaestio:
+idemne sit anima, et animus; an vero aliud sit illud,
+quo vivimus, aliud autem, quo sentimus et sapimus.
+Non desunt argumenta in utramque partem. Qui
+<pb n="0070B"/>
+enim unum esse dicunt, hanc rationem sequuntur,
+quod neque vivi sine sensu possit, neque sentiri
+sine vita; ideoque non posse esse diversum id,
+quod non potest separari, sed quidquid est illud,
+et vivendi officium, et sentiendi habere rationem.
+Idcirco animum et animam indifferenter appellant
+duo Epicurei poetae. Qui autem dicunt esse diversa,
+<pb n="0071A"/>
+ sic argumentantur: ex eo posse intelligi, aliud esse
+mentem, aliud animam, quia incolumi anima mens
+possit extingui, quod accidere soleat insanis; item,
+quod anima morte sopiatur, animus somno, et quidem
+sic, ut non tantum, quid fiat, aut ubi sit,
+ignoret, sed etiam rerum falsarum contemplatione
+fallatur. Quod ipsum quomodo fiat, non potest pervideri;
+cur fiat, potest. Nam requiescere nullo pacto
+possumus, nisi mens visionum imaginibus occupata
+teneatur. Latet autem mens oppressa somno,
+tamquam ignis obducto cinere sopitus, quem si paululum
+commoveris, rursus ardescit, et quasi evigilat.
+Avocatur ergo simulacris, donec membra sopore
+irrigata vegetentur; corpus enim, vigilante
+sensu, licet jaceat immobile, tamen non est quietum,
+<pb n="0071B"/>
+quia flagrat in eo sensus, et vibrat, ut flamma,
+et artus omnes ad se adstrictos tenet.</p>
+<p>Sed postquam mens ad contemplandas imagines
+ab intentione traducta est, tunc demum corpus omne
+resolvitur in quietem. Traducitur autem mens cogitatione
+caeca, cum cogentibus tenebris secum tantummodo
+esse coeperit: dum intenta est in ea, de
+<pb n="0072A"/>
+quibus cogitat, repente somnus obrepit, et in species
+proximas sensim ipsa cogitatio declinat: sic ea,
+quae sibi ante oculos posuerat, videre quoque incipit.
+Deinde procedit ulterius, et sibi avocamenta
+invenit, ne saluberrimam quietem corporis interrumpat.
+Nam ut mens per diem veris visionibus avocatur,
+ne obdormiat, ita falsis nocte, ne excitetur.
+Nam si nullas imagines cernat, aut vigilare illam
+necesse erit, aut perpetua morte sopiri. Dormiendi
+ergo causa tributa est a Deo ratio somniandi; et quidem
+in commune universis animantibus: sed illud
+homini praecipue, quod cum eam rationem Deus
+quietis causa daret, facultatem sibi reliquit docendi
+hominem futura per somnium. Nam et historiae saepe
+testantur extitisse somnia, quorum praesens et admirabilis
+<pb n="0072B"/>
+fuerit eventus; et responsa vatum nostrorum
+ex parte somnii constiterunt. Quare neque semper
+vera sunt, neque semper falsa, Virgilio teste,
+qui duas portas voluit esse somniorum. Sed quae falsa
+sunt, dormiendi causa videntur; quae vera, immittuntur
+a Deo, ut imminens bonum aut malum
+hac revelatione discamus.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XIX. <hi>De anima, eaque a Deo data.</hi> </head>
+<p>Illud quoque venire in quaestionem potest, utrumne
+anima ex patre, an potius ex matre, an vero ex utroque
+generetur. Sed ego id in eo jure ab ancipiti vendico.
+Nihil enim ex his tribus verum est, quia neque
+ex utroque, neque ex alterutro seruntur animae. Corpus
+enim ex corporibus nasci potest, quoniam confertur
+aliquid ex utroque; de animis anima non potest,
+quia ex re tenui et incomprehensibili nihil potest decedere.
+Itaque serendarum animarum ratio uni ac
+soli Deo subjacet.
+<l>Denique, coelesti sumus omnes semine oriundi:</l>
+<l>Omnibus ille idem pater est,</l>
+
+<pb n="0073B"/>
+ut ait Lucretius. Nam de mortalibus non potest quidquam
+nisi mortale generari. Nec putari pater debet,
+qui transfudisse, aut inspirasse animam de suo nullo
+modo sentit; nec, si sentiat, quando tamen, aut
+quomodo id fiat, habet animo comprehensum.</p>
+<p>Ex quo apparet, non a parentibus dari animas,
+sed ab uno eodemque omnium Deo patre, qui legem
+rationemque nascendi tenet solus, siquidem solus efficit.
+Nam terreni parentis nihil est, nisi ut humorem
+<pb n="0074A"/>
+corporis, in quo est materia nascendi, cum sensu voluptatis
+emittat, vel recipiat; et citra hoc opus homo
+resistit, nec amplius quidquam potest: et ideo nasci
+sibi filios optant, quia non ipsi faciunt. Caetera jam
+Dei sunt omnia, scilicet conceptus ipse, et corporis
+informatio, et inspiratio animae, et partus incolumis,
+et quaecumque deinceps ad hominem conservandum
+valent; illius munus est, quod spiramus, quod vivimus,
+quod vigemus. Nam praeterquam quod ipsius
+beneficio incolumes sumus corpore, et quod victum
+nobis ex variis rebus subministrat, sapientiam quoque
+homini tribuit, quam terrenus pater dare nullo modo
+potest. Ideoque et de sapientibus stulti, et de stultis
+sapientes saepe nascuntur; quod quidam fato, ac sideribus
+assignant. Sed non est nunc locus de fato disserendi.
+<pb n="0074B"/>
+Hoc dicere satis est, quod etiamsi astra efficientiam
+rerum continent, nihilominus a Deo omnia
+fieri certum est, qui astra ipsa et fecit, et ordinavit.
+Inepti ergo, qui hanc potestatem Deo detrahunt, et
+operi ejus attribuunt.</p>
+<p>Hoc igitur Dei munere coelesti atque praeclaro, an
+utamur, an non utamur, in nostra esse voluit potestate.
+Hoc enim concesso, ipsum hominem virtutis sacramento
+religavit, quo vitam posset adipisci. Magna
+<pb n="0075A"/>
+ est enim vis hominis, magna ratio, magnum sacramentum:
+a quo si quis non defecerit, nec fidem suam
+devotionemque prodiderit; hic beatus, hic denique
+(ut breviter finiam) similis Deo sit necesse est. Errat
+enim quisquis hominem carne metitur. Nam corpusculum
+hoc, quo induti sumus, hominis receptaculum
+est. Nam ipse homo neque tangi, neque aspici,
+neque comprehendi potest, quia latet intra hoc quod videtur.
+Qui si delicatus magis ac tener in hac vita fuerit,
+quam ratio ejus exposcit, si virtute contempta, desideriis
+se carnis addixerit, cadet, et premetur in terram.
+Sin autem (ut debet) statum suum, quem rectum
+recte sortitus est, prompte constanterque defenderit,
+<pb n="0076A"/>
+si terrae, quam calcare ac vincere debet, non
+servierit, vitam merebitur sempiternam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX. <hi>De seipso, et veritate.</hi> </head>
+<p>Haec ad te, Demetriane, interim paucis, et obscurius
+fortasse quam decuit, pro rerum ac temporis
+necessitate peroravi; quibus contentus esse debebis,
+plura, et meliora laturus, si nobis indulgentia coelitus
+venerit. Tunc ergo te ad verae philosophiae doctrinam,
+et planius, et verius cohortabor. Statui enim,
+quam multa potero, litteris tradere, quae ad vitae
+beatae statum spectent; et quidem contra philosophos,
+<pb n="0077A"/>
+ quoniam sunt ad perturbandam veritatem perniciosi
+et graves. Incredibilis enim vis eloquentiae, et
+argumentandi disserendique subtilitas, quemvis facile
+deceperit: quos partim nostris armis, partim vero
+ex ipsorum inter se concertatione sumptis revincemus;
+ut appareat, eos induxisse potius errorem,
+quam sustulisse.</p>
+<p>Fortasse mireris, quod tantum facinus audeam.
+Patiemurne igitur extingui, aut opprimi veritatem?
+Ego vero libentius vel sub hoc onere defecerim. Nam
+si Marcus Tullius, eloquentiae ipsius unicum exemplar,
+ab indoctis et ineloquentibus, qui tamen pro
+vero nitebantur, saepe superatus est, cur desperemus
+veritatem ipsam contra fallacem captiosamque facundiam
+sua propria vi et claritate valituram? Illi quidem
+<pb n="0078A"/>
+sese patronos veritatis profiteri solent: sed quis
+potest eam rem defendere, quam non didicit, aut illustrare
+apud alios, quod ipse non novit? Magnum
+videor polliceri: sed coelesti opus est munere, ut
+nobis facultas ac tempus ad proposita persequenda
+tribuatur. Quod si vita est optanda sapienti, profecto
+nullam aliam ob causam vivere optaverim, quam ut
+aliquid efficiam quod vita dignum sit, et quod utilitatem
+legentibus, etsi non ad eloquentiam, quia tenuis
+in nobis facundiae rivus est ad vivendum tamen
+afferat: quod est maxime necessarium. Quo perfecto,
+satis me vixisse arbitrabor, et officium hominis implesse,
+si labor meus aliquos homines ab erroribus
+liberatos ad iter coeleste direxerit.
+
+</p>
+      </div2>
+</body>
+  </text>
+</TEI>

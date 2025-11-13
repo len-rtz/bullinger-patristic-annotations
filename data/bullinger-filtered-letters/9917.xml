@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9917" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johann Konrad Ulmer (von Ulm, ab Ulmis)] / [Schaffhausen] an Heinrich Bullinger, 21. März 1575</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/9917</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="45015" type="transcription">S. 8383/17</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 377,2649</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Cum forte fortuna in hunc tabellionem inciderem ... volui saltem uno atque altero verbo tibi et symmystis dicere salutem</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8109" cert="low"/>
+					<placeName ref="l441" cert="low"/>
+					<date when="1575-03-21" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t9"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9917!Autograph!00%20E_II_377__fol__2649_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">9917/Autograph/00 E_II_377__fol__2649_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9917!Autograph!01%20E_II_377__fol__2649_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">9917/Autograph/01 E_II_377__fol__2649_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Cum forte fortuna in hunc tabellionem inciderem, clarissime vir et pater in Christo colendissime, volui saltem uno atque altero verbo tibi et symmystis dicere salutem, licet tabellarius, quem dixi, admodum festinaret.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Accepi Apologiam vestram,<note type="margin">a.R.: HBB... I 587 - 588.</note> Germanice a te et Latine a domino <persName ref="p8442">Simlero</persName>, et gratias quam potui maximas pro hoc munere mihi gratissimo utrique egi per literas ad filium tuum d. <persName ref="p487">Henricum</persName> 10. huius mensis datas.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">In iis et solicitudinem meam ingentem pro valetudine tua ostendi, qua ne nunc quidem liberatus per omnia sum, licet audiam aliquanto te nunc quam tum temporis melius habere, deum per Christum Iesum cum fratribus et amicis incessanter summis gemitibus invocans, ut diutius, si ipsius voluntati visum fuerit, te nobis et imprimis ecclesiae suae incolumem conservetque vitamque proroget.</s>
+					<s n="5" xml:lang="la">Accepi tandem <placeName ref="l28">Basilaea</placeName> exempla <persName ref="p18346">Theodoreti</persName> nostri et significandae saltem animi mei voluntatis gratia in te et clarissimos doctissimosque viros mitto quatuor, quae meo nomine iis, quibus pertinent, ut distribuas, oro.</s>
+					<s n="6" xml:lang="la">Composueram duplicem etiam indicem in dialogos, quem a me petierat typographus; at angustia temporis exclusus hoc tempore apprimere libro non potuit promittens se appressurum, si quaedam exempla post nundinas superfuerint aut de novo iterum liber excudendus videatur.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Vos singulos reverenter oro, ut tenui hoc meo munusculo satisfieri vobis patiamini, interimque summa mea vobis officia defero.</s>
+					<s n="8" xml:lang="la">Plura propter nuncii festinationem addere non possum.</s>
+					<s n="9" xml:lang="la" ana="salute">Quare domino te tuosque commendo rogans, ut omnes collegas tuos meo et fratrum nomine reverenter et amanter salutare digneris.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" ana="farewell">Vale.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Datum raptim 21. martii 1575.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Tuae humanitatis studiosissimus <persName ref="p8109">Iohannes Conradus Ulmerus</persName>.</s>
+					<s n="13" xml:lang="la">Clarissimo viro atque eximio Iesu Christo servo domino <persName ref="p495">Heinrycho Bullingero</persName> seniori, ecclesiae <placeName ref="l587">Tigurinae</placeName> antistiti fidelissimo, domino et patri suo in Christo colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8210" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an [Nicolas Des Gallars], 18. März 1570</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/8210</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="40026" type="transcription">S. 7488/36</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 342,588</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Amo te merito ... quem experior diligentissime fidellissimeque amicitiam semel initam</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Bouvier, 1940, S. 532-534, frz. Ü.: 332-334</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+					<date when="1570-03-18" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p966" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8210!Autograph!00%20E_II_342__fol__588_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">8210/Autograph/00 E_II_342__fol__588_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8210!Autograph!01%20E_II_342__fol__588_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">8210/Autograph/01 E_II_342__fol__588_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Amo te merito vir clarissime idemque domine honorande et frater in Christo charissime, quem experior diligentissime fidelissimeque amicitiam semel initam retinere atque colere.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Quae tu mihi narras, acta sunt ante annos plurimos, et tamen haerent illa animo tuo adhuc tenacissima.</s>
+					<s n="4" xml:lang="la">Quo quidem nomine et pro munere nunc quoque a te mihi misso singulari exoptatissimoque <persName>Irenaeo</persName>, quam maximas humanitati tuae ago gratias.</s>
+					<s n="5" xml:lang="la">Diu iam exoptavi in tanta eruditorum et piorum virorum multitudine exoriri aliquem, qui hoc conari incipiat, quod te iam praestitisse in Irenaeo doctore ecclesiae sanctissimo non tantum cum laetitia video, sed, ut aequum est, quam maxime in te laudo.</s>
+					<s n="6" xml:lang="la">Dominus pro hoc tuo labore sancto et utili rependat tibi in die illo viresque adaugeat, ut possis nobis alios quoque scriptores veteres ad eum modum quo <persName>Irenaeum</persName> illustratos dare et inprimis <persName>Iustinum</persName> martyrem per te in Latinam linguam translatum Graeca e regione apposita, qui aliquanto tempore Irenaeum antecessit omniumque eorum, qui hodie extant, vetustissimus esse videtur.</s>
+					<s n="7" xml:lang="la">Cui <persName>Ignatii</persName> quoque epistolas, (a. R. epistolae?) quae Graece hic quoque sunt impressae, una cum epistola S.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Polycarpi, quam Latinam dumtaxat vidi, adiungi vellem, si non viderentur eis plurima a temerariis inserta hominibus, quae falsi redarguit ipsa temporum ratio; verum annotationibus aut scholiis additis hoc malum curari per te posset.</s>
+					<s n="9" xml:lang="la">In <persName ref="p17746">Tertulliano</persName>, scriptore longe doctissimo et utilissimo feliciter laboravit b[eatae] m[emoriae] <persName ref="p6211">Beatus Rhenanus</persName>, vir eruditissimus pariter et diligentissimus; verum a morte eius in <placeName ref="l830">Anglia</placeName> et aliis locis libri aliquot reperti et <placeName ref="l28">Basileae</placeName> una cum illis sunt impressi, quos ille nobis dedit, qui videntur censura et scholiis indigere multo magis quam priores illi; sunt enim in his quos S. Hieronymus refert scriptos esse contra ecclesiam.</s>
+					<s n="10" xml:lang="la">In qua re non parum te posse ex annotationibus <persName>Irenaei</persName> colligo.</s>
+					<s n="11" xml:lang="la">Unde tuam operam te <persName ref="p17746">Tertulliano</persName> quoque impendere cuperem, sic tamen, ne <placeName>Rhenani</placeName> omitterentur, sed coniungerentur cum tuis.</s>
+					<s n="12" xml:lang="la"><persName>Clementem Alexandrinum</persName> vel ego non intelligo vel lectio eius studiosis theologiae parum videtur conducere.</s>
+					<s n="13" xml:lang="la">Illis temporibus, quibus scripsit, non inutilis fuit, nec putarem illum vel propter vetustatem et variam eruditionem praetereundum.</s>
+					<s n="14" xml:lang="la">Maximi fecit eius labores <persName>Eusebius</persName>, neque vero aut <persName>Arnobius</persName> aut <persName ref="p19001">Lactantius</persName> videtur negligendus.</s>
+					<s n="15" xml:lang="la">Laboravit feliciter <persName>Ioannes Ludovicus</persName> Vives in libris <persName>S. Augustini</persName> De civitate dei explanandis, cuius diligentia in Arnobio explicando scholiis utilis esse posset, coniungendique in unum codicem viderentur Arnobius et <persName ref="p19001">Lactantius</persName> sicuti et Ignatius et Iustinus.</s>
+					<s n="16" xml:lang="la">Verum tu his longe praestantiora apud te dudum concepisti.</s>
+					<s n="17" xml:lang="la">Dominus concedat tibi progressum felicissimum.</s>
+					<s n="18" xml:lang="la">Quid vero iudicium meum de tuis in <persName>Irenaeum</persName> laboribus a me petis, ampliora nimirum tibi de me polliceris, quam ipse possim praestare.</s>
+					<s n="19" xml:lang="la">Non is sum, qui de tuis illis sanctis et doctis lucubrationibus censoriam mihi sumere debeo virgulam; interim tamen ingenue fateor probari mihi tuum istum laborem.</s>
+					<s n="20" xml:lang="la">Praefatio docta est et utilis; ipsum vero opus totum praefixis capitum singulorum argumentis pulchre est illustratum, ut ex his tantum fructum diligens lector assequi possit, quantum alias ex verbosissimis commentariis... Annotationes plurima alioqui obscura reddunt lucida, et quae minus expensa noxia fuerunt, per illas facta sunt innoxia, si qui modo sua consilia et explanationes faciles non spreverit.</s>
+					<s n="21" xml:lang="la">Caeterum in fine annotationum fol. ult.</s>
+					<s n="22" xml:lang="la">facie 2. non arbitror te facere cum <persName ref="p458">Brentianis</persName>, qui negant et pernegant coelum, sedem beatorum, certum esse locum, id quod ipse dominus affirmavit Ioann. 16. orthodoxaque ecclesia hactenus credidit et vetusti patres attestati sunt.</s>
+					<s n="23" xml:lang="la">Scis haud dubie, quae mihi fuerit cum <persName ref="p458">Brentio</persName> hac de re disputatio literis etiam publicata etc.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la">Sed condona mihi, domine et frater, quod prolixa hac epistola sancta tua studia hactenus interturbavi.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" ana="farewell">Bene vale et me amare perge.</s>
+					<s n="26" xml:lang="la" ana="salute">Saluta d. <persName ref="p8033">Bezam</persName> nostrum, d. <persName>Portum</persName> et alios symmystas.</s>
+					<s n="27" xml:lang="la">Semel et iterum scripsi d. <persName ref="p8033">Bezae</persName>, eius responsionem expecto etc.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la"><placeName ref="l587">Tiguri</placeName> 11. martii 1570.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la"><persName ref="p495">Heinrychus Bullingerus</persName> senior, minister <placeName ref="l587">Tigurinae</placeName> ecclesiae, tuus.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la">Clarissimo viro d. <persName ref="p966">Nicolao Gallasio</persName>, <placeName ref="l167">Genevensis</placeName> ecclesiae ministro, fideli, domino meo honorando et fratri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

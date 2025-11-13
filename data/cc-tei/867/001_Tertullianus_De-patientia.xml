@@ -1,0 +1,939 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De patientia</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 1</title>
+           <idno>Tertul.DePat</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Argumentum.</head>
+<p>
+          <pb n="1249"/> <hi>Tractatus de patientia quem multi a Tertulliano adhucdum
+catholico circa a. cc. conscriptum fuisse existimant,
+in quam imprimis abiere sententiam doctiss. Tillemontius,
+D. Cellerius, P. Dominicus Schram, eximia
+est multa cum eloquentia adhortatio ad patientiam amplectendam,
+pene dicam ad martyrium sustinendum,
+haud aliter ac si, cum haec conscriberet septimius jamjam
+nova ingrueret procella, iterumque Christianorum
+calamitates forent refricandae. Quidquid ea de re sit
+<pb n="1250"/>
+ratum habendum, qualive tempore vel rerum tempestate
+fuerit hic libellus exaratus, in ea nulla non affertur
+caussa, cur Christiani ad patientiam excitari queant et
+ab impatientia deterreri. Nempe cum in operis limine,
+quasi publice stratus, suam auctor imbecillitatem, animique
+impotentiam propalaverit, patientiamque magnis
+laudibus summatim descripserit singula perstringit motiva
+ad eam amplectendam proponenda, scilicet:</hi> 
+<list>
+<item> II. </item>
+<item>III, IV.</item>
+<item> V. </item>
+<item> VI. </item>
+<item> VII. </item>
+<item> VIII. </item>
+          </list>
+
+<pb n="1250"/>
+<table>
+<row>
+              <cell>I. <hi>Patientiam Dei erga nos,</hi> </cell>
+              <cell>IX.</cell>
+            </row>
+<row>
+              <cell>II. <hi>Patientiam Christi,</hi> </cell>
+              <cell>X.</cell>
+            </row>
+<row>
+              <cell>III. <hi>Natales impatientiae ac ejus mala in ipso
+diabolo deprehensa.</hi> </cell>
+              <cell>XI.</cell>
+            </row>
+<row>
+              <cell>IV. <hi>Fidem patientia probandam.</hi> </cell>
+              <cell>XIII.</cell>
+            </row>
+<row>
+              <cell>V. <hi>Temporalia exinde spreta.</hi> </cell>
+              <cell>XIV.</cell>
+            </row>
+<row>
+              <cell>VI. <hi>Injurias aequa mente latas.</hi> </cell>
+              <cell>XIV, XV.</cell>
+            </row>
+</table>
+        </p>
+<p>
+          <emph>EDD.</emph>
+
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+
+<pb n="1249A"/>
+<p>Confiteor ad Dominum Deum, satis temere me, si
+non etiam impudenter, de patientia componere ausum,
+cui praestandae idoneus omnino non sim, ut
+homo nullius boni, quando oporteat demonstrationem
+et commendationem alicujus rei adortos, ipsos
+prius in administratione ejus rei deprehendi, et constantiam
+commonendi propriae conversationis auctoritate
+dirigere, ne dicta factis deficientibus erubescant.
+Atque utinam erubescere istud remedium ferat,
+uti pudor non exhibendi quod aliis suggestum imus, exhibendi
+fiat magisterium! Nisi quod bonorum quorumdam,
+sicuti et malorum, intolerabilis magnitudo est,
+ut, ad capienda et praestanda ea, sola gratia divinae
+inspirationis operetur. Nam quod maxime bonum, id
+<pb n="1250A"/>
+maxime penes Deum, nec alius id quam qui possidet
+dispensat, ut cuique dignatur. Itaque vel ut solatium
+erit disputare super eo quod frui non datur, vice languentium,
+qui cum vacent a sanitate, de bonis ejus
+tacere non norunt. Ita miserrimus ego, semper aeger
+caloribus impatientiae, quam non obtineo patientiae
+sanitatem, et suspirem, et invocem, et perorem necesse
+est, cum recordor, et in meae imbecillitatis contemplatione
+digero, bonam fidei valetudinem, et dominicae
+disciplinae sanitatem, non facile cuiquam,
+nisi patientia assideat, provenire. Ita proposita Dei
+rebus est, ut nullum praeceptum obire quis, nullum
+opus Domino complacitum perpetrare extraneus patientia
+possit. Bonum ejus, etiam qui caeci vivunt
+ summae virtutis appellatione honorant. Philosophi
+<pb n="1251A"/>
+quidem, qui alicujus sapientiae animalia
+deputantur, tantum illi subsignant, ut cum inter sese
+variis sectarum libidinibus et sententiarum aemulationibus
+discordent, solius tamen patientiae in commune
+memores, huic uni studiorum suorum commiserint
+pacem. In eam conspirant, in eam foederantur, illam
+  in affectatione virtutis unanimiter student,
+omnem sapientiae ostentationem de patientia
+praeferunt. Grande testimonium ejus est, cum etiam
+vanas saeculi disciplinas ad laudem et gloriam promovet.
+Aut numquid potius injuria, cum divina res in saecularibus
+artibus volutatur? Sed viderint illi, quos mox
+sapientiae suae cum saeculo destructae ac dedecoratae
+pudebit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p>
+            <pb n="1251B"/>Nobis exercendae patientiae auctoritatem, non affectatio
+ humana caninae aequanimitatis stupore
+formata, sed vivae ac coelestis disciplinae divina
+dispositio delegat, Deum ipsum ostendens patientiae
+<pb n="1252A"/>
+exemplum. Jam primum qui rorem 
+lucis hujus super justos et injustos aequaliter spargit,
+qui temporum officia, elementorum servitia, totius
+geniturae tributa dignis simul et indignis patitur
+occurrere, sustinens ingratissimas nationes, ludibria
+artium et opera manuum suarum adorantes, nomen
+cum familia ipsius persequentes, luxuriam, avaritiam,
+iniquitatem, malignitatem quotidie insolescentem,
+ut sua sibi patientia detrahat: plures enim
+Dominum idcirco non credunt, quia saeculo iratum tamdiu
+nesciunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p>Et haec quidem divinae patientiae species, quasi
+de longinquo fors, ut de supernis, aestimetur. Quid
+<pb n="1252B"/>
+illa autem quae inter homines palam in terris quodammodo
+manu apprehensa est? Nasci se Deus
+in utero patitur matris, et exspectat, natus adolescere
+sustinet, et adultus non gestit agnosci, sed contumeliosus
+insuper sibi est, et a servo suo tingitur, et
+<pb n="1253A"/>
+tentatoris congressus solis verbis repellit, cum
+de Domino fit magister, docens hominem evadere
+ad salutem,  scilicet veniam offensae patientiae
+ eruditus, non contendit, non reclamavit, nec
+quisquam in plateis vocem ejus audivit, arundinem
+quassatam non fregit, linum fumigans non restinxit <note>(Is. XLII)</note>.
+Nec enim mentitus fuerat propheta, imo
+ipsius Dei contestatio, Spiritum suum in Filio cum tota
+patientia collocantis <note>(Joan., XIII, Matth. IX, Luc. IX,
+Luc. XVII, Matth. XIV, Matth. XXVI, Is. LIII, Matth.
+XXIX, Joan. XVIII, Matth: XXVI, Matth. XXVII,
+Marc. XV, Luc. XXIII, Joan. XIX)</note>. Nullum volentem
+sibi adhaerere non suscepit; nullius mensam
+tectumve despexit: aquam  ipse lavandis
+discipulorum pedibus ministravit. Non peccatores,
+non publicanos adspernatus est. Non illi saltim
+<pb n="1253B"/>
+civitati quae eum recipere noluerat, iratus est,
+cum etiam discipuli tam contumelioso oppido
+coelestes ignes repraesentari voluissent. Ingratos curavit,
+insidiatoribus cessit. Parum hoc, si non etiam
+proditorem suum secum habuit, nec constanter
+denotavit. Cum vero traditur, cum adducitur ut pecus
+ad victimam, sic enim non magis aperit os, quam
+agnus sub tondentis potestate, ille, cui legiones angelorum,
+si voluisset, uno dicto de coelis adfuissent,
+<pb n="1254A"/>
+ne unius quidem discentis gladium ultorem
+probavit. Patientia Domini in Malcho vulnerata est.
+Itaque et gladii opera maledixit in posterum, et sanitatis
+restitutione ei, quem non ipse vexaverat, satisfecit,
+per patientiam, misericordiae matrem.
+Taceo quod figitur, in hoc enim venerat. Numquid
+tamen subeundae morti etiam contumeliis opus fuerat?
+Sed saginari voluptate patientiae discessurus volebat.
+Despuitur, verberatur, deridetur, foedis vestitur,
+foedioribus coronatur. Mira aequanimitatis fides.
+Qui in hominis figura proposuerat latere, nihil de
+impatientia hominis imitatus est. Hinc vel maxime
+pharisaei Dominum agnoscere debuistis: patientiam
+hujusmodi nemo hominum perpetraret. Talia tantaque
+documenta, quorum magnitudo penes nationes
+quidem detrectatio fidei est, penes nos vero ratio et
+structio, satis aperte, non sermonibus modo in
+<pb n="1254B"/>
+praecipiendo, sed etiam passionibus Domini sustinendo,
+probant his, quibus credere datum est, patientiam
+Dei esse naturam, effectum et praestantiam
+ingenitae cujusdam proprietatis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p>Igitur si probos quosque servos et bonae mentis,
+pro ingenio dominico conversari videmus (siquidem
+<pb n="1255A"/>
+artificium promerendi obsequium est, obsequii
+vero disciplina, morigera subjectio est, quanto magis
+nos secundum Dominum moratos inveniri oportet!
+Servos scilicet Dei vivi, cujus judicium in suos,
+non in compede aut pileo vertitur, sed in aeternitate,
+aut poenae, aut salutis. Cui severitati declinandae,
+vel liberalitati invitandae, tanta obsequii diligentia
+opus est, quanta sunt ipsa, quae aut severitas comminatur,
+aut liberalitas pollicetur. Et tamen nos non
+de hominibus modo servitute subnixis, vel quolibet
+alio jure debitoribus obsequii, verum etiam de
+pecudibus, etiam de bestiis obedientiam exprimimus,
+intelligentes usibus nostris eas a Domino provisas
+traditasque. Meliora ergo nobis erunt in obsequii disciplina,
+<pb n="1255B"/>
+quae nobis Deus subdit? Agnoscunt denique,
+quae obediunt, nos. Cui soli subditi sumus, Domino
+scilicet auscultare dubitamus? At quam injustum est,
+quam etiam ingratum, quod per alterius indulgentiam
+de aliis consequaris, idem illi per quem consequeris,
+de temetipso non rependere! Nec pluribus de
+obsequii exhibitione, debita a nobis Domino Deo. Satis
+enim agnitio Dei, quid sibi incumbat, intelligit.
+Ne tamen ut extraneum de obsequio videamur interjecisse,
+ipsum quoque obsequium de patientia trahitur.
+Nunquam impatiens obsequitur, aut patiens quis
+non oblectatur. Quam ergo Dominus omnium
+bonorum et demonstrator et acceptor Deus in semetipso
+circumtulit, quis de bono ejus late  retractet?
+<pb n="1256A"/>
+Cui item dubium sit omne bonum, quia ad Deum
+pertineat, pertinentibus ad Deum tota mente sectandum?
+Per quae in expedito et quasi in praescriptionis
+compendio et commendatio et exhortatio de
+patientia constituta est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p>Verumtamen procedere disputationem de necessariis
+fidei non est otiosum, quia nec infructuosum. Loquacitas
+in aedificatione nulla turpis, si quando turpis.
+Itaque si de aliquo bono sermo est, res postulat,
+contrarium quoque boni recensere. Quid enim sectandum
+sit, magis inluminabis, si quod vitandum
+sit proinde digesseris. Consideremus igitur de impatientia:
+an sicut patientia in Deo, ita adversaria ejus
+in adversario nostro nata atque comperta sit; ut ex
+<pb n="1256B"/>
+isto appareat, quam principaliter fidei adversetur.
+Nam quod ab aemulo Dei conceptum est, utique non
+est amicum Dei rebus. Eadem discordia est rerum,
+quae et auctorum. Porro cum Deus optimus, diabolus
+e contrario pessimus; ipsa sui diversitate testantur,
+neutrum alteri facere, ut nobis non magis a malo
+aliquid boni, quam a bono aliquid mali dictum
+videri possit. Igitur natales impatientiae in ipso
+diabolo deprehendo, jam tunc cum Dominum Deum
+universa opera quae fecisset, imagini suae, id est homini
+subjecisse impatienter tulit <note>(Genes., III)</note>. Nec
+enim doluisset, si sustinuisset; nec invidisset homini,
+si non doluisset. Adeo decepit eum, quia inviderat
+<pb n="1257A"/>
+autem, quia doluerat. Doluerat, quia patienter
+utique non tulerat. Quid primum fuerit ille angelus
+perditionis, malus an impatiens, contemno
+quaerere; palam cum sit, impatientiam cum malitia,
+aut malitiam ab impatientia auspicatam, deinde inter
+se conspirasse, et individuas in uno patris sinu adolevisse.
+Atenim quam primus senserat, per quam delinquere
+intraverat, de suo experimento quid ad
+peccandum adjuvaret structus eamdem impingendo
+in crimen homini advocavit: conventa statim
+illi mulier, non temere dixerim per colloquium ipsum
+ejus afflata est spiritu impatientia infecto, usque
+adeo nunquam omnino peccasset, si in divino
+interdicto patientiam perservasset. Quid quod non
+sustinuit sola conventa; sed apud Adam nondum maritum,
+<pb n="1257B"/>
+nondum aures sibi debentem impatiens
+etiam tacendi est, ac traducem illum ejus,
+quod a malo hauserat, facit. Perit igitur et alius
+homo, per impatientiam alterius; perit mox et ipse
+per impatientiam suam utrobique commissam; et
+circa Dei praemonitionem, et circa diaboli circumscriptionem,
+illam servare, hanc refutare non
+sustinens. Hinc prima judicii, unde delicti origo: hinc
+Deus irasci exorsus, unde offendere homo inductus. Inde
+in Deo prima patientia, unde indignatio prima. Qui tunc
+maledictione sola contentus, ab animadversionis impetu
+in diabolo temperavit. Aut quod crimen ante istud
+impatientiae admissum homini imputatur? Innocens
+erat, et Deo de proximo amicus, et Paradisi colonus. At
+ubi semel succidit impatientiae desivit Deo sapere,
+<pb n="1257C"/>
+desivit coelestia sustinere posse. Exinde homo
+terrae datus, et ab oculis Dei ejectus, facile usurpari
+ab impatientia coepit in omne quod Deum offenderet.
+<pb n="1258A"/>
+Nam statim illa semine diaboli concepta, malitiae
+foecunditate, iram filium procreavit, editum suis
+artibus erudiit. Quod enim ipsum Adam et
+Evam morti immerserat, docuit et filium ab homicidio
+incipere <note>(Gen., IV)</note>. Frustra istud impatientiae adscripserim,
+si Cain ille primus homicida, et primus
+fratricida, oblationes suas a Domino recusatas
+aequanimiter nec impatienter tulit, si iratus fratri
+suo non est, si neminem denique interemit. Cum ergo,
+nec occidere potuerit, nisi iratus; nec irasci, nisi
+impatiens: demonstrat quod per iram gessit ad eam
+referendum, a qua ira suggesta est. Et haec quidem
+impatientiae tunc infantis quodammodo incunabula.
+Caeterum quanta mox incrementa, nec mirum.
+Nam, si prima deliquit, consequens est, ut quia prima,
+<pb n="1258B"/>
+idcirco et sola sit matrix in omne delictum, defundens
+de suo fonte varias criminum venas. De homicidio
+quidem dictum est. Sed ira editum a primordio,
+etiam quascumque postmodum causas sibi invenit,
+ad impatientiam ut ad originem sui confert. Sive
+enim quis inimicitiis, sive praedae gratia id scelus
+conficit, prius est ut aut odii aut avaritiae fiat impatiens.
+Quicquid compellit, sine impatientia sui non
+est ut perfici possit. Quis adulterium sine libidinis
+impatientia subiit? Quod et si pretio in foeminis cogitur
+venditio illa pudicitiae, utique impatientia contemnendi
+lucri ordinatur. Haec, ut principilia penes
+Dominum delicta. Nam ut compendio dictum sit,
+omne peccatum impatientiae adscribendum. Malum
+impatientia est boni. Nemo impudicus non impatiens
+<pb n="1258C"/>
+pudicitiae, et improbus probitatis, et impius pietatis
+et inquietus quietis. Ut malus unusquisque fiat, bonus
+perseverare non poterit. Talis igitur excetra 
+<pb n="1259A"/>
+delictorum, cur non Dominum offendat improbatorem
+malorum? Annon ipsum quoque Israel per
+impatientiam semper in Deum deliquisse manifestum
+est, exinde cum oblitus brachii coelestis, quo
+aegyptiis afflictationibus fuerat extractus, de Aaron
+sibi deos duces postulat, cum in idolum auri sui collationes
+defundit <note>(Exod., XVII)</note>? tam necessarias
+enim Moysis cum Domino congredientis impatienter
+exceperat moras. Post mannae escatilem pluviam,
+post petrae aquatilem sequelam desperant
+de Domino, tridui sitim non sustinendo. Nam haec
+quoque illis impatientia a Domino exprobatur. Ac ne
+singula pervagemur, nunquam non per impatientiam
+delinquendo perierunt. Quomodo autem prophetis
+manus intulerunt, nisi per impatientiam audiendi <note>(Act., VIII, Sap. II)</note>?
+Domino autem ipsi, per impatientiam
+<pb n="1259B"/>
+videndi. Quod si patientiam inissent,
+liberarentur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p>Ipsa adeo est, quae fidem, et subsequitur, et antecedit <note>(Gen., XV)</note>.
+Denique Abraham Deo credidit,
+et justitiae deputatus ab illo est: sed fidem
+ejus patientia probavit, cum filium immolare jussus
+est, ad fidei non tentationem dixerim, sed typicam
+contestationem. Caeterum Deus, quem justitiae deputasset,
+sciebat. Tam grave praeceptum, quod nec
+Domino perfici placebat, patienter et audivit, et si
+Deus voluisset, implesset. Merito ergo benedictus,
+quia et fidelis; merito fidelis, quia et patiens. Ita fides
+patientia illuminata, cum in nationes seminaretur
+<pb n="1259C"/>
+per semen Abrahae, quod est Christus <note>(Gal., III)</note>, et
+<pb n="1260A"/>
+gratiam legi superduceret, ampliandae adimplendaeque
+legi adjutricem suam patientiam praefecit, quod
+ea sola ad justitiae doctrinam retro defuisset. Nam
+olim et oculum pro oculo, et dentem pro dente repetebant,
+et malum malo foenerabant <note>(Exod., XXI;
+Deut. XIX)</note>: nondum enim patientia in terris, quia nec
+fides: scilicet interim impatientia occasionibus legis
+fruebatur. Facile erat, absente domino patientiae et
+magistro. Qui postquam supervenit, et gratiam
+fidei patientia composuit, jam nec verbo quidem lacessere,
+nec <hi>Fatue</hi> quidem dicere sine judicii periculo
+licet. Prohibita ira, restricti animi, compressa
+petulantia manus, exemptum linguae venenum,
+plus lex quam amisit invenit, dicente Christo <note>(Matth., V, 44)</note>:
+ <hi>Diligite inimicos vestros, et maledicentibus
+benedicite: et orate pro persecutoribus vestris,
+<pb n="1260B"/>
+ut filii sitis Patris vestri coelestis.</hi> Vides quem nobis
+patrem patientia acquirat? Hoc principali praecepto
+universa patientiae disciplina succincta est, quando ne
+digne quidem malefacere concessum est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p>Jam vero, percurrentibus nobis caussas impatientiae,
+caetera quoque praecepta suis locis respondebunt. Si
+detrimento rei familiaris animus concitatur, omni
+pene in loco de contemnendo saeculo, Scripturis dominicis
+commonetur: nec major ad pecuniae contemptum
+exhortatio subjacet, quam quod ipse Dominus
+in nullis divitiis invenitur. Semper pauperes justificat,
+divites praedamnat. Ita detrimentum patientiae
+fastidium opulentiae praeministravit, demonstrans
+<pb n="1260C"/>
+per abjectionem divitiarum, laesuras quoque
+<pb n="1261A"/>
+eorum computandas non esse. Quod ergo nobis
+appetere minime opus est quia nec Dominus appetivit,
+detruncatum vel etiam ademptum non aegre
+sustinere debemus. <hi>Cupiditatem omnium malorum radicem</hi> 
+Spiritus Domini per Apostolum pronuntiavit <note>(I Tim. VI, X)</note>.
+Eam non in concupiscentia alieni
+tantum constitutam interpretemur; nam et quod nostrum
+videtur, alienum est: nihil enim nostrum, quoniam
+Dei omnia, cujus ipsi quoque nos. Itaque si
+damno affecti impatienter senserimus, non de
+nostro amissum dolentes, affines cupiditatis deprehendemur.
+Alienum quaerimus, cum alienum amissum
+ aegre sustinemus. Qui damni impatientia
+concitatur, terrena coelestibus anteponendo, de proximo
+in Deum peccat. Spiritum enim quem a Domino
+<pb n="1261B"/>
+sumpsit, saecularis rei gratia concutit. Libenter
+igitur terrena amittamus, coelestia tueamur. Totum
+licet saeculum pereat, dum patientiam lucrifaciam.
+Jam qui minutum sibi aliquid aut furto, aut vi, aut
+etiam ignavia, non constanter sustinere constituit,
+nescio an facile, vel ex animo, ipse rei suae manum
+inferre posset in caussa eleemosynae. Quis enim ab
+alio secari omnino non sustinens, ipse ferrum in corpore
+suo ducit? Patientia in detrimentis, exercitatio
+est largiendi et communicandi. Non piget donare
+eum, qui non timent perdere. Alioquin quomodo
+duas habens tunicas, alteram earum nudo dabit, nisi
+idem sit, qui auferenti tunicam, etiam pallium offerre
+possit <note>(Matth., V)</note>? Quomodo amicos de mammona
+<pb n="1261C"/>
+fabricabimus nobis <note>(Luc., XVI)</note>, si eum in tantum
+amaverimus, ut amissum non sufferamus? Peribimus
+cum perdito. Quid hic invenimus, ubi habemus amittere?
+Gentilium est, omnibus detrimentis impatientiam
+adhibere, qui rem pecuniariam fortasse
+animae anteponant. Nam et faciunt, cum lucri
+<pb n="1262A"/>
+cupiditatibus quaestuosa pericula mercimoniorum in
+mari exercent; cum pecuniae caussa etiam in foro
+nihil damnationi timendum aggredi dubitant; cum
+denique ludo et castris sese locant, cum per
+viam in mores bestiarum latrocinantur. Nos vero
+secundum diversitatem, qua cum illis sumus, non
+animam pro pecunia, sed pecuniam pro anima deponere
+convenit, seu sponte in largiendo, seu patientes
+in amittendo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p>Ipsam animam ipsumque corpus in saeculo isto expositum
+omnibus ad injuriam gerimus, ejusque injuriae
+patientiam subimus; minorum deliberatione
+  laedemur? Absit a servo Christi tale inquinamentum,
+<pb n="1262B"/>
+ut patientia, majoribus tentationibus praeparata,
+in frivolis excidat. Si manu quis tentaverit
+provocare, praesto est dominica moneta: <hi>Verberanti te 
+ <note>(inquit Matth., V, 39)</note> in faciem,
+etiam alteram genam obverte.</hi> Fatigetur improbitas patientia
+tua. Cujus ictus ille sit, dolore et contumelia
+constrictus, gravius a Domino vapulat. Plus
+improbum illum caedis sustinendo; ab eo enim vapulabit,
+cujus gratia sustines. Si linguae amaritudo maledicto
+sive convicio eruperit, respice dictum <note>(Matth., V, 12)</note>:
+ <hi>Cum vos maledixerint, gaudete.</hi> Dominus
+ipse maledictus in lege est <note>(Deut., XXI, 23)</note>, et
+tamen solus est benedictus <note>(Gal., III, 13)</note>. Igitur Dominum
+servi consequamur, et maledicamur patienter,
+<pb n="1262C"/>
+ut benedicti esse possimus. Si parum aequanimiter
+audiam dictum aliquod in me protervum aut nequam,
+reddam et ipse amaritudinis vicem necesse est, aut
+cruciabor impatientia muta. Cum ergo percussero maledictus,
+quomodo secutus inveniar doctrinam
+Domini, qua traditum est <note>(Marc., VII, 15, 18)</note>,
+non vasculorum inquinamentis, sed eorum quae
+<pb n="1263A"/>
+ex ore promuntur, hominem communicari? Item <note>(Matth., XII)</note>:
+manere nos omnis vani et supervacui
+dicti reatum? Sequitur ergo ut a quo nos Dominus
+arcet, idem ab alio aequanimiter pati admoneat. Hic
+jam de patientiae voluptate. Nam omnis injuria,
+seu lingua, seu manu incussa, cum patientiam offenderit,
+eodem exitu dispungetur, quo telum aliquod
+in petra constantissimae duritiae libratum, et
+obtusum. Coincidet enim ibidem irrita opera et infructuosa,
+et nonnunquam repercussum in eum, qui emisit,
+reciproco impetu saeviet. Nempe idcirco quis te
+laedit, ut doleas: quia fructus laedentis in dolore
+laesi est. Ergo cum fructum ejus everteris, non dolendo,
+ipse doleat necesse est amissione fructus sui:
+tunc tu non modo illaesus abis, quod etiam solum
+<pb n="1263B"/>
+tibi sufficit, sed insuper adversarii tui et frustratione
+oblectatus, et dolore defensus. Haec est patientiae utilitas
+et voluptas.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p>Ne illa quidem impatientiae species excusatur in
+amissione nostrorum, ubi aliqua doloris patrocinatur
+affectio. Proponendus est enim respectus
+denunciationis Apostoli qui ait <note>(I Thess., IV)</note>: <hi>Ne contristemini
+dormitione cujusquam, sicut nationes quae
+spe carent.</hi> Et merito. Credentes enim resurrectionem
+Christi, in nostram quoque credimus, propter
+quos ille et obiit et resurrexit. Ergo cum constet
+de resurrectione mortuorum, vacat dolor mortis, vacat
+et impatientia doloris. Cur ergo doleas, si periisse
+<pb n="1263C"/>
+non credis? Cur impatienter feras subductum
+<pb n="1264A"/>
+interim, quem credis reversurum? Profectio est,
+quam putas mortem. Non est lugendus qui antecedit,
+sed plane desiderandus. Id quoque desiderium patientia
+temperandum. Cur enim immoderate feras abiisse,
+quem mox subsequeris? Caeterum impatientia in hujusmodi,
+et spei nostrae male ominatur, et fidem
+praevaricatur. Et Christum laedimus, cum evocatos
+quosque ab illo quasi miserandos non aequanimiter
+accipimus. <hi>Cupio,</hi> inquit Apostolus <note>(Phil., I)</note>, <hi>recipi 
+ jam et esse cum Domino.</hi> Quanto melius ostendit
+votum Christianorum? Ergo votum si alios
+consecutos impatienter dolemus, ipsi consequi nolumus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p>Est et alius summus impatientiae stimulus, ultionis
+<pb n="1264B"/>
+libido, negotium curans aut gloriae, aut malitiae. Sed
+et gloria utique vana et malitia nunquam non Domino
+odiosa, hoc quidem loco maxime, cum alterius
+ malitia provocata superiorem se in
+exsequenda ultione constituit, et remunerans nequam
+duplicat quod semel factum est. Ultio penes errorem
+ solatium videtur doloris, penes veritatem
+certe redarguitur malignitatis. Quid enim refert
+inter provocantem et provocatum, nisi quod ille prior
+ in maleficio deprehenditur, at ille posterior? Tamen
+uterque laesi hominis Domino reus est, qui omne
+ nequam et prohibet et damnat. Nulla in maleficio
+ordinis ratio est; nec locus secernit, quod
+similitudo conjungit. Absolute itaque praecipitur
+malum malo non rependendum <note>(Rom. XII)</note>. Par factum,
+<pb n="1264C"/>
+par habet meritum. Quomodo id observabimus,
+<pb n="1265A"/>
+si fastiditi ante in fastidio ultionis non
+erimus? Quem autem honorem litabimus Domino Deo
+si nobis arbitrium defensionis arrogaverimus? Nos
+utres, vasa fictilia, servulis nostris, assumentibus
+sibi de conservis ultionem, graviter offendimur;
+eosque qui nobis patientiam obtulerint suam, ut memores
+humilitatis, servitutis, jus dominici honoris
+diligentes, non probamus modo, sed ampliorem, quam
+ipsi sibi praesumpsissent, satisfactionem facimus. Id
+nobis in Domino tam justo ad aestimandum, tam potenti
+ad perficiendum periclitatur? Quid ergo credimus
+judicem illum, si non et ultorem? Hoc se nobis
+repromittit, dicens <note>(Deut., XXXII)</note>: <hi>Vindictam mihi 
+ et ego vindicabo;</hi> id est, Patientiam mihi, et ego
+patientiam remunerabo. Cum enim dicit <note>(Matth., VII)</note> 
+<pb n="1265B"/> <hi>Nolite judicare, ne judicemini,</hi> 
+ nonne patientiam flagitat?
+Quis enim non judicabit alium nisi qui patiens erit
+non defendendi? Quis idcirco judicat, ut ignoscat?
+Ac si ignoscet, tamen judicantis impatientiam
+cavit, et honorem unici judicis, id est Dei, abstulit.
+Quantos vero casus hujusmodi impatientia incursare
+ consuevit! Quotiens poenituit defensionem!
+Quotiens instantia ejus deterior facta est caussis
+suis! Quoniam nihil impatientia susceptum, sine
+impetu transigi novit; nihil impetu actum, aut non
+offendit, aut corruit, aut praeceps abiit. Jam si levius
+defendaris, insanies: si uberius, oneraberis. Quid
+<pb n="1266A"/>
+mihi cum ultione, cujus modum regere non possum
+per impatientiam doloris? Quod si patientiae incubabo,
+non dolebo: si non dolebo, ulcisci non desiderabo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p>Post has principales impatientiae materias, ut potuimus,
+regestas, quid inter caeteras evagemur? Quae
+domi, quae foris? Lata atque diffusa est operatio
+mali: multiplicia spiritus incitamenta jaculantis,
+et modo parvula, modo maxima. Sed parvula de sua
+mediocritate contemnas, maximis pro sua exsuperantia
+ cedas. Ubi minor injuria, ibi nulla necessitas impatientiae.
+At ubi major injuria, ibi necessarior
+injuriae medela, patientia. Certemus igitur quae
+a malo infliguntur sustinere, ut hostis studium
+<pb n="1266B"/>
+aemulatio nostrae aequanimitatis eludat. Si vero quaedam
+ipsi in nos, aut imprudentia, aut sponte etiam
+superducimus, aeque patienter obeamus, quae nobis
+imputamus. Quod si a Domino nonnulla credimus incuti,
+cui magis patientiam quam Domino praebeamus?
+Quin insuper gratulari et gaudere nos docet,
+dignatione divinae castigationis. <hi>Ego,</hi> inquit, <hi>quos diligo, castigo.</hi> 
+ O servum illum beatum, cujus
+emendationi dominus instat! cui dignatur irasci,
+quem admonendi dissimulatione non decipit! Undique
+igitur adstricti sumus officio patientiae administrandae.
+Quaqua ex parte, aut erroribus nostris, aut mali insidiis,
+<pb n="1267A"/>
+aut admonitionibus Domini intervenit usus,
+ejus officii magna merces, felicitas scilicet. Quos
+enim felices Dominus, nisi patientes nuncupavit, dicendo: <hi>Beati pauperes spiritu, illorum est enim regnum
+coelorum 
+ <note>(Matth., V.)</note>
+            </hi>? Nullus profecto spiritu pauper,
+nisi humilis; quis enim humilis, nisi patiens? quia nemo
+subjicere sese potest, sine prima patientia subjectionis
+ipsius. <hi>Beati,</hi> inquit, <hi>flentes atque lugentes.</hi> 
+Quis talia sine patientia tolerat? Itaque talibus et advocatio
+ et risus promittitur. <hi>Beati mites.</hi> Hoc quidem
+vocabulo impatientes non licet omnino censeri.
+Item cum pacificos eodem titulo felicitatis notat, et
+filios Dei nuncupat, numquid impatientes pacis affines?
+Stultus hoc senserit. Cum vero, <hi>gaudete et
+exultate,</hi> dicit, <hi>quotiens vos maledicent et persequentur,
+<pb n="1267B"/>
+merces enim vestra plurima in coelo;</hi> id utique non
+exultationis impatientiae pollicetur, quia nemo in adversis
+exultavit, nisi ante ea contempserit; nemo
+contemnet, nisi patientiam gesserit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p>Quod ad pacis gratissimae Deo attinet discplinam,
+quis omnino impatientiae natus vel semel ignoscet
+ fratri suo (non dicam septies, sed et septuagies
+septies <note>(Matth., XVIII)</note>? quis judicium cum
+adversario suo dirigens, <note>(Luc., VI; Matth., V)</note>,
+negotium convenientia solvet, nisi prius animi
+dolorem, duritiam, amaritudinem, venena scilicet impatientiae
+amputarit? Quomodo remittes, et remittetur
+tibi, si tenax injuriae per absentiam patientiae fueris?
+<pb n="1267C"/>
+Nemo convulsus animum in fratrem suum munus
+<pb n="1268A"/>
+apud altare perficiet, nisi prius reconciliando fratri
+reversus ad patientiam fuerit. Sol super iram nostram
+si occiderit, periclitamur. Non licet nobis una
+die sine patientia manere. Atenim cum omnem speciem
+salutaris disciplinae gubernet <note>(Eph., IV.)</note>, quid
+mirum quod etiam poenitentiae ministrat, solitae lapsis
+subvenire, cum, disjuncto matrimonio, ex ea tamen
+causa, qua licet feu viro, seu foeminae ad viduitatis
+perseverantiam sustineri, haec exspectat,
+haec exoptat, haec exorat poenitentiam quandoque
+inituris salutem. Quantum boni utrique
+confert! alterum non adulterum facit, alterum
+emendat. Sic et illis dominicarum similitudinum exemplis
+de patientia sanctis adest. Erroneam ovem patientia
+pastoris requirit et invenit. Nam impatientia
+<pb n="1268B"/>
+unam facile contemneret. Sed laborem inquisitionis
+patientia suscipit, et humeris insuper advehit
+bajulus patiens peccatricem derelictam. Illum quoque
+prodigum filium patientia patris et recipit, et
+vestit, et pascit, et apud impatientiam irati fratris
+excusat. Salvus est igitur qui perierat, quia poenitentiam
+iniit. Poenitentia non perit, quia patientiam
+invenit. Nam dilectio summum fidei sacramentum,
+Christiani nominis thesaurus, quam Apostolus
+totis viribus Sancti Spiritus commendat, cujus
+nisi patientiae disciplinis eruditur? <hi>Dilectio,</hi> inquit, <hi>magnanimis 
+ est.</hi> Ita patientiam sumit. <hi>Benifica
+est;</hi> malum patientia non facit. <hi>Non aemulatur;</hi> id
+quidem patientiae proprium est. <hi>Nec protervum sapit;</hi> 
+<pb n="1268C"/>
+modestiam de patientia traxit. <hi>Non inflatur, non proterit</hi> 
+<pb n="1269A"/>
+ ; non enim ad patientiam pertinet. <hi>Nec
+sua requirit,</hi> si offert sua, dum alteri prosit: <hi>nec
+incitatur;</hi> caeterum quid impatientiae reliquisset? <hi>Ideo,</hi> 
+ inquit, <hi>dilectio omnia sustinet, omnia tolerat,</hi> 
+utique quia patiens. Merito ergo nunquam excidet;
+nam caetera evacuabuntur, consummabuntur. Exhauriuntur
+ linguae, scientiae, prophetiae; <hi>permanent
+fides, spes, dilectio:</hi> fides, quam Christi patientia
+induxit: spes, quam hominis patientia exspectat;
+dilectio, quam, Deo magistro, patientia comitatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p>Usque huc de patientia tandem simplici et
+uniformi, et tantum in animo constituta; cum
+eadem etiam in corpore, demerendo Domino
+<pb n="1269B"/>
+multipliciter allaboret, utpote quae ab ipso Domino
+in corporis quoque virtute edita est, siquidem rector
+animus facile communicat spiritus invecta cum
+habitaculo suo. Quae igitur negotiatio patientiae in
+corpore? In primis afflictatio carnis, hostia Domino
+placatoria per humiliationis sacrificium, cum sordes
+cum angustia victus Domino libat, contenta simplici
+pabulo puroque aquae potu, cum jejunia conjungit,
+cum cineri et sacco inolescit. Haec patientia
+corporis precationes commendat, deprecationes affirmat:
+haec aures Christi Dei aperit, severitatem
+dispergit, clementiam elicit <note>(Dan., IV)</note>. Sic ille
+rex Babylonius, offenso Domino, cum squalore et
+paedore septenni ab humana forma exulasset, immolata
+patientia corporis sui, et regnum recuperavit,
+<pb n="1269C"/>
+et quod optabilius homini est, satis Deo fecit. Jam,
+si altiores et feliciores gradus corporalis patientiae
+digeramus, eadem sanctitati quoque procurat continentiam
+ carnis <note>(Matth., XIX)</note>. Haec et viduam
+tenet, et virginem assignat, et voluntarium spadonem
+<pb n="1270A"/>
+ad regna coeli levat. Quod de virtute animi venit,
+in carne perficitur, carnis patientia in persecutionibus
+denique praeliatur. Si fuga urgeat, adversus incommoda
+fugae caro militat. Si et carcer premat, caro
+in vinculis, caro in ligno, caro in solo, et in
+illa paupertate lucis, et in illa penuria mundi.
+Cum vero producitur ad experimentum felicitatis,
+ad occasionem secundae intinctionis, ad ipsum
+divinae sedis ascensum, nulla plus illic quam patientia
+corporis: Si <hi>spiritus promptus,</hi> sed <hi>caro</hi> sine patientia <hi>infirma 
+ <note>(Matth., XXVI)</note>
+            </hi>, ubi salus spiritus et
+carnis ipsius. At quum hoc Dominus de carne dicit,
+infirmam pronuntians, quid ei firmandae opus sit,
+ostendit, patientia scilicet adversus omnem subvertendae
+fidei vel puniendae paraturam, ut verbera,
+<pb n="1270B"/>
+ut ignem, ut crucem, bestias, gladium constantissime
+toleret, quae Prophetae, quae Apostoli
+sustinendo vicerunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV</head>
+<p>His patientiae viribus secatur Isaias, et de Domino
+non tacet. Lapidatur Stephanus, et veniam hostibus
+suis postulat <note>(Act. VII)</note>. O felicissimum illum quoque,
+qui omnem patientiae speciem adversus omnem diaboli
+vim expunxit, quum non abacti greges, non illae
+in pecore divitiae, non filii uno ruinae impetu adempti,
+non ipsius denique corporis in ulcere cruciatus a
+patientia et fide Domino debita exclusit, quem
+diabolus totis viribus frustra caecidit <hi>(Job, I)</hi>! Neque
+enim a respectu Dei tot doloribus avocatus ille est;
+sed constitit nobis in exemplum et testimonium, tam
+<pb n="1270C"/>
+spiritu quam carne, tam animo quam corpore patientiae
+perpetrandae; ut neque damnis saecularium,
+nec amissionibus carissimorum, nec corporis
+quidem conflictationibus succidamus. Quale in illo
+viro feretrum Deus diabolo exstruxit <hi>(Joh, II)</hi>!
+<pb n="1271A"/>
+Quale vexillum de inimico gloriae suae extulit, cum
+ille homo, ad omnem acervum nuntiorum
+nihil ex ore promeret, nisi Deo gratias; cum uxorem
+jam malis delassatam, et ad prava remedia suadentem
+exsecraretur. Quid? Ridebat Deus. Quid? Dissecabatur
+malus: cum Job immundam ulceris sui
+redundantiam magna aequanimitate destringeret;
+cum erumpentes bestiolas inde in eosdem specus
+ et pastus reformosae carnis ludendo
+revocaret. Itaque operarius ille victoriae Dei, retusis
+omnibus jaculis tentationum lorica clypeoque patientiae,
+et integritatem mox corporis a Deo recuperavit,
+et quae amiserat conduplicata possedit. Et
+si filios quoque restitui voluisset, pater iterum vocaretur.
+Sed maluit in illo die reddi sibi. Tantum
+gaudii, securus sic de Domino, distulit; sustinuit
+tam voluntariam orbitatem, ne sine aliqua patientia
+viveret.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p>Adeo satis idoneus patientiae sequester Deus. Si
+injuriam deposueris penes eum, ultor est; si damnum,
+restitutor est; si dolorem, medicus est; si mortem,
+ressuscitator est. Quantum patientiae licet, ut Deum
+habeat debitorem! Nec immerito. Omnia enim placita
+ejus tuetur: omnibus mandatis ejus intervenit. Fidem
+<pb n="1272A"/>
+munit, pacem gubernat, dilectionem adjuvat,
+humilitatem instruit, poenitentiam exspectat, exomologesim
+adsignat, carnem regit, spiritum servat, linguam
+fraenat, manum continet, tentationes inculcat,
+scandala pellit, martyria consummat, pauperem consolatur,
+divitem temperat, infirmum non extendit,
+valentem non consumit, fidelem delectat, gentilem
+invitat, servum domino, dominum Deo commendat,
+foeminam exornat, virum approbat: amatur
+in puero, laudatur in juvene, suspicitur in sene; in
+omni sexu, in omni aetate formosa est. Age jam, si
+et effigiem habitumque ejus comprehendamus. Vultos
+illi tranquillus et placidus, frons pura, nulla moeroris
+aut irae rugositate contracta; remissa aeque in laetum
+modum supercilia, oculis humilitate, non infelicitate,
+dejectis. Os taciturnitatis honore signatum. Color,
+qualis securis et innoxiis. Motus frequens capitis in
+diabolum, et minax risus. Caeterum amictus circum
+pectora candidus, et corpori impressus, ut qui nec
+inflatur, nec inquinatur. Sedet enim in throno
+spiritus ejus mitissimi et mansuetissimi, qui non turbine
+glomeratur, non nubilo livet, sed est tenerae
+serenitatis apertus et simplex, quem tertio vidit
+Elias. Nam ubi Deus, ibidem et alumna ejus, patientia
+scilicet <note>(Matth., XVII)</note>: cum ergo spiritus Dei
+<pb n="1273A"/>
+descendit, individua patientia comitatur eum. Si
+non cum spiritu admiserimus, in nobis morabitur
+semper? Imo nescio an diutius perseveret. Sine
+sua comite ac ministro, omni loco ac tempore angatur
+necesse est. Quodcumque inimicus ejus inflixerit, solus
+sustinere non poterit, carens instrumento sustinendi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p>Haec patientiae ratio, haec disciplina, haec opera caelestis
+et vera, scilicet christiana; non, ut illa patientia
+gentium terrae, falsa, probrosa. Nam ut, in isto
+quoque, Domino diabolus aemularetur, quasi plane ex
+pari, nisi quod ipsa diversitas mali et boni aequaliter
+magnitudinis par est, docuit et suos patientiam
+propriam: illam dico, quae maritos dote venales, aut
+<pb n="1274A"/>
+lenociniis negotiantes uxorum potestatibus subjicit;
+quae occupandis orbitatibus omnem coacti obsequii
+laborem mentitis affectionibus tolerat; quae ventris
+operarios contumeliosis patrociniis subjectione
+libertatis gulae addicit. Talia nationes patientiae
+studia noverunt; et tanti boni nomen foedis operationibus
+occupant: patientes rivalium et divitum et invitatorum,
+impatientes solius Dei vivunt. Sed viderit
+sua et sui praesidis patientia, quam
+subter ignis exspectat. Caeterum nos amemus
+patientiam Dei, patientiam Christi: rependamus illi
+quam pro nobis ipse dependit. Offeramus patientiam
+spiritus, patientiam carnis, qui in resurrectionem
+ carnis et spiritus credimus.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

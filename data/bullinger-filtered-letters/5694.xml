@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5694" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Szymon Budny / Kleck an [Heinrich Bullinger], 18. April 1563</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/5694</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="33044" type="transcription">S. 6205/49</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 367,227-230</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Magno quidem desiderio scribendi ad pietatem tuam iam pridem detinebar</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Wotschke, «Der Briefwechsel der Schweizer mit den Polen», S. 172ff</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>M.V. Dimitriev; Feodorij Kosoj, Bibliotheca Dissidenitium 19 (BB Aureliana 159), 32</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Teilübersetzung">
+								<title>Stanislaus Kot: Szymon Budny, Der grösste Haeretiker Litauens im 16. Jh., in: Wiener Archiv für Geschichte des Slaventums in Osteuropa, 2, 1956, 70</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Teilübersetzung">
+								<title>Christoph Schmidt: Calvinisten, Täufer, Orthodoxe, Juden in der litauischen Reformation, in: Zeitschrift für Religions- und Geistesgeschichte 52/4, 2000 [TS. Per L 1: 52], 323 f.</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erwähnung">
+								<title>Wotschke: Thretius 26 f.</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>Wotschke, Polen 209</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>Zu diesem Brief mit Veröffentlichung des beigelegten "Libellus" siehe Erich Bryner, in: Zwa 37 (2010), S. 117-160 (lateinischer Text des "Libellus" auf S. 126-137; deutsche Übersetzung ebenda, S. 138-149; möglicher Autor des Libellus auf S. 156 f.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Beilage" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Beilage">E II 367,231-242</idno>
+						<idno subtype="Hinweis">Libellus; veröffentlicht von E. Bryner in Zwa 37 (2010), S. 126-137</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p510" cert="high"/>
+					<placeName ref="l250" cert="high"/>
+					<date when="1563-04-18" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="999">Latein</language>
+				<language ident="de" usage="1">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t2"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5694!Autograph!00%20E_II_367__S__227_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">5694/Autograph/00 E_II_367__S__227_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5694!Autograph!01%20E_II_367__S__228_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">5694/Autograph/01 E_II_367__S__228_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5694!Autograph!02%20E_II_367__S__229_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">5694/Autograph/02 E_II_367__S__229_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5694!Autograph!03%20E_II_367__S__230_.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">5694/Autograph/03 E_II_367__S__230_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Gratiam et pacem a deo patre per Iesum Christum, redemptorem nostrum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Magno quidem desiderio scribendi ad pietatem tuam iam pridem detinebar, vir clarissime, imo vero magna quoque, (prout mox patebit) necessitate ad scribendum cogebar.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Verum primum quidem tanta locorum distantia in causa fuit, quominus ei desiderio necessitatique paruissem.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">In eo siquidem orbe versari contigit, in quo isthinc nulli tabellarii, frequentissime vero Scythę, <persName>Moschi</persName> caeterique barbari visuntur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Sed tandem id inpedimentum ante aliquot dies sustulit colloquium, quod mihi cum humanissimo viro domino <persName>Hieronymo Macovio</persName> eius ipsius (quam incolo), urbis pręfecto intercessit.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Ex eo enim intellexi, selectum se esse ab ill. principe nostro filio suo itineris ducem in <placeName ref="l862">Helvetiam</placeName>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Verum enim vero restabat adhuc et aliud maius scribendi impedimentum, nimirum tenuitatis meae conscientia.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Haec enim sola facile animum deiiciebat meum, donec tandem tenuitatis proprię oblitus tuum candorem, affabilitatem ac summam humanitatem (quę omnia tum in omnibus scriptis tuis abunde relucent, tum ab illis, qui te de facie norunt, pleno ore prędicantur) perpendere cępi.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Haec enim facile mihi persuaserunt, ne non sibi promitterem, omnia te boni consulturum ac condonaturum mihi, si quid parum apte dictum fuerit.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la">Confido quoque minime te in illius regionis homine expetiturum aut dicendi artificium aut solidam eruditionem, quam ob frigidum sidus nullae unquam inhabitarunt musae.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Illud porro non mediocriter me exhilarat animumque auget, quod videam tuam humanitatem etiam ex industria splendorem vocum in suis scriptis negligere, simplici vero dictione uti ac contentam esse.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Postremo et illud non modicum spei in me accendit, quod manifestissimos evangelii hostes etiam multis sese ultro proscindendi occasionibus oblatis tam humaniter quamvis nequaquam frigide tractare soleas.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Sed de iis paucis pręfari sufficiat, nunc itidem paucis (neque enim plusculum temporis ad id verbosius prosequendum datur) de illa, cuius initio memini, necessitate placidis auribus accipe.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Ante aliquot annos, quum se iam lux verbi divini intra <placeName ref="l822">Germanię</placeName>, <placeName ref="l862">Helvetię</placeName>, <placeName ref="l830">Anglię</placeName> <placeName ref="l832">Gallięque</placeName> fines continere minime posset, magno dei beneficio etiam his incultis regionibus affulsit ac pręcipue illustrissimum principem nostrum <persName ref="p8117">Nicolaum Radivilum</persName>, <placeName>Olycae</placeName> et <placeName>Nesuisii</placeName> ducem etc. (cuius tua pietas etiam scriptis suis nomen celebravit) eadem illa lux illustravit.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Hic porro princeps inter alia egregia christianoque principe digna specimina illud non postremum aedidit.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Neque enim eo contentum se esse voluit, quod ipse cum sua aula Christi doctrinam amplexus esset, nisi eadem huce omnes latissimarum suarum ditionum homines cerneret illustratos.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la">Proindeque citra moram conquisitis undique piis evangelii ministris singulis civitatibus singulos attribuit, in quorum albo et ego licet parum tanto muneri aptus numeror.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Pręterea templa iconolatrarum aut claudi aut repurgari iussit et alia, quę tantum principem decent, diligenter peragi curavit, quę quidem parum ad praesens institutum pertinent.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">Illud, quod propius ad rem facit, afferam.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Divisis enim ad eum modum nobis nempe per varia loca diversae opiniones superstitionesque et idolomaniae obvenerunt diversis impugnandę.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la">Quibusdam enim superstitiones papę obtigerunt evellendae, aliis vetustissimae ethnicorum idololatrię evertendae (siquidem etiam nunc <placeName ref="l841">Lituani</placeName> multos credunt deos ac ipsis sacrificant).</s>
+					<s n="22" xml:lang="la">Rursus vero aliis cum <persName>Gręcorum</persName> opinionibus certandum nimirum nobis, quibus in Russia ecclesiae sunt commendatae.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la">Et de illis quidem, qui papam vel ethnicorum obsoletos cultus oppugnant, non est opus, ut quicquam a me hic dicatur.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la">Paparum enim fraudes vobis perquam notissimae sunt, ethnicismi vero reliquię potius ridendę quam rationibus convincendę.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la">Atqui <persName>Gręcorum</persName> sive opiniones sive ritus plurimum nobis facessunt negocii.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la">Est enim <placeName ref="l859">Russia</placeName> omnium Gręcanicarum superstitionum admiratrix imitatrixque diligentissima vel potius simia superstitiosissima.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la">Sed missis interim aliis superstitionibus, quę magna ex parte affines sunt papisticis quasque nullo negocio verbum dei strangulat ac dissipat, illud dumtaxat indicabo, quod nos hic male habet.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la">Id vero est vetus quidem illa sed nondum, ut expediebat, excussa Latinorum Gręcorumque controversia nempe de processione spiritus sancti.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la">Haec enim, inquam, omnibus nobis, qui in hiisce regionibus ministrant, magnam difficultatem parit.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la">Nostrae enim (seu nobis commissae) ecclesiae cum in aliis omnibus tum vero in eo Gręcorum sententiam amplectuntur ac defendunt.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la">Nos vero utpote in contraria nati atque adeo educati in ipso quidem prędicationis nostrae initio partim quidem eam ipsam controversiam non tanti, pro qua digladiari necesse sit, aestimavimus, partim vero suam illam opinionem tuebamur.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la">Verum posteaquam vehementius premeremur propiusque utramque sententiam inspexissemus, subito alia iniire coacti sumus consilia.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la">Ante annum siquidem <placeName ref="l552">Vilnensis</placeName> ecclesię pastores ac seniores coram consuluimus, postea vero charissimus frater ac symmistes <persName>Laurentius Criscovius</persName>, ecclesiae <placeName>Nesuisensis</placeName> pastor, etiam quosdam <placeName ref="l673">Minoris Poloniae</placeName> ministros datis ad se literis consuluit.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la">Et <placeName ref="l552">Vilnenses</placeName> quidem visis <placeName ref="l859">Russorum</placeName> rationibus imo matura deliberatione expensis ac probe exacteque cognitis Gręcorum sententiae nequaquam reclamant.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la">Poloni vero nondum quicquam certi responderunt, nec mirum sane, quandoquidem minime necessariam eam quęstionem omnes hactenus putarunt.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la">Quod quidem et doctissimis quibusque viris usu evenisse in manifesto est.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la">Quis enim neotericorum eam controversiam pęnitius inspexit?</s>
+					<s n="38" xml:lang="la">Omnes enim Latinos sequuntur nihilque in eo periculi subesse putant.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la">Sed missa facio ista.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la">Te vero, vir clarissime, videmus non omnino intactam eam ipsam controversiam reliquisse.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la">Habemus in manibus dulcissimas pientissimasque tuas conciones, quas ante aliquot annos non sine ingenti rei publicae christianae profectu in apocalypsin aedidisti.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la">In quibus quamvis Latinorum vulgoque receptam sententiam probas ac diserte etiam defendis, fecit tamen nobis spem candor tuus, quod si necdum mota quęstione tum fueris, ultro illius pristinae controverisae memor, multo magis nunc (requisitus scilicet) in eam sis animadversurus.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la">Atque ob eam causam hocce <persName>Russorum</persName> contra Latinorum opinionem scriptum ex lingua nobis vernacula tumultuarie translatum ad tuam pietatem mitto (ieiunum quidem illud non tamen omnino aspernandum) ut videlicet pro tuo candore re propius inspecta, quid sit nobis sequendum, scripto demonstres.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="la">Quamvis enim et viciniores adhuc de eadem re ecclesias consulere decrevimus, non tamen propterea eam occasionem negligendam mihi putavi.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la">Oro itaque, vir clarissime, idque omnium <placeName ref="l859">Russię</placeName> ministrorum nomine, ut nobis ea in re pręsens auxilium feras ac alteram sententiam pro tua doctrina variisque dotibus verbo dei consentaneam subindices.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="la">Scio quidem eam quęstionem abs t[ua] p[ietate] scrupulosam vocari, verum quidem id est, fateor.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la">At ab illius tractatione nostri <placeName ref="l859">Russi</placeName> nequaquam ob id desistent.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="la">Scio pręterea, quibus armis Latini contra Gręcos pugnent et quamvis huc ad nos aegre perveniant libri, vidimus tamen quorundam in ea controversia pro Latinis defensiones, sed illa omnia nullo negotio a Russis refutantur.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la">Vidimus <persName ref="p18357">Thomae Aquinatis</persName>, papistarum antesignani, disputationes, illius quoque eorundem <persName>Apollinis</persName> vel Sphingis (prout ab illis censetur) <persName ref="p5683">Petri Lombardi</persName>, inquam, subterfugia.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la">Sed et <persName ref="p7824">Georgii Trapezuntii</persName> in gratiam papae sophisticationes legimus scriptas.</s>
+				</p>
+				<p>
+					<s n="51" xml:lang="la">Parvi omnia videlicet, ne dicam, minimi momenti.</s>
+				</p>
+				<p>
+					<s n="52" xml:lang="la">Tuum vero illud ab Aquinate argumentum mutuatum plus quam adamantinum mihi olim videbatur.</s>
+				</p>
+				<p>
+					<s n="53" xml:lang="la">Atqui quam facile discerpatur ab adversariis, videat tua pietas.</s>
+				</p>
+				<p>
+					<s n="54" xml:lang="la">Ad eum modum enim tuę pietatis argumentum sonat.</s>
+				</p>
+				<p>
+					<s n="55" xml:lang="la">Si una est patris et filii substantia et natura, non video, quo modo spiritus possit a patre procedere, ut non etiam procedat a filio.</s>
+				</p>
+				<p>
+					<s n="56" xml:lang="la">Atqui inquiunt, si hęc argumentatio valet, sequeretur et filium non solius patris sed et spiritus sancti filium esse.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="la">Clarum est enim non modo filium communem cum patre habere substantiam et naturam, verum etiam et spiritum sanctum.</s>
+				</p>
+				<p>
+					<s n="58" xml:lang="la">Si igitur ob id spiritus sanctus etiam a filio procedit, quod filius unius sit cum patre substantię et naturae, certe necessario sequeretur filium non tantum natum esse ante secula ex patre, sed simul quoque ex sancto spiritu, quandoquidem etiam spiritus sanctus eiusdem sit substantiae ac naturae cum patre etc.</s>
+				</p>
+				<p>
+					<s n="59" xml:lang="la">Proinde iterum atque iterum obsecro, vir clarissime, ut his omnibus rite expensis haud deesse nobis digneris.</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="la">Persuasum autem mihi de tuo est candore, quod etiam si fortassis quidpiam molestiae in eo sit, si aeditio corrigatur, non te passurum tamen plus privatae autoritatis rationem quam communem utilitatem adeoque veritatem ipsam apud te valituram.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="la">Ad finem vero precor, ne quid sinistri de me suspiceris neve alio animo ista abs me scribi, quam quod doceri cupiam, opineris.</s>
+				</p>
+				<p>
+					<s n="62" xml:lang="la">Loquacitatem porro meam fac boni consulas.</s>
+				</p>
+				<p>
+					<s n="63" xml:lang="la">Fateor nullo ordine ea non tam scripta quam confusa, sed, prout iam dixi, humanitas tua effecit, ut nihil horum recorder.</s>
+				</p>
+				<p>
+					<s n="64" xml:lang="la">Deum opt. max. precor, ut te nobis diu incolumem servet.</s>
+				</p>
+				<p>
+					<s n="65" xml:lang="de">Amen.</s>
+				</p>
+				<p>
+					<s n="66" xml:lang="la">Clecesci, ex tempore adeoque raptim, ut ne transcribendi quidem facultas mihi esset, 18. dei aprilis anno restitutae salutis 1563.</s>
+				</p>
+				<p>
+					<s n="67" xml:lang="la"><persName ref="p510">Simon Budnaeus</persName>, <placeName ref="l250">Clecensis</placeName> pastor... doctissimo viro [<persName ref="p495">H]einricho Bullingero</persName>... hri <placeName ref="l587">Tigurinae</placeName> pas[tori vigil] antissimo, domino [... p]atri omnibus modis [colen]dissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

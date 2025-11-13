@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1878" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wolfgang Musculus (Müsli, Meuslin) / Bern an Heinrich Bullinger / Zürich, 29. Mai 1553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/1878</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="23078" type="transcription">S. 3134</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 360,191 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Poterant vestri fratres et symmystae pro viva nobis esse ad vos epistola: verum quoniam in calce literarum</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XIV, S. 538f, Nr. 1743</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 79,123</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8417" cert="high"/>
+					<placeName ref="l41" cert="high"/>
+					<date when="1553-05-29" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="989">Latein</language>
+				<language ident="de" usage="11">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1878!Autograph!00%20E_II_360__S__191_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">1878/Autograph/00 E_II_360__S__191_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1878!Autograph!01%20E_II_360__S__192_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">1878/Autograph/01 E_II_360__S__192_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Poterant vestri fratres et symmystae, compater in domino charissime, pro viva nobis esse ad vos epistola: verum quoniam in calce literarum, quas ad compatrem meum d. <persName ref="p8018">Hallerum</persName> per eos scripsisti, iterum urges, ut de disciplina castigatoria et excommunicatione ecclesiastica, quam nonnulli fratres hodie instanter urgent, quid sentiam, aperiam, visum est tribus quatuor verbis ea de re ad te scribere.</s>
+					<s n="3" xml:lang="la">Necessarium esse ecclesiis castigationis et emendationis disciplinam, puto nemo cordatus inficias ibit.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">De modo illius non convenit mihi cum illis, qui hanc necessario putant esse ad formam pristinae restituendam ecclesiae, in qua magistratus alienus erat a professione nominis Christi.</s>
+					<s n="5" xml:lang="la">Ibi<note type="margin">a.R.: Ubi oder Korr. in Ibi?</note> necessarium erat ut iudicia castigatoria in coetibus fidelium exercerentur, de quibus in Apologetico <persName ref="p17746">Tertulliani</persName> Cap. 39 videre licet.</s>
+					<s n="6" xml:lang="la">Iam vero postquam impleri coepit illud Ps. 2:</s>
+					<s n="7" xml:lang="la">Et nunc reges intelligite, erudimini qui iudicatis terram, servite domino in timore et osculamini filium, etc. arbitror emendationem viciorum et castigationes delinquentium, verbo videlicet doctrinae non acquiescentium, partim per consistoria, ut vocant, in quibus et senatores et ministri sedeant, ad hoc a magistratu delecti, partim a magistratu ipso in gravioribus flagiciis et incorrigilibus sceleribus, sic exerceri posse, ut non sit respiciendum ad formam prioris ecclesiae.</s>
+					<s n="8" xml:lang="la">Et quae ad eum modum in usu est disciplina, non debet haberi pro ethnica, quasi alienus sit ab ecclesia magistratus, et Christo domino non serviat, corrigens vicia et castigans delinquentes.</s>
+					<s n="9" xml:lang="la">In summa sententia mea est, rem esse necessariam castigare et emendare peccantes, modum vero usurpandum esse eum qui faciat ad scopum aedificationis non destructionis, et secundum qualitatem cuiusque possit obtineri ecclesiae, et sine ulla disturbatione non inchoari modo, sed et constanter et cum fructu durare.</s>
+					<s n="10" xml:lang="la">Habes breviter quid sentiam.</s>
+					<s n="11" xml:lang="la">Et hanc mentem meam in scriptis quoque meis haud dissimulavi, sed, licet obiter, attigi tamen, sicuti videre est in Ioann. cap. 6 ibi: Sunt quidam ex vobis qui non credunt.</s>
+					<s n="12" xml:lang="la">Malim tamen legere tuas hac de re cogitationes.</s>
+					<s n="13" xml:lang="la">Caeterum per gratiam domini bene valeo cum meis.</s>
+					<s n="14" xml:lang="la">Opto ut et vos isthic commode agatis.</s>
+					<s n="15" xml:lang="la" ana="salute">Bene vale et saluta tuos, fratres et amicos.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de"><placeName ref="l41">Bernę</placeName> 1553. 29. maii.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la"><persName ref="p8417">W[olfg.] Musculus</persName> tuus in domino.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Clarissimo viro m. <persName ref="p495">Heinrycho Bullingero</persName>, <placeName ref="l587">Tigurinae</placeName> ecclesiae pastori fidelissimo, domino et compatri suo in Christo charissimo.</s>
+					<s n="19" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file7205" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Richard Hilles] / [London] an [Heinrich Bullinger], 23. August 1567</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/7205</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="37083" type="transcription">S. 7057/107</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 369,64</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Magnum librum, Esaiam tuum, tuis videlicet expositum homilis, una cum literis tuis</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Ep. Tig. 2, 97f</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Übersetzung">
+								<title>Zurich Letters II, S. 164-166</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p1548" cert="low"/>
+					<placeName ref="l296" cert="low"/>
+					<date when="1567-08-23" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t5"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7205!Autograph!00%20E_II_369__fol__64_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">7205/Autograph/00 E_II_369__fol__64_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7205!Autograph!01%20E_II_369__fol__64_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">7205/Autograph/01 E_II_369__fol__64_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Salutem precor tibi, vir colendissime charissimeque amice, plurimam.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Magnum librum, Esaiam tuum, tuis videlicet expositum homiliis, una cum literis tuis mihi gratissimis 25 februarii proxime preteriti datis, a domino <persName ref="p6">Iohanne Ab[elo]</persName> (qui te etiam salvere iubet plurimum) ante quatuor menses accepi.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Quo me volumine dono dedisti (sicuti fiet volente deo) ut hoc muneris a te habeam in perpetuae amicitiae simbolum.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Danielem etiam cum epitome, homiliis tuis 26 expositum, mihi a predicto domino <persName ref="p6">Ioanne Ab[elo]</persName> fratre charissimo comparavi.</s>
+					<s n="5" xml:lang="la">Utrique mihi quam maxime complacent libri; speroque homilias illas voluminis utriusque non parum utilitatis allaturas fidelibus et diligentibus lectoribus.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Quantum ad hoc attinet, quod cupias de rebus <placeName ref="l2529">Brabanticis</placeName> certo edoceri, et me rogas, ne hic te negligem, quantum quidem mihi licuerit per otium et negotium; certiorem te nunc facio, charissime domine, me iam de iisdem rebus, quantum certi ipsemet novi, vel per amicos scire potui, literis commisisse, et quasi historiolam perbrevem inde scripsisse.</s>
+					<s n="7" xml:lang="la">Quam quidem si Latine transferri procurare possim (sicuti pedagogus quidam mihi amicus promisit se facturum), mittam ad te, vel saltem <placeName ref="l157">Francofordiae</placeName> pro te, ad nundinas proximas quadragesimales, si tamdiu mihi deus concesserit vivere.</s>
+					<s n="8" xml:lang="la">Gaudeo certe tuas illas duas natu minimas filias nubiles ita rem domesticam tam prudenter et egregie tibi administrare, ut commode poteris vivere viduus.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Fertur hic pro certo, <persName ref="p20183">ducem de Alva</persName>, qui cum <persName ref="p18575">regiis Hispaniae</persName> copiis iam nunc <placeName ref="l1322">Lovanae</placeName> aut <placeName ref="l168">Gandavo</placeName> venit, atque ibi in inferiore <placeName ref="l822">Germania</placeName> et <placeName ref="l15">Antverpiae</placeName> copias illas collocavit, nomine regie illius maiestatis, velle omnibus illius patriae civitatibus, quae predicationem protestantium proxime elapso anno admiserunt, seu libere permiserunt, libertates et privilegia adimere, et <placeName ref="l20">inferiorem Germaniam</placeName> in iustam monarchiam re[di]gere.</s>
+					<s n="10" xml:lang="la">Domini voluntas fiat, absque cuius permissione nihil faciet.</s>
+					<s n="11" xml:lang="la">Precemur ex animo ut nobis pacem dare dignetur in diebus nostris: quae adhuc perseverat integra per dei gratiam hic in regno <placeName ref="l830">Angliae</placeName>; preterquam quod adhuc aliqui ex contionatoribus nostris (quamvis non ex doctissimis), scrupulositate magna detentis, seu inani quadam gloria, vel vulgi aliquibus applausibus devictis, deturbant quandoque eam, propterea quod repugnant seu contradicunt reginae et regni totius ordinationi de lineis vestibus utendis vel gestandis, dum psalmi in ecclesia canunter, lectiones sacrae leguntur, et sacramenta administrantur.</s>
+					<s n="12" xml:lang="la">Ego autem sentio cum beato <persName ref="p18986">Hieronimo</persName><note type="margin">a.R.: libro primo adversus Pelagianos</note>, non esse "inimititias contra deum, si episcopus, presbiter et diaconus, et reliquus ordo ecclesiasticus in administratione sacrifitiorum candida veste processerint."</s>
+					<s n="13" xml:lang="la">"Porro religio alterum habitum habet in ministerio, alterum in usu et vita communi: vestibus autem lineis utebantur <placeName ref="l2688">Aegiptii</placeName> sacerdotes" (qui etiam, ut optime nosti, tempore <persName ref="p18986">Hieronimi</persName> christiani fuerunt) "non solum intrinsecus, sed et extrinsecus.<note type="margin">a.R.: In commentario in Ezechielem, lib. 13. cap. 44.</note>"</s>
+					<s n="14" xml:lang="la">Et vere Christi discipuli, quantum in illis est, pacem colebunt cum omnibus hominibus; neque offendiculo erunt incredulis neque ecclesiis dei.</s>
+					<s n="15" xml:lang="la">Orandus est dominus, ut unanimes nos faciat habitare in dei domo, quę est ecclesia, et ut omnes contentiones supervacaneas et mala tollat omnia offendicula.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Dominus servet te.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la"><placeName ref="l296">Londini</placeName>, 23 augusti, anno 1567.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Tuus ex animo, etc.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">[<persName ref="p1548">Richardus Hilles</persName>.]</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Doctissimo viro domino <persName ref="p495">Henrico Bullingero</persName>, amico mihi charissimo dentur literae.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+				<p>
+					<note type="author">[von anderer Hand.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

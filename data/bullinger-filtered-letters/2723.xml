@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2723" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an Bernardin Bochetel, Abbé de Saint-Laurent (Sanlaurentius) / Solothurn, 10. September 1555</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/2723</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="25146" type="transcription">S. 3998</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 342,307</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Lavater, Ludwig</author>
+							<incipit>Ego vero maximas tuae pietati humanitatique gratias ago pro Clemente illo tuo, quem eum iam nunc acceperim</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<sealDesc>
+							<seal><p>ohne Siegel</p></seal>
+						</sealDesc>
+					</physDesc>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>Bouvier, 1940, S. 239f</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 85,161</idno>
+						<idno subtype="Ära">18. Jh.</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+					<date when="1555-09-10" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8183" cert="high"/>
+					<placeName ref="l468" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2723!Kopie!00%20E_II_342__fol__307_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">2723/Kopie/00 E_II_342__fol__307_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2723!Kopie!01%20E_II_342__fol__307_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">2723/Kopie/01 E_II_342__fol__307_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Ego vero maximas tuae pietati humanitatique gratias ago, vir illustris et multis nominibus mihi observande, pro Clemente illo tuo, quem cum iam nunc acceperim, totum legere non potui, mox tamen quaedam eius legi videbarque mihi subolfacere librum esse suppositicium, transcriptum ex libris recognitionum, quos olim edidit <persName ref="p18889">Ruffinus</persName>.</s>
+					<s n="3" xml:lang="la">Initium certe petitum est ex epistola, quae <persName>Clementis</persName> dicitur ad Iacobum fratrem domini; mox tamen transit ad primum recognitionum librum, ex quo cum quaedam recitavit, transibit post aliquot folia in librum recognitionum 2, ut, tametsi non videatur interpreti horum librorum esse epitomen, ipsa tamen res loquatur ex iis esse petitum.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Compendium et ipse nego, cum non brevitate commoda complectatur, quae in libris illius fusius describuntur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Apparet omnino rapsodiam esse lectoris alicuius librorum Clementis, quam inter legendum sibi paraverit omissis multis et alicubi serie historiae pro arbitrio contextae.</s>
+					<s n="6" xml:lang="la">Hoc ipsum et te iudicaturum puto, si contuleris hunc librum cum recognitionum libris.</s>
+					<s n="7" xml:lang="la">Caeterum de interprete libelli tibi subscribo; videtur enim non ubique sensum authoris probe reddidisse.</s>
+					<s n="8" xml:lang="la">Iam vero quid de opere ipso sentiam, tum libris illis 10 tum collectura hac inde haud dubie petita, quia ita iubes, paucis exponam.</s>
+					<s n="9" xml:lang="la"><persName>Clementis</persName> alicuius fuisse scriptoris Graeci non negavero, sed veteris illius Romani episcopi, discipuli Petri et <persName>Pauli</persName> fuisse non credo.</s>
+					<s n="10" xml:lang="la">Cur non credam, haec est ratio: dogmata et dogmatum tractatio non videtur gustium referre simplicitatis et synceritatis apostolicae; miscentur plurima philosophica et multa nihil a fabulis aliena, alienissima autem a gravitate apostolica et virorum apostolicorum.</s>
+					<s n="11" xml:lang="la">Deinde, cum celeberrimus scriptor ecclesiasticae historiae <persName>Eusebius</persName>, vir ad miraculum usque eruditus et diligens, omnes scriptores ecclesiasticos recenseat et libros eorum annumeret, <persName>Clementis</persName> quoque, apostolici viri, mentionem non uno loco et, quod etiam scripserit ad Corinthios, non subticeat (libro ecclesiasticae historiae 3. cap. 15. etc.), horum autem librorum et epistolarum aliarum nullam faciat mentionem, cui obsecro ideo non sint opera illa suspecta?</s>
+					<s n="12" xml:lang="la">His accedit et beati <persName ref="p18986">Hieronymi</persName>, viri undecunque doctissimi, diligentia.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Scis illum elegantem et accuratum scripsisse de sciptoribus ecclesiasticis librum ac in illo ipso mentionem facere Clementis, viri apostolici, ac opera quoque eius commemorare et tamen nullam facere mentionem neque librorum recognitionum neque epistolae ad Iacobum, fratrem domini; meminit quidem epistolae cuiusdam alterius ab ea, quam ad Corinthios scripsit, sed adiicit illam reprobari a veteribus.</s>
+					<s n="14" xml:lang="la">Extat in libro conciliorum olim Lutetię et Coloniae edito decretum Gelasii papae cum 70 episcopis de apocryphis scripturis, in quo inter alia itinerarii nomine Petri apostoli, quod appellatur <persName>S. Clementis</persName>, libri 10. apocryphi sunt.</s>
+					<s n="15" xml:lang="la">Iam et <persName>Marsilius Patavinus</persName>, iuris consultissimus et eruditionis rarae lectionisque multifariae, Defensorium pacis ante 200 annos conscripsit ac in dictione 2. cap. 28. asserit epistolas <persName>Clementis</persName> ad Iacobum fratrem domini esse suspectas.</s>
+					<s n="16" xml:lang="la">Abbas vero Trittenheymius mox ab initio scriptorum suorum ecclesiasticorum "<persName>Clementis</persName> itinerarii libri 10", ait, "item Disputationis Petri inter apocrypha computantur, ut patet 15. distinct.</s>
+					<s n="17" xml:lang="la">Sancta Romana; feruntur eius et aliae epistolę, sed apocryhae."</s>
+					<s n="18" xml:lang="la">Haec in praesenti, quae tibi responderem ad tuam petitionem, habui.</s>
+					<s n="19" xml:lang="la">Tu haec boni consulas, oro, ac me tuae pietati commendatum habeas.</s>
+					<s n="20" xml:lang="la" ana="farewell">Vale.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la"><placeName ref="l587">Tiguri</placeName> 10. septembris anno domini 1555.</s>
+					<s n="22" xml:lang="la">T[uae] p[raestantiae] <persName ref="p495">H[einrychus] Bullingerus</persName> etc.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la">Ambassatori regio <persName>Sanlaurentio Soloduri</persName><note type="misc">zu Anfang am Rande</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

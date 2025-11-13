@@ -1,0 +1,2605 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De conjugiis adulterinis</title>
+              <author ref="http://viaf.org/viaf/66806872">Augustinus Hipponensis<date>354-430</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 40</title>
+           <idno>AugHip.DeCoAd</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <hi>LIBER PRIMUS.</hi> </head>
+<p>In quo tractantur quaestiones potissimum duae. Prima est in illud ad Corinthios, <hi>His autem qui sunt in conjugio praecipio . . .
+mulierem . . . si discesserit, manere innuptam,</hi> etc., quod Apostoli praeceptum Pollentio quidem videtur pertinere ad mulieres
+recedentes a viris praeter fornicationis causam, hisque solis prohibitum nubere alteri viro: contra autem Augustinus
+eas tantum spectare contendit, quae a viris fornicationis causa recesserint, atque praeter hanc causam recedere non
+permissum. Secunda quaestio est circa illud item ad Corinthios, <hi>Caeteris autem ego dico, non Dominus,</hi> etc. Hoc monendo
+dictum ab Apostolo docet Augustinus, ut scilicet fideles conjuges in relinquendis infidelibus permissa licentia non utantur:
+Pollentius contra sentit vetitum ibi esse a Paulo, ne conjuges etiam infideles dimittantur a fidelibus. Attingitur postremo
+quaestio de Catechumenis in ultimo vitae constitutis, an iis nec petentibus, nec pro se respondere valentibus prosit
+baptizari.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>In loco Pauli dissensus
+<pb n="0451"/>Pollentii et Augustini. An citra causam fornicationis
+discedere liceat conjugi sine nuptiis manere volenti.</hi> 
+Prima quaestio est, frater dilectissime Pollenti,
+earum quas ad me scribens, tanquam consulendo tractasti,
+quod ait Apostolus, <hi>His autem qui sunt in
+conjugio praecipio, non ego, sed Dominus, mulierem a
+viro non discedere; quod si discesserit, manere innuptam,
+aut viro suo reconciliari: et vir uxorem non dimittat <note>(I Cor. VII, 10 et 11)</note>
+            </hi>,
+utrum ita sit accipiendum,
+ut eam prohibuisse nubere intelligatur, quae sine
+causa fornicationis discessit a viro; id enim sentis:
+an sicut ego sensi in eis libris quos ante plurimos
+annos de sermone evangelico scripsi, quem secundum
+Matthaeum habuit Salvator in monte, illas innuptas
+manere praeceperit, quae a viris suis ea causa
+recesserint quae sola permissa est, id est, fornicationis.
+Videtur enim tibi tunc a viro discedentem feminam
+nubere non debere, si nulla viri fornicatione
+compulsa discesserit. Nec attendis, si nullam vir ejus
+causam fornicationis habuerit, non eam discedentem
+manere innuptam, sed omnino discedere non debere.
+Nam utique cui praecipitur, ut si a viro discesserit innupta
+permaneat, non discedendi aufertur licentia,
+sed nubendi. Quod si ita est, datur ergo licentia feminis
+quae continentes esse voluerint, nullum maritorum
+exspectare consensum, ut quod dictum est, <hi>mulierem a viro non discedere,</hi> 
+ eis praeceptum esse
+videatur; quae possent eligere, non continentiam,
+sed tale divortium quo liceret eis in aliorum nuptias
+convenire. Proinde quae dilexerint nullum desiderare
+<pb n="0452"/>
+concubitum, nullum ferre connubium, licebit eis viros
+suos etiam sine ulla fornicationis causa relinquere,
+et innuptas secundum Apostolum permanere.
+Et viri similiter (quoniam par forma est in utrisque),
+si continentes esse voluerint, etiam uxoribus non
+consentientibus deserent eas, et sine ullis nuptiis
+permanebunt. Tunc enim eis, ut putas, alia conjugia
+liceret inquirere, si fornicationis causa divortium
+nasceretur. Cum vero ista causa non est, superest,
+secundum id quod existimas, ut aut conjux non discedat
+a conjuge, aut si discesserit, sine conjugio maneat,
+aut ad pristinum conjugium revertatur. Nulla
+ergo existente causa fornicationis, cuilibet conjugi
+licebit unum de tribus eligere: aut non discedere a
+conjuge; aut si discesserit, sic manere; aut si non
+sic manserit, non alterum quaerere, sed priori se
+reddere.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Non licere conjugi discedere nisi ex
+fornicationis causa.</hi> Et ubi est quod idem apostolus,
+nec ad tempus, ut vacetur orationi, nisi ex consensu,
+voluit conjuges carnali fraudare invicem debito? Quomodo
+salvum erit quod ait, <hi>Propter fornicationes
+autem unusquisque uxorem suam habeat, et unaquaeque
+virum suum habeat. Uxori vir debitum reddat, similiter
+autem et uxor viro. Uxor non habet potestatem corporis
+sui, sed vir; similiter et vir non habet potestatem corporis
+sui, sed mulier <note>(I Cor. VII, 2-5)</note>
+            </hi>? Hoc quomodo verum
+erit, nisi quia nolente conjuge, non licet conjugi
+continere? Nam si licet mulieri sic dimittere virum,
+ut maneat innupta, non vir habet, sed ipsa sui corporis
+potestatem: quod etiam de viro intelligitur.
+<pb n="0453"/>
+Deinde cum dictum est, <hi>Quicumque dimiserit uxorem
+suam, excepta causa fornicationis, facit eam moechari <note>(Matth. V, 32)</note>
+            </hi>;
+quomodo dictum intellecturi sumus,
+nisi prohibitum esse homini dimittere uxorem, si
+nulla causa fornicationis exstiterit? Et dictum est
+quare, ne scilicet faciat eam moechari: utique ideo,
+quia etiamsi non ipsa dimiserit, sed dimissa fuerit,
+erit moecha, si nupserit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Locus Apostoli de muliere quae a viro
+fornicante discedit, intelligendus.</hi> Propter hoc ergo
+tam magnum malum, non licet homini dimittere uxorem,
+nisi ex causa fornicationis. Tunc enim non ipse
+dimittendo facit adulteram, sed dimittit adulteram.
+Quid si ergo dicat, Dimitto quidem uxorem meam
+sine ulla causa fornicationis, sed continens permanebo?
+ideone dicemus eum impune fecisse quod fecit?
+Quis hoc dicere audebit, qui voluntatem Domini
+haec dicentis intelligit? Quoniam nec continentiae
+causa dimitti conjugem voluit, qui solam causam
+fornicationis excepit.</p>
+<div3>
+            <head>3.</head>
+            <p>
+ Redeamus igitur ad ipsa Apostoli verba dicentis, <hi>His autem qui sunt in conjugio praecipio, non ego,
+sed Dominus, uxorem a viro non discedere; quod si discesserit,
+manere innuptam;</hi> 
+ et eum velut interrogemus,
+et tanquam praesentem quodam modo consulamus:
+Cur dixisti, Apostole, <hi>quod si discesserit, manere
+innuptam?</hi> Licetne discedere, an non licet? Si
+non licet, cur praecipis discedenti ut maneat innupta?
+Si autem licet, profecto est aliqua causa qua
+liceat. Haec autem inquisita non invenitur, nisi quam
+solam Salvator excepit, id est, causa fornicationis.
+Ac per hoc non praecepit Apostolus mulierem, si
+discesserit, manere innuptam, nisi quae illa causa discedit
+a viro, qua sola ei licitum est discedere a viro.
+Ubi enim dicitur, <hi>Praecipio non discedere; quod si
+discesserit, manere innuptam;</hi> absit ut contra hoc praeceptum
+faciat, quae sic discedit ut innupta permaneat.
+Nisi ergo illa intelligatur cui licet discedere
+(non autem licet nisi viro fornicante), quomodo jubetur
+innupta, si discesserit, permanere? Quis est
+qui dicat: Si discesserit mulier a viro non fornicante,
+innupta permaneat, cum ei nisi a viro fornicante
+discedere omnino non liceat? Sensus itaque
+iste tuus quantum adversetur vinculo conjugali, ubi
+Dominus nec continentiam voluit suscipi, nisi pari
+concordique consensu, puto quod jam intelligas.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<div3>
+            <head>4.</head>
+            <p>
+ <hi>Apostolus male intellectus de muliere
+ob continentiae placitum discedente.</hi> Sed rem ipsam
+paulo apertius proloquamur, et quasi constituamus
+ante oculos. Ecce placuit continentia mulieri, viro
+non placuit: discessit ab eo mulier, et coepit vivere
+continenter, ipsa scilicet casta mansura, sed factura,
+quod Dominus non vult, adulterum virum; qui cum
+se non continuerit, alteram quaeret. Quid sumus dicturi
+mulieri, nisi quod dicit Ecclesiae sana doctrina?
+Redde debitum viro, ne dum tu quaeris unde amplius
+honoreris, ille unde damnetur inveniat. Hoc enim et
+illi diceremus, si te nolente continere voluisset. Non
+enim habes potestatem corporis tui, sed ille: sicut
+<pb n="0454"/>
+nec ille habet potestatem corporis sui, sed tu. Nolite
+invicem fraudare, nisi ex consensu. Cum haec atque
+hujusmodi plura quae ad hoc pertineant dixerimus,
+placetne tibi ut nobis mulier ex ista tua ratione respondeat?
+Ego Apostolum audio dicentem, <hi>Praecipio
+mulierem a viro non discedere; quod si discesserit, manere
+innuptam, aut viro suo reconciliari:</hi> ecce discessi,
+nolo reconciliari viro, sed innupta permaneo. Non
+enim ait, Si discesserit, manere innuptam, donec
+viro suo reconcilietur; sed, <hi>manere,</hi> inquit, <hi>innuptam,
+aut viro suo reconciliari.</hi> Hoc, inquit, faciat, aut
+illud: unum e duobus eligendum permisit; non
+autem in horum alterum compulit. Manere innupta
+eligo, ac sic praeceptum impleo. Corripe, argue, increpa,
+utere qua volueris severitate, si nupsero.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<div3>
+            <head>5.</head>
+            <p>
+ <hi>Refutatur illa interpretatio Apostoli.</hi> 
+Quid huic contradicam; nisi, Apostolum non
+bene intelligis? Neque enim ille praecepisset, si a
+viro discesserit, innuptam manere mulierem, nisi
+eam cui discedere licuisset, illa una videlicet causa,
+quae ibi propterea tacita est, quia notissima est, hoc
+est, fornicationis. Hanc enim solam Deus magister excepit,
+cum de dimittenda loqueretur uxore; deditque
+intelligi talem formam etiam in viro esse servandam:
+quoniam non solum mulier non habet potestatem
+corporis sui, sed vir; sed similiter et vir non habet
+potestatem corporis sui, sed mulier. Cum ergo tuum
+maritum arguere de fornicatione non possis, quomodo
+putas quod ab eo discedis non nubendo excusare,
+a quo tibi non licet omnino discedere? Cum
+haec a nobis mulier audierit, puto quod nolis eam
+sic respondere, ut dicat propterea se manere innuptam,
+quia sine ulla viri fornicatione discessit; nam
+si ille fornicatus esset, non solum sibi discedere,
+verum etiam nubere licuisset.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<div3>
+            <head>6.</head>
+            <p>
+ <hi>Pollentii sententia, mulieri ab adultero
+discedenti nuptias cum alio non esse praecepto vetitas,
+sed tantum propter opprobrium vitandas.</hi> Nequaquam
+hoc illa diceret, cum et ipse sis verecundatus
+istam mulieribus dare licentiam. Dixisti enim:  « Si
+vir uxorem adulteram dimiserit, et aliam duxerit,
+mulier tantum opprobrium habebit. Si autem mulier
+supra dicta causa virum dimiserit, et alii nupserit,
+non vir tantum, sed et mulier opprobrium
+habebit. »  Cujus sententiae tuae rationem reddens:
+Dicent enim, inquis, eam ideo discessisse, ut alium
+virum sibi conjungeret, etsi talis forte fuerit qualis
+a quo discessit; perquam facile enim viris
+est, in hoc morbi vitium irruere. Si autem et ipsum
+dimiserit, et alii nupserit, magis magisque
+dicent eam numerositatem virorum appetisse. » 
+Hac reddita ratione concludis, et dicis:  « His ergo
+pertractatis vel etiam discussis, oportet mulierem
+virum tolerare, aut innuptam manere. »  Bonum
+plane dedisti consilium mulieribus, ut cum sciant
+sibi esse permissum, si adulteros viros dimiserint,
+aliis conjugari, non tamen faciant propter opprobrium;
+sed potius tolerent etiam adulteros viros, ne
+videantur hac occasione multis velle misceri, eo quod
+<pb n="0455"/>
+difficile sit ut non talem inveniat mulier cui nubat,
+qualis fuerit quem dimisit, quoniam valde in hunc
+morbum sunt proclives viri. Cum ergo nos dicimus
+etiam illi mulieri, quae virum fornicantem dimiserit,
+alteri nubere non licere, tu autem dicis licere quidem,
+sed non expedire; utrique procul dubio dicimus eam
+quae fornicantem virum dimittit, nubere non debere.
+Verum hoc interest, quod nos, quando conjuges
+ambo christiani sunt, mulieri, si a viro fornicante
+discesserit, dicimus non licere alteri nubere, a viro
+autem non fornicante non licere omnino discedere:
+tu vero dicis, si mulier a viro non fornicante discesserit,
+non ei licere alteri nubere, propter praeceptum;
+si autem a fornicante discesserit, non ei expedire
+nubere propter opprobrium. Mulierem itaque
+non nupturam discedere a viro, sive fornicante, sive
+non fornicante, permittis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<div3>
+            <head>7.</head>
+            <p>
+ <hi>Praecipi ut innupta maneat etiam
+quae ab adultero discedit.</hi> Porro beatus Apostolus,
+imo per Apostolum Dominus, quia mulierem non
+permittit a viro non fornicante discedere; restat ut
+eam prohibeat, si discesserit, nubere, quam permittit
+a fornicante discedere. De qua enim dicitur, Si a
+viro discesserit, non nubat; ea conditione discedere
+permittitur, ut non nubat. Si ergo elegerit non nubere,
+non est cur prohibeatur discedere. Sicut illa
+de qua dicitur, Si se non continet, nubat <note>(I Cor. VII,
+9)</note>; hac utique conditione non continere permittitur,
+ut tamen nubat. Si ergo elegerit nubere, cogi non potest
+continere. Sicut ergo ista incontinens compellitur
+nubere, ut possit quod non continet non esse
+damnabile: sic a viro illa discedens, innupta compellitur
+permanere, ut possit quod discedit non esse
+culpabile. Culpabiliter autem a viro non fornicante
+discedit, etiamsi innupta permanserit. Illa ergo innupta
+manere praecipitur, si discesserit, quae a fornicante
+discedit. Quae cum ita se habeant, si eo modo
+intellexerimus Apostolum, ut mulieribus dicamus,
+Ita nolite discedere a viris vestris etiam pudicis, ut
+si discedere volueritis, innuptae maneatis; omnes
+quibus placuerit continentia, etiam non consentientibus
+viris, existimabunt sibi licere discedere. Quod
+procul dubio quia permittere non debemus, restat
+ut quod dictum est, <hi>si discesserit, manere innuptam,</hi> 
+de illa dictum docere debeamus, cui licere discedere,
+non utique nisi a fornicante, didicimus. Ne si aliter
+docuerimus, obtentu continentiae perturbemus christiana
+conjugia, et contra misericordissimum Domini
+praeceptum dimissos a continentibus mulieribus
+incontinentes viros, vel a continentibus viris incontinentes
+mulieres in adulteria compellamus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<div3>
+            <head>8.</head>
+            <p>
+ <hi>Parem esse in ea re formam viri
+et mulieris.</hi> Illud ergo quod Dominus, non quidem in
+sermone ipso qui exponebatur a nobis, sed tamen
+alibi ait, <hi>Quicumque dimiserit uxorem suam, nisi ex
+causa fornicationis, et aliam duxerit, moechatur <note>(Matth.
+XIX, 9)</note>
+            </hi>, si hoc modo intelligendum est, ut quicumque
+causa fornicationis dimiserit et aliam duxerit,
+non moechetur; non videtur in hac causa par forma
+<pb n="0456"/>
+esse mariti et uxoris: quandoquidem mulier etiamsi
+causa fornicationis discesserit a viro et alii nupserit,
+moechatur; vir autem si eadem causa uxorem dimiserit
+et aliam duxerit, non moechatur. At si par forma
+est in utroque, uterque moechatur, si se alteri junxerit,
+etiam cum se a fornicante disjunxerit. Parem
+vero esse formam in hac causa viri atque mulieris,
+ibi ostendit Apostolus (quod saepe commemorandum
+est), ubi cum dixisset, <hi>Uxor non habet potestatem
+corporis sui, sed vir;</hi> adjecit atque ait, <hi>Similiter et
+vir non habet potestatem corporis sui, sed mulier.</hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<div3>
+            <head>9.</head>
+            <p>
+ <hi>Objectio Pollentii ex loco Matthaei.
+Refellitur ex simili loco Jacobi. Peccata ignorantium.
+Ex Marco et Luca Matthaeus intelligendus.</hi> 
+ « Cur ergo, inquis, interposuit Dominus causam fornicationis,
+et non potius generaliter ait, Quicumque
+dimiserit uxorem suam et aliam duxerit, moechatur;
+si et ille moechus est, qui dimissa fornicante
+muliere alteram ducit? »  Credo, quia illud quod
+majus est, hoc Dominus commemorare voluit. Majus
+enim adulterium esse quis negat, uxore non fornicante
+dimissa alteram ducere, quam si fornicantem quisque
+dimiserit, et tunc alteram duxerit? Non quia et
+hoc adulterium non est; sed quia minus est, ubi fornicante
+dimissa altera ducitur. Nam simili locutione
+usus etiam Apostolus Jacobus ait: <hi>Scienti igitur bonum
+facere, et non facienti, peccatum est illi (Jacobi
+IV, 17)</hi>. Numquid ideo non peccatum est illi etiam
+qui nescit bonum facere, et ideo non facit? Utique
+peccatum est; sed hoc gravius, si etiam sciat et non
+faciat: nec illud ideo nullum, quia minus. Ut ergo
+eodem modo utrumque dicamus: sicut quicumque
+dimiserit uxorem, excepta causa fornicationis, et
+aliam duxerit, moechatur; ita quicumque scit bonum
+facere, et non facit, peccat. Sed quemadmodum hic
+recte dici non potest, Ergo si nescit, non peccat;
+sunt enim etiam peccata ignorantium, quamvis minora
+quam scientium: ita nec illic recte dici potest,
+Ergo si causa fornicationis dimiserit, et aliam duxerit,
+non moechatur; est enim moechatio eorum etiam,
+qui alias ducunt, relictis propter fornicationem prioribus;
+sed utique minor quam eorum qui non propter
+fornicationem dimittunt, et alteras ducunt. Potest
+quippe, sicut dictum est, <hi>Scienti bonum facere, et
+non facienti, peccatum est illi;</hi> eodem modo et illud
+dici, Dimittenti uxorem sine causa fornicationis, et
+aliam ducenti, moechatio est illi. Quemadmodum igitur
+si dixerimus, Quicumque mulierem a marito praeter
+causam fornicationis dimissam duxerit, moechatur,
+procul dubio verum dicimus; nec tamen ideo
+illum qui propter causam fornicationis dimissam duxerit,
+ab hoc crimine absolvimus, sed utrosque moechos
+esse minime dubitamus: ita eum qui praeter
+causam fornicationis uxorem dimiserit et aliam duxerit,
+moechum pronuntiamus; nec ideo tamen eum
+qui propter causam fornicationis dimiserit, et alteram
+duxerit, ab hujus peccati labe defendimus. Ambos
+<pb n="0457"/>
+enim, licet alterum altero gravius, moechos tamen
+esse cognoscimus. Neque enim quisquam ita est
+absurdus, ut moechum neget esse qui duxerit eam
+quam maritus propter causam fornicationis abjecit,
+cum moechum dicat eum qui duxerit eam quae praeter
+causam fornicationis abjecta est: sic ergo isti
+ambo sunt moechi. Unde cum dicimus, Quicumque
+mulierem praeter causam fornicationis a viro dimissam
+duxerit, moechatur; de uno quidem ipsorum dicimus,
+nec tamen ideo moechari negamus eum qui
+eam duxerit, quam propter causam fornicationis maritus
+dimiserit: ita cum ambo sint moechi, et ille
+scilicet qui dimiserit uxorem suam praeter causam
+fornicationis et aliam duxerit, et ille qui propter causam
+fornicationis uxore dimissa se alteri copulaverit;
+profecto quando de uno eorum legimus, non ita
+intelligere debemus, quasi ex hoc alter moechus negatus
+sit, quod alter expressus sit.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Sed si hoc evangelista Matthaeus, quia expressa
+una specie alteram tacuit, facit ad intelligendum difficile;
+numquid non alii generaliter idipsum ita complexi
+sunt, ut de utroque posset intelligi? Nam secundum
+Marcum sic scriptum est: <hi>Quicumque dimiserit
+uxorem suam, et alteram duxerit, adulterium
+committit super eam; et si uxor dimiserit virum suum,
+et alii nupserit, moechatur <note>(Marc. X, 11 et 12)</note>
+            </hi>. Secundum
+Lucam sic: <hi>Omnis qui dimittit uxorem suam,
+et alteram ducit, moechatur; et qui dimissam a viro
+ducit, moechatur <note>(Luc. XVI, 18)</note>
+            </hi>. Qui ergo nos
+sumus, ut dicamus, Est qui moechatur, uxore
+sua dimissa alteram ducens, et est qui hoc faciens
+non moechatur, cum Evangelium dicat omnem moechari
+qui hoc facit? Proinde si quicumque hoc fecerit,
+id est, omnis qui hoc fecerit, ut uxore sua dimissa
+alteram ducat, moechatur; sine dubitatione ibi
+sunt ambo, et qui praeter causam fornicationis, et
+qui propter causam fornicationis dimittit uxorem.
+Hoc est enim, <hi>Quicumque dimiserit:</hi> hoc est, <hi>Omnis
+qui dimittit.</hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<div3>
+            <head>11.</head>
+            <p>
+ <hi>Matthaei locus tractatus in
+libris quos legit Pollentius, quomodo habeat.</hi> Non
+autem (sicut nescio quare tibi visum est), cum
+Evangelii secundum Matthaeum verba proferrem,
+praetermisi quod scriptum est, <hi>et aliam duxerit;</hi> et
+sic dixi, <hi>moechatur:</hi> sed ea verba posui quae in sermone
+illo prolixo leguntur, quem Dominus habuit
+in monte. Hunc enim tractandum susceperam, quae
+verba illic ita leguntur ut posui, id est, <hi>Quicumque
+dimiserit uxorem suam, excepta causa fornicationis,
+facit eam moechari; et qui solutam a viro duxerit, moechatur.</hi> 
+Ubi etsi nonnulla exemplaria verbis diversis
+eumdem sensum habent interpretatum, non tamen
+ab eo quod intelligitur discrepant. Alia quippe habent, <hi>Quicumque dimiserit:</hi> 
+ alia, <hi>Omnis qui dimiserit.</hi> 
+Itemque alia, <hi>excepta causa fornicationis.</hi> alia, <hi>praeter
+causam fornicationis:</hi> alia, <hi>nisi ob causam fornicationis.</hi> 
+Item alia, <hi>qui solutam a viro duxerit, moechatur:</hi> 
+alia, <hi>qui dimissam a viro duxerit, moechatur.</hi> Ubi
+puto quod videas nihil interesse ad unam eamdemque
+<pb n="0458"/>
+sententiam. Quamvis illud ultimum, id est, <hi>qui
+dimissam a viro duxerit, moechatur;</hi> in eo sermone
+quem Dominus fecit in monte, nonnulli codices et
+graeci et latini non habeant. Credo propterea, quia et
+ibi explicatus hic sensus putari potuit, in eo quod
+superius dictum est, <hi>facit eam moechari.</hi> Quomodo enim
+dimissa fit moecha, nisi fiat qui eam duxerit moechus?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<div3>
+            <head>12.</head>
+            <p>
+ <hi>Alius Matthaei locus subobscurus,
+sed ab evangelistis aliis explanatus.</hi> Verba vero
+quae ipse posuisti, unde tibi visum est non moechari
+eum qui propter causam fornicationis uxorem dimiserit
+et aliam duxerit, obscure quidem posita sunt.
+Unde non miror in eis intelligendis laborare lectorem:
+sed non sunt in eo sermone Domini, qui tunc
+a me tractabatur, quando illa conscripsi, quae cum
+legeres te moverunt. Alibi quippe idem Matthaeus ea
+Dominum dixisse narravit, non cum illum prolixum
+faceret in monte sermonem, sed cum interrogatus
+esset a Pharisaeis utrum liceret ex quacumque causa
+dimittere uxorem. Sec quod minus intelligitur apud
+Matthaeum, apud alios evangelistas intelligi potest.
+Quapropter cum legerimus in Evangelio secundum
+Matthaeum, <hi>Quicumque dimiserit uxorem nisi ob fornicationem,</hi> 
+aut quod magis in graeco legitur, <hi>praeter
+causam fornicationis, et aliam duxerit, moechatur:</hi> non
+debemus continuo putare illum non moechari, qui
+propter causam fornicationis dimiserit, et aliam duxerit;
+sed adhuc ambigere, donec Evangelium secundum
+alios evangelistas a quibus hoc narratum est,
+consulamus. Quid si enim secundum Matthaeum, non
+quidem quod ad hanc rem pertinet dictum est totum,
+sed ita pars dicta est, ut intelligeretur a parte totum,
+quod tanquam explanantes Marcus et Lucas, ut clareret
+plena sententia, totum dicere maluerunt? Cum
+itaque primum non dubitantes verum esse quod apud
+Matthaeum legitur, <hi>Quicumque dimiserit uxorem suam
+propter causam fornicationis, et aliam duxerit, moechatur;</hi> 
+quaesierimus utrum tantum iste moechetur ducendo
+alteram uxorem, qui praeter causam fornicationis
+priorem dimiserit, an omnis qui dimissa uxore alteram
+duxerit, ut ibi sit etiam ille qui fornicantem dimiserit:
+nonne secundum Marcum respondebitur nobis,
+Quid quaeritis utrum ille sit moechus, et ille non
+sit? <hi>Quicumque dimiserit uxorem suam, et aliam duxerit,
+adulterium committit.</hi> Nonne etiam secundum Lucam
+dicetur nobis, Quid ambigitis utrum ille qui
+propter causam fornicationis uxorem dimiserit, et
+aliam duxerit, non moechetur? <hi>Omnis qui dimittit
+uxorem suam, et ducit alteram, moechatur.</hi> Ac per hoc,
+quoniam fas non est ut Evangelistas, quamvis diversis
+verbis de una re loquentes, ab uno sensu eademque
+sententia dissentire dicamus; restat ut Matthaeum
+intelligamus a parte totum significare voluisse, eamdem
+tamen tenuisse sententiam, ut dimittens uxorem
+et alteram ducens, non quidam moechetur, id
+est, qui praeter fornicationem dimiserit, quidam vero
+non moechetur, id est, qui propter fornicationem dimiserit,
+sed omnis qui dimittit uxorem suam, et ducit
+alteram, moechari minime dubitetur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<div3>
+            <head>13.</head>
+            <p>
+ <hi>Mulier ob fornicationem dimissa
+<pb n="0459"/>non cessat esse uxor ejus qui dimisit.</hi> Nam et illud quod
+etiam secundum Lucam sequitur, <hi>Qui dimissam a viro
+ducit, moechatur,</hi> quomodo est verum? Quomodo moechatur,
+nisi quia illa quam duxit, eo vivente a quo
+dimissa est, adhuc uxor aliena est? Si enim jam
+suae, non alienae miscetur uxori, utique non moechatur:
+moechatur autem; aliena est ergo cui miscetur.
+Porro si aliena est, hoc est, ejus a quo dimissa est;
+etiamsi propter fornicationis causam dimissa est,
+nondum dimittentis uxor esse cessavit. Si autem illius
+esse cessavit, jam hujus est cui alteri nupsit: et
+si hujus est, non moechus judicandus est, sed maritus.
+Sed quia non eum maritum dicit Scriptura, sed
+moechum; adhuc illa illius est, a quo etiam causa
+fornicationis abjecta est. Et ideo quamcumque etiam
+ipse illa dimissa ducit uxorem, quia cum alieno marito
+concumbit, adultera est. Unde autem fieri potest
+ut adulter etiam ipse non sit, cum constet adulterare
+quam duxit?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<div3>
+            <head>14.</head>
+            <p>
+ <hi>Dimittere infideles conjuges non
+licere sentit Pollentius; licere, sed non expedire dicit
+Augustinus.</hi> Jam nunc illud videamus quod ait Apostolus, <hi>Caeteris autem ego dico, non Dominus:</hi> 
+ ad imparia
+scilicet, hoc est, ubi non ambo christiani fuerant,
+conjugia loquitur. Quod mihi visum est eum
+monendo dixisse. Quia enim conjux fidelis relinquere
+conjugem licite potuit infidelem, ideo fieri hoc non
+Dominus, sed Apostolus prohibet. Quod enim Dominus
+prohibet, fieri omnino non licet. Monet ergo
+Apostolus, quo possit esse multorum occasio lucrandorum,
+ut fideles conjuges in relinquendis infidelibus
+permissa licentia non utantur. Tibi autem videtur
+infideles quoque dimitti a fidelibus non licere,
+quia hoc vetat Apostolus: cum ego dicam licere,
+quia hoc non vetat Dominus; non tamen expedire,
+quia hoc ne fiat, monet Apostolus: qui reddit etiam
+rationem cur fieri non expediat, quamvis liceat. <hi>Quid
+enim scis,</hi> inquit, <hi>mulier, si virum salvum facies? aut
+unde scis, vir, si uxorem salvam facies?</hi> Cum etiam superius
+dixisset, <hi>Sanctificatus est enim vir infidelis in
+uxore</hi>, <hi>et sanctificata est mulier infidelis in fratre,</hi> 
+hoc est, in christiano: <hi>alioquin filii vestri,</hi> inquit, <hi>immundi
+essent; nunc autem sancti sunt <note>(I Cor. VII, 12-
+16)</note>
+            </hi>. Sic ad lucrandos conjuges et filios Christo,
+etiam exemplis quae jam provenerant, videtur hortatus.
+Cur ergo non expediat etiam infideles conjuges
+dimitti a fidelibus, causa evidenter expressa est. Non
+enim propter vinculum cum talibus conjugale servandum,
+sed ut acquirantur in Christum, recedi
+ab infidelibus conjugibus Apostolus vetat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<div3>
+            <head>15.</head>
+            <p>
+ <hi>Multa non jussa praescripto legis,
+facienda sunt consilio charitatis.</hi> Multa sunt autem
+facienda non jubente lege, sed libera charitate: et
+ea sunt in nostris officiis gratiora, quae cum liceret
+nobis etiam non impendere, tamen causa dilectionis
+<pb n="0460"/>
+impendimus. Unde prior ipse Dominus, cum se
+tributum non debere monstrasset, solvit tamen, ne
+scandalizaret eos quibus ad aeternam salutem gerens
+hominem consulebat <note>(Matth. XVII, 23-26)</note>. Jam vero
+Apostolus quemadmodum ista commendet, ejus verba
+testantur, ubi dicit: <hi>Cum enim liber sim ex omnibus,
+omnium servum me feci, ut plures lucrifacerem.</hi> Cum
+paulo superius dixisset: <hi>Numquid non habemus potestatem
+manducandi et bibendi? Numquid non habemus
+licentiam sororem mulierem circumducendi, sicut et
+caeteri Apostoli, et fratres Domini, et Cephas? An ego
+solus et Barnabas non habemus potestatem hoc operandi?
+Quis militat suis stipendiis unquam? Quis plantavit
+vineam, et de fructu ejus non edit? Quis pascit
+gregem, et de lacte gregis non percipit?</hi> Et paulo post: <hi>Si alii,</hi> 
+ inquit, <hi>potestatis vestrae participant, non magis
+nos? Sed non sumus usi hac potestate, sed omnia
+toleramus, ne quod impedimentum demus Evangelio
+Christi.</hi> Deinde post pauca: <hi>Quae ergo,</hi> inquit, <hi>mihi
+merces erit? Ut evangelizans sine sumptu ponam Evangelium,
+ut non abutar potestate mea in Evangelio <note>(I
+Cor. IX, 4-19)</note>
+            </hi>. Continuoque subjungit quod paulo
+ante commemoravi: <hi>Cum enim liber sim ex omnibus,
+omnium me servum feci, ut plures lucrifacerem.</hi> Item
+alio loco de quibusdam quae ad escam pertinent: <hi>Omnia,</hi> 
+ inquit, <hi>mihi licita sunt, sed non omnia expediunt:
+omnia mihi licita sunt, sed ego sub nullius redigar
+potestate. Esca ventri et venter escis, Deus autem
+et hunc et has evacuabit <note>(Id. VI, 12 et 13)</note>
+            </hi>. Item alibi
+de hoc ipso: <hi>Omnia mihi licita sunt, sed non omnia
+expediunt: omnia mihi licita sunt, sed non omnia
+aedificant. Nemo quod suum est quaerat, sed id quod
+alterius est.</hi> Atque ut ostenderet unde loqueretur: <hi>Omne,</hi> 
+ inquit, <hi>quod in macello venit, manducate, nihil
+interrogantes propter conscientiam <note>(Id. X, 22-25)</note>
+            </hi>.
+Et tamen alibi dicit: <hi>Non manducabo carnem in aeternum,
+ut non fratrem meum scandalizem <note>(Id. VIII, 13)</note>
+            </hi>.
+Itemque alibi: <hi>Omnia quidem munda, sed malum est
+homini qui per offensionem manducat <note>(Rom. XIV, 20)</note>
+            </hi>.
+Quod est, <hi>Omnia licita sunt;</hi> ipsum est, <hi>Omnia quidem
+munda:</hi> et quod est, <hi>sed non omnia expediunt;</hi> 
+ipsum est, <hi>sed malum est homini qui per offensionem
+manducat.</hi> Ita ostendit ea quae licita sunt, id est,
+nullo praecepto Domini prohibentur, sicut expedit
+potius esse tractanda, non praescripto legis, sed
+consilio charitatis. Haec sunt quae amplius erogantur
+saucio, qui curandus ad stabulum Samaritani illius
+miseratione perductus est <note>(Luc. X, 33-35)</note>. Et ideo
+dicuntur non a Domino praecipi, quamvis Domino
+moneantur offerri; ut tanto intelligantur esse gratiora,
+quanto magis ostenduntur indebita.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<div3>
+            <head>16.</head>
+            <p>
+ <hi>Licita quaedam quae non expediunt.</hi> 
+Sed ea quae in his talia sunt, ut quamvis sint
+licita non expediant, non in eis dici potest, Bonum
+est hoc, sed illud melius: sicut dictum est, <hi>Qui
+dat nuptum, bene facit; et qui non dat nuptum, melius
+<pb n="0461"/>
+facit <note>(I Cor. VII, 38)</note>
+            </hi>. Ibi enim utrumque licet, et
+hoc aliquando, aliquando illud expedit. Nam illis
+quae se non continent, utique expedit nubere; et
+quod licet, expedit: quae autem voverint continentiam,
+nec licet, nec expedit. Porro discedere ab infideli
+conjuge licet, sed non expedit: manere autem
+cum illo, si cohabitare consentit, et licet et expedit;
+quia si non liceret, expedire non posset. Potest ergo
+aliquid licere et non expedire: expedire autem quod
+non licet non potest. Ac per hoc non omnia licita expediunt;
+omnia autem illicita non expediunt. Sicut
+enim omnis qui Christi sanguine redemptus est,
+homo est; non tamen omnis qui homo est, etiam
+sanguine Christi redemptus est: ita omne quod non
+licet non expedit, nec tamen omne quod non expedit
+etiam non licet. Sunt quippe licita quae non expediunt,
+sicut Apostolo teste didicimus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<div3>
+            <head>17.</head>
+            <p>
+ <hi>Licitum quod non expedit, differt
+ab illicito, ita ut illud si fiat, non sit peccatum, quamvis
+non sit faciendum.</hi> Sed inter id quod illicitum est
+et ideo non expedit, atque id quod licitum est nec
+tamen expedit, quid intersit, aliqua universali regula
+definire difficile est. Citius enim quisque dixerit:
+Omne quod fieri non expedit, peccatum est; omne
+autem peccatum illicitum est: omne ergo quod non
+expedit, illicitum est. Et ubi erunt illa quae licita
+esse, sed non expedire, Apostolus dixit, si omne
+quod non expedit, licitum non est? Quapropter quia
+verum dixisse Apostolum dubitare non possumus, et
+aliqua peccata esse licita dicere non audemus; restat
+ut dicamus, fieri aliquid quod non expediat, et tamen
+si licitum est, non esse peccatum, quamvis
+quoniam non expedit, non sit utique faciendum. Quod
+si absurdum videtur, ut aliquid fiat quod non expedit,
+et dicatur non peccasse qui fecerit; intelligendum
+est hoc ex consuetudine sermonis absurdum:
+quae ita late patet, ut etiam jumenta, quamvis sint
+rationis expertia, tamen plerumque dicamus debere
+vapulare cum peccant; peccare autem proprie non
+est nisi ejus qui utitur rationali voluntatis arbitrio,
+quod in omnibus mortalibus animantibus non nisi
+homini est divinitus attributum. Sed aliud est cum
+proprie loquimur, aliud cum verba ex aliis rebus
+transferendo vel abutendo mutuamur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<div3>
+            <head>18.</head>
+            <p>
+ <hi>Unde differt id quod licet et
+non expedit, ab eo quod ideo non expedit quia non licet.
+Dimittere conjugem infidelem, nec vetat nec jubet Christus,
+monet Paulus ne fiat.</hi> Ut igitur, si possumus,
+enitamur, inter id quod licet et non expedit, et id
+quod non licet atque ideo non expedit, aliquo certo
+fine distinguere; ea mihi videntur licere et non expedire,
+quae per justitiam quidem, quae coram Deo
+est, permittuntur, sed propter offensionem hominum,
+ne ob hoc impediantur a salute, vitanda sunt;
+ea vero non licere, et ideo nec expedire, quae sic
+ipsa justitia vetantur, ut facienda non sint, etiamsi
+ab eis quibus in notitiam fuerint perlata, laudentur.
+<pb n="0462"/>
+Quod si ita est, ideo non nisi illicita prohibentur a
+Domino; ut ea quae licita sunt et non expediunt,
+non legis vinculo, sed libera dilectionis beneficentia
+caveantur.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Quocirca si dimittere infidelem conjugem non
+liceret, hoc fieri Dominus prohiberet, neque id
+Apostolus prohibens diceret, <hi>Ego dico, non Dominus <note>(I Cor. VII, 12)</note>
+            </hi>.
+Nam si propter fornicationem
+carnis permittitur homo a conjuge separari; quanto
+magis in conjuge mentis fornicatio detestanda est? id
+est, infidelitas, de qua scriptum est, <hi>Quoniam ecce
+qui longe se faciunt a te, peribunt; perdidisti omnem
+qui fornicatur abs te <note>(Psal. LXXII, 27)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p> <hi>Cur sicut Israelitis uxores alienigenas,
+non ita Christianis infideles jubetur deserere.
+Consilium Pauli tanquam Christi accipiendum. Id quod
+licet, quandoque expedit, quandoque non. Discessio ab
+infideli conjuge non prohibita praecepto legis, sed consilio
+charitatis.</hi> Sed quia ita licitum est, ut non expediat:
+ne propter conjugum separationes offensi homines,
+ipsam doctrinam salutis, qua illicita prohibentur,
+exhorreant, ac sic pejores atque perituri in
+eadem infidelitate remaneant; intercedit Apostolus,
+et monendo fieri vetat quod ita licitum est ut non
+expediat. Sic enim recedere ab infidelibus uxoribus
+vel maritis, fideles viri vel feminae non prohibentur
+a Domino, ut neque jubeantur. Nam si dimittere
+tales conjuges juberentur, nullus esset locus consilio
+monentis Apostoli ne hoc fieret. Nullo modo
+enim quod Dominus jubet, servus bonus fieri prohiberet.</p>
+<div3>
+            <head>20.</head>
+            <p>
+ Namque hoc Dominus aliquando per Esdram
+prophetam jussit, et factum est: dimiserunt Israelitae
+uxores alienigenas, quicumque tunc habere potuerunt <note>(I Esdr. X, 11, 12)</note>,
+per quas fiebat ut et
+ipsi ad alienos seducerentur deos, non ut illae per
+maritos vero acquirerentur Deo. Nondum enim tanta
+gratia Salvatoris illuxerat, et promissis temporalibus
+Veteris Testamenti adhuc inhiabat illius populi multitudo.
+Et propterea cum bona terrena, quae pro magno
+exspectabant a Domino, viderent etiam his
+abundare qui multos falsos colebant deos, blanditiis
+uxorum prius eos reverebantur offendere, deinde
+inducebantur et colere. Unde jusserat Dominus per
+sanctum Moysen, ne quis uxorem alienigenam duceret <note>(Deut. VII, 3)</note>.
+Merito ergo, quas duxerant Domino
+prohibente, Domino jubente dimiserunt. Cum vero
+coepisset Gentibus Evangelium praedicari, jam conjunctos
+Gentiles Gentilibus comperit conjuges: ex
+quibus si non ambo crederent, sed unus aut una infidelis
+cum fideli consentiret habitare, nec prohiberi
+a Domino debuit fidelis infidelem dimittere, nec juberi:
+ideo scilicet non prohiberi, quia justitia permittit
+a fornicante discedere, et infidelis hominis
+fornicatio est major in corde; nec vera ejus pudicitia
+cum conjuge dici potest, quia <hi>Omne quod non est ex
+fide, peccatum est <note>(Rom. XIV, 23)</note>
+            </hi>: quamvis veram
+fidelis habeat pudicitiam etiam cum infideli conjuge,
+<pb n="0463"/>
+qui non habet veram. Ideo autem nec juberi debuerunt
+fideles ab infidelibus separari, quia non contra
+jussionem Domini Gentiles fuerant ambo conjuncti.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Quoniam ergo ab infideli fidelem discedere
+nec prohibet nec jubet Dominus, ideo ut non discedat,
+Apostolus dicit, non Dominus: habens utique
+Spiritum sanctum, in quo dare posset utile et fidele
+consilium. Unde cum dixisset de muliere, cujus vir
+mortuus fuerit, <hi>Beatior autem erit, si sic permanserit,
+secundum meum consilium;</hi> ne quis hoc consilium
+tanquam humanum, non divinum, contemnendum
+putaret, adjecit, <hi>Puto autem, et ego Spiritum Dei
+habeo.</hi> Proinde intelligendum est, etiam ipsa quae
+non a Domino jubentur, sed a sancto ejus famulo
+utiliter suadentur, eodem Domino inspirante suaderi.
+Absit enim ut quisquam catholicus dixerit, quando
+suadet Spiritus sanctus, non Dominum suadere;
+cum et ipse Dominus sit, et inseparabilia sint opera
+Trinitatis. Dicit tamen, <hi>De virginibus autem praeceptum
+Domini non habeo, consilium autem do.</hi> Non ut
+hoc consilium alienum existimemus a Domino, cum
+continuo sequatur et dicat: <hi>tanquam misericordiam
+consecutus a Domino ut fidelis essem <note>(I Cor. VII, 40,
+25)</note>
+            </hi>. Secundum Deum ergo dat fidele consilium in eo
+Spiritu, de quo ait: <hi>Puto autem, et ego Spiritum Dei
+habeo.</hi> </p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Verumtamen aliud est Domini jubentis imperium,
+aliud conservi secundum misericordiam charitatis,
+quae est illi a Domino inspirata atque donata,
+fidele consilium. Ibi aliud facere non licet, hic autem
+licet: ita sane ut ipsum licitum partim quidem expediat,
+partim vero non expediat. Expedit tunc, quando
+non solum per justitiam, quae coram Domino est,
+permittitur, sed etiam hominibus nullum ex hoc impedimentum
+salutis infertur: velut cum dat consilium
+non nubendi Apostolus virgini, unde praeceptum Domini
+se non habere testatur; licet aliud facere, id est,
+nubere, et minus quam continentiae, bonum tamen
+tenere nuptiarum. Ipsumque licitum etiam expedit:
+quoniam in vetita et illicita ruituram carnis infirmitatem
+sic excipit honestate nubendi, ut neminem impediat
+ad salutem; quamvis magis expediret, magisque
+honestum esset, si virgo consilium, quo praeceptum
+eam non compellit, arriperet. Tunc autem
+non expedit id quod licitum est, quando permittitur
+quidem, sed usus ipsius potestatis aliis affert impedimentum
+salutis. Sicut est, unde jam diu loquimur,
+discessio fidelis conjugis ab infideli, quam non prohibet
+Dominus praecepto legis, quia coram illo injusta
+non est; sed prohibet Apostolus consilio charitatis,
+quia infidelibus affert impedimentum salutis:
+non solum quia perniciosissime scandalizantur offensi;
+verum etiam quia in alia conjugia cum ceciderint
+viventibus eis a quibus dimittuntur, adulterinis nexibus
+colligati difficillime resolvuntur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<div3>
+            <head>23.</head>
+            <p>
+ <hi>Consilium non nubendi, de eo
+<pb n="0464"/>esse quod amplius expedit; at consilium non dimittendi
+infidelem, de eo esse cujus contrarium non expedit.</hi> 
+Ideo hic, ubi id quod licet non expedit, non potest
+dici, Si dimiserit infidelem, bene facit; si non dimiserit,
+melius facit: sicut dictum est, <hi>Qui dat nuptum,
+bene facit; et qui non dat nuptum, melius facit.</hi> Quoniam
+illud non solum utrumque pariter licet; unde
+ad nihil horum praecepto Domini quisque compellitur:
+sed etiam utrumque expedit, aliud minus, aliud
+amplius; unde ad id quod amplius expedit, consilio
+Apostoli, quicumque potest capere, provocatur. Hoc
+autem ubi de dimittendo vel non dimittendo infideli
+conjugio quaeritur, utrumque quidem pariter licitum
+est per justitiam quae coram Domino est, et ideo nihil
+horum Dominus prohibet: sed non utrumque expedit,
+propter infirmitates hominum, et ideo id quod
+non expedit, Apostolus prohibet; dante sibi Domino
+liberum prohibendi locum, quia neque id quod monet
+Apostolus, prohibet Dominus, neque id quod prohibet
+Apostolus, jubet Dominus. Quod nisi ita esset,
+neque contra prohibitionem Domini Apostolus aliquid
+moneret, neque contra jussionem ejus aliquid prohiberet.
+Proinde in his duabus causis, una de nubendo
+vel non nubendo, altera de infideli conjuge dimittendo
+vel non dimittendo, aliquid simile est in verbis
+Apostoli, aliquid dissimile. Simile quidem illud quod
+et ibi dicit, <hi>Praeceptum Domini non habeo, consilium
+autem do;</hi> et hic dicit, <hi>Ego dico, non Dominus.</hi> Quale
+est enim, <hi>Praeceptum Domini non habeo;</hi> tale est, <hi>Non dicit Dominus:</hi> 
+ et quale est, <hi>consilium do;</hi> tale est, <hi>ego dico.</hi> 
+ Illud autem dissimile est, quia de nubendo et
+non nubendo potest dici, hoc bene fieri, illud melius;
+quoniam utrumque expedit, minus aliud, magis aliud:
+at vero de conjuge infideli dimittendo vel non dimittendo,
+quoniam unum horum non expedit, aliud expedit,
+dici non oportet, Qui dimittit, bene facit; et
+qui non dimittit, melius facit: sed dici oportet, Non
+dimittat; quia etsi licet, non expedit. Sic ergo possumus
+dicere melius esse infidelem conjugem non dimittere,
+quamvis liceat et dimittere; quemadmodum
+recte dicimus melius esse quod et licet et expedit,
+quam id quod licet, nec expedit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<div3>
+            <head>24.</head>
+            <p>
+ <hi>De conjugibus infidelibus non
+dimittendis consilium Apostoli est, non praeceptum.
+Monitum hic loci de re libera esse, alia tamen esse monita
+Apostoli de re imperata.</hi> His de causis factum est
+ut exponens Domini sermonem, quem prolixum in
+monte habuit, ubi ventum est ad quaestionem de
+conjugibus dimittendis vel non dimittendis, adhibitis
+etiam apostolicis testimoniis, dicerem consilium esse
+Apostoli, non praeceptum Domini, ubi ait, <hi>Caeteris
+autem ego dico, non Dominus,</hi> monens eos qui haberent
+conjuges infideles, ut consentientes habitare
+secum non dimitterent. Quod utique ideo monendum,
+non jubendum fuit, quia non tanto pondere prohibendi
+sunt homines facere licita, quamvis non expediant,
+quanto pondere prohibentur illicita. Si autem
+alicubi Apostolus etiam illa quae jubenda sunt, monere
+<pb n="0465"/>
+dignatus est, hoc fecit parcendo infirmitati,
+non praejudicando jussioni. Unde si dixit, <hi>Non ut
+confundam vos haec scribo, sed ut filios meos charissimos
+moneo <note>(I Cor. IV, 14)</note>
+            </hi>; quid habet quaestionis,
+ubi ait, <hi>Ego dico, non Dominus?</hi> Item ubi ait, <hi>Ecce
+ego Paulus dico vobis, quia si circumcidamini, Christus
+vobis nihil proderit <note>(Galat. V, 2)</note>
+            </hi>; numquid etiam hic
+dixit, <hi>Ego dico, non Dominus?</hi> Non sunt itaque ista
+similia, quia etiam illa quae jubet Dominus, non est
+indignum neque contrarium, si eadem monet Apostolus.
+Monemus enim quos charos habemus, ut faciant
+Domini praecepta, vel jussa. Cum vero ait, <hi>Ego dico,
+non Dominus;</hi> satis ostendit Dominum non prohibere
+quod ipse prohibebat. Prohibuisset autem Dominus,
+si esset illicitum. Ergo secundum ea quae supra diu
+diximus, multumque versavimus, licitum erat per
+justitiam; sed etiam licitum non erat faciendum propter
+liberam benevolentiam.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<div3>
+            <head>25.</head>
+            <p>
+ <hi>De conjugiis cum infidelibus,
+Pollentii sententia discutitur. Aliam esse quaestionem de
+jam conjunctis, aliam de conjungendis. De jam conjunctis,
+non de jungendis agi in loco Apostoli citato.
+Illicita et vetita a Domino nunquam expedit facere.</hi> Tu
+autem cui placet, ita non licere quod non vetat Dominus,
+sed Apostolus, quemadmodum non licet quod
+vetat Dominus, cum exponere voluisses quid sibi
+vellet quod ait, <hi>Ego dico, non Dominus,</hi> cum alloqueretur
+fideles quibus essent conjuges infideles;
+dixisti,  « Quia Dominus jussit ne conjugia sibimet
+diversae religionis copularentur: »  et ipsum adhibuisti
+testimonium Domini dicentis, <hi>Non accipies
+uxorem filio tuo a filiabus alienigenarum, ne traducat
+eum post deos suos, et pereat anima ejus <note>(Deut. VII,
+3, 4)</note>
+            </hi>. Addidisti etiam verba Apostoli, ubi dixit, <hi>Mulier
+alligata est, quamdiu vir ejus vivit. Quod si mortuus
+fuerit vir ejus, liberata est: cui vult nubat, tantum in
+Domino <note>(I Cor. VII, 39)</note>
+            </hi>: quod ita exposuisti, ut adjungeres,
+ « Id est christiano. »  Deinde secutus es,
+et aisti:  « Hoc est ergo Domini praeceptum tam in
+Veteri quam in Novo Testamento, ut non nisi
+unius religionis et fidei conjugia sibi maneant copulata. » 
+Si hoc ergo est Domini praeceptum tam in
+Veteri Testamento quam in Novo, et hoc jubet Dominus,
+hoc docet Apostolus, ut non nisi unius religionis
+et fidei maneant copulata conjugia; quare contra
+hoc Domini jussum, contra doctrinam suam,
+contra praeceptum Testamenti Veteris et Novi, jubet
+Apostolus ut diversae fidei conjugia maneant copulata?
+ « Quia Paulus, inquis, Gentium praedicator et
+apostolus, jam in conjugio positos, non solum
+monet, sed etiam jubet, ut si unus aut una a conjugibus
+credidisset, alterum vel alteram non credentem,
+secum tamen habitare consentientem, non
+dimitteret. »  His verbis tuis aliud hoc, aliud esse
+illud, satis evidenter ostendis. Illud enim de his conjugiis
+agitur, quae sibi primitus copulantur, ne nubat
+femina non suae religionis viro, vel vir talem ducat
+<pb n="0466"/>
+uxorem. « Id enim, »  ut dicis,  « jubet Deus, docet
+Apostolus, utrumque praecipit Testamentum. » 
+Hoc autem diversum esse quis abnuat, ubi agitur non
+de conjungendis, sed de conjunctis? Ambo quippe
+unius ejusdemque infidelitatis fuerunt quando conjuncti
+sunt; sed Evangelium cum venisset, alter sine
+altera, vel altera sine altero credidit. Si ergo aliud
+est hoc, quod sine scrupulo ullius dubitationis apparet,
+cur fidelem cum infideli in conjugio permanere,
+non et Dominus sicut Apostolus jubet? Nisi forte isto
+loco vacat, quod tam fidenter ipse ait: <hi>An vultis experimentum
+accipere ejus qui in me loquitur Christus <note>(II Cor. XIII, 3)</note>
+            </hi>?
+Et utique Dominus est Christus. Intelligisne
+quid dicam? An in hoc explanando aliquanto
+diligentius immorabor?</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Attende, ut rem ipsam tanquam in conspectu
+considerandam planiore sermone ponamus. Ecce conjuges
+duo, unius infidelitatis; ita fuerunt quando
+conjuncti sunt: nulla de his quaestio est, quae pertineat
+ad illam Domini jussionem doctrinamque apostolicam
+et praeceptum Testamenti Veteris et Novi, quo
+prohibetur fidelis cum infideli copulare conjugium.
+Jam sunt conjuges, et adhuc ambo sunt infideles;
+adhuc tales sunt quales fuerunt antequam jungerentur,
+qualesque conjuncti sunt. Venit Evangelii praedicator,
+credidit eorum aut unus, aut una; sed ita ut
+infidelis cum fideli habitare consentiat. Jubet fideli
+Dominus ne infidelem dimittat, an non jubet? Si
+dixeris, Jubet; reclamat Apostolus, <hi>Ego dico, non
+Dominus.</hi> Si dixeris, Non jubet; causam requiro. Neque
+illam mihi responsurus es, quam tuis litteris indidisti,
+ « Quia Dominus prohibet fideles infidelibus
+jungi. »  Hic enim nullo modo est ista causa: de
+jam junctis loquimur, non de jungendis. Si ergo tu
+causam non invenisti cur non vetet Dominus quod
+vetat Apostolus; cernis enim jam, ut existimo, non
+esse ipsam quam esse putaveras: vide ne forte illa
+sit quae mihi visa est, et tunc proferenda, et nunc
+defendenda; ut scilicet illud intelligamus dicere Dominum,
+quod habet coram illo nullo modo transgredienda
+justitia, id est, quod ita jubet aut vetat, ut
+aliud facere omnino non liceat: quod autem volentis
+potestati ita permittit, ut nec agatur nec praetesmittatur
+illicite; ibi servorum suorum consilio les
+cum dare, ut id potius suadeant quod viderint expedire.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Teneatur hic ergo primitus ac maxime, ne
+committantur illicita. Ubi autem aliquid ita licitum
+est, ut aliud facere non sit illicitum, fiat quod expedit,
+vel quod magis expedit. Illa igitur quae Dominus
+ita dicit ut Dominus, id est, non monentis consilio,
+sed dominantis imperio, non facere non licet, et
+ideo nec expedit. Dominus itaque praecipit, <hi>Mulierem
+a viro non discedere; quod si dicesserit,</hi> ea utique
+causa qua discedere licitum est, <hi>manere innuptam,
+aut viro suo reconciliari <note>(I Cor. VII, 10 et 11)</note>
+            </hi>. <hi>Mulier</hi> 
+enim <hi>sub viro, vivo marito, juncta est legi;</hi> et <hi>vivente
+<pb n="0467"/>
+viro vocabitur adultera, si fuerit cum alio viro <note>(Rom.
+VII, 2, 3)</note>
+            </hi>; quoniam <hi>mulier alligata est, quamdiu vir
+ejus vivit <note>(I Cor. VII, 39)</note>
+            </hi>. Unde, <hi>Si uxor dimiserit
+virum suum et alii nupserit, moechatur <note>(Marc. X, 12)</note>
+            </hi>;
+et, <hi>Qui dimissam a viro duxerit, moechatur <note>(Matth.
+XIX, 9)</note>
+            </hi>. Ideoque ex eodem praecepto Domini, <hi>Et vir
+uxorem ne dimittat <note>(I Cor. VII, 11)</note>
+            </hi>: quoniam <hi>qui
+dimiserit uxorem suam praeter causam fornicationis,
+facit eam moechari <note>(Matth. V, 32)</note>
+            </hi>. Sed si propter hanc
+causam dimiserit, etiam ipse sic maneat: <hi>Omnis</hi> 
+enim <hi>qui dimittit uxorem suam, et ducit alteram,
+moechatur <note>(Luc. XVI, 18)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p> <hi>Dimissa adultera alteram ducens,
+ut christianam faciat, moechatur.</hi> Haec constituta Domini
+sine ulla retractatione servanda sunt. Habet
+enim haec justitia quae coram illo est, sive approbent,
+sive improbent homines: et ideo dici non
+oportet, propter offensiones hominum, aut ne impediantur
+homines ab ea salute, quae in Christo est,
+non esse servanda. Quis enim christianus audeat
+dicere: Ne homines offendam, aut ut homines Christo
+acquiram, faciam moechari uxorem meam, aut
+ego ipse moechus fiam?</p>
+<div3>
+            <head>28.</head>
+            <p>
+ Potest enim fieri ut cum adulteram uxorem
+quisque dimiserit christianus, ita tentetur, ut aliqua
+femina quae nondum credidit, cupiens in ejus nuptias
+convenire, promittat se futuram esse christianam,
+non fallaciter, sed si ei nupserit hoc omnino factura.
+Huic itaque hoc connubium recusanti poterit suggerere
+ille tentator: Dominus dixit, <hi>Quicumque
+dimiserit uxorem suam praeter causam fornicationis,
+et aliam duxerit, moechatur;</hi> tu autem qui dimisisti
+propter causam fornicationis uxorem, si aliam duxeris,
+non moechaberis. Huic talia suggerenti, erudito
+corde respondeat, moechari quidem illum gravius
+qui praeter causam fornicationis uxore dimissa alteram
+duxerit; sed etiam illum qui uxore fornicante
+dimissa sibi aliam copulavit, non ideo non moechari,
+quia fornicantem reliquit: sicut moechatur qui eam
+quae praeter causam fornicationis dimittitur, duxerit;
+nec ideo non moechatur qui eam ducit, quam dimissam
+propter causam fornicationis invenerit. Et propterea
+quod subobscure apud Matthaeum positum est,
+quoniam totum a parte significatum est, expositum
+esse apud alios, qui totum generaliter expresserunt,
+sicut legitur apud Marcum, <hi>Quicumque dimiserit uxorem
+suam, et aliam duxerit, adulterium committit:</hi> 
+et apud Lucam, <hi>Omnis qui dimittit uxorem suam, et
+ducit alteram, moechatur.</hi> Non enim alios dixerunt
+moechari, alios non moechari, qui dimissis uxoribus
+suis duxerint alteras; sed, <hi>Quicumque dimiserit:</hi> 
+omnem prorsus qui dimiserit uxorem suam, et aliam
+duxerit, moechari eum sine ulla exceptione dixerunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<div3>
+            <head>29.</head>
+            <p>
+ <hi>Adulterinum conjugium inire, ut
+femina fiat christiana, non licet.</hi> Sed si haec ille christianus
+<pb n="0468"/>
+responderit tentatori, intelligens licuisse quidem
+sibi dimittere adulteram, sed aliam ducere non
+licere: quid, si dicat ille tentator, Committe hoc
+peccatum, ut acquiras animam Christo in morte
+infidelitatis positae feminae, quae parata est, si tibi
+nupserit, fieri christiana? quid aliud christianus
+respondere ad ista debet et dicere, nisi se non posse,
+si hoc fecerit, evadere judicium, quod commemoravit
+Apostolus ubi ait, <hi>Et sicut dicunt quidam nos
+dicere, Faciamus mala, ut veniant bona; quorum judicium
+justum est <note>(Rom. III, 8)</note>
+            </hi>? Quomodo autem poterit
+esse salubriter christiana, quae cum illo a quo ducitur
+erit adultera?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+<div3>
+            <head>30.</head>
+            <p>
+ <hi>Continentiae votum nulla spe
+compensationis rumpendum.</hi> Non solum autem moechandum
+non est, quod facit, non quidam, sed omnis
+qui dimittit uxorem suam, et ducit alteram, etsi
+propterea duxerit ut faciat christianam; sed etiam
+quisquis non alligatus uxori continentiam Deo voverit,
+nullo modo debet ista compensatione peccare,
+ut ideo credat uxorem sibi esse ducendam, quia promisit
+quae nuptias ejus appetit, futuram se esse christianam.
+Quod enim cuique antequam vovisset licebat,
+cum id se nunquam facturum voverit, non
+licebit: si tamen id voverit quod vovendum fuit,
+sicuti est perpetua virginitas, vel continentia post
+experta connubia solutis a vinculo conjugali, vel ex
+consensu voventibus et carnalia debita sibi invicem
+relaxantibus fidelibus castisque conjugibus; quod
+alterum sine altera, vel alteram sine altero vovere
+fas non est. Haec ergo, et si qua alia sunt quae
+rectissime voventur, cum homines voverint, nulla
+conditione rumpenda sunt, quae sine ulla conditione
+voverunt. Quia et hoc Dominum praecepisse intelligendum
+est, ubi legitur: <hi>Vovete, et reddite Domino
+Deo vestro <note>(Psal. LXXV, 12)</note>
+            </hi>. Unde Apostolus de quibusdam
+quae continentiam vovent, et postea nubere
+volunt, quod eis antequam vovissent utique licebat: <hi>Habentes,</hi> 
+ inquit, <hi>damnationem, quoniam primam fidem
+irritam fecerunt <note>(I Tim. V, 12)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Nihil ergo expedit quod illicitum est, et nihil
+quod prohibet Dominus licitum est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<p> <hi>Consilium Apostoli in iis quae
+praecepta non sunt, audiendum. Quaestio de conjugiis
+difficillima. Alia quaestio Pollentii.</hi> Quae autem nullo
+Domini constringente praecepto in potestate dimissa
+sunt, in his audiatur Apostolus, in Spiritu sancto
+monens et consulens ut vel meliora capiantur, vel
+ea quae non expediunt caveantur. Ibi audiatur dicens, <hi>Praeceptum Domini non habeo, consilium autem do;</hi> 
+et, <hi>Ego dico, non Dominus.</hi> Ibi si meliora elegerit,
+qui audit, <hi>Solutus est ab uxore, non quaerat uxorem,</hi> 
+quia <hi>et si acceperit uxorem, non peccat:</hi> ibi virgo
+non nubat. <hi>Qui</hi> enim <hi>non dat nuptum, melius facit;
+et qui dat nuptum, bene facit.</hi> Ibi beatior sit mulier
+sic permanendo, quae mortuo viro suo in potestate
+habet, cui vult nubere, <hi>tantum in Domino.</hi> Quod duobus
+modis accipi potest; aut christiana permanens,
+aut christiano nubens. Non enim tempore revelati
+<pb n="0469"/>
+Testamenti Novi, in Evangelio vel ullis apostolicis
+Litteris sine ambiguitate declaratum esse recolo,
+utrum Dominus prohibuerit fideles infidelibus jungi.
+Quamvis beatissimus Cyprianus inde non dubitet,
+nec in levibus peccatis constituat, jungere cum infidelibus
+vinculum matrimonii, atque id esse dicat
+prostituere Gentilibus membra Christi. Sed quia
+de iis qui jam conjuncti sunt alia quaestio est; audiatur
+et hic Apostolus dicens: <hi>Si quis frater habet uxorem
+infidelem, et haec consentit habitere cum illo, non
+dimittat illam: et si qua mulier habet virum infidelem,
+et hic consentit habitare cum illa, non dimmittat virum <note>(I Cor. VII, 12, 13, 25, 27, 38, 39)</note>
+            </hi>.
+Et sic audiatur,
+ut quamvis fieri licitum sit, quia hoc non dicit Dominus;
+non tamen fiat, quia non expedit. Non enim
+omnia expedire quae licita sunt, apertissime docet
+Apostolus <note>(Id., X, 22)</note>, sicut supra jam ostendimus.
+Propter quodlibet tamen fornicationis genus,
+sive carnis, sive spiritus, ubi et infidelitas intelligitur,
+et dimisso viro non licet alteri nubere, et dimissa
+uxore non licet alteram ducere: quoniam Dominus
+nulla exceptione facta dicit, <hi>Si uxor dimiserit virum
+suum, et alii nupserit, moechatur;</hi> et, <hi>Omnis qui dimittit
+uxorem suam, et ducit alteram, moechatur.</hi> </p>
+<div3>
+            <head>32.</head>
+            <p>
+ His ita pro meo modulo pertractatis atque
+discussis, quaestionem tamen de conjugiis obscurissimam
+et implicatissimam esse non nescio. Nec
+audeo profiteri omnes sinus ejus, vel in hoc opere,
+vel in alio me adhuc explicasse, vel jam posse, si
+urgear, explicare. Illud autem unde me itidem in
+alia scheda consulendum existimasti, seorsum etiam
+ego enodare curarem, si mihi aliud quam tibi visum
+est, videretur: cum vero eadem sit etiam nostra
+sententia, non hinc opus est diutius disputare.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<div3>
+            <head>33.</head>
+            <p>
+ <hi>Catechumenis in ultimo vitae
+an dandus Baptismus non petentibus, nec pro se respondere
+valentibus. Opinio quorumdam negans rejicitur,
+nec tamen damnatur.</hi> Catechumenis ergo in
+hujus vitae ultimo constitutis, si morbo seu casu
+aliquo sic oppressi sint, ut quamvis adhuc vivant,
+petere sibi tamen Baptismum vel ad interrogata respondere
+non possint; prosit eis quod eorum in fide
+christiana jam nota voluntas est, ut eo modo baptizentur,
+quo modo baptizantur infantes, quorum voluntas
+nulla adhuc patuit. Non tamen propterea
+damnare debemus eos qui timidius agunt, quam
+nobis videtur agi oportere, ne de pecunia conservo
+credita improbius quam cautius judicare voluisse
+judicemur. Satis quippe in talibus respiciendum est
+illud Apostoli, ubi dicit: <hi>Unusquisque nostrum pro se
+rationem reddet Deo <note>(Rom. XIV, 12)</note>
+            </hi>. Non ergo amplius
+invicem judicemus. Sunt enim qui vel in his,
+vel etiam in aliis observandum putant, quod dixisse
+Dominum legimus, <hi>Nolite sanctum dare canibus, neque
+<pb n="0470"/>
+projeceritis margaritas vestras ante porcos <note>(Matth. VII,
+6)</note>
+            </hi>. Et ista Salvatoris verba referentes, baptizare
+non audent eos qui pro se respondere nequiverint,
+ne forte contrarium gerant voluntatis arbitrium.
+Quod de parvulis dici non potest, in quibus adhuc
+rationis nullus est usus. Sed non solum incredibile
+est, nec in fine vitae hujus baptizari catechumenum
+velle; verum etiam si voluntas ejus incerta est,
+multo satius est nolenti dare quam volenti negare,
+ubi velit an nolit sic non apparet, ut tamen credibilius
+sit eum, si posset, velle se potius fuisse dicturum
+ea Sacramenta percipere, sine quibus jam credidit
+non se oportere de corpore exire.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+<div3>
+            <head>34.</head>
+            <p>
+ <hi>Ut intelligendum dictum Domini,
+Ne detur sanctum canibus.</hi> Si autem Dominus,
+ubi ait, <hi>Nolite dare sanctum canibus,</hi> hoc quod isti,
+cavendum putant, vellet intelligi, non ipse suo traditori
+dedisset quod in suam ille perniciem, sine culpa
+dantis, cum dignis indignus accepit. Unde cum hoc diceret
+Dominus, credendum est significare voluisse
+quod lucem intelligentiae spiritualis immunda corda
+non portant. Et si portanda doctor ingesserit, quae non
+recte accipiunt, quia non capiunt, vel reprehensionis
+morsibus lacerant, vel contemnendo conculcant. Si
+enim beatus Apostolus, quamvis in Christo jam renatis,
+tamen adhuc parvulis, lac dicit se dedisse, non
+escam: <hi>Necdum enim poteratis,</hi> inquit, <hi>sed nec adhuc
+quidem potestis <note>(I Cor. III, 2)</note>
+            </hi>; si denique ipse Dominus
+electis Apostolis dixit, <hi>Adhuc multa habeo vobis dicere,
+sed non potestis illa portare modo <note>(Joan. XVI, 12)</note>
+            </hi>:
+quanto minus possunt ferre, quaecumque de incorporea
+luce dicuntur, immundae mentes impiorum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<div3>
+            <head>35.</head>
+            <p>
+ <hi>Baptismus in casu proposito
+dandus catechumenis etiam adulterina conjugia
+retinentibus. Reconciliationis poenitenti dandae in periculo
+mortis eadem ratio.</hi> Sed ut sermo noster ad hoc
+potius claudatur, unde sumpsit exordium, ego non
+solum alios catechumenos, verum etiam ipsos qui viventium
+conjugiis copulati retinent adulterina consortia,
+cum salvos corpore non admittamus ad
+Baptismum; tamen si desperati jacuerint, nec pro se
+respondere potuerint, baptizandos puto, ut etiam hoc
+peccatum cum caeteris lavacro regenerationis abluatur.
+Quis enim novit utrum fortassis adulterinae carnis
+illecebra usque ad Baptismum statuerant detineri? Si
+autem ab illa desperatione recreati potuerint vivere,
+aut facient quod statuerunt, aut edocti obtemperabunt,
+aut de contemptoribus fiet quod fieri etiam de baptizatis
+talibus debet. Quae autem Baptismatis, eadem
+reconciliationis est causa, si forte poenitentem finiendae
+vitae periculum praeoccupaverit. Nec ipsos enim ex
+hac vita sine arrha suae pacis exire velle debet mater
+Ecclesia.
+</p>
+          </div3>
+        </div2>
+      </div1>
+
+<div1>
+        <head> <hi>LIBER SECUNDUS.</hi> </head>
+
+<pb n="0471"/>
+<p>Redarguitur Pollentius, adulterio putans perinde atque morte solvi conjugium, eoque trahens illud Apostoli ad Corinthios, <hi>Quod si mortuus fuerit vir ejus, liberata est;</hi> 
+ ut mortuum hoc loco velit etiam adulterum intelligi. Argumenta
+deinde ejus reliqua diluuntur, et varia quae suboriri timet incommoda, nisi repudiata adultera ducere alteram viro liceat,
+refutantur.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>Hujus libri occasio,</hi> Ad ea
+quae mihi scripseras, frater religiose Pollenti, jam
+rescripseram non parvum volumen, de iis qui viventibus
+conjugibus suis aliis copulantur. Quod cum innotuisset
+Dilectioni tuae, addidisti aliqua ad libellum
+tuum, etiam his me respondere desiderans: sed cum
+facere disponerem, addendo et ego ad meum, ita ut
+unus liber esset etiam responsionis meae, repente illud
+editum est quod absolveram prius, flagitantibus
+fratribus, et nescientibus nostris quod adhuc aliquid
+esset addendum. Hinc factum est ut altero seorsum
+opusculo, ad ea quae addidisti, respondere compellerer.
+Non autem quae addidisti, adjuncta sunt fini opusculi
+tui; sed, ubi visum est, ejus interjecta sunt corpori.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Pollentii sententia, nubere alteri
+vetitum esse conjugi, si a non fornicante, non autem si
+a fornicante discesserit. Mortuum in loco Pauli intelligendum
+etiam fornicantem sentit.</hi> Horum primum illud
+est, cui quidem arbitror me respondere debere, quod
+in his Apostoli verbis, ubi ait, <hi>Caeteris autem ego dico,
+non Dominus, mulierem a viro non discedere; quod si
+discesserit, manere innuptam, aut viro suo reconciliari,</hi> 
+non putas ita dictum esse, <hi>si discesserit,</hi> ut a viro fornicante
+discessisse intelligatur, qua sola causa discedere
+licitum est; sed potius existimas a pudico, et
+ideo jussam manere innuptam, ut posset ei reconciliari,
+si continere ille noluisset, ne virum ad fornicandum,
+id est, ad aliam se vivente ducendam, ipsa non
+reconciliata compelleret. Caeterum si a viro fornicante
+discesserit, putas ei non praecipi ut innupta permaneat:
+sed hoc eam facere, si continens esse voluerit;
+non ut praecepti violatrix inveniatur esse, si nupserit.
+Quae tibi videtur forma et a viro esse servanda, ut
+uxorem non dimittat, excepta causa fornicationis; si
+autem dimiserit, maneat sine conjugio, ut pudicae reconciliari
+possit uxori, nisi forte continentiam illa
+delegerit; ne uxoris castae reconciliationem refugiens,
+ipse illam cogat moechari, si sese non continens vivente
+illo nupserit alteri: si autem fuerit ab uxore
+fornicante disjunctus, jam eum nullo praecepto ut se
+contineat detineri, nec omnino moechari, si viva illa
+alteram duxerit: quoniam id quod ait idem apostolus, <hi>Mulier alligata est, quamdiu vir ejus vivit; quod si
+mortuus fuerit vir ejus, liberata est; cui vult nubat 
+ <note>(I
+Cor. VII, 10, 11, 39)</note>
+            </hi>; sic intelligendum existimas, ut
+si vir fuerit fornicatus, pro mortuo deputetur, et uxor
+pro mortua; et ideo liceat cuilibet illorum, tanquam
+<pb n="0472"/>
+post mortem, ita post fornicationem conjugis alteri
+copulari.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Refellitur Pollentius.</hi> Quibus tuis
+sensibus consideratis, abs te quaero, utrum quicumque
+duxerit mulierem quae viro alligata esse destiterit,
+adulter habendus sit? Quod tibi existimo non
+videri. Ideo enim mulier <hi>vivente viro vocabitur adultera,
+si fuerit cum alio viro;</hi> quoniam <hi>alligata est, quamdiu
+vir ejus vivit.</hi> Hoc autem vinculum si ei cum viro vivente
+non esset, sine ullo adulterii crimine alteri
+nuberet. Proinde si alligata est quamdiu vir ejus vivit,
+nullo modo nisi viro mortuo soluta dicenda est
+ab hoc vinculo. Porro si morte cujuslibet eorum inter
+maritum et uxorem hoc vinculum solvitur, et pro
+morte habenda est, sicut dicis, etiam fornicatio,
+procul dubio erit ab hoc et mulier soluta, quando
+fuerit fornicata. Neque enim dici poterit haec alligata
+viro, quando ab illa fuerit vir solutus. Ac per hoc
+posteaquam fornicando alligata viro esse destiterit,
+quisquis eam duxerit, adulter non erit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Fornicationem pro morte conjugale
+vinculum solvente deputare, quam absurdum.</hi> Et vide
+quam sit absurdum, ut ideo non sit adulter, quia
+duxit adulteram. Imo vero, quod est monstruosius,
+nec ipsa mulier erit adultera: quoniam non erit posteriori
+viro uxor aliena, sed sua. Soluto enim per
+adulterium priore conjugali vinculo, cuicumque jam
+nupserit conjugem non habenti, non adultera cum
+adultero, sed uxor erit potius cum marito. Quomodo
+ergo erit verum, <hi>Mulier alligata est, quamdiu vir ejus
+vivit?</hi> Ecce vir ejus vivit, quia nec de corpore excessit,
+nec fornicatus est, quod pro morte vis deputari;
+et tamen ei mulier alligata jam non est. Nonne attendis
+quam sit hoc contra Apostolum dicentem, <hi>Mulier
+alligata est, quamdiu vir ejus vivit?</hi> An forte dicturus
+es: Vivit quidem, sed vir ejus jam non est; quoniam
+tunc esse destitit, quando illa per adulterium conjugale
+vinculum solvit? Quomodo igitur <hi>vivente viro vocabitur
+adultera, si fuerit cum alio viro;</hi> quandoquidem
+vir ejus ille jam non est, conjugali vinculo per
+mulieris adulterium jam soluto? Quo enim vivente
+viro, nisi suo, vocabitur adultera, si fuerit cum alio
+viro? At si vir ejus esse ille jam destitit; non utique
+vivente viro vocabitur adultera, si fuerit cum alio
+viro; sed nullum habens virum nubendo erit cum
+suo viro. Hoc qui sentit, nonne cernis quam contra
+Apostolum sentiat? Quod quidem non ipse sentis,
+sed hoc sequitur illa quae sentis. Muta ergo antecedentia,
+si vis cavere sequentia; et noli dicere,
+mortuum virum vel mortuam uxorem hoc loco debere
+intelligi etiam fornicantem.</p>
+<div3>
+            <head>4. </head>
+<p>
+              <pb n="0473"/>Quamobrem secundum doctrinam sanam <hi>Mulier
+alligata est, quamdiu vir ejus vivit;</hi> id est, nondum
+e corpore abscessit. <hi>Mulier</hi> enim <hi>sub viro, vivo
+marito, juncta est legi;</hi> hoc est, in corpore constituto. <hi>Si autem mortuus fuerit,</hi> 
+ hoc est, de corpore exierit, <hi>evacuata est a lege viri. Igitur vivente viro, vocabitur
+adultera, si fuerit cum alio viro. Si autem mortuus fuerit
+vir ejus, liberata est a lege</hi>,
+ <hi>ut non sit adultera,
+si fuerit cum alio viro <note>(Rom. VII, 2 et 3)</note>
+              </hi>. Haec verba
+Apostoli toties repetita, toties inculcata, vera sunt,
+viva sunt, sana sunt, plana sunt. Nullius viri posterioris
+mulier uxor esse incipit, nisi prioris esse desiverit.
+Esse autem desinet uxor prioris, si moriatur
+vir ejus; non si fornicetur. Licite itaque dimittitur
+conjux ob causam fornicationis; sed manet vinculum
+prioris, propter quod fit reus adulterii, qui dimissam
+duxerit etiam ob causam fornicationis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Conjugii vinculum morte resolvi, non
+autem fornicatione et separatione conjugum.</hi> Sicut enim
+manente in se Sacramento regenerationis, excommunicatur
+cujusquam reus criminis, nec illo Sacramento
+caret, etiamsi nunquam reconcilietur Deo: ita
+manente in se vinculo foederis conjugalis, uxor dimittitur
+ob causam fornicationis, nec carebit illo vinculo,
+etiamsi nunquam reconcilietur viro; carebit autem,
+si mortuus fuerit vir ejus. Reus vero excommunicatus
+ideo nunquam carebit regenerationis Sacramento,
+etiam non reconciliatus, quoniam nunquam moritur
+Deus. Remanet itaque ut, si sapere secundum Apostolum
+volumus, non dicamus virum adulterum pro
+mortuo deputandum, et ideo licere uxori ejus alteri
+nubere. Quamvis enim sit mors adulterium, non
+corporis, sed quod pejus est, animae: non tamen et
+de ista morte, loquebatur Apostolus, cum dicebat, <hi>Quod si mortuus fuerit vir ejus, cui vult nubat;</hi> 
+ sed de
+illa sola qua de corpore exitur. Quoniam si per conjugis
+adulterium conjugale solvitur vinculum, sequitur
+illa perversitas, quam cavendam esse monstravi,
+ut et mulier per impudicitiam solvatur hoc vinculo:
+quae si solvitur, libera erit a lege viri; et ideo, quod
+insipientissime dicitur, non erit adultera si fuerit
+cum alio viro, quia per adulterium liberata est a
+priore viro. Quod si ita est a veritate devium, ut nullus
+id, non dico christianus, sed humanus sensus admittat;
+profecto <hi>mulier alligata est, quamdiu vir ejus
+vivit:</hi> quod ut apertius dicam, quamdiu vir ejus in
+corpore est. Pari ergo forma et vir alligatus est,
+quamdiu mulier ejus in corpore est. Unde si vult dimittere
+adulteram, non ducat alteram, ne quod in
+illa culpat, ipse committat. Similiter et mulier si dimittit
+adulterum, non sibi copulet alterum: alligata
+est enim, quamdiu vir ejus vivit; nec a lege viri nisi
+mortui liberatur, ut non sit adultera, si fuerit cum
+alio viro.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<div3>
+            <head>5.</head>
+            <p>
+ <hi>Reconciliatio post adulterium cum
+conjuge resipiscente quam conveniens christiano.</hi> Quod
+<pb n="0474"/>
+autem tibi durum videtur, ut post adulterium reconcilietur
+conjugi conjux; si fides adsit, non erit durum.
+Cur enim adhuc deputamus adulteros, quos vel
+Baptismate ablutos, vel poenitentia credimus esse sanatos?
+Haec crimina in vetere Dei lege nullis sacrificiis
+mundabantur, quae Novi Testamenti sanguine
+sine dubitatione mundantur: et ideo tunc omni modo
+prohibitum est ab alio contaminatam viro recipere
+uxorem; quamvis David Saülis filiam, quam pater
+ejusdem mulieris ab eo separatam dederat alteri,
+tanquam Novi Testamenti praefigurator sine cunctatione
+receperit <note>(II Reg. III, 14)</note>: nunc autem posteaquam
+Christus ait adulterae, <hi>Nec ego te damnabo;
+vade, deinceps noli peccare;</hi> quis non intelligat debere
+ignoscere maritum, quod videt ignovisse Dominum
+amborum, nec jam se debere adulteram dicere,
+cujus poenitentis crimen divina credit miseratione
+deletum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<div3>
+            <head>6.</head>
+            <p>
+ <hi>Mariti saevientes in uxores adulteras,
+cum sint et ipsi adulteri.</hi> Sed hoc videlicet infidelium
+sensus exhorret, ita ut nonnulli modicae fidei
+vel potius inimici verae fidei, credo metuentes peccandi
+impunitatem dari mulieribus suis, illud quod
+de adulterae indulgentia Dominus fecit, auferrent de
+codicibus suis: quasi permissionem peccandi tribuerit
+qui dixit, <hi>Jam deinceps noli peccare;</hi> aut ideo
+non debuerit mulier a medico Deo illius peccati remissione
+sanari, ne offenderentur insani. Neque enim
+quibus illud factum Domini displicet, ipsi pudici sunt,
+et eos severos castitas facit: sed potius ex illo sunt
+hominum numero, quibus Dominus ait, <hi>Qui sine
+peccato est vestrum, prior in eam lapidem jaciat.</hi> Nisi
+quod illi conscientia territi recesserunt, et tentare
+Christum atque adulteram persequi destiterunt <note>(Joan.
+VIII, 7-11)</note>; isti autem et aegroti medicum reprehendunt,
+et in adulteras adulteri saeviunt: quibus si diceretur,
+non quod illi audierunt, <hi>Qui sine peccato
+est;</hi> quis enim sine peccato? sed, Qui sine isto peccato
+est, <hi>prior in illam lapidem mittat;</hi> tum vero forsitan
+cogitarent, qui indignabantur quod adulteram
+non occiderent, quanta illis Dei misericordia parceretur,
+ut adulteri viverent.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<div3>
+            <head>7.</head>
+            <p>
+ <hi>Viri adulteri gravius puniendi
+quam adulterae uxores. Lex Antonini, viros impudicos
+<pb n="0475"/>
+aeque ac mulieres damnari volentis. Virorum impudicitia
+pejor.</hi> Sed cum haec eis dicimus, non solum nihil volunt
+detrahere severitati; sed irascuntur insuper veritati,
+et loquuntur atque respondent: Sed nos viri
+sumus; an vero sexus nostri dignitas hanc sustinebit
+injuriam, ut cum aliis feminis praeter uxores nostras
+si quid admittimus, in luendis poenis mulieribus
+comparemur? Quasi non propterea magis debeant illicitas
+concupiscentias viriliter frenare, quia viri
+sunt? quasi non propterea magis debeant mulieribus
+suis ad virtutis hujus exemplum se praebere, quia
+viri sunt? quasi non propterea minus debeant a libidine
+superari, quia viri sunt? quasi non propterea
+minus debeant lascivienti carni servire, quia viri
+sunt? Et tamen indignantur, si audiant adulteros viros
+pendere similes adulteris feminis poenas; cum tanto
+gravius eos puniri oportuerit, quanto magis ad eos
+pertinet et virtute vincere, et exemplo regere feminas.
+Christianis equidem loquor, qui fideliter audiunt, <hi>Caput mulieris vir 
+ <note>(Ephes. V, 23)</note>
+            </hi>: ubi se agnoscunt
+duces, illas autem comites esse debere; et ideo cavendum
+viro illac ire vivendo, qua timet ne uxor sequatur
+imitando. Sed isti quibus displicet ut inter virum
+et uxorem par pudicitiae forma servetur, et potius
+eligunt, maximeque in hac causa, mundi legibus
+subditi esse quam Christi, quoniam jura forensia non
+eisdem quibus feminas pudicitiae nexibus viros videntur
+obstringere; legant quid imperator Antoninus,
+non utique christianus, de hac re constituerit, ubi
+maritus uxorem de adulterii crimine accusare non
+sinitur, cui moribus suis non praebuit castitatis exemplum,
+ita ut ambo damnentur, si ambo pariter impudicos
+conflictus ipse convicerit. Nam supra dicti
+imperatoris haec verba sunt, quae apud Gregorianum
+leguntur: <hi>Sane,</hi> inquit, <hi>meae litterae nulla parte
+causae praejudicabunt. Neque enim si penes te culpa fuit
+ut matrimonium solveretur, et secundum legem Juliam
+Eupasia uxor tua nuberet, propter hoc rescriptum
+meum adulterii damnata erit, nisi constet esse commissum.
+Habebunt autem ante oculos hoc inquirere, an
+cum tu pudice viveres, illi quoque bonos mores colendi
+auctor fuisti. Periniquum enim mihi videtur esse ut pudicitiam
+vir ab uxore exigat, quam ipse non exhibet:
+quae res potest et virum damnare, non ob compensationem
+mutui criminis rem inter utrumque componere,
+vel causam facti tollere.</hi> Si haec observanda sunt propter
+decus terrenae civitatis; quanto castiores quaerit
+coelestis patria et societas Angelorum? Quae cum ita
+sint, numquid ideo minor est, ac non potius major
+et pejor virorum impudicitia, quia inest illis superba
+et licentiosa jactantia? Non igitur exhorreant viri
+quod adulterae Christus ignovit: sed potius cognoscant
+etiam periculum suum, et simili morbo laborantes
+ad eumdem Salvatorem supplici pietate confugiant;
+<pb n="0476"/>
+et quod in illa factum legunt, etiam sibi
+necessarium esse fateantur, adulteriorum suorum
+medicinam suscipiant, adulterare jam desinant, laudent
+in se Dei patientiam, agant poenitentiam, sumant
+indulgentiam, mutent de poena feminarum et
+de sua impunitate sententiam.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<div3>
+            <head>8.</head>
+            <p>
+ <hi>Nolens reconciliari adulterae uxori
+non potest alteri nubere.</hi> Quibus consideratis atque
+tractatis, si communis conditio, commune malum,
+commune periculum, commune vulnus, communis
+salus, fideliter et humiliter cogitetur; non erit turpis,
+neque difficilis, etiam post perpetrata atque purgata
+adulteria reconciliatio conjugum, ubi per claves regni
+coelorum non dubitatur fieri remissio peccatorum:
+non ut post viri divortium adultera revocetur, sed ut
+post Christi consortium adultera non vocetur. Verum
+ecce non fiat, nemo compellit, quia forte lex aliqua
+hujus saeculi vetat secundum terrenae civitatis modum,
+ubi cogitata non est abolitio criminum per sanguinem
+sanctum. Suscipiatur ergo continentia, quam
+nulla lex prohibet; in alia non eatur adulteria. Et
+quid ad nos, si nec saltem divina miseratione mundata
+marito reconcilietur adultera, dum tamen non
+reconciliatis adulteris, non alia fiant quasi connubia,
+quae convincuntur esse adulteria? <hi>Mulier</hi> enim <hi>alligata
+est, quamdiu vir ejus vivit <note>(I Cor. VII, 39)</note>
+            </hi>. Ergo
+consequenter et vir alligatus est, quamdiu mulier
+ejus vivit. Haec alligatio facit ut aliis conjungi sine
+adulterina copulatione non possint. Unde necesse est
+ex duobus conjugibus quatuor adulteros fieri, si et
+illa alteri nupserit, et ille alteram duxerit. Quamvis
+enim sceleratius moechetur, qui non causa fornicationis
+uxore dimissa alteram ducit; quod genus adulterii
+commemoravit Matthaeus: tamen non solum ipse
+moechatur, sed, sicuti est apud Marcum, <hi>Quicumque
+dimiserit uxorem suam, et aliam duxerit, adulterium
+committit super eam; et si uxor dimiserit virum suum,
+et alii nupserit, maechatur <note>(Marc. X, 11 et 12)</note>
+            </hi>; et sicuti
+est apud Lucam, <hi>Omnis qui dimittit uxorem suam, et
+ducit alteram, moechatur; et qui dimissam a viro duxerit,
+moechatur <note>(Luc. XVI, 18)</note>
+            </hi>. De quibus testimoniis
+jam satis in libro superiore disserui.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<div3>
+            <head>9.</head>
+            <p>
+ <hi>Incontinentium querelas adversus
+legem Christi vetantis alteri nubere dimissa adultera,
+frustra objectari. Si incontinentium querelae admittantur,
+permittenda adulteria in multis casibus. Justior videbitur
+querela mulieris praeter fornicationem dimissae et
+nubere alteri cupientis.</hi> Sed respondes mihi:  « Continenter
+vivere paucorum est; et ideo qui fornicantes
+conjuges dimiserunt, quoniam non possunt reconciliari,
+tantum se vident periclitari, ut legem
+Christi non humanam, sed feralem pronuntient. » 
+O frater, quantum ad incontinentes pertinet, multas
+querelas habere possunt, quibus, ut dicis, legem
+Christi feralem pronuntient, non humanam. Et tamen
+non propter illos Evangelium Christi pervertere,
+<pb n="0477"/>
+vel mutare debemus. Te quippe sola eorum
+querela permovet, qui conjuges causa fornicationis
+intercedente dimittunt, si alias ducere non sinantur:
+quoniam continere paucorum est, atque ad id debent
+laude adhortari, non lege compelli. Itaque si dimissa
+adultera non ducitur altera, justam querelam, sicut
+putas, habebit hominum incontinentia. Sed attende
+quam plura sunt, ubi si querelas incontinentium velimus
+admittere, necesse nobis erit adulteria facienda
+permittere. Quid si enim aliquo diuturno et insanabili
+morbo corporis teneatur conjux, quo concubitus
+impeditur? quid, si captivitas, vel vis aliqua separet,
+ita ut sciat vivere maritus uxorem, cujus sibi
+copia denegatur? censesne admittenda incontinentium
+murmura, et permittenda adulteria? Quid in
+hoc ipso unde interrogatus est Dominus, responditque
+fieri non debere, sed ad duritiam cordis illorum
+Moysen permisisse dari libellum repudii, et quacumque
+causa dimittere conjugem? nonne lex Christi incontinentibus
+displicet, qui uxores litigiosas, injuriosas,
+imperiosas, fastidiosas, et ad reddendum debitum
+conjugale difficillimas, repudio interposito abjicere
+volunt, et alteras ducere? Jam ergo, quia istorum
+incontinentia legem Christi horruit, ad eorum
+lex Christi arbitrium commutanda est?</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Jam porro si maritum relinquat uxor, vel maritus
+uxorem, non causa fornicationis, sed potius continentiae,
+sitque incontinens cui repudium propter hoc
+datur; quaero utrum non erit adulter vel adultera, si
+alteri copuletur? Si, Non erit, dicitur; Domino contradicitur,
+cujus haec verba sunt: <hi>Dictum est autem,
+Quicumque dimiserit uxorem suam, det illi libellum repudii.
+Ego autem dico vobis quia omnis qui dimiserit
+uxorem suam, excepta causa fornicationis, facit eam
+moechari; et qui dimissam duxerit, adulterat <note>(Matth.
+V, 31 et 32)</note>
+            </hi>. Ecce dimissa est, non dimisit; et quia
+continere paucorum est, incontinentiae cessit et nupsit;
+et tamen adulter adulteram duxit. Ambo rei,
+ambo damnandi sunt; et quae nupsit vivo marito, et
+qui duxit eam cujus vivit maritus. Numquid hic legem
+Christi dicimus inhumanam, qua constituitur rea
+tanti criminis atque punitur, quam vir nulla ejus praecedente
+fornicatione dimisit, et quia paucorum est
+continere, dimittendo compulit nubere? Cur non hic
+dicimus habendum esse pro mortuo, qui male dimittendo
+prior conjugale vinculum rupit? Nam qua ratione
+dicturus es eum rupisse vinculum conjugale,
+qui licet sit moechus, non dimisit uxorem; et eum
+non rupisse, qui etiam castam dimisit uxorem? Ego
+autem dico in utroque manere hoc vinculum, quo
+mulier alligata est, quamdiu vir ejus vivit, sive continens,
+sive moechus: et ideo moechari eam quae dimissa
+nupserit, et moechari eum qui dimissam duxerit,
+<pb n="0478"/>
+sive a moecho, sive a continente dimissa sit;
+quoniam <hi>mulier alligata est, quamdiu vir ejus vivit.</hi> Sed
+nunc de querelis incontinentium disputamus. Quid
+enim videtur justius hujus mulieris querela, quae dicit:
+Dimissa sum, non dimisi; et quoniam continere
+paucorum est, non me continui, ne fornicarer nupsi;
+et dicor moechata, quia nupsi? Numquid propter
+hujus quasi justam querelam, legem censebimus mutandam
+esse divinam, ut istam non judicemus adulteram?
+Absit. Sed respondebis non eam debuisse
+dimitti, quia fornicationis nulla causa praecesserat.
+Verum dicis: nam peccatum mariti ejus Dominus
+expressit, ubi ait, <hi>Qui dimiserit uxorem suam, excepta
+causa fornicationis, facit eam moechari.</hi> Sed numquid
+ista ideo nubendo postea non peccavit, quia prius dimittendo
+ille peccavit? Quid ergo ei prodest, quod
+de lege Christi mulier incontinens queritur, nisi ut
+murmurans puniatur?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<div3>
+            <head>11.</head>
+            <p>
+ <hi>Objectio alia Pollentii ut saltem
+filiorum gignendorum causa liceat alteram ducere
+dimissa adultera.</hi> Jam nunc etiam illa videamus quae
+alio loco interponens addidisti, neque ad ea respondere
+voluisti: ubi te movet, et miseraris hominem
+qui cubare cum adultera, etiamsi non incontinentia,
+certe filiorum procreandorum necessitate compellitur,
+si non ei licet sic eam dimittere, ut ea vivente
+alteram ducat. Unde recte movereris, si adulterium
+non esset, quamvis adultera viva uxore, alteram ducere.
+Si autem adulterium est, ut ea quae sunt disputata
+docuerunt, quid obtenditur procreandorum causa
+filiorum? Non enim propterea flagitiorum est permittenda
+licentia: aut vero tam cavendum est sine
+posteris mori, quam eligendum in posterum vivere?
+quod non sinentur adulteri, quos necesse est post
+primam mortem secundae mortis aeternitate damnari.
+Nam procreandorum filiorum ista causatio, etiam
+non adulteras, sed castissimas feminas, si forte sint
+steriles, cogit dimitti, et alteras duci: quod tibi existimo
+non placere.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Quapropter si causa incontinentiae non sunt
+excusanda adulteria, quanto minus excusantur procreandorum
+causa filiorum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Nuptias hoc tempore filiorum causa
+iis tantum eligendas esse, qui se continere non possunt.</hi> Illi quippe infirmitati, hoc est, incontinentiae voluit
+Apostolus subveniri honestate nuptiarum. Non enim
+ait, Si filios non habet, nubat; sed, <hi>Si se non
+continet, nubat <note>(I Cor. VII, 9)</note>
+            </hi>. Filiorum quidem
+propagine compensatur quod incontinentiae nubendo
+ceditur. Nam utique incontinentia vitium est, conjugium
+autem non est vitium; et ideo fit per hoc bonum,
+ut illud veniale sit malum. Cum sint ergo
+nuptiae causa generandi institutae, ea causa fiebant a
+Patribus, qui tantum officio generandi feminis, sed
+non illicite, miscebantur. Erat enim tunc quaedam
+propagandi necessitas, quae nunc non est: quoniam <hi>tempus amplectendi,</hi> 
+ sicut scriptum est, quod utique
+tunc fuit; <hi>et tempus continendi ab amplexu <note>(Eccle. III, 5)</note>
+            </hi>,
+<pb n="0479"/>
+quod nunc est. De quo tempore Apostolus loquens
+ait: <hi>De caetero, fratres, tempus breve est; reliquum est
+ut et qui habent uxores, tanquam non habentes sint <note>(I Cor. VII, 29)</note>
+            </hi>.
+Unde nunc rectissime dicitur, <hi>Qui
+potest capere, capiat <note>(Matth. XIX, 12)</note>
+            </hi>: qui autem se
+non continet, nubat. Tunc ergo etiam continentia
+propter propagationem filiorum in nuptias descendebat
+officio: nunc autem vinculum nuptiale incontinentiae
+subvenit vitio; ut ab eis qui se non continent,
+non per turpitudinem stuprorum, sed per honestatem
+conjugiorum, fiat propagatio filiorum. Cur ergo non
+dixit Apostolus, Si filios non habet, nubat? Quia scilicet
+hoc tempore continendi ab amplexu, non est necesse
+filios propagare. Et quare dixit, <hi>Si se non continet,
+nubat?</hi> Utique propterea, ne per incontinentiam
+cogatur adulterare. Si ergo se continet, nec nubat,
+nec generet. Si autem se non continet, licite nubat,
+ne turpiter generet, aut turpius concumbendo non
+generet. Quanquam hoc quod ultimum dixi, nonnulli
+faciant etiam licite conjugati. Illicite namque et turpiter
+etiam cum legitima uxore concumbitur, ubi
+prolis conceptio devitatur. Quod faciebat Onan filius
+Judae, et occidit illum propter hoc Deus <note>(Gen. XXXVIII,
+8-10)</note>. Propagatio itaque filiorum, ipsa est prima et
+naturalis et legitima causa nuptiarum: ac per hoc qui
+propter incontinentiam conjugantur, non sic debent
+temperare malum suum, ut bonum exterminent nuptiarum,
+id est, propaginem filiorum. De incontinentibus
+quippe loquebatur Apostolus, ubi ait: <hi>Volo
+igitur juniores nubere, filios procreare, matresfamilias
+esse, nullam occasionem dare adversario maledicti gratia.
+Jam enim conversae quaedam sunt retro post satanam <note>(I Tim. V, 14 et 15)</note>
+            </hi>.
+Cum itaque dicebat, <hi>Volo
+juniores nubere;</hi> hoc utique monebat propter ruinam
+incontinentiae fulciendam. Sed ne forte ab eis sola
+carnalis concupiscentiae cogitaretur infirmitas, cui
+tantummodo esset opere connubii serviendum, nuptiarum
+autem vel contemneretur vel negligeretur
+bonum; continuo subjunxit, <hi>filios procreare, matresfamilias
+esse.</hi> Qui vero eligunt continere, aliquid utique
+melius eligunt quam est nuptiarum bonum, hoc est,
+generatio filiorum. Unde si eligitur continentia, ut
+bono nuptiarum melius aliquid capessatur; quanto
+potius custodienda est, ut adulterium caveatur? Cum
+enim dixisset Apostolus, <hi>Quod si se non continet,
+nubat: Melius est enim,</hi> inquit, <hi>nubere quam uri <note>(I Cor. VII, 9)</note>
+            </hi>.
+Non dixit, Melius est moechari quam
+uri.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<div3>
+            <head>13.</head>
+            <p>
+ <hi>Nolentes reconciliari conjugibus
+adulteris, continentiam custodiant.</hi> Non est igitur ad
+quod exhortemur eos qui reconciliari timent conjugibus
+adulteris poenitendo sanatis, nisi ad custodiendam
+continentiam. Quoniam mulier alligata quamdiu
+sive moechus sive castus vir ejus vivit, moechatur si
+alteri nupserit; et vir alligatus quamdiu sive moecha
+sive casta uxor ejus vivit, moechatur si alteram duxerit.
+<pb n="0480"/>
+Haec namque alligatio quando quidem non solvitur,
+etiamsi per repudium conjux a casto conjuge
+separetur; multo minus solvitur, si non separata
+moechetur. Ac per hoc non eam solvit, nisi mors conjugis,
+non in adulterium corruentis, sed de corpore
+exeuntis. Quapropter si recesserit mulier ab adultero
+viro, et ei reconciliari non vult, maneat innupta; et
+si dimiserit vir adulteram mulierem, et eam non vult
+recipere nec post poenitentiam, custodiat continentiam:
+etsi non ex voluntate eligendi potioris boni,
+certe ex necessitate vitandi perniciosi mali. Ad hoc
+exhortarer, etiamsi uxor esset in languore insanabili
+atque diuturno, etiamsi alicubi esset corpore separata,
+quo maritus non posset accedere: postremo ad hoc
+exhortarer, etiamsi mulier volens vivere continenter,
+quamvis contra disciplinam, quia non ex consensu,
+tamen pudicum pudica dimitteret. Puto enim christianum
+neminem reluctari, adulterum esse qui vel
+diu languente, vel diu absente vel continenter vivere
+cupiente sua uxore, alteri commixtus est feminae. Sic
+ergo et dimissa adultera, adulter est cum altera:
+quoniam non ille, aut ille; sed, <hi>Omnis qui dimittit
+uxorem suam, et ducit alteram, moechatur <note>(Luc. XVI, 18)</note>
+            </hi>.
+Quapropter si a conjugali vinculo immunis minus appetitur
+vita sanctorum, exhorreatur poena moechorum;
+et timore saltem frenetur concupiscentia, si amore
+non eligitur continentia. Si enim ubi est timor, operetur
+labor; ubi erat labor, erit et amor. Non enim confidendum
+est de nostris viribus; sed oratio adjungenda
+conatibus, ut impleat bonis, qui deterret a
+malis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<div3>
+            <head>14.</head>
+            <p>
+ <hi>Objectio alia, hac sententia
+excludi benignitatem, ut mariti velint puniri adulteras,
+quibus mortuis ducere alias possint.</hi> Respondeamus
+etiam ad illud, ubi putas maritos ad puniendas adulteras
+sine ulla miseratione compelli; cum volunt eas
+mori, si eis viventibus non licet eis alteras ducere.
+Quam crudelitatem volens exaggerare dixisti: <hi>Non
+mihi videtur, amantissime pater, hic divinus esse sensus,
+ubi benignitas et pietas excluditur.</hi> Ita istud dicis, quasi
+propterea mariti parcere debeant adulteris feminis,
+quia licet eis alteras ducere; ut si non licet, non
+parcant ut liceat. Quinimo propterea debent peccatricibus
+praebere misericordiam, ut et ipsi pro suis peccatis
+misericordiam consequantur. Et multo magis
+hoc eis faciendum est, qui dimissis uxoribus adulteris
+cupiunt vivere continenter. Tanto quippe debent esse
+misericordiores, quanto volunt esse sanctiores: ut et
+ad castitatem in se ipsis servandam divinitus adjuventur,
+dum castitatem ab uxoribus violatam nec ipsi humanitus
+ulciscuntur. Et maxime vox illa dominica est
+eis in memoriam revocanda: <hi>Qui sine peccato est,
+prior in illam lapidem jaciat <note>(Joan. VIII, 7)</note>
+            </hi>. Non, Qui
+sine ipso peccato est, quoniam loquimur de pudicis
+viris; sed, <hi>Qui sine peccato est:</hi> quod si esse se
+<pb n="0481"/>
+dixerint, se ipsos seducunt, et veritas in eis non est <note>(I Joan. I, 8)</note>.
+Porro si non se seducunt, et est in eis
+veritas, non erit in eis cruenta severitas. Scientes
+enim se non esse sine peccato, dimittunt ut dimittatur
+eis; nec ab eis benignitas et pietas excluditur. Magis
+enim haec excluduntur, si peccatis conjugum ab eis
+impetret veniam licentia libidinis, non cura pietatis;
+id est, ut propterea parcant quia licet eis alteras ducere,
+et non potius propterea quia volunt et sibi Dominum
+parcere.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Quanto itaque melius, et honestius, christiana
+denique professione dignius, ut parcant adulterarum
+sanguini uxorum, quod scriptum est eis dicimus, <hi>Dimitte injustitiam proximo tuo, et tunc precanti tibi
+peccata solventur. Homo homini conservat iram, et a
+Domino quaerit medelam? Super hominem similem sibi
+non habet misericordiam, et de peccatis suis deprecatur?
+Cum ipse caro sit, conservat iracundiam? quis propitiabitur
+peccatis illius 
+ <note>(Eccli. XXVIII, 2-5)</note>
+            </hi>; et de Evangelio, <hi>Dimittite, et dimittetur vobis 
+ <note>(Luc. VI, 37)</note>
+            </hi>; ut
+possimus dicere, <hi>Dimitte nobis debita nostra, sicut et
+nos dimittimus debitoribus nostris <note>(Matth. VI, 12)</note>
+            </hi>; et
+de Apostolo, <hi>Nulli malum pro malo reddentes <note>(Rom.
+XII, 17)</note>
+            </hi>: et si qua sunt hujusmodi in Scripturis sanctis,
+quibus, ad ulciscendum quando humanus animus
+excitatur, quia christianus est, mitigatur?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p> <hi>Mariti ad parcendum adulteris uxoribus,
+non licentia libidinis, sed cura pietatis adducantur.</hi> Quanto, inquam, melius ista dicimus, quam ut
+dicamus, Tantum adulteras istas dimittite, et earum
+nolite sanguinem quaerere; quidquid doloris ex earum
+flagitiis habetis, consolabuntur vos aliae quas duxeritis:
+merito enim velletis istas de viventium numero
+auferre, si earum vita impedimento esset, quominus
+alias duceretis; nunc vero, etiam istis viventibus cum
+liceat alia vobis matrimonia providere, quid eas tantopere
+vultis occidere? Haec si dicimus, nonne attendis
+quam nostra suasio longe sit a charactere christiano: 
+quia et falsum dicimus, eis licere quod non
+licet, hoc est, istis viventibus ut aliis copulentur; et
+si propterea illis pepercerint, non parcent propter
+pietatem, sed propter aliarum nuptiarum liberam
+potestatem. Postremo quaero abs te, utrum marito
+christiano liceat vel secundum veterem Dei legem, vel
+Romanis legibus adulteram occidere? Si licet, melius
+est ut ab utroque se temperet, id est, et a licito
+illa peccante supplicio, et ab illicito illa vivente conjugio.
+Quod si alterutrum eligere perseverat, satius
+est ei facere quod licet, ut adultera puniatur, quam
+id quod non licet, ut ipsa viva ille moechetur. Si autem
+quod verius dicitur, non licet homini christiano adulteram
+conjugem occidere, sed tantum dimittere; quis
+est tam demens qui ei dicat, Fac quod non licet, ut
+tibi liceat quod non licet? Cum enim utrumque secundum
+<pb n="0482"/>
+legem Christi illicitum sit, sive adulteram occidere,
+sive illa vivente alteram ducere, ab utroque
+abstinendum est, non illicitum pro illicito faciendum.
+Si enim facturus est quod non licet, jam faciat adulterium,
+et non faciat homicidium; ut vivente uxore
+alteram ducat, et non humanum sanguinem fundat.
+Quod si est utrumque nefarium, non debet alterum
+pro altero perpetrare, sed utrumque vitare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<div3>
+            <head>16.</head>
+            <p>
+ <hi>Objectatur incontinentem, si
+adulterae uxori suae mortem accusando procurarit,
+veniam accepturum per Baptismum aut reconciliationem,
+quae sibi alioquin perpetuo adultero denegarentur.
+Graviora contra Pollentii opinionem excogitari
+posse, quam quae ab illo objectantur incommoda.</hi> Hic
+video quid dici ab incontinentibus possit: quod videlicet
+qui dimittit et vivere permittit adulteram, si
+alteram duxerit, quamdiu prior illa vivit, perpetuus
+adulter est, nec agit poenitentiam fructuosam a flagitio
+non recedens; nec si catechumenus est, ad Baptismum
+admittitur, quoniam ab eo quod impedit non
+mutatur; nec reconciliari poenitens potest in eadem
+nequitia perseverans: si autem accusando adulteram
+occiderit, hoc peccatum quoniam transactum
+est, et in eo non permanet, et si a catechumeno factum
+est, Baptismate abluitur; et si a baptizato,
+poenitentia et reconciliatione sanatur. Sed numquid
+propterea dicturi sumus adulterium non esse adulterium,
+quod sine dubio committitur, si conjuge adultera
+vivente altera ducitur? Sed hoc adulterii genere
+excepto, nempe non dubitas esse adulterium, si quisquam
+ducat viventis uxorem a viro suo per libellum
+repudii sine ulla mulieris fornicatione dimissam.
+Quid ergo, cum viderit se nec ad Baptismum admitti,
+si catechumenus, nec utiliter agere poenitentiam, si
+baptizatus hoc fecit, non corrigendo et relinquendo
+quod fecit, si eum voluerit et potuerit occidere cujus
+duxit uxorem, ut hoc scelus vel Baptismate diluatur,
+vel poenitendo solvatur, atque ita etiam illud adulterium
+non permaneat, evacuata muliere a lege viri
+post mortem viri, sed de transacto quod factum est,
+per poenitentiam satis fiat, vel regeneratione deleatur;
+numquid propterea est accusanda lex Christi,
+tanquam compulerit fieri homicidium, cum sine crimine
+fornicationis repudiatam ducere, dicit esse adulterium?</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Hic enim, si parum quid loquamur attendimus,
+multo graviora dici possunt quam ipse dixisti. Nam
+tu dum non vis esse adulteria, si aliae ducantur dimissis
+adulteris, hoc invenisti: <hi>Quoniam si haec adulteria
+dixerimus, cogentur mariti occidere adulteras, quarum
+vita impediuntur alteras ducere.</hi> Atque ut hoc exaggerares, dixisti: <hi>Non mihi videtur, amantissime pater, hic
+divinus esse sensus, ubi benignitas et pietas excluditur.</hi> Si
+ergo quispiam nolens credere esse adulterium quando
+a marito sine fornicationis crimine repudiata ab altero
+ducitur, et hoc contra te inveniat, quia ista ratione suadetur
+hominibus homicidia perpetrare, et earum maritos,
+quas eo modo repudiatas duxerint, vel insidiis quibus
+potuerint, vel calumniis appetere, vel aliquibus
+<pb n="0483"/>
+veris criminibus accusare et occidere, ut eis mortuis
+esse possint conjugia, quae vivis fuerant adulteria;
+nonne id exaggerando tibi dicturus est, Non mihi
+videtur, amantissime frater, hic divinus esse sensus,
+ubi non solum benignitas et pietas excluditur, sed
+etiam ingens malignitas et impietas excitatur? Quandoquidem
+multo est levius et tolerabilius, ut adulteras
+mariti, quam ut maritos adulteri occidant. Placetne
+tibi, ut propter vanissimam invidiam, dominicae
+defensionem sententiae deseramus, vel eam insuper
+accusemus, dicentes non debere adulterium vindicari,
+etiamsi praeter causam fornicationis repudiata
+a viro alteri conjugetur, ne maritum ejus a quo
+dimissa est compellatur occidere, dum adulterium in
+connubium cupit viri prioris morte convertere? Scio
+hoc tibi non placere, ut propter hanc vanissimam invidiam,
+lex Christi, cum vera inveniatur et sana,
+dura et inhumana dicatur. Sic itaque non tibi debet
+videri ideo negandum esse adulterium, quando uxore
+adultera vivente altera ducitur, quia potest maritus
+per hoc cogi adulteram occidere, dum cupit sibi licere
+illa exstincta alteram ducere, si hoc ea vivente
+non licet facere. Quid si enim et illud dicant christianae
+fidei detractores, cogi homines occidere uxores
+suas insidiarum sceleribus, quas molestas ferre non
+possunt, sive diuturno languore laborantes et pati
+concubitum non valentes, sive pauperes, sive steriles,
+sive deformes, aliarum spe ducendarum, sanarum,
+opulentarum, fecundarum, pulcherrimarum; quia eas
+quas perpeti nolunt, praeter causam fornicationis repudiare
+non licet et alteras ducere, ne perpetuo devincti
+adulterio, nec baptizari possint, nec poenitendo
+sanari? Numquid propterea ne ista homicidiorum
+scelera perpetrentur, dicturi sumus, non esse adulteria,
+repudiatis praeter causam fornicationis uxoribus,
+sibi alteras copulare?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<div3>
+            <head>18.</head>
+            <p>
+ <hi>Incommodum aliud contra
+Pollentii sententiam.</hi> Jam vero ex hoc quod sapis non
+esse adulterium, si vir uxorem causa fornicationis
+abjecerit, et alteram duxerit; nonne arbitraris cavendum,
+ne discant viri uxores suas, quas propter alias
+innumerabiles causas ferre non possunt, moechari
+cogere, ut ab eis vinculo conjugali per fornicationem,
+sicut putas, soluto, liceat eis alteras ducere; et ex
+eo quod illas moechari coegerunt, aut Baptismate ablui,
+aut poenitendo sanari, quoniam illis et gratia et
+medicina negabitur quamdiu cum adulteris vivent, si
+prioribus praeter causam fornicationis repudiatis alteras
+duxerint? Nisi forte quis dicat, neminem posse
+uxorem suam moechari facere, si pudica est: et tamen
+Dominus, <hi>Omnis qui dimiserit,</hi> inquit, <hi>uxorem
+suam, praeter causam fornicationis, facit eam moechari <note>(Matth. V, 33)</note>
+            </hi>.
+Utique propterea, quia cum esset pudica
+cum viro, tamen dimissa cogitur per incontinentiam
+vivo priore alteri copulari, et hoc est moechari.
+Quod si hoc ista non fecerit, tamen ille quantum
+in ipso est facere compulit; et hoc ei Deus peccatum,
+etiamsi illa casta permaneat, imputabit Sed
+<pb n="0484"/>
+quis nesciat quam sint rarissimae, quae ita pudice vivant
+cum viris, ut etiamsi ab eis dimittantur, alios
+non requirant? Incomparabiliter quippe numerus est
+amplior feminarum, quae cum pudice adhaereant maritis,
+tamen si dimissae fuerint a maritis, non differunt
+nubere. Cum ergo crediderint homines Domino
+dicenti, <hi>Omnis qui dimiserit uxorem suam, praeter causam
+fornicationis, facit eam moechari;</hi> si crediderint et
+tibi dicenti, muliere fornicante licere viro ejus alteram
+ducere; quisquis voluerit propter alias quaslibet molestias
+carere uxore cui junctus est, prius eam moechari
+faciat, sine fornicatione dimittendo, ut tunc ducat
+alteram, cum fuerit illa moecha nubendo: ac sic a
+priore peccato quo eam moechari fecit, sive per Baptismum,
+sive per poenitentiam liberatus, sine suo
+adulterio sibi habere videatur, quam post prioris adulterium,
+tanquam hinc soluto matrimonii vinculo, alteram
+duxerit. Quod quidem si fuerit machinatus, et
+uxorem suam moecham faciet, et ipse quamvis post
+adulterium conjugis aliam ducendo moechus erit;
+nihilque illi proderit quod tibi credidit, et non ei potius
+qui nullo excepto ait, <hi>Omnis qui reliquerit uxorem
+suam, et aliam duxerit, moechatur <note>(Luc. XVI, 18)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<div3>
+            <head>19.</head>
+            <p>
+ <hi>Continentia servanda aut
+conjugalis aut excellentior.</hi> Quibus omnibus consideratis
+atque tractatis, restat ut ab eis qui haec fideliter
+audiunt, dicatur nobis quod Domino dictum est: <hi>Si
+talis est causa cum uxore, non expedit nubere.</hi> Quibus
+et nos quid respondeamus, nisi quod ipse respondit? <hi>Non omnes capiunt verbum hoc, sed quibus datum est.
+Sunt enim eunuchi qui de matris utero sic nati sunt; et
+sunt eunuchi qui facti sunt ab hominibus; et sunt eunuchi
+qui se ipsos castraverunt propter regnum coelorum.
+Qui potest capere, capiat 
+ <note>(Matth. XIX, 10-12)</note>
+            </hi>. Ergo
+qui potest capiat, quod non omnes capiunt. Possunt
+autem capere hi quibus hoc praestat Dei misericordia
+occulta, sed justa. Sed in his omnibus qui se ipsos
+castraverunt propter regnum coelorum, alii sunt qui
+in utroque sexu concubitum nesciunt, alii qui experti
+et aversi sunt, partim quidem illicite, partim vero licite
+experti. Porro in his qui licite experti sunt, quidam
+sunt qui non nisi licite, quidam et illicite et licite.
+Sunt quippe in eis qui conjugia sua tantum sciunt;
+sunt autem qui et alias feminas ac stupra quaelibet.
+Sed qui post concubitum conjugum se ipsos castrant
+propter regnum coelorum, aut morte amittunt conjuges,
+aut ex consensu cum eis continentiam profitentur;
+aut ex necessitate divortiorum, ne vivis conjugibus
+se aliis copulando adulteria perpetrent, castrant
+se ipsos propter regnum coelorum, non ut clariores
+ibi esse possint, sed quod aliter ibi esse non possint:
+nam qui non ista necessitate se continent, sed
+boni appetitione melioris, possent ibi esse etiam
+servata pudicitia conjugali, quamvis in praemiis
+minoribus, tamen intus. Qui vero propterea se
+continent, quia prioribus conjugibus vivis timent
+aliis conjugari, majorem curam debent gerere pro
+salute, quam gesserunt illi a quibus continentia pro
+<pb n="0485"/>
+munere delecta est ampliore. Tunc quippe ibi erunt,
+si adulteri non erunt. Si autem non continent, adulteri
+erunt; quia viventibus conjugibus pristinis, non conjugibus
+alteris, sed adulteris adhaerebunt. Et si a
+regno coelorum aberunt, ubi erunt, nisi ubi salvi non
+erunt?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<div3>
+            <head>20.</head>
+            <p>
+ <hi>Conjuges divortio separatos a conjugibus
+hortatur ad continentiam.</hi> Hos igitur alloquor, ut
+quod facere deberent, si haberent conjuges diuturno
+languore marcescentes, vel loco sibi inaccessibili absentes,
+vel animositate illicita continentes; hoc faciant,
+si habuerint conjuges adulterina inquinatione sordentes,
+et propter hoc a suo consortio divortiantes: non
+alia quaerant conjugia, quia non erunt conjugia, sed
+adulteria. Cum enim par forma sit in hoc vinculo viri et
+uxoris, sicut uxor <hi>vivente viro vocabitur adultera, si fuerit
+cum alio viro <note>(Rom. VII, 3)</note>
+            </hi>; ita et vir vivente uxore vocabitur
+adulter, si fuerit cum alia muliere. Etsi enim
+gravius qui praeter causam fornicationis, <hi>omnis</hi> tamen <hi>qui dimiserit uxorem suam, et aliam duxerit, moechatur.</hi> 
+Non eos terreat sarcina continentiae: levis erit, si
+Christi erit; Christi erit, si fides aderit, quae impetrat
+a jubente quod jusserit. Non eos frangat, quod videtur
+eorum continentia necessitatis esse, non voluntatis:
+quia et illi qui eam voluntate delegerunt, fecerunt
+eam esse necessitatis; quoniam jam sine damnatione
+ab illa deviare non possunt: et qui in eam necessitate
+contrusi sunt, faciunt eam esse voluntatis, si non de se
+ipsis, sed de illo a quo est bonum omne confidunt. Illi
+ad eam conscenderunt causa majoris gloriae, ut aliquid
+amplius invenirent; isti ad eam confugerunt cura
+salutis novissimae, ne perirent: utrique permaneant,
+utrique in quod pervenerunt ambulent usque in finem,
+ferveant studiis, supplicent votis quia et illis
+salus cogitanda est, ut ab eo quod voluntas arripuit
+cadere timeant; et istis gloria desperanda non est, si
+in eo quod necessitas intulit, persistere deligant.
+Fieri enim potest ut Deo terrente et hortante, convertente
+et implente, humanus in melius mutetur
+affectus; atque ita voveant sine conjugiis et sine ullo
+concubitu atque immunda libidinis attrectatione perseverantissime
+vivere, ut etiamsi separata conjugia
+locum ducendi alias moriendo aperuerint, claudatur
+ex voto quod patet ex licito, et quod erat necessitate
+coeptum, fiat charitate perfectum. Talibus profecto id
+retribuetur, quod illis qui vel pari consensu cum conjugibus
+hoc voverunt, vel nullis conjugiis alligati
+propter majus bonum continentiam delegerunt. Si autem
+ita se continent, ut si moriantur quarum vita
+conjugari impediuntur, alias ducere cogitent; profecto
+etiamsi prius ipsi in tali continentia de corpore
+abscedant, non eis imputatur nisi ad pudicitiam conjugalem,
+propter quam non faciunt quod facerent si
+liceret. Hac quippe intentione continenter vivere,
+parum est ad accipienda illius quae liberius eligitur
+continentiae praemia, sed sufficit ad cavenda adulteria.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<div3>
+            <head>21.</head>
+            <p>
+ <hi>Viri mulieribus praeire in pudicitia
+<pb n="0486"/>debent. Continentiam clericorum qui electi sunt inviti proponit
+viris nolentibus in divortio se continere.</hi> Haec autem
+me de utroque sexu memineris dicere, sed maxime
+propter viros, qui propterea se feminis superiores esse
+arbitrantur, ne pudicitia pares esse dignentur: in qua
+etiam praeire debuerunt, ut eos illae tanquam sua capita
+sequerentur. Quando autem lex prohibet adulteria, si
+obtentu incontinentiae carnalis infirmitatis admittatur
+excusatio, multis sub nomine falsae impunitatis pereundi
+aperitur occasio. Neque enim carnem non habent
+feminae, quibus viri aliquid tale nolunt licere,
+quasi eis, quia viri sunt, liceat. Sed absit ut melioris
+sexus tanquam honori debeatur, quod pudori detrahitur;
+cum honor justus virtuti, non vitio debeatur.
+Quinimo cum a feminis utique habentibus carnem,
+tantam flagitant castitatem, ut quando ab uxoribus
+diutissime peregrinantur, velint eas ab adulterino
+concubitu incontaminatas fervorem transigere juventutis
+(et plurimae pudicissime transigunt, et maxime
+Syrae, quarum mariti negotiandi quaestibus occupati,
+juvenes adolescentulas deserunt, et vix aliquando senes
+ad aniculas revertuntur); eo ipso evidentius convincuntur
+non esse impossibile quod se non posse
+causantur. Si enim hoc non posset infirmitas hominum,
+multo minus id posset sexus infirmior feminarum.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Unde istos qui virilem excellentiam non putant
+nisi peccandi licentiam, quando terremus ne adulterinis
+conjugiis haerendo pereant in aeternum, solemus
+eis proponere etiam continentiam clericorum,
+qui plerumque ad eamdem sarcinam subeundam capiuntur
+inviti, eamque susceptam usque ad debitum
+finem, Domino adjuvante, perducunt. Dicimus ergo
+eis: Quid si et vos ad hoc subeundum populorum violentia
+caperemini? nonne susceptum caste custodiretis
+officium, repente conversi ad impetrandas vires
+a Domino, de quibus nunquam antea cogitastis?
+Sed illos, inquiunt, honor plurimum consolatur. Respondemus:
+Et vobis timor multo amplius moderetur.
+Si enim hoc multi Dei ministri repente atque
+inopinate impositum susceperunt, sperantes se illustrius
+in Christi haereditate fulgere; quanto magis vos
+adulteria cavendo, vivere continenter debetis, metuentes
+non in regno Dei minus lucere, sed in gehenna
+ignis ardere? Haec atque hujusmodi eis ut possumus
+dicimus, qui quoquo modo a se discedentibus vel propter
+adulterium dimissis conjugibus suis, alias volunt
+ducere, et cum prohibentur, infirmitatem nobis carnis
+opponunt. Sed jam liber etiam iste claudendus
+est, et rogandus Deus ut aut eos tentari non sinat separationibus
+conjugum; aut ita sinat, ut timor periclitantis
+salutis fiat illis amplioris sive probatioris occasio
+castitatis.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

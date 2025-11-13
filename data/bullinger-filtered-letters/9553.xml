@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9553" type="Beilage" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] an [Friedrich III. «der Fromme» Kurfürst von der Pfalz], 14. Januar 1574</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/9553</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="44005" type="transcription">S. 8237/7</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Beilage" subtype="Beilage" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Beilage">E II 381,1368</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Summa confessionis ecclesiae Tigurinae de praecipuis christianae religionis capitibus</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Corr. de Bèze XV, Nr. 1045, Anm. 4</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>Benrath, in HB GesA II 17 (Anm. 49)</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="low"/>
+					<date when="1574-01-14" cert="high"><note>Beilage zu: 1574 Januar 20. (= ID 9552)</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8060" cert="low"/>
+				</correspAction>
+				<correspContext>
+					<ref type="parent" target="file9552"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9553!Beilage!00%20E_II_381__fol__1368_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">9553/Beilage/00 E_II_381__fol__1368_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9553!Beilage!01%20E_II_381__fol__1368_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">9553/Beilage/01 E_II_381__fol__1368_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Summa confessionis ecclesiae <placeName ref="l587">Tigurinae</placeName> de praecipuis christianae religionis capitibus, contra quam nemo quidquam in hac ecclesiae et schola spargere debet.</s>
+					<s n="2" xml:lang="la">1. Deus unus est natura et essentia, quae communis est patri, filio et spiritui sancto.</s>
+					<s n="3" xml:lang="la">2. Pater, filius et spiritus sanctus non sunt proprietates vel affectiones unius dei patris, sed tres personae vere subsistentes, intelligentes et volentes.</s>
+					<s n="4" xml:lang="la">3. Pater est deus verus, filius est deus verus, spiritus sanctus est deus verus, non tamen sunt tres dii, sed unus deus.</s>
+					<s n="5" xml:lang="la">4. Nec filius nec spiritus sanctus est creatura nec deus nuncupatione, sed re ipsa, et uterque illorum est patri aequalis et consubstantialis.</s>
+					<s n="6" xml:lang="la">5. Nulla istarum personarum est maior altera, quamvis ordine una praecedat alteram.</s>
+					<s n="7" xml:lang="la">Primo quippe loco numeratur pater, deinde filius, tertio spiritus sanctus.</s>
+					<s n="8" xml:lang="la">6. Spiritus sanctus, tertia persona trinitatis, a patre et a filio procedit idque ab aeterno, cumque sit utrique illorum aequalis et consubstantialis, cum utroque adorandus est et invocandus.</s>
+					<s n="9" xml:lang="la">7. Filius non tantum genitus est, cum ex virgine carnem accepit, nec tantum ante iacta fundamenta mundi, sed etiam ante omnem aeternitatem genitus est a patre.</s>
+					<s n="10" xml:lang="la">8. Christus accepit substantiam carnis ex virgine Maria nec illam de coelis attulit estque nobis consubstantialis secundum humanam naturam et per omnia similis excepto peccato.</s>
+					<s n="11" xml:lang="la">9. Filius vere homo factus passione et morte sua vera nobis condonationem peccatorum et vitam aeternam acquisivit nosque patri coelesti reconciliavit.</s>
+					<s n="12" xml:lang="la">10. Sola fide in Christum iustificamur et quidem gratis absque operibus aut meritis.</s>
+					<s n="13" xml:lang="la">11. Patres, qui sub lege fuerunt, etiam ipsi fide in Messiam, dei filium, servati sunt.</s>
+					<s n="14" xml:lang="la">12. Quoniam Christus non tantum est deus, sed etiam homo verus, quoad corpus, ab ascencione sua ad extremum diem supra coelos atque in ipso coelo est nec amplius versatur in terris neque omnia corpore suo adimplens est ubique.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Adprobamus et recipimus omnes libros canonicos et hos ut verum purumque verbum dei amplectimur, item symbolum apostolorum, <placeName ref="l2471">Nicenum</placeName>, <persName ref="p19214">Constantinopolitanum</persName> et beati <persName ref="p18895">Athanasii</persName>, quod in hiis nihil contineatur, quod non sit conforme verbo dei et prorsus faciat ad synceram fidei explicationem.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Confessionem hanc ecclesiae <placeName ref="l587">Tigurinae</placeName> de una essentia divina et tribus personis, patre, filio et spiritu sancto, consubstantialibus et coaeternis, de duabus Christi naturis, de remissione peccatorum et iustificatione gratuita, item de vera Christi humanitate contra ubiquitatem corporis Christi diligenter legi atque relegi.</s>
+					<s n="17" xml:lang="la">Et cum in ea nihil invenerim, quod cum sacris literis, patris symbolis et totius ecclesiae unanimi consensu non conveniat optime, nullam habui causam, quin ei lubens et ex animo subscriberem; sic enim corde credo et credam, sic ore docui et docebo gratia dei adiutus, donec Iesus Christus, aeternus dei patris filius, huius vitae usuram mihi concesserit.</s>
+					<s n="18" xml:lang="la">Huic ergo <placeName ref="l587">Tigurinae</placeName> ecclesiae confessioni ego <persName ref="p2066">Iohannes Mathaeus</persName> <placeName ref="l1202">Smalkaldensis</placeName>, theologiae doctor, propria manu et fideli corde subscripsi.</s>
+					<s n="19" xml:lang="la">19. ianuarii anno 1574.</s>
+					<s n="20" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

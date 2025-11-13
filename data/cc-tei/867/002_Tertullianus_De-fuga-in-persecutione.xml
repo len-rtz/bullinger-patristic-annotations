@@ -1,0 +1,1015 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De fuga in persecutione</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.DeFuInP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>ARGUMENTUM.</head>
+
+<pb n="0101C"/>
+<p>--Liber <hi>de Fuga in persecutione,</hi> hac
+jam fervente anno 202 scriptus, Tertulliani ingenii
+<pb n="0101D"/>
+valde praefracti etiamnum signum est, in quo Paracletum
+Montani palam adstruit: nondum tamen
+in Catholicos velut Psychicos insultat. Non inepte
+recentiores critici arbitrantur hunc tractatum eumdem
+esse quem in lib. <hi>de Corona,</hi> cap. 1, se editurum
+promisit <hi>de Quaestionibus Confessionum,</hi> utique
+contra pastores tempore persecutionum gregem
+suum deserentes. Orta inter Christianos contentione
+an persecutionis tempore fugere, aut auro
+argentove vexationem redimere sit licitum, <hi>Tertullianus,</hi> 
+cum de hac quaestione ore tenus non nihil
+dissereret, interrogatus a <hi>Fabio</hi> quodam familiari,
+demum hunc tractatum exaravit, in quo late contra
+orthodoxos probare conatur, ministris Dei in
+persecutione nec fugiendum esse, nec persecutionem
+<pb n="0102C"/>
+numerata pecunia redimendam, inter caetera
+ita disserens: <hi>Si constat a quo persecutio eveniat,
+<pb n="0102D"/>
+possumus jam consultationem tuam inducere, et determinare
+ex hoc ipso pertractatu fugiendum in persecutione
+non esse. Si enim persecutio a Deo evenit.
+Sicut duplex ratio offendit, quia neque debeat devitari
+neque evadi possit, quod a Deo evenit. Non debet
+devitari, quia bonus; necesse est enim bonum
+esse omne quod Deo visum est.</hi> --Caetera, quae in
+suae sententiae confirmationem addit pluribus persequi
+piget; quisque enim facile intelligit, insanire
+ibidem <hi>Tertullianum</hi> tam inepta argumentatione,
+cui Christi exemplum, atque Evangelium
+quo persecutionis tempore fuga praecipitur et sanctorum
+virorum auctoritas apertissime adversantur.
+LUMP.</p>
+</div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+
+<pb n="0103A"/>
+<p>Quaesisti proxime, Fabi frater, fugiendum necne
+sit in persecutione, quod nescio quid annuntiaretur.
+Ibidem ego oblocutus aliquid pro loco ac tempore,
+et quarumdam personarum importunitate, semitractatam
+materiam abstuli mecum, plenius eam de stylo
+nunc renuntiaturus, utpote quam mihi et tua consultatio
+commendarat, et conditio temporum suo jam
+nomine injunxerat. Quanto enim frequentiores imminent
+persecutiones, tanto examinatio procuranda est,
+quomodo eas excipere fides debeat. Procuranda autem
+examinatio penes vos, qui, si forte, Paracletum
+non recipiendo deductorem omnis veritatis, merito
+adhuc etiam aliis quaestionibus obnoxii estis. Igitur
+<pb n="0103B"/>
+consultationi tuae ordinem quoque induimus, animadvertentes
+ante determinari oportere de statu
+ipsius persecutionis, utrum a Deo obveniat, an a
+diabolo, quo facilius de obitu ejus constare possit.
+Omnis enim rei inspectio, auctore cognito, planior.
+Satis est quidem praescribere nihil fieri sine Dei
+voluntate. Sed non statim hac sententia caeteris retractatibus
+ locum dabimus, ne a praesenti articulo
+avocemur, si quis responderit: Ergo et malum a Deo,
+et delictum a Deo; nihil jam in diabolo, nihil etiam
+in nobis ipsis. De persecutione nunc quaeritur. Circa
+hanc interim dixerim nihil fieri sine Dei voluntate,
+respiciens eam in primis dignam Deo esse, et, ut ita
+dixerim, necessariam, ad probationem scilicet servorum
+ejus sive reprobationem. Quis est enim exitus
+<pb n="0103C"/>
+persecutionis, quis effectus alius, nisi probatio et reprobatio
+fidei, qua suos utique Dominus examinavit?
+Hoc omne judicium est persecutio per quam quis
+aut probatus aut reprobatus judicatur. Porro judicium
+soli Deo competit. Haec pala illa, quae et
+nunc Dominicam aream purgat, Ecclesiam scilicet,
+confusum acervum fidelium eventilans, frumentum
+martyrum et paleas negatorum. Haec enim,
+scalae quas somniat Jacob, aliis ascensum in superiora,
+aliis descensum ad inferiora demonstrantes.
+Sic et agonem intelligi capit persecutionem. A quo
+certamen edicitur, nisi a quo corona et praemia proponuntur?
+Legis edictum agonis istius in Apocalypsi,
+quibus praemiis ad victoriam invitet, vel maxime illos
+<pb n="0103D"/>
+qui proprie vicerint in persecutione, vincendo luctati,
+<pb n="0104A"/>
+revera non adversus carnem et sanguinem, sed
+adversus spiritalia <hi>(Ephes, VI, 12)</hi> nequitiae. Ita
+agnosces ad eumdem agonothetam pertinere certaminis
+arbitrium, qui invitat ad praemium. Totum
+quod agitur in persecutione, gloria Dei est probantis
+et reprobantis, imponentis et deponentis. Quod autem
+ad gloriam Dei pertinet, utique ex voluntate illius
+eveniet. Sed quando Deus magis creditur, nisi cum
+magis timetur, nisi in tempore persecutionis?
+Tunc Ecclesia in attonito est; tunc et fides in expeditione
+sollicitior et disciplinatior in jejuniis et
+stationibus, et orationibus, et humilitate, in alterutra
+diligentia et dilectione, in sanctitate et sobrietate.
+Non enim vacatur nisi timori et spei. Adeo
+et ex hoc ipso ostenditur nobis non posse diabolo
+<pb n="0104B"/>
+deputari eam, quae meliores efficit Dei servos.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>Si quod iniquitas a Deo non est, sed a diabolo,
+persecutio autem ex iniquitate consistit (quid
+enim iniquius quam veri Dei antistites, omnis
+sectatores veritatis, nocentissimorum more tractari?),
+ideo videtur persecutio a diabolo evenire, a quo
+iniquitas agitur, ex qua constat persecutio: seire
+debemus, quatenus nec persecutio est sine iniquitate
+diaboli, nec probatio fidei sine persecutione, propter
+probationem fidei necessariam iniquitatem, non
+patrocinium praestare persecutioni, sed ministerium;
+praecedere enim Dei voluntatem circa fidei probationem,
+quae est ratio persecutionis, sequi autem
+<pb n="0104C"/>
+diaboli iniquitatem ad instrumentum persecutionis,
+quae ratio est probationis. Nam et alias, in quantum justitiae
+iniquitas aemula est, in tantum materia est ad testimonia
+ejus, cujus est aemula; ut sic justitia in iniquitate
+perficiatur, quomodo virtus in infirmitate perficitur <note>(II Cor., XII, 9)</note>.
+ <hi>Nam infirma mundi electa sunt a
+Deo, ut confundantur fortia; et stulta ejus, ut confundantur
+sapientia <note>(I Cor., I, 27)</note>
+          </hi>. Ita et iniquitas adhibetur
+ut justitia probetur, confundens iniquitatem. Igitur
+quod ministerium non est arbitrii, sed servitii
+(arbitrium enim Domini, persecutio, propter fidei
+probationem, ministerium autem iniquitas diaboli,
+propter persecutionis instructionem); ita eam per
+diabolum, si forte, non a diabolo evenire credimus.
+<pb n="0104D"/>
+Nihil Satanae in servos Dei vivi licebit, nisi permiserit
+<pb n="0105A"/>
+Dominus, ut aut ipsum destruat per fidem electorum
+in tentatione victricem: aut homines ejus
+fuisse traducat, qui defecerint ad illum. Habes exemplum
+Job, cui diabolus nullam potuit incutere tentationem,
+nisi a Deo accepisset potestatem, nec in substantiam
+quidem ejus, nisi Dominus, <hi>Ecce,</hi> dixisset, <hi>omnia quae sunt ei, in manu tua do, in ipsum autem ne
+extenderis manum 
+ (Job, I, 12)</hi>. Denique nec extendit,
+nisi posteaquam et hoc postulanti Dominus, <hi>Ecce,</hi> 
+dixisset, <hi>trado tibi illum, tantum animam ejus custodi (Job, II, 6)</hi>.
+Sic et in Apostolos facultatem
+tentationis postulavit, non habens eam nisi ex
+permissu. Siquidem Dominus in Evangelio ad Petrum: <hi>Ecce,</hi> 
+ inquit, <hi>postulavit Satanas uti cerneret
+vos velut frumentum: verum ego rogavi pro te, ne
+<pb n="0105B"/>
+deficeret fides tua <note>(Luc, XXII, 31)</note>
+          </hi>: id est, ne tantum
+diabolo permitteretur, ut fides periclitaretur. Quo
+ostenditur, utrumque apud Deum esse, et concussionem
+fidei, et protectionem, cum utrumque ab eo petitur,
+concussio a diabolo, protectio a Filio. Et utique
+cum Filius Dei protectionem fidei habet in sua potestate
+quam a Patre postulat, <hi>a quo omnem accipit potestatem
+in coelis et in terris <note>(Matth. XXVIII, 18)</note>
+          </hi>, quale
+est ut concussionem fidei diabolus in manu sua habeat?
+ Sed in legitima Oratione cum dicimus ad
+Patrem: <hi>Ne nos inducas in tentationem <note>(Matth. VI, 13)</note>
+          </hi> 
+(quae aut major tentatio quam persecutio?); ab eo illam
+profitemur accidere, a quo veniam ejus deprecamur:
+hoc est enim quod sequitur: <hi>Sed erue nos a maligno <note>(ibid.)</note>
+          </hi>;
+id est, ne nos induxeris in tentationem,
+<pb n="0105C"/>
+permittendo nos maligno. Tunc enim eruimur diaboli
+manibus, cum illi non tradimur in tentationem. Nec
+in porcorum gregem diaboli legio habuit potestatem,
+nisi eam de Deo impetrasset, tantum abest ut in oves
+Dei habeat. Possum dicere, porcorum quoque setas
+tunc numeratas apud Deum fuisse; nedum capillos
+sanctorum. Habere videtur diabolus propriam jam
+potestatem, si forte in eos qui ad Deum non pertinent,
+semel in <hi>stillam situtae <note>(Is. XL, 15)</note>
+          </hi>, et in <hi>pulverem
+areae</hi>, et <hi>in salivam</hi> nationibus deputatis a
+Deo, ac per hoc diabolo expositis in vacuam quodammodo
+possessionem. Caeterum, in domesticos
+Dei nihil illi licet ex propria potestate; quia quando
+liceat, id est, ex quibus caussis, exempla in Scripturis
+signata demonstrant. Aut enim ex caussa probationis
+<pb n="0105D"/>
+conceditur ei jus tentationis provocato vel provocanti,
+ut in superioribus: aut ex caussa reprobationis
+<pb n="0106A"/>
+traditur ei peccator quasi carnifici in poenam, ut
+Saul: <hi>Et abscessit,</hi> inquit, <hi>spiritus Domini a Saule, et
+concutiebat eum spiritus nequam a Domino, et suffocabat <note>(II Reg. XVI, 2)</note>
+          </hi>.
+Aut ex caussa cohibitionis,
+ut Apostolus refert <note>(II Cor. 17, 7)</note> datum sibi
+sudem angelum Satanae ut colaphizetur: nec hanc
+speciem permitti diabolo in sanctos humiliandos per
+carnis vexationem, nisi simul ut et virtus tolerantiae
+scilicet in infirmitate perfici possit; nam et ipse
+Apostolus Phigellum et Hermogenem tradidit Satanae, <hi>uti emendentur, ne blasphement 
+ <note>(II Tim. I, 15)</note>
+          </hi>. Vides
+jam et a servis Dei facilius diabolum accipere
+potestatem, tanto abest ut eam ex proprietate possideat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Cum ergo et haec exempla magis in persecutionibus
+<pb n="0106B"/>
+eveniant, siquidem magis tunc probamur vel reprobamur,
+et magis tunc humiliamur vel emendamur,
+ab eo permittatur vel imperetur necesse est catholice
+fieri haec, a quo et ex parte, scilicet ab illo
+qui dicit: <hi>Ego sum qui facio pacem, et condo mala <note>(Is. XLV, 7)</note>
+          </hi>,
+id est bellum. Hoc est enim contrarium
+paci. Nostrae autem paci quid est bellum, quam
+persecutio? Si persecutionis vel maxime exitus aut
+vitam afferunt aut mortem, aut plagam aut sanationem,
+habes auctorem ejusdem: <hi>Ego percutiam, et
+sanabo; ego vivificabo, et mortificabo <note>(Deut. XXXII, 39)</note>
+          </hi>. <hi>Uram,</hi> 
+ inquit, <hi>illos, sicut uritur argentum</hi>; <hi>et probabo,</hi> 
+inpuid, <hi>illos, sicut probatur aurum <note>(Zach. XIII,
+9)</note>
+          </hi>. Cum enim exurimur persecutionis ardore, tunc
+probamur de fidei tenore. Haec erunt <hi>ignea jacula</hi> 
+<pb n="0106C"/> <note>(Eph. III)</note> 
+ diaboli, per quae fidei ustio et conflatio
+administratur; ex Dei tamen voluntate. De isto quis
+dubitare possit ignoro, nisi plane frivola et frigida fides,
+deprehendens eos qui timide conveniunt in Ecclesiam.
+Dicitis enim, Quoniam incondite convenimus,
+ simul convenimus, et complures concurrimus
+in Ecclesiam, quaerimur a nationibus, et
+timemus ne turbentur nationes. Annon scitis
+quod Deus omnium sit Dominus? Et si velit Deus,
+tunc persecutionem patieris; si vero noluerit, silebunt
+nationes. Credas utique; si tamen in eum
+Deum credis, sine cujus voluntate nec passer unius
+assis cadit in terram <note>(Matth. X, 29)</note>. Nos autem, puto,
+multis passeribus antistamus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+
+<pb n="0106D"/>
+<p>Igitur si constat a quo persecutio eveniat, possumus
+<pb n="0107A"/>
+jam consultationem tuam inducere, et determinare
+ex hoc ipso praetractatu, fugiendum in persecutione
+non esse. Si enim persecutio a Deo evenit,
+nullo modo fugiendum erit quod a Deo evenit. Sicut
+duplex ratio defendit, quia neque debeat devitari,
+neque evadi possit quod a Deo evenit. Non debet
+devitari, quia bonum. Necesse est enim bonum esse
+omne quod Deo visum est. Et numquid ideo in Genesi
+sic positum est: <hi>Et vidit Deus quia bonum est <note>(Gen. I, pass.)</note>
+          </hi>;
+non quod ignoraret bonum esse,
+nisi vidisset; sed ut hoc sono portenderet bonum
+esse, quod Deo visum est? Multa quidem sunt, quae
+a Deo eveniant, et alicujus malo eveniant. Imo bonum
+est ideo, quia a Deo evenit, ut divinum et rationale.
+Quid enim divinum non rationale, non bonum?
+<pb n="0107B"/>
+Quid bonum non divinum? Si autem sensui
+cujusque videtur, non sensus hominis praejudicat
+statui, sed status sensui. Status enim uniuscujusque
+ certum quid est, et dat sensui legem, ita
+sentiendi statum, sicuti est. Si autem statu quidem
+bonum quod a Deo venit (nihil enim a Deo non bonum,
+quia divinum, quia rationale), sensui vero malum videtur,
+erit status in tuto, sensus in vitio. Statu
+optima res pudicitia, et veritas, et justitia, quae a
+multorum sensu displicent. Nunquid ideo status sensui
+addicitur? Ita et persecutio statu bona est, quia
+divina et rationalis dispositio; sensui eorum vero
+quorum malo venit, displicet. Vides etiam illud malum
+rationem apud Deum habere, cum quis in
+persecutione evertitur de salute, sicut et illud bonum
+<pb n="0107C"/>
+ratione contingere, cum quis ex persecutione
+proficit in salute? Nisi si irrationaliter quis aut perit
+apud Dominum, aut salvus est: is non poterit
+persecutionem malum dicere, quae etiam in mali
+parte bonum est, dum ratione administratur. Ita si
+bonum persecutio quoquo modo, quia de statu constat,
+merito definimus, quod bonum est, vitari non
+oportere: quia delictum sit, quod bonum est recusare;
+eo amplius, quod Deo visum est: jam vero nec
+posse vitari, quia a Deo evenit, cujus voluntas non
+poterit evadi. Igitur qui putant fugiendum, aut
+malum exprobrant Deo, si persecutionem uti malum
+fugiant; bonum enim nemo devitat; aut fortiores se
+Deo existimant, qui putant se evadere posse, si Deus
+tale aliquid voluerit evenire.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+
+<pb n="0108A"/>
+<p>Sed, Quod meum est, inquit, fugio, ne peream si
+negavero; illius est, si voluerit, etiam fugientem me
+reducere in medium. Hoc mihi prius responde: Certus
+es te negaturum si non fugeris, an incertus? Si
+enim certus, jam negasti; quia praesumendo te
+negaturum, id despopondisti, de quo praesumpsisti;
+et vane jam fugis ne neges, qui si negaturus es, jam
+negasti. Si vero incertus es, cur non ex aequalitate
+incerti metus inter utrumque eventum, etiam confiteri
+te posse praesumis, et salvum magis fieri quominus
+fugias, sicut negaturum te praesumis, ut
+fugias? Jam nunc aut in nobis est utrumque, aut totum
+in Deo. Si in nobis est confiteri aut negare, cur
+non id praesumimus quod est melius, id est, confessuros
+<pb n="0108B"/>
+nos? nisi, si vis confiteri, pati non vis. Nolle
+autem confiteri, negare est. Si vero in Deo totum
+est, cur non totum relinquimus arbitrio ejus? agnoscentes
+virtutem et potestatem, quod possit nos sicut
+fugientes reducere in medium; ita et non fugientes,
+imo et in medio populo conversantes obumbrare.
+Quale est, ut ad fugiendum Deo honorem
+reddas, qui possit te etiam fugientem producere in
+medium, ad contestandum autem inhonores illum,
+desperans potentiam protectionis ab illo?
+Quare non magis, ex hac parte constantiae et fiduciae
+in Deum, dicis: Ego, quod meum est, facio,
+non discedo: Deus si voluerit, ipse me proteget: hoc
+potius nostrum est, stare sub Dei arbitrio, quam fugere
+sub nostro? Rutilius sanctissimus martyr,
+<pb n="0108C"/>
+cum totiens fugisset persecutionem de loco in locum,
+etiam periculum (ut putabat) nummis redemisset, post
+totam securitatem quam sibi prospexerat, ex inopinato
+apprehensus, et praesidi oblatus, tormentis dissipatus,
+credo pro fugae castigatione, dehinc ignibus
+datus, passionem, quam vitarat, misericordiae Dei
+retulit. Quid aliud voluit Dominus nobis demonstrare
+hoc documento, quam fugiendum non esse,
+quia nihil fuga prosit si Deus nolit?</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>Imo, inquit, quia praeceptum adimplevit, fugiens
+de civitate in civitatem. Sic enim voluit quidam, sed
+et ipse fugitivus, argumentari, et qui proinde nolunt
+intelligere sensum Domini illius pronuntiationis, ut
+eam ad velamentum timiditatis suae utantur, cum
+<pb n="0109A"/>
+et personas suas habuerit et tempora et caussas: <hi>Cum
+coeperint,</hi> inquit, <hi>persequi vos, fugite de civitate in civitatem <note>(Matth. X, 23)</note>
+          </hi>.
+Hoc in personas proprie
+Apostolorum, et in tempora, et in caussas eorum pertinere
+defendimus, sicut (praecedentes et) subsequentes
+sensus probabunt, qui nonnisi in Apostolos
+competunt: <hi>In viam nationum ne ieritis, et in civitatem
+Samaritanorum ne introieritis; sed ite potius ad
+oves perditas domus Israelis <note>(Matth. X, 5, 6)</note>
+          </hi>. Nobis
+autem et via nationum patet, in qua et inventi sumus,
+et usque in finem incedimus; et nulla civitas excepta est,
+qua per totum orbem praedicamus; sed nec cura nobis
+Israelis injuncta est extra ordinem, nisi qua et omnibus
+gentibus praedicare debemus. Etiamsi apprehendamur,
+non in concilia eorum perducemur, nec in
+<pb n="0109B"/>
+synagogis illorum flagellabimur, sed Romanis utique
+potestatibus et tribunalibus objiciemur. Sic igitur
+et fugae praeceptum Apostolorum conditio desiderabat,
+quoniam primo praedicandum erat <hi>ad oves
+perditas domus Israelis.</hi> Ut ergo perficeretur praedicatio,
+apud quos priores perfici oportebat, uti panem
+ante filii quam canes sumerent, ideo illis fugere
+tunc ad tempus praecipit: non propter eludendum
+periculum proprio nomine persecutionis (atquin
+persecutiones eos passuros praedicabat, et tolerandas
+docebat); sed propter profectum annuntiationis,
+ne, statim oppressis, Evangelii quoque disseminatio
+perimeretur. Neque enim quasi tacite in aliquam
+civitatem transfugiendum erat, sed quasi ubique annuntiaturis,
+et ex hoc ubique persecutiones subituris,
+<pb n="0109C"/>
+donec replerent doctrina sua. Denique <note>(Matth.
+X, 33)</note>: <hi>Non consummabitis,</hi> inquit, <hi>civitates Israelis.</hi> 
+Adeo intra terminos Judaeae praeceptum fugae continebatur.
+Nobis autem nulla Judaeae praefinitio competit
+praedicationis, in omnem jam carnem effuso
+Spiritu Sancto. Itaque Paulus, et Apostoli ipsi,
+memores praecepti dominici, contestantur illud apud
+Israel, quem jam doctrina sua impleverant: <hi>Vobis
+oportuit imprimis sermonem Dei tradi. Sed quoniam
+repulistis eum, nec dignos vos aeterna vita existimastis,
+ecce convertimus nos ad nationes <note>(Act. XIII, 46)</note>
+          </hi>.
+Atque exinde conversi et ipsi, sicut antecessores instituerant,
+in viam nationum abierunt, et in civitates
+Samaritanorum introierunt; <hi>ut in totam scilicet
+terram exiret sonus eorum, et in terminos orbis voces
+<pb n="0109D"/>
+eorum <note>(Ps. XVIII, 1)</note>
+          </hi>. Si ergo cessavit exceptio viae
+nationum, et introitus in civitates Samaritanorum,
+cur non cessaverit et fugae praeceptum pariter emissum?
+Denique ex quo saturato Israele Apostoli in
+nationes transierunt, nec fugerunt de civitate in civitatem,
+nec pati dubitaverunt. Atquin et Paulus,
+qui se per murum concesserat expediri de persecutione,
+qua ad hoc tempus erat praecepti; idem jam
+in clausula officii, et in consummatione praecepti,
+<pb n="0110A"/>
+discipulis magnopere deprecantibus, ne se Hierosolyma
+committeret, passurus illic quae Agabus prophetaverat,
+sollicitudini eorum non subscripsit; sed
+e contrario: <hi>Quid,</hi> inquit, <hi>facitis lacrymantes et conturbantes
+cor meum? Ego enim non modo vincula
+pati optaverim, sed etiam mori Hierosolymis pro nomine
+Domini mei Jesu Christi.</hi> Atque ita omnes aierunt: <hi>Fiat voluntas Domini 
+ <note>(Act. XXI, 17)</note>
+          </hi>. Quae
+erat voluntas Domini? utique non fugiendi jam persecutionem.
+Caeterum, poterant et priorem Domini
+voluntatem proposuisse qua fugere mandaverat, qui
+illum persecutionem vitasse maluerant. Igitur, cum
+etiam sub Apostolis ipsis temporale fuit fugae praeceptum,
+sicut et reliquorum praescriptorum, non potest
+apud nos perseverare quod apud doctores nostros
+<pb n="0110B"/>
+concessavit, etsi non proprie ad illos fuisset emissum:
+aut si perseverare illud Dominus voluit, deliquerunt
+ Apostoli qui non usque in finem fugere
+curaverunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Videamus nunc an et caetera Domini edicta congruant
+perpetuo fugae praecepto. Primo quidem, si a
+Deo persecutio est, quale est ut idem fugiendam eam
+mandet, qui et infert? quam si evadi vellet, melius
+non immitteret, ne voluntate praevaricari videretur.
+Aut pati enim nos voluit persecutionem, aut fugere.
+Si fugere, quomodo pati? si pati, quomodo fugere?
+Jam vero quanta inaequalitas sententiarum jubentis
+fugere, et invitantis ad passionem, contrariam fugae? <hi>Qui confessus fuerit in me, et ego confitebor in illo coram
+<pb n="0110C"/>
+Patre meo 
+ <note>(Matth. X, 31)</note>
+          </hi>. Quomodo confitebitur
+fugiens? quomodo fugiet confitens? <hi>Qui me confusus
+fuerit, et ego confundar eum coram Patre. <note>(Marc.
+VIII, 38; Luc. XIX, 26)</note>
+          </hi>. Si devito passionem, confundo
+confessionem. <hi>Felices qui persecutionem passi fuerint
+caussa nominis mei <note>(Matth. V, 11)</note>
+          </hi>. Infelices ergo qui
+fugiendo ex praecepto non erunt passi. <hi>Qui sustinuerit
+in finem, iste salvabitur <note>(Matth. X, 22)</note>
+          </hi>. Quid ergo,
+me jubens fugere, vis in finem sustinere? Tanta diversitas
+sententiarum si non congruit divinae gravitati,
+apparet ex his quoque praeceptum fugae suam tunc
+habuisse rationem quam ostendimus. Sed infirmitatem,
+inquit, quorumdam prospiciens Dominus, pro
+sua humanitate nihilominus et portum fugae demonstravit:
+non enim idoneus erat etiam sine fuga tam
+<pb n="0110D"/>
+turpi et indigno, et servili praesidio salvos facere in
+persecutione, quos sciret infirmos. Atquin non fovet,
+sed recusat semper infirmos; primum docens non fugiendos
+esse persecutores, sed potius non timendos. <hi>Nolite timere eos qui corpus occidere possunt, animae
+autem nihil valent facere. Sed timete eum qui et corpus
+et animam perdere potest in gehennam 
+ <note>(Matth. X, 28)</note>
+          </hi>.
+Atque exinde quae timidis praefinit? <hi>Qui pluris fecerit
+animam suam quam me, non est me dignus;</hi> et: <hi>Qui
+<pb n="0111A"/>
+non tollit crucem suam et sequitur me, non potest esse
+meus discipulus <note>(Luc. XIV, 26)</note>
+          </hi>. Postremo, in Apocalypsi
+non fugam timidis offert, sed inter caeteros reprobos
+particulam in stagno sulphuris et ignis, quod
+est mors secunda <note>(Cap. XXI, 8)</note>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p> Refugit et ipse vim interdum, sed eadem ratione
+qua Apostolis fugere praeceperat; donec scilicet doctrinam
+suam impleret; qua consummata, non dico
+stetit, sed nec auxilium a Patre angelorum exercituum
+desideravit, increpito etiam Petri gladio, professus
+quidem et ipse est animam anxiam usque ad
+mortem et carnem infirmam; ut tibi ostenderet, primo,
+in se utramque substantiam humanam fuisse, ex
+proprietate anxietatis animae, et imbecillitatis carnis;
+<pb n="0111B"/>
+ne aliam (ut quidam nunc induxerunt) aut carnem
+aut animam Christi interpretareris; dehinc, ut demonstratis
+conditionibus earum, scires illas nihil valere
+per semetipsas sine spiritu. Et ideo praeponit, <hi>Spiritus promptus 
+ <note>(Matth. XXVI, 41)</note>
+          </hi>, ut utramque
+conditionem substantiae utriusque respiciens, intelligas
+in te esse etiam fortitudinem spiritus, quomodo
+et infirmitatem carnis; ac jam hinc scias quid unde
+facias, et quid cui subjicias; infirmum scilicet forti:
+ne, ut nunc facis, de carnis quidem infirmitate causeris,
+de spiritus autem firmitate dissimules. Postulavit
+et ipse a Patre: <hi>Si fieri posset, transiret ab illo
+calix passionis.</hi> Postula et tu, sed stans ut ille, sed
+postulans tantum, sed subjungens et reliqua: <hi>Verum
+non quod ego volo, sed quod tu <note>(Matth. XXVI, 29)</note>
+          </hi>.
+<pb n="0111C"/>
+Fugiens autem quomodo hoc postulabis, ipse tibi praestans
+calicis translationem, nec quod Pater vult faciens,
+sed quod tu?</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Omnia Apostoli secundum Deum utique docuerunt,
+omnia evangelizare voluerunt. Ubi illos ostendis
+praeceptum fugiendi de civitate in civitatem restaurasse?
+quia nec potuissent tale quid constituere tam
+contrarium exemplis suis, ut fugam mandarent; qui
+cum maxime de vinculis vel insulis, quibus ob confessionem,
+non ob fugam nominis, continebantur, ad
+Ecclesias scribebant. Infirmos sustinere jubet Paulus;
+utique enim non fugientes (quomodo enim sustinebantur
+absentes?). An patientia dicit sustinendos,
+sicubi per infirmitatem fidei suae offenderint? Sic et
+<pb n="0111D"/>
+pusillanimes consolari, non tamen in fugam mitti.
+Sed cum admonet: <hi>Ne locum malo demus <note>(Ephes. IV,
+27)</note>
+          </hi>, non fugae suggerit consilium, sed iracundiae docet
+temperamentum. <hi>Et si redimendum tempus</hi> dicit <note>(Ephes. V, 16)</note>,
+ <hi>quia dies nequam sunt;</hi> non per fugam,
+sed per sapientiam conversationis, lucrari
+nos vult commeatum. Caeterum, qui lucere nos jubet
+<pb n="0112A"/>
+velut filios lucis, non jubet fuga abscondi ut filios tenebrarum.
+Stare immobiles praecipit, utique nec fuga
+mobiles, et accinctos, in fugam an in occursum
+Evangelii? Arma quoque demonstrat, quae fugituris
+non essent necessaria, inter quae et clypeum, <hi>quo
+possitis tela diaboli extinguere <note>(Eph. VI, 16)</note>
+          </hi>, resistentes
+sine dubio, et excipientes omnem vim illius.
+Proinde et Joannes pro fratribus quoque animas
+ponendas docet <note>(I Joan. III, 16)</note>, nedum pro Domino.
+Hoc a fugientibus non potest adimpleri. Denique
+memor Apocalypsis suae, in qua timidorum exitum
+audierat, de sensu admonet et ipse timorem rejiciendum. <hi>Timor,</hi> 
+ inquit, <hi>non est in dilectione. Sedenim
+perfecta dilectio foras mittit timorem;</hi> quia timor suppliciamentum
+habet, utique ignem stagni. Qui autem
+<pb n="0112B"/>
+timet, non est perfectus, in dilectione Dei scilicet.
+Porro, quis fugiet persecutionem, nisi qui timebit?
+Quis timebit, nisi qui non amavit? Spiritum vero si
+consulas, quid magis sermone illo Spiritus probat?
+Namque omnes pene ad martyrium exhortatur, non
+ad fugam, ut et illius commemoremur: Publicaris,
+inquit, bonum tibi est. Qui enim non publicatur in
+hominibus, publicatur in Domino. Ne confundaris,
+justitia te producit in medium. Quid confunderis, laudem
+serens? Potestas fit, cum conspiceris ab hominibus.
+Sic et alibi: Nolite in lectulis, nec in aborsibus
+et febribus mollibus optare exire, sed in martyriis;
+ut glorificetur qui est passus pro vobis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Sed omissis quidam divinis exhortationibus, illum
+<pb n="0112C"/>
+magis Graecum versiculum saecularis sententiae sibi
+adhibent: <hi>Qui fugiebat, rursus praeliabitur</hi>; ut et
+rursus forsitan fugiat. Et quando vincet, qui, cum fugerit,
+victus est? Bonum militem Christo imperatori suo
+praestat, qui tam plene ab Apostolo armatus, tuba
+persecutionis audita, diem deserit persecutionis? Respondebo
+et ego de saeculo aliquid:
+<l>Usque adeone mori miserum est?</l>  <note>(Virg. Aen. XII, 646.)</note> 
+Moriatur quoquo modo, aut victus, aut victor. Nam
+etsi negando ceciderit, cum tormentis tamen praeliatus.
+Malo miserandum quam erubescendum. Pulchrior
+est miles in praelio amissus, quam in fuga salvus.
+Times hominem, christiane, quem timeri oportet
+ab angelis, siquidem angelos judicaturus es;
+quem timeri oportet a daemoniis, siquidem et in daemonas
+<pb n="0112D"/>
+accepisti potestatem; quem timeri oportet ab
+universo mundo, siquidem et in te mundus judicatur.
+Christum indutus es, siquidem in Christum tinctus
+es. Qui fugis diabolum, depreciasti Christum, qui in
+te est. Fugitivum cum diabolo te reddidisti. Sed
+Dominum fugiens, exprobras omnibus fugitivis sui
+vanitatem consilii. Fugerat et quidam animosus prophetes
+<pb n="0113A"/>
+Dominum, trajecerat ab Joppe Tarsum, quasi
+a Deo transfretaret; sed illum non dico in mari et in
+terra, verum in utero etiam bestiae invenio, in quo
+nec mori per triduum potuit, nec vel sic Deum evadere.
+Quanto melius Dei servus? qui sive inimicus Dei
+imminet, non fugit eum; sed potius contemnit, confidens
+scilicet de tutela Domini; sive Deum reformidat,
+quanto magis sub oculis ejus astitit, dicens: Dominus
+est, potens est: omnia illius sunt: ubi ubi
+fuero, in manu ejus sum; faciat quod vult, non discedo;
+et si perire me volet, ipse me perdat, dum me
+ego servo illi. Malo invidiam ei facere per voluntatem
+ipsius pereundo, quam bilem, per meam evadendo.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Hoc sentire et facere omnem servum Dei oportet,
+etiam minoris loci, ut majoris fieri possit,
+<pb n="0113B"/>
+si quem gradum ex persecutionis tolerantia ascenderit.
+ Sed cum ipsi auctores, id est, ipsi
+diaconi, presbyteri et episcopi fugiunt, quomodo
+laicus intelligere poterit, qua ratione dictum <note>(Matth. X, 23)</note>,
+ <hi>Fugite de civitate in civitatem?</hi> Itaque
+ cum duces fugiunt, quis de gregario numero
+sustinebit ad gradum in acie figendum suadentes?
+Certe quidem bonus pastor animam pro pecoribus ponit;
+ut Moyses, non Domino adhuc Christo revelato,
+etiam in se figurato, ait <note>(Exod. XXXII, 32)</note>: <hi>Si perdis
+hunc populum,</hi> inquit, <hi>et me pariter cum eo disperde.</hi> 
+Caeterum, Christo confirmante figuras suas, <hi>malus pastor est,</hi> 
+ qui <hi>viso lupo fugit, et pecora diripienda
+derelinquit <note>(Joan. X, 12)</note>
+          </hi>: projicietur de villa
+pastor hujusmodi: detinebuntur illi missionis
+<pb n="0113C"/>
+suae mercedes in compensationem; imo et de
+priore peculio ejus exigetur detrimenti dominici restitutio.
+Etenim <hi>qui habet, dabitur ei; ab eo autem qui
+non habet, etiam quod videtur habere auferetur <note>(Matth. XIII, 12)</note>
+          </hi>.
+Sic Zacharias <hi>(XIII, 7)</hi> comminatur: <hi>Exsurge romphaea in pastores, et evellite oves, superducam
+manum meam in pastores.</hi> 
+ In quos et Ezechiel <note>(Ezech. XXXIV, 2)</note> 
+ et Hieremias iisdem minis
+perorant, quod <hi>non tantum de pecoribus improbe vescantur,
+pascentes potius semetipsos, verum quod</hi> 
+<pb n="0114A"/> <hi>dispersum gregem faciant in praedam esse omnibus
+bestiis agri, dum non est pastor illis.</hi> 
+ Quod nunquam
+magis fit, quam cum in persecutione destituitur
+Ecclesia a Clero. Si et Spiritum quis agnoverit, audiet
+et fugitivos denotantem. Porro, si eos qui
+gregi praesunt, fugere, cum lupi irruunt, nec decet,
+imo nec licet (qui enim talem pastorem malum pronuntiavit,
+utique damnavit, omne autem quod damnatur,
+illicitum factum est sine dubio), ideo praepositos
+Ecclesiae in persecutione fugere non oportebit. Caeterum,
+si grex fugere deberet, non deberet praepositus
+gregis stare, sine caussa staturus ad tutelam gregis,
+quam grex non desideraret, ex licentia fugae
+scilicet.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>
+          <pb n="0114B"/>Quod pertineat, frater, ad tuum problema, habes
+sententiae nostrae responsionem et exhortationem.
+Porro, qui quaerit, an persecutio fugienda sit, sequentem
+quoque quaestionem jam prospiciat necesse est,
+an, si fugienda non est, redimenda certe sit. Ultro
+igitur et de hoc tibi suggeram, definiens persecutionem,
+quam constat non esse fugiendam, proinde nec
+redimendam. Pretium interest. Caeterum, sicut fuga
+redemptio gratuita est, ita redemptio nummaria fuga
+est. Certe et hujus timiditatis consilium est. Quod
+times, redimis; ergo fugis. Pedibus stetisti, cucurristi
+nummis. Hoc ipsum quod stetisti ex redemptione,
+fugisti. Ut autem redimas hominem tuum
+nummis, quem sanguine suo redemit Christus, quam
+indignum Deo et dispositione ejus, qui <hi>Filio suo non
+<pb n="0114C"/>
+pepercit pro te,</hi> ut fieret maledictum pro nobis; quia <hi>maledictus qui pependerit in ligno;</hi> 
+ qui <hi>tanquam ovis
+ad victimam ductus est, et tanquam agnus ante tondentem,
+sic non aperuit os; sed posuit dorsum suum in flagella,
+maxillas autem in palmas, et faciem non avertit
+a sputaminibus, et inter iniquos deputatus est <note>(Is. LIII)</note>
+          </hi>, <hi>et traditus est in mortem, mortem autem crucis:</hi> 
+ totum
+hoc, ut nos a peccatis lucraretur! Sol cessit diem
+emptionis nostrae. Apud inferos emancipatio nostra
+est, et stipulatio nostra in coelis. <hi>Sublevatae sunt
+<pb n="0115A"/>
+portae sempiternae, ut introiret rex gloriae, Dominus virtutum <note>(Ps. XXIII, 9)</note>
+          </hi>,
+hominem de terris, imo ab
+inferis, mercatus in coelos. Quis est nunc qui adversus
+illum reluctatur, imo dopretiat, et mercedem
+ejus tam magno comparatam, pretiosissimo scilicet
+sanguine, commaculat? Jam ergo melius fugere
+quam fieri viliorem, si non tanto sibi constabit homo,
+quanti constitit Domino. Et Dominus quidem illum
+redemit, ab angelis munditenentibus potestatibus, a
+spiritalibus nequitiae, a tenebris hujus aevi, a judicio
+aeterno, a morte perpetua. Tu autem pro eo pacisceris
+cum delatore, vel milite, vel furunculo aliquo
+praeside, sub tunica et sinu (quod aiunt) ut furtivo,
+quem coram toto mundo Christus emit, imo et manu
+misit! Hunc ergo liberum pretio aestimabis, et pretio
+<pb n="0115B"/>
+possidebis, nisi eodem, quanto (ut diximus) Domino
+constitit, sanguine suo scilicet? Ut quid ergo
+de homine Christum redimis in homine, in quo Christus
+est? Non aliter et Simon facere tentavit, cum pecuniam
+Apostolis obtulit pro spiritu Christi. Audiet ergo
+et iste, qui se redimens, Christi spiritum redemit: <hi>Pecunia
+tua tecum sit in interitum, quoniam gratiam Dei pretio
+consequendam putasti <note>(Act. ap. VIII, 20)</note>
+          </hi>. Quis talem
+abnegatorem spernat? Quid enim dicit ille concussor?
+Da mihi pecuniam. Certe ne eum tradat; siquidem
+non aliud venditat, quam quod praestaturus est
+praemio tuo. Cum das, utique ne tradaris voluisti.
+Non traditus autem, traduci habebas. Ergo dum
+nolendo tradi non vis traduci, nolendo negasti, quod
+te esse traduci noluisti. Imo, inquis, dum nolo traduci
+<pb n="0115C"/>
+quod sum, sum confessus id esse quod nolo traduci,
+id est, christianum. Potes itaque te martyrem vindicare?
+constanter ostendisse Christum? Redimens,
+non ostendisti. Apud unum si forte confessus es,
+ergo et apud plures nolendo confiteri, negasti. Ipsa
+salus judicabit hominem excidisse, dum evadit.
+Excidit ergo qui maluit evasisse. Negatio est etiam
+martyrii recusatio. Christianus pecunia salvus est; et
+in hoc nummos habet ne patiatur, dum adversus
+Deum erit dives. Atenim Christus sanguine fuit dives
+pro illo: <hi>Felices</hi> itaque <hi>pauperes, quia illorum est,</hi> inquit
+<pb n="0116A"/> <note>(Matth. V)</note>,
+ <hi>regnum coelorum,</hi> qui animam solam
+in confiscato habent. Si non possumus Deo
+servire et mammonae, possumus a Deo redimi
+et a mammona? Quis enim magis serviet mammonae,
+quam quem mammonas redemit? Postremo, quo
+exemplo uteris in redemptionem traditionis? Apostoli
+ persecutionibus agitati, quando se
+pecunia tractantes liberaverunt? quae illis utique
+non deerat, ex praediorum pretiis ad pedes
+eorum depositis; certe multis locupletibus credentibus
+viris ac foeminis, qui his etiam refrigeria
+subministrabant. Quando Onesiphorus, aut Aquila, aut
+Stephanus, hoc modo eis in persecutione succurrerunt?
+Paulus quidem, cum Felix praeses pecunias
+accepturum se pro eo a discipulis sperasset, de quo
+<pb n="0116B"/>
+et ipse in secreto tractavit cum ipso, neque ipse pro
+se, neque discipuli pro eo numerarunt. Illi utique
+discipuli, qui flentes quod Hierosolymam tendere
+perseveraret, et persecutiones praedicatas illic
+non praecaveret, postremo inquiunt: <hi>Fiat voluntas
+Dei <note>(Act. XXI, 14)</note>
+          </hi>. Quae ista voluntas? Utique ut
+pateretur pro nomine Domini, non ut redimeretur.
+Oportet enim, <hi>quomodo Christus animam suam posuit
+pro nobis <note>(I Joann. III, 16)</note>
+          </hi>, <hi>ita fieri pro eo et a nobis;</hi> 
+nec tantum pro ipso, imo etiam <hi>pro fratribus</hi> propter
+ipsum. Quod Joannes docens, non et fratribus numerandum,
+sed moriendum potius pronuntiavit.
+Nihil interest, si quem christianum redimere non
+debeas, aut emere. Et adeo voluntas Dei sic est.
+Aspice regnorum et imperiorum utique a Deo
+<pb n="0116C"/>
+dispositum statum, <hi>in cujus manu cor regis <note>(Prov., XXI, 1)</note>
+          </hi>:
+tanta quotidie aerario augendo prospiciuntur
+remedia censuum, vectigalium, collationum,
+stipendiorum: nec unquam usque adhuc
+ex Christianis tale aliquid prospectum est, sub aliquam
+redemptionem capitis et sectae redigendis,
+cum tantae multitudinis nemini ignotae fructus ingens
+meti posset. Sanguine empti, sanguine munerati,
+nullum nummum pro capite debemus; quia caput
+nostrum Christus est. Non decet Christum pecunia
+constare. Quomodo et martyria fieri possent in gloriam
+<pb n="0117A"/>
+Domini, si tributo licentiam sectae compensaremus?
+Itaque qui eam praemio paciscitur, dispositioni
+divinae adversatur. Cum igitur nihil nobis Caesar
+indixerit in hunc modum stipendiariae sectae, sed nec
+indici unquam tale quid possit, Antichristo jam
+instante, et in sanguinem, non in pecunias hiante
+Christianorum, quomodo mihi proponere potest
+Scripturam esse: <hi>Reddite quae sunt Caesaris Caesari?</hi> 
+Miles me, vel delator, vel inimicus concutit, nihil
+Caesari exigens, imo contra faciens, cum christianum,
+legibus humanis reum, mercede dimittit. Alius est
+denarius, quem Caesari debeo, qui ad eum pertinet,
+de quo tunc agebatur, tributarius; a tributariis scilicet,
+non a liberis debitus. Aut quomodo reddam quae
+sunt Dei Deo? Utique proinde imaginem et monetam
+<pb n="0117B"/>
+ipsius, inscriptam nomine ejus, id est, hominem
+christianum. Quid autem Deo debeo, sicut denarium
+Caesari, nisi sanguinem, quem pro me Filius fudit
+ipsius? Quod si Deo quidem hominem, et sanguinem
+meum debeo; nunc vero in eo sum tempore, ut
+quod Deo debeo expostuler; utique fraudem Deo
+facio, id agens, ne quod debeo solvam. Bene observavi
+praeceptum, Caesari reddens quae sunt Caesaris,
+Deo vero quae sunt Dei abnegans?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p>Sed et <hi>omni petenti</hi> me <hi>dabo <note>(Matth., V, 42)</note>
+          </hi>. In
+caussa eleemosynae, non in concussurae, <hi>Petenti,</hi> 
+inquit. Porro, qui concutit, non petit. Qui comminatur,
+si non acceperit, non postulat, sed extorquet.
+Non eleemosynam exspectat, qui non miserandus,
+<pb n="0117C"/>
+sed timendus venit. Dabo igitur misericordiae,
+non timiditatis meae nomine; ubi qui accepit, Deum
+honorat, et benedictionem mihi reddit; non ubi
+amplius se benefactum praestitisse credit, et praedam
+suam aspiciens dicit:  « De reatu est. »  <hi>Pascam
+<pb n="0118A"/>
+et inimicum</hi>. Sed inimicitiae alios habent titulos.
+Non tamen dixit traditorem, aut persecutorem, aut
+concussorem. Nam huic quanto magis carbones acervabo
+super caput, si non me redemero? Proinde, inquit, <hi>qui tibi tunicam sustulerit, vel etiam pallium concede,</hi> 
+ad eum pertinet, qui rem, non qui fidem meam eripere
+quaesierit. Concedam et pallium non minanti
+traditionem. Si minatus fuerit, etiam tunicam reposcam,
+Omnium jam nunc dominicarum pronuntiationum
+ sui sunt et caussae et regulae termini, non
+in infinitum, nec ad omnia spectant. Atque adeo qui
+omni petenti dari jubet, ipse signum petentibus non
+dat. Alioquin si omnibus passim petentibus dandum
+putas, tu mihi videris, non dico vinum febricitanti,
+sed etiam venenum, aut gladium mortem desideranti
+<pb n="0118B"/>
+daturus. <hi>Facite autem vobis amicos de mammona <note>(Luc. XVI)</note>
+          </hi>,
+quomodo intelligendum sit, parabola praemissa
+doceat, ad populum judaicum dicta, qui commissam
+sibi rationem Domini cum male administrasset,
+deberet de mammonae hominibus, quod nos
+eramus, amicos sibi potius prospicere, quam inimicos;
+et revelare nos a debitis peccatorum, quibus
+Deo detinebamur, si nobis de dominica ratione conferrent;
+ut cum coepisset ab hujus deficere gratia, ad
+nostram fidem refugientes, reciperentur in tabernacula
+aeterna. Quamvis nunc puta aliam interpretationem
+parabolae et sententiae istius, dum scias verisimile
+non esse ut concussores nostri in amicitiam
+redacti per mammonam, recipiant tunc nos in tabernacula
+aeterna. Sed quid non timiditas persuadebit?
+<pb n="0118C"/>
+quasi et fugere Scriptura permittat, et redimere praecipiat.
+Parum denique est, si unus aut alius ita eruitur.
+ Massaliter totae ecclesiae tributum sibi irrogaverunt.
+Nescio dolendum an erubescendum sit,
+cum in matricibus beneficiariorum et curiosorum,
+<pb n="0119A"/>
+ inter tabernarios, et lanios, et fures balnearum,
+et aleones, et lenones, Christiani quoque
+vectigales continentur. Hanc episcopatui formam
+Apostoli providentius condiderunt ut regno suo
+securi frui possent sub obtentu procurandi. Scilicet
+enim talem pacem Christus ad Patrem regrediens,
+mandavit a militibus per saturnalitia redimendam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+<p> Sed quomodo colligemus, inquis, quomodo
+dominica solemnia celebrabimus? Utique quomodo
+et Apostoli; fide, non pecunia tuti; quae fides si
+montem transferre potest, multo magis militem.
+Esto sapientia, non praemio cautus. Neque
+enim statim et a populo eris tutus, si officia militaria
+redemeris. Una ergo tibi et fide, et sapientia,
+<pb n="0119B"/>
+ad tutelam opus est: quibus non adhibitis, et redemptionem
+tuam potes perdere; adhibitis, haud redemptionem
+desiderare. Postremo si colligere interdiu non
+potes, habes noctem, luce Christi luminosa
+<pb n="0120A"/>
+adversus eam. Non potes discurrere per singulos: sit
+tibi et in tribus Ecclesia. Melius est turbas tuas
+aliquando non videas, quam addicas. Serva Christo
+virginem sponsam. Nemo quaestum de ea faciat. Haec
+tibi, frater, dura forsitan et intolerabilia videntur.
+Sed recita Deum dixisse: <hi>Qui capit, capiat <note>(Matth.
+XXIX, 12)</note>
+          </hi>; id est, qui non capit, discedat. Non potest
+qui pati timet, ejus esse qui passus est. At qui pati
+non timet, iste perfectus erit in dilectione, utique
+Dei. <hi>Perfecta enim dilectio foras mittit timorem <note>(Joan.
+IV, 18)</note>
+          </hi>. <hi>Et ideo multi vocati, pauci electi <note>(Matth. XXII,
+14)</note>
+          </hi>. <hi>Non quaeritur qui latam viam sequi paratus sit,
+sed qui angustam <note>(Matth. VII, 13; Luc., XIII, 24)</note>
+          </hi>. Et
+ideo Paracletus necessarius deductor omnium veritatum,
+exhortator omnium tolerantiarum: quem qui
+<pb n="0120B"/>
+receperunt, neque fugere persecutionem, neque redimere
+noverunt, habentes ipsum qui pro nobis erit,
+sicut locuturus in interrogatione, ita juvaturus in passione.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5987" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Fabricius Montanus (Schmid) / Chur an Heinrich Bullinger / Zürich, 27. Dezember 1563</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/5987</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="33175" type="transcription">S. 6359/203</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 338,1659 + 1659b</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Ego vero ... valfe miror, quae causa sit, quod Clavennae ignoretur concilio finem impositum</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graubünden, Korr. II, S. 377 R, Nr. 567</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8009" cert="high"/>
+					<placeName ref="l98" cert="high"/>
+					<date when="1563-12-27" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="990">Latein</language>
+				<language ident="de" usage="10">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t8"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5987!Autograph!00%20E_II_338__fol__1659_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">5987/Autograph/00 E_II_338__fol__1659_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5987!Autograph!01%20E_II_338__fol__1659_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">5987/Autograph/01 E_II_338__fol__1659_v_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5987!Autograph!02%20E_II_338__fol__1659_b_r_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">5987/Autograph/02 E_II_338__fol__1659_b_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5987!Autograph!03%20E_II_338__fol__1659_b_v_.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">5987/Autograph/03 E_II_338__fol__1659_b_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Ego vero (mi venerande pater) valde miror, quae causa sit, quod <placeName ref="l93">Clavennae</placeName> ignoretur concilio finem impositum.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Mitto literas d. <persName ref="p2054">Martinengi</persName>, ut ipse legas; non est, quod remittas.</s>
+					<s n="4" xml:lang="la">Aut illi in errore aliquo magno et insigni versantur, aut nos decipimur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Sed concilium omnino puto dissolutum.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Quod illud ignoret <persName ref="p2054">Martinengus</persName>, haec nimirum unica et potissima causa erit, quod itinera sunt minus frequentia propter ea quod Rhetia propter pestem, ut ex <persName ref="p2054">Martinengi</persName> literis intelliges, ab <placeName ref="l834">Italis</placeName> vitatur.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Haec vesperi scribo.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Cras a concione, si vixero, operam dabo, ut aliquem ex episcopi domesticis conveniam, ut vel istinc aliquid extorqueam.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Vix has conciones absolvi; aegre intellectus sum propter tussim et raucedinem; sed spero me plane posse dei gratia confirmare valetudinem.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la">Scio ego me sensim senescere et cum aliis multis difficultatibus mihi confligendum, dum navis mea tandem in portum deducatur.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">In haec misera et aerumnosa vita nulla statio apparet; coelestis est patria, ad quam suspiramus uterque.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Pestis hic <placeName ref="l98">Curiae</placeName> non quidem saevit, sed per intervalla tamen aliquot domos infestat; mirum, si non ingravescit.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Negotium <persName>Pellizariorum</persName> conati erant quidam practicis suis impedire; sed dei gratia frustrati sunt praeter spem, et speramus satis felicem successum.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Sed quod omnia sint lubrica, nihil certi affirmare dum possum, donec expedita habeamus omnia.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Scriptum est Venetiis ad nostros illuc nunciatum esse pontificis afflictam admodum valetudinem; de quo si quid scribetur amplius, faciam ut scias.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Haec heri scripseram et hodie, quo rescirem aliquid certi de concilio, ipse ad episcopum scripsi rogans, si <persName ref="p17892">Epiphanium</persName> haberet, commodato mitteret; addidi me audire concilium dissolutum eiusque acta libro comprehensa ad se missa; per unam aut alteram horam legenda concederet.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la">Ipse recripsit, quae hic vides; nam et haec ipsius manus est.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Itaque intelligis acta extare, sed haberi dum non potuisse.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">Si prius ipse accepero ex amicis, mittam; si episcopus acceperit et mutuo dederit, enotabo capita et summas, dum integrum volumen nacti fuerimus.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Haec sunt (reverende pater), quae nunc quidem habeo.</s>
+					<s n="21" xml:lang="la">Tibi pro novis illis mirabilibus gratias immortales ago.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la">D. <persName ref="p8055">Blaureri</persName> scriptum non remisi, quod ille utatur charta molli et fluida et magna ex parte ex gestatione fuerit attritum; satis tamen commode legi; adde, quod mihi inscriptum non remittendum duxi.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la">Te autem valere cupimus omnes, deumque optimum maximum rogamus, ut hic annus tibi tuisque felicissime ineat, aeque feliciter exeat.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" ana="farewell">Vale.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la"><placeName ref="l98">Curię</placeName> in die Ioannis anno 1563.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la">T[uus] <persName ref="p8009">Fab[ricius</persName>].</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la">Amplissimo viro d. <persName ref="p495">Heinrycho Bullingero</persName>, domino suo et in Christo patri summe reverendo.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de"><placeName ref="l587">Zurich</placeName> an herren <persName ref="p495">Bullinger</persName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

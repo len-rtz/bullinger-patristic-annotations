@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>Contra errores Graecorum</title>
+               <author ref="http://viaf.org/viaf/264344179">Thomas Aquinas<date>1225-1274</date></author>
+</titleStmt>
+               
+               <extent></extent>
+               <editionStmt>
+              <edition>critical edition, apparatus not encoded</edition>
+              <editor></editor>
+         </editionStmt>
+               <publicationStmt>
+                  <pubPlace>Romae</pubPlace>
+                  <publisher>Textum Taurini</publisher>
+                  <date>1968</date>
+               </publicationStmt>
+<seriesStmt>
+             <title>Corpus Thomisticum</title>
+            <idno>ThomAqu.CoErGra</idno>
+            </seriesStmt>
+         <notesStmt>
+            <note></note>
+         </notesStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>based on data from Corpus Thomisticum (http://www.corpusthomisticum.org), this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+          <note>Textum Taurini 1968 editum emendatum ac translatum a Roberto Busa SJ in taenias magneticas denuo recognovit Enrique Alarcón atque instruxit</note>
+          <editorialDecl>
+             <normalization>Classical Latin orthography</normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date></date>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item></item>
+		  <item></item>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme='genre'>
+  		 <list>
+   			<item></item>
+  		</list>
+  		</keywords>
+  		<keywords scheme='period'>
+ 		 <list>
+   			<item></item>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>
+<div1 n="1"><head>Pars 1</head>
+<div2 id="pro"><head>Prooemium</head>
+<A NAME="69073"/><p>Libellum ab excellentia vestra mihi exhibitum, sanctissime pater Urbane Papa, diligenter perlegi, in quo inveni quamplurima ad nostrae fidei assertionem utilia et expressa.
+	Consideravi autem, quod eius fructus posset apud plurimos impediri propter quaedam in auctoritatibus sanctorum patrum contenta, quae dubia esse videntur, et unde possent materiam ministrare et contentiosis dare occasionem calumniae et ideo, ut remota omni ambiguitate, ex auctoritatibus in praedicto libello contentis verae fidei fructus purissimus capiatur, proposui primo ea quae dubia in auctoritatibus praedictis esse videntur exponere, et postmodum ostendere quomodo ex eis veritas Catholicae fidei et doceatur et defendatur.
+	Quod autem aliqua in dictis antiquorum sanctorum inveniuntur quae modernis dubia esse videntur, ex duobus aestimo provenire.
+	Primo quidem, quia errores circa fidem exorti occasionem dederunt sanctis Ecclesiae doctoribus ut ea quae sunt fidei, maiori circumspectione traderent ad eliminandos errores exortos; sicut patet quod sancti doctores qui fuerunt ante errorem Arii, non ita expresse locuti sunt de unitate divinae essentiae sicut doctores sequentes; et simile de aliis contingit erroribus, quod non solum in diversis doctoribus, sed in uno egregio doctore Augustino expresse apparet.
+	Nam in suis libris quos post exortam Pelagianorum haeresim edidit, cautius locutus est de potestate liberi arbitrii quam in libris quos edidit ante praedictae haeresis ortum: in quibus libertatem arbitrii contra Manichaeos defendens, aliqua protulit quae in sui defensionem erroris assumpserunt Pelagiani, divinae gratiae adversantes.
+	Et ideo non est mirum, si moderni fidei doctores post varios errores exortos, cautius et quasi elimatius loquuntur circa doctrinam fidei, ad omnem haeresim evitandam.
+	Unde, si qua in dictis antiquorum doctorum inveniuntur quae cum tanta cautela non dicantur quanta a modernis servatur, non sunt contemnenda aut abiicienda, sed nec etiam ea extendere oportet, sed exponere reverenter.
+	Secundo, quia multa quae bene sonant in lingua Graeca, in Latina fortassis bene non sonant, propter quod eandem fidei veritatem aliis verbis Latini confitentur et Graeci.
+	Dicitur enim apud Graecos recte et Catholice, quod pater et filius et spiritus sanctus sunt tres hypostases; apud Latinos autem non recte sonat, si quis dicat quod sunt tres substantiae, licet hypostasis idem sit apud Graecos quod substantia apud Latinos secundum proprietatem vocabuli.
+	Nam apud Latinos substantia usitatius pro essentia accipi solet, quam tam nos quam Graeci unam in divinis confitemur.
+	Propter quod, sicut Graeci dicunt tres hypostases, nos dicimus tres personas, ut etiam Augustinus docet in VII de Trinitate.
+	Nec est dubium quin etiam simile sit in aliis multis.
+	Unde ad officium boni translatoris pertinet ut ea quae sunt Catholicae fidei transferens, servet sententiam, mutet autem modum loquendi secundum proprietatem linguae in quam transfert.
+	Apparet enim quod si ea quae litteraliter in Latino dicuntur, vulgariter exponantur, indecens erit expositio, si semper verbum ex verbo sumatur.
+	Multo igitur magis quando ea quae in una lingua dicuntur, transferuntur in aliam, ita quod verbum sumatur ex verbo, non est mirum si aliqua dubietas relinquatur.</p>
+</div2>
+<div2 n="1"><head>Caput 1</head>
+<A NAME="69074"/><p><emph>Quomodo intelligitur hoc quod dicitur quod filius habet a patre sicut causatum a causa</emph></p>
+<p><A NAME="69075"/>Potest autem apud aliquos esse dubium quod in plerisque locis harum auctoritatum dicitur, patrem esse causam filii, et patrem vel filium esse causam spiritus sancti.
+	Et hoc quidem habetur primo in verbis Athanasii, quae in Nicaena synodo dixisse refertur, ubi dicit: <hi>quidquid habet filius a patre, habet sicut verbum a corde, splendor a sole et fluvius a fonte et a causa omne causatum.
+	Qui autem iniuriatur vel negat causatum, equidem et causam eius negat.
+	Dicat causatus genitus filius: qui me spernit, spernit eum qui me misit</hi>.
+	Et alibi: <hi>non est imprincipiatus spiritus, hoc est sine principio et causa: sed potius ipsum demonstrat Deum verum, principiatum tamen non ex tempore, sed ex causa verae originis</hi>.
+	Item Basilius <hi>spiritus sanctus ab ipso Deo missus, causam habet ipsum</hi>.
+	Et item Theodoritus super epistolam ad Heb.: <hi>causa filii pater est</hi>.
+	Apud Latinos autem non est consuetum quod pater dicatur causa filii vel spiritus sancti, sed solum principium vel auctor.
+	Et hoc propter tria.
+	Primo quidem, quia pater non posset intelligi causa filii per modum causae formalis vel materialis vel finalis, sed solum per modum causae originantis, quae est causa efficiens.
+	Hanc autem semper invenimus secundum essentiam diversam ab eo cuius est causa.
+	Et ideo, ne intelligeretur esse filius alterius essentiae a patre, non consuevimus dicere patrem esse causam filii, sed magis utimur illis nominibus quae significant originem cum quadam consubstantialitate, sicut fons, caput et alia huiusmodi.
+	Secundo, quia causae apud nos correspondet effectus: unde patrem non dicimus esse causam, ne aliquis intelligat filium esse factum.
+	Nam et apud philosophos prima causa Deus nominatur; omne autem causatum sub universitate creaturarum comprehenditur apud eos: et ideo si filius causam dicatur habere, posset intelligi quod sub universitate creaturarum comprehenderetur.
+	Tertio, quia de divinis non de facili debet homo aliter loqui quam sacra Scriptura loquatur.
+	Scriptura autem sacra patrem nominat principium filii, ut patet Ioan.
+	I, 1: <hi>in principio erat verbum</hi>.
+	Nusquam autem dicit patrem causam, vel filium causatum.
+	Unde, cum causa plus dicat quam principium, non praesumimus patrem dicere causam, nec filium causatum.
+	Nihil autem ad originem pertinens, adeo proprie dicitur in divinis, sicut hoc nomen principium.
+	Quia enim ea quae sunt in Deo, incomprehensibilia sunt, et definiri a nobis non possunt, convenientius utimur in Deo nominibus communibus quam propriis: propter quod maxime proprium nomen eius dicitur esse <hi>qui est</hi>, quod est communissimum, ut patet Exod.
+	III.
+	Sicut autem causa est communius quam elementum, ita et principium quam causa: dicitur enim punctum principium lineae, sed non causa.
+	Et ideo convenientissime nomine principii utimur in divinis.
+	Nec tamen intelligendum est, quod sancti praedicti, qui nomine causae et causati utuntur in divinis personis, intendant diversitatem naturae inducere, aut filium esse creaturam.
+	Sed per hoc volunt ostendere solam originem personarum, sicut nos nomine principii.
+	Unde dicit Gregorius Nyssenus: <hi>causam autem et causatum dicentes, non naturam propter haec nomina significamus.
+	Neque enim haec nomina loco essentiae vel naturae ratione damus; sed qualiter se habent differentiam, demonstramus; ut scilicet filium non ingenitum esse, neque patrem per generationem aliquam demonstramus ab aliquo</hi>.
+	Item Basilius dicit: <hi>spiritum sanctum dico ingenitum, non habere patrem; nec creatorem; quia non est creatus; sed causam habet Deum, cuius est vere spiritus, a quo et procedit</hi>.</p>
+</div2>
+<div2 n="2"><head>Caput 2</head>
+<A NAME="69076"/><p><emph>Quomodo intelligitur cum dicitur, quod filius sit secundus a patre, et spiritus sanctus sit tertius</emph></p>
+<p><A NAME="69077"/>Item invenitur in auctoritatibus praedictorum doctorum, quod filius sit secundus a patre, et spiritus sanctus tertius ab eodem.
+	Dicit enim Athanasius in sermone ad Serapionem: <hi>spiritus sanctus tertius est a patre; a filio tamen est secundus</hi>.
+	Et Basilius dicit: <hi>dignitate quidem, et ordine secundus est a filio spiritus</hi>.
+	Hoc autem alicui potest videri esse falsum.
+	In divinis enim personis non est nisi ordo naturae, secundum quem, ut Augustinus dicit, non est alter prior altero, sed est alter ex altero.
+	Nullus enim modus prioritatis est, secundum quem pater prior filio dici possit.
+	Neque enim prior tempore, cum filius sit aeternus; neque prior natura, cum patris et filii sit una natura; neque dignitate, cum pater et filius sint aequales; neque etiam intellectu, cum non distinguantur nisi relationibus, relativa autem sunt simul secundum intellectum, cum unum sit de intellectu alterius.
+	Et ita patet, quod proprie loquendo, filius non possit dici secundus a patre, nec spiritus sanctus tertius a patre.
+	Dicunt ergo doctores praedicti, filium esse secundum et spiritum sanctum tertium, secundum ordinem in numerando, quod patet ex ipso Basilio, qui dicit: <hi>recepimus spiritum sanctum a patre et filio, tertium connumeratum, et glorificatum spiritum ipsius filii Dei, qui tradens ordinem salutiferi Baptismatis, dixit: euntes, baptizate omnes gentes in nomine patris et filii et spiritus sancti</hi>.
+	Et Epiphanius dicit: <hi>spiritus Dei ex patre et ex filio tertius est appellatione</hi>.
+	Quod autem dicit Basilius, quod spiritus est secundus a filio dignitate, videtur maiorem habere calumniam: quia videtur in dignitate Trinitatis constituere gradum, cum sit par dignitas et eadem trium personarum.
+	Potest autem hoc exponi non de dignitate naturali, sed de personali; sicut et secundum nos dicitur, quod persona est hypostasis proprietate distincta ad dignitatem pertinente.
+	Secundum quem modum dicit Hilarius, quod <hi>pater est maior filio propter auctoritatem originis; filius tamen non est minor patre propter substantiae unitatem</hi>.</p>
+</div2>
+<div2 n="3"><head>Caput 3</head>
+<A NAME="69078"/><p><emph>Quomodo intelligitur hoc quod spiritus sanctus sit tertium lumen</emph></p>
+<p><A NAME="69079"/>Adhuc autem videtur esse magis calumniosum quod ex verbis sancti Epiphanii Cypriensis episcopi inducitur dicentis: <hi>spiritus sanctus spiritus est veritatis, lumen tertium a patre et filio</hi>.
+	Ubi enim est unitas, non est ordo primi et tertii.
+	Pater autem et filius et spiritus sanctus sunt unum lumen, sicut et unus Deus.
+	Sicut ergo non potest Catholice dici, quod spiritus sanctus sit tertius Deus a patre et filio, ita non potest dici quod sit tertium lumen.
+	Dicitur autem quod est tertia persona propter personarum pluralitatem.
+	Ex hoc ergo quod dicit lumen tertium, sequitur quod sint tria lumina; quod ipse postmodum expresse subiungit, dicens: <hi>alia vero omnia positione vel compositione sive appellatione lumina dicuntur; non tamen istis tribus luminibus similia</hi>.
+	Potest autem dici, quod lumen originem quandam importat: nam lumen est quod ex aliqua luce diffunditur, et etiam aliud lumen diffundere potest.
+	Et secundum hoc, nomen luminis ad personales proprietates trahi potest ratione proprietatis diffusivae, licet secundum ipsam naturam lucis ad essentiam pertineat.
+	Et hoc attendens dictus pater, tertium lumen et tria lumina dixit in divinis; licet hoc nullo modo sit ad consequentiam trahendum, sed simpliciter confitendum, quod pater et filius et spiritus sanctus sunt unum lumen.</p>
+</div2>
+<div2 n="4"><head>Caput 4</head>
+<A NAME="69080"/><p><emph>Quomodo intelligitur, quod essentia sit genita in filio, et spirata in spiritu sancto</emph></p>
+<p><A NAME="69081"/>Invenitur autem in dictis praedictorum patrum, quod essentia sit genita in filio, et spirata in spiritu sancto.
+	Dicit enim Athanasius in tertio sermone gestorum Nicaenae synodi, ex persona filii loquens: <hi>tuum spiritum ex mea essentia a te genita ipsis hominibus compenso</hi>; et parum post: <hi>ex tua essentia, quam in me genuisti, spiritum sanctum da eis</hi>.
+	Et idem in epistola ad Serapionem: <hi>essentiam suam in se ipse genitor retinens, totam in filio suo inenarrabiliter genuit</hi>.
+	Et iterum: <hi>sicut pater habet vitam in semet ipso, idest naturam vivam spirantem, sic dedit et filio vitam habere in semetipso, id est eandem naturam genuit in filio spirantem spiritum vivum</hi>.
+	Et infra dicit, <hi>patris et filii unam esse divinitatem naturaliter spirantem unum spiritum sanctum</hi>.
+	Ex quibus verbis habetur, quod natura divina in filio sit genita, et in patre et filio sit spirans.
+	Item Cyrillus in libro thesaurorum contra haereticos: <hi>virtus increata et genita in filio, filii est per omnem modum naturae paternae</hi>.
+	Et iterum: <hi>pater filio dedit vitam, idest suam vitam naturalem genuit in filio</hi>.
+	Item Basilius: <hi>ipse filius, quem dat nobis pater, est Deus de Deo essentialiter genitus, habens in se totam essentiam patris genitam</hi>.
+	Item Athanasius dicit in epistola ad Serapionem, essentiam divinam in spiritu sancto esse spiratam, dicens, quod <hi>spiritus sanctus est vera et naturalis imago filii per essentiam omnimode ab eodem in se spiratam</hi>.
+	Hic autem modus loquendi calumniosus est: et in sacro Lateranensi Concilio reprobatum est dogma Ioachim, qui hunc modum loquendi contra Magistrum Petrum Lombardum defendere praesumpsit.
+	Ostendit enim praedictus Magister in quinta distinctione primi libri sententiarum, quas edidit, quod communis essentia nec generat, nec gignitur, nec procedit.
+	Et hoc ideo, quia in divinis invenitur aliquid commune indistinctum, et aliquid quod distinguitur et non est commune.
+	Illud ergo quod est distinctionis ratio in divinis, non potest attribui ei quod est commune et indistinctum, sed solum ei quod distinguitur.
+	Nulla autem alia distinctionis ratio in divinis invenitur nisi ex eo quod unus generat et alius nascitur et alius procedit.
+	Non ergo hoc ipsum quod est generare vel nasci vel procedere potest essentiae divinae attribui, quae est communis et omnino indistincta in tribus personis.
+	Id autem quod est distinctum in divinis, est persona vel hypostasis vel suppositum divinae naturae, id est, quod est habens divinam naturam.
+	Et ideo illa quae significant, vel supponere possunt personam, recipiunt congruenter praedicationem generationis aut processionis, sicut haec nomina pater et filius et spiritus sanctus significant personas determinatas, et hoc nomen persona vel hypostasis, in communi.
+	Unde convenienter dicitur quod pater generat filium, et quod filius nascitur a patre, et quod spiritus sanctus procedit a patre et filio; et similiter quod persona generet vel spiret personam, aut generetur aut spiretur a persona.
+	Hoc autem nomen Deus, quia significat essentiam communem per modum concreti (significat enim habentem divinitatem), potest supponere ex modo suae significationis pro persona; et ideo etiam huiusmodi locutiones convenienter conceduntur: Deus generat Deum, et Deus nascitur vel procedit a Deo.
+	Hoc autem nomen essentia, et divinitas, et quaecumque in abstracto significantur, non habent ex modo suae significationis neque quod significent neque quod supponant pro persona.
+	Et ideo non proprie ea quae sunt propria personarum, de huiusmodi nominibus praedicantur, ut dicatur essentia generans vel genita; licet quaedam horum nominum propinquiora sint personis, inquantum significant principia actuum qui proprie sunt personarum; sicut lumen, sapientia, bonitas, et huiusmodi.
+	Unde et quae sunt propria personarum, de talibus minus inconvenienter praedicantur; ut cum dicitur filius lumen de lumine, sapientia de sapientia; sed essentia de essentia magis inconvenienter dicitur.
+	Sed quia, licet modus significandi diversus sit cum dicitur Deus et divinitas, tamen res est penitus eadem: ideo propter rei identitatem, sicut unum de altero praedicatur, ut cum dicitur, Deus est divinitas, vel persona divina sive pater est divina essentia; ita et a sanctis interdum unum pro alio ponitur, ut sic dicatur quod essentia divina generat, quia pater, qui est essentia divina, generat; et essentia est de essentia, quia filius qui est essentia, est de patre, qui est eadem essentia divina.
+	Et sic exponit Cyrillus in Lib. thesaurorum, dicens: <hi>pater de se vita vivente et essentia veraciter existente, tanquam a vera radice, generando filium, dat ei naturaliter suam naturalem vitam et essentiam</hi>.
+	Sic etiam cum dicitur quod pater genuit naturam suam in filio, exponendum est, quod per generationem suam naturam filio dedit, sicut ex praemissis verbis Cyrilli habetur.</p>
+</div2>
+<div2 n="5"><head>Caput 5</head>
+<A NAME="69082"/><p><emph>Quomodo intelligitur quod Iesus dicitur filius paternae essentiae</emph></p>
+<p><A NAME="69083"/>Ex hoc etiam patet qualiter exponendum sit quod idem Cyrillus in eodem libro dicere inducitur: <hi>quomodo ergo Iesus filius paternae essentiae, erit creatura?</hi> Non enim dicitur filius paternae essentiae, quasi a paterna essentia genitus, sed quasi paternam essentiam per generationem accipiens.
+	Et per hunc modum exponenda sunt omnia quae similiter dici inveniuntur; sicut quod dicitur filius vel spiritus essentialiter procedere, inquantum procedendo essentiam a patre accipiunt.</p>
+</div2>
+<div2 n="6"><head>Caput 6</head>
+<A NAME="69084"/><p><emph>Quomodo intelligitur, quod quae sunt propria naturaliter patris, sunt propria filii</emph></p>
+<p><A NAME="69085"/>Potest esse dubium quod Cyrillus in eodem Lib. thesaurorum dicit: <hi>omnia quae patris sunt propria naturaliter, sunt propria et filii</hi>.
+	Aut enim hoc intelligitur de essentialibus attributis, et sic neque patri neque filio sunt propria, sed utrique communia; aut de personalibus, et sic quae sunt propria patris, non sunt propria filii, sicut innascibilitas et paternitas nullo modo sunt filii, sed solum patris.
+	Patet autem ex praemissis ab eo, quod loquitur de essentialibus attributis.
+	Praemittit enim quod quaecumque naturaliter dicuntur inesse patri, illa omnia insunt filio, sicut vita, veritas, lux et huiusmodi.
+	Haec autem dicuntur esse propria patri non in respectu ad filium, nec filio in respectu ad patrem, sed utrique in respectu ad creaturam, cui in comparatione ad Deum non proprie praedicta conveniunt; vel proprium, hic dicitur non quod convenit uni soli, sed quod proprie et vere alicui convenit secundum se.</p>
+</div2>
+<div2 n="7"><head>Caput 7</head>
+<A NAME="69086"/><p><emph>Quomodo intelligitur quod pater neque filio neque spiritu sancto indiget ad sui perfectionem</emph></p>
+<p><A NAME="69087"/>Item potest esse dubium quod Athanasius dicit in epistola ad Serapionem, quod <hi>pater per se et in se sine alicuius indigentia plenus et perfectus existens Deus, ad sui perfectionem neque filio neque spiritu sancto indiget</hi>.
+	Quod enim pater non sit indigens, dubium non est: sic enim neque filius neque spiritus sanctus indigens est.
+	Illud enim proprie est indigens cui in se considerato aliquid deest ad suam perfectionem: quod non potest dici neque de patre neque de filio, neque de spiritu sancto.
+	Sed tamen non posset esse pater perfectus, nisi filium haberet, quia nec pater sine filio esset, nec esset Deus perfectus, nisi haberet verbum, et nisi haberet spiramen vitae, sicut idem Athanasius dicit in tertio sermone gestorum Nicaeni Concilii, sic inquiens de Arianis, qui negabant filium et spiritum sanctum esse coessentiales patri: <hi>dicunt sterilem esse et infructuosam naturam paternam, quae omnibus rebus insitam et propagativam similium dedit naturam.
+	Et mutum faciunt patrem et sine verbo, qui omnibus rationalibus facultatem dedit loquendi.
+	Mortuum etiam ipsum patrem dicunt, et expertem viventis naturae</hi>, inquantum scilicet negant spiritum sanctum coessentialem patri.
+	In quo apparet quod non esset pater Deus perfectus, nisi filium et spiritum haberet.
+	Idem etiam Athanasius dicit in epistola ad Serapionem, quod <hi>pater non potuit creare creaturam nisi per verbum, et deificandis creaturis se non potest communicare nisi per idem verbum: et similiter nec filius nisi in spiritu sancto</hi>.
+	Commune ergo est patri et filio et spiritui sancto, quod nullus eorum sit indigens.
+	Item commune est cuilibet eorum quod nullus sine aliis duobus potest esse Deus perfectus.
+	Sed hac ratione proprie de patre dicit Athanasius, quod ad sui perfectionem filio et spiritu sancto non indiget, quia ipse suam perfectionem non habet ab alio; filius autem et spiritus sanctus suam perfectionem habent a patre.
+	Unde idem Athanasius dicit in epistola ad Serapionem: <hi>non ratione filii, nec ratione spiritus sancti pater existit plenus beatus Deus.
+	Neque enim a supra se habet a quo sit, neque ab infra se habet a quo habeat, idest quod sit a filio, vel a spiritu sancto</hi>.</p>
+</div2>
+<div2 n="8"><head>Caput 8</head>
+<A NAME="69088"/><p><emph>Quomodo intelligitur quod spiritus sanctus dicatur ingenitus</emph></p>
+<p><A NAME="69089"/>Item videtur esse dubium quod Gregorius Nazianzenus in sermone de Epiphania dicit, quod <hi>spiritus sanctus secundum quod est inde procedit ut sit ingenitus et non filius, medius ingeniti genitique</hi>.
+	Non enim videtur quod spiritus sanctus ingenitus dici possit.
+	Hilarius enim dicit in Lib. de synodis, quod <hi>si quis duos ingenitos dicit, duos deos facit</hi>.
+	Et Athanasius dicit in epistola ad Serapionem, quod <hi>non est ingenitus spiritus sanctus, quia imprincipiatum esse et ingenitum soli Deo patri Catholica Ecclesia congregata apud Nicaeam recte et fideliter attribuit, et de solo patre hoc esse credendum et praedicandum, sub anathemate toti mundo mandavit</hi>.
+	Sed dicendum, quod ingenitus dupliciter accipi potest.
+	Uno modo pro eo quod caret principio, et sic soli patri convenit, ut ex dictis Athanasii patet.
+	Alio modo pro eo quod non est genitum, licet sit principium habens, et sic non solum Gregorius Nazianzenus in verbis praemissis, sed etiam Hieronymus in regulis definitionum contra haereticos spiritum sanctum dicit esse ingenitum.</p>
+</div2>
+<div2 n="9"><head>Caput 9</head>
+<A NAME="69090"/><p><emph>Quomodo intelligitur quod spiritus sanctus dicitur medius patris et filii</emph></p>
+<p><A NAME="69091"/>Item in verbis praemissis Gregorii Nazianzeni dubium est quod dicit, spiritum sanctum esse medium ingeniti genitique, idest patris et filii, cum magis dicatur esse tertius, vel tertia in Trinitate persona, ut supra dictum est.
+	Sed dicendum, quod non dicitur esse medius secundum ordinem enumerationis, qui respondet ordini originis, sic enim filius medius est inter patrem et spiritum sanctum; sed dicitur medius quasi communis nexus amborum: est enim communis amor patris et filii.
+	Et similiter exponendum est quod Epiphanius dicit in libro de Trinitate, quod spiritus sanctus est in medio patris et filii.</p>
+</div2>
+<div2 n="10"><head>Caput 10</head>
+<A NAME="69092"/><p><emph>Quomodo intelligitur hoc quod dicitur, quod spiritus sanctus sit imago filii</emph></p>
+<p><A NAME="69093"/>Item in pluribus locis harum auctoritatum dicitur, quod spiritus sanctus sit imago filii, sicut Athanasius in sermone tertio Nicaeni Concilii: <hi>spiritus sanctus patris et filii una deifica et vivifica dicitur et est veritas, imago filii, ipsum per omnia in se essentialiter tenens, naturaliter repraesentat, quemadmodum et filius est imago patris</hi>; et in epistola ad Serapionem: <hi>spiritus sanctus ipsum filium in se continet naturaliter, tanquam eius vera et naturalis imago</hi>.
+	Item Basilius: <hi>spiritus sanctus dicitur digitus, spiramen, unctio, sufflatio, sensus Christi, processio, productio, missio, emanatio, effusio, vaporatio, splendor, imago, character, Deus verus</hi>; et iterum: <hi>spiritus sanctus a patre et filio tertius vera et naturalis imago patris et filii existit, ipse utrumque nobis naturaliter repraesentans</hi>.
+	Apud Latinos autem non consuevit dici quod spiritus sanctus sit imago patris vel filii.
+	Dicit enim Augustinus in VI de Trinitate, quod verbum solus filius accipitur, et quod sic verbum dicitur quomodo imago, et quod solus filius est imago patris, quemadmodum et filius.
+	Richardus etiam de sancto Victore in suo libro de Trinitate assignat rationem, quare spiritus sanctus non possit dici imago, sicut filius; quia scilicet, licet patri sit similis in natura, sicut et filius, non tamen convenit cum eo in aliqua proprietate relativa, sicut convenit filius cum patre in spiratione activa spiritus sancti.
+	Quidam etiam huius rationem assignant, quod propter hoc spiritus sanctus non potest dici imago, quia esset imago duorum, scilicet patris et filii, cum sit a duobus: non potest autem duorum esse una imago.
+	In auctoritate etiam sacrae Scripturae, quam praetergredi non licet de divinis loquentes, expresse habetur quod filius sit imago patris: dicitur enim Coloss.
+	I, 13: <hi>transtulit nos in regnum filii dilectionis suae, in quo habemus remissionem peccatorum, qui est imago Dei invisibilis</hi>; et Hebr.
+	I, 3, dicitur de filio: <hi>cum sit splendor gloriae et figura substantiae eius</hi>.
+	Sed sciendum, quod a sanctis Graecis duae auctoritates sacrae Scripturae inducuntur, in quibus videtur dici quod spiritus sanctus sit imago filii.
+	Dicitur enim Rom.
+	VIII, 29: <hi>quos praescivit et praedestinavit conformes fieri imaginis filii sui</hi>.
+	Imago autem filii nihil aliud videtur esse quam spiritus sanctus.
+	Item I ad Cor.
+	XV, 49, dicitur: <hi>sicut portavimus imaginem terreni, portemus et imaginem caelestis</hi>, idest Christi; per quam imaginem intelligunt spiritum sanctum, licet in his auctoritatibus non expresse spiritus sanctus imago dicatur.
+	Potest enim intelligi, quod homines conformentur imagini filii, vel quod portent imaginem Christi inquantum ipsi homines sancti per dona gratiarum, ut sint similes Christo, perficiuntur, secundum illud apostoli II ad Cor.
+	III, 18: <hi>nos omnes revelata facie gloriam domini speculantes, in eandem imaginem transformamur a claritate in claritatem tanquam a domini spiritu</hi>.
+	Hic enim imaginem non dicit esse spiritum Christi, sed aliquid a spiritu Dei in nobis existens.
+	Sed quia praesumptuosum est tantorum doctorum tam expressis auctoritatibus contraire, possumus quidem dicere spiritum sanctum esse imaginem patris et filii, ita quod per imaginem nihil aliud intelligatur quam existens ab alio et eius similitudinem gerens.
+	Si autem per imaginem intelligatur aliquid existens ab altero, ex ipsa suae originis ratione habens quod similitudinem gerat eius a quo existit, inquantum est ab altero, ut filius genitus, vel ut verbum conceptum, sic solus filius dicitur imago: de ratione enim filii est quod similitudinem patris habeat in quacumque natura; et similiter de ratione verbi est quod sit similitudo eius quod verbo exprimitur, cuiuscumque sit verbum; sed non est de ratione spiritus vel amoris, quod sit similitudo eius cuius est, in omnibus.
+	Sed hoc in spiritu Dei verificatur propter divinae essentiae unitatem et simplicitatem, ex qua oportet quod quidquid est in Deo, sit Deus.
+	Nec obstat ad rationem imaginis quod spiritus sanctus non convenit cum patre in aliqua personali proprietate, quia similitudo et aequalitas divinarum personarum non attenditur secundum proprietates personales, sed secundum attributa essentialia.
+	Neque enim inaequalitas et dissimilitudo secundum personalium proprietatum differentiam in divinis dici debet, sicut Augustinus dicit in libro contra Maximinum.
+	Cum dicitur filius a patre genitus, non ostenditur inaequalitas substantiae, sed ordo naturae.
+	Similiter etiam non obstat quod spiritus sanctus est a duobus.
+	Est enim a duobus, inquantum sunt unum, cum pater et filius sint unum principium spiritus sancti.</p>
+</div2>
+<div2 n="11"><head>Caput 11</head>
+<A NAME="69094"/><p><emph>Quomodo intelligitur quod filius sit in patre sicut in sua imagine</emph></p>
+<p><A NAME="69095"/>Adhuc autem videtur esse magis dubium, quod Athanasius dicit in epistola ad Serapionem: <hi>filius est in suo patre tanquam in propria sua imagine</hi>.
+	Non enim pater est imago filii, sed magis filius imago patris.
+	Sed dicendum, quod imago hic improprie sumitur pro exemplari: sic enim quandoque abusive accipitur.</p>
+</div2>
+<div2 n="12"><head>Caput 12</head>
+<A NAME="69096"/><p><emph>Quomodo intelligitur quod spiritus sanctus dicitur verbum filii</emph></p>
+<p><A NAME="69097"/>Item videtur esse falsum quod Basilius dicit in III sermone de spiritu sancto contra Eunomium haereticum: <hi>sicut</hi>, inquit, <hi>filius se habet ad patrem, eodem modo spiritus sanctus se habet ad filium</hi>.
+	Et propter hoc Dei quidem verbum filius, verbum autem filii spiritus. <hi>Portansque omnia</hi>, inquit apostolus, <hi>verbo virtutis suae.
+	Verbum enim</hi>, ut Augustinus dicit in Lib. de Trinitate, <hi>solus filius est</hi>.
+	Unde et Ioannes nomen verbi pro nomine filii ponit, tam in principio Evangelii sui cum dicit: <hi>in principio erat verbum</hi>; quam etiam in sua canonica ubi dicit: <hi>tres sunt qui testimonium dant in caelo: pater, verbum et spiritus sanctus</hi>.
+	Nec refert, si quis translationem mutet, ut loco verbi eloquium ponat: nam id quod quis loquitur, verbum eius est.
+	Unde sicut solus filius in divinitate est verbum, ita solus est eloquium.
+	Sed dicendum, quod verbum Dei quandoque dicitur etiam sermo divinitus inspiratus et prolatus: et de hoc verbo hic Basilius intelligit, dicens spiritum sanctum esse verbum vel eloquium filii effective, inquantum sancti ab eo inspirati de filio sunt locuti, secundum quod dicitur Ioan.
+	XVI, 13, de spiritu sancto: <hi>quaecumque audiet, loquetur</hi>.
+	Et quod hic sit intellectus Basilii, patet ex eo quod subdit: <hi>ex quo eloquium filii per Deum: gladium spiritus, dicit, sumite, quod est verbum Dei</hi>.
+	Ipsum enim verbum fidei a sanctis prolatum, gladius spiritus manifeste dicitur.</p>
+</div2>
+<div2 n="13"><head>Caput 13</head>
+<A NAME="69098"/><p><emph>Quomodo intelligitur quod dicitur, quod nomine Christi intelligitur spiritus sanctus</emph></p>
+<p><A NAME="69099"/>Item dubium esse videtur quod Cyrillus in Lib. thesaurorum videtur dicere, quod aliquando nomine Christi spiritus sanctus intelligatur, sic inquiens: <hi>apostolus appellatione Christi spiritum Christum vocavit; ait enim: si in vobis Christus est, corpus quidem mortuum est</hi> et cetera.
+	Et post pauca: <hi>spiritus sanctus in nomine Christi operando, et eundem Christum in se repraesentando, nomen Christi accipere, et Christus ab apostolo appellari dicitur</hi>.
+	Hoc autem videtur esse contra personarum distinctionem, ut nomen unius personae alteri attribuatur.
+	Sicut enim pater nunquam est filius, nec e converso, ita filius nunquam est spiritus sanctus, nec e converso.
+	Non potest ergo nomen Christi de spiritu sancto praedicari, neque igitur pro spiritu sancto poni.
+	Sed dicendum, quod dictus pater appellatione Christi dicit spiritum Christum vocari, vel nomen Christi accipere, et Christus appellari, non quasi Christus de spiritu sancto praedicetur, vel e converso (hoc enim esset Sabellianae impietatis), sed intelligitur in nomine Christi spiritus sanctus ratione concomitantiae, quia ubicumque est Christus, est spiritus Christi, sicut ubicumque est pater, est filius.
+	Unde interponit: <hi>numquid in hoc veritatis praedicator</hi>, scilicet apostolus, <hi>veritatem inconfusibilium personarum confudit sabellizando? Non, sed potius hoc Ecclesiae indicare curavit ut spiritus sanctus non sit alienus a natura verbi</hi>.</p>
+</div2>
+<div2 n="14"><head>Caput 14</head>
+<A NAME="69100"/><p><emph>Quomodo intelligitur quod dicitur: quod spiritus sanctus non mittit filium</emph></p>
+<p><A NAME="69101"/>Item dubium esse videtur quod Athanasius dicit in III sermone Nicaeni Concilii, loquens de Arianis. <hi>Non</hi>, inquit, <hi>ut asserunt alienati a gratia Evangelii, et privati Deo spiritu, spiritus gratificat et mittit filium, propter quod audierunt: et nunc dominus misit me, et spiritus eius</hi>: Isai.
+	XLVIII, 16; et alibi: <hi>spiritus domini super me</hi>: Isai.
+	LXI, I.
+	Hoc enim videtur esse contrarium ei quod Augustinus dicit in Lib. de Trinitate, quod filius sit missus a spiritu sancto, probans hoc per auctoritates inductas.
+	Nec solum a spiritu sancto, sed etiam a se ipso probat eum missum, quia est missus a tota Trinitate.
+	Sed dicendum quod in missione divinae personae duo possunt considerari: primo auctoritas personae mittentis ad personam quae mittitur; secundo effectus in creatura, ratione cuius persona divina mitti dicitur.
+	Cum enim personae divinae sint ubique per essentiam, praesentiam et potentiam, secundum hoc persona mitti dicitur, secundum quod novo modo per aliquem novum effectum incipit esse in creatura: sicut filius dicitur esse missus in mundum, inquantum novo modo incepit esse in mundo per visibilem carnem quam assumpsit, secundum illud apostoli Gal.
+	IV, 4: <hi>misit Deus filium suum, factum ex muliere, factum sub lege</hi>.
+	Dicitur etiam mitti spiritualiter et invisibiliter ad aliquem, inquantum per sapientiae donum in eo incipit inhabitare: de qua missione dicitur Sap.
+	IX, 10: <hi>mitte illam</hi>, scilicet sapientiam, <hi>a sede magnitudinis tuae, ut mecum sit et mecum laboret</hi>.
+	Similiter etiam spiritus sanctus ad aliquem mitti dicitur, inquantum ipsum inhabitare incipit per donum caritatis, secundum illud Rom.
+	V, 5: <hi>caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis</hi>.
+	Si ergo in missione divinae personae consideretur auctoritas mittentis ad personam missam, sic sola persona potest aliam mittere a qua est persona missa: et secundum hoc pater mittit filium, et filius spiritum sanctum, non autem spiritus sanctus filium; et sic Athanasius loquitur.
+	Si autem in missione personae divinae consideretur effectus, ratione cuius persona mitti dicitur, cum effectus sit communis toti Trinitati (nam tota Trinitas operata est carnem Christi, et operatur sapientiam et caritatem in sanctis), tunc potest dici, quod persona mittitur a tota Trinitate; et sic intelligit Augustinus.
+	Sed tamen sciendum quod licet persona divina interdum secundum Augustinum dicatur mitti a persona a qua non procedit, non tamen persona quae a nullo procedit, potest dici quod mittatur.
+	Pater enim, quia a nullo est, a nullo mittitur, licet per aliquod novum gratiae donum hominem inhabitet, et ad hominem venire dicatur, secundum illud Ioan.
+	XIV, v. 23: <hi>pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus</hi>.
+	Sic ergo in persona quae mittitur, requiritur quod aeternaliter ab aliqua persona procedat, sed non est necessarium quod procedat aeternaliter ab illa persona a qua mittitur, sed sufficit quod ab illa persona sit effectus secundum quem mittitur.
+	Et hoc dico secundum modum quo Augustinus loquitur de missione.
+	Sed secundum Graecos, persona non mittitur nisi ab illa a qua procedit aeternaliter: unde filius non mittitur a spiritu sancto, nisi forte secundum quod est homo.
+	Propter quod Basilius auctoritates praedictas exponit, ut per spiritum intelligatur pater, secundum quod spiritus essentialiter sumitur, ut habetur Ioan.
+	IV, 24: <hi>Deus spiritus est</hi>; et sic etiam Hilarius exponit in Lib. de Trinitate.</p>
+</div2>
+<div2 n="15"><head>Caput 15</head>
+<A NAME="69102"/><p><emph>Quomodo intelligitur quod dicitur, quod spiritus sanctus vere per filium operatur.
+	Per filium operatur</emph></p>
+<p><A NAME="69103"/>Item dubium est quod Basilius dicit in libro contra Eunomium, quod <hi>spiritus sanctus vere per filium operatur</hi>: quod quidem videtur esse falsum.
+	Nam persona dicitur operari per illam quae ab ipsa est, sicut pater per filium, et non e converso.
+	Sed dicendum, quod spiritus sanctus dicitur operari per filium secundum naturam humanam, non autem secundum naturam divinam.</p>
+</div2>
+<div2 n="16"><head>Caput 16</head>
+<A NAME="69104"/><p><emph>Quomodo intelligitur quod Deus non habitaverit per gratiam in hominibus ante Christi incarnationem</emph></p>
+<p><A NAME="69105"/>Item dubium esse videtur quod dicit Athanasius ad Serapionem: <hi>impossibile erat secundum praedeterminationem divinae rationis ut Ecclesia Deum invisibilem formam et incorpoream immediate nudam reciperet; sed consubstantiavit se Deus eidem Ecclesiae, formam eius in se assumens</hi>.
+	Ex quo videtur quod ante Christi incarnationem Deus per gratiam in hominibus non habitaret.
+	Quod etiam quidam haeretici dicere praesumpserunt occasione illius quod dicitur Ioan.
+	VII, 11: <hi>nondum erat spiritus datus, quia nondum erat Iesus glorificatus</hi>.
+	Utrumque autem eodem modo est intelligendum.
+	Nam sicut dicitur quod spiritus sanctus non fuerit ante datus, quia non in tanta plenitudine datus fuerat, in quanta apostoli eum post Christi resurrectionem acceperunt, ita etiam Ecclesia in tanta plenitudine gratiae Deum accipere non potuit secundum ordinationem divinam, in quanta accepit per Christi incarnationem, quia <hi>gratia et veritas per Iesum Christum facta est</hi>, ut habetur Ioan.
+	I, 17.
+	Unde in sermone Nicaeni Concilii Athanasius dicit: <hi>equidem ipsos consummari et perfici impossibile est, nisi ego perfectum suscipiam hominem</hi>.
+	Quod eodem modo intelligendum est sicut et quod supra dictum est.
+	Ideo autem dicit <hi>secundum praedeterminationem divinam</hi>, quia possibile erat Deo alio modo quam per Christi incarnationem, perfectionem gratiae humano generi conferre, loquendo de potentia absoluta; sed non potuit humanum genus hanc plenitudinem aliter consequi, supposita Dei ordinatione.</p>
+</div2>
+<div2 n="17"><head>Caput 17</head>
+<A NAME="69106"/><p><emph>Quomodo intelligitur, essentiam divinam conceptam esse et natam</emph></p>
+<p><A NAME="69107"/>Item videtur esse dubium quod Athanasius dicit in epistola ad Serapionem, <hi>essentiam divinam increatam, conceptam esse et natam ex divina virgine matre</hi>.
+	Magister enim in III Sentent., dist.
+	VIII, dicit, quod <hi>quae res non est de patre genita, non videtur de matre esse nata, ne res aliqua filiationis nomen habeat in humanitate quae non habet in divinitate</hi>.
+	Et sic, cum divina essentia non sit nata de patre, non potest dici esse de matre.
+	Sed dicendum, quod sicut improprie essentia divina dicitur generans vel genita secundum generationem aeternam, inquantum essentia ponitur pro persona, ut intelligatur essentia generare, quia pater, qui est essentia generat; secundum eundem modum dicitur essentia divina nata de virgine, quia filius Dei, qui est divina essentia, est de virgine natus.</p>
+</div2>
+<div2 n="18"><head>Caput 18</head>
+<A NAME="69108"/><p><emph>Quomodo intelligitur cum dicitur deitas homo facta</emph></p>
+<p><A NAME="69109"/>Item potest esse dubium quod Athanasius dicit in eadem epistola: <hi>deitas homo facta, per suum spiritum sibi Ecclesiam conformavit</hi>.
+	Dicit enim Magister in quinta distinctione tertii libri sententiarum, quod non debet dici quod <hi>divina natura sit caro facta, sicut dicitur: verbum caro factum est</hi>.
+	Sic autem dicitur verbum caro factum est quia verbum homo factus est.
+	Non ergo debet dici quod divina essentia, sive divinitas, facta sit homo.
+	Sed dicendum, quod non dicitur divinitas esse facta homo quasi divina natura sit conversa in humanam, sed per illum modum quo dicitur quod natura divina assumpsit naturam humanam in una persona, scilicet verbi.
+	Sicut etiam Damascenus dicit, quod <hi>natura divinitatis in una suarum personarum incarnata est</hi>, idest carni unita.
+	Sciendum tamen, quod alia ratione dicitur quod verbum est homo, et quod divinitas est homo.
+	Cum enim dicitur, verbum est homo, est praedicatio per informationem; quia scilicet persona verbi est subsistens in humana natura.
+	Cum vero dicitur, divinitas est homo, non est praedicatio per informationem, quia humana natura non informat divinam, sed est praedicatio per identitatem; sicut etiam cum dicitur, essentia divina est pater, vel, essentia divina est filius: homo enim supponit pro persona filii, cum dicitur, divinitas est homo.
+	Et eadem ratio veritatis est cum dicitur, divinitas facta est homo, quia incepit esse persona filii incarnata, quod importatur in nomine hominis, licet non inceperit esse filii persona: semper enim deitas fuit filius, sed non semper fuit homo.</p>
+</div2>
+<div2 n="19"><head>Caput 19</head>
+<A NAME="69110"/><p><emph>Quomodo intelligitur quod filius Dei assumpsit humanam naturam in sua essentia</emph></p>
+<p><A NAME="69111"/>Item dubium videtur quod Athanasius dicit in III sermone Nicaeni Concilii de filio Dei loquens: <hi>in sua usia</hi>, idest essentia, <hi>nostram naturam a nobis assumpsit</hi>.
+	Cum enim assumptio ad unionem terminetur: sicuti unio non est facta in natura, sed in persona, ita non videtur quod humana natura sit assumpta in essentia filii.
+	Dicendum est ergo, quod locutio est impropria, et est sic exponenda: assumpsit naturam nostram in sua usia, idest ut esset unita suae usiae in una persona.</p>
+</div2>
+<div2 n="20"><head>Caput 20</head>
+<A NAME="69112"/><p><emph>Quomodo intelligitur cum dicitur, hominem esse assumptum</emph></p>
+<p><A NAME="69113"/>Item videtur esse dubium quod Athanasius dicit in eodem sermone, hominem esse assumptum, sic inquiens, ex persona filii loquens: <hi>pro pleno homine assumpto, plenum et perfectum hominibus donem spiritum sanctum Deum</hi>; et in epistola ad Serapionem: <hi>communio Ecclesiae est a patre per filium in spiritu sancto per deificum et Deum factum hominem ab eodem filio assumptum</hi>.
+	Sciendum est autem, quod cum nihil sumat seipsum, oportet semper esse diversum assumens et assumptum, sicut et recipiens et receptum.
+	Si ergo homo dicitur assumptus a filio Dei, oportet quod id quod supponitur nomine hominis, diversum sit ab eo quod supponitur in nomine filii Dei.
+	Nomine autem hominis potest supponi vel aliqua persona hominis completa, vel saltem aliquod suppositum hominis, non habens rationem personae.
+	Si ergo dicatur quod homo sit assumptus, secundum quod homo supponit pro aliqua persona humana, sic sequetur quod persona divina assumpsit humanam personam, et sic erunt duae personae in Christo: quod est haeresis Nestorianae; et ideo Augustinus dicit in Lib. de fide ad Petrum, quod <hi>Deus verbum non accepit personam hominis, sed naturam</hi>.
+	Quidam vero dixerunt, volentes hunc errorem vitare, quod cum dicitur homo assumptus a verbo, in nomine hominis intelligitur quoddam suppositum humanae naturae, quod est hic homo, non tamen est persona hominis, quia non est per se separatim existens, sed est unitum alicui digniori, scilicet filio Dei.
+	Et quia hoc suppositum hominis, quod significatur assumptum, cum dicitur homo assumptus, est aliud a supposito filii Dei, dicunt in Christo duo supposita, sed non duas personas.
+	Sed ad hanc positionem sequitur quod haec propositio non sit vera: filius Dei est homo.
+	Impossibile est enim quod duorum quorum unum est aliud secundum suppositum ab altero, unum de altero vere praedicetur.
+	Et ideo communiter tenetur, quod sit unum tantum suppositum, quod supponitur nomine hominis, et nomine filii Dei.
+	Ex quo sequitur quod haec sit falsa vel impropria: homo est assumptus; sed est exponenda: filius Dei assumpsit hominem, idest humanam naturam.</p>
+</div2>
+<div2 n="21"><head>Caput 21</head>
+<A NAME="69114"/><p><emph>Quomodo intelligitur quod dicitur, quod Deus fecit hominem Deum</emph></p>
+<p><A NAME="69115"/>Item dubium est de hoc quod Athanasius dicit in eadem epistola: <hi>filius Dei, ut hominem ad se reduceret, hominem in sua hypostasi assumens deificando Deum fecit</hi>; et in III sermone Nicaeni Concilii: <hi>ipsos consummari impossibile est, nisi ego perfectum suscipiam hominem, et deificem, et mecum Deum faciam</hi>.
+	Ex quibus datur intelligi quod haec sit vera: homo factus est Deus.
+	Sed sciendum, quod secundum illam opinionem quae in Christo dicit duo supposita, aequaliter utraque est vera: Deus factus est homo, et: homo factus est Deus.
+	Est enim sensus secundum eos, cum dicitur, Deus factus est homo: suppositum divinae naturae unitum est supposito humanae naturae; et e converso cum dicitur, homo factus est Deus, sensus est: suppositum humanae naturae est unitum filio Dei.
+	Sed tenendo quod in Christo sit unum tantum suppositum, haec est vera et propria: Deus factus est homo, quia ille qui fuit Deus ab aeterno, incepit esse homo ex tempore.
+	Haec autem non est vera proprie loquendo: homo factus est Deus; quia suppositum aeternum quod supponitur nomine hominis, semper fuit Deus; unde exponenda est sic: homo factus est Deus, idest, factum est ut homo sit Deus.</p>
+</div2>
+<div2 n="22"><head>Caput 22</head>
+<A NAME="69116"/><p><emph>Quomodo intelligitur amotam esse a Christo imaginem primi parentis</emph></p>
+<p><A NAME="69117"/>Item dubium est quod dicit Athanasius in praedicta epistola, ex persona Christi loquens: <hi>post resurrectionem amota a me omni imagine primi parentis, et abolita per trophaeum crucis, ego iam immortalis vos patri meo in filios adopto</hi>.
+	Sciendum est enim, quod imaginem primi parentis tripliciter aliquis potest habere.
+	Primo quidem quantum ad similitudinem naturae, sicut dicitur Genes.
+	V, 2: <hi>vixit Adam centum triginta annis, et genuit filium ad imaginem et similitudinem suam</hi>.
+	Secundo, quantum ad culpam, de quo dicitur I Corinth.
+	XV, 49: <hi>sicut portavimus imaginem terreni, ita portemus imaginem caelestis</hi>.
+	Tertio, secundum poenalitatem, sicut habetur Zach.
+	XIII, 5: <hi>homo agricola ego sum, quoniam Adam exemplum meum ab adolescentia mea</hi>.
+	Primam ergo Adae imaginem Christus assumpsit cum nostra natura, et nunquam deposuit; secundam vero nunquam habuit; tertiam assumpsit quidem, sed in resurrectione deposuit: et de hac loquitur Athanasius.</p>
+</div2>
+<div2 n="23"><head>Caput 23</head>
+<A NAME="69118"/><p><emph>Quomodo intelligitur quod dicitur, quod creatura non potest cooperari creatori</emph></p>
+<p><A NAME="69119"/>Item dubium esse videtur de hoc quod Athanasius in sermone Nicaeni Concilii dicit: <hi>aut quomodo creatura creatori cooperatur, intiment nobis</hi>.
+	Ex quo datur intelligi quod creatura creatori cooperari non possit: quod videtur esse falsum, cum sancti dicantur esse Dei adiutores et cooperatores, secundum apostolum.
+	Sed sciendum, quod aliquid dicitur cooperari alicui dupliciter.
+	Uno modo, quia operatur ad eundem effectum, sed per aliam virtutem; sicut minister cooperatur domino, dum eius praeceptis obedit, et instrumentum artifici, a quo movetur.
+	Alio modo dicitur aliquid cooperari alicui, inquantum operatur eandem operationem cum ipso: sicut si diceretur de duobus portantibus aliquod pondus, vel de pluribus trahentibus navem, quod unus alteri cooperetur.
+	Secundum ergo primum modum creatura potest dici creatori cooperari quantum ad aliquos effectus, qui fiunt mediante creatura: non tamen quantum ad illos effectus qui sunt immediate a Deo, ut creatio et sanctificatio.
+	Secundo autem modo creatura creatori non cooperatur, sed solum tres personae sibi invicem cooperantur, quia earum est operatio una; non autem ita quod quaelibet earum partem virtutis possideat, per quam operatio completur, sicut accidit in multis trahentibus navem: sic enim cuiuslibet virtus esset imperfecta; sed ita quod tota virtus ad operationem sufficiens est in qualibet trium personarum.</p>
+</div2>
+<div2 n="24"><head>Caput 24</head>
+<A NAME="69120"/><p><emph>Quomodo intelligitur quod dicitur, creaturam creatori non esse propriam</emph></p>
+<p><A NAME="69121"/>Item dubium videtur esse quod Basilius contra Arrium dicit, quod creatura increato non est propria: quod est contra id quod dicitur Ioannis I, 11: <hi>in propria venit</hi>.
+	Sed hoc solvit Gregorius in quadam homilia dicens, quod creatura est propria Dei secundum potestatem, aliena vero secundum naturam, idest alterius naturae a Deo existens.</p>
+</div2>
+<div2 n="25"><head>Caput 25</head>
+<A NAME="69122"/><p><emph>Quomodo intelligitur quod in Angelis, quantum ad naturam, non dicimus esse secundum et tertium</emph></p>
+<p><A NAME="69123"/>Item dubium est quod Basilius dicit contra Eunomium: <hi>in Angelis ordinatum dicimus unum principem, alium autem subiectum in natura, tamen non dicimus secundum et tertium</hi>.
+	Ex quo videtur quod omnes in natura sunt aequales a Deo creati, ut posuit Origenes.
+	Apud nos autem dicitur, quod sicut differunt in donis gratiarum, ita et in naturalibus bonis.
+	Sed dicendum, quod dicit Basilius, in Angelis non esse quantum ad naturam secundum et tertium, non est intelligendum quod unus non sit perfectioris naturae quam alius, sed quia omnes communicant in una generis natura, licet non in natura speciei.</p>
+</div2>
+<div2 n="26"><head>Caput 26</head>
+<A NAME="69124"/><p><emph>Quomodo intelligitur quod dicitur, quod docente Paulo etiam Seraphim addiscunt</emph></p>
+<p><A NAME="69125"/>Item dubium est quod dicit Cyrillus in libro thesaurorum, quod <hi>docente Paulo non solum humana ratio addiscit, verum etiam et Seraphim supernis mysteria cordis paterni occulta reserantur</hi>.
+	Ex quo videtur quod ad Angelos etiam summos cognitio deveniat per homines.
+	Et videtur hoc esse dictum propter id quod habetur Ephes.
+	III, 8: <hi>mihi omnium sanctorum minimo data est gratia haec, in gentibus evangelizare investigabiles divitias gratiae Christi ut innotescat principibus et potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei</hi>.
+	Sed contrarium huius docet Dionysius in IV cap. angelicae hierarchiae, ostendens quod cognitio divinorum prius ad Angelos quam ad homines pervenit; et in VII eiusdem libri capitulo dicit, quod Seraphim immediate a Deo edocentur.
+	Et Augustinus dicit super Genesim ad litteram, quod non latuit Angelos mysterium regni caelorum, quod opportuno tempore revelatum est pro nostra salute.
+	Et ideo dicendum est quod cum Angelorum non sit futura praenoscere, sed Dei solius, licet Angeli ipsum mysterium nostrae redemptionis a saeculis cognoverint, ut Augustinus dicit, tamen aliquas huius redemptionis circumstantias nesciverunt plene quandiu erant futura, sed eis completis, eorum notitiam acceperunt, sicut et aliorum quae praesentialiter fiunt.
+	Non ergo sic intelligendum est quod docente Paulo mysteria divina supernis Seraphim sint revelata, quasi ipsi a Paulo didicerint, sed quia Paulo praedicante, et aliis apostolis, perficiebantur ea quae praesentialiter Angeli cognoscebant, et futura ignoraverant.
+	Et hoc sonant verba Hieronymi dicentis, <hi>angelicas dignitates praefatum mysterium ad purum non intellexisse, donec completa est passio Christi, et apostolorum praedicatio per gentes dilatata</hi>.</p>
+</div2>
+<div2 n="27"><head>Caput 27</head>
+<A NAME="69126"/><p><emph>Quomodo intelligitur cum dicitur, quod spiramen quod spiravit Deus in faciem hominis, non est anima rationalis, sed spiritus sancti effusio</emph></p>
+<p><A NAME="69127"/>Item dubium est quod Cyrillus dicit, quod cum dicitur Genes.
+	I, quod <hi>spiravit Deus in faciem hominis spiraculum vitae, ut fieret homo in animam viventem: ipsum spiramen non dicimus animam: si enim esset anima inconvertibilis esset et non peccaret, quia de essentia esset divina: sed sancti spiritus effusionem in ipso principio superpositam humanae animae dixit Moyses</hi>; quod est contra expositionem Augustini, qui animam humanam per illud spiramen ponit, et ostendit quod non propter hoc sequitur quod sit de substantia divina.
+	Est enim tropica locutio, ut dicatur inspirasse non corporaliter, sed quia spiritum, idest animam, fecit ex nihilo.
+	Et quod est amplius, videtur esse repugnans dictis apostoli, qui I ad Cor.
+	XV, 45, dicit: <hi>factus est primus homo Adam in animam viventem; novissimus Adam in spiritum vivificantem; sed non prius quod spirituale est, sed quod animale</hi>.
+	Ubi expresse illam vitam animae dicit esse aliam a vita quae est per spiritum sanctum: unde illa inspiratio per quam dicitur homo factus in animam viventem, non potest de gratia spiritus sancti intelligi.
+	Unde dicendum est, quod expositio Cyrilli non potest esse litteralis, sed solum allegorica.</p>
+</div2>
+<div2 n="28"><head>Caput 28</head>
+<A NAME="69128"/><p><emph>Quomodo intelligitur quod qui semel blasphemat, impossibile est non blasphemare</emph></p>
+<p><A NAME="69129"/>Item dubium esse potest de hoc quod Athanasius in epistola ad Serapionem dicit, quod Arianos qui non semel tantum, sed pluries blasphemarunt, impossibile est non blasphemare: quod videtur esse libertati arbitrii repugnans.
+	Sed dicendum, quod impossibile hic pro difficili sumitur, quae difficultas ex consuetudine provenit; sicut et Ier.
+	XIII, 23, dicitur: <hi>si mutare potest Aethiops pellem suam, et vos poteritis benefacere, cum didiceritis malum</hi>.</p>
+</div2>
+<div2 n="29"><head>Caput 29</head>
+<A NAME="69130"/><p><emph>Quomodo intelligitur quod dicitur, quod fides non sit praedicabilis</emph></p>
+<p><A NAME="69131"/>Item dubium est quod Chrysostomus dicit in sermone de fide, quod fides est non praedicabilis.
+	Sed intelligendum est, idest per praedicationem non perfecte explicabilis.</p>
+</div2>
+<div2 n="30"><head>Caput 30</head>
+<A NAME="69132"/><p><emph>Quomodo intelligitur quod dicitur, quod fides non sit nobis ministrata per Angelos</emph></p>
+<p><A NAME="69133"/>Item dubium est de hoc quod Athanasius dicit quod <hi>fides nobis administrata est non ab Angelis, neque a signis et portentis</hi>; cum dicatur Hebr.
+	II, 4, quod fides annuntiata est <hi>contestante Deo signis et portentis</hi>.
+	Sed intelligendum est, quod fides nostra non habet auctoritatem neque ab Angelis, neque ab aliquibus miraculis factis, sed a revelatione patris per filium et spiritum sanctum; licet et Angeli ea quae sunt fidei nostrae revelaverint aliquibus, ut Zachariae, et Mariae, et Ioseph; et etiam ad fidei robur miracula plurima facta sint.</p>
+</div2>
+<div2 n="31"><head>Caput 31</head>
+<A NAME="69134"/><p><emph>Quomodo intelligitur quod dicitur littera mortalis etiam novi testamenti</emph></p>
+<p><A NAME="69135"/>Item dubium est quod Athanasius dicit in epistola ad Serapionem: <hi>littera mortalis haec est: ab initio et ante saecula,</hi> etc.; et subiungit multa testimonia de veteri et novo testamento.
+	Littera autem legis novae non videtur esse littera mortis, sic enim non differret a littera veteris legis, de qua dicitur II Cor.
+	III, 6, quod <hi>littera occidit</hi>.
+	Sed dicendum, quod neque littera novi testamenti neque veteris occidit nisi per occasionem.
+	Sed occasionem mortis ex littera accipiunt aliqui dupliciter.
+	Uno modo inquantum ex littera sacra accipiunt occasionem erroris; et hoc est commune tam litterae veteris testamenti, quam novi: unde et Petrus dicit, II canonicae, ult. 16, quod in epistolis Pauli <hi>sunt quaedam difficilia intellectu, quae indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam damnationem</hi>.
+	Alio modo inquantum ex praeceptis in littera sacrae Scripturae contentis sumitur occasio male vivendi, dum per prohibitionem concupiscentia augetur, et gratia adiuvans non confertur; et sic littera veteris testamenti dicitur mortalis, non autem littera novi.</p>
+</div2>
+<div2 n="32"><head>Caput 32</head>
+<A NAME="69136"/><p><emph>Quomodo intelligitur quod sola definitio Nicaeni Concilii est unica et vera possessio fidelium</emph></p>
+<p><A NAME="69137"/>Item dubium est de hoc quod dicit Athanasius in eadem epistola quod <hi>sola paterna definitio Nicaeni Concilii, emuncta a spiritu et non littera, est unica et vera possessio orthodoxorum</hi>.
+	Posset enim aliquis intelligere, quod definitio dicti Concilii, auctoritate praeferatur litterae veteris, vel novi testamenti, quod est omnino falsum.
+	Intelligendum est autem quod per dictum Concilium verus intellectus ex sacra Scriptura est acceptus quem soli Catholici habent, licet littera sacrae Scripturae sit communis Catholicis et haereticis et Iudaeis.</p>
+</div2></div1>
+<div1 n="2"><head>Pars 2</head>
+<div2 id="pro"><head>Prooemium</head>
+<p><A NAME="69138"/>His igitur expositis, ostendendum est quomodo ex auctoritatibus in praedicto libello contentis vera fides docetur, et contra errores defenditur.
+	Considerandum siquidem est, quod <hi>in hoc apparuit filius Dei, ut dissolvat opera Diaboli</hi>, ut dicitur I Ioan.
+	III, 8, unde et Diabolus versa vice ad hoc totum suum conatum apposuit et apponit, ut ea quae sunt Christi, dissolvat.
+	Quod quidem primo per tyrannos facere tentavit, Christi martyres corporaliter occidentes; sed postmodum per haereticos, per quos spiritualiter plurimos interfecit.
+	Unde si quis diligenter inspiciat haereticorum errores, ad hoc principaliter videntur tendere, ut Christi derogent dignitati.
+	Derogavit namque dignitati Christi Arrius, dum filium Dei coessentialem patri esse negavit, eum asserens creaturam.
+	Derogavit et Macedonius, qui dum spiritum sanctum creaturam esse dixit, filio subtraxit auctoritatem spirandi divinam personam.
+	Derogavit et Manichaeus: qui dum visibilia a malo Deo creata asseruit, per filium omnia esse creata negavit.
+	Dissolvit et quae sunt Christi, Nestorius, qui dum aliam personam esse filii hominis, et aliam filii Dei docuit, Christum esse aliquid unum negavit.
+	Dissolvit et Eutyches, qui dum ex duabus naturis, divina scilicet et humana, in Christi incarnatione unam conficere voluit, utramque subtraxit: quod enim ex duobus conficitur, neutrum eorum veraciter dici potest.
+	Dissolvit et Pelagius, qui dum gratia nos non indigere ad capessendam salutem confixit, adventum filii Dei in carnem frustravit: <hi>gratia enim et veritas per Iesum Christum facta est</hi>: Ioan.
+	I, 17.
+	Derogavit et Christo Iovinianus, qui dum virgines in coniugio viventibus aequavit, dignitati Christi detraxit, qua eum natum de virgine confitemur.
+	Derogavit et Vigilantius, qui dum paupertatem pro Christo susceptam impugnavit, perfectioni, quam Christus servavit et docuit, contradixit; unde non immerito dicitur I Ioan.
+	IV, 3: <hi>omnis spiritus qui solvit Iesum, ex Deo non est, et hic est Antichristus</hi>.
+	Sic ergo et in hoc tempore aliqui esse dicuntur qui solvere Christum tentant, eius dignitatem quantum in ipsis est minuentes.
+	Dum enim dicunt spiritum sanctum a filio non procedere, eius dignitatem minuunt, qua simul cum patre est spiritus sancti spirator.
+	Dum vero unum caput Ecclesiae esse negant, sanctam scilicet Romanam Ecclesiam, manifeste unitatem corporis mystici dissolvunt: non enim potest esse unum corpus, si non fuerit unum caput, neque una congregatio, si non fuerit unus rector; unde Ioan.
+	X, 16, dicitur: <hi>fiet unum ovile et unus pastor</hi>.
+	Dum vero sacramentum altaris ex azymis posse confici negant, manifeste ipsi Christo repugnant, qui prima die azymorum, quando nihil fermentatum secundum legem debebat in Iudaeorum domibus inveniri, Evangelistae tradunt eum hoc sacramentum instituisse.
+	Videntur etiam et puritati ipsius sacramentalis corporis Christi derogare, ad quam apostolus fideles exhortatur, dicens, I ad Corinth.
+	V, 8, quod non est epulandum <hi>in fermento malitiae et nequitiae, sed in azymis sinceritatis et veritatis</hi>.
+	Huius etiam sacramenti virtutem minuunt dum Purgatorium negant, quod in Ecclesia communiter pro vivis et mortuis consecratur; cum, Purgatorio sublato, in mortuis nullam efficaciam possit habere.
+	Non enim prodest his qui sunt in Inferno, ubi nulla est redemptio; neque illis qui sunt in gloria, qui suffragiis nostris non egent.
+	Quomodo igitur ex praemissis auctoritatibus errores huiusmodi confutentur, breviter ostendam, incipiens prius a processione spiritus sancti.</p>
+</div2>
+<div2 n="1"><head>Caput 1</head>
+<A NAME="69139"/><p><emph>Quod spiritus sanctus est spiritus filii</emph></p>
+<p><A NAME="69140"/>Ad ostendendum autem quod spiritus sanctus a patre procedat et filio, primo sumendum est quod etiam ab ipsis errantibus negari non potest, cum expresse auctoritate Scripturae probetur: quod scilicet spiritus sanctus sit spiritus filii.
+	Dicitur enim ad Galat.
+	IV, 6: <hi>quoniam estis filii Dei, misit Deus spiritum filii sui in corda vestra clamantem, abba, pater</hi>; et Rom.
+	IIII, 9: <hi>si quis spiritum Christi non habet, hic non est eius</hi>; et actuum XVI, 1: <hi>cum venissent Misiam, tentabant ire in Bithyniam; et non permisit eos spiritus Iesu</hi>.
+	Dicitur etiam I Corinth.
+	II, 16: <hi>nos autem sensum Christi habemus</hi>; quod de spiritu sancto necesse est intelligi, ut patet per ea quae ab apostolo praemittuntur.
+	Nominatur etiam spiritus sanctus, spiritus veritatis, Ioan.
+	XV, 26, ubi dicitur: <hi>cum venerit Paraclitus, quem mittam vobis a patre, spiritum veritatis</hi> et spiritus vitae, Rom.
+	VIII, 2: <hi>lex spiritus vitae in Christo Iesu</hi>; unde cum filius de se dicat, Ioan.
+	XIV, 6: <hi>ego sum via, veritas et vita</hi>, concludunt doctores Graecorum, quod sit spiritus Christi; quod similiter adstruunt ex hoc quod habetur in Psal.
+	XXXII, 6: <hi>verbo domini caeli firmati sunt, et spiritu oris eius omnis virtus eorum</hi>.
+	Nam os patris filius dicitur, sicut et verbum.
+	Sed ne aliquis posset dicere, quod alius sit spiritus qui a patre procedit, et alius qui est filii, ostenditur ex Scriptura, quod idem spiritus sanctus sit patris et filii.
+	Nam Ioan.
+	XV, 11, simul dicitur: <hi>spiritus veritatis et qui a patre procedit</hi>; et Rom.
+	VIII, 9, postquam dixerat: <hi>si spiritus Dei habitat in vobis</hi>, statim subiungit: <hi>si quis spiritum Christi non habet</hi>, ut ostendat eundem esse spiritum patris et filii.
+	Unde Basilius dicit contra Eunomium, postquam praedicta verba apostoli induxerat: <hi>ecce in patre et filio, et patris et filii, unum spiritum vidit</hi>, scilicet apostolus; et Theodoretus dicit super Epist. ad Rom., exponens idem verbum apostoli: <hi>communis est patris et filii spiritus sanctus</hi>.
+	Quaerendum est ergo, quomodo spiritus sanctus sit spiritus filii, vel spiritus Christi.
+	Potest autem aliquis dicere, quod est spiritus Christi quasi in homine Christo plenarie inhabitans, secundum illud Luc.
+	IV, 1: <hi>Iesus plenus spiritu sancto regressus est a Iordane; de cuius plenitudine nos omnes accepimus</hi>, ut dicitur Ioan.
+	I, 16.
+	Haec autem responsio sustineri non potest, ut scilicet hac tantum ratione spiritus sanctus spiritus Christi dicatur.
+	Invenitur enim a doctoribus Graecorum, quod spiritus sanctus sit naturalis spiritus filii.
+	Dicit enim Athanasius in sermone III Nicaeni Concilii: <hi>sicut in Christo vivit nostra natura deifice, et ipse in ea regnat; ita et nos in suo naturali spiritu simus, vivamus et regnemus</hi>.
+	Idem in epistola ad Serapionem: <hi>accepistis spiritum adoptionis, idest naturalem spiritum de natura naturalis filii</hi>.
+	Et Cyrillus dicit super Ioan.: <hi>existit siquidem filius in proprio genitore, habens in se ipsum gignentem se</hi>.
+	Et sic patris spiritus, veraciter et naturaliter filii videtur et est spiritus.
+	Spiritus autem non est naturalis Christo secundum humanitatem, quia non pertinet ad naturam humanitatis, sed gratis a Deo in natura humanitatis effunditur.
+	Non igitur potest propter hoc dici spiritus filii, quia Christum excellenter replevit secundum humanitatem.
+	Item Athanasius dicit in sermone de incarnatione verbi, quod <hi>ipse Christus mittebat spiritum e sursum sicut Deus filius, et ipse deorsum accipiebat spiritum ut homo.
+	Ex ipso igitur in ipsum habitat de divinitate eius, in humanitate eiusdem</hi>.
+	Non solum ergo spiritus sanctus est spiritus Christi quia humanitatem eius replevit, sed magis quia est ex divinitate ipsius.
+	Potest autem aliquis dicere, quod spiritus sanctus est filii secundum deitatem, sicut a filio Dei datus et missus, non autem sicut a filio personaliter et aeternaliter existens.
+	Sed hoc etiam stare non potest.
+	Dicit enim Cyrillus super Ioannem: <hi>proprius est spiritus sanctus Dei et patris; sed non est minus ipsius Dei filii, non tanquam alius et alius spiritus</hi>.
+	Idem dicit in exhortatorio sermone ad Theodosium imperatorem: <hi>spiritus sanctus sicut est proprius patris, a quo procedit; sic et in veritate est et ipsius filii</hi>.
+	Si ergo patris est, non solum quia ab ipso temporaliter datur et mittitur, sed etiam quia ab ipso aeternaliter existit; eadem etiam ratione et filii erit, quasi ab eo aeternaliter existens.
+	Item Cyrillus dicit super Ioan. <hi>Veracissimus fructus essentiae ipsius filii existit ipse spiritus</hi>; est igitur filii, quasi a filio essentiam habens.
+	Patet ergo quod ex hoc quod spiritum sanctum spiritum Christi confitentur, necesse est quod ulterius dicatur esse a filio ab aeterno.</p>
+</div2>
+<div2 n="2"><head>Caput 2</head>
+<A NAME="69141"/><p><emph>Quod filius mittit spiritum sanctum</emph></p>
+<p><A NAME="69142"/>Similiter autem patet ex auctoritate sacrae Scripturae quod filius mittit spiritum sanctum.
+	Dicitur enim Ioan.
+	XV, v. 26: <hi>cum venerit Paraclitus, quem ego mittam vobis a patre</hi>, etc., et XVI, 7: <hi>si enim non abiero, Paraclitus non veniet ad vos.
+	Si autem abiero, mittam eum ad vos</hi>.
+	Habetur etiam ex auctoritate Scripturae, quod pater dat spiritum sanctum: Ioan.
+	XIV, 16: <hi>ego rogabo patrem, et alium Paraclitum dabit vobis</hi>.
+	Sed quod et filius det eundem spiritum sanctum patet; dicitur enim Ioan.
+	XX, v. 22, quod post resurrectionem dominus discipulis insufflavit, et dixit eis: <hi>accipite spiritum sanctum</hi>; quod etiam Athanasius confitetur in sermone Nicaeni Concilii, dicens ex persona filii loquens: <hi>quomodo erunt consummati ipsi, nisi ego verbum tuum consummem</hi>, idest perfectum assumam, <hi>et perficiam in me hominem, et eis mihi aequalem per omnia mihi cooperantem donem spiritum sanctum?</hi> Et idem in epistola ad Serapionem: <hi>hunc spiritum sanctum a filio te recepisse credo, o sancte consacerdos</hi>.
+	Dicit autem idem Athanasius in eadem epistola: <hi>hic est ordo naturae divinae a patre in filio: ut qui a nullo est, a nullo mittatur; et qui est ab alio, in nomine suo non veniat, sed in nomine illius a quo existit.
+	Ita et spiritus sanctus, qui a se non est, a se venire non debuit; sed in nomine illius a quo est, et a quo habet ut hypostasi sit Deus: quemadmodum de eo dicit filius: Paraclitus spiritus sanctus, quem mittet pater in nomine meo</hi>.
+	Patet ergo quod ex hoc quod spiritus sanctus mittitur a filio, sequitur quod a filio existat aeternaliter, et ab eo habeat quod sit Deus.
+	Item Niceta dicit super Ioan.
+	V: <hi>non alia proprietate pater mittit spiritum, qua proprietate non mittat filius; vel aliqua alia proprietate filius mittit spiritum qua, non mittit et pater</hi>.
+	Ex quo patet quod eadem proprietate et ratione pater et filius mittunt spiritum sanctum.
+	Si ergo pater mittit spiritum quasi ab ipso aeternaliter existentem; et similiter filius spiritum sanctum mittet quasi de se aeternaliter existentem.
+	Item Athanasius dicit in sermone Nicaeni Concilii, ex persona filii loquens: <hi>sicut me perfectum genuisti Deum, et perfectum me assumere fecisti hominem; sic ex te et ex mea essentia da eis perfectum spiritum sanctum</hi>.
+	Idem dicit in epistola ad Serapionem: <hi>sicut in filio Dei nostra sibi unita manet natura, quam de nobis assumpsit; ita et ipse manet in nobis per suum spiritum coessentialem sibi, quem de sua essentia essentialiter spirat et donat nobis</hi>.
+	Idem dicit in sermone de incarnatione verbi, quod <hi>datus est spiritus sanctus discipulis de plenitudine deitatis</hi>.
+	Item Niceta super Ioan. dicit: <hi>filius spiritum sanctum ex se dat ut pater</hi>.
+	Ex quibus omnibus accipitur quod non solum sic dicitur spiritus a filio dari vel mitti, inquantum donum gratiae, per quod spiritus sanctus nos inhabitat, est a filio; sed inquantum ipse spiritus sanctus est a filio.
+	Impossibile est enim quod donum gratiae, cum sit quoddam creatum, sit ex essentia filii, sed spiritus sanctus coessentialis est filio: unde de essentia filii dari potest vel mitti.
+	Item a nullo potest dari nisi quod eius est.
+	Spiritus ergo sanctus ab eo datur cuius est, sicut habetur I Ioannis IV, 13: <hi>in hoc cognoscimus quoniam in eo manemus, et ipse in nobis, quia de spiritu suo dedit nobis</hi>.
+	Si ergo filius mittit vel dat spiritum sanctum, oportet quod sit spiritus eius.
+	Ex hoc autem quod est spiritus eius, sequitur quod ab eo sit aeternaliter, sicut ostensum est.
+	Ex hoc ergo quod filius mittit vel dat spiritum sanctum, sequitur quod ab eo similiter aeternaliter existat.</p>
+</div2>
+<div2 n="3"><head>Caput 3</head>
+<A NAME="69143"/><p><emph>Quod spiritus sanctus accipit de eo quod est filii</emph></p>
+<p><A NAME="69144"/>Ulterius autem ex auctoritate sacrae Scripturae habetur quod spiritus sanctus accipiat de eo quod est filii.
+	Dicitur enim Ioan.
+	XVI, 14: <hi>ille me clarificabit, quia de meo accipiet, et annuntiabit vobis</hi>.
+	Potest autem aliquis dicere, quod spiritus sanctus licet accipiat id quod est filii, non tamen accipit a filio: accipit enim essentiam patris a patre, quae quidem essentia est etiam filii, et pro tanto dicit filius, quod <hi>de meo accipiet</hi>; quod videtur innui ex consequentibus domini verbis; subdit enim, quasi se exponens: <hi>omnia quaecumque habet pater, mea sunt: propterea dixi vobis, quia de meo accipiet</hi>.
+	Sed ex hac domini expositione de necessitate concluditur, quod spiritus sanctus a filio accipiat.
+	Si enim omnia quae sunt patris, sunt etiam filii, oportet quod auctoritas patris, secundum quam est principium spiritus sancti, sit etiam filii.
+	Sicut ergo spiritus sanctus accipit de eo quod est patris a patre, ita accipit de eo quod est filii, a filio; hinc est quod Athanasius dicit in epistola ad Serapionem: <hi>de sua propria essentia spiritum sanctum existentem Deum de se essentialiter suis apostolis et suae sponsae Ecclesiae demonstrando Christus affirmavit, sic dicens: de meo accipiet; idest ut de mea essentia habet ut sit Deus; sic a me habet et esse et loqui</hi>.
+	Item Athanasius in sermone Nicaeni Concilii: <hi>spiritus sanctus quidquid habet, habet a verbo Dei</hi>; et in epistola ad Serapionem dicit: <hi>spiritus sanctus est coessentialis filio, a quo habet omnia quaecumque habet</hi>.
+	Idem in eadem epistola: <hi>filius ait: ille, scilicet spiritus sanctus, me glorificabit; idest, in se meam, ut habet a me, deitatem, me gloriosum Deum demonstrabit; sicut et ego glorifico patrem meum, idest sicut in me ab ipso eius habeo deitatem</hi>.
+	Et Basilius contra Eunomium dicit: <hi>denominatio a patre transit in filium, ut de Deo patre sit Deus filius, ex domino dominus, ex omnipotente omnipotens, ex sapiente sapientia, ex summe loquente verbum, ex virtute virtus: verus filius denominationes patris habet in se.
+	Ita etiam et spiritus sanctus est dominus et Deus omnipotens, sapiens, virtus; naturaliter sumens habet a domino Deo patre et filio, a quo est et datur</hi>.
+	Patet autem quod per hoc quod filius habet deitatem (et quidquid habet) a patre, aeternaliter est a patre.
+	Spiritus ergo sanctus est aeternaliter a patre et filio sicut ab eis accipiens deitatem et quidquid habet.</p>
+</div2>
+<div2 n="4"><head>Caput 4</head>
+<A NAME="69145"/><p><emph>Quod filius operatur per spiritum sanctum</emph></p>
+<p><A NAME="69146"/>Habetur etiam ex auctoritate sacrae Scripturae quod filius operetur in spiritu sancto, vel per spiritum sanctum.
+	Dicit enim apostolus, Roman.
+	XV, 19: <hi>non audeo aliquid loqui eorum quae non per me efficit Christus in obedientiam gentium, verbo et factis, in virtute signorum et prodigiorum, in virtute spiritus sancti</hi>; et I Corinth.
+	II, 10: dicitur <hi>nobis revelavit Deus per spiritum suum</hi>.
+	Est autem spiritus patris et filii.
+	Pater ergo et filius per spiritum sanctum revelando operantur.
+	Hinc est quod Athanasius dicit in epistola ad Serapionem: <hi>filius Dei illuminando nos praeveniens, et iustificando in fide corroborans, et Scripturas reserando donis suae sapientiae nos replens, non in alieno, et non suo spiritu dona concedit, remittens peccata, et charismatibus nos imbuens; sed potius in suo proprio spiritu sancto</hi>.
+	Cyrillus etiam dicit in sermone dogmatum Dei, quod <hi>filius proprium habet in se essentialiter spiritum sanctum, et ex se naturaliter missum, in quo operatus est divina miracula, tanquam in propria et vera sua virtute</hi>.
+	Ex hoc autem quod filius operatur per spiritum sanctum, de necessitate concluditur quod spiritus sanctus sit a filio.
+	Potest enim dici aliquis per aliquid operari dupliciter.
+	Uno modo ex eo quod illud per quod operatur, est sibi principium et causa operandi, sive efficiens et movens, sicut dicitur balivus operari per regem; sive causa formalis, sicut dicitur homo per artem operari.
+	Alio modo ita quod id per quod operatur, sit causa operato, et non operanti, sicut cum dicitur rex operari per balivum, et artifex operari per instrumentum: et tunc oportet quod e converso operans sit principium operandi ei per quod operatur, sicut rex balivo, et artifex instrumento.
+	Cum autem dicitur filius per spiritum sanctum operari, non potest intelligi quod spiritus sanctus sit principium operandi filio, quia filius a spiritu sancto non accipit.
+	Relinquitur ergo quod filius sit principium operandi spiritui sancto: quod quidem esse non potest nisi per hoc quod dat ei virtutem operativam.
+	Non autem dat ei tanquam prius non habenti: sic enim daret ei tanquam indigenti, et sequeretur quod spiritus sanctus esset filio minor.
+	Relinquitur ergo quod ab aeterno ei dederit.
+	Nec est aliud virtus operativa spiritus sancti quam eius essentia, cum spiritus sanctus sit simplex, sicut et pater.
+	Relinquitur ergo quod ab aeterno filius essentiam divinam spiritui sancto dederit.
+	Et hoc expresse ostendit Athanasius in epistola ad Serapionem: <hi>sicut pater per filium, et in filio a se deoriginato operatur naturaliter, et non e converso; ita et filius in spiritu sancto a se deoriginato naturaliter operatur tanquam in sua propria virtute, et non e converso</hi>.</p>
+</div2>
+<div2 n="5"><head>Caput 5</head>
+<A NAME="69147"/><p><emph>Quod spiritus sanctus sit imago filii</emph></p>
+<p><A NAME="69148"/>Habetur etiam ex auctoritate sacrae Scripturae quod spiritus sanctus sit imago filii, secundum expositiones doctorum Graecorum, ut supra dictum est: quod, hoc quod dicitur Roman.
+	VIII, 11: <hi>quos praescivit conformes fieri imaginis filii sui</hi> etc., et iterum quod I Corinth.
+	XV, 49: <hi>sicut portavimus imaginem terreni, ita portemus imaginem caelestis</hi>, exponunt imaginem filii spiritum sanctum esse dicentes.
+	Hinc est quod Athanasius dicit in epistola ad Serapionem, ex persona filii Dei loquens: <hi>accipite ipsam imaginem meam spiritum scilicet sanctum</hi>; et Gregorius Caesariensis dicit: <hi>spiritus sanctus est imago filii perfecti</hi>.
+	Constat autem quod imago deducitur ab eo cuius est imago.
+	Ex hoc ergo quod spiritus sanctus est imago filii, sequitur quod spiritus sanctus sit a filio.
+	Posset autem aliquis dicere, quod est imago filii, inquantum assimilatur filio secundum aliquem effectum quem facit, sicut et filius: vel quia est a patre, sicut filius.
+	Sed hoc excluditur per auctoritates sanctorum, quae spiritum sanctum naturalem imaginem filii esse dicunt.
+	Non enim potest dici imago naturalis filii spiritus sanctus, nisi inquantum secundum naturam filio similatur, accipiens a filio naturam.
+	Semper enim oportet quod forma imaginis proveniat a forma eius cuius est imago.
+	Hinc est quod Athanasius in praedicta epistola dicit: <hi>quemadmodum consubstantiavit Deus Ecclesiae, formam eius in se assumens; ita ipsam eandem sua imagine naturali, scilicet spiritu sancto de sua essentia naturaliter existente, deifice et superabunde insignivit</hi>; et Cyrillus in libro thesaurorum: <hi>qui recipit filii imaginem naturalem, hoc est spiritum sanctum, habet veraciter per ipsum spiritum eundem filium, et filii patrem.
+	Quomodo ergo connumerabitur creaturis spiritus sanctus, cum sit naturalis et incommutabilis imago filii Dei?</hi> Item Basilius dicit contra Eunomium: <hi>naturalis filii imago est spiramen eius spiritus</hi>.</p>
+</div2>
+<div2 n="6"><head>Caput 6</head>
+<A NAME="69149"/><p><emph>Quod est character filii</emph></p>
+<p><A NAME="69150"/>Secundum vero rationem eandem dicunt praedicti doctores, quod spiritus sanctus sit character filii.
+	Dicit enim Athanasius in praefata epistola quod <hi>filius spiritum sanctum tanquam characterem et suam imaginem ad reformandam Ecclesiam et sibi deifice conformandam transfundendo impressit</hi>; et Basilius dicit in libro contra Arium et Sabellium: <hi>sicut filius acquisivit nos patri, ex patre ipse idem: sic et spiritus acquirit nos filio per fidem, imprimens nobis characterem filii in Baptismate, a quo filio existit, et eius spiritus et character praedicatur verus</hi>.</p>
+</div2>
+<div2 n="7"><head>Caput 7</head>
+<A NAME="69151"/><p><emph>Item quod est sigillum filii</emph></p>
+<p><A NAME="69152"/>Similiter etiam dicunt, quod spiritus sanctus sit sigillum filii.
+	Dicit enim Athanasius in praedicta epistola: <hi>equidem spiritus sanctus est unctio et sigillum impressivum imaginis in se habitae: in quo spiritu vere tanquam in suo sigillo, idest imagine suae naturae, consignat et characterizat imprimendo ipsam suam imaginem Deus verbum Ecclesiae sponsae suae</hi>; et infra: <hi>Christus in suo proprio spiritu ungit et superungit, et eo tanquam suo sigillo continente ipsius essentiam se imprimit Ecclesiae suae sponsae</hi>.
+	Et Chrysostomus dicit super epistolam ad Romanos: <hi>si spiritus est sigillum et caracter Christi; qui non habet sigillum et characterem Christi, hic non est ipsius Christi</hi>.
+	Constat autem quod character et sigillum derivantur ab eo cuius sunt.
+	Unde per auctoritates doctorum dictorum aperte ostenditur, quod spiritus sanctus a filio derivatur.
+	Horum autem auctoritates etiam ex auctoritate sacrae Scripturae confirmantur.
+	Dicitur II Corinth.
+	I, 21: <hi>unxit nos Deus, et signavit nos, et dedit pignus spiritus in cordibus nostris</hi>; quod quidem de patre et filio intelligi oportet; cum uterque spiritum sanctum det, ut ostensum est; et ad Ephes.
+	I, 13: <hi>in quo</hi>, scilicet Christo, <hi>credentes signati estis spiritu promissionis sancto, qui est pignus hereditatis nostrae</hi>.</p>
+</div2>
+<div2 n="8"><head>Caput 8</head>
+<A NAME="69153"/><p><emph>Item quod spiritus sanctus est a patre per filium</emph></p>
+<p><A NAME="69154"/>Traditur etiam a praedictis Graecorum doctoribus, quod spiritus sanctus est a patre per filium.
+	Dicit enim Cyrillus in libro thesaurorum: <hi>Deus pater per manum suam propriam, idest suam sapientiam et potentiam, cuncta produxit in esse in uno suo vero et vivifico atque deifico coessentiali sibi spiritu, quem de se essentialiter per eundem filium naturaliter coaeternum spiravit</hi>; et Basilius dicit: <hi>non est filius filii spiritus, quia est ex Deo, scilicet patre per filium</hi>.
+	Et idem dicit contra Eunomium: <hi>si ex verbo tuo, o qui inimicaris veritati, ex proprio intellectu tuo spiritum producis, aereum per verbum verberans non eiusdem essentiae, spiritum sanctum ex intellectu patre per verbum unigenitum dubitas provenire?</hi> Et infra: <hi>ex patre se ipsum filius nominat verbum, et ex patre per se verbum spiritum nobis indubitanter affirmavit</hi>.
+	Ex hoc autem ostenditur de necessitate quod spiritus sanctus sit a filio.
+	Dictum est enim supra, quod cum dicitur aliquis per aliquid operari, oportet quod sit principium operandi ipsi operanti, vel saltem sit principium operationis ex parte eius ad quod terminatur operatio.
+	Filius autem non potest esse principium spirandi patri.
+	Unde si pater per filium spiritum sanctum spirat, de necessitate sequitur quod filius sit principium spiritus sancti.
+	Idem autem habetur ex eo quod Gregorius Nyssenus dicit: <hi>spiritum sanctum ex patre esse mediante filio tenemus</hi>.
+	Sic enim dicitur esse spiritus sanctus a patre, mediante filio, sicut et a patre per filium, inquantum pater est principium filii, et filius principium spiritus sancti.</p>
+</div2>
+<div2 n="9"><head>Caput 9</head>
+<A NAME="69155"/><p><emph>Quod spiritus sanctus sit a filio</emph></p>
+<p><A NAME="69156"/>Sed iam accedere oportet ad ponendum auctoritates doctorum Graecorum, ex quibus habetur expresse quod spiritus sanctus sit a filio.
+	Dicit enim Athanasius in epistola ad Serapionem: <hi>Christus de suo spiritu dixit: non loquetur a semetipso, sed quaecumque audiet loquetur, idest, non est a semet ipso ut sit imprincipiatus spiritus, quod est solius patris; sed maxime et proprie est ab ipso filio, a quo et accipit ut sit Deus essentia, ab eo etiam audit quae et loquitur</hi>.
+	Et Basilius dicit contra Arium et Sabellium: <hi>quomodo adoptat in filio spiritus sanctus, si alienus est a patre et filio? Quomodo inhabitat extraneus in illis quos Christus redimit, si non est a Christo?</hi></p>
+</div2>
+<div2 n="10"><head>Caput 10</head>
+<A NAME="69157"/><p><emph>Quod simul a patre et filio</emph></p>
+<p><A NAME="69158"/>Ne autem aliquis dicat aliter esse spiritum sanctum a patre, et aliter a filio, simul ab utroque a praedictis doctoribus esse asseritur.
+	Dicit enim Epiphanius in libro de Trinitate: <hi>Deus ex Deo patre et filio est spiritus sanctus</hi>.</p>
+</div2>
+<div2 n="11"><head>Caput 11</head>
+<A NAME="69159"/><p><emph>Quod ab utroque ab aeterno</emph></p>
+<p><A NAME="69160"/>Si vero dicat aliquis, quod spiritus sanctus esse a patre et filio dicitur, tanquam ab eis temporaliter datus et missus, et non ab aeterno ab eis existens, per sequentia ostenditur esse falsum.
+	Dicit enim idem Epiphanius in libro de vestibus pellicinis Adae et Evae: <hi>sicut dicit Christus: spiritus veritatis qui a patre procedit, ita et de meo accipiet.
+	Ecce ex ambobus duorum semper spiritus existit</hi>.
+	Idem dicit in sermone de incarnatione verbi: <hi>pater siquidem erat semper, et filius erat semper, et spiritus sanctus a patre et filio erat semper</hi>.
+	Est ergo aeternaliter ab utroque.</p>
+</div2>
+<div2 n="12"><head>Caput 12</head>
+<A NAME="69161"/><p><emph>Quod spiritus sanctus sit persona de personis</emph></p>
+<p><A NAME="69162"/>Item ex auctoritatibus praedictorum doctorum habetur quod spiritus sanctus sit persona de personis patris et filii.
+	Dicit enim Athanasius in sermone Nicaeni Concilii: <hi>damnat Ecclesia mater hic congregata adinventores huius haereseos</hi>, scilicet Arianorum, <hi>et spiritum sanctum increatum, Deum verum, hypostasim de patris et filii hypostasibus, eisdem coessentialem confitetur</hi>; et Epiphanius in libro anchorali: <hi>spiritus sanctus in se est hypostasis vera, non alia a patre et a filio essentia, nec aliena, sed eiusdem essentiae veraciter existens, hypostasis vero per se ex hypostasibus patris et filii</hi>.
+	Non ergo solum est a patre et filio secundum donum gratiae, in quo datur vel mittitur, sed ratione suae personae.
+	Est igitur a patre et filio ab aeterno.</p>
+</div2>
+<div2 n="13"><head>Caput 13</head>
+<A NAME="69163"/><p><emph>Item quod est ex essentia patris et filii</emph></p>
+<p><A NAME="69164"/>Item ex auctoritatibus praedictorum habetur quod sit ex essentia patris et filii.
+	Dicit enim Athanasius in sermone Nicaeni Concilii: <hi>in spiritu sancto omnium peccatorum et omnis blasphemiae fit remissio, qui, ut dictum est, de essentia existens patris et filii, eorum habet virtutem, cuncta per omnia cum eisdem creans et disponens</hi>.
+	Item in epistola ad Serapionem ostendit: <hi>Christus de sua et patris communi essentia sempiternaliter existentem spiritum sanctum spiratum</hi>; et infra: <hi>Christus in suo proprio spiritu sancto, de sua, ut supra dictum est, usia existente, omnia nobis condonat</hi>.
+	Et in eadem epistola: <hi>ab una et eadem divinitate patris et filii de filio existens spiritus sanctus, unus est</hi>.</p>
+</div2>
+<div2 n="14"><head>Caput 14</head>
+<A NAME="69165"/><p><emph>Item quod sit naturaliter a filio</emph></p>
+<p><A NAME="69166"/>Item habetur quod sit naturaliter a filio.
+	Dicit enim Cyrillus: <hi>quis est vita? Ille equidem qui dixit Christus, ego sum via, veritas, et vita, tanquam in ipso veraciter, et ex ipso naturaliter spiritus eius existens spiritualem legem ponit</hi>.
+	Ex quibus omnibus habetur quod spiritus sanctus non tantum est a filio sicut temporaliter datus vel missus, sed sicut ab aeterno ab eo procedens, utpote essentiam et naturam ab ipso accipiens.
+	Hoc etiam haberi potest ex ipso modo loquendi: quia praedicti doctores non solum dicunt quod spiritus sanctus est a filio, quod posset referri ad temporalem missionem, sed etiam quod a filio existit, quod non potest referri nisi ad processionem aeternam: existit enim unumquodque secundum quod in se est.
+	Dicit enim Cyrillus Ierosolymitanus patriarcha: <hi>spiritus sanctus a patre procedit, et ex deitate patris et filii existit</hi>.
+	Basilius etiam dicit contra Eunomium: <hi>spiritus sanctus a filio habet existere, et ab ipso accipere, et annuntiare nobis</hi>.</p>
+</div2>
+<div2 n="15"><head>Caput 15</head>
+<A NAME="69167"/><p><emph>Item quod filius spirat spiritum sanctum</emph></p>
+<p><A NAME="69168"/>Ulterius autem habetur ex auctoritatibus praedictorum expresse quod filius spirat spiritum sanctum.
+	Dicit enim Athanasius in epistola ad Serapionem: <hi>filius de patre genitus, de sua immensa essentia non extra se, sed intra se, immensum Deum spirat spiritum sanctum</hi>.
+	Item Cyrillus dicit in exhortatorio sermone ad Theodosium imperatorem: <hi>salvator de se ipso producit spiritum, et spirat, sicut et ipse pater</hi>.</p>
+</div2>
+<div2 n="16"><head>Caput 16</head>
+<A NAME="69169"/><p><emph>Quod hoc quod spirat, ex sua proprietate habet filius</emph></p>
+<p><A NAME="69170"/>Ne autem aliquis dicat, quod filius non proprie spirat spiritum sanctum, nominatur a praedictis doctoribus filius spiritus sancti spirator, tanquam hoc ex sua proprietate habens quod spiritum sanctum spiret.
+	Dicit enim Athanasius in epistola ad Serapionem: <hi>haeretici ipsum filium verum spiratorem veri spiritus Paracliti blasphemant et negant</hi>; et in eadem epistola: <hi>qui blasphemat in spiritum spiratum, blasphemat equidem in spiratorem eius, idest in ipsum filium, et per filium blasphemat in genitorem eius</hi>.
+	Item Basilius dicit contra Eunomium: <hi>filium spiritus sancti spiratorem et datorem sine aliquo dubio credimus</hi>.</p>
+</div2>
+<div2 n="17"><head>Caput 17</head>
+<A NAME="69171"/><p><emph>Quod eadem ratione spiratur a patre et filio</emph></p>
+<p><A NAME="69172"/>Ut autem ostendatur quod simul et eadem ratione spiritus sanctus a patre spiratur, et filio, dicit Athanasius in praedicta epistola ad Serapionem, quod filius est conspirans patri, sic inquiens: <hi>Deus pater per Deum verbum non tanquam per organum, quod absit, sed per coessentialem suae essentiae vere viventi conspirantem vivum et deificum spiramen spirat Deum plenum et beatum spiritum sanctum</hi>.</p>
+</div2>
+<div2 n="18"><head>Caput 18</head>
+<A NAME="69173"/><p><emph>Quod est aeternaliter a filio spiratus</emph></p>
+<p><A NAME="69174"/>Ne quis autem dicat quod spiratio ad processionem pertinet temporalem, exprimunt praedicti doctores, quod spiritus sanctus sit aeternaliter a filio spiratus.
+	Dicit enim Athanasius in sermone Nicaeni Concilii, ex persona filii loquens: <hi>ut credat mundus a me essentialiter spiritum Paraclitum, et aeternaliter spiratum</hi>.
+	Item Cyrillus in libro thesaurorum: <hi>spiritum sanctum a Christo et aeternaliter et essentialiter credimus et confitemur spiratum existere Deum</hi>.</p>
+</div2>
+<div2 n="19"><head>Caput 19</head>
+<A NAME="69175"/><p><emph>Quod de essentia filii spiratur spiritus sanctus</emph></p>
+<p><A NAME="69176"/>Ad hoc etiam facit quod in eisdem auctoritatibus continetur, quod de essentia filii spiratur spiritus sanctus.
+	Dicit enim Athanasius in sermone Nicaeni Concilii: <hi>de essentia ipsius verbi adoramus spiramen spiritum coaeternaliter spiratum Deum</hi>; et in eodem: <hi>Deus filius ex sua essentia spiravit spiritum sanctum</hi>; et in epistola ad Serapionem: <hi>haeretici a filio sunt exheredati, quia ab eius essentia essentialiter Deum spiratum non recipiunt spiritum sanctum</hi>; et in eadem quasi exponens quod dicit <hi>ex sua essentia, idest ex se essentia</hi>, sic dicit: <hi>filius natus a patre in se patris naturam tenens, equidem nomen non paternitatis, sed communicabilitatis cum ordine naturae servavit, ut ex se sua essentia non filium gignitive, sed spiritum sibi per omnia aequalem Deum et coaeternum spiraret</hi>; et hoc quidem multoties in eius verbis habetur.
+	Ex quo patet quod cum dicitur spiritus sanctus spiratus esse a filio, non potest referri ad processionem temporalem tantum, sed ad aeternam, secundum quam spiritus sanctus a filio essentiam divinam accepit.</p>
+</div2>
+<div2 n="20"><head>Caput 20</head>
+<A NAME="69177"/><p><emph>Quod spiritus sanctus emanat a filio</emph></p>
+<p><A NAME="69178"/>Habetur etiam ex auctoritatibus eorundem doctorum processio spiritus sancti a filio sub verbo emanationis.
+	Dicit enim Athanasius in praedicta epistola ad Serapionem: <hi>a verbo vivente spiritus vivus emanans, et a forti virtus indeficiens desuper effunditur Ecclesiae</hi>; et Theodoretus super epistolam ad Ephesios: <hi>spiritus sanctus de sursum emanat a Christo, et sine invidia datur omnibus recipientibus</hi>.</p>
+</div2>
+<div2 n="21"><head>Caput 21</head>
+<A NAME="69179"/><p><emph>Quod spiritus sanctus profluit a filio, et quod ab aeterno</emph></p>
+<p><A NAME="69180"/>Utuntur autem et praedicti doctores ad processionem spiritus sancti a filio ostendendam, verbo <hi>profluxus</hi>.
+	Dicit enim Athanasius in sermone Nicaeni Concilii, ex persona Christi loquens: <hi>mitto apostolos in mundum non in virtute hominis, sed in virtute spiritus sancti ex mea usia profluentis</hi>; et in eodem sermone: <hi>si non ita credendum est de spiritu sancto, et praedicandum, quod sit veritas patris et filii coessentialis utrique, de eorum essentia profluens; quomodo in divino symbolo salutiferi Baptismatis salvator Deus filius sibi et patri cooperantem salutem nostram connumeraret?</hi> Et in epistola ad Serapionem dicit: <hi>spiritus sanctus coessentialem patri filium, cuius ipse erat spiritus, et eidem coessentialis, ipse tanquam de essentia eius profluens Deus, per patres Nicaenos credi et praedicari fecit</hi>.
+	Et Cyrillus dicit in libro thesaurorum: <hi>quando spiritus sanctus in nobis effunditur, configuratos demonstrat nos Deo: profluit enim a patre et filio</hi>.
+	Ex quo etiam habetur quod spiritus sanctus ab aeterno est a filio tanquam ab ipso essentiam habens.</p>
+</div2>
+<div2 n="22"><head>Caput 22</head>
+<A NAME="69181"/><p><emph>Item quod filius deoriginat spiritum sanctum</emph></p>
+<p><A NAME="69182"/>Ex auctoritatibus etiam eorundem habetur quod filius deoriginat spiritum sanctum.
+	Dicit enim Athanasius in sermone Nicaeni Concilii, quod <hi>ipse filius ex se naturaliter et coaeternaliter ut est Deus, deoriginat spirando spiritum</hi>; et in epistola ad Serapionem dicit, quod <hi>filius in spiritu a se deoriginato naturaliter operatur tanquam in sua propria virtute</hi>.
+	Quod non videtur convenienter ad temporalem processionem trahi posse: nam ab illo deoriginatur aliquis a quo habet suum esse.
+	Deoriginare enim est originem alicui dare.</p>
+</div2>
+<div2 n="23"><head>Caput 23</head>
+<A NAME="69183"/><p><emph>Quod filius est auctor spiritus sancti</emph></p>
+<p><A NAME="69184"/>Habetur etiam a praedictis doctoribus quod filius sit auctor spiritus sancti.
+	Dicit enim Athanasius in epistola ad Serapionem: <hi>apostolus quae in eo operatur spiritus et efficit, filio auctori eius attribuit; sicut et filius quae ipse facit opera suo auctori Deo patri attribuit</hi>.
+	Auctoritas autem in divinis personis unius ad alteram non est nisi secundum quod aeternaliter una est ab alia.
+	Est ergo spiritus sanctus aeternaliter a filio.</p>
+</div2>
+<div2 n="24"><head>Caput 24</head>
+<A NAME="69185"/><p><emph>Item quod filius est principium spiritus sancti</emph></p>
+<p><A NAME="69186"/>Habetur etiam ex praedictis auctoritatibus quod filius sit principium spiritus sancti.
+	Dicit enim Gregorius Nazianzenus in sermone Constantinopolitani Concilii: <hi>nostrum est credere sanctam Trinitatem, patrem scilicet sine principio, filium vero principium a patre principio, spiritum autem sanctum cum principio filio unum Deum esse per omnia et super omnia</hi>.
+	Pater autem per hoc est principium filii quod filius est ab eo aeternaliter.
+	Spiritus ergo sanctus aeternaliter est a filio.</p>
+</div2>
+<div2 n="25"><head>Caput 25</head>
+<A NAME="69187"/><p><emph>Item quod filius sit fons spiritus sancti</emph></p>
+<p><A NAME="69188"/>Habetur etiam ex auctoritatibus eorundem quod filius sit fons spiritus sancti.
+	Dicit enim Athanasius in sermone Nicaeni Concilii: <hi>sicut spiritus est in filio, sicut fluvius in fonte: et filius est in patre sicut splendor in sole gloriae per naturam: sic per gratiam spiritus sancti electi sunt in patre et filio</hi>.
+	Et in epistola ad Serapionem dicit: <hi>est equidem filius apud patrem fons et lux; cuius fontis et lucis spiritus sanctus est verus fluvius, et splendor aeternae gloriae</hi>.
+	Et in eadem epistola dicit: <hi>non enim spiritus sanctus operatur in Deo Christo verbo, suo scilicet naturali fonte</hi>; et infra: <hi>genitus filius et fons spiritus sancti utrumque in se continet, patrem scilicet, et spiritum, quorum ipse medium ordinem tenet</hi>: et idem Athanasius in sermone de incarnatione verbi dicit: <hi>David psallit dicens: quoniam apud te est fons vitae: quoniam siquidem apud patrem filius est fons spiritus sancti</hi>.
+	Ex quo etiam habetur quod filius sit principium spiritus sancti sicut a se aeternaliter existentis.</p>
+</div2>
+<div2 n="26"><head>Caput 26</head>
+<A NAME="69189"/><p><emph>Conclusio ex omnibus, quod spiritus procedit a filio</emph></p>
+<p><A NAME="69190"/>Volunt autem quidam adversarii veritatis post tot testimonia, verae fidei confessioni resistere, dicentes, quod spiritus sanctus quamvis probetur esse, existere, spirari, emanare et profluere a filio, non tamen est concedendum quod a filio procedat.
+	Hoc enim in nulla praemissarum auctoritatum continetur, neque etiam in auctoritate sacrae Scripturae, quae spiritum sanctum a patre dicit procedere, patri in hoc filium non adiungens, cum dicitur Ioan.
+	XV, 26: <hi>cum venerit Paraclitus, quem ego mittam vobis a patre, spiritum veritatis, qui a patre procedit</hi>.
+	Ostendendum est ergo quod ex praemissis de necessitate sequitur quod spiritus sanctus procedat a filio.
+	Verbum enim processionis inter omnia quae ad originem pertinent, magis invenitur esse commune, et minus modum originis determinare.
+	Quidquid enim quocumque modo est ab aliquo, secundum consuetum modum loquendi ab ipso procedere dicimus: sive sit ab eo naturaliter, sicut Petrus dicitur a suo patre processisse sive emissive, sicut spiramen procedit a spirante, sive effluxive, sicut fluvius procedit a fonte; sive artificialiter, sicut domus procedit ab artifice; sive localiter tantum, sicut sponsus dicitur de thalamo procedens.
+	Non autem quidquid est ab alio quocumque modo, potest dici vel spirari, vel generari, vel fluere, vel emitti.
+	Et propter hoc verbum processionis origini divinarum personarum maxime est accommodum: quia, sicut supra dictum est, divina per communia melius quam per specialia designantur.
+	Ex quolibet igitur eorum quae ostensa sunt, scilicet quod spiritus sanctus existit a filio, vel fluit, vel spiratur, vel emanat, de necessitate concluditur, quod spiritus sanctus a filio procedat.</p>
+</div2>
+<div2 n="27"><head>Caput 27</head>
+<A NAME="69191"/><p><emph>Quod idem est in divinis personis profluere et procedere</emph></p>
+<p><A NAME="69192"/>Item Cyrillus in expositione Nicaeni symboli dicit: <hi>coessentialis est spiritus patri et filio, et profluit, hoc est procedit tanquam a fonte, ex Deo et patre</hi>.
+	Ex quo habetur quod idem est in divinis personis profluere et procedere.
+	Spiritus autem sanctus profluit a filio, ut supra ostensum est.
+	Ergo a filio procedit.
+	Hoc autem magis confirmatur ex hoc quod in epistola Nestorio directa dicit, quod <hi>Christus est veritas, et spiritus sanctus profluit ab eo sicut ex Deo et patre</hi>.
+	Si ergo idem est ipsum profluere a patre quod procedere, etiam per hoc quod a filio profluit, ostenditur ab eodem procedere.
+	Item Gregorius Nazianzenus in sermone de Epiphania: <hi>spiritus sanctus unde est, inde procedit</hi>.
+	Est autem a filio, sicut probatum est.
+	A filio igitur procedit.
+	Item Cyrillus dicit super Ioelem: <hi>spiritus sanctus est proprius ipsius Christi, et in ipso et ex ipso, quemadmodum et ab ipso intelligitur Deo et patre</hi>.
+	Et maximus monachus in sermone de candelabro et septem lucernis: <hi>spiritus sanctus quemadmodum per naturam existit a Deo patre secundum essentiam, sic et a filio secundum naturam et essentiam existit veraciter, tanquam ex patre per filium procedat Deus</hi>: intelligitur autem et est ex patre sicut ab ipso procedens.
+	Ergo est a filio sicut ab ipso procedens.
+	Item Athanasius dicit in epistola ad Serapionem: <hi>quemadmodum filius se habet ad patrem ordine naturae, ita et spiritus sanctus se habet ad filium</hi>.
+	Et in eadem epistola dicit, ex persona filii loquens: <hi>eundem ordinem et eandem naturam habet spiritus ad me filium, ut sit Deus de Deo, quem ordinem et quam naturam habeo ego ad patrem, ut sim Deus de Deo</hi>.
+	Item Basilius contra Eunomium: <hi>sicut filius se habet ad patrem, eodem modo spiritus sanctus se habet ad filium</hi>.
+	Filius autem hoc modo se habet ad patrem sicut ab eo procedens; dicit enim filius, Ioan.
+	VIII, 42: <hi>ego ex Deo processi et veni</hi>.
+	Ergo et spiritus sanctus procedit ex filio.
+	Sed et ipso verbo processionis utitur Epiphanius in Lib. de Trinitate, dicens: <hi>secundum quem modum nemo novit patrem nisi filius, neque filium novit quis nisi pater; sic audeo dicere, neque spiritum novit quis, nisi pater et filius, a quo accipit, et a quo procedit</hi>.
+	Et Athanasius in symbolo dicit: <hi>spiritus sanctus a patre et filio, non factus nec creatus nec genitus, sed procedens</hi>.</p>
+</div2>
+<div2 n="28"><head>Caput 28</head>
+<A NAME="69193"/><p><emph>Quod ad ostendendum processionem spiritus sancti, eisdem rationibus utuntur Graeci et Latini doctores</emph></p>
+<p><A NAME="69194"/>Considerandum est etiam, quod eisdem rationibus utuntur doctores Graecorum ad ostendendum processionem spiritus sancti a filio quibus et utuntur Latini doctores.
+	Argumentatur enim Anselmus in Lib. de processione spiritus ad ostendendam processionem spiritus sancti ex hoc quod pater et filius sunt unius essentiae.
+	Ex quo sequitur quod pater et filius non differant ab invicem nisi in hoc quod hic est pater, et ille filius.
+	Habere autem spiritum sanctum ex se procedentem non pertinet ad rationem paternitatis, neque ad rationem filiationis.
+	Non enim ex hoc pater dicitur pater, quod spiritus sanctus ab eo procedit; neque filiationi repugnat quod habeat ex se spiritum procedentem.
+	Relinquitur ergo quod habere ex se spiritum procedentem, est commune patri et filio.
+	Et similiter Niceta super Ioannem sic argumentatur: <hi>ex quo filius omnia quae patris sunt, essentialiter habet, habet et spiritum</hi>; et Cyrillus dicit in Lib. thesaurorum: <hi>vere spiritum Christi et spiritum patris apostolus dixit esse unum, et non plures: quoniam omnia quae sunt patris, veraciter et proprie transeunt secundum naturam in vero filio</hi>.
+	Ex hoc autem patet quod cum dicitur in Evangelio, spiritus sanctus a patre procedere, datur intelligi quod procedat a filio, licet in Evangelio non addatur.
+	Ea enim quae essentialiter dicuntur de patre et filio, dicta de patre, oportet quod intelligantur de filio, etiam si cum exclusione dicatur; sicuti cum dicitur Ioan.
+	XVII, 3: <hi>ut cognoscant te solum Deum verum</hi>; et I Tim.
+	VI, 15: <hi>quem</hi>, scilicet Christum, <hi>suis temporibus ostendet beatus et solus potens rex regum et dominus dominantium, qui solus habet immortalitatem</hi>.
+	Intelliguntur enim huiusmodi et de filio verificari ea ratione, quia filius et pater secundum essentiam unum sunt, secundum quod dicitur Ioan.
+	X, 30: <hi>ego et pater unum sumus</hi>.
+	Cum ergo habere spiritum ex se procedentem, sit commune patri et filio, sicut ea quae essentialiter dicuntur, ut ex dictis patet; cum dicitur in Evangelio, spiritus sanctus a patre procedere, intelligendum est quod procedat a filio.
+	Eadem ratione cum in symbolo a patribus edito dictum est quod spiritus sanctus procedat a patre, intelligi oportet quod procedat et a filio; sicut cum in eodem symbolo dicitur de patre quod sit omnipotens, et visibilium et invisibilium factor, oportet quod et de filio intelligatur.</p>
+</div2>
+<div2 n="29"><head>Caput 29</head>
+<A NAME="69195"/><p><emph>Quod spiritus sanctus distinguitur a filio per hoc quod est ab eo</emph></p>
+<p><A NAME="69196"/>Ostenditur etiam ex dictis dictorum patrum, quod spiritus sanctus a filio distinguitur per hoc quod ab eo est.
+	Dicit enim Gregorius Nyssenus: dogma faciens de deitate, <hi>incommutabilem esse naturam divinam confitemur, et differentiam quae est secundum causam et causatum, non negamus</hi>; idest, secundum principium et quod est de principio, ut supra expositum est.
+	Et postea subdit: <hi>item aliam differentiam intelligimus: unum nempe propinquum ex primo</hi>, scilicet filium ex patre; <hi>alium autem ex propinquo et ex primo</hi>, spiritum scilicet ex filio et ex patre.
+	Patet ergo quod per primam differentiam spiritus sanctus et filius a patre distinguuntur; per secundam autem distinguitur spiritus sanctus a filio; quia scilicet filius a patre procedit, non per spiritum, sed spiritus sanctus per filium.
+	Sicut et Richardus de s.
+	Victore in V de Trinitate, ostendit duarum processionum differentiam per hoc quod filius procedit ab uno tantum, spiritus vero sanctus a duobus.
+	Relinquitur ergo secundum utriusque sententiam quod filius et spiritus sanctus ab invicem non distinguerentur, si unus ab alio non esset.</p>
+</div2>
+<div2 n="30"><head>Caput 30</head>
+<A NAME="69197"/><p><emph>Quod oportet distinctionem personarum esse secundum aliquem ordinem naturae</emph></p>
+<p><A NAME="69198"/>Item distinctio personarum oportet quod sit secundum aliquem ordinem, qui est ordo naturae, ut Augustinus dicit.
+	Unde et ordinem personarum distinctarum Athanasius in epistola ad Serapionem catenae assimilat, dicens: <hi>equidem qui caput catenae trahit, medium et aliam extremitatem trahit; sic et qui in spiritum blasphemat, tertiam personam; et in filium medium, et in patrem extremum, idest principium caput catenae trini discreti inconfusi ordinis divini blasphemat; sicut et e converso qui spiritum credit et recipit Deum, recipit et filium cuius et a quo est: sicut qui tenet unum caput catenae ad se trahens, medium eius tenet, et per medium aliud caput apprehendit</hi>.
+	Et propter hoc etiam in eadem epistola idem dicit, quod <hi>spiritus Paraclitus terminus trini beati et superessentialis divini ordinis, infallibiliter terminat proprium finem in se sua hypostasi, sicut et pater tenet ipsius ordinis caput et fontale principium imprincipiatus ipse.
+	Medium autem extremitatum ordinis veraciter tenet filius inter patrem scilicet et spiritum</hi>.
+	Et paulo post: <hi>pater a se principio trini ordinis divini per medium filium genitum terminat ipsius ordinis finem naturali proprietate in tertio spirato spiritu</hi>.
+	Cyrillus etiam dicit in Lib. thesaurorum: <hi>spiritum sanctum ex filio secundum naturam existentem, et ab ipso ad creaturam missum, renovationem Ecclesiae operantem, et terminum sanctae Trinitatis existentem</hi>; et concludit: <hi>si hoc ita est, Deus ergo ex Deo filio spiritus sanctus est</hi>.
+	Si enim spiritus sanctus non esset a filio, non magis spiritus sanctus esset terminus Trinitatis quam filius; nec ordo Trinitatis assimilaretur catenae, sed magis triangulo.
+	Hanc etiam rationem tangit Richardus de s.
+	Victore in V de Trinitate: ubi ostendit, quod in divinis personis non potest esse nisi una sola a qua non procedat divina persona; nec etiam possunt esse duae personae quae sint ab una sola persona.
+	Utrumque enim praedicto ordini, qui in divinis personis attenditur, repugnaret: quorum tamen utrumque oportet poni, si spiritus sanctus a filio non procederet.
+	Hunc etiam personarum divinarum ordinem Cyrillus in Lib. thesaurorum ostendit sub alia similitudine ex auctoritate Scripturae assumpta, quae spiritum sanctum digitum Dei nominat in Evangelio, cum dicit: <hi>si in digito Dei eiicio Daemonia</hi>; loco cuius in alio Evangelio dicitur: <hi>si in spiritu Dei</hi> et cetera.
+	Filius autem dicitur brachium patris, Isai.
+	LI, 9: <hi>induere fortitudine brachium domini</hi>.
+	Dicit ergo: <hi>sicut brachium et manus naturaliter a corpore innatum et propagatum existit, et de manu naturaliter provenit digitus; ita a Deo patre naturaliter filius brachium, et manus eius generative deoriginatur Deus de Deo; et ab ipso filio tanquam a naturali manu patris naturaliter producitur profluens spiritus sanctus dictus digitus</hi>.
+	Concludi ergo potest quod spiritus sanctus sit a filio, per rationes uniformiter a doctoribus Latinis et Graecis prolatas.</p>
+</div2>
+<div2 n="31"><head>Caput 31</head>
+<A NAME="69199"/><p><emph>Quod spiritum sanctum esse a filio, credere est de necessitate salutis</emph></p>
+<p><A NAME="69200"/>Quia vero inter disputantes plerumque contradictio accidit circa aliqua quae non sunt de necessitate salutis, ne aliquis opinetur non esse de necessitate fidei per quam salvamur, credere spiritum sanctum esse a filio, ostendendum est per auctoritates doctorum Graecorum, hoc esse de necessitate fidei et salutis.
+	Dicit enim Athanasius in epistola ad Serapionem: <hi>iuxta quod mandat apostolus: haereticum hominem post primam et secundam correctionem devita.
+	Etiam si quos videris cum Elia volantes per aera, et cum Petro et Moyse sicco pede calcantes maria; nisi spiritum sanctum profiteantur Deum naturaliter ex Deo filio existentem, sicut et filium naturaliter Deum genitum aeternaliter ex Deo et patre existentem, ut nos profitemur: eos non recipias</hi>.
+	Et iterum: <hi>blasphemantibus et negantibus spiritum sanctum Deum esse de natura Dei filii, non communices</hi>.
+	Item Cyrillus dicit in libro thesaurorum: <hi>necessarium salutis nostrum est confiteri spiritum sanctum de essentia filii existere, tanquam ex ipso secundum naturam existentem</hi>.
+	Item Epiphanius in libro de Trinitate: <hi>te ipsum alienas a gratia Dei, cum non recipis a patre filium, neque spiritum sanctum a patre et filio dicis</hi>.
+	Patet igitur quod nullo modo sunt tolerandi qui spiritum sanctum a filio procedere negant.</p>
+</div2>
+<div2 n="32"><head>Caput 32</head>
+<A NAME="69201"/><p><emph>Quod pontifex Romanus est primus et maximus inter omnes episcopos</emph></p>
+<p><A NAME="69202"/>Similis autem error est dicentium Christi vicarium, Romanae Ecclesiae pontificem, non habere universalis Ecclesiae primatum, errori dicentium, spiritum sanctum a filio non procedere.
+	Ipse enim Christus Dei filius suam Ecclesiam consecrat et sibi consignat spiritu sancto quasi suo charactere et sigillo, ut ex supra positis auctoritatibus manifeste habetur.
+	Et similiter Christi vicarius suo primatu et providentia universam Ecclesiam tanquam fidelis minister Christo subiectam conservat.
+	Ostendendum est ergo ex auctoritatibus Graecorum doctorum, praedictum Christi vicarium in totam Ecclesiam Christi potestatis plenitudinem obtinere.
+	Quod enim Romanus pontifex successor Petri et Christi vicarius, sit primus et maximus omnium episcoporum, canon Concilii expresse ostendit, sic dicens: <hi>veneramur secundum Scripturas et canonum definitionem sanctissimum antiquae Romae episcopum, primum esse et maximum omnium episcoporum</hi>.
+	Hoc autem auctoritati consonat sacrae Scripturae, quae inter apostolos Petro attribuit primum locum tam in Evangeliis quam in actibus apostolorum.
+	Unde dicit Chrysostomus super Matth., super illud, <hi>accesserunt discipuli ad Iesum dicentes: quis maior est in regno caelorum? Quoddam humanum scandalum conceperunt, quod in se occultare iam non poterant, et tumorem cordis non sustinebant, in eo quod viderant Petrum sibi praeferri et praehonorari</hi>.</p>
+</div2>
+<div2 n="33"><head>Caput 33</head>
+<A NAME="69203"/><p><emph>Quod idem pontifex in totam Ecclesiam Christi universalem praelationem habet</emph></p>
+<p><A NAME="69204"/>Ostenditur etiam, quod praedictus Christi vicarius in totam Ecclesiam Christi universalem praelationem obtineat.
+	Legitur enim in Chalcedonensi Concilio, quod tota synodus acclamavit Leoni Papae: <hi>Leo sanctissimus, apostolicus et oecumenicus idest universalis, patriarcha per multos annos vivat</hi>.
+	Et Chrysostomus super Matth.: <hi>filius, quae patris est et ipsius filii, potestatem Petro ubique terrarum concessit, et homini mortali omnium quae in caelo sunt, dedit auctoritatem, dando eidem claves ad hoc ut Ecclesiam ubique terrarum amplificet</hi>.
+	Et super Iohannem in omelia LXXXV: <hi>Iacobum localiter in loco terminat, Petrum autem totius orbis ordinat magistrum et doctorem</hi>.
+	Idem super actus apostolorum: <hi>Petrus a filio super omnes quae filii sunt, potestatem accepit, non ut Moyses in gente una, sed in universo orbe</hi>.
+	Hoc etiam trahitur ex auctoritate sacrae Scripturae; nam Petro indistincte oves suas Christus commisit, dicens, Ioan. ult.: <hi>pasce oves meas</hi>; et Ioan.
+	X, 16: <hi>ut sit unum ovile et unus pastor</hi>.</p>
+</div2>
+<div2 n="34"><head>Caput 34</head>
+<A NAME="69205"/><p><emph>Quod idem habet in Ecclesia plenitudinem potestatis</emph></p>
+<p><A NAME="69206"/>Habetur etiam ex praedictorum doctorum auctoritatibus quod Romanus pontifex habeat in Ecclesia plenitudinem potestatis.
+	Dicit enim Cyrillus patriarcha Alexandrinus in libro thesaurorum: <hi>sicut Christus accepit a patre dux et sceptrum Ecclesiae gentium ex Israel egrediens super omnem principatum et potestatem, et super omne quodcumque est, ut ei genu cuncta curventur, plenissimam potestatem; sic et Petro et eius successoribus plenissime commisit</hi>; et infra: <hi>nulli alii quam Petro Christus quod suum est plenum, sed ipsi soli dedit</hi>; et infra: <hi>pedes Christi humanitas est, ipse homo, cui tota Trinitas plenissimam dedit potestatem; quem unus trium assumpsit et in unitate personae, transvexit ad patrem super omnem principatum et potestatem, ut adorent eum omnes Angeli Dei; quem totum dimisit per sacramentum et potestatem Petro et Ecclesiae eius</hi>.
+	Et Chrysostomus dicit ad consulta Bulgarorum, ex persona Christi loquens: <hi>ter te interrogo, an me diligas, quia ter me tepidus et timidus negasti.
+	Nunc autem reductus, ne credant te fratres gratiam et clavium auctoritatem amisisse, quia amas me, coram ipsis tibi iam confirmo quod meum est plenum</hi>.
+	Hoc etiam trahitur ex auctoritate Scripturae; nam dominus, Matth.
+	XVI, 19, universaliter Petro dixit: <hi>quodcumque solveris super terram, erit solutum et in caelis</hi>.</p>
+</div2>
+<div2 n="35"><head>Caput 35</head>
+<A NAME="69207"/><p><emph>Quod est in eadem potestate quae collata est Petro a Christo</emph></p>
+<p><A NAME="69208"/>Ostenditur etiam quod Petrus sit Christi vicarius, et Romanus pontifex Petri successor in eadem potestate ei a Christo collata.
+	Dicit enim canon Concilii Chalcedonensis: <hi>si quis episcopus praedicatur infamis, liberam habeat sententiam appellandi ad beatissimum episcopum antiquae Romae: quem habemus Petrum petram refugii, et ipsi soli libera potestate loco Dei sit ius discernendi episcopi criminati infamiam secundum claves a domino sibi datas</hi>; et infra: <hi>et omnia diffinita ab eo teneantur tanquam a vicario apostolici throni</hi>.
+	Item Cyrillus Ierosolymitanus patriarcha dicit ex persona Christi loquens: <hi>tu cum fine, et ego sine fine, cum omnibus quos loco tui ponam, plene et perfecte sacramento et auctoritate cum eis ero sicut sum et tecum</hi>.
+	Et Cyrillus Alexandrinus in libro thesaurorum dicit, quod <hi>apostoli in Evangeliis et epistolis affirmaverunt in omni doctrina Petrum esse loco domini, et eius Ecclesiam, eidem dantes locum in omni capitulo et synagoga, in omni electione et affirmatione</hi>.
+	Et infra: <hi>cui</hi>, scilicet Petro, <hi>omnes iure divino caput inclinant, et primates mundi tanquam ipsi domino Iesu obediunt</hi>.
+	Et Chrysostomus dicit ex persona filii loquens: <hi>pasce oves meas; idest loco mei praepositus esto fratrum</hi>.</p>
+</div2>
+<div2 n="36"><head>Caput 36</head>
+<A NAME="69209"/><p><emph>Quod ad eum pertinet determinare quae sunt fidei</emph></p>
+<p><A NAME="69210"/>Ostenditur etiam quod ad dictum pontificem pertineat quae sunt fidei, determinare.
+	Dicit enim Cyrillus Alexandrinus in libro thesaurorum: <hi>ut membra maneamus in capite nostro apostolico throno Romanorum pontificum, a quo nostrum est quaerere quid credere et quid tenere debemus</hi>.
+	Et maximus in epistola Orientalibus directa dicit: <hi>omnes fines orbis qui dominum sincere receperunt, et ubique terrarum Catholici veram fidem confitentes, in Ecclesiam Romanorum tanquam in solem respiciunt, et ex ipsa lumen Catholicae et apostolicae fidei recipiunt</hi>.
+	Nec immerito; nam Petrus legitur primo perfectam fidem esse confessus, domino revelante cum dixit Matth.
+	XVI, 16: <hi>tu es Christus filius Dei vivi</hi>.
+	Unde et ei dominus dicit: <hi>ego pro te rogavi, Petre, ut non deficiat fides tua</hi>.</p>
+</div2>
+<div2 n="37"><head>Caput 37</head>
+<A NAME="69211"/><p><emph>Quod ipse aliis patriarchis praelatus existit</emph></p>
+<p><A NAME="69212"/>Patet etiam quod ipse aliis patriarchis praelatus existat ex hoc quod Cyrillus dicit, quod <hi>ipsius</hi>, scilicet apostolici throni Romanorum pontificum, <hi>solius est reprehendere, corrigere, statuere, disponere, solvere, et loco illius ligare qui ipsum aedificavit</hi>.
+	Et Chrysostomus super actus apostolorum dicit, quod <hi>Petrus est vertex sanctissimus beati apostolici chori, pastor bonus</hi>.
+	Et hoc etiam patet ex auctoritate domini dicentis Luc.
+	XXII, 32: <hi>tu aliquando conversus confirma fratres tuos</hi>.</p>
+</div2>
+<div2 n="38"><head>Caput 38</head>
+<A NAME="69213"/><p><emph>Quod subesse Romano pontifici sit de necessitate salutis</emph></p>
+<p><A NAME="69214"/>Ostenditur etiam quod subesse Romano pontifici sit de necessitate salutis.
+	Dicit enim Cyrillus in libro thesaurorum: <hi>itaque, fratres mei, sic Christum imitamur, ut ipsius oves vocem eius audiamus, manentes in Ecclesia Petri, et non inflemur vento superbiae, ne forte tortuosus serpens propter nostram contentionem nos eiiciat, ut Evam olim de Paradiso</hi>.
+	Et Maximus in epistola Orientalibus directa dicit: <hi>coadunatam et fundatam super petram confessionis Petri dicimus universalem Ecclesiam secundum definitionem salvatoris, in qua necessario salutis animarum nostrum est manere, et ei est obedire, suam servantes fidem et confessionem</hi>.</p>
+</div2>
+<div2 n="39"><head>Caput 39</head>
+<A NAME="69215"/><p><emph>Contra hoc quod negant posse confici in azymo</emph></p>
+<p><A NAME="69216"/>Sicut autem praedicti errantes contra unitatem corporis mystici peccant, Romani pontificis potestatem plenariam abnegantes, sic contra puritatem sacramenti corporis Christi delinquunt, dicentes ex azymo pane corpus Christi consecrari non posse: quod etiam doctorum Graecorum auctoritatibus improbatur.
+	Dicit enim Chrysostomus super illud Evangelii: <hi>prima die azymorum: primam diem dicit diem Iovis, in quo incipiebant legis cultores Pascha celebrare, idest azyma comedere omni expulso fermento.
+	Dominus igitur mittit discipulos suos die Iovis, quam dicit Evangelista primam diem azymorum, in qua ad vesperas salvator comedit Pascha.
+	In quo facto per omnia apertissime demonstravit a principio suae circumcisionis suae usque ad extremum diem Paschae, quod non erat contrarius divinarum legum</hi>.
+	Patet autem quod esset contrarius, si fermentato pane usus fuisset.
+	Patet ergo quod Christus in institutione huius sacramenti ex pane azymo corpus suum consecravit.
+	Sciendum tamen, quod quidam dicunt Christum praevenisse diem azymorum propter passionem imminentem, et tunc fermentato pane eum usum fuisse.
+	Quod quidem ostendere nituntur ex duobus.
+	Primo ex hoc quod dicitur Ioan.
+	XIII, quod ante diem festum Paschae dominus cum discipulis coenam celebravit, in qua corpus suum consecravit, sicut apostolus tradit I Cor.
+	XI.
+	Unde videtur quod Christus coenam celebravit ante diem azymorum, et sic in consecratione sui corporis, usus fuerit pane fermentato.
+	Hoc etiam confirmare volunt per hoc quod habetur Ioan.
+	XVIII, 28, quod sexta feria, qua Christus est crucifixus, Iudaei non intraverunt praetorium Pilati, ut non contaminarentur, sed manducarent Pascha.
+	Pascha autem dicuntur azyma.
+	Ergo concludunt, quod coena fuit celebrata ante azyma.
+	Ad hoc autem respondet Chrysostomus super Ioannem sic, super illud: <hi>ut non contaminarentur etc.: quid est hoc dicere, nisi quia in alia die comederunt Pascha et legem solverunt, ut pessimi animi sui adimplerent desiderium in morte Christi.
+	Christus autem non praeteriit tempus Paschae diem scilicet Iovis, sed in ipso Pascha comedit</hi>.
+	Sed quia hoc non constat, melius potest dici, quod sicut dominus mandat Exod.
+	XII, festum azymorum septem diebus celebrabatur, inter quos dies prima erat sancta atque solemnis praecipue inter alias, quod erat quintadecima die mensis.
+	Sed quia apud Iudaeos solemnitates a praecedenti vespere incipiebant, ideo quartadecima die ad vesperam incipiebant comedere azyma, et comedebant per septem subsequentes dies.
+	Et ideo dicitur in eodem capitulo: <hi>primo mense, quartadecima die mensis ad vesperam comedetis azyma usque ad diem vigesimamprimam eiusdem mensis ad vesperam: septem diebus fermentum non invenietur in domibus vestris</hi>.
+	Et eadem quartadecima die ad vesperas immolabatur agnus paschalis.
+	Prima ergo dies azymorum a tribus Evangelistis, Matthaeo, Marco et Luca, dicitur quartadecima die mensis, quia ad vesperam comedebatur azyma, et tunc immolabatur Pascha, idest agnus paschalis; et hoc erat, secundum Ioannem, ante diem festum Paschae, idest ante quintumdecimum diem mensis, qui erat solemnior inter omnes, in quo Iudaei volebant comedere Pascha, idest panes azymos paschales, non autem agnum paschalem.
+	Et sic nulla discordia inter Evangelistas existente, planum est quod Christus ex azymo pane corpus suum consecravit in coena.
+	Hoc etiam patet quod magis congruit puritati corporis mystici, idest Ecclesiae, quae in hoc sacramento figuratur.
+	Unde dicit Gregorius Nazianzenus de Pascha domini: <hi>celebremus domino festum in iubilo, non in fermento veteri malitiae et nequitiae, sed in azymis puritatis et sinceritatis</hi>.
+	Non autem propter hoc intendimus quod ex fermentato hoc sacramentum confici non possit.
+	Dicit enim Gregorius Papa in registro: <hi>Romana Ecclesia offert azymos panes, propterea quod dominus sine ulla commixtione suscepit carnem; sed ceterae Ecclesiae offerunt fermentatum, pro eo quod verbum patris indutum est carne, et est verus Deus et verus homo.
+	Ita et fermentum commiscetur farinae, et efficitur corpus domini nostri Iesu Christi verum</hi>.</p>
+</div2>
+<div2 n="40"><head>Caput 40</head>
+<A NAME="69217"/><p><emph>Quod est Purgatorium, in quo purgantur animae a peccatis non in vita praesenti purgatis</emph></p>
+<p><A NAME="69218"/>Minuitur autem virtus huius sacramenti ab his qui Purgatorium negant post mortem.
+	Nam in Purgatorio existentibus praecipuum remedium ex hoc sacramento confertur.
+	Dicit enim Gregorius Nyssenus in sermone de defunctis: <hi>si aliquis hic in labili vita purgare peccata minus potuerit, post transitum hinc, per Purgatorii ignis conflationem citius magis ac magis fidelis sponsa sponso dona et hostiam in passionis memoriam offert pro filiis quos ipsi sponso verbo et sacramento rei praeclarae genuit, poena alacriter expeditur, secundum quod praedicamus dogma veritatis servantes, ita et credimus</hi>.
+	Item Theodoretus episcopus Cyrensis super illud I ad Cor.
+	III, 11: <hi>si cuius opus arserit</hi> etc., sic dicit: <hi>dicit apostolus, quod salvabitur sic tanquam per conflatorium ignem purgantem quidquid intervenit per incautelam practicae vitae ex pulvere saltem pedum terreni sensus: in quo igne tandiu manet, quandiu quidquid corpulentiae et terreni affectus inhaesit, purgetur: pro quo mater Ecclesia orat et dona pacifica devote offert; et sic per hoc mundus et inde prius exiens, domini Sabaoth purissimis oculis immaculatus assistit</hi>.</p>
+</div2>
+<div2 n="41"><head>Caput 41</head>
+<A NAME="69219"/><p><emph>Epilogus</emph></p>
+<p><A NAME="69220"/>Haec sunt, pater sanctissime, quae ex auctoritatibus doctorum Graecorum secundum vestram iussionem excepi et exponenda, et ad confirmationem verae fidei inducenda.
+	Inveniuntur tamen inter praedictas auctoritates quaedam indecentes expositiones interpositae, sicut quod logon exponit translator fere ubique sermonem mentalem, cum secundum usum Scripturae Latinae convenientius exponeret verbum.
+	Et hypostasim exponit essentialem personam; quam expositionem sequens aliquando cogitur inconveniens dicere, sicut ubi dicit: Deus trinipostatos, idest trinus essentialiter personalis: hoc enim est omnino erroneum, quod Deus sit essentialiter trinus.
+	Sufficeret autem pro hypostasi transferre simpliciter personam.
+	Sic enim utimur nomine personae in confessione fidei, sicut Graeci nomine hypostasis, ut Augustinus dicit, licet non sit omnino eadem ratio significandi per nomen.
+	Inducit etiam ad laudem sanctorum patrum aliqua quae modum puri hominis excedunt, aliquos nominans patres fidei, quod solius Christi est, a quo secundum apostolum ad Heb.
+	II, principium accepit fides enarrandi.
+	Ceteri vero possunt dici doctores, vel expositores fidei, non autem patres.
+	Inducit etiam in principio huius libelli quasdam auctoritates sacrae Scripturae, quae si nude proferantur, non expresse probant processionem spiritus sancti a filio, sicut quod inducit: <hi>spiritus domini ferebatur super aquas</hi> et <hi>ego sum Deus Abraham,</hi> et cetera.
+	Utitur etiam et ipse aliquibus modis loquendi quos in auctoritatibus sanctorum patrum invenit, qui, sicut superius dictum est, magis sunt reverenter in dictis patrum exponendi, quam ab aliis usurpandi: sicut quod in divinis personis sit primum, secundum et tertium, et causa et causatum.
+	In suis etiam expositionibus multis impropriis verbis et indecentibus utitur, sicut quod dicit, quod <hi>filius habet proprietatem geminam inter patrem et spiritum, ut ita dicam, subalternam per modum praedicandi.
+	Primo se habet ad patrem tanquam subiectum ad praedicatum, et secundo ut praedicatum ad subiectum ad spiritum sanctum</hi>.
+	Quod est omnino erroneum.
+	Item dicit, quod imago in Graeco idem est quod entitas secunda: quod omnino indecenter dicitur.
+	Item dicit, quod imago non importat originem; quod est contra Augustinum in Lib.
+	LXXXIII quaestionum.
+	Sunt autem fortassis et alia in praedicto libello quae vel dubia esse possunt, et expositione indigerent, vel quae ad fidei assertionem utilia esse possent, sed ad ea quae praemissa sunt, ut credo, fere omnia possunt reduci.</p>
+
+</div2></div1>
+</body></text>
+</TEI> 

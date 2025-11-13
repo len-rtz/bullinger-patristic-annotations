@@ -1,0 +1,143 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Fragmenta</title>
+              <author ref="http://viaf.org/viaf/100198064">Lactantius<date>250-325</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 7</title>
+           <idno>Lactan.Fragme2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div3>
+        <head>I.</head>
+        <p>
+ Timor, amor, laetitia, tristitia, libido, concupiscentia,
+<pb n="0275B"/>
+ira, miseratio, zelus, admiratio, hi motus
+animi, vel affectus a Domino ab initio hominis exsistunt
+conditi, et naturae humanae utiliter et salubriter
+sunt inserti, ut per eos ordinate et rationabiliter regendo
+se homo, virtutes bonas viriliter agendo exercere
+possit, per quas a Domino perpetuam accipere
+vitam juste meruisset. Hi namque animi motus intra
+fines proprios coarctati, hoc est in bona parte positi,
+in praesenti virtutes bonas et in futuro aeterna praemia
+parant; extra metas vero suas affluentes, hoc est in
+malam partem declinantes, vitia et iniquitates exsistunt
+et aeternas poenas pariunt. V. Muratorii Antiqu.
+ital. med. aevi III, p. 849.</p>
+      </div3>
+<div3>
+        <head>II.</head>
+        <p>
+ Nostra quoque memoria Lactantius de metris,
+pentameter, inquit, et tetrameter. Maxim. Victorin.
+de carmine heroico, c. 5, p. 1957. Putsch. <hi>(cf. Hieron.
+<pb n="0275C"/>
+catal. c. 80: habemus et alium librum, qui inscribitur
+Grammaticus)</hi>.</p>
+      </div3>
+<div3>
+        <head>III.</head>
+        <p>
+ Firmianus ad Probum de metris comoediarum
+sic dicit:  « Nam quod de metris comoediarum requisisti,
+et ego scio plurimos existimare, Terentianas
+vel maxime fabulas metrum non habere comoediae
+graecae, i. e. Menandri, Philemonis, Diphili, qui trimetris
+<pb n="0276A"/>
+versibus constant. Nostri enim veteres comoediae
+scriptores in modulandis fabulis sequi maluerunt
+<pb n="0276B"/>
+Eupolim, Cratinum, Aristophanem, ut praefatum est. » 
+Mensuram esse in fabulis, h. e. <foreign xml:lang="greek">μέτρον,</foreign> Terentii et
+Plauti ac caeterorum comicorum et tragicorum dicant
+hi, Cicero, Scaurus, Firmianus. Rufinus grammaticus
+de metris comicis, p. 2712 s. Putsch.</p>
+      </div3>
+<div3>
+        <head>IV.</head>
+        <p>
+ Lactantii nostri quae in tertio ad Probum volumine
+de hac gente opinatus sit verba ponemus.
+Galli, inquit, antiquitus a candore corporis Galatae
+nuncupabantur; et Sibylla sic eos appellat. Quod significare
+voluit poeta cum ait: Tum lactea colla
+Auro innectuntur <note>(Virg, Aen. VIII, 660 s.)</note>, cum posset
+dicere candida. Hinc utique Galatia provincia, in
+quam Galli aliquando venientes, cum Graecis se miscuerunt.
+Unde primum ea regio Gallograecia, post
+Galatia nominata est. Nec mirum si hoc ille de Galatis
+<pb n="0276C"/>
+dixerit, et occidentales populos tantis in medio
+terrarum spatiis praetermissis, in orientis plaga consedisse
+memorarit.--Hieronym. commentar. in ep.
+ad Gal. l. II, Opp. ed. Vallars. VII, 1, p. 426. <note>(Hieron.
+de viris ill. c. 80: habemus ad Probum epistolarum
+libros quatuor.)</note> 
+
+</p>
+      </div3>
+    </body>
+  </text>
+</TEI>

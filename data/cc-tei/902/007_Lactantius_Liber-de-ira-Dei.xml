@@ -1,0 +1,1998 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber de ira Dei</title>
+              <author ref="http://viaf.org/viaf/100198064">Lactantius<date>250-325</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 7</title>
+           <idno>Lactan.LiDeIrD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head> CAPUT PRIMUM. <hi>De sapientia divina et humana.</hi> </head>
+<p>Animadverti saepe, Donate, plurimos id existimare
+(quod etiam nonnulli philosophorum putaverunt),
+non irasci Deum; quoniam vel benefica sit tantummodo
+natura divina, nec cuiquam nocere, praestantissimae
+atque optimae congruat potestati; vel certe
+nil curet omnino, ut neque ex beneficentia ejus
+quidquam boni perveniat ad nos, neque ex maleficentia
+quidquam mali. Quorum error, quia maximus
+est, et ad evertendum vitae humanae statum spectat,
+<pb n="0079C"/>
+coarguendus est a nobis, ne et ipse fallaris, impulsus
+<pb n="0080B"/>
+auctoritate hominum, qui se putant esse sapientes.
+Nec tamen nos tam arrogantes sumus, ut comprehensam
+nostro ingenio veritatem gloriemur: sed doctrinam
+Dei sequimur, qui scire solus potest, et revelare
+secreta. Cujus doctrinae philosophi expertes
+existimaverunt, naturam rerum conjectura posse
+deprehendi. Quod nequaquam fieri potest, quia mens
+hominis, tenebroso corporis domicilio circumsepta,
+longe a veri perspectione summota est; et hoc differt
+ab humanitate divinitas, quod humanitatis est ignoratio,
+divinitatis scientia.</p>
+<p>Unde nobis aliquo lumine opus est ad depellendas
+<pb n="0080C"/>
+tenebras, quibus offusa est hominis cogitatio, quoniam
+<pb n="0081A"/>
+ in carne mortali agentes, nostris sensibus divinare
+non possumus. Lumen autem mentis humanae
+Deus est, quem qui cognoverit, et in pectus admiserit,
+illuminato corde mysterium veritatis agnoscet:
+remoto autem Deo coelestique doctrina, omnia erroribus
+plena sunt. Recteque Socrates, cum esset omnium
+philosophorum doctissimus, tamen ut caeterorum
+argueret inscitiam, qui se aliquid tenere arbitrabantur,
+ait se nihil scire, nisi unum, quod nihil
+sciret. Intellexit enim, doctrinam illam nihil habere
+in se certi, nihil veri; nec, ut putant quidam, simulavit
+ipse doctrinam, ut alios refelleret; sed vidit ex
+parte aliqua veritatem. Testatusque est etiam in judicio
+(sicut traditur a Platone) quod nulla esset humana
+sapientia: adeo doctrinam, qua tum philosophi
+<pb n="0081B"/>
+gloriabantur, contempsit, derisit, abjecit, ut id ipsum
+pro summa doctrina profiteretur, quod nihil scire
+didicisset. Si ergo nulla est sapientia humana, ut Socrates
+docuit, ut Plato tradidit, apparet esse divinam,
+nec ulli alii, quam Deo veritatis notitiam subjacere.
+Deus igitur noscendus est, in quo solo veritas est.
+Ille mundi parens, et conditor rerum, qui oculis non
+videtur, mente vix cernitur. Cujus religio multis modis
+impugnari solet ab iis, qui neque veram sapientiam
+tenere potuerunt, neque magni et coelestis arcani
+comprehendere rationem.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT II. <hi>De veritate, deque ejus gradibus, atque de Deo.</hi> </head>
+<p>Nam cum sint gradus multi, per quos ad domicilium
+<pb n="0082A"/>
+veritatis ascenditur, non est facile cuilibet evehi ad
+summum. Caligantibus enim veritatis fulgore luminibus,
+qui stabilem gressum tenere non possunt, revolvuntur
+in planum. Primus autem gradus est, intelligere
+falsas religiones, et abjicere impios cultus
+deorum humana manu fabricatorum. Secundus vero,
+perspicere animo, quod unus sit Deus summus, cujus
+potestas ac providentia effecerit a principio mundum,
+et gubernet in posterum. Tertius, cognoscere ministrum
+ejus ac nuntium, quem legavit in terram; quo
+docente, liberati ab errore, quo implicati tenebamur,
+formatique ad veri Dei cultum, justitiam disceremus.
+Ex quibus omnibus gradibus, ut dixi, pronus est lapsus
+et facilis ad ruinam, nisi pedes inconcussa stabilitate
+figantur.</p>
+<p>
+          <pb n="0082B"/>De primo gradu eos excuti videmus, qui, cum falsa
+intelligant, tamen verum non inveniunt, contemptisque
+terrenis fragilibusque simulacris, non ad colendum
+se Deum conferunt, quem ignorant: sed mundi
+elementa mirantes, coelum, terram, mare, solem, lunam,
+caeteraque astra venerantur. Sed horum imperitiam
+jam coarguimus in secundo Divinarum Institutionum
+libro. De secundo vero gradu eos dicimus
+cadere, qui cum sentiant, unum esse summum Deum,
+iidem tamen a philosophis irretiti, et falsis argumentationibus
+capti, aliter de unica illa majestate sentiunt,
+quam veritas habet; qui aut figuram negant
+<pb n="0083A"/>
+ habere ullam Deum, aut nullo affectu commoveri putant,
+quia sit omnis affectus imbecillitatis, quae in Deo
+nulla est. De tertio vero ii praecipitantur, qui cum
+sciant legatum Dei, eumdemque divini et immortalis
+templi conditorem, tamen aut non accipiunt eum, aut
+aliter accipiunt, quam fides poscit: quos ex parte jam
+refutavimus in quarto supradicti operis libro, et refutabimus
+postea diligentius, cum respondere ad
+omnes sectas coeperimus, quae veritatem, dum disputant,
+perdiderunt.</p>
+<p>Nunc vero contra eos disseremus, qui de secundo
+gradu lapsi, prava de summo Deo sentiunt. Aiunt
+enim quidam, nec gratificari eum cuiquam, nec
+irasci; sed securum, et quietum, immortalitatis suae
+bonis perfrui. Alii vero iram tollunt, gratiam relinquunt
+<pb n="0083B"/>
+Deo; naturam enim summa virtute praestantem
+ut non maleficam, sic beneficam esse debere. Ita
+omnes philosophi de ira consentiunt; de gratia discrepant.
+Sed ut ad propositam materiam per ordinem
+descendat oratio, hujusmodi facienda nobis, et sequenda
+<pb n="0084A"/>
+partitio est, cum diversa et repugnantia sint,
+ira, et gratia. Aut ira tribuenda est Deo, et gratia detrahenda;
+aut utrumque pariter detrahendum. Aut
+ira demenda est, et gratia tribuenda, aut utrumque
+tribuendum. Aliud amplius, praeter haec, nihil potest
+capere natura, ut necesse sit in uno istorum aliquo
+verum, quod quaeritur, inveniri. Consideremus singula,
+ut nos ad latebras veritatis, et ratio et ordo
+deducat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III. <hi>De bonis et malis in rebus humanis, eorumque auctore.</hi> </head>
+<p>Primum illud nemo de Deo dixit unquam, irasci
+eum tantummodo, et gratia non moveri. Est enim disconveniens
+Deo, ut ejusmodi potestate sit praeditus,
+<pb n="0084B"/>
+qua noceat, et obsit, prodesse vero, ac benefacere
+nequeat. Quae igitur ratio, quae spes salutis hominibus
+proposita est, si malorum tantummodo auctor
+est Deus? Quod si sit, jam majestas illa venerabilis,
+non ad judicis potestatem, cui licet servare ac liberare,
+<pb n="0085A"/>
+ sed ad tortoris et carnificis officium deducetur.
+Cum autem videamus, non modo mala esse in rebus
+humanis, sed etiam bona, utique si Deus est auctor
+malorum, esse alterum necesse est, qui contraria
+Deo faciat, et det nobis bona. Si est, quo nomine appellandus
+est? aut cur nobis, qui male faciat, notior
+est, quam ille, qui bene? Si autem nihil potest
+esse praeter Deum, absurdum est et vanum, divinam
+putare potestatem, qua nihil est majus, nihil melius,
+nocere posse, prodesse non posse. Et ideo nemo extitit,
+qui auderet id dicere; quia nec rationem habet,
+nec ullo modo potest credi. Quod quia convenit, transeamus
+et veritatem alibi requiramus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV. <hi>De Deo, deque ejus affectibus, Epicurique reprehensione.</hi> </head>
+<p>Quod sequitur, de schola Epicuri est; sicut iram
+in Deo non esse, ita nec gratiam quidem. Nam cum
+putaret Epicurus, alienum esse a Deo malefacere atque
+<pb n="0086A"/>
+nocere, quod ex affectu iracundiae plerumque
+nascitur, ademit ei etiam beneficentiam, quoniam
+videbat consequens esse, ut si habeat iram Deus, habeat
+et gratiam. Itaque ne illi vitium concederet,
+etiam virtutis fecit expertem. Ex hoc, inquit, beatus
+et incorruptus est, quia nihil curat, neque habet ipse
+negotium, neque alteri exhibet. Deus igitur non est,
+si nec movetur, quod est proprium viventis: nec facit
+aliquid impossibile homini, quod est proprium
+Dei, si omnino nullam habet voluntatem, nullum actum,
+nullam denique administrationem, quae Deo digna
+sit. Et quae major, quae dignior administratio
+Deo assignari potest, quam mundi gubernatio, maximeque
+generis humani, cui omnia terrena subjecta
+sunt.</p>
+<p>
+          <pb n="0086B"/>Quae igitur in Deo potest esse beatitudo, si semper
+quietus, et immobilis torpet? si precantibus surdus,
+si colentibus caecus? Quid tam dignum, tam proprium
+Deo, quam providentia? Sed si nihil curat, nihil
+providet, amisit omnem divinitatem. Qui ergo totam
+vim, totam Deo substantiam tollit, quid aliud dicit,
+<pb n="0087A"/>
+ nisi Deum omnino non esse? Denique Marcus Tullius
+a Posidonio dictum refert, id Epicurum sensisse,
+nullos deos esse, sed ea, quae de diis locutus sit, depellendae
+invidiae causa dixisse: itaque verbis illum
+deos relinquere, re autem ipsa tollere, quibus nullum
+motum, nullum tribuit officium. Quod si ita est:
+quid eo fallacius? quod a sapiente et gravi viro debet
+esse alienum. Hic vero si aliud sensit, et aliud locutus
+est, quid aliud appellandus est, quam deceptor,
+bilinguis, malus, et propterea stultus? Sed non erat
+tam versutus Epicurus, ut fallendi studio ista loqueretur,
+cum haec etiam scriptis ad aeternam memoriam
+consignaret: sed ignorantia veritatis erravit.
+Inductus enim a principio verisimilitudine unius sententiae,
+necessario in ea, quae sequebantur, incurrit.
+<pb n="0087B"/>
+Prima enim sententia fuit, iram in Deum non convenire.
+Quod cum illi verum et inexpugnabile videretur,
+non poterat consequentia recusare, quia uno affectu
+amputato, etiam caeteros affectus adimere Deo
+necessitas ipsa cogebat. Ita qui non irascitur, utique
+nec gratia movetur, quod est irae contrarium: jam
+si nec ira in eo, nec gratia est, utique nec metus, nec
+laetitia, nec moeror, nec misericordia. Una est enim
+ratio cunctis affectibus, una commotio, quae in Deum
+<pb n="0088A"/>
+cadere non potest. Quod si nullus affectus in Deo est,
+quia quidquid afficitur, imbecillum est; ergo nec cura
+ullius rei, nec providentia est in eo.</p>
+<p>Hucusque pervenit sapientis hominis disputatio;
+caetera, quae sequuntur; obticuit: scilicet, quia nec
+cura sit in eo, nec providentia; ergo nec cogitationem
+aliquam, nec sensum in eo esse ullum: quo efficitur,
+ut non sit omnino. Ita cum gradatim descendisset,
+in extremo gradu restitit, quia jam praecipitium
+videbat. Sed quid prodest reticuisse, ac periculum
+dissimulasse? Necessitas illum vel invitum cadere
+coegit. Dixit enim quod noluit, quia argumentum
+sic ordinavit, ut ad illud, quod evitabat, necessario
+deveniret. Vides igitur quo perveniat, ira
+sublata, et Deo adempta. Denique aut nullus id credit,
+<pb n="0088B"/>
+aut admodum pauci, et quidem scelerati, ac
+mali, qui sperant peccatis suis impunitatem. Quod si
+et hoc falsum invenitur, nec iram in Deo esse, nec
+gratiam, veniamus ad illud, quod tertio loco positum
+est.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V. <hi>De Deo stoicorum sententia; de Ira et gratia ejus.</hi> </head>
+<p>Existimantur stoici, et alii nonnulli, aliquanto
+<pb n="0089A"/>
+ melius de Divinitate sensisse, qui aiunt, gratiam in
+Deo esse, iram non esse. Favorabilis admodum, ac
+popularis oratio, non cadere in Deum hanc animi
+pusillitatem, ut ab ullo se laesum putet, qui laedi non
+potest; ut quieta illa, et sancta majestas concitetur,
+perturbetur, insaniat, quod est terrenae fragilitatis.
+Iram enim, commotionem mentis esse ac perturbationem,
+quae sit a Deo aliena. Quod si hominem
+quoque, qui modo sit sapiens et gravis, ira non deceat
+(si quidem, cum in animum cujusquam incidit,
+velut saeva tempestas tantos excitet fluctus, ut statum
+mentis immutet, ardescant oculi, os tremat, lingua
+titubet, dentes concrepent, alternis vultum maculet
+nunc suffusus rubor, nunc pallor albescens): quanto
+magis Deum non deceat tam foeda mutatio? Et si
+<pb n="0089B"/>
+homo, qui habet imperium ac potestatem, late noceat
+per iram, sanguinem fundat, urbes subvertat,
+populos deleat, provincias ad solitudinem redigat;
+quanto magis Deum, qui habeat totius generis humani,
+et ipsius mundi potestatem, perditurum fuisse
+universa credibile sit, si irasceretur?</p>
+<p>Abesse igitur ab eo tam magnum, tam perniciosum
+malum oportere. Et si absit ab eo ira, et concitatio,
+quia et deformis, et noxia est, nec cuiquam
+malefaciat, nihil aliud superesse, nisi ut sit lenis,
+tranquillus, propitius, beneficus, conservator. Ita
+enim demum et communis omnium pater, et optimus
+<pb n="0090A"/>
+maximus dici poterit, quod expetit divina coelestisque
+natura. Nam si inter homines laudabile videtur
+prodesse potius quam nocere, vivificare quam
+occidere, salvare, quam perdere, nec immerito
+innocentia inter virtutes numeratur et qui haec
+fecerit, diligitur, praefertur, ornatur, benedictis omnibus
+votisque celebratur, denique ob merita et beneficia
+Deo simillimus judicatur; quanto magis ipsum Deum
+par est, divinis perfectisque virtutibus praecellentem,
+atque ab omni terrena labe summotum, divinis et
+coelestibus beneficiis omne genus hominum promereri?
+Speciose ista, populariterque dicuntur, et
+multos illiciunt ad credendum: sed qui haec sentiunt,
+ad veritatem quidem propius accedunt; sed in parte
+labuntur, naturam rei parum considerantes. Nam si
+<pb n="0090B"/>
+Deus non irascitur impiis et injustis, nec pios utique
+justosque diligit. Ergo constantior est error illorum,
+qui et iram simul, et gratiam tollunt. In rebus enim
+diversis, aut in utramque partem moveri necesse
+est, aut in neutram. Ita qui bonos diligit, et malos
+odit, et qui malos non odit, nec bonos diligit: quia
+et diligere bonos, ex odio malorum venit; et malos
+odisse, ex bonorum charitate descendit. Nemo est
+qui amet vitam sine odio mortis, nec appetat lucem,
+nisi qui tenebras fugit. Adeo natura ista connexa
+sunt, ut alterum sine altero fieri nequeat.</p>
+<p>Si quis Dominus habens in familia servos, bonum
+<pb n="0091A"/>
+ ac malum, non utique aut ambos odit, aut ambos
+beneficiis et honore prosequitur; quod si faciet, et
+iniquus et stultus est: sed bonum et alloquitur
+amice, et ornat, et domi ac familiae suisque omnibus
+rebus praeficit; malum vero maledictis, verberibus,
+nuditate, fame, siti, compedibus punit, ut et hic
+exemplo caeteris sit ad non peccandum, et ille ad
+promerendum, ut alios metus coerceat, alios honor
+provocet. Qui ergo diligit, et odit; qui odit, et diligit;
+sunt enim, qui diligi debeant, sunt qui odio haberi.
+Et sicut is, qui diligit, confert bona in eos, quos diligit:
+ita qui odit, irrogat mala iis, quos odio habet;
+quod argumentum, quia verum est, dissolvi nullo
+pacto potest. Vano ergo et falsa est sententia eorum,
+qui cum alterum Deo tribuant, alterum detrahunt,
+<pb n="0091B"/>
+non minus, quam illorum qui utrumque detrahunt.
+Sed illi, ut ostendimus, ex parte non errant, sed id
+quod melius est ex duobus retinent. Ii vero, quos
+ratio et veritas argumenti hujus inducit, falsa omnino
+sententia suscepta, in maximum errorem cadunt.
+Non enim sic oportebat eos argumentari: Quia Deus
+non irascitur, ergo nec gratia commovetur; sed ita,
+Quia Deus gratia movetur, ergo et irascitur. Si enim
+certum et indubitatum fuisset, non irasci Deum,
+tunc ad illud alterum veniri esset necesse. Cum autem
+magis sit ambiguum de ira, pene manifestum de
+<pb n="0092A"/>
+gratia; absurdum est, ex incerto certum velle subvertere,
+cum sit promptius, de certis incerta firmare.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI. <hi>Quod Deus irascatur.</hi> </head>
+<p>Hae sunt de Deo philosophorum sententiae. Aliud
+praeterea nihil quisquam dixit. Quod si haec, quae dicta
+sunt, falsa esse deprehendimus, unum illud extremum
+superest, in quo solo possit veritas inveniri,
+quod a philosophis nec susceptum est unquam, nec
+aliquando defensum; consequens esse, ut irascatur
+Deus, quoniam gratia commovetur. Haec tuenda nobis
+et asserenda sententia est. In eo enim summa omnis,
+et cardo religionis pietatisque versatur. Nam neque
+honos ullus deberi potest Deo, si nihil praestat colenti,
+nec ullus metus, si non irascitur non colenti.</p>
+</div2>
+
+<div2>
+        <head> CAPUT VII. <hi>De Homine et Brutis, ac Religione.</hi> </head>
+<p>Cum saepe philosophi per ignorantiam veritatis a
+ratione desciverint, atque in errores inciderint inextricabiles
+(id enim solet his evenire, quod viatori
+viam nescienti et non fatenti se ignorare, ut vagetur,
+dum percontari obvios erubescit) illud tamen nullus
+philosophus asseruit unquam, nihil inter hominem et
+pecudem interesse; nec omnino quisquam, modo qui
+sapiens videri vellet, rationale animal cum mutis et
+<pb n="0093A"/>
+ irrationabilibus coaequavit: quod faciunt quidam imperiti,
+atque ipsis pecudibus similes, qui cum ventri
+ac voluptati se velint tradere; aiunt, eadem ratione se
+natos, qua universa quae spirant; quod dici ab homine
+nefas est. Quis enim tam indoctus est, ut nesciat,
+quis tam imprudens, ut non sentiat, aliquid inesse in
+homine divini? Nondum venio ad virtutes animi et
+ingenii, quibus homini cum Deo manifesta cognatio
+est. Nonne ipsius corporis status et oris figura declarat,
+non esse nos cum mutis pecudibus aequales? Illarum
+natura in humum pabulumque prostrata est;
+nec habet quidquam commune cum coelo, quod non
+intuetur. Homo autem recto statu, ore sublimi, ad
+contemplationem mundi excitatus, confert cum Deo
+vultum; et rationem ratio cognoscit.</p>
+<p>
+          <pb n="0093B"/>Propterea nullum est animal, ut ait Cicero <note>(I de
+Legibus)</note> praeter hominem, quod habeat aliquam notitiam
+Dei. Solus enim sapientia instructus est, ut
+religionem solus intelligat; et haec est hominis atque
+mutorum, vel praecipua, vel sola distantia. Nam caetera,
+quae videntur hominis esse propria, et si non
+sint talia in mutis, tamen similia videri possunt. Proprius
+<pb n="0094A"/>
+homini sermo est: tamen et in illis quaedam similitudo
+sermonis. Nam et dignoscunt invicem se vocibus;
+et, cum irascuntur, edunt sonum jurgio similem;
+et, cum se ex intervallo vident, gratulandi officium
+voce declarant. Nobis quidem voces eorum videntur
+inconditae, sicut illis fortasse nostrae: sed ipsis,
+quae se intelligunt, verba sunt; denique in omni
+affectu certas vocis notas exprimunt, quibus habitum
+mentis ostendant. Risus quoque est homini proprius;
+et tamen videmus in aliis animalibus quaedam signa
+laetitiae, cum ad lusum gestiunt, aures demulcent, rictum
+contrahunt, frontem serenant, oculos in lasciviam
+resolvunt. Quid tam proprium homini, quam
+ratio, et providentia futuri? Atqui sunt animalia, quae
+latibulis suis diversos et plures exitus pandant, ut si
+<pb n="0094B"/>
+quod periculum inciderit, fuga pateat obsessis; quod
+non facerent, nisi inesset illis intelligentia et cogitatio.
+Alia provident in futurum; ut
+<l rend="indent">Ingentem formicae farris acervum</l>
+<l>Cum populant, hyemis memores, tectoque reponunt;</l>
+ut apes, quae
+<l rend="indent">
+<pb n="0095A"/> Patriam solae, et certos novere penates.</l> 
+<l>Venturaeque hyemis memores, aestate laborem</l>
+<l>Experiuntur, et in medium quaesita reponunt.</l>
+        </p>
+<p>Longum est, si exequi velim, quae a singulis generibus
+animalium fieri soleant humanae solertiae simillima.
+Quod si horum omnium, quae adscribi homini
+solent, in mutis quoque deprehenditur similitudo,
+apparet solam esse religionem, cujus in mutis
+nec vestigium aliquod, nec ulla suspicio inveniri potest.
+Religionis enim est propria justitia, quam nullum
+aliud animal attingit. Homo enim solus imperat;
+caetera sibi conciliata sunt. Justitiae autem Dei cultus
+adscribitur; quem qui non suscipit, hic a natura hominis
+alienus, vitam pecudum sub humana specie vivet.
+Cum vero a caeteris animalibus hoc pene solo
+<pb n="0095B"/>
+differamus, quod soli omnium divinam vim potestatemque
+sentimus, in illis autem nullus sit intellectus
+Dei: certe illud fieri non potest, ut in hoc vel muta
+plus sapiant, vel humana natura desipiat; cum homini
+ob sapientiam et cuncta quae spirant, et omnis rerum
+natura subjecta sit. Quare si ratio, si vis hominis hoc
+praecellit et superat caeteras animantes, quod solus
+notitiam Dei capit, apparet religionem nullo modo
+posse dissolvi.</p>
+</div2>
+
+<div2>
+        <head> CAPUT VIII. <hi>De religione.</hi> </head>
+<p>Dissolvitur autem religio, si credamus Epicuro illa
+dicenti:
+<l>Omnis enim per se divum natura necesse est,</l>
+<l>Immortali aevo summa cum pace fruatur,</l>
+<l>Semota a nostris rebus, sejunctaque longe.</l> 
+<l>Nam privata dolore omni, privata periclis,</l>
+<l>Ipsa suis pollens opibus, nihil indiga nostri,</l>
+<l>Nec bene pro meritis capitur, nec tangitur ira.</l> 
+Quae cum dicit, utrum aliquem cultum Deo putat esse
+tribuendum, an evertit omnem religionem? Si enim
+Deus nihil cuiquam boni tribuit, si colentis obsequio
+nullam gratiam refert, quid tam vanum, tam stultum,
+quam templa aedificare, sacrificia facere, dona conferre,
+rem familiarem minuere, ut nihil assequamur?
+<pb n="0096B"/>
+Atenim naturam excellentem honorari oportet. Quis
+honos deberi potest nihil curanti et ingrato? An aliqua
+ratione obstricti esse possumus ei, qui nihil habeat
+commune nobiscum?  « Deus, inquit Cicero, si
+talis est, ut nulla gratia, nulla hominum charitate teneatur,
+valeat. Quid enim dicam, propitius sit? esse
+enim propitius potest nemini. »  Quid contemptius dici
+potuit in Deum? Valeat, inquit; id est, abeat et recedat,
+quando prodesse nulli potest. Quod si negotium
+<pb n="0097A"/>
+ Deus nec habet, nec exhibet, cur non ergo delinquamus,
+quoties hominum conscientiam fallere licebit,
+ac leges publicas circumscribere? Ubicumque nobis
+latendi occasio arriserit, consulamus rei, auferamus
+aliena, vel sine cruore, vel etiam cum sanguine si
+praeter leges nihil est amplius quod colendum sit.</p>
+<p>Haec dum sentit Epicurus, religionem funditus delet;
+qua sublata, confusio ac perturbatio vitae sequetur.
+Quod si religio tolli non potest, ut et sapientiam,
+qua distamus a belluis, et justitiam retineamus,
+qua communis vita sit tutior; quomodo Religio ipsa
+sine metu teneri aut custodiri potest? Quod enim non
+metuitur, contemnitur: quod contemnitur, utique
+non colitur. Ita fit, ut religio, et majestas, et
+honor metu constet: metus autem non est, ubi nullus
+<pb n="0097B"/>
+irascitur. Sive igitur gratiam Deo, sive iram, sive
+utrumque detraxeris, religionem tolli necesse est, sine
+qua vita hominum stultitia, scelere, immanitate completur.
+Multum enim refraenat homines conscientia,
+si credamus nos in conspectu Dei vivere; si non tantum
+quae gerimus, videri desuper, sed etiam quae cogitamus,
+aut loquimur, audiri a Deo putemus. Atenim
+prodest id credere, ut quidam putant, non veritatis
+gratia, sed utilitatis; quoniam leges conscientiam punire
+non possunt, nisi aliquis desuper terror impendeat
+ad cohibenda peccata. Falsa est igitur omnis
+religio et divinitas nulla est. Sed a viris prudentibus
+universa conficta sunt, quo rectius innocentiusque
+<pb n="0097C"/>
+vivatur. Magna haec, et a materia quam proposuimus
+<pb n="0098A"/>
+aliena quaestio est: sed quia necessario incidit, debet
+quamvis breviter attingi.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IX. <hi>De providentia Dei, deque sententiis illi repugnantibus.</hi> </head>
+<p>Cum sententiae philosophorum prioris temporis de
+providentia consensissent, nec ulla esset dubitatio,
+quin mundus a Deo, et ratione esset instructus, et ratione
+regeretur: primus omnium Protagoras extitit
+temporibus Socratis, qui sibi diceret non liquere,
+utrum esset aliqua divinitas, necne. Quae disputatio
+ejus adeo impia, et contra veritatem et religionem
+judicata est, ut et ipsum Athenienses expulerint suis
+finibus, et libros ejus in concione, quibus haec continebantur,
+exusserint. De cujus sententia non est opus
+<pb n="0098B"/>
+disputare, quia nihil certi pronuntiavit. Post haec
+Socrates, et auditor ejus Plato, et qui de schola Platonis,
+tanquam rivuli diversas in partes profluxerunt;
+stoici et peripatetici, in eadem fuere sententia, qua
+priores.</p>
+<p>Postea vero Epicurus Deum quidem esse dixit, quia
+necesse sit esse aliquid in mundo praestans, et eximium,
+et beatum; providentiam tamen nullam: itaque
+mundum ipsum nec ratione ulla, nec arte, nec
+fabrica instructum, sed naturam rerum quibusdam
+minutis seminibus et insecabilibus conglobatam. Quo
+quid repugnantius dici possit, non video. Etenim si
+est Deus, utique providens est, ut Deus; nec aliter ei
+<pb n="0098C"/>
+potest divinitas attribui, nisi et praeterita teneat, et
+<pb n="0099A"/>
+ praesentia sciat, et futura prospiciat. Cum igitur providentiam
+sustulit, etiam Deum negavit esse. Cum
+autem Deum esse professus est, et providentiam simul
+esse concessit. Alterum enim sine altero nec esse
+prorsus, nec intelligi potest. Verum iis postea temporibus,
+quibus jam philosophia defloruerat, extitit
+Melius quidam Diagoras, qui nullum esse omnino Deum
+diceret, ob eamque sententiam nominatus est <foreign xml:lang="greek">ἄθεος;</foreign>
+item Cyrenaeus Theodorus: ambo quia nihil novi poterant
+reperire, omnibus jam dictis et inventis, maluerunt
+vel contra veritatem id negare, in quo priores
+universi sine ambiguitate consenserant. Ii sunt, qui
+tot saeculis, tot ingeniis assertam atque defensam providentiam
+calumniati sunt. Quid ergo? utrumne istos
+minutos et inertes philosophos ratione, an vero auctoritate
+praestantium virorum refellemus? an potius
+<pb n="0099B"/>
+utroque? Sed properandum est, ne longius a materia
+divagetur oratio.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT X. <hi>De Mundi ortu et rerum natura, et Dei providentia.</hi> </head>
+<p>Qui nolunt divina providentia factum esse mundum,
+aut principiis inter se temere coeuntibus dicunt esse
+concretum, aut repente natura extitisse; naturam
+vero (ut Straton) habere in se vim gignendi et minuendi:
+sed eam nec sensum habere ullum, nec figuram,
+ut intelligamus, omnia quasi sua sponte esse
+generata, nullo artifice, nec auctore. Utrumque vanum
+et impossibile. Sed hoc evenit ignorantibus veritatem,
+ut quidvis potius excogitent, quam id sentiant
+quod ratio deposcit. Primum minuta illa semina,
+quorum concursu fortuito totum coiisse mundum loquuntur,
+ubi aut unde sint, quaero. Quis illa vidit
+unquam? quis sensit? quis audivit? An solus Leucippus
+<pb n="0100B"/>
+oculos habuit? solus mentem? qui profecto solus
+omnium caecus et excors fuit, qui ea loqueretur,
+<pb n="0101A"/>
+ quae nec aeger quisquam delirare, nec dormiens
+posset somniare.</p>
+<p>Quatuor elementis constare omnia philosophi veteres
+disserebant: ille noluit, ne alienis vestigiis videretur
+insistere. Sed ipsorum elementorum alia voluit
+esse primordia, quae nec videri possint, nec
+tangi, nec ulla corporis parte sentiri. Tam minuta
+sunt, inquit, ut nulla sit acies ferri tam subtilis,
+qua secari ac dividi possint, unde illis nomen imposuit
+atomorum. Sed occurrebat ei, quod si una esset
+omnibus eademque natura, non possent res efficere
+diversas, tanta varietate, quantam videmus inesse
+mundo. Dixit ergo, laevia esse, et aspera, et rotunda,
+et angulata, et hamata. Quanto melius fuerat tacere,
+quam in usus tam miserabiles, tam inanes, habere
+<pb n="0101B"/>
+linguam: et quidem vereor, ne non minus delirare
+videatur, qui haec putet refellenda. Respondeamus
+tamen velut aliquid dicenti. Si lenia sunt et rotunda,
+utique non possunt invicem se apprehendere, ut aliquod
+corpus efficiant; ut si quis milium velit in unam
+coagmentationem constringere, lenitudo ipsa granorum
+in massam coire non sinat. Si aspera et angulata
+sunt, et hamata, ut possint cohaerere; dividua
+ergo et secabilia sunt: hamos enim necesse est et
+angulos eminere, ut possint amputari.</p>
+<p>
+          <pb n="0102A"/>Itaque quod amputari ac divelli potest, et videri
+poterit et teneri. « Haec, inquit, per inane irrequietis
+motibus volitant, et huc, atque illuc feruntur,
+sicut pulveris minutias videmus in sole, cum per
+fenestram radios ac lumen immiserit. Ex his arbores
+et herbae, et fruges omnes oriuntur: ex his animalia
+et aqua, ignis et universa gignuntur, et rursus in
+eadem resolvuntur. »  Ferri hoc potest, quam diu de
+rebus parvis agitur. Ex his etiam mundus ipse concretus
+est. Implevit numerum perfectae insaniae;
+nihil videtur ulterius dici posse: sed invenit tamen
+ille quod adderet. « Quoniam est omne, inquit, infinitum,
+nec potest quidquam vacare; necesse est
+ergo innumerabiles esse mundos. »  Quae tanta vis
+fuerat atomorum, ut moles tam inaestimabiles ex tam
+<pb n="0102B"/>
+minutis conglobarentur? Ac primum requiro, quae
+sit istorum seminum, vel ratio, vel origo. Si enim
+ex illis sunt omnia, ipsa igitur unde esse dicemus?
+quae natura tantam copiam ad efficiendos innumerabiles
+mundos subministrabit? Sed concedamus, ut
+impune de mundis deliraverit: de hoc loquamur, in
+quo sumus, et quem videmus. Ait, omnia ex individuis
+corpusculis fieri.</p>
+<p>Si hoc ita esset, nulla res unquam sui generis semine
+indigeret. Sine ovis alites nascerentur, ac ova
+<pb n="0103A"/>
+ sine partu, item caetera viventia sine coitu: arbores,
+et quae gignuntur e terra, propria semina non haberent,
+quae nos quotidie tractamus, et serimus.
+Cur ex frumento seges nascitur, et rursus ex segete
+frumentum? Denique si atomorum coitio et conglobatio
+efficeret omnia, in aere universa concrescerent;
+si quidem per inane atomi volitant: cur sine
+terra, sine radicibus, sine humore, sine semine,
+non herba, non arbor, non fruges oriri augerique
+possunt? Unde apparet, nihil ex atomis fieri; quandoquidem
+unaquaeque res habet propriam certamque
+naturam, suum semen, suam legem ab exordio datam.
+Denique Lucretius, quasi oblitus atomorum,
+quas asserebat, ut redargueret eos, qui dicunt ex
+nihilo fieri omnia, his argumentis usus est, quae
+<pb n="0103B"/>
+contra ipsum valerent. Sic enim dixit:
+<l>Nam si de nihilo fierent, ex omnibu rebus</l>
+<l>Omne genus nasci posset nil semine egeret.</l> 
+Item postea,
+<l>Nil igitur fieri de nilo posse fatendum est</l>
+<l>Semine quando opus est rebus, quo quaeque creatae</l>
+<l>Aeris in teneras possint proferrier auras.</l> 
+Quis hunc putet habuisse cerebrum, cum haec diceret,
+nec videret sibi esse contraria? Nihil enim per
+atomos fieri exinde apparet, quod semen cujusque
+rei certum est; nisi forte et ignis, et aquae naturam
+ex atomis esse credemus. Quid, quod durissimi rigoris
+materiae, si ictu vehementiore collidantur, ignis
+excutitur? Num in ferro aut silice atomi latent? Quis
+inclusit? aut cur sua sponte non emicant; aut quomodo
+semina ignis in materia frigidissima permanere
+<pb n="0103C"/>
+potuerunt?</p>
+<p>
+          <pb n="0104A"/>Omitto silicem ac ferrum. Orbem vitreum plenum
+aquae si tenueris in sole, de lumine, quod ab aqua
+refulget, ignis accenditur etiam in durissimo frigore.
+Num etiam in aqua ignem esse credendum est? atqui
+de sole ignis ne aestate quidem accendi potest. Si
+cerae inhalaveris, vel si vapor levis aliquid attigerit,
+aut crustam marmoris, aut laminam, paulatim per
+minutissimos rores aqua concrescit. Item de halitu
+terrae aut maris nebula existit: quae aut dispersa humefacit
+quidquid texerit; aut collecta, in arduos
+montes in sublime vento rapta, stipatur in nubem,
+atque imbres maximos dejicit. Ubi ergo dicimus liquores
+natos esse? Num in vapore? Num in halitu?
+Num in vento? Atqui nihil potest consistere in eo,
+quod nec tangitur, nec videtur. Quid ego de animalibus
+<pb n="0104B"/>
+loquar, in quorum corporibus nihil sine ratione,
+sine ordine, sine utilitate, sine specie figuratum
+videmus; adeo ut solertissima, et diligentissima
+omnium partium membrorumque descriptio, casum
+ac fortunam repellat. Sed putemus artus et ossa et
+nervos et sanguinem de atomis posse concrescere.
+Quid sensus, cogitatio, memoria, mens, ingenium,
+quibus seminibus coagmentari possunt? minutissimis,
+inquit. Sunt ergo alia majora. Quomodo igitur insecabilia?</p>
+<p>Deinde, si ex invisibilibus sunt, quae non videntur,
+consequens est, ut ex visibilibus sint, quae videntur;
+cur igitur nemo videt? Sed sive invisibilia
+quae sunt in homine consideret, sive tractabilia, quae
+veniunt sub aspectum, ratione utraque constare quis
+non videt? Quomodo ergo sine ratione coeuntia possunt
+<pb n="0104C"/>
+aliquid efficere rationale? Videmus enim nihil
+<pb n="0105A"/>
+ esse in omni mundo, quod non habeat in se maximam
+mirabilemque rationem. Quae, quia supra hominis
+sensum et ingenium est, cui rectius, quam divinae
+providentiae tribuenda est? An simulacrum hominis
+et statuam ratio et ars fingit; ipsum hominem de
+frustis temere concurrentibus fieri putabimus? Et
+quid simile veritatis in ficto, cum summum et excellens
+artificium nihil aliud, nisi umbram et extrema
+corporis lineamenta possit imitari? Num potuit
+humana solertia dare operi suo aut motum aliquem,
+aut sensum? Omitto usum videndi, audiendi, odorandi,
+caeterorumque membrorum, vel apparentium,
+vel latentium, mirabiles utilitates. Quis artifex potuit,
+aut cor hominis, aut vocem, aut ipsam fabricare
+sapientiam? Quisquamne igitur sanus existimat,
+<pb n="0105B"/>
+quod homo ratione et consilio facere non possit, id
+concursu atomorum passim cohaerentium perfici potuisse?
+Vides in quae deliramenta inciderint, dum
+nolunt effectionem curamque rerum Deo dare.</p>
+<p>Concedamus tamen his, ut ex atomis fiant quae
+terrena sunt: num etiam coelestia? Deos aiunt incorruptos,
+aeternos, beatos esse; solisque dant immunitatem,
+ne concursu atomorum concreti esse videantur.
+Si enim dii quoque ex illis constitissent,
+dissipabiles fierent, seminibus aliquando resolutis,
+atque in naturam suam revertentibus. Ergo si est
+aliquid, quod atomi non effecerint, cur non caetera
+eodem modo intelligamus? Sed, quaero, antequam
+mundum primordia ista generarent, cur sibi dii habitaculum
+non aedificaverint? Videlicet nisi atomi
+<pb n="0105C"/>
+coiissent, coelumque fecissent, adhuc dii per medium
+inane penderent. Quo igitur consilio, qua ratione
+<pb n="0106A"/>
+de confuso acervo se atomi congregaverunt, ut
+ex aliis inferius terra conglobaretur, coelum desuper
+tenderetur, tanta siderum varietate distinctum, ut
+nihil unquam excogitari possit ornatius? Tanta ergo
+qui videat et talia, potest existimare nullo effecta
+esse consilio, nulla providentia, nulla ratione divina;
+sed ex atomis subtilibus, exiguis concreta esse tanta
+miracula? Nonne prodigio simile est aut natum esse
+hominem, qui haec diceret, aut extitisse, qui crederet?
+ut Democritum, qui auditor ejus fuit, vel Epicurum,
+in quem vanitas omnis de Leucippi fonte
+profluxit. At enim (sicut alii dicunt) natura mundus
+effectus est, quae sensu et figura caret. Hoc vero
+multo est absurdius. Si natura mundum fecit, consilio
+et ratione fecerit, necesse est; is enim facit aliquid,
+<pb n="0106B"/>
+qui aut voluntatem faciendi habet, aut scientiam.
+Si caret sensu ac figura, quomodo potest ab
+ea fieri, quod et sensum habeat et figuram? nisi forte
+quis arbitretur, animalium fabricam tam subtilem a
+non sentiente formari animarique potuisse; aut istam
+coeli speciem, tam providenter ad utilitates viventium
+temperatam, nescio quo casu, sine conditore, sine
+artifice, subito extitisse.</p>
+<p> « Si quid est, inquit Chrysippus, quod efficiat ea;
+quae homo, licet ratione sit praeditus, facere non
+possit, id profecto est majus, et fortius, et sapientius
+homine. »  Homo autem non potest facere coelestia;
+ergo illud, quod haec efficiet vel effecerit, superat
+hominem arte, consilio, prudentia, potestate.
+Quis igitur potest esse, nisi Deus? Natura vero,
+<pb n="0106C"/>
+quam veluti matrem esse rerum putant, si mentem
+non habet, nihil efficiet unquam, nihil molietur. Ubi
+<pb n="0107A"/>
+ enim non est cogitatio, nec motus est ullus, nec
+efficacia. Si autem consilio utitur ad incipiendum
+aliquid, ratione ad disponendum, arte ad efficiendum,
+virtute ad consummandum, potestate ad regendum
+et continendum; cur natura potius quam
+Deus nominetur? Aut si concursus atomorum, vel
+carens mente natura, ea, quae videmus, effecit,
+quaero cur facere coelum potuerit, urbem aut domum
+non potuerit? cur montes marmoris fecerit,
+columnas et simulacra non fecerit? Atqui non debuerant
+atomi etiam ad haec efficienda concurrere;
+siquidem nullam positionem relinquunt, quam non
+experiantur. Nam de natura, quae mentem non habeat,
+non est mirandum, quod haec facere oblita sit.
+Quid ergo est? Utique Deus, cum inchoaret hoc opus
+<pb n="0107B"/>
+mundi, quo nihil potest esse nec dispositius ad ordinem,
+nec aptius ad utilitatem, nec ornatius ad pulchritudinem,
+nec majus ad molem, quae fieri ab
+homine non poterant, fecit ipse; in quibus etiam hominem
+ipsum, cui particulam de sua sapientia dedit;
+et instruxit eum ratione, quantum fragilitas terrena
+capiebat, ut ipse sibi efficeret, quae ad usus suos essent
+necessaria.</p>
+<p>
+          <pb n="0108A"/>Si vero in hujus mundi (ut ita dixerim) republica
+nulla providentia est, quae regat, nullus Deus,
+qui administret, nec omnino sensus ullus in hac rerum
+natura pollet; unde igitur mens humana tam
+solers, tam intelligens orta esse credetur? Si enim
+corpus hominis ex humo fictum est, unde homo nomen
+accepit; animus ergo qui sapit, qui rector est
+corporis, cui membra obsequuntur tanquam regi et
+imperatori, qui nec aspici, nec comprehendi potest,
+non potuit ad hominem nisi a sapiente natura pervenire.
+Sed sicut omne corpus mens et animus gubernat:
+ita et mundum Deus. Nec enim verisimile est,
+ut minora et humilia regimen habeant, majora et
+summa non habeant. Denique M. Cicero in Tusculanis,
+et in Consolatione:  « Animorum (inquit) nulla
+<pb n="0108B"/>
+in terris origo inveniri potest. Nihil est enim, inquit,
+in animis mistum atque concretum, aut quod ex
+terra natum atque fictum esse videatur; nihilne aut
+humidum quidem, aut flabile, aut igneum. His enim
+naturis nihil inest, quod vim memoriae, mentis, cogitationis
+habeat, quod et praeterita teneat, et futura
+praevideat, et complecti possit praesentia, quae sola
+divina sunt. Nec enim inveniuntur unquam, unde ad
+<pb n="0109A"/>
+ hominem venire possint, nisi a Deo. »  Exceptis igitur
+duobus tribusve calumniatoribus vanis, cum constet,
+divina providentia mundum regi, sicut et factus
+est, nec sit quisquam, qui Diagorae Theodorique
+sententiam, vel Leucippi inane commentum, vel Democriti
+Epicurique levitatem praeferre audeat auctoritati,
+vel illorum septem priorum, qui sunt appellati
+sapientes, vel Pythagorae, vel Socratis, vel Platonis,
+caeterorumque philosophorum, qui esse Providentiam
+judicaverunt; falsa igitur est et illa sententia,
+qua putant terroris ac metus gratia Religionem
+a sapientibus institutam, quo se homines imperiti a
+peccatis abstinerent.</p>
+<p>Quod si verum sit, ergo derisi ab antiquis sapientibus
+sumus. Quod si fallendi nostri, atque adeo totius
+<pb n="0109B"/>
+generis humani causa commenti sunt Religionem;
+sapientes igitur non fuerunt, quia in sapientem
+non cadit mendacium. Sed fuerint sapientes; quae
+tanta felicitas mentiendi, ut non tantummodo indoctos,
+sed Platonem quoque ac Socratem fallerent,
+et Pythagoram, Zenonem, Aristotelem, maximarum
+sectarum principes, tam facile deluderent? Est
+igitur divina providentia, ut senserunt ii homines,
+quos nominavi; cujus vi ac potestate omnia, quae
+videmus et facta sunt, et reguntur. Nec enim tanta
+rerum magnitudo, tanta dispositio, tanta in servandis
+ordinibus temporibusque constantia, aut olim
+potuit sine provido artifice oriri, aut constare tot saeculis
+sine incola potenti, aut in perpetuum gubernari
+<pb n="0109C"/>
+sine perito ac sentiente rectore: quod ratio ipsa
+<pb n="0110A"/>
+declarat. Quidquid est enim, quod habet rationem,
+ratione sit ortum necesse est. Ratio autem sentientis
+sapientisque naturae est: sapiens vero sentiensque
+natura nihil aliud potest esse, quam Deus. Mundus
+autem, quoniam rationem habet, qua et regitur,
+et constat; ergo a Deo factus est. Quod si est
+conditor rectorque mundi Deus, recte igitur ac vere
+Religio constituta est; auctori enim rerum parentique
+communi honos veneratioque debetur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XI. <hi>De Deo, eoque uno, cujusque providentia mundus regatur et constat.</hi> </head>
+<p>Quoniam constitit de providentia, sequitur ut doceamus,
+utrumne multorum esse credenda sit, an
+<pb n="0110B"/>
+potius unius. Satis (ut opinor) ostendimus in nostris
+Institutionibus, deos multos esse non posse; quod
+divina vis ac potestas si distribuatur in plures, diminui
+eam necesse sit: quod autem minuitur, utique et
+mortale est; si vero mortalis non est, nec minui, nec
+dividi potest. Deus igitur unus est, in quo vis et potestas
+consummata, nec minui potest, nec augeri. Si
+autem sunt multi, dum habent singuli potestatis aliquid
+ac numinis, summa ipsa decrescit: nec poterunt
+singuli habere totum, quod est commune cum
+pluribus: unicuique tantum deerit, quantum caeteri
+possidebunt. Non possunt igitur in hoc mundo multi
+esse rectores: nec in una domo multi domini, nec in
+navi una multi gubernatores, nec in armento aut
+<pb n="0110C"/>
+grege duces multi, nec in uno examine multi reges.
+<pb n="0111A"/>
+ Sed nec in coelo quidem multi soles esse potuerunt,
+sicut nec animae plures in uno corpore: adeo in unitate
+natura universa consentit. Quod si mundum
+<l>Spiritus intus alit totamque infusa per artus</l>
+<l>Mens agitat molem, et magno se corpore miscet,</l>
+apparet testimonio poetae, unum esse mundi habitatorem
+Deum; siquidem corpus omne nisi ab una
+mente incoli regique non potest. Omnem igitur divinam
+potestatem necesse est in uno esse, cujus nutu
+et imperio regantur omnia; et ideo tantus est, ut ab
+homine non possit, aut verbis enarrari, aut sensibus
+aestimari.</p>
+<p>Unde igitur ad homines opinio multorum deorum
+persuasione pervenit? Nimirum ii omnes, qui coluntur
+ut dii, homines fuerunt, et iidem primi, ac maximi
+<pb n="0111B"/>
+reges: sed eos, aut ob virtutem, qua profuerant
+hominum generi, divinis honoribus affectos esse post
+mortem; aut ob beneficia et inventa, quibus humanam
+vitam excoluerant, immortalem memoriam consecutos,
+quis ignorat? nec tantum mares, sed et foeminas.
+Quod cum vetustissimi Graeciae scriptores,
+quos illi <foreign xml:lang="greek">θεολόγους</foreign> nuncupant, tum etiam Romani,
+Graecos secuti et imitati, docent; quorum praecipue
+Euhemerus, ac noster Ennius, qui eorum omnium
+<pb n="0112A"/>
+natales, conjugia, progenies, imperia, res gestas,
+obitus, sepulcra demonstrant. Et secutus eos Tullius
+tertio de Natura deorum libro dissolvit publicas religiones:
+sed tamen veram, quam ignorabat, nec ipse,
+nec alius quisquam potuit inducere. Adeo et ipse testatus
+est, falsum quidem apparere, veritatem tamen
+latere. Utinam (inquit) tam facile vera invenire possem,
+quam falsa convincere! Quod quidem non dissimulanter,
+ut Academicus, sed vere atque ex animi
+sententia proclamavit: quia veritas humanis sensibus
+erui nunquam potest, quod assequi valuit humana
+providentia, id assecutus est, ut falsa detegeret.
+Quidquid enim fictum et commentitium, quia
+nulla ratione subnixum est, facile dissolvitur. Unus
+est igitur princeps, et origo rerum Deus, sicut Plato
+<pb n="0112B"/>
+in Timaeo et sensit et docuit; cujus majestatem tantam
+esse declarat, ut nec mente comprehendi, nec
+lingua exprimi possit.</p>
+<p>Idem testatur Hermes, quem Cicero ait in numero
+deorum apud Aegyptios haberi, eum scilicet, qui ob
+virtutem multarumque artium scientiam Trismegistus
+nominatus, et erat non modo Platone, verum
+etiam Pythagora septemque illis sapientibus longe
+antiquior. Apud Xenophontem Socrates disputans
+<pb n="0113A"/>
+ ait,  « formam Dei non oportere conquiri; »  et Plato
+in Legum libris:  « Quid omnino sit Deus, non esse
+quaerendum: quia nec inveniri possit, nec enarrari.; » 
+Pythagoras quoque unum Deum confitetur dicens,
+incorporalem esse mentem, quae per omnem rerum
+naturam diffusa et intenta, vitalem sensum cunctis
+animantibus tribuat. Antisthenes autem in Physico
+unum esse naturalem Deum dixit, quamvis
+gentes et urbes suos habeant populares. Eadem fere
+et Aristoteles cum suis peripateticis, et Zeno cum
+suis stoicis. Longum est enim singulorum sententias
+exequi, qui licet diversis nominibus sint abusi, ad
+unam tamen potestatem, quae mundum regeret, concurrerunt.
+Sed tamen summum Deum, cum et philosophi,
+et poetae, et ipsi denique qui deos colunt,
+saepe fateantur; de cultu tamen et honoribus ejus
+<pb n="0113B"/>
+nemo unquam requisivit nemo disseruit; ea scilicet
+persuasione, qua semper beneficum incorruptumque
+credentes, nec irasci eum cuiquam, nec ullo cultu
+indigere arbitrantur. Adeo religio esse non potest,
+ubi metus nullus est.</p>
+</div2>
+
+<div2>
+        <head> CAPUT XII. <hi>De religione et Dei timore.</hi> </head>
+<p>Nunc quoniam respondimus impiae quorumdam
+detestabilique prudentiae, vel potius amentiae, redeamus
+ad propositum. Diximus, religione sublata,
+nec sapientiam teneri posse, nec justitiam; quia sapientia
+divinitatis intellectus est, quo differimus a
+belluis: in homine solo reperiri justitiam, qua nisi
+cupiditates nostras Deus, qui falli non potest, coercuerit,
+scelerate impieque vivemus. Spectari ergo
+actus nostros a Deo, non modo ad utilitatem communis
+vitae attinet, sed etiam ad veritatem; quia religione
+justitiaque detracta, vel ad stultitiam pecudum
+amissa ratione devolvimur, vel ad bestiarum
+immanitatem: imo vero amplius; siquidem bestiae
+<pb n="0114B"/>
+sui generis animalibus parcunt. Quid erit homine
+truculentius, quid immitius, si dempto metu superiore,
+vim legum aut fallere potuerit, aut contemnere?
+Timor igitur Dei solus est, qui custodit hominum
+inter se societatem, per quem vita ipsa sustinetur,
+<pb n="0115A"/>
+ munitur, gubernatur. Is autem timor auferetur,
+si fuerit homini persuasum, quod irae sit expers
+Deus; quem moveri et indignari, cum injusta fiunt,
+non modo communis utilitas, sed etiam ratio ipsa
+nobis et veritas persuadet. Rursus nobis ad superiora
+redeundum est, ut quia docuimus a Deo factum
+esse mundum, doceamus quare sit effectus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII <hi>De mundi et temporum commodo et usu.</hi> </head>
+<p>Si consideret aliquis universam mundi administrationem,
+intelliget profecto, quam vera sit sententia
+Stoicorum, qui aiunt nostra causa mundum
+esse constructum. Omnia enim, quibus constat,
+quaeque generat ex se mundus, ad utilitatem hominis
+<pb n="0115B"/>
+accommodata sunt. Homo utitur igni ad usum
+calefaciendi et luminis, et molliendorum ciborum, ferrique
+fabricandi: utitur fontibus ad potum et ad lavacra;
+fluminibus ad agros irrigandos terminandasque
+regiones: utitur terra ad percipiendam frugum varietatem;
+collibus ad conserenda vineta; montibus ad usum
+arborum atque lignorum; planis ad segetem; utitur
+<pb n="0116A"/>
+mari, non solum ad commercia et copias ex longinquis
+regionibus ferendas, verum etiam ad ubertatem
+omnis generis piscium. Quod si his elementis utitur,
+quibus est proximus, non est dubium, quin et coelo,
+quoniam et coelestium rerum officia ad fertilitatem
+terrae, ex qua vivimus, temperata sunt. Sol irrequietis
+cursibus et spatiis inaequalibus orbes annuos
+conficit, et aut oriens diem promit ad laborem, aut
+occidens noctem superducit ad requiem: et tum
+abscessu longius ad meridiem, tum accessu propius
+ad septentrionem, hyemis et aestatis vicissitudines
+facit, ut et hybernis humoribus ac pruinis in
+ubertatem terra pinguescat, et aestivis caloribus,
+vel herbidae fruges maturitate durentur, vel quae
+sunt in humidis, incocta et fervefacta mitescant.
+<pb n="0116B"/>
+Luna quoque nocturni temporis gubernatrix, et
+amissi ac recepti luminis vicibus menstrua spatia
+moderatur, et caecas tenebris horrentibus noctes
+fulgore suae claritatis illustrat; ut aestiva itinera,
+et expeditiones, et opera sine labore ac molestia
+confici possint. Siquidem:
+<l>Nocte leves stipulae melius, nocte arida prata</l>
+<l>Tondentur.</l>
+        </p>
+<p>
+          <pb n="0117A"/> Astra etiam caetera, vel ortu, vel occasu suo,
+certis stationibus opportunitates temporum subministrant.
+Sed et navigiis, quominus errabundo cursu
+per immensum vagentur, regimen praebent, cum ea
+rite gubernator observans, ad portum destinati littoris
+pervehatur. Ventorum spiritu attrahuntur
+nubes, ut sata imbribus irrigentur, ut vites foetibus,
+arbusta pomis exuberent. Et haec per orbem vicibus
+exhibentur, ne desit aliquando, quo vita hominum
+sustineatur. At enim caeteras animantes eadem terra
+nutrit, et ejusdem foetu etiam muta pascuntur. Num
+etiam mutorum causa Deus laboravit? Minime, quia
+sunt rationis expertia. Sed intelligimus, et ipsa
+eodem modo in usum hominis a Deo facta, partim
+ad cibos, partim ad vestitum, partim ad operis
+<pb n="0117B"/>
+auxilia; ut clarum sit, divinam providentiam rerum
+<pb n="0118A"/>
+et copiarum abundantia hominum vitam instruere
+atque ornare voluisse, ob eamque causam, et aerem
+volucribus, et mare piscibus, et terram quadrupedibus
+implevit. Sed Academici contra Stoicos disserentes
+solent quaerere, cur, si Deus omnia hominum
+causa fecerit, etiam multa contraria, et inimica, et
+pestifera nobis reperiantur, tam in mari, quam in
+terra. Quod Stoici veritatem non respicientes ineptissime
+repulerunt. Aiunt enim, multa esse in gignentibus,
+et in numero animalium, quorum adhuc
+lateat utilitas: sed eam processu temporum inveniri;
+sicut jam plura prioribus saeculis incognita necessitas
+et usus invenerit. Quae tandem utilitas potest in muribus,
+in blattis, in serpentibus reperiri, quae homini
+molesta et perniciosa sunt? An medicina in
+<pb n="0118B"/>
+his aliqua latet? Quae si est, invenietur aliquando,
+<pb n="0119A"/>
+ nempe adversus mala, cum id illi querantur esse
+omnino malum. Viperam ferunt exustam in cineremque
+dilapsam, mederi ejusdem bestiae morsui.
+Quanto melius fuerat eam prorsus non esse, quam
+remedium contra se ab ea ipsa desiderari?</p>
+<p>Brevius igitur, ac verius respondere potuerunt in
+hunc modum. Deus cum formasset hominem veluti
+simulacrum suum, quod erat divini opificii summum,
+inspiravit ei sapientiam soli, ut omnia imperio ac ditioni
+suae subjugaret omnibusque mundi commodis
+uteretur. Proposuit tamen ei et bona et mala; quia
+sapientiam dedit; cujus omnis ratio in discernendis
+malis ac bonis sita est. Non potest enim quisquam
+eligere meliora et scire quid bonum sit, nisi sciat
+simul rejicere ac vitare quae mala sunt. Invicem sibi
+alterutra connexa sunt; ut sublato alterutro, utrumque
+<pb n="0119B"/>
+tolli sit necesse. Propositis igitur bonis malisque,
+tum demum opus suum peragit sapientia; et quidem
+bonum appetit ad utilitatem, malum rejicit ad salutem.
+Ergo sicut bona innumerabilia data sunt homini,
+quibus frui posset; sic etiam mala, quae caveret.
+<pb n="0120A"/>
+Nam si malum nullum sit, nullum periculum, nihil
+denique, quod loedere hominem possit, tollitur
+omnis materia sapientiae, nec erit homini necessaria.
+Positis enim tantummodo in conspectu bonis, quid
+opus est cogitatione, intellectu, scientia, ratione?
+cum quocumque porrexerit manum, id naturae aptum
+et accommodatum sit: ut si quis velit apparatissimam
+coenam infantibus, qui nondum sapiant, apponere,
+utique id appetent singuli, quo unumquemque
+aut impetus, aut fames, aut etiam casus attraxerit,
+et quidquid sumpserint, id illis erit vitale ac salubre.
+Quid igitur nocebit, eos sicuti sunt, permanere et
+semper infantes ac nescios esse rerum? Si autem
+admisceas vel amara, vel inutilia, vel etiam venenata,
+decipiuntur utique per ignorantiam boni ac mali,
+nisi accedat his sapientia, per quam habeant malorum
+<pb n="0120B"/>
+rejectionem bonorumque delectum.</p>
+<p>Vides ergo, magis propter mala opus nobis esse
+sapientia: quae nisi fuissent proposita, rationale animal
+non essemus. Quod si haec ratio vera est, quam
+<pb n="0121A"/>
+ stoici nullo modo videre potuerunt, dissolvitur
+etiam argumentum illud Epicuri. Deus, inquit, aut
+vult tollere mala et non potest; aut potest et non
+vult; aut neque vult, neque potest; aut et vult et
+potest. Si vult et non potest, imbecillis est; quod in
+Deum non cadit. Si potest et non vult, invidus; quod
+aeque alienum a Deo. Si neque vult, neque potest, et
+invidus et imbecillis est; ideoque neque Deus. Si
+vult et potest, quod solum Deo convenit, unde ergo
+sunt mala? aut cur illa non tollit? Scio plerosque philosophorum,
+qui providentiam defendunt, hoc argumento
+perturbari solere et invitos pene adigi, ut Deum
+nihil curare fateantur, quod maxime quaerit Epicurus.
+Sed nos ratione perspecta, formidolosum hoc argumentum
+facile dissolvimus. Deus enim potest quidquid
+<pb n="0121B"/>
+velit, et imbecillitas, vel invidia in Deo nulla
+est; potest igitur mala tollere: sed non vult; nec
+ideo tamen invidus est. Idcirco enim non tollit, quia
+sapientiam (sicut edocui) simul tribuit, et plus est
+boni ac jucunditatis in sapientia, quam in malis molestiae.
+Sapientia enim facit, ut etiam Deum cognoscamus
+et per eam cognitionem immortalitatem assequamur;
+quod est summum bonum. Itaque nisi prius
+malum agnoverimus, nec bonum poterimus agnoscere.
+Sed hoc non vidit Epicurus, nec alius quisquam;
+si tollantur mala, tolli pariter sapientiam, nec ulla in
+homine virtutis remanere vestigia, cujus ratio in sustinenda
+et superanda malorum acerbitate consistit.
+Itaque propter exiguum compendium sublatorum malorum
+maximo et vero et proprio nobis bono careremus.
+<pb n="0121C"/>
+Constat igitur omnia propter hominem proposita,
+tam mala, quam etiam bona.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XIV. <hi>Cur Deus fecerit hominem.</hi> </head>
+<p>Sequitur ut ostendam cur fecerit hominem ipsum
+Deus. Sicut mundum propter hominem machinatus
+est, ita ipsum propter se, tamquam divini templi antistitem,
+spectatorem operum rerumque coelestium.
+Solus est enim, qui sentiens, capaxque rationis, intelligere
+possit Deum, qui opera ejus admirari, virtutem
+potestatemque perspicere; idcirco enim consilio, mente,
+prudentia instructus est. Ideo solus praeter caeteras
+animantes recto corpore ac statu factus est, ut ad
+contemplationem parentis sui excitatus esse videatur.
+Ideo sermonem solus accepit, ac linguam cogitationis
+<pb n="0122B"/>
+interpretem, ut enarrare majestatem domini sui possit.
+Postremo idcirco ei cuncta subjecta sunt, ut
+factori atque artifici Deo esset ipse subjectus. Si ergo
+Deus hominem suum voluit esse cultorem, ideoque
+illi tantum honoris attribuit, ut rerum omnium dominaretur;
+utique justissimum est et eum qui tanta
+praestiterit, amare et hominem, qui sit nobiscum divini
+juris societate conjunctus. Nec enim fas est cultorem
+Dei a Dei cultore violari. Unde intelligitur religionis
+ac justitiae causa esse hominem figuratum.
+Cujus rei testis est Marcus Tullius in libris de Legibus,
+ita dicens:  « Sed omnium, quae in doctorum hominum
+disputatione versantur, nihil est profecto praestabilius,
+quam plane intelligi, nos ad justitiam esse natos. » 
+Quod si est verissimum, Deus ergo vult omnes homines
+<pb n="0122C"/>
+esse justos, id est, Deum et hominem caros
+habere: Deum scilicet honorare tamquam patrem,
+<pb n="0123A"/>
+ hominem diligere velut fratrem; in his enim duobus
+tota justitia consistit. Qui ergo aut Deum non agnoscit,
+aut homini nocet, injuste et contra naturam suam
+vivit, et hoc modo rumpit institutum legemque divinam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV. <hi>Unde ad hominem peccata pervenerint.</hi> </head>
+<p>Hic fortasse quaerat aliquis, unde ad hominem peccata
+pervenerint, aut quae pravitas divini instituti regulam
+ad pejora detorserit, ut cum sit ad justitiam
+genitus, opera tamen efficiat injusta. Jam superius
+explanavi, simul Deum proposuisse bonum ac malum;
+et bonum quidem diligere, malum autem, quod huic
+repugnat, odisse: sed ideo malum permisisse, ut et
+bonum emicaret, quod alterum sine altero (sicut saepe
+<pb n="0123B"/>
+docui) intelligimus constare non posse: denique ipsum
+mundum ex duobus elementis repugnantibus et
+invicem copulatis esse concretum, igneo et humido,
+nec potuisse lucem fieri, nisi et tenebrae fuissent;
+quia nec superum potest esse sine infero, nec oriens
+sine occidente, nec calidum sine frigido, nec molle
+sine duro. Sic et nos ex duobus aeque repugnantibus
+compacti sumus, anima et corpore: quorum alterum
+coelo ascribitur, quia tenue est et intractabile; alterum
+terrae, quia comprehensibile est: alterum solidum
+et aeternum est, alterum fragile atque mortale.
+Ergo alteri bonum adhaeret, alteri malum: alteri lux,
+vita, justitia; alteri tenebrae, mors, injustitia. Hinc
+extitit in hominibus naturae suae depravatio; ut esset
+necesse constitui legem, qua possent et vitia prohiberi,
+<pb n="0123C"/>
+et virtutis officia imperari. Cum igitur sint in
+rebus humanis bona et mala, quorum rationem declaravi,
+necesse est in utramque partem moveri
+Deum, et ad gratiam, cum justa fieri videt; et ad iram,
+cum cernit injusta.</p>
+<p>Sed occurrit nobis Epicurus, ac dicit:  « Si est in
+<pb n="0124A"/>
+Deo laetitiae affectus ad gratiam, et odii ad iram,
+necesse est habeat, et timorem, et libidinem, et cupiditatem,
+caeterosque affectus, qui sunt imbecillitatis
+humanae. »  Non est necesse ut timeat, qui irascitur;
+aut moereat, qui gaudet: denique iracundi,
+minus timidi sunt; et natura laeti, minus moerent.
+Quid opus est de humanis affectibus dicere, quibus
+fragilitas nostra succumbit? Consideremus divinam
+necessitatem; nolo enim naturam dicere, quia Deus
+noster nunquam creditur natus. Timoris affectus habet
+in homine materiam, in Deo non habet. Homo,
+quia multis casibus periculisque subjectus est, metuit,
+ne qua vis major existat, quae illum verberet,
+spoliet, laceret, affligat, interimat. Deus autem, in
+quem nec egestas, nec injuria, nec dolor, nec mors
+<pb n="0124B"/>
+cadit, timere nullo pacto potest; quia nihil est, quod
+ei vim possit inferre. Item libidinis ratio et causa in
+homine manifesta est. Nam quia fragilis et mortalis
+effectus est, necesse fuit alterum sexum diversumque
+constitui, cujus permistione soboles effici posset ad
+continuandam generis perpetuitatem. Haec autem libido
+in Deo locum non habet; quia et fragilitas et interitus
+ab eo alienus est, nec ulla est apud eum foemina,
+cujus possit copulatione gaudere, nec successione
+indiget, qui semper futurus est. Eadem de invidia
+et cupiditate dici possunt; quae certis manifestisque
+de causis in hominem cadunt, in Deum nullo
+modo. At vero, et gratia, et ira, et miseratio habent
+in Deo materiam; recteque illis utitur summa illa et
+singularis potestas ad rerum conservationem.
+</p>
+      </div2>
+
+<div2>
+        <head> CAPUT XVI. <hi>De Deo ejusque ira et affectibus.</hi> </head>
+<p>Quaeret quispiam, quae sit ista materia? Primum
+accidentibus malis afflicti homines ad Deum plerumque
+confugiunt, mitigant, obsecrant, credentes eum
+<pb n="0125A"/>
+ posse ab his injurias propulsare. Habet igitur causam
+miserandi; nec enim tam immitis est hominumque
+contemptor, ut auxilium laborantibus deneget. Item
+plurimi, quibus persuasum est Deo placere justitiam,
+eumque qui sit dominus ac parens omnium, venerantur,
+et precibus assiduis ac frequentibus votis, dona
+et sacrificia offerunt, nomen ejus laudibus prosequuntur,
+justis ac bonis operibus demereri eum laborantes.
+Ergo est, propter quod Deus et possit, et debeat
+gratificari. Nam si nihil est tam conveniens Deo,
+quam beneficentia, nihil autem tam alienum, quam
+ut sit ingratus: necesse est ut officiis optimorum
+sancteque viventium praestet aliquid, ac vicem reddat,
+ne subeat ingrati culpam, quae est etiam homini
+criminosa. Contra autem sunt alii facinorosi et nefarii,
+<pb n="0125B"/>
+qui libidinibus omnia polluant, caedibus vexent,
+fraudent, rapiant, perjurent; nec consanguineis, nec
+parentibus parcant; leges et ipsum etiam Deum negligant.</p>
+<p>Habet igitur ira in Deo materiam. Non est enim fas
+eum, cum talia fieri videat, non moveri, et insurgere
+ad ultionem sceleratorum, et pestiferos nocentesque
+delere, ut bonis omnibus consulat: adeo et
+in ipsa ira inest et gratificatio. Inania ergo et falsa reperiuntur
+argumenta, vel eorum, qui, cum irasci
+Deum nolunt, gratificari volunt, quia ne hoc quidem
+fieri sine ira potest; vel eorum, qui nullum animi
+motum esse in Deo putant. Et quia sunt aliqui affectus,
+<pb n="0126A"/>
+qui non cadunt in Deum, ut libido, timor, avaritia,
+moeror, invidia, omni prorsus affectu eum vacare
+dixerunt. His enim vacat, quia vitiorum affectus
+sunt: eos autem, qui sunt virtutis, id est, ira
+in malos, caritas in bonos, miseratio in afflictos,
+quoniam divina potestate sunt digna, proprios, et
+justos, et veros habet. Quae profecto nisi habeat,
+humana vita turbabitur; atque ad tantam confusionem
+deveniet status rerum, ut contemptis superatisque
+legibus, sola regnet audacia, ut nemo denique
+tutus esse possit, nisi qui viribus praevaleat. Ita quasi
+communi latrocinio terra omnis depopulabitur. Nunc
+vero quoniam et mali poenam, et boni gratiam, et
+afflicti opem sperant; et virtutibus locus est, et scelera
+rariora sunt. Atenim plerumque et scelerati feliciores
+<pb n="0126B"/>
+sunt, et boni miseriores, et justi ab injustis
+impune vexantur. Considerabimus postea, cur ista
+fiant. Interim de ira explicemus, an sit aliqua in
+Deo; utrum nihil curet omnino, nec moveatur ad ea
+quae impie geruntur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVII. <hi>De Deo, cura et ira.</hi> </head>
+<p>Deus, inquit Epicurus, nihil curat; nullam igitur
+habet potestatem. Curare enim necesse est eum, qui
+habet potestatem; vel si habet, et non utitur, quae
+tanta causa est, ut ei, non dicam nostrum genus,
+<pb n="0127A"/>
+ sed etiam mundus ipse sit vilis? Ideo, inquit, incorruptus
+est ac beatus, quia semper quietus. Cui ergo
+administratio tantarum rerum cessit, si haec a Deo
+negligantur, quae videmus ratione summa gubernari?
+aut quietus esse quomodo potest, qui vivit et sentit?
+Nam quies aut somni res est, aut mortis. Sed nec
+somnus habet quietem. Nam cum soporati sumus,
+corpus quidem quiescit, animus tamen irrequietus
+agitatur: imagines sibi, quas cernat effingit, ut naturalem
+suum motum exerceat varietate visorum;
+avocatque se a falsis, dum membra saturentur, ac vigorem
+capiant de quiete. Quies igitur sempiterna solius
+mortis est. Si autem mors Deum non attingit,
+Deus igitur nunquam quietus est. Dei vero actio quae
+potest esse, nisi mundi administratio? Si vero mundi
+<pb n="0127B"/>
+curam gerit, curat igitur hominum vitam Deus, ac
+singulorum actus animadvertit, eosque sapientes ac
+bonos esse desiderat. Haec est voluntas Dei, haec divina
+lex; quam qui sequitur, qui observat, Deo carus
+est. Necesse est igitur, ut ira moveatur adversus eum,
+qui hanc aeternam divinamque legem, aut violaverit,
+aut spreverit. Si nocet, inquit, alicui Deus, jam bonus
+non est. Non exiguo falluntur errore, qui censuram
+<pb n="0128A"/>
+sive humanam, sive divinam, acerbitatis et malitiae
+nomine infamant, putantes nocentem dici oportere,
+qui nocentes afficit poena. Quod si est, nocentes igitur
+leges habemus, quae peccantibus supplicia sanxerunt;
+nocentes judices, qui scelere convictos poena
+capitis afficiunt. Quod si et lex justa est, quae et nocenti
+tribuit quod meretur, et judex integer ac bonus
+dicitur, cum male facta vindicat (bonorum enim salutem
+custodit, qui malos punit), ergo et Deus, cum
+malis obest, nocens non est; ipse autem est nocens,
+qui aut innocenti nocet, aut nocenti parcit, ut pluribus
+noceat.</p>
+<p>Libet quaerere ab iis, qui Deum faciunt immobilem,
+si quis habeat rem, domum, familiam, servique ejus
+contemnentes patientiam domini, omnia invaserint,
+<pb n="0128B"/>
+ipsi bonis ejus fruantur, ipsos familia ejus honoret,
+dominus autem contemnatur ab omnibus, derideatur,
+relinquatur: utrumne sapiens esse possit, qui contumelias
+non vindicet, suisque rebus eos perfrui patiatur,
+in quos habeat potestatem? Quae tanta in quoquam
+potest patientia reperiri? si tamen patientia
+nominanda est, et non stupor quidam insensibilis.
+Sed facile est ferre contemptum. Quid si fiant illa,
+<pb n="0129A"/>
+ quae a Cicerone dicuntur?  « Etenim quaero, si quis
+paterfamilias liberis suis a servo interfectis, uxore
+occisa, incensa domo, supplicium de servo non quam
+acerrimum sumpserit; utrum is clemens ac misericors,
+an inhumanus et crudelissimus esse videatur? » 
+Quod si ejusmodi facinoribus ignoscere crudelitatis
+est potius quam pietatis; non est ergo virtutis in
+Deo, ad ea, quae injuste fiunt, non commoveri. Nam
+mundus tanquam Dei domus est, et homines tanquam
+servi: quibus si ludibrio sit nomen ejus, qualis
+aut quanta patientia est, ut honoribus suis cedat,
+prava et iniqua fieri videat, et non indignetur, quod
+proprium et naturale est ei, cui peccata non placeant?
+Irasci ergo rationis est; auferuntur enim delicta,
+et refraenatur licentia, quod utique juste sapienterque
+<pb n="0129B"/>
+fit.</p>
+<p>Sed Stoici non viderunt esse discrimen recti et
+pravi; esse iram justam et injustam: et quia medelam
+rei non inveniebant, voluerunt eam penitus excidere.
+Peripatetici vero non excidendam, sed temperandam
+esse dixerunt: quibus in sexto libro Institutionum
+satis respondimus. Nescisse autem philosophos,
+quae ratio esset irae, apparet ex definitionibus
+eorum, quas Seneca enumeravit in libris, quos de
+<pb n="0130A"/>
+Ira composuit. « Ira est, inquit, cupiditas ulciscendae
+injuriae. Alii, ut ait Posidonius, cupiditas puniendi
+ejus, a quo te inique putes laesum. »  Quidam ita definierunt:
+ « Ira est incitatio animi ad nocendum ei qui,
+aut nocuit, aut nocere voluit. »  Aristotelis definitio
+non multum a nostra abest. Ait enim iram esse cupiditatem
+doloris rependendi. Haec est ira, de qua superius
+diximus, injusta; quae etiam mutis inest: in
+homine vero cohibenda est, ne ad aliquod maximum
+malum prosiliat per furorem. Haec in Deo esse non
+potest, quia illaesibilis est; in homine autem, quia
+fragilis est, invenitur. Inurit enim laesio dolorem; et
+dolor facit ultionis cupiditatem. Ubi est ergo illa ira
+justa adversus delinquentes? quae utique non est cupiditas
+ultionis, quia non praecedit injuria. Non dico
+<pb n="0130B"/>
+de iis qui adversus leges peccant, quibus etsi judex
+sine crimine irasci postest, fingamus tamen, eum sedato
+animo esse debere, cum subjicit poenae nocentem,
+quia legum sit minister, non animi, aut potestatis
+suae; sic enim volunt, qui iram conantur evellere.
+Sed de iis potissimum dico, qui sunt nostrae potestatis,
+ut servi, liberi, conjuges et discipuli: quos cum
+delinquere videmus, incitamur ad coercendum.</p>
+<p>Necesse est enim bono ac justo displicere, quae
+<pb n="0131A"/>
+ prava sunt; et cui malum displicet, moveri, cum id
+fieri videt. Ergo surgimus ad vindictam; non quia
+laesi sumus, sed ut disciplina servetur, mores corrigantur,
+licentia comprimatur. Haec est ira justa, quae
+sicut in homine necessaria est ad pravitatis correctionem,
+sic utique in Deo, a quo ad hominem pervenit
+exemplum. Nam sicuti nos potestati nostrae subjectos
+coercere debemus, ita etiam peccata universorum
+Deus coercere debet. Quod ut faciat, irascatur
+necesse est; quia naturale est bono ad alterius peccatum
+moveri et incitari. Ergo definire debuerunt:
+Ira est motus animi ad coercenda peccata insurgentis.
+Nam definitio Ciceronis  « Ira est libido ulciscendi, » 
+non multum a superioribus distat. Ira autem, quam
+possumus vel furorem, vel iracundiam nominare,
+<pb n="0131B"/>
+haec ne in homine quidem debet esse, quia tota vitiosa
+est. Ira vero, quae ad correctionem vitiorum
+pertinet, nec homini adimi debet, nec Deo potest,
+quia et utilis est rebus humanis, et necessaria.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVIII. <hi>De peccatis vindicandis, sine ira fieri non posse.</hi> </head>
+<p>Quid opus est, inquiunt, ira, cum sine hoc affectu
+peccata corrigi possint? Atqui nullus est, qui peccantem
+possit videre tranquille: possit fortasse, qui legibus
+praesidet, quia facinus non sub oculis ejus admittitur,
+sed defertur aliunde tanquam dubium, nec
+<pb n="0132A"/>
+unquam potest esse scelus tam clarum, ut defensioni
+locus non sit; et ideo potest judex non moveri adversus
+eum, qui potest innocens inveniri. Cumque
+detectum facinus in lucem venerit, jam non sua, sed
+legum sententia utitur. Potest concedi, ut sine ira
+faciat, quod facit; habet enim quod sequatur. Nos
+certe, cum domi peccatur a nostris, sive id cernimus,
+sive sentimus, indignari necesse est; ipse enim
+peccati aspectus indignus est. Nam qui non movetur
+omnino, aut probat delicta, quod est turpius et injustius,
+aut molestiam castigandi fugit, quam sedatus
+animus et quieta mens aspernatur ac renuit, nisi stimulaverit
+ira et incitaverit. Qui autem cum moveatur,
+tamen intempestiva lenitate, vel saepius quam necesse
+est, vel etiam semper ignoscit, is plane et illorum
+<pb n="0132B"/>
+vitam perdit, quorum audaciam nutrit ad facinora
+majora, et sibi ipsi aeternam molestiarum materiam
+subministrat. Vitiosa est ergo in peccatis irae
+suae cohibitio.</p>
+<p>Laudatur Archytas Tarentinus, qui cum in agro corrupta
+esse omnia comperisset, villici sui culpam redarguens,
+Miserum te, inquit, quem jam verberibus
+necassem, nisi iratus essem. Unicum hoc exemplum
+temperantiae putant: sed auctoritate ducti non vident
+quam inepta et locutus fuerit, et fecerit. Nam si (ut
+ait Plato) nemo prudens punit, quia peccatum est,
+sed ne peccetur, apparet quam malum vir sapiens
+<pb n="0133A"/>
+ proposuerit exemplum. Si enim senserint servi dominum
+suum saevire cum non irascitur, tum parcere
+cum irascitur, non peccabunt utique leviter, ne verberentur;
+sed quantum poterunt gravissime, ut stomachum
+ejus incitent atque impune discedant. Ego
+vero laudarem, si cum fuisset iratus, dedisset irae suae
+spatium, ut residente per intervallum temporis animi
+tumore, haberet modum castigatio. Non ergo propter
+irae magnitudinem donanda erat poena, sed differenda,
+ne aut peccanti majorem justo dolorem inureret,
+aut castiganti furorem. Nunc vero quae tandem
+aequitas, aut quae sapientia est, ut aliquis ob exiguum
+delictum puniatur, ob maximum non puniatur? quod
+si naturam rerum causasque didicisset, nunquam tam
+importunam continentiam profiteretur, ut nequam
+servus iratum sibi fuisse dominum gratularetur. Nam
+<pb n="0133B"/>
+sicut corpus humanum Deus multis et variis sensibus
+ad usum vitae necessariis instruxit, sic et animo varios
+attribuit affectus, quibus vitae ratio constaret,
+<pb n="0134A"/>
+ut libidinem prodendae sobolis gratia dedit, sic iram
+cohibendorum causa delictorum.</p>
+<p>Verum ii qui nesciunt fines bonorum ac malorum,
+sicut libidine utuntur ad corruptelas et ad voluptates,
+sic ira et affectu ad nocendum, dum iis quos odio habent
+irascuntur. Ergo etiam non peccantibus irascuntur,
+etiam paribus aut etiam superioribus. Hinc quotidie
+ad immania facinora prosilitur: hinc tragoediae
+saepe nascuntur. Esset igitur laudandus Archytas, si,
+cum alicui civi et pari facienti sibi injuriam fuisset
+iratus, repressisset se tamen et patientia furoris impetum
+mitigasset. Haec sui cohibitio gloriosa est, qua
+compescitur aliquod imminens magnum malum. Servorum
+autem filiorumque peccata non coercere, peccatum
+est; evadent enim ad majus malum per impunitatem.
+Hic non cohibenda ira, sed etiam, si jacet,
+<pb n="0134B"/>
+excitanda est. Quod autem de homine dicimus, id etiam
+de Deo, qui hominem similem sui fecit. Omitto de
+figura Dei dicere, quia stoici negant habere ullam
+<pb n="0135A"/>
+ formam Deum; et ingens alia materia nascetur, si
+eos coarguere velimus: de animo tantum loquor. Si
+Deo subjacet cogitare, sapere, intelligere, providere,
+praestare, ex omnibus autem animalibus homo solus
+haec habet; ergo ad Dei similitudinem factus est: sed
+ideo procedit in vitium, quia de terrena fragilitate
+permistus, non potest id quod a Deo sumpsit, incorruptum
+purumque servare, nisi ab eodem Deo justitiae
+praeceptis imbuatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX. <hi>De anima et corpore, deque Providentia.</hi> </head>
+<p>Sed quoniam compactus est, ut diximus, e duobus,
+animo et corpore, in altero virtutes, in altero vitia
+continentur, et impugnant se invicem. Animi enim
+<pb n="0135B"/>
+bona, quae sunt in continendis libidinibus, contraria
+sunt corpori; et corporis bona, quae sunt in omni
+genere voluptatum, inimica sunt animo. Sed si virtus
+animi repugnaverit cupiditatibus, easque compresserit,
+erit vere Deo similis. Unde apparet animam
+hominis, quae virtutem divinam capit, non esse mortalem.
+Sed discrimen illud est, quod cum virtus habeat
+<pb n="0136A"/>
+amaritudinem, et sit dulcis illecebra voluptatis,
+vincuntur plurimi, et abstrahuntur ad suavitatem. Ii
+vero, qui se corpori rebusque terrenis addixerunt,
+premuntur in terram, nec assequi possunt divini muneris
+gratiam, quia se vitiorum labibus inquinaverunt.
+Qui autem Deum secuti, eique parentes, corporis
+desideria contempserint, et virtutem praeferentes
+voluptatibus, innocentiam justitiamque servaverint:
+hos Deus ut sui similes recognoscit.</p>
+<p>Cum igitur sanctissimam legem posuerit, velitque
+universos, innocentes ac beneficos esse; potestne non
+irasci, cum videt contemni legem suam, abjici virtututem,
+appeti voluptatem? Quod si est mundi administrator,
+sicut esse debet, non utique contemnit id
+quod est in omni mundo vel maximum. Si est providus,
+<pb n="0136B"/>
+ut oportet Deum, consulit utique generi humano,
+quo sit vita nostra et copiosior, et melior, et
+tutior. Si est pater ac Deus universorum, certe virtutibus
+hominum delectatur, et vitiis commovetur; ergo
+et justos diligit, et impios odit. Odio (inquit) opus non
+est; semel enim statuit bonis praemium, et malis poenam.
+Quod si aliquis juste innocenterque vivat, et
+idem Deum nec colat, nec curet omnino, ut Aristides,
+<pb n="0137A"/>
+ ut Aristides et Timon, caeterique philosophorum, cedetne
+huic impune, quod cum legi Dei obtemperarit,
+ipsum tamen spreverit? Est igitur aliquid, propter quod
+Deus possit irasci, tanquam fiducia integritatis adversus
+eum rebellanti. Si huic potest irasci propter superbiam,
+cur non magis peccatori, qui legem cum
+ipso pariter latore contempserit? Judex peccatis veniam
+dare non potest, quia voluntati servit alienae.
+Deus autem potest, quia est legis suae ipse disceptator
+et judex: quam cum poneret, non utique ademit
+sibi omnem potestatem, sed habet ignoscendi licentiam.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XX. <hi>De peccatis et Dei misericordia.</hi> </head>
+<p>Si potest ignoscere, potest igitur et irasci. Cur
+<pb n="0137B"/>
+ergo, inquiet aliquis, et qui peccant, saepe felices
+sunt, et qui pie vivunt, saepe miseri? Quia fugitivi et
+abdicati libere vivunt, et qui sub disciplina patris, aut
+domini sunt, strictius et frugalius. Virtus enim per
+mala et probatur, et constat; vitia per voluptatem.
+Nec tamen ille qui peccat, sperare debet perpetuam
+impunitatem, quia nulla est perpetua felicitas:
+<l rend="indent">Sed scilicet ultima semper</l>
+<l>Expectanda dies homini; dicique beatus</l>
+<l>Aute obitum nemo supremaque funera debet.</l>  <note>(OVID., Metam., lib. III, vers. 135.)</note> 
+ut ait poeta non insuavis. Exitus est, qui arguit felicitatem;
+et nemo judicium Dei potest, nec vivus effugere,
+nec mortuus. Habet enim potestatem, et vivos
+praecipitare de summo, et mortuos aeternis afficere
+<pb n="0137C"/>
+cruciatibus. Imo, inquit, si irascitur Deus, statim
+<pb n="0138A"/>
+debuit vindicare, et pro merito quemque punire.
+Atenim si id faceret, nemo superesset. Nullus est
+enim, qui nihil peccet; et multa sunt, quae ad peccandum
+irritent; aetas, vinolentia, egestas, occasio, praemium.
+Adeo subjecta est peccato fragilitas carnis,
+qua induti sumus, ut nisi huic necessitati Deus parceret,
+nimium fortasse pauci viverent: propter hanc
+causam patientissimus est, et iram suam continet.
+Nam quia perfecta est in eo virtus, necesse est patientiam
+quoque ejus esse perfectam, quae et ipsa virtus
+est. Quam multi ex peccatoribus justi posterius
+effecti sunt, ex malis boni, ex improbis continentes!
+quam multi in prima aetate turpes, et omnium judicio
+damnati, postmodum tamen laudabiles extiterunt!
+Quod utique non fieret, si omne peccatum poena sequeretur.</p>
+<p>
+          <pb n="0138B"/>Leges publicae manifestos reos damnant: sed plurimi
+sunt, quorum peccata occuluntur; plurimi, qui
+delatorem comprimunt, aut precibus, aut praemio;
+plurimi, qui judicia eludunt per gratiam, vel potentiam.
+Quod si eos omnes, qui humanam poenam effugiunt,
+censura divina damnaret, esset homo aut
+rarus, aut etiam nullus in terra. Denique vel una illa
+causa delendi generis humani justa esse potuisset,
+quod homines, contempto Deo vivo, terrenis fragilibusque
+figmentis honorem divinum tanquam coelestibus
+deferunt, adorantes opera humanis digitis laborata.
+Cumque illos Deus artifex, ore sublimi, statu
+recto figuratos, ad contemplationem coeli et notitiam
+Dei excitaverit, curvare se ad terram maluerunt pecudum
+<pb n="0138C"/>
+modo. Humilis enim, et curvus, et pronus est,
+<pb n="0139A"/>
+ qui ab aspectu coeli Deique patris aversus, terrena,
+quae calcare debuerat, id est, de terra ficta et formata,
+veneratur. In tanta igitur impietate hominum
+tantisque peccatis id assequitur patientia Dei, ut se
+ipsi homines damnatis vitae prioris erroribus corrigant.
+Denique, et boni sunt justique multi, et abjectis
+terrenis cultibus, majestatem Dei singularis agnoscunt.
+Sed cum maxima et utilissima sit Dei patientia,
+tamen, quamvis sero, noxios punit, nec patitur longius
+procedere, cum eos inemendabiles esse perviderit.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXI. <hi>De ira Dei et hominis.</hi> </head>
+<p>Superest una et extrema quaestio. Nam dixerit fortasse
+<pb n="0139B"/>
+quispiam, adeo non irasci Deum, ut etiam in
+praeceptis hominem irasci vetet. Possem dicere, quod
+ira hominis refraenanda fuerit, quia injuste saepe irascitur;
+et praesentem habet motum, quia temporalis
+est. Itaque ne fierent ea, quae faciunt per iram et humiles,
+et mediocres, et magni reges, temperari debuit
+furor ejus, et comprimi, ne mentis impos aliquod
+inexpiabile facinus admitteret. Deus autem non
+ad praesens irascitur, quia aeternus est perfectaeque
+virtutis; et nunquam nisi merito irascitur. Sed tamen
+non ita res se habet. Nam si omnino prohiberet irasci,
+ipse quodammodo reprehensor opificii sui fuisset,
+<pb n="0140A"/>
+qui a principio iram jecori hominis indidisset: siquidem
+creditur, causam hujus commotionis in humore
+fellis contineri. Non igitur in totum prohibet irasci,
+quia is affectus necessario datus est: sed prohibet in
+ira permanere. Ira enim mortalium debet esse mortalis;
+nam si maneat, confirmantur inimicitiae ad
+perniciem sempiternam. Deinde rursus cum irasci
+quidem, sed tamen non peccare praecepit, non utique
+evellit iram radicitus, sed temperavit: ut in omni castigatione
+modum ac justitiam teneremus. Qui ergo
+irasci nos jubet, ipse utique irascitur: qui placari celerius
+praecipit, est utique ipse placabilis; ea enim
+praecepit, quae sunt justa, et rebus utilia communibus.</p>
+<p>Sed quia dixeram non esse iram Dei temporalem,
+<pb n="0140B"/>
+sicut hominis, qui praesentanea commotione
+fervescit, nec facile regere se potest propter fragilitatem;
+intelligere debemus, quia sit aeternus Deus,
+iram quoque ejus in aeternum manere: sed rursum,
+quia virtute sit maxima praeditus, in potestate habere
+iram suam; nec ab ea regi, sed ipsum illam,
+quemadmodum velit, moderari: quod utique non repugnat
+superiori. Nam si prorsus immortalis fuisset
+ira ejus, non esset satisfactioni aut gratiae post delictum
+locus; cum ipse homines ante solis occasum
+reconciliari jubeat. Sed ira divina in aeternum manet
+adversus eos, qui peccant in aeternum. Itaque Deus
+<pb n="0141A"/>
+ non thure, non hostia, non pretiosis muneribus, quae
+omnia sunt corruptibilia, sed morum emendatione
+placatur; et qui peccare desinit, iram Dei mortalem
+facit. Idcirco enim non ad praesens noxium quemque
+punit, ut habeat homo resipiscendi et corrigendi sui
+facultatem.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXII. <hi>De peccatis, deque iis recitati versus Sibyllae.</hi> </head>
+<p>Haec habui, quae de ira Dei dicerem, Donate charissime;
+ut scires quemadmodum refelleres eos qui
+Deum faciunt immobilem. Restat, ut more Ciceronis
+utamur epilogo ad perorandum. Sicut ille in Tusculanis
+de morte disserens fecit: ita nos in hoc opere
+testimonia divina, quibus credi possit, adhibere debemus,
+<pb n="0141B"/>
+ut illorum persuasionem revincamus, qui sine
+ira Deum esse credentes, dissolvunt omnem religionem:
+sine qua, ut ostendimus, aut immanitate belluis,
+aut stultitia pecudibus adaequamur; in sola
+enim religione, id est, in Dei summi notione sapientia
+est. Prophetae universi divino Spiritu repleti nihil
+<pb n="0142A"/>
+aliud, quam de gratia Dei erga justos, et de ira ejus
+adversus impios loquuntur. Quorum testimonia nobis
+quidem satis sunt: verum iis quoniam non credunt
+isti, qui sapientiam capillis et habitu jactant, ratione
+quoque et argumentis fuerant a nobis refellendi. Sic
+enim praepostere agitur, ut humana divinis tribuant
+auctoritatem, cum potius humanis divina debuerint.
+Quae nunc sane omittamus ne nihil apud istos agamus,
+et in infinitum materia procedat. Ea igitur quaeramus
+testimonia, quibus illi possint aut credere aut
+certe non repugnare.</p>
+<p>Sibyllas plurimi et maximi auctores tradiderunt;
+Graecorum, Aristo Chius et Apollodorus Erythraeus;
+nostrorum, Varro et Fenestella. Hi omnes praecipuam,
+et nobilem praeter caeteras Erythraeam fuisse commemorant.
+<pb n="0142B"/>
+Apollodorus quidem ut de civi ac populari
+sua gloriatur. Fenestella vero etiam legatos Erythras
+a senatu esse missos refert, ut hujus Sibyllae carmina
+Romam deportarentur, et ea consules Curio et Octavius
+in Capitolio, quod tunc erat curante Quinto Catulo
+<pb n="0143A"/>
+ restitutum, ponenda curarent. Apud hanc de
+summo et conditore rerum Deo hujusmodi versus reperiuntur:
+ <foreign xml:lang="greek">
+<l>Ἄφθαρτος κτίστης αἰώνιος αἰθέρα ναίων,</l>
+<l>Τοῖς ἀγαθοῖς ἀγαθὸν προφέρων, πολὺ μείζονα μισθὸν;</l>
+<l>Τοῖς δὲ κακοῖς ἀδίκοις τὲ χόλον καὶ θυμὸν ἐγείρων.</l> </foreign>
+        </p>
+<p>Rursù alio loco enumerans, quibus maxime facinoribus
+incitetur Deus, haec intulit:
+ <foreign xml:lang="greek">
+<l>Φεῦγε δὲ λατρείας ἀνόμους, Θεῷ ζῶντι λάτρευε.</l> 
+<l>Μοιχείας τε φύλασσε, καὶ ἄρσενος ἄκριτον εὐνὴν,</l>
+<l>Ἰδίαν γενεὰν παίδων τρέφε, μήδε φόνευε·</l>
+<l>Καὶ γὰρ ὁ ἀθάνατος κεχολώσεται, ὅσκεν ἁμὰρτῃ.</l> </foreign>
+        </p>
+<p>Indignatur ergo adversus peccatores.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXIII. <hi>De ira Dei, et peccatorum punitione, deque ea Sibyllarum carmina recitata: castigatio praeterea et adhortatio.</hi> </head>
+<p>Verum quia plures, ut ostendi, Sibyllae a doctissimis
+auctoribus fuisse traduntur, unius testimonium
+satis non sit ad confirmandam, sicut intendimus,
+veritatem. Cumeae quidem volumina, quibus
+Romanorum fata conscripta sunt, in arcanis habentur:
+caeterarum tamen fere omnium libelli, quominus
+in usu sint omnibus, non vetantur; ex quibus alia
+de nuntians universis gentibus iram Dei ob impietatem
+hominum, hoc modo exorsa est:
+ <foreign xml:lang="greek">
+<l>Ἐρχομένης ὀργῆς μεγάλης ἐπὶ κόσμον ἀπειθῆ,</l>
+<l>Ἔσχατον εἰς αἰῶνα θεοῦ μηνύματα φαίνω,</l>
+<l>Πᾶσι προφητεύσασα κατὰ πόλιν ἀνθρώποισι.</l> </foreign>
+        </p>
+<p>
+          <pb n="0143C"/>Alia quoque per indignationem Dei adversus injustos
+<pb n="0144A"/>
+cataclysmum priore saeculo factum esse dixit, ut
+malitia generis humani extingueretur.
+ <foreign xml:lang="greek">
+<l>Ἐξ οὗ μηνίσαντος ἐπουρανίοιο θεοῖο</l>
+<l>Αὐταῖσι πολίεσσι καὶ ἀνθρώποισιν ἅπασιν.</l> 
+<l>Γῆν ἐκάλυψε θάλασσα κατακλυσμοῖο ῥαγέντος.</l> </foreign>
+        </p>
+<p>Simili modo deflagrationem postea futuram vaticinata
+est, qua rursus impietas hominum deleatur.
+ <foreign xml:lang="greek">
+<l>Καί ποτε τὴν ὀργὴν θεὸν οὐκ ἔτι πραΰνοντα,</l>
+<l>Ἀλλ' ἐξεμβρίθοντα, καὶ ἐξολύοντά τε γένναν</l>
+<l>Ἀνθρώπων, ἅπασαν ὑπ' ἑμπρησμοῦ πέρθοντα.</l> </foreign>
+        </p>
+<p>Unde apud Nasonem de Jove ita dicitur:
+<l>Esse quoque in fatis reminiscitur, affore tempus,</l>
+<l>Quo mare, quo tellus, correptaque regia coeli</l>
+<l>Ardeat, et mundi moles operosa laboret.</l>
+        </p>
+<p>Quod tunc fiat necesse est, cum honor, et cultus Dei
+summi apud homines interierit.</p>
+<p>
+          <pb n="0144B"/>Eadem tamen, placari eum poenitentia factorum
+et sui emendatione contestans, haec addidit:
+ <foreign xml:lang="greek">
+<l>Ἀλλ' ἐλέει μετάθεσθε βροτοὶ νῦν, μὴ δὲ πρὸς ὀργήν</l>
+<l>Παντοίην ἀγάγητε θεὸν μέγαν.</l> </foreign>
+        </p>
+<p>Item paulo post: <foreign xml:lang="greek">
+<l>Οὐκ ὁλέσει, παύσει δὲ πάλιν χόλον, εὔτ' ἁν ἄπαντες</l>
+<l>Εὐσεβέειν ἐρίτιμον ἑνὶ φρεσὶν ἀσκήσητε.</l> </foreign>
+        </p>
+<p>Deinde alia Sibylla coelestium terrenorumque genitorem
+diligi oportere denuntiat, ne ad perdendos homines
+indignatio ejus insurgat:
+ <foreign xml:lang="greek">
+<l>Μήποτε θυμωθεὶς θεὸς ἄφθιτος ἐξαπολέσσῃ</l>
+<l>Πᾶν γένος ἀνθρώπων, βιότον καὶ φῦλον ἀναιδὲς,</l>
+<l>Δεῖ στέργειν γενετῆρα Θεὸν σοφὸν αἰὲν ἐόντα.</l> </foreign>
+        </p>
+<p>
+          <pb n="0144C"/>Ex his apparet vanas esse rationes philosophorum,
+<pb n="0145A"/>
+ qui Deum putant sine ira; et inter caeteras laudes
+ejus id ponunt, quod est inutilissimum, detrahentes
+ei, quod est rebus humanis maxime salutare, per
+quod constat ipsa majestas. Regnum hoc imperiumque
+terrenum nisi metus custodiat, solvitur. Aufer
+iram regi, non modo nemo parebit, sed etiam de fastigio
+praecipitabitur. Imo vero cuilibet humili eripe
+hunc affectum, quis eum non spoliabit? quis non deridebit?
+quis non afficiet injuria? Ita nec indumenta,
+nec sedem, nec victum poterit habere, aliis quidquid
+habuerit diripientibus; nedum putemus coelestis imperii
+majestatem sine ira et metu posse consistere.
+Apollo Milesius, de Judaeorum religione consultus,
+responso hoc indidit:
+ <foreign xml:lang="greek">
+<l>Ἠδὲ Θεὸν βασιλῆα καὶ γεννητῆρα πρὸ πάντων,</l>
+<l>
+<pb n="0145B"/>Ὃν τρέμεται καὶ γαῖα, καὶ οὐρανὸς, ἠδἐ θάλασσα,</l>
+<l>Ταρτάρεοί τε μυχοὶ, καὶ δαίμονες ἐκφρίττουσιν.</l> </foreign>
+        </p>
+<p>Si tam lenis est, quam philosophi volunt, quomodo
+ad nutum ejus non modo daemones, et ministri tantae
+potestatis, sed etiam coelum, et terra, et rerum natura
+omnis contremiscit? Si enim nullus alteri servit nisi
+coactus, omne igitur imperium metu constat: metus
+autem per iram: nam si non moveatur quis adversus
+parere nolentem, nec cogi poterit ad obsequium.
+Consulat unusquisque affectus suos: jam intelliget
+neminem posse sine ira et castigatione imperio subjugari.
+Ubi ergo ira non fuerit, imperium quoque
+non erit. Deus autem habet imperium; ergo et iram,
+<pb n="0146A"/>
+qua constat imperium, habeat necesse est. Quapropter
+nemo vaniloquentia philosophorum inductus ad
+contemptum se Dei erudiat; quod est maximum nefas.
+Debemus hunc omnes et amare, quod pater est;
+et vereri, quod dominus; et honorificare, quod beneficus;
+et metuere, quod severus: utraque persona
+in eo venerabilis. Quis salva pietate non diligat animae
+suae parentem? aut quis impune contemnat eum, qui
+rerum dominator, habeat in omnes veram et aeternam
+potestatem? Si patrem consideres, ortum nobis
+ad lucem, qua fruimur, subministrat: per illum vivimus,
+per illum in hospitium hujus mundi intravimus.
+Si Deum cogites, ille nos innumerabilibus copiis
+alit, ille sustentat, in hujus domo habitamus, hujus
+familia sumus; et si minus obsequens, quam decebat,
+<pb n="0146B"/>
+minusque officiosa, quam domini et parentis immortalia
+merita poscebant: tamen plurimum proficit ad
+veniam consequendam, si cultum ejus notionemque
+teneamus; si abjectis humilibus terrenisque tam rebus,
+quam bonis, coelestia et divina sempiterna meditemur.
+Quod ut facere possimus, Deus nobis sequendus
+est, Deus adorandus et diligendus est; quoniam
+in eo est materia rerum, et ratio virtutum, et
+fons bonorum.</p>
+<p>Quid enim Deo aut potentia majus est, aut ratione
+perfectius, aut claritate luculentius? Qui quoniam nos
+ad sapientiam genuit, ad justitiam procreavit; non
+est fas hominem, relicto Deo sensus, ac vitae datore,
+<pb n="0147A"/>
+ terrenis fragilibusque famulari, aut quaerendis temporalibus
+bonis inhaerentem, ab innocentia et pietate
+desciscere. Non faciunt beatum vitiosae ac mortiferae
+voluptates, non opulentia libidinum incitatrix, non
+inanis ambitio, non caduci honores, quibus illaqueatus
+animus humanus, et corpori mancipatus, aeterna
+morte damnatur: sed innocentia sola, sola justitia,
+cujus legitima et digna merces est immortalitas, quam
+statuit a principio Deus sanctis et incorruptis mentibus,
+quae se a vitiis et ab omni labe terrena integras
+inviolatasque conservant. Hujus praemii coelestis ac
+sempiterni participes esse non possunt, qui facinoribus,
+fraudibus, rapinis, circumscriptionibus conscientiam
+polluerunt, quique injuriis hominum, nefariis
+commissis, ineluibiles sibi maculas inusserunt.
+Proinde universos oportet, qui sapientes, qui homines
+<pb n="0147B"/>
+merito dici volunt, fragilia contemnere, terrena calcare,
+humilia despicere, ut possint cum Deo beatissima
+necessitudine copulari.</p>
+<p>
+          <pb n="0148A"/>Auferatur impietas, discordiae; dissensionesque
+turbulentae ac pestiferae sopiantur, quibus humanae
+societates, et publici foederis divina conjunctio rumpitur,
+dirimitur, dissipatur: quantum possumus,
+boni ac benefici esse meditemur; si quid nobis opum,
+si quid suppetit copiarum, id non voluptati unius,
+sed multorum saluti impartiatur. Voluptas enim tam
+mortalis est, quam corpus, cui exhibet ministerium.
+Justitia vero et beneficentia tam immortales, quam
+mens et anima, quae bonis operibus similitudinem
+Dei assequitur. Sit nobis Deus non in templis, sed in
+corde nostro consecratus. Destructilia sunt omnia,
+quae manu fiunt. Mundemus hoc templum, quod non
+fumo, non pulvere, sed malis cogitationibus sorditatur;
+quod non cereis ardentibus, sed claritate ac
+luce sapientiae illuminatur. In quo si Deum semper
+<pb n="0148B"/>
+crediderimus esse praesentem, cujus divinitati secreta
+mentis patent, ita vivemus, ut et propitium
+semper habeamus, et nunquam vereamur iratum.
+
+</p>
+      </div2>
+</body>
+  </text>
+</TEI>

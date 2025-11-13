@@ -1,0 +1,2777 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De paradiso</title>
+              <author ref="http://viaf.org/viaf/100227669">Ambrosius Mediolanensis<date>340-397</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 14</title>
+           <idno>AmbMed.DePar</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De paradiso</head>
+
+<pb n="0275"/>
+<emph>145</emph> 
+
+<div2>
+          <head>CAPUT I.</head>
+<p divs_removed="true"> <hi>Quam difficile sit de paradiso disserere. Ejus tamen
+auctor, natura, situs, incola indicantur; et res ad
+mysterium sensum traducitur.</hi> 
+<pb n="0275A"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ <hi>Et plantavit Deus paradisum in Eden secundum
+Orientem: et posuit ibi hominem quem finxit <note>(Gen.
+II, 8)</note>
+              </hi>. De paradiso adoriundus sermo non mediocrem
+ aestum nobis videtur incutere, quidnam sit paradisus,
+et ubi, qualisve sit, investigare et explanare
+cupientibus: maxime cum Apostolus sive in corpore,
+sive extra corpus nesciat, raptum se tamen dicat
+usque ad tertium coelum. Et rursus: <hi>Scio,</hi> inquit, <hi>hujusmodi hominem, sive in corpore, sive extra corpus
+nescio, Deus scit; quoniam raptus est in paradisum,
+et audivit ineffabilia verba, quae non licet homini
+<pb n="0275B"/>
+loqui . . . Pro hujusmodi gloriabor, pro me autem non
+gloriabor, nisi in infirmitatibus meis: si enim voluero
+gloriari, non ero stultus: nam veritatem dico 
+ <note>(II Cor.
+XII, 5 et 6)</note>
+              </hi>. Ergo si hujusmodi paradisus est, ut eum
+solus Paulus, aut vir aliquis Pauli similis, cum in
+hac vita degeret, videre potuerit; idem tamen sive
+in corpore, sive extra corpus viderit, meminisse non
+possit; audierit tamen verba, quibus prohibitus sit
+vulgare quod audierat: quo tandem nos modo paradisi
+situm poterimus absolvere, quem nec videre
+potuimus: et si potuissemus videre, prohiberemur
+tamen aliis intimare <emph>146</emph>? Simul cum Paulus extollere
+se revelationum sublimitate sit veritus, quanto
+magis nobis timendum est id sollicitius indagare,
+cujus etiam revelatio obnoxia sit periculo? Non
+<pb n="0275C"/>
+igitur hylen hunc paradisum aestimare debemus; et
+ideo relinquamus Pauli esse secretum.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Tamen quoniam hic legimus in Genesi a Deo
+paradisum esse plantatum secundum Orientem, et
+ibi esse positum hominem, quem plasmavit Deus;
+istius paradisi auctorem jam possumus invenire.
+<pb n="0276A"/>
+Quis est enim qui potuit fingere paradisum, nisi omnipotens
+Deus, qui dixit et facta sunt, numquam indigens
+eorum quae generari vellet? Ipse ergo plantavit
+paradisum de quo dicit Sapientia: <hi>Omnis plantatio
+quam non plantavit Pater meus, eradicabitur <note>(Matth. V, 13)</note>
+            </hi>.
+Bona angelorum plantatio, bona sanctorum.
+Sancti enim sub ficu et vite dicuntur in illo
+pacis futuri tempore, in quibus typus est angelorum <note>(Micheae. IV, 4)</note>.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Ergo paradisus est plurima ligna habens, sed
+ligna fructifera, ligna plena succi atque virtutis, de
+quibus est: <hi>Exultabunt omnia ligna silvarum <note>(Ps.
+XCV, 13)</note>
+            </hi>; ligna semper florentia viriditate meritorum,
+sicut illud lignum quod plantatum est secus
+decursus aquarum, cujus folium non defluet; quia
+totus in eo fructus exuberat. Hic ergo paradisus
+<pb n="0276B"/>
+est.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Locus autem ejus in quo est plantatus, voluptas
+dicitur. Unde et sanctus David ait: <hi>Ex torrente
+voluptatis tuae potabis eos <note>(Ps. XXXV, 9)</note>
+            </hi>. Legisti enim:
+Quia <hi>fons procedit ex Eden, qui rigat paradisum <note>(Gen.,
+II, 10)</note>
+            </hi>. <emph>147</emph> Haec igitur sanctorum ligna, quae plantata
+sunt in paradiso, quasi profluvio quodam torrentis
+spiritus irrigantur. De quo etiam alibi ait: <hi>Fluminis
+impetus laetificat civitatem Dei <note>(Ps. XLV, 5)</note>
+            </hi>. Est autem
+civitas illa quae sursum est Hierusalem libera, in qua
+diversa sanctorum merita pullularunt.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ In hoc ergo paradiso hominem Deus posuit
+quem plasmavit. Intellige etiam quia non eum hominem
+qui secundum imaginem Dei est, posuit, sed
+eum qui secundum corpus. Incorporalis enim in loco
+<pb n="0276C"/>
+non est. Posuit autem eum in paradiso sicut solem in
+coelo, exspectantem regnum coelorum, quemadmodum
+creatura exspectat revelationem filiorum Dei.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Ergo si paradisus est in quo erant exorta virgulta,
+videtur paradisus anima esse quae multiplicat
+semen acceptum, in qua virtus unaquaeque plantatur,
+<pb n="0277A"/>
+in qua erat etiam lignum vitae, hoc est sapientia, sicut
+dixit Salomon <note>(Sap. VII, 25)</note>: quia sapientia non
+de terra exorta est, sed de Patre. Est enim splendor
+lucis aeternae, et emanatio omnipotentis gloriae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Quod lignum scientiae boni et mali in paradiso fuerit,
+quodque ibidem serpens exstiterit, non reprehendendum.
+Et quid nonnulli per serpentem, Adamum, et
+Evam intellexerint.</hi> </p>
+<div3>
+            <head>7.</head>
+            <p>
+ Erat autem lignum scientiae boni et mali in paradiso.
+Sic enim habes: Quia <hi>produxit Deus lignum
+speciosum ad aspectum, et bonum ad escam, et lignum
+vitae in paradiso, et lignum scientiae boni et mali <note>(Gen.
+II, 9)</note>
+            </hi> Postea videbimus utrum et hoc lignum speciosum
+<pb n="0277B"/>
+ad aspectum, et bonum ad escam fuerit sicut caetera.
+Eo enim loco hoc opportunius disputabitur, quo hominem
+ex hoc gustantem ligno invenimus esse deceptum.
+Interim nihil habemus, quod nunc reprehendere
+debeamus, etsi rationem scire non possimus.
+Neque enim in hac creatura mundi, si qua
+nobis difficilia intellectu videntur, et incomprehensibilia
+ingenio nostro, temerario quodam debemus
+condemnare judicio, ut creaturam serpentium, venenatique
+alicujus animantis; quippe homines qua
+ratione singula quaeque sint facta intelligere adhuc
+et scire non possumus. Sic ergo et in Scripturis divinis
+non facile reprehendamus aliquid quod intelligere
+non possumus. Sunt enim plurima quae non
+nostro ingenio metienda sunt; sed ex altitudine divinae
+<pb n="0277C"/>
+dispositionis et verbi sunt aestimanda.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Pone enim, sine praejudicio tamen assertionis
+futurae, ideo tibi hoc lignum de scientia boni et mali
+displicere, quia posteaquam gustaverunt ex eo homines,
+intellexerunt se esse nudos; attamen ad consummationem
+divinae operationis dicam tibi et hoc
+lignum in paradiso exortum, et ideo a Deo esse
+permissum, ut possimus supereminentiam boni scire.
+Quomodo <emph>148</emph> enim si non esset scientia boni et mali,
+inter bonum et malum discretionem aliquam disceremus?
+Nam neque quod malum erat, malum judicaremus
+esse, nisi esset scientia boni: scientia autem
+boni esse non posset, nisi esset et bonum:
+neque rursus quod bonum erat, sciremus bonum
+esse, nisi esset scientia mali. Cape exemplum de
+ipsa conditione humani corporis. Nempe habet et
+<pb n="0277D"/>
+amaritudinem quamdam fellis, quae si in commune
+prospicias, ad salutem hominis utilis invenitur. Ergo
+et quod malum putamus, plerumque non per omnia
+<pb n="0278A"/>
+malum est, sed in commune utile. Nam sicut fel in
+parte est corporis, et tamen ad totius utilitatem corporis
+prodest: ita utilitati omnium profuturam sciens
+Deus scientiam boni et mali, in parte constituit, ut
+in commune prodesset.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Denique serpentem in paradiso invenis, utique
+non sine Dei voluntate generatum. In serpentis autem
+figura diabolus est. Fuisse enim diabolum in paradiso
+etiam Ezechiel propheta docet, qui dicit super
+principem Tyri: <hi>In voluptate,</hi> inquit, <hi>paradisi factus
+es <note>(Ezech. XXVIII, 13)</note>
+            </hi>. Principem autem Tyri in figura
+accipimus diaboli. Numquid et hinc accusabimus
+Deum, quia thesauros ejus altitudinis et scientiae absconditos
+in Christo et occultos comprehendere non
+possumus, nisi quos ipse revelare dignatus est? Revelavit
+<pb n="0278B"/>
+tamen, ut sciamus etiam diaboli malitiam ad
+salutem prodesse hominibus. Non quod diabolus prodesse
+velit, sed quod malitiam ejus etiam repugnantis
+convertit nobis Dominus ad salutem. Denique
+hujus malitia Job sancti viri fecit esse virtutem et
+patientiam clariorem. Hujus malitia justitiam ejus
+exercuit; ut certaret et vinceret, et victoriam corona
+sequeretur. Nemo enim nisi qui legitime certaverit,
+coronatur. Joseph quoque castimonia numquam ad
+nostri memoriam pervenisset, nisi mulier domini ejus
+contubernalis ignitis diaboli spiculis incitata tentasset
+ejus affectum, nisi postremo affectasset ejus interitum,
+quo clarior esset castimonia viri, qui mortem
+pro castitate contempserit. Vis scire consilium Dei?
+Nempe diabolo auctore neces videntur justis hominibus
+<pb n="0278C"/>
+praeparari, exerceri quoque parricidia filiorum;
+attamen Dominus etiam Abraham hac arte tentavit,
+ut immolari sibi filium ab eodem postularet. Qua
+tentatione Abraham fidelis est Domino comprobatus,
+quod a devotionis obsequio nec dilecti filii miseratione
+revocatus sit. Ita ergo et lignum scientiae boni
+et mali in paradiso; quod erat speciosum ad visum,
+et bonum ad escam specie videbatur. Non enim usu
+bonum ad escam erat; quoniam esca ejus videtur
+hominibus obfuisse. Ergo est quod singulis noceat,
+in commune prosit, ut Judae nocuit diabolus, sed praeter
+illum omnes apostolos coronavit, qui malitiae ejus
+tentamenta vicerunt. <emph>149</emph>
+</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Itaque neque dubitandum, neque reprehendendum
+quod in paradiso diabolus erat; quando
+quidem occludere sanctis non potuit iter, ne quis ascenderet.
+<pb n="0278D"/>
+Neque enim justis habitationem incolatus
+tamquam possessor eripuit. Esto enim ut aliquos desides
+atque vitiosos ab incolatu supernae possessionis
+<pb n="0279A"/>
+averterit, illud multo augustius multoque pulchrius
+quod sanctorum orationibus excludetur, cum
+completum fuerit illud: <hi>Videbam satanam sicut fulgur
+de coelo cadentem <note>(Luc. IX, 18)</note>
+            </hi>. Ergo non metuamus
+eum, qui eousque infirmus est, ut et ipse casurus
+sit in terram. Accepit quidem tentandi licentiam:
+sed non accepit copiam subruendi, nisi sua
+sponte labatur infirmus affectus, qui sibi auxilium
+non norit arcessere. Et ideo qua fraude tentaverit
+primum hominem, quidve in homine putaverit esse
+tentandum, quo ordine, qua arte cognoscere opus
+est, ut cavere possimus.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Plerique tamen qui volunt in paradiso diabolum
+non fuisse, licet in coelo astantem cum angelis
+legerimus, ne nostro sermone videantur offendi,
+<pb n="0279B"/>
+secundum suam accipiant voluntatem interpretationem
+istius lectionis. Namque ante nos fuit <note>(Philo in
+lib. de Mundi opificio)</note>, qui per voluptatem et sensum
+praevaricationem ab homine memoraverit esse
+commissam, in specie serpentis figuram accipiens
+delectationis, in figura mulieris sensum animi mentisque
+constituens, quam <foreign xml:lang="greek">αἴσθησιν</foreign> vocant Graeci:
+decepto autem sensu praevaricatricem secundum historiam
+mentem asseruit, quam Graeci <foreign xml:lang="greek">νοῦν</foreign> vocant.
+Recte igitur in Graeco <foreign xml:lang="greek">νοῦς</foreign> viri figuram accepit, <foreign xml:lang="greek">αἴσθησις</foreign>
+ mulieris. Unde et quidam Adam <foreign xml:lang="greek">νοῦν</foreign> terrenum
+interpretati sunt. Dominus autem virgines illas
+in Evangelio <note>(Matth., XXV, 1 et seq.)</note> accensis facibus
+vel exstinctis exspectantes sponsi adventum pro sensibus
+vel integris sapientium, vel corruptis insipientium
+<pb n="0279C"/>
+posuit. Nam si Eva, hoc est, sensus primae mulieris
+accensas habuisset faces, numquam praevaricationis
+suae nos criniculis implicasset, neque ex illa
+virtutis immortalitate cecidisset.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Per fontem paradisi, Christum; per quatuor flumina
+inde orientia, virtutes cardinales, et quatuor mundi
+aetates designari.</hi> </p>
+<div3>
+            <head>12.</head>
+            <p>
+ Est ergo paradisus terra quaedam fertilis, hoc
+est, anima fecunda, in Eden plantata, hoc est in voluptate
+quadam vel exercitata terra, in qua animae
+sit delectatio. Est etiam <foreign xml:lang="greek">νοῦς</foreign> tamquam Adam: est et
+sensus, tamquam Eva. Ac ne haberes quod ad infirmum
+retorqueres naturae, vel ad obnoxiam in tolerandis
+periculis conditionem, considera quae habeat
+<pb n="0279D"/>
+anima ista subsidia.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Erat fons qui irrigaret paradisum. Qui fons,
+nisi Dominus Jesus-Christus! Fons vitae aeternae est,
+sicut et Pater; quia scriptum est: <emph>150</emph> <hi>Quoniam apud
+<pb n="0280A"/>
+te fons vitae <note>(Ps. XXXV, 10)</note>
+            </hi>. Denique, <hi>flumina de ventre
+ejus fluent aquae vivae <note>(Joan. VII, 38)</note>
+            </hi>. Et fons legitur,
+et fluvius legitur qui irrigat paradisi lignum fructuosum,
+quod ferat fructum in vitam aeternam. Hic ergo
+fons, sicut legisti, <hi>fons</hi> enim inquit, <hi>procedit ex Eden,</hi> 
+id est, in anima tua fons est. Unde Salomon ait: <hi>Bibe aquam de tuis vasis, et de puteorum tuorum fontibus <note>(Prov. V, 15)</note>
+            </hi>.
+Hic est fons qui procedit ex illa
+exercitata ut plena voluptatis anima: hic fons qui
+irrigat paradisum, hoc est, virtutes animae eminentissimo
+merito pullulantis.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ <hi>Et dividitur,</hi> inquit, <hi>hic fons in quatuor initia.
+Nomen est uni Phison: hic est qui circuit omnem terram
+Evilath, ubi est aurum. Terrae autem illius aurum
+bonum est, ubi est carbunculus, et lapis prasinus. Et
+<pb n="0280B"/>
+nomen secundo Geon: hic est qui circuit omnem
+Aethiopiam. Et flumen tertium Tigris: hic est qui vadit
+contra Assyrios. Et flumen quartum est Euphrates <note>(Gen. II, 10 et seq.)</note>
+            </hi>.
+Haec igitur quatuor sunt flumina,
+hoc est, secundum Hebraeos. Ganges autem secundum
+Graecos, qui fluit contra Indiam. Geon autem
+Nilus, qui circuit terram Aegypti vel Aethiopiam.
+Mesopotamia autem dicitur, quod Tigris et Euphrates
+incluserint eam; eo quod inter duo haec flumina
+constituta sit, quod etiam longe positis nomen ipsum
+et opinio communis expressit. Sed quemadmodum
+fons dicitur Sapientia Dei. Fons enim est secundum
+Evangelium dicens: <hi>Si quis sitit, veniat ad me, et bibat <note>(Joan. VII, 37)</note>
+            </hi>; fons est et secundum prophetam
+qui ait: <hi>Venite et edite de meis panibus, et bibite vinum
+<pb n="0280C"/>
+quod miscui vobis <note>(Prov. IX, 5)</note>
+            </hi>. Sicut ergo fons
+vitae est Sapientia, fons gratiae spiritalis: ita fons
+virtutum est caeterarum, quae nos ad aeternae cursum
+dirigunt vitae. Ex hac igitur anima quae culta est, non
+ex ea quae inculta fons iste procedit, ut irriget paradisum,
+hoc est, quaedam diversarum fruteta virtutum,
+quarum sunt quatuor initia in quae sapientia ista dividitur.
+Quae sunt quatuor initia virtutum, nisi unum
+prudentiae, aliud temperantiae, tertium fortitudinis,
+quartum justitiae <note>(Plato, lib. IV, de Repub.)</note>? Quae
+etiam sapientes istius mundi ex nostris assumpta, in
+suorum scripta librorum transtulerunt. Itaque sicut
+fons sapientiae, ita etiam flumina ista quatuor quaedam
+ex illo fonte manantia sunt fluenta virtutum.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Phison igitur prudentia est, et ideo habet bonum
+aurum, splendidum carbunculum, et prasinum
+<pb n="0280D"/>
+lapidem. Aurum enim pro inventis prudentibus frequenter
+accipimus. Unde et Dominus per Prophetam
+ait: <hi>Dedi illi aurum et argentum (Oseae II, 8)</hi>. Et
+David de prudentibus dicit: <hi>Si dormiatis inter meaios
+<pb n="0281A"/>
+cleros, pennae columbae deargentatae, et posteriora
+dorsi ejus in specie auri <note>(Ps. LXVII, 14)</note>
+            </hi>: eo quod veteri
+et novo qui inhaeserit Testamento, in ipsa secreta
+sapientiae Dei disputationis possit ubertate procedere.
+Hoc ergo bonum aurum dicit, non illud monetale
+quod corruptibile ac terrenum est. Habet
+etiam splendidum, inquit, carbunculum, <emph>151</emph> in
+quo quidam animae nostrae vivit igniculus. Habet et
+prasinum lapidem, qui viride quiddam atque vitale
+coloris sui specie ostentare videtur. Virent enim arbusta
+quae vivunt, arescunt contra quaecumque moriuntur:
+viret terra dum floret, virent et semina dum
+prorumpunt. Et bene primo loco hic fluvius positus
+est Phison, qui secundum Hebraeos Phison dicitur,
+hoc est, oris mutatio; quia non unam gentem circumfluit,
+<pb n="0281B"/>
+sed etiam per Lydiam fluit. Non enim angusta
+quaedam, sed dives utilitatum prudentia est,
+quae pluribus prosit. Ideo prima, ut si quis de paradiso
+fuerit egressus, velut quoddam eum prudentiae
+flumen excipiat, ne cito possit arescere: sed per hanc
+ad paradisum facile revertatur. Hic fluvius a multis
+hominibus frequentatur, pulchritudinemque et
+fertilitatem maximam habere perhibetur. Et ideo
+prudentia in specie hujus accipitur, quae plurimos
+fructus attulit in Domini adventu. Atque in extrema
+terrarum fluit, quia per Sapientiam omnes homines
+sunt redempti. Unde et dictum est: <hi>In omnem terram
+exivit sonus eorum, et in fines orbis terrae verba
+eorum <note>(Ps. XVIII, 5)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>16.</head>
+            <p>
+ Secundus est fluvius Geon, juxta quem lex
+<pb n="0281C"/>
+data est Israelitis, cum essent in Aegypto constituti;
+ut ex Aegypto recederent, et succincti lumbos ederent
+agnum, quod insigne est temperantiae. Castos
+enim et sanctificatos oportet Domini pascha celebrare.
+Et ideo juxta istum fluvium legitima primo observantia
+constituta est; quia significat nomen hoc
+quemdam terrae hiatum. Sicut igitur terram et
+quaecumque vel purgamenta vel frondes in ea sunt,
+hiatus absorbet: ita castitas omnes corporis passiones
+abolere consuevit. Meritoque ibi primum observantiae
+constitutio, quia per legem absorbetur carnale
+peccatum. Bene ergo Geon, in quo figura est
+castitatis, circumire terram Aethiopicam dicitur; ut
+abluat corpus abjectum, et carnis vilissimae restinguat
+incendium. Aethiopia enim abjecta et vilis Latina
+<pb n="0281D"/>
+interpretatione signatur. Quid autem abjectius
+nostro corpore? Quid tam Aethiopiae simile, quod
+etiam nigrum est quibusdam tenebris peccatorum?</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Tertius est fluvius Tigris, qui vadit contra Assyrios,
+ad quem praevaricator Israel captivus est ductus.
+Hic fluvius dicitur velocior esse omnibus,
+<pb n="0282A"/>
+quem incolunt Assyrii, hoc est dirigentes hoc
+enim significat interpretatio. Ergo quicumque fortitudine
+animi praevaricantia corporis vitia captivaverit
+dirigens ad superna, iste hujus fluminis similis
+aestimatur. Et ideo etiam fortitudo de illo qui est in
+paradiso, fonte emanat. Fortitudo autem quodam
+cursu rapido resistentia quaeque transverberat, nec
+aliquibus cursus ejus impedimentorum haeret obstaculis.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Quartus est fluvius Euphrates, qui Latine fecunditas
+atque abundantia fructuum nuncupatur,
+praeferens quoddam insigne jutitiae, quae omnem
+pascit animam. Nulla enim abundantiores <emph>152</emph> videtur
+fructus habere virtus, quam aequitas atque justitia,
+quae magis aliis quam sibi prodest, et utilitates suas
+<pb n="0282B"/>
+negligit communia emolumenta praeponens. Plerique
+Euphratem <foreign xml:lang="greek">ἀπὸ τοῦ εὐφραίνεσθαι</foreign> dictum putant, hoc
+est a laetando, eo quod hominum genus nullo magis
+quam justitia et aequitate laetetur. Causam autem cur
+caeteri qua commeant fluvii, describuntur regiones
+locorum, qua Euphrates commeat, non describantur,
+illam accepimus, quia aqua ejus vitalis asseritur, et
+quae foveat atque augeat. Unde eum Auxen Hebraeorum
+et Assyriorum prudentes dixerunt: contra autem
+fertur esse aqua aliorum fluminum. Deinde quia
+ubi prudentia, ibi et malitia: ubi fortitudo, ibi et iracundia:
+ubi temperantia plerumque, ibi intemperantia
+est, aut alia vitia sunt: ubi autem justitia, ibi concordia
+virtutum est caeterarum; ideo non ex locis qua fluit,
+hoc est, non ex parte cognoscitur. Non enim pars est
+<pb n="0282C"/>
+justitia, sed quasi mater est omnium. In his ergo fluminibus
+quatuor virtutes principales quatuor exprimuntur,
+quae veluti mundi istius incluserunt tempora.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Primum igitur tempus ex mundi principio usque
+ad diluvium prudentiae fuit, quo in tempore justi
+numerantur Abel a Deo justus dictus <note>(Matth., XXIII, 35)</note>; et Enos, hoc est homo ad imaginem Dei factus,
+qui speravit invocare nomen Domini Dei; et Enoch
+qui dicitur Latine Dei gratia, raptus ad coelum;
+et Noe qui et ipse justus, et quaedam requiei directio.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Secundum tempus est Abraham et Isaac et Jacob,
+reliquorumque numerus patriarcharum, in quibus
+casta et pura quaedam temperantia religionis effulsit.
+Immaculatus enim Isaac per repromissionem
+Abrahae datus est filius, non tam corporalis partus
+<pb n="0282D"/>
+quam divinae munus praeferens indulgentiae, in quo
+vere immaculati figura praecessit, ut Apostolus docet
+dicens: Quia <hi>Abrahae dictae sunt repromissiones, et semini
+ejus. Non dicit, et seminibus, tanquam in multis
+sed sicut in uno, et semini tuo, qui est Christus. <note>(Gal. III, 16)</note>
+            </hi>.
+<pb n="0283A"/>
+</p>
+          </div3>
+<div3>
+            <head>21. </head>
+            <p>
+Tertium tempus est in Moysi lege et caeteris
+prophetis. <hi>Deficiet enim me tempus enarrando de Gedeon,
+Barac, Samson, David, Salomone, et Samuel,
+et caeteris prophetis, Anania, Azaria, Misael, et Daniel,
+Elia, et Elisaeo qui per fidem devicerunt regna,
+operati sunt justitiam, perceperunt repromissiones, obstruxerunt
+ora leonum, extinxerunt virtutem ignis, effugaverunt
+ acies gladii, evaluerunt de infirmitate,
+fortes fuerunt in bello, castra ceperunt exterorum <note>(Heb. XI, 32 et seq.)</note>
+            </hi>.
+Non immerito igitur in his
+species fortitudinis est. <hi>Secti enim sunt,</hi> sicut infra
+habes, <hi>tentati, in mactatione gladii mortui. Circumierunt
+in caprinis pellibus, egentes, angustiati, et doloribus
+afflicti, quorum meritis non erat dignus orbis.
+In solitudinibus errantes, in montibus, in speluncis,
+<pb n="0283B"/>
+et in foveis terrae <note>(Ibid. XVII, 38)</note>
+            </hi>. Recte igitur in
+his speciem fortitudinis collocamus.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Secundum autem Evangelium digna est figura
+justitiae quia virtus est in salutem omni <emph>153</emph> credenti.
+Denique ipse Dominus ait: <hi>Sine modo; sic enim decet
+nos implere omnem justitiam <note>(Matth., III, 15)</note>
+            </hi>: quae
+quidem parens caeterarum est fecunda virtutum. In
+quo quamvis aliqua harum quas diximus, principalis
+est virtus; in eo etiam caeterae praesto sunt; quia
+ipsae sibi sunt connexae concretaeque virtutes. Nam
+utique Abel justus, et fortissimus ac patientissimus
+Abraham, et prudentissimi prophetae: Moyses vero
+eruditus in omni sapientia Aegyptiorum, majorem
+honestatem aestimavit Aegypti thesauris opprobrium
+Christi. Et quis sapientior quam Daniel? Salomon
+<pb n="0283C"/>
+quoque sapientiam poposcit, et meruit. Dictum est
+ergo de quatuor virtutum fluminibus, quorum potus
+est utilis. Et quia Phison aurum bonum terrae, et
+carbunculum, et lapidem prasinum habere dictus
+est, hoc quoque quale sit consideremus.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Videtur enim nobis tamquam aurum bonum
+Enos, qui prudenter Dei nomen scire desideravit.
+Enoch autem qui translatus est, et mortem non vidit,
+carbunculus quidam est lapis boni odoris, quem
+operibus suis sanctus Enoch Deo detulit, gratiam quamdam
+factis, et moribus spirans. Noe vero tamquam prasinus
+lapis vitalem colorem praetulit. Siquidem diluvii
+tempore solus velut ad futurae constitutionis vitale
+semen in illa arca est reservatus. Ergo bene paradisus
+qui pluribus fluminibus irrigatur, secundum
+<pb n="0283D"/>
+Orientem est, non contra Orientem, hoc est, secumdum
+illum Orientem cui nomen est Oriens, id
+est secundum Christum, qui jubar quoddam aeternae
+lucis effudit, et est in Eden, hoc est, in voluptate.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Virum in paradiso non factum, sed positum: at in eo
+factam mulierem, per quam ille fuit deceptus. Tum
+quid sit</hi> operari, et custodire?</p>
+<div3>
+            <head>24.</head>
+            <p>
+ <hi>Et apprehendit Deus hominem quem fecit, et posuit
+eum in paradiso operari, et custodire.</hi> Vides quoniam
+<pb n="0284A"/>
+qui erat, apprehenditur. Erat autem in terra
+plasmationis suae. Apprehendit ergo eum virtus Dei
+inspirans processus et incrementa virtutis: denique
+in paradiso eum collocavit; ut scias apprehensum
+quasi afflatum divina esse virtute. Quo loci illud adverte, <note>(Dist. 40, c. Illud autem)</note> quia extra paradisum
+vir factus est, et mulier intra paradisum,
+ut advertas quod non loci, non generis nobilitate,
+sed virtute unusquisque gratiam sibi comparat.
+Denique extra paradisum factus, hoc est, in inforiore
+loco, vir melior invenitur; et illa quae in meliore
+loco hoc est, in paradiso facta est, inferior reperitur.
+Mulier enim prior decepta est, et virum ipsa
+decepit. Unde apostolus Petrus subjectas fortiori vasi
+mulieres sanctas viris suis velut dominis obedire
+<pb n="0284B"/>
+memoravit <note>(I Pet. III, 1)</note>. Et Paulus ait: Quia <hi>Adam
+non est seductus: mulier autem seducta in praevaricatione
+fuit <note>(I Tim. II, 14)</note>
+            </hi>. Et inde contuendum quia
+nemo debet sibi facile praesumere. Nam ecce illa
+quae in adjumentum facta est viro, praesidio virili indiget;
+quia vir caput est mulieris: ille autem qui
+adjumentum uxoris habiturum se esse credebat,
+lapsus est per uxorem. Unde nemo <emph>154</emph> debet facile
+alteri se credere, nisi cujus virtutem probarit, nec
+arrogare sibi qui se pro auxilio putarit adscitum: sed
+magis si invenerit fortiorem cui se putabat esse praesidio,
+ab ipso gratiam mutuetur, sicut et viros mulieribus
+honorem impertire apostolus Petrus praecipit
+dicens: <hi>Viri similiter cohabitantes secundum scientiam
+tamquam infirmiori vasi muliebri impartientes honorem,
+<pb n="0284C"/>
+tamquam cohaeredi gratiae vitae; ut ne impediantur orationes
+vestrae <note>(I Pet. III, 7)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Ergo positus est in paradiso vir, facta est in
+paradiso mulier. Sed etiam tunc priusquam a serpente
+mulier deciperetur, habuit viri gratiam, quoniam
+de viro sumpta est: licet hoc sacramentum
+magnum sit, sicut Apostolus dixit <note>(Ephes. V, 32)</note>.
+Et ideo causam vitae ex eo traxit. Ideoque de viro
+tantum Scriptura dixit, quia <hi>posuit eum in paradiso
+operari et custodire.</hi> Non idem est operari et custodire.
+In opere enim quidam virtutis processus est,
+in custodia quaedam consummatio operis deprehenditur;
+eo quod quasi consummata custodiat. Haec
+duo ab homine requiruntur, ut et operibus nova
+quaerat, et parta custodiat, quod est generale. Philon
+<pb n="0284D"/>
+autem, quoniam spiritalia Judaico non capiebat
+affectu, intra moralia se tenuit, ut dice et haec duo
+quaeri, opera in agro, custodiam domus. Et quamvis
+paradisus operibus, inquit, ruralibus non egeret;
+tamen quia primus homo lex posteritatis futurus
+erat, ideo legitimi etiam in paradiso speciem suscepit
+laboris, ut nos ad operationem et custodiam debiti
+officii, et haereditariae successionis munus astringeret.
+Haec duo ergo a te exiguntur sive moraliter,
+sive spiritaliter. Quod etiam psalmus te propheticus
+docet, quia scriptum est: <hi>Nisi Dominus aedificaverit
+<pb n="0285A"/>
+domum; in vanum laboraverunt qui aedificant eam.
+Nisi Dominus custodierit civitatem, in vanum vigilant
+qui custodiunt eam. <note>(Ps. CXXVI, 1.)</note>
+            </hi> Vides illos laborare
+qui in operis sunt aedificationisque processu;
+istos vero vigilare qui jam custodiam perfecti operis
+receperunt. Unde et Dominus Apostolis quasi jam
+perfectioribus: <hi>Vigilate,</hi> inquit, <hi>et orate, ne intretis
+in tentationem <note>(Matth. XXVI, 41)</note>
+            </hi>; docens perfectae
+naturae munus, et plenae virtutis gratiam esse servandam,
+nec quemquam etiam perfectiorem nisi vigilaverit,
+sui debere esse securum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Examinatur praeceptum de non edendo de ligno scientiae
+boni et mali, et circa id emergentes difficultates
+dissolvuntur.</hi> 
+<pb n="0285B"/>
+          </p>
+<div3>
+            <head>26.</head>
+            <p>
+ <hi>Et praecepit Dominus Deus Adae dicens: Ex
+omni ligno quod est in paradiso ad escam, edes: de
+ligno autem quod est scientiae boni et mali non editis.
+Qua die autem manducaveritis ex eo morte moriemini <note>(Gen., II, 16 et 17)</note>
+            </hi>.
+Qua ratione, ubi praecepit ex
+omni ligno edendum, singulariter dixerit, <hi>Edes:</hi> 
+ubi autem de ligno scientiae boni et mali pluraliter, <hi>Non edetis,</hi> 
+ dixerit, non otiosa quaestio. Verum si
+diligenter intendas, Scripturarum auctoritate absolvi
+potest. Quod enim bonum, hoc est faciendum:
+quod autem bonum et faciendum, consonans et
+adhaerens: quod vero turpe, hoc <emph>155</emph> dissonans, incompositum,
+atque discretum est. Et ideo Dominus
+unitatem semper intendens, secundum unitatem
+<pb n="0285C"/>
+praecepit. Denique unitatem operatur, qui fecit utraque
+unum. Nec solum utraque, sed etiam omnes
+unum. Omnes enim unum corpus, et unum spiritum
+esse nos jussit. Per omnia autem primogenitus,
+cum sit in unitate cum Patre, conjunctissimus
+Patri semper est: quia Verbum erat apud
+Deum. Denique ait: <hi>Ego et Pater unum sumus <note>(Joan.
+X, 30)</note>
+            </hi>; ut unitatem sibi majestatis et divinitatis
+cum Patre esse monstraret. Sed et nos unum esse
+praecepit, et suae naturae unitatisque similitudinem
+in nos gratiae adoptione transfudit dicens: <hi>Pater sicut
+ego et tu unum sumus, ita et isti nobis unum sint <note>(Joan. XVII, 22)</note>
+            </hi>.
+Ergo ubi bonum praecipit, tamquam
+ad unum praecipit dicens, <hi>Edes.</hi> Unitas enim
+praevaricari non potest. Ubi vero de ligno scientiae
+<pb n="0285D"/>
+boni et mali, dicit non esse gustandum, quasi ad plures
+dicit, <hi>Non edetis.</hi> Quod enim prohibitorium est,
+tamquam pluribus imperatur. Ego tamen aliud puto,
+et quid futurum sit, in ipso jam Dei sermone reperio.
+De omni ligno gustandum Adae soli praecepit, quem
+servaturum sciebat: de ligno autem scientiae boni et
+mali non esse gustandum, jam non singulariter, sed
+<pb n="0286A"/>
+pluraliter dicit. Sciebat enim praevaricaturam mulierem,
+et ideo per pluralitatem ostendit non servaturos,
+quia plurium discreta sententia est.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Et quantum ad Septuaginta virorum sententiam
+spectat, solutum est quod movebat. Sed quia
+Symmachus utrumque singulariter dixit, intelligimus
+id secutum, quia in lege quoque cum populum alloquitur
+Deus, singulariter loquitur, sicut habes: <hi>Audi, Israel, Dominus Deus tuus, Deus unus est <note>(Deut. VI, 4)</note>
+            </hi>;
+et, <hi>Diliges dominum Deum tuum <note>(Ibid. 6)</note>
+            </hi>.
+Nec mihi praejudicat Symmachi interpretatio,
+qui unitatem Patris et Filii videre non potuit;
+etsi aliquoties in sermone et Aquila et ipse confessi
+sint. Nec quisquam de eo quod praevaricaturum populum
+divina mandata singulariter alloquitur, putet
+<pb n="0286B"/>
+superiori nostro obvium esse sermoni; quia populus
+Judaeorum etiam singulariter data praescripta violavit.
+Lex enim spiritualis est: et ideo alterum in sermone,
+alterum in praedestinatione, divino populum
+Deus alloquebatur oraculo. Denique ait: <hi>Non
+coques agnum in lacte matris suae <note>(Exod. XXXIV, 26)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ Facilis abhinc praeceptorum coelestium series
+videretur; nisi quaestionem plurimi commoverent,
+quibus responderi oportet a nobis; ne simplices
+mentes malitiosa interpretatione traducant. Plerique
+enim, quorum auctor Apelles, sicut habes in trigesimo
+et octavo tomo ejus, has quaestiones proponunt:
+Quomodo lignum vitae plus operari videtur ad vitam,
+quam insufflatio Dei? Deinde si hominem non perfectum
+<pb n="0286C"/>
+fecit Deus; unusquisque autem per industriam
+propriam perfectionem sibi virtutis adsciscit: nonne
+videtur plus sibi homo acquirere, quam ei Deus
+contulit? Tertium objiciunt: Et si homo non gustaverat
+mortem, utique quam non gustaverat,
+scire non poterat. Ergo si non gustaverat, <emph>156</emph> 
+nesciebat; si nesciebat timere non poterat. Frustra igitur
+Deus mortem pro terrore objecit, quam homines
+non timebant.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Discamus igitur quod ibi lignum vitae ubi
+etiam lignum scientiae boni et mali produxerit Deus.
+Habes enim quia produxit lignum vitae <foreign xml:lang="greek">ἐν μέσῳ τοῦ
+παραδείσου,</foreign>
+hoc est, in medio paradisi. Apud nos
+enim <foreign xml:lang="greek">ἐν μέσῳ</foreign> intelligitur, quod in medio produxerit.
+Ergo in medio paradiso et vita erat, et causa mortis.
+<pb n="0286D"/>
+Intellige quia non homo fecit vitam, sed vel operando,
+vel custodiendo mandata Dei potuit invenire.
+Erat autem <hi>vita,</hi> sicut Apostolus dixit, <hi>abscondita
+cum Christo in Deo <note>(Colos. III, 3)</note>
+            </hi>. Homo
+ergo sive in umbra vitae erat propter vitam futuram,
+quia umbra est haec quae nunc nostra est vita in
+terra, sive in quodam pignore vitae erat, quia habebat
+<pb n="0287A"/>
+insufflationem Dei. Habebat ergo pignus immortalitatis:
+sed in umbra vitae positus absconditam vitam
+cum Christo in Deo vulgari quodam tactu et
+aspectu videre et capere non poterat. Et si nondum
+peccator, non tamen incorruptae, inviolabilisque
+naturae; ut pote qui postea peccato lapsus est, nequaquam
+autem adhuc peccator. Denique in umbra
+vitae erat: qui autem peccatores sunt, in umbra
+mortis sunt. Peccatorum enim populus, sicut Esaias
+docet <note>(Esai. IX, 2)</note>, sedebat in umbra mortis, cui
+lux orta per Dei gratiam, non per sua virtutis est
+meritum. Ergo inter insufflationem Dei, et escam
+ligni vitae nulla discretio. Nec hominem quis potest
+dicere plus sibi posse acquirere, quam divina ei largitate
+collatum est. Utinam acceptum tenere possemus.
+<pb n="0287B"/>
+Labor etenim noster eo proficit, ut quae tributa
+sunt, resumamus. Tertium illud quod propositum
+est, quia qui mortem non gustaverat, mortem timere
+non poterat, facile ex communis naturae usu
+absolutionem habet. Est enim natura insitum omnibus
+animantibus, ut etiam quae nondum sibi nocere
+experta sunt, quasi noxia reformident. Unde enim
+columbae in ipso sui ortu visit terror accipitris? Unde
+lupi ovibus formidabiles, pullis milvi? Quod si in
+iis quae irrationabilia sunt animantia, quidam de adverso
+genere animantium naturalis est terror, ut
+etiam irrationabilia sensum fugiendae mortis accipiant:
+quanto magis in primo homine rationis utique
+plenissimo, naturalis quaedam opinio mortis
+debuit esse vitandae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Alias plures dubitationes circa praeceptum Adae datum,
+et Evae praevaricationem excitatas diluit.</hi> </p>
+<div3>
+            <head>30.</head>
+            <p>
+ Rursus faciuntalias quaestiones hoc modo:
+Non semper <note>(XI, q. 1, c. Non semper)</note> malum est
+non obedire praecepto. Si enim bonum est praeceptum,
+honesta est obeditio: quod si improbum praeceptum,
+non obedire utile. Ergo non semper malum
+est non obedire praecepto: sed bono praecepto non
+obedire improbum est. Bonum autem est <emph>157</emph> operatorium
+cognitionis boni et mali lignum; quandoquidem
+Deus et bonum et malum novit. Denique
+ait: <hi>Ecce Adam factus est tamquam unus nostrum <note>(Gen. III, 22)</note>
+            </hi>.
+Si igitur bonum est scientiam habere
+<pb n="0287D"/>
+boni et mali, bona autem est quam etiam Deus habet,
+videtur qui interdicit eam hominibus, non
+recte interdicere; idque proponunt. Sed si intelligant
+quid sit cognoscere, quam vim habeat hoc verbum:
+si sic intelligant quemadmodum oportet, <hi>cognovit</hi> 
+enim <hi>Dominus qui sunt ipsius <note>(II Tim. II, 19)</note>
+            </hi>;
+cognovit utique eos qui unum ex pluribus facti sunt,
+in quibus inhabitat, et in quibus perambulat. Cognoscere
+<pb n="0288A"/>
+utique non in sola et perfunctoria scientia
+est, sed in eorum operatione quae oporteat fieri.
+Oportuit autem hominem obedire mandato, non
+obediendo autem praevaricatus est. Igitur qui non
+obedivit, erravit, quia praevaricatio peccatum est.
+Verumetiam si extenuare velint vim cognitionis, ut
+perfunctoriam scientiam boni et mali interdictam
+putent, in eo quoque praevaricationis culpa est non
+obeditum esse mandato; quia etiam tumultuariam
+scientiam boni et mali Dominus Deus putavit inhibendam.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Alia quaestio: Qui non cognoscit bonum et
+malum, nihil a parvulo distat. Parvuli autem apud
+justum judicem nulla est culpa. Justus autem operator
+mundi numquam parvulum vocasset in culpam,
+<pb n="0288B"/>
+propter quod non cognoverat bonum et malum;
+quia parvulus sine ullo est crimine praevaricationis
+et culpae. Verum cum in superioribus dixerimus duplicem
+esse intellectum scientiae boni et mali, si
+perfunctoriam scientiam accipimus, utique falsum
+est quod nihil distet a parvulo, qui non cognovit
+bonum et malum. Si autem falsum est quod nihil
+distet a parvulo; ergo non parvulus Adam. Si non
+parvulus, ascribitur utique ei quasi non parvulo
+peccatum. Si peccatum ascribitur, sequitur poena
+peccatum; quia dignus invenitur poena, qui peccatum
+vitare non procuravit. Potest etiam fieri, ut
+etiam qui scientiam non habet boni et mali <note>(Esa. VII,
+16)</note>, parvulus non sit; quoniam priusquam scivit
+puer bonum et malum, non credidit malitiae. Et iterum
+<pb n="0288C"/>
+habes: <hi>Quia priusquam sciat puer vocare patrem
+et matrem, accipiet virtutem Damasci, et spolia
+Samariae <note>(Esa., VIII, 4)</note>
+            </hi>. Perfectus ergo qui operatur
+bonum, etiam si boni et mali scientiam non adeptus
+sit, ut multi priusquam sciant legem, ipsi sibi lex
+sunt. Quod Apostolus priusquam diceret: <hi>Non concupisces <note>(Rom. II, 14)</note>
+            </hi>,
+malum esse concupiscentiam
+nesciebat. Denique ipse ait: <hi>Peccatum non cognovi
+nisi per legem. Nam concupiscentiam nesciebam, nisi
+lex diceret: Non concupisces <note>(Rom. VII, 7)</note>
+            </hi>. Ad quam
+partem etiam puer potest esse perfectus jure naturae,
+priusquam sciat concupiscentiam crimen esse,
+vel concupiscentiae crimen admittat. Ergo secundum
+perfunctoriam scientiam noluit Deus hominem scire
+quod malum est, ne quasi imperfectus vitare non
+<pb n="0288D"/>
+posset. Non obediendo autem mandato incurrimus
+in culpam: ergo culpam fatemur. Rursus autem si
+altam et profundam <emph>158</emph> scientiam dicimus boni et
+mali, quae quidem profunda scientia perfectum facit;
+non statim autem parvulus qui ad altam et profundam
+scientiam pervenire non potuit, recte sicut non
+parvulus condemnatur.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Iterum quaestiones serunt: Qui nescit, inquiunt,
+<pb n="0289A"/>
+bonum et malum, ne ipsum quidem novit
+esse malum non servare mandatum, nec ipsum bonum
+novit, quod est obedire mandato. Et ideo quia
+non noverat, venia, inquiunt, dignus fuit qui non
+obedivit, non condemnatione. Quae quidem quaestio
+de his absolutionem habet, quae ante memoravimus.
+Considerare enim potuit homo ex iis quae Deus ante
+ei contulerat, quod insufflationem Dei accepit, quod
+erat in paradiso voluptatis locatus, summam auctori
+obedientiam deferendam. Et ideo si vim nesciebat
+boni et mali; tamen quia tantorum auctor dixerat
+de ligno scientiae boni et mali non esse gustandum,
+fidem praeceptori servare debuerat. Non enim ab eo
+peritia, sed fides exigebatur. Intelligebat utique
+Deum omnibus praeeminere, ideoque personam jubentis
+<pb n="0289B"/>
+spectare debuerat. Et si non intelligebat vim
+qualitatemque jussorum; sciebat tamen praeceptori
+deferendam esse reverentiam. Habebat in natura
+hanc opinionem; etsi non habebat judicium boni et
+mali. Denique et mulier serpenti dixit: <hi>Ex omni
+ligno paradisi manducabimus: de fructu autem ligni
+quod est in medio paradiso dixit Deus: Non manducabitis
+ex eo <note>(Gen. III, 3)</note>
+            </hi>. Ita ergo sciebat obediendum
+esse mandato, ut diceret: Ex omni fructu manducabimus,
+quod Dominus imperaverat: de ligno
+autem quod est in medio paradiso, imperatum a Deo
+dicit non esse gustandum, ne morte morerentur.
+Ergo quia scivit deferendum esse mandato, scivit
+utique malum esse praevaricari, et ideo juste praevaricata
+damnatur.
+<pb n="0289C"/>
+</p>
+          </div3>
+<div3>
+            <head>33. </head>
+            <p>
+Accipite aliud: Si assumptio de ligno scientiae
+boni et mali ita operatoria erat, ut bonum et
+malum agnosceretur; quod videtur Scriptura ostendere,
+dum dicit: Quia ubi <hi>manducaverunt ambo,
+aperti sunt oculi eorum, et cognoverunt quod nudi essent <note>(Ibid. 6 et 7)</note>
+            </hi>;
+hoc est, aperti sunt oculi cordis,
+et cognoverunt turpe esse nudos se degere: sine
+dubio ubi gustavit mulier de ligno scientiae boni et
+mali, peccavit et se peccasse cognovit. Quae igitur
+se peccasse cognoverat, vel virum ad peccati communionem
+invitare non debuit. Illiciendo autem virum,
+et dando ei quod ipsa gustaverat, non vitavit,
+sed iteravit peccatum. Nam utique si vere rationem
+spectes, eum quem diligebat, non trahere ad consortium
+poenae, sed magis ab eo quod cognoverat
+<pb n="0289D"/>
+ipsa esse peccatum, vel inscientem revocare debuerat;
+quamvis videatur haec mulier sciens quod post
+culpam in paradiso esse non posset, metuisse ne
+sola de paradiso ejiceretur. Denique absconderunt
+se ambo post culpam. Excludendam igitur se esse
+cognoscens, consortio viri quem diligebat, noluit
+defraudari.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Iterum accipe: Non cognitio mali malum <emph>159</emph> 
+est; sed cum actus implet malitiam. Non enim statim
+<pb n="0290A"/>
+qui novit malum, quod malum est, facit: sed
+qui quod malum esse novit, operatur. Incentivum
+autem ad operandum quod malum est, aut iracundia,
+aut cupiditas esse consuevit. Nec statim necesse,
+ut habens scientiam mali faciat quod improbum
+novit, nisi aut iracundia aut cupiditate vincatur.
+Unde quod diximus incentivum peccandi, vel
+ira, vel cupiditas est, vel plerumque formido, licet
+ex formidine oriatur cupiditas, dum unusquisque
+vult vitare quod metuit. Et ideo recte iracundiam et
+cupiditatem duorum reliquorum posuimus incentiva
+vitiorum. Consideremus igitur utrum Eva his ad
+vitium stimulis incitata sit. Sed neque irascebatur
+marito, neque cupiditate victa est: in secundo dumtaxat
+errat, ut edendum viro daret, quod jam ipsa
+<pb n="0290B"/>
+gustaverat. Primo fuerat cupiditas auctor erroris ut
+ipsa ederet, sequentisque fuit causa peccati. Quod
+enim jam gustaverat, desiderare non poterat: et
+gustando, mali fuerat scientiam consecuta. Malum
+igitur quod adverterat, in virum derivare non debuit,
+neque conjugem proprium praevaricatorem divini
+facere mandati. Sciens igitur prudensque peccavit,
+et sciens virum in suum traxit errorem. Alioquin
+invenietur falsus esse de ligno scientiae boni et
+mali sermo, si etiam posteaquam de ea arbore manducavit,
+ scientiam mali habere non potuit. Quod si
+verus est sermo, cupiditatis utique causam habere
+non potuit: licet plerique sic excusandum putent,
+quod diligens virum ab eo timuerit separari, et
+hanc causam cupiditatis praetendant, quod esse voluerit
+<pb n="0290C"/>
+cum marito.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Quaeritur utrum a Deo, vel a ligno, vel demum aliunde
+mors homini acciderit; atque objectio multiplici
+responsione diluitur.</hi> </p>
+<div3>
+            <head>35.</head>
+            <p>
+ Iterum alia quaestio subrepit unde mors acciderit
+Adae, utrum a natura ligni ejusmodi, an vero
+a Deo. Si naturae ligni hoc ascribimus, videtur ligni
+hujus fructus vivificandi insufflationi Dei praestare;
+siquidem quem vivificaverat insufflatio, fructus hujus
+ligni traxit ad mortem. Aut si Deum operatorem
+mortis esse memoramus, dicunt quod gemina eum
+opinione accusemus: quod aut ita immitis, ut noluerit
+ignoscere, cum posset; aut si ignoscere non
+potuerit, videatur infirmus. Videamus igitur quomodo
+<pb n="0290D"/>
+diluendum sit. Nisi fallor, mortis causa inobedientia
+fuit; et ideo homo ipse sibi mortis est
+causa, non habens Deum suae mortis auctorem. Neque
+enim si medicus praescripsit aegrotanti a quibus
+videatur cavendum, atque ille ab interdictis non putaverit
+abstinendum, causa ei mortis est medicus:
+sed utique ipse sibi reus mortis est propriae. Itaque
+Deus quasi bonus medicus prohibuit, ne Adam nocitura
+gustaret.
+<pb n="0291A"/>
+</p>
+          </div3>
+<div3>
+            <head>36. </head>
+            <p>
+Iterum accipe: Scire bonum melius est, quam
+nescire; et ei qui bonum sciat, pulchrum est scire
+quod malum est, ut sciat cavere quod malum est, et ut
+prudens subeat custodiae cautionem. Rursus autem non
+satis est hoc solum <emph>160</emph> scire quod malum est; ne
+cum malum scias, scientia boni incipias defraudari.
+Pulchrius est igitur ut utrumque norimus; ut et quia
+scimus bonum, fugiamus quod malum est; et ex eo
+quod cognoscimus malum, boni gratiam praeferamus.
+Sed ita debes utrumque scire, ut et profunde noveris,
+et quod noveris exsequaris, actusque scientiae
+congruat. Alioquin tolerabiliorem Scriptura indicat
+cum <note>(Luc. XII, 47)</note>, qui utrumque nesciat, quam
+qui perfunctorie utrumque cognovit. Gravat enim
+scire, quod vel exsequi vel vitare non possis: gravat
+<pb n="0291B"/>
+scire sine usu atque opere cognitionis profundae.
+Denique obest ad existimationem medico scire quid
+prosit, et quid noceat aegro; nisi cognitione ea quemadmodum
+oportet, utatur: et ideo non est cognitio
+bona, nisi ea utaris ut oportet.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Item accipe: Non frustra lignum scientiae boni
+et mali productum est in medio paradiso: et si cuicumque
+homini productum esset, superflua interdictio.
+Sed neque frustra factum est, neque alii,
+nisi homini factum est, qui mandatum accepit; ut
+non solo eo, sed eo cum caeteris uteretur. Nam si
+multa discutias, complura reperies et plane innumera,
+quae ei qui uti nesciat, possint nocere. Nec
+ipsas divitias invenies fructuosas, si habens dives
+subsidia largitatis, neget alimenta pauperibus, excludat
+<pb n="0291C"/>
+inopem subsidio destitutum, aliena extorqueat,
+quia praevalet potestate. Pulchritudo ipsa et
+gratior corporis forma frequenter in vitium, quam
+deformitas trahit. Numquid igitur quisquam deformiores,
+quam pulchriores filios habere desiderat,
+et inopes potius liberos suos cupit esse, quam divites?
+Plura sunt hujusmodi quae non ad imprudentiam
+largientis referenda sunt, sed ad male utentis
+errorem. Et ideo utentem accusandum potius quam
+donantem.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Solvuntur quaestiones de praescientia Dei circa praevaricationes
+Adae, et opinionem boni et mali humanis
+mentibus divinitus impressam.</hi> </p>
+<div3>
+            <head>38. </head>
+<p>
+              <pb n="0291D"/>Iterum quaestio: Sciebat praevaricaturum
+Deus Adam mandata sua, an nesciebat? Si nesciebat,
+non est ista divinae potestatis assertio: si autem
+sciebat, et nihilominus sciens negligenda mandavit,
+non est Dei aliquid superfluum praecipere. Superfluum
+autem praecepit protoplasto illi Adae, quod
+cum noverat minime servaturum: nihil autem Deus
+superfluum facit; ergo non est Scriptura ex Deo. Hoc
+enim objiciunt, qui Vetus non recipiunt Testamentum,
+et has interserunt quaestiones. Verum hi sua
+<pb n="0292A"/>
+sententia et opinione vincendi sunt. Cum enim novi
+Testamenti non refutant fidem, exemplo sunt arguendi,
+ut vetus credant: quoniam cum sibi divina
+praecepta et facta conveniant, unius auctoris Testamentum
+utrumque liquet esse credendum. Discant
+igitur non superfluum, non injustum etiam praevaricaturo
+praescriptum esse mandatum. Nam et ipse
+Dominus Jesus elegit Judam, quem proditorem sciebat.
+Quem si per <emph>161</emph> imprudentiam electum putant,
+divinae derogant potestati. Sed hoc aestimare
+non possunt, cum Scriptura dicat: Quia <hi>sciebat Jesus
+quis eum proditurus esset <note>(Joan. VI, 65)</note>
+              </hi>. Conticescant
+igitur repugnatores isti veteris Testamenti.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Sed quoniam etiam gentilibus, si forte istud
+objecerint, respondendum videtur, qui exemplum
+<pb n="0292B"/>
+non recipiunt, rationem exigunt; accipiant etiam
+ipsi qua ratione Dei Filius vel praevaricaturo mandaverit,
+vel elegerit proditurum. Venerat Dominus
+Jesus omnes salvos facere peccatores, etiam circa
+impios ostendere suam debuit voluntatem. Et ideo
+nec proditurum debuit praeterire; ut adverterent
+omnes, quod in electione etiam proditoris sui servandorum
+omnium insigne praetendit, nec in eo laesus
+est vel Adam, quia mandatum accepit, vel Judas,
+quia electus est. Non enim necessitatem Deus vel
+illi praevaricationis, vel huic proditionis imposuit,
+quia uterque si quod acceperat, custodisset, a peccato
+abstinere potuisset. Denique nec Judaeos omnes
+credituros sciebat, et tamen ait: <hi>Non veni nisi ad
+oves perditas domus Israel <note>(Matth. XV, 24)</note>
+            </hi>. Ergo non
+<pb n="0292C"/>
+in mandante culpa est, sed in praevaricante peccatum
+est. Et quod in Deo fuit, ostendit omnibus quod omnes
+voluit liberare. Nec tamen dico quia praevaricationem
+nesciebat futuram, immo quia sciebat assero:
+sed non ideo pereuntis proditoris invidiam in se debuit
+derivare, ut ascriberetur Deo, quod uterque
+sit lapsus. Nunc autem uterque redarguitur, atque
+reconvincitur; quia et ille mandatum ne laberetur
+accepit, et hic etiam in apostolatus munus adscitus
+est, ut vel beneficio Dei revocaretur a proditionis
+affectu; simul ut dum alii revincuntur, prodesset omnibus.
+Non enim consisteret peccatum, si interdictio
+non fuisset. Non consistente autem peccato, non solum
+malitia, sed etiam virtus fortasse non esset: quae
+nisi aliqua malitiae fuissent semina, vel subsistere
+<pb n="0292D"/>
+vel eminere non posset. Quid est enim peccatum,
+nisi praevaricatio legis divinae, et coelestium inobedientia
+praeceptorum? Non enim auribus corporis
+de mandatis coelestibus judicamus: sed cum esset
+Dei verbum, opiniones quaedam nobis boni et mali
+pullularunt; dum id quod malum est, naturaliter
+intelligimus esse vitandum, et id quod bonum est
+naturaliter nobis intelligimus esse praeceptum. In eo
+igitur vocem Domini videmur audire, quod alia interdicat,
+alia praecipiat. Et ideo si quis non obedierit
+illis quae semel a Deo praecepta credimus, poenae
+<pb n="0293A"/>
+obnoxius aestimatur. Dei autem praeceptum non quasi
+in tabulis lapideis atramento legimus inscriptum, sed
+cordibus nostris tenemus impressum spiritu Dei vivi.
+Ergo opinio nostra ipsa sibi legem facit. Si enim
+gentes quae legem non habent, naturaliter ea quae
+legis sunt, faciunt; ejusmodi legem non habentes
+ipsi sibi sunt lex, qui ostendunt opus legis scriptum
+in cordibus suis. Opinio igitur humana sibi tamquam
+Dei lex est.</p>
+          </div3>
+<div3>
+            <head>40.</head>
+            <p>
+ Iterum hinc aliam faciunt quaestionem, ut ad
+invicem mandati ejus quod diximus in hominis opinione
+consistere, hanc ipsam opinionem <emph>162</emph> impressam
+a Deo nobis tamquam praescriptum divinae legis accusent.
+Noverat, inquiunt, hominem peccaturum qui
+creavit eum, et has opiniones boni et mali impressit,
+<pb n="0293B"/>
+an non noverat? Ut si dixeris quia non noverat,
+alienum a majestate Dei sentias: si autem dixeris
+quia sciens Deus peccaturum hominem, communes
+tamen opiniones ei boni et mali impressit; ut propter
+admixtionem malorum vitae perpetuitatem servare
+non posset, sicut in illo non praesagum futuri, ita in
+hoc non bonum Deum significare videaris. Atque hinc
+argumentantur quia non est creatura hominis a Deo
+facta. Nam sicut supra ostendimus eos dicere quod
+non est mandatum Dei, sic et hic dicunt: Non ergo
+creatura hominis a Deo, quia Deus malum non fecit.
+Homo autem opinionem accepit mali, dum a malis
+praecipitur abstinere. Hoc autem genere alium bonum
+Deum, alium operatorem hominis conantur asserere.
+Quibus respondendum est illico secundum opinionem
+<pb n="0293C"/>
+suam. Si enim hominem nolunt a Deo factum,
+quia peccator est homo, et hoc refugiunt, ne bonus
+Deus peccatorem fecisse videatur, quia non putant
+bonum qui fecerit peccatorem; dicant utrum operatorem
+hominis a Deo factum putent. Si enim a
+Deo factus est ille, ut dicunt, operator hominis,
+quomodo bonus Deus operatorem mali fecit? Utique
+non bonus, nam qui peccatorem facit non bonus;
+cavendum ne gravius sit operatorem peccatoris fecisse.
+Debuit enim bonus Deus prohibere nativitatem
+ejus, qui peccati substantiam habebat inducere.
+Quod si dicunt non esse genitum operatorem mali,
+requirendum utrum bonus Deus potuerit inhibere
+quoquo modo incipientem malitiam, an non potuerit?
+Si enim non potuit, infirmus: si potuit, et non fecit,
+<pb n="0293D"/>
+non bonus. Ergo si sibi ista non congruunt, nec
+suae sibi haereticorum conveniunt opiniones, requiramus
+ne forte rationis fuerit, qua causa Deus sive
+geniti sive non geniti illius operatoris siverit malitiam
+introire in hunc mundum, cum possit inhibere.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Itaque servantes unum et eumdem Deum bonum
+atque operatorem, id si possumus, astruamus,
+quod gratiae utrique conveniat, nec accusationis
+<pb n="0294A"/>
+eorum declinemus invidiam, qui ita dicunt: Quomodo
+bonus Deus qui non solum passus est introire
+in hanc mundum malitiam: sed etiam in tantam
+confusionem venire permisit. Verum haec accusatio
+tunc locum haberet, si ita animae vim et intima secreta
+mentis inficeret: ut nullo pacto posset aboleri,
+et immedicabilium vulnerum menti atque animae
+nostrae virus insideret; esset enim aptior hujus querelae
+locus, quod cum omnia possit Deus, hominem
+tamen perire sit passus. Verum cum Deus nostri
+misericors respuendi erroris remedia reservaverit,
+abolendique omnis contagii non aboleverit facultatem;
+quomodo irrationabile vel injustum est, si permisit
+nostrum materiale tentari quadam trepidatione
+fragilitatis humanae; ut foeneratior postea gratia per
+<pb n="0294B"/>
+poenitentiam delictorum in hominis rediret affectum,
+et fragilitatis suae conscius quod tam facile a divinorum
+mandatorum <emph>163</emph> serie deviando trepidaverit,
+tamquam clavum animae fluctuantis mandata-coelestia
+timeret amittere; divinae misericordiae plus tribuens
+quod recepit amissum, et sibi aliquid usurpans gratiae
+quod revertatur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>An decuerit a Deo praeceptum homini de cibo dari; et
+cur in proponenda poena non dictum fuerit,</hi> moriemini, <hi>sed</hi> 
+ morte moriemini?</p>
+<div3>
+            <head>42.</head>
+            <p>
+ Nunc quae sit illa ratio consideremus, quid sit
+istud quod cum mandatum daret homini, de illa admirabili
+beataque vita praescribens, ne contra faciens
+<pb n="0294C"/>
+morte moreretur, de manducando et non
+manducando putaverit esse mandandum. Sunt enim
+qui putant nequaquam mandatum istud convenire
+coeli et terrae atque omnium Creatori; nequaquam
+dignum incolis paradisi, eo quod illa vita similis Angelorum
+sit. Et ideo non terrenum et corruptibilem
+hunc cibum esui fuisse possumus aestimare; quia qui
+non bibunt, neque manducant, erunt sicut angeli in
+coelo. Cum igitur in cibo neque praemium sit, quia
+esca nos non commendat Deo; neque magnum periculum
+sit, quia non quod intrat in os, coinquinat
+hominem, sed quod exit de ore: videtur sine
+dubio a tanto auctore non esse praeceptum, nisi hunc
+cibum ad illum propheticum referas, quia pro magno
+praemio Dominus sanctis pollicetur suis: <hi>Ecce qui
+<pb n="0294D"/>
+serviunt mihi, manducant: vos autem esurietis <note>(Esai.
+LXV, 13)</note>
+            </hi>. Hic est enim cibus in quo vita definitur
+aeterna, quo quisquis fuerit defraudatus, morte morietur.
+Quandoquidem panis vivus atque coelestis
+ipse Dominus est, qui vitam dat huic mundo. Unde
+et ipse ait: <hi>Nisi manducaveritis carnem meam, et biberitis
+sanguinem meum, non habebitis vitam aeternam <note>(Joan., VI, 54)</note>
+            </hi>.
+Erat ergo panis aliquis de quo praescripserat
+edendum paradisi incolis. Quis ille? Accipe
+<pb n="0295A"/>
+quem dicat: <hi>Panem,</hi> inquit, <hi>angelorum manducavit
+homo <note>(Ps. LXXVII, 25)</note>
+            </hi>. Est enim bonus panis, si facias
+voluntatem Dei. Vis scire quam bonus panis?
+Ipse Filius manducat hunc panem, de quo ait: <hi>Meus
+cibus est ut faciam voluntatem Patris mei qui in coelis
+est <note>(Joan. IV, 34)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ Iterum videamus qua ratione Dominus Deus
+Adae dixerit, <hi>morte moriemini:</hi> quid intersit, utrum
+aliquis dicat, <hi>moriemini,</hi> an addat, <hi>morte moriemini.</hi> 
+Ostendere enim debemus nihil superfluum in Dei
+esse mandato. Itaque hoc arbitror. Cum duo sibi sint
+contraria mors et vita, secundum simplicem sermonem
+a vita vivere dicimus, a morte mori. Si autem
+geminare velis utramque, quia vita vitam facit, dicitur, <hi>vita vivit,</hi> 
+ sicut habes in lege. Et quia mors mortem
+<pb n="0295B"/>
+facit, dicitur, <hi>morte morietur.</hi> Non est autem superflua
+ista geminatio: est enim vita ad mortem, et
+est mors ad vitam; quia quis et dum vivit, <emph>164</emph> moritur;
+et dum moritur vivit. Fiunt ergo quatuor distinctiones
+vita vivere, morte mori, morte vivere, vita
+mori. Cum igitur haec ita se habeant, usus et consuetudinis
+praejudicium debemus excludere; quia usus
+hoc habet ut communiter dicatur vivere, et qui
+vitae vivit, et qui morti vivit: et communiter dicatur
+mori vel ille qui morti moritur, vel ille qui vitae
+moritur. Itaque ex quatuor illis duo significat, ut
+dicat viventem vivere, nec melius deteriusque distinguat,
+et dicat morientem mori, nec inter malam
+et bonam mortem videatur esse discretio. Nam
+indiscreta quaedam vita significatur, qualis irrationabilium
+<pb n="0295C"/>
+aut etiam parvulorum, et indiscreta mors
+aeque.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Sequestrato igitur usu communi, quid sit vita
+vivere, et quid sit morte mori, et quid sit vivere
+morti, et mori vitae consideremus. Puto enim secundum
+Scripturas, quia vita vivere admirabilem quamdam
+illam vitam beatamque significet, et hunc vivendi
+usum spirandique munus cum beatae vitae
+gratia veluti conjunctum, et quadam participatione
+permixtum demonstrare videatur. Hoc est enim vita
+vivere, virtute vivere, beatae vitae actus habere in
+istius corporis vita. Contra autem morte mori quid
+est aliud, nisi cum morte corporis deformitatem significare
+morientis, cujus et caro communi vivendi
+munere defraudetur, et anima vitae aeternae usum
+<pb n="0295D"/>
+habere non possit? Est etiam qui vita moritur, ut
+qui vivit corpore, sed actu moritur suo: quales illi
+sunt, de quibus ait Propheta: <hi>Descendunt in infernum
+viventes <note>(Ps. LIV, 16)</note>
+            </hi>. Et illa de qua Apostolus dicit: <hi>Quoniam vivens mortua est 
+ <note>(I Tim. LVII, 6)</note>
+            </hi>. Quartum
+superest, quod sunt qui etiam morte vivunt, ut martyres
+<pb n="0296A"/>
+sancti, qui utique moriuntur ut vivant. Moritur
+ caro, sed vivit gratia mortuorum. Ergo absit
+a nobis, ut participes mortis vivamus: sed contra
+participes vitae moriamur. Sanctus enim nec vitae
+istius se vult esse participem, qui ait: <hi>Cupio dissolvi,
+et cum Christo esse; multo enim melius <note>(Philip. I,
+3)</note>
+            </hi>. Et alius, <hi>Heu me, quod incolatus meus prolongatus
+est <note>(Ps. CXIX, 5)</note>
+            </hi>? Dolens utique cum consortia vitae
+speret aeternae, istius vitae fragilitate se contineri.
+Et ideo possum e contrario dicere, quia etsi vitae vivere
+bonum est; vitae tamen vivere ambiguum sit,
+Potest enim dici quis vitae vivere, hoc est, vitae aeternae
+istius vita corporis militare. Potest etiam dici
+vitae vivere, hoc est, vel quemcumque, vel sanctum
+istius vitae habere desiderium corporalis; ut verbi
+<pb n="0296B"/>
+gratia, si quis ideo honeste putet esse vivendum,
+ut is longaevitatem vitae bonis actibus consequatur,
+quales plerique infirmiores sunt quos haec vita delectat.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Sicut ergo vitae vivere quid sit accepimus,
+quid sit morti mori accipiamus, vel morti vivere.
+Possunt enim esse qui moriantur morti, et qui vivant
+vitae. Nam qui non ita vivit, ut secundum
+mortem animae suae vivat, is morti moritur, <emph>165</emph> quia
+non est obnoxius morti, id est, nexus eum aerumnosae
+mortis amisit, non constringitur vinculis mortis
+aeternae. Mortuus est morti, hoc est, mortuus est
+peccato, mortuus est poenae: cui contrarium est poenae
+vivere, hoc est, quando quis vivit ad poenam, vivit ad
+mortem. Qui autem moritur ad poenam, moritur ad
+<pb n="0296C"/>
+mortem. Est etiam qui in hac vita positus moriatur
+ad vitam, sicut ille qui ait: <hi>Vivo autem jam non ego,
+vivit autem in me Christus <note>(Galat. II, 20)</note>
+            </hi>. Peccato
+enim mortuus est, Deo vivit, hoc est, mors in eo
+mortua est, sed vita vivit, qui est Dominus Jesus.
+Ergo bona vita eorum qui Deo vivunt, mala
+vita eorum qui peccato vivunt. Est etiam media
+vita, ut animantium caeterorum, sicut habes scriptum: <hi>Producat terra animam viventem secundum
+genus 
+ <note>(Gen. I, 24)</note>
+            </hi>. Est etiam vita mortuorum, ut
+Deus Abraham, et Deus Isaac, et Deus Jacob; quia
+Deus mortborum non est, sed vivorum. Sunt etiam
+quibus communitas est quaedam mortis et vitae, de
+quibus ait Apostolus dicens: <hi>Si commortui estis, et
+convivetis. Si enim complantati,</hi> inquit, <hi>sumus similitudini
+<pb n="0296D"/>
+mortis ejus, simul et resurrectionis erimus:
+scientes quia vetus homo noster simul confixus est
+cruci; ut destruatur corpus peccati, ut ultra non serviamus
+peccato. Qui enim mortuus est, justificatus
+est a peccato <note>(Rom. VI, 5)</note>
+            </hi>. Sicut autem figuras multas
+vitae diximus, ita etiam mortis inveniemus. Dicitur
+<pb n="0297A"/>
+enim mors mala, secundum illud: <hi>Anima quae
+peccat, ipsa morietur <note>(Ezech. XVIII, 20)</note>
+            </hi>. Dicitur et
+mors communiter, sicut habes verbi gratia: Quia
+Adam vixit tot annos, et mortuus est, et appositus
+est ad patres suos. Dicitur etiam mors per baptismatis
+sacramentum, sicut habes: <hi>Consepulti sumus
+cum illo per baptismum in morte <note>(Rom. VI, 4)</note>
+            </hi>. Et
+alibi: <hi>Si autem mortui sumus cum Christo, credimus
+etiam quod simul vivemus cum illo <note>(Ibid. 8)</note>
+            </hi>. Vides
+quia mors quidem appellatione dicatur, sed haec
+vita sit nostra.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Cur hominem Deus non approbarit nisi post factam mulierem,
+et id maxime quod per hanc ille deceptus
+peccaverit; itemque cur eadem non de terra, ut
+Adam, sed de costa ejus creatu sit?</hi> 
+<pb n="0297B"/>
+          </p>
+<div3>
+            <head>46.</head>
+            <p>
+ Item alia quaestio, quia dixit Dominus: <hi>Non
+est bonum solum esse hominem <note>(Gen. II, 18)</note>
+            </hi>. Primo
+omnium cognosce quia in superioribus, ubi hominem
+finxit Deus de limo terrae, non addidit: <hi>Et vidit
+Deus quia bonum est <note>(Gen. I, 11 et seq.)</note>
+            </hi>, quemadmodum
+in singulis operibus suis. Nam si dixisset illic bonum
+esse, quia homo factus est, inveniretur hoc esse
+contrarium, ut hic non esse bonum diceret, cum in
+superioribus bonum esse dixisset. Sed hoc ibi cognosce,
+ubi solum Adam fecit. Caeterum ubi communiter
+comprehendit et virum et mulierem factos, licet
+ne ibi quidem dixerit specialiter; tamen quia postea
+habes: <hi>Vidit Deus omnia quae fecit, et ecce erant
+<pb n="0297C"/>
+bona valde <note>(Gen. I, 31)</note>
+            </hi>, evidenter declaratur bonum
+esse quod et vir sit factus, et mulier.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ Sed ex hac quaestione alia quaestio rursus <emph>166</emph> 
+emergit. Quomodo enim quando solus factus est Adam,
+non dictum est bonum esse factum Adam: quando
+autem et mulier ex eo facta est, tunc esse bona
+omnia comprehensum est? Licet illic omnem laudaverit
+creaturam, et universitatis creatio sit probata,
+quoniam in homine naturae praedicta communitas
+est: tamen non videtur otiosum, qua ratione ubi solus
+factus est Adam, non solum nequaquam praedicatio
+boni complacito operi adjecta sit; sed etiam
+dictum sit non esse bonum solum hominem: cum
+sciamus quod antequam fieret mulier, non erraverit
+Adam; postea vero quam mulier est facta, prior
+<pb n="0297D"/>
+divinum praevaricata mandatum, etiam virum suum
+traxerit in errorem, et incentivum ejus exstiterit. Si
+igitur vero culpae auctor est mulier, quemadmodum
+pro bono videtur adjecta? Verum si consideres quia
+Deo universitatis est cura, invenies plus placere
+Domino debuisse id in quo esset causa universitatis,
+quam condemnandum fuisse illud in quo esset causa
+peccati. Et ideo quia ex viro solo non poterat humani
+<pb n="0298A"/>
+esse generis propagatio, pronuntiavit Dominus
+non esse bonum solum esse hominem. Maluit enim
+Deus plures esse quos salvos facere posset, et quibus
+donaret peccatum, quam unum solum Adam,
+qui liber esset a culpa. Denique quia idem utriusque
+auctor est operis, venit in hunc mundum, ut salvos
+faceret peccatores. Postremo nec Cain parricidii reum
+priusquam generaret filios, passus est interire. Ergo
+propter generationem successionis humanae debuit
+mulier adjici viro <note>(Vid. S. Aug. l. II contra Jul. Pel.,
+c. 7, n. 20)</note>. Denique hoc ipsa verba declarant dicentis
+Dei, non bonum solum esse hominem. Nam
+etsi mulier prior peccatura erat, tamen redemptionem
+sibi paritura non debuit ab usu divinae operationis
+excludi. Quamvis enim Adam non est seductus,
+<pb n="0298B"/>
+mulier autem seducta et in praevaricatione fuerit,
+salva tamen, inquit, erit per filiorum generationem,
+inter quos generavit et Christum <note>(I Tim. II. 14 et 15)</note>.</p>
+          </div3>
+<div3>
+            <head>48.</head>
+            <p>
+ Nec illud otiosum <note>(33, q, 5, c. Nec illud)</note>, quod
+non de eadem terra de qua plasmatus est Adam, sed
+de ipsius Adae costa facta sit mulier; ut sciremus
+unam in viro et muliere corporis esse naturam, unum
+fontem generis humani. Ideo non duo a principio facti
+vir et mulier, neque duo viri, neque duae mulieres,
+sed primum vir, deinde ex eo mulier. Unam enim
+naturam volens hominum constituere Deus, ab uno
+principio creaturae hujus incipiens multarum et disparium
+naturarum eripuit facultatem. <hi>Faciamus,</hi> inquit, <hi>ei adjutorium simile sibi 
+ <note>(Gen. II, 18)</note>
+            </hi>. Adjutorium ad
+generationem constitutionis humanae intelligimus.
+<pb n="0298C"/>
+Et vere bonum adjutorium. Nam si pro meliore accipis
+adjutorium, major quaedam in causa generationis
+operatio mulieris reperitur; sicut istius terrae
+quae semina primo accepta cohibendo paulatim fotu
+suo adolescere facit, et producit in segetem. In eo
+igitur adjutorium bonum mulieris, quamquam etiam
+inferior dicatur adjutor; ut et in usu reperimus
+humano, quia dignitate potiores <emph>167</emph> plerumque adjutorem
+meriti inferioris adsciscunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p> <hi>Quomodo animalia ducta fuerint ad Adam; quid sopor
+ejusdem et costae aedificatio nos doceat; quid etiam
+memorata animalia in paradisum adducta significent;
+et quo pacto justi in paradisum rapiantur?</hi> </p>
+<div3>
+            <head>49.</head>
+            <p>
+ Specta nunc cur Deus adhuc finxerit de terra
+<pb n="0298D"/>
+omnes bestias agri, et omnia volatilia coeli et adduxerit
+ea ad Adam, ut videret quid vocaret ea. Qua
+ratione hoc factum est, cum tantummodo bestias
+agri, et volatilia coeli ad Adam adduxerit Deus? Erant
+enim pecora secundum genus suum. Denique habes
+infra: <hi>Quia imposuit Adam nomina omnibus pecoribus,
+et omnibus bestiis agri. Adae autem non est inventus adjutor
+<pb n="0299A"/>
+similis illi <note>(Gen. II, 20)</note>
+            </hi>. Quae igitur absolutio
+est, nisi quia indomitae bestiae, et volatilia coeli divina
+potestate ad hominem deducuntur? De pecoribus
+autem domitis congregandis et homo habuit potestatem.
+Itaque illud divinae operationis fuerit, hoc
+humanae diligentiae. Simul accipe qua causa omnia
+deducta sint ad Adam, ut in omnibus videret ex utroque
+sexu substantiam constare naturae, id est, ex
+masculo et femina, et ipse usu exemploque cognosceret
+necessarium sibi consortium mulieris adjectum.</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ <hi>Et immisit,</hi> inquit, <hi>Deus soporem in Adam,
+et obdormivit <note>(Ibid., 21)</note>
+            </hi>. Quis est iste sopor, nisi
+quia paulisper ad conjugium copulandum cum intendimus
+intedimus
+animum, veluti intentos oculos ad Dei regnum
+<pb n="0299B"/>
+inclinare atque inflectere videmur ad quemdam somnum
+istius mundi, et paulisper obdormire divinis,
+dum in saecularibus mundanisque requiescimus? Denique
+posteaquam soporem immisit in Adam, et dormivit,
+tunc <hi>aedificavit Dominus Deus costam quam
+sumpsit de Adam in mulierem.</hi> Bene, <hi>aedificavit,</hi> dixit,
+ubi de mulieris creatione loquebatur, quia in viro et
+muliere domus videtur quaedam plena esse perfectio.
+Qui sine uxore est, quasi sine domo sit, sic habetur.
+Sicut enim vir publicis officiis, ita mulier domesticis
+ministeriis habilior aestimatur. Considera quia ex corpore
+costam sumpsit, non ex anima portionem;
+hoc est, non anima ex anima, sed os de ossibus
+meis et caro de carne mea haec vocabitur mulier.</p>
+          </div3>
+<div3>
+            <head>51.</head>
+            <p>
+ Ergo causam humanae generationis agnovimus.
+<pb n="0299C"/>
+Sed quia plerosque movet qui diligentius intuentur,
+quomodo si vel primo magnum munus Dei fuit circa
+homines, ut in paradiso homines collocarentur, vel
+postea magnorum remuneratio videretur esse meritorum,
+ut ad paradisum justus unusquisque rapiatur,
+dicuntur etiam bestiae et pecora agri, et volatilia
+coeli in paradiso fuisse. Unde plerique paradisum animam
+hominis esse voluerunt, in qua virtutum quaedam
+germina pullulaverint: hominem autem et ad
+operandum, et ad custodiendum paradisum esse positum,
+hoc est, mentem hominis cujus virtus animam
+videtur excolere, nec solum excolere, sed etiam cum
+excoluerit, custodire. <emph>168</emph> Bestiae autem agri, et volatilia
+coeli quae adducuntur ad Adam, nostri irrationabiles
+motus sunt, eo quod bestiae vel pecora, quaedam
+<pb n="0299D"/>
+diversae sint corporis passiones, vel turbulentiores,
+vel etiam languidiores. Volatilia autem coeli
+quid aliud aestimamus, nisi inanes cogitationes quae
+velut volatilium more nostram circumvolant animam,
+et huc atque illuc vario motu saepe traducunt?
+Propterea nullus inventus est menti nostrae similis
+adjutor, nisi sensus, hoc est, <foreign xml:lang="greek">αἴσθησις.</foreign> Similem sibi
+solam <foreign xml:lang="greek">νοῦς</foreign> noster potuit invenire.</p>
+          </div3>
+<div3>
+            <head>52.</head>
+            <p>
+ Sed forte arguas, quia haec quoque Deus in
+<pb n="0300A"/>
+tali paradiso locavit, hoc est, passiones corporis,
+et vanitatem quamdam fluctuantium vel inanium cogitationum,
+quod ipse nostri fuerit auctor erroris.
+Considera quid dicat: <hi>Habete,</hi> inquit, <hi>potestatem piscium
+maris, et volatilium coeli, et omnium repentium
+quae repunt super terram <note>(Gen. I, 28)</note>
+            </hi>. Vides quod ille tibi
+tribuerit potestatem; ut de omnibus judicare tu debeas,
+singulorum genera judicii tui sobria definitione
+discernere. Vocavit ad te omnia Deus; ut supra
+omnia mentem tuam cognosceres. Cur quae tibi similia
+minime reperisti, adsciscere tibi et copulare voluisti?
+Dedit tibi certe sensum quo universa cognosceres,
+et de cognitis judicares, meritoque de illo fecundo
+paradisi agro ejectus es, quia non potuisti
+servare mandatum. Sciebat enim Deus esse te fragilem,
+<pb n="0300B"/>
+sciebat judicare non posse; ideo dixit quasi
+fragilioribus: <hi>Nolite judicare ut non judicemini <note>(Matth.
+VII, 1)</note>
+            </hi>. Ergo quia scivit infirmum te esse ad judicandum,
+voluit obedientem esse mandato; ideo praeceptum
+posuit. Quod si non praevaricatus esses, periculum
+incerti judicii incidere nequivisses. Itaque quoniam
+judicare voluisti, ideo addidit: <hi>Ecce Adam factus est
+tamquam unus ex nobis, ut sciat bonum et malum <note>(Gen. III, 22)</note>
+            </hi>.
+Voluisti tibi arrogare judicium, ideo
+poenam pravi judicii refutare non debes. Posuit tamen
+te contra paradisum, ne memoriam ejus possis
+abolere.</p>
+          </div3>
+<div3>
+            <head>53.</head>
+            <p>
+ Denique justi in paradisum saepe rapiuntur,
+sicut et Paulus raptus est in paradisum, et audivit
+verba ineffabilia. Et tu si a primo coelo ad secundum,
+<pb n="0300C"/>
+a secundo ad tertium mentis tuae vigore rapiaris, hoc
+est, quod primum unusquisque homo est corporalis,
+secundo animalis, tertio spiritalis: si ita rapiaris ad
+tertium coelum, ut videas fulgorem gratiae spiritalis
+(animalis enim homo quae sunt spiritus Dei nescit), et
+ideo tertii coeli ascensio tibi est necessaria, ut rapiaris
+in paradisum: rapieris jam sine periculo, ut
+possis dijudicare omnia, quia spiritalis dijudicat
+omnia, ipse autem a nemine dijudicatur. Et fortasse
+quasi adhuc fragilis, audies verba ineffabilia quae non
+liceat homini loqui: et tunc quod acceperis reservato,
+et quod audieris custodito. Paulus apostolus custodiebat
+ne laberetur, vel alios certe faceret errare. Aut
+fortasse ideo dicit Paulus, <hi>quae non liceat homini loqui <note>(II Cor. XII, 6 et 7)</note>
+            </hi>;
+quia erat adhuc in corpore constitutus,
+<pb n="0300D"/>
+hoc est, videbat istius corporis passiones, videbat
+legem carnis suae repugnantem legi mentis suae <note>(Vid. S. Aug. l. II contra Julian. Pel., c. 5, n. 13)</note>.
+Hoc
+enim malo intelligi, ne videamur quemdam <emph>169</emph> adhuc
+futuri periculi jactare terrorem. Si enim vel propter
+hanc vitam securitas, ut nullos praevaricationis
+post hanc futurae laqueos formidemus: ergo quicumque
+fuerit in paradiso ascensione virtutis audiet
+mysteria Dei arcana illa atque secreta: audiet dicentem
+<pb n="0301A"/>
+Dominum tamquam latroni illi a scelere ad
+confessionem, et ad fidem a latrocinio revertenti: <hi>Hodie
+mecum eris in paradiso <note>(Luc. XXIII, 43)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Serpentis qualis fuerit sapientia: quomodo mulierem
+aggressus sit; qualisve hujus responsio, quam longa
+digressio de quadam circa eam rem dubitatione consequitur.</hi> </p>
+<div3>
+            <head>54.</head>
+            <p>
+ <hi>Serpens autem erat sapientior omnium bestiarum quae erant super terram, quas fecit Dominus Deus, et
+dixit serpens mulieri: Quid utique dixit Deus, ne edatis
+ab omni ligno quod est in paradiso 
+ <note>(Gen. III, 1)</note>
+            </hi>? Cum
+dicit sapientiorem serpentem, intelligis quem loquatur,
+id est, illum adversarium nostrum qui tantum
+<pb n="0301B"/>
+habet hujus sapientiam mundi <note>(Vid. S. Aug. lib. II
+contra Jul. Pel., c. 5, n. 13)</note>. Sed et voluptas atque
+delectatio bene sapiens dicitur, quia et sapientia carnis
+ appellatur sapientia, sicut habes: Quia <hi>sapientia
+carnis inimica est Deo <note>(Rom. VIII, 7)</note>
+            </hi>. Et ad exquirenda
+delectationum genera astuti sunt, quia appetentes
+sunt voluptatum. Sive ergo delectationem intelligas,
+quaedam est divino adversa mandato, et inimica
+sensibus nostris. Unde sanctus Paulus ait: <hi>Video
+aliam legem in membris meis repugnantem legi
+mentis meae, et captivantem me in lege peccati <note>(Rom.
+VII, 23)</note>
+            </hi>. Si autem ad diabolum referas, verus inimicus
+est generis humani. Quae autem causa inimicitiarum
+nisi invidia? Sicut Salomon ait: Quia <hi>invidia
+diaboli mors introivit in orbem terrarum <note>(Sap. II, 24)</note>
+            </hi>.
+<pb n="0301C"/>
+Invidiae autem causa beatitudo hominis in paradiso
+positi, et ideo quoniam ipse diabolus acceptam gratiam
+tenere non potuit, invidit homini, eo quod figuratus
+e limo, ut incola paradisi esset, electus est.
+Considerabat enim diabolus quod ipse qui fuisset superioris
+naturae, in haec saecularia et mundana deciderat;
+homo autem inferioris naturae sperabat aeterna.
+Hoc est ergo quod invidet dicens: Iste inferior
+adipiscitur quod ego servare non potui? Iste de terris
+migrabit ad coelum, cum ego de coelo lapsus in
+terra sim? Multas vias habeo quibus hominem decipere
+possim. De limo factus est, terra ei mater est,
+corruptibilibus involutus est. Et si anima superioris
+naturae, tamen et ipsa lapsui potest esse obnoxia, in
+corporis carcere constituta; quando ego lapsum vitare
+<pb n="0301D"/>
+non potui. Est igitur via prima, ut decipiatur,
+dum conditione sua majora desiderat. Hic enim quidam
+conatus est industriae. Deinde carnis est, quod
+non habeat, desiderare. Postremo in quo videor ego
+omnibus esse sapientior, nisi circumscribam hominem,
+et versutia et fraude contendam? Itaque machinatus
+est, ut non primo Adam adoriretur, sed Adam
+per mulierem circumscribere conaretur. Non adorsus
+est eum qui coram acceperat coeleste mandatum:
+sed eam <emph>170</emph> adorsus est quae a viro didicerat, non a
+<pb n="0302A"/>
+Deo quid observaret, acceperat. Neque enim habes
+quia mulieri dixit Deus, sed quia Adae dixit; et ideo
+per Adam cognovisse mulier aestimanda est.</p>
+          </div3>
+<div3>
+            <head>55.</head>
+            <p>
+ Cognoscens igitur hoc loco tentamenti genus,
+plurima etiam aliis locis tentamenti genera reperies.
+Alia sunt per principem istius mundi, qui quaedam
+venena sapientiae in hunc mundum evomuit; ut vera
+putarent homines esse quae falsa sunt, et specie quadam
+hominum caperetur affectus. Non enim semper
+quasi apertus hostis ingreditur: sed sunt quaedam
+potestates quae amorem simulent, gratiamque praetendant;
+ut paulatim cogitationibus nostris venenum
+suae iniquitatis infundant, a quibus oriuntur illa peccata
+quae vel ex delectatione, vel ex quadam mentis
+facilitate nascuntur. Sunt etiam aliae potestates quae
+<pb n="0302B"/>
+veluti colluctantur nobiscum. Unde et Apostolus ait: <hi>Quia non est nobis colluctatio adversus carnem et sanguinem,
+sed adversus principatus, et potestates, et rectores
+hujus mundi, tenebrarum harum, adversus nequitiam
+spiritalium quae sunt in coelestibus 
+ <note>(Ephes. VI,
+12)</note>
+            </hi>. Volunt enim hac quadam contentione nos frangere,
+et veluti quoddam animae nostrae corpus elidere.
+Unde et Paulus quasi bonus athleta non solum ictus
+adversantium potestatum vitare cognoverat, verum
+etiam adversantes ferire. Unde et ait: <hi>Percutio pugnis,
+non ut aera caedens <note>(I Cor. IX, 26)</note>
+            </hi>. Et ideo
+quasi bonus athleta ad coronam meruit pervenire.
+Ergo multiplicia tentamenta sunt diaboli. Et ideo bilinguis
+serpens habetur atque lethalis, eo quod diaboli
+minister aliud lingua loquatur, aliud corde meditetur.
+<pb n="0302C"/>
+Sunt et alii ministri qui et cordis et vocis suae
+infectas veneno veluti verborum suorum jactant sagittas,
+quibus Dominus ait: <hi>Generatio viperarum,
+quomodo potestis bona loqui, cum sitis mali <note>(Matth.
+XII, 34)</note>
+            </hi>?</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ <hi>Et dixit serpens mulieri: Quid utique dixit Deus,
+ne edatis ex omni ligno quod est in paradiso? Et dixit
+mulier serpenti: Ex omni ligno paradisi manducabimus:
+de fructu autem ligni quod est in medio paradisi, dixit
+Deus: Non manducabitis ex eo, neque tangetis ex eo,
+ne moriamini <note>(Gen. III, 2 et 3)</note>
+            </hi>. Cum audieris sapientiorem
+bestiis omnibus esse serpentem, hic ejus jam
+quaere versutiam. Simulat se verba Dei dicere, et
+proprios intexit dolos. Cum enim dixisset Deus: <hi>Ex
+omni ligno quod est in paradiso edetis ad escam: de ligno
+<pb n="0302D"/>
+autem quod est scientiae boni et mali non edetis,
+qua die autem manducabitis ex eo, morte moriemini <note>(Ibid. II, 16 et 17)</note>
+            </hi>;
+serpens quasi interrogans mulierem,
+cum dixisset Deus: Ex omni ligno quod est in
+paradiso edetis: de ligno autem uno non edetis, inseruit
+mendacium, ut diceret: <hi>Ab omni ligno non
+edetis:</hi> cum de uno tantum ligno scientiae boni et
+mali praeceperit Deus non esse gustandum. Qua ratione
+autem fefellerit, nihil mirum, quia iis qui aliquem
+circumscribere conantur, consuetudo est fallere.
+<pb n="0303A"/>
+Non est igitur interrogatio otiosa serpentis.
+Sed ut scias in mandato nullum vitium esse potuisse,
+respondit mulier, ut habes: <hi>Ex omni ligno paradisi
+manducabimus: de fructu autem ligni quod est in medio
+paradiso, dixit Deus: Non manducabitis ex eo, neque
+tangetis</hi> <emph>171</emph> <hi>ex eo, ne morte moriamini.</hi> In mandato
+quidem nullum vitium est, sed in relatione mandati.
+Etenim quantum praesens lectio docet, discimus nihil
+vel cautionis gratia jungere nos debere mandato.
+Si quid enim vel addas, vel detrahas, praevaricatio
+quaedam videtur esse mandati. Pura enim <note>(3 qu. IX,
+c. Pura)</note> et simplex mandati forma servanda, vel
+testimonii series intimanda est. Plerumque testis
+dum aliquid ad seriem gestorum ex suo adjicit, totam
+testimonii fidem partis mendacio decolorat. Nihil
+<pb n="0303B"/>
+igitur vel quod bonum videtur, addendum est. Namque
+hic quid offensionis habet prima specie quod addidit
+mulier: <hi>Neque tangetis ex eo quidquam? Tangetis</hi> 
+enim Deus non dixerat, sed <hi>non edetis.</hi> Sed tamen
+lapsus incipit esse principium. Nam quae addidit, superfluum
+addidit, vel addendo de proprio semiplenum
+intellexit Dei esse mandatum. Docet igitur nos praesentis
+series lectionis neque detrahere aliquid divinis
+debere mandatis, neque addere. Nam si Joannes hoc
+judicavit de suis scriptis: <hi>Si quis apposuerit,</hi> inquit, <hi>ad
+hoc, adjiciet in illum Deus plagas, quae scriptae sunt in
+libro isto: et qui dempserit de verbis his prophetiae hujus,
+delebit Deus partem illius de libro vitae <note>(Apoc. XXII, 18 et
+19)</note>
+            </hi>: quanto nihil divinis mandatis est detrahendum!
+Hinc ergo coepit praevaricatio prima esse mandati. Et
+<pb n="0303C"/>
+plerique putant hoc vitium non esse mulieris, sed Adae
+fuisse: ita Adam dixisse mulieri, dum eam vellet facere
+cautiorem, ut adderet mandasse Deum: <hi>Neque
+tangetis ex eo quidquam.</hi> Habemus enim quia Adam,
+non Eva mandatum acceperit a Deo. Nondum enim
+mulier formata fuerat. Ipsa quidem verba Adae quibus
+mulieri dixit formam seriemque mandati, non
+prodit lectio: sed intelligimus per virum ad mulierem
+seriem transisse mandati. Viderint tamen alii
+quid sentiant; mihi tamen videtur a muliere coepisse
+vitium, inchoasse mendacium. Nam etsi de duobus
+videatur incertum, tamen sexus prodit qui prius potuerit
+errare. Adde quia praejudicio illa constringitur,
+cujus et postea prior error inventus est. Viro
+enim mulier, non mulieri vir auctor erroris est. Unde
+<pb n="0303D"/>
+et Paulus ait: <hi>Adam,</hi> inquit, <hi>non est deceptus: mulier
+autem seducta in praevaricatione fuit <note>(I Tim. II, 14)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>57.</head>
+            <p>
+ Nunc videamus utrum praeter adjectionem quae
+mandato est applicata, quod additum est obfuisse videatur.
+Nam re vera si bonum est: <hi>Neque tangetis ex
+eo,</hi> et ad cautionem proficiebat, cur Deus hoc minime
+interdixerit, immo non interdicendo permisisse
+videatur? Itaque utrumque quaerendum, qua ratione
+nec permiserit, nec interdixerit. Sunt enim qui dicant,
+Qua ratione quod fecit videri, non jussit et
+tangi? Verum cum in eo ligno audieris naturam
+<pb n="0304A"/>
+fuisse scientiae boni et mali, potest aestimari quia noluit
+te malum tangere. Satis est enim nobis videre
+Satanam sicut fulgur de coelo cadentem, secundum
+vocem Domini <note>(Luc. X, 18)</note>, et dantem escam non
+luminis, sed noctis et tenebrarum filiis; quia scriptum
+est: <hi>Dedit eum in escam populis Aethiopum <note>(Ps.
+LXXIII, 14)</note>
+            </hi>. Hoc igitur de eo dictum est, quod non
+mandaverit <emph>172</emph> tangi. Quod autem non prohibuerit,
+quid intelligam accipe. Sunt multa quae noceant, si ante
+voluerimus haurire, quam quae sint illa cognoscere.
+Nam et de cibis et potu plerumque usu venit. Quippe
+si id quod amarum est, ante cognoscas, induis patientiam;
+et si intelligas illa quae sunt amara prodesse,
+induis tolerantiam, ne offendat amaritudo te
+repentina, et incipias rejicere profutura. Prodest ergo
+<pb n="0304B"/>
+ante cognoscere; ut ex eo quod cognoveris profuturum,
+nec amara fastidias. Sed haec minus nocere
+possunt: illud quod magis, nisi provideatur, nocere
+possit, adverte.</p>
+          </div3>
+<div3>
+            <head>58.</head>
+            <p>
+ Gentilis quidam est, ad fidem tendit: catechumenus
+est, majorem vult accipere doctrinae et fidei
+plenitudinem; caveat ne dum vult discere, male
+discat, et discat a Photino, discat ab Ario, discat a
+Sabellio: tradat se hujusmodi magistris quorum quaedam
+eum teneat auctoritas; et inductus quadam magistrorum
+praesumptione, teneris sensibus impressa
+dijudicare non noverit. Prius igitur oculis mentis
+perspiciat quid sequatur: videat ubi vita sit: tangat
+denique divinarum vitalia lectionum, ut nullo
+pravo offendatur interprete. Legit illi Sabellius: <hi>Ego
+<pb n="0304C"/>
+in Patre, et Pater in me <note>(Joan. XIV, 10)</note>
+            </hi>, et dicit unam
+esse personam. Legit Photinus: <hi>Quia mediator Dei et
+hominum homo Christus Jesus <note>(I Tim. II, 5)</note>
+            </hi>. Et alibi: <hi>Quid me vultis occidere hominem 
+ <note>(Joan. VIII, 40)</note>
+            </hi>?
+Legit etiam Arius quia dixit: <hi>Quoniam Pater major
+me est <note>(Joan. XIV, 28)</note>
+            </hi>. Legitur quidem manifestum:
+sed qua ratione dictum sit, debet ante pertractare secum,
+ut rationem dictorum possit advertere. Ducitur
+quadam magistrorum auctoritate; et profuisset ei
+non quaesisse, quam talem invenisse doctorem. Sed
+etiam gentilis si quis Scripturas accipiat, legit: <hi>Oculum
+pro oculo, dentem pro dente <note>(Lev. XXIV, 20)</note>
+            </hi>. Legit
+etiam: <hi>Si scandalizaverit te dextera tua, abscinde
+illam <note>(Matth. V, 30)</note>
+            </hi>; non intelligit sensum, non advertit
+divini arcana sermonis, pejus labitur, quam si
+<pb n="0304D"/>
+non legisset. Et ideo docuit quemadmodum Dei Verbum
+investigare deberent, non perfunctorie, non improvide,
+sed diligenter atque sollicite: <hi>Quod erat,</hi> 
+inquit, <hi>ab initio, quod audivimus, et quod vidimus, oculis
+nostris perspeximus, et manus nostrae perscrutatae
+sunt de Verbo vitae: et vidimus et testamur, et annuntiamus
+vobis <note>(I Joan. I, 1 et 2)</note>
+            </hi>. Vides quod ante velut
+manibus quibusdam perscrutatus sit Dei verbum,
+et postea annuntiaverit: et ideo nihil Adae et Evae
+fortasse nocuisset verbum, si pertractantibus diligenter
+mentis quibusdam manibus ante tetigissent.
+<pb n="0305A"/>
+Infirmi enim pertractando, et diligentius requirendo,
+uniuscujusque quam non intelligunt, possunt investigare
+naturam. Certe illi infirmi id lignum in quo
+scientiam mali esse cognoverant, ante quemadmodum
+tangerent, debuerant perscrutari. Nam et mali
+saepe nobis potest prodesse cognitio. Et ideo diaboli
+fraudes vel in hac legimus lectione, vel in prophetia <note>(Ezech. XXVIII, 18)</note>,
+ut discamus quemadmodum artes
+ejus cavere possimus. Cognoscenda sunt enim
+tentamenta ejus, non ut sequamur, sed ut docti instructique
+caveamus. <emph>173</emph>
+</p>
+          </div3>
+<div3>
+            <head>59.</head>
+            <p>
+ Sunt hoc loco qui dubitationem habeant,
+ utrum ex omni ligno ita dixerit Deus esse
+gustandum, ut cum de omni ligno, ita de scientiae
+boni et mali ligno gustaretur; an vero de omni ligno
+<pb n="0305B"/>
+gustandum, de solo ligno scientiae boni et mali dixerit
+non esse gustandum? Qui ne id quidem putant
+inutilis esse rationis, quod quamvis noxia esca hujus
+ligni fuerit; tamen si cum caeteris ederetur, noxia
+esse non possit: quandoquidem etiam antidotum
+theriacum de corpore serpentis confici solere dicatur,
+quod utique virus corpusque serpentis, cum solum
+sumitur, nocet; cum admiscetur aliis, sanitati
+est et saluti. Scientia quoque boni et mali, si quid
+sapientiae habeat, si quis vitae semper intendat, si
+quis caetera virtutum genera consequatur, nequaquam
+inutilis aestimatur. Hac igitur ratione plerique
+putaverunt posse etiam illud intelligi; ut videatur
+Deus id inhibuisse, ne absque caeteris solum lignum
+scientiae boni et mali gustaretur, non prohibuisse
+<pb n="0305C"/>
+cum caeteris. Et hoc ideo putant dictum, quia ait
+Deus ad Adam: <hi>Quis tibi indicavit quoniam nudus es,
+nisi de ligno a quo praeceperam tibi, ab hoc solo ne
+manducares, manducasti <note>(Gen. III, 11)</note>
+            </hi>? Quod videretur
+dare aliquem interpretandi locum, nisi mulier in
+superioribus, dicente serpente: <hi>Quid utique dixit
+Deus, ne edatis ab omni ligno quod est in paradiso:</hi> 
+respondisset: <hi>Quod est in medio paradiso, dixit Deus:
+Non manducabitis ex eo.</hi> In quo quamvis mulieris
+praevaricaturae fides videatur infirmior, tamen non
+omnibus Adam spoliabo virtutibus, ut videatur in
+paradiso nullam assecutus fuisse virtutem, nihil de
+caeteris gustavisse lignis, priusque culpam incidisse,
+quam fructus esse aliquos consecutus. Non
+spoliabo ergo Adam, ne genus humanum omne dispoliem,
+<pb n="0305D"/>
+quod innocens est antequam sensum accipiat
+scientiae boni et mali. Neque enim otiose dictum est: <hi>Nisi conversi fueritis, et efficiamini sicut puer iste, non
+intrabitis in regnum coelorum 
+ <note>(Matth. XVIII, 3)</note>
+            </hi>. Puer
+enim cum maledicitur, non remaledicit: cum percutitur
+non repercutit: ambitionum et rapinarum tentamenta
+non novit.
+</p>
+          </div3>
+<div3>
+            <head>60. </head>
+<p>
+              <pb n="0306A"/>Unde verius puto, quod ne cum aliis quidem
+fructibus lignum edendum esse praeceperit. Nam etsi
+bona scientia perfecto, imperfecto tamen inutilis est.
+Imperfectum ausim omnem hominem dicere, quando
+ipse Paulus quasi imperfectus dicat: <hi>Non quoniam
+acceperim, aut quo jam perfectus sim: sequor autem
+si comprehendam <note>(Philipp. I, 12)</note>
+              </hi>. Et ideo imperfectis
+dicit Dominus: <hi>Nolite judicare, ut non judicemini <note>(Matth. VII, 1)</note>
+              </hi>.
+Ergo imperfecto inutilis scientia.
+Denique, <hi>peccatum nesciebam, nisi lex diceret: Non
+concupisces <note>(Rom. VII, 7)</note>
+              </hi>. Et infra: <hi>Sine lege enim
+peccatum mortuum est <note>(Ibid., 8)</note>
+              </hi>. Quid enim mihi
+proderat scire quod vitare non poteram? Quid mihi
+proderat scire quod lex carnis meae impugnaret?
+Impugnatur Paulus, et videt <hi>legem carnis suae repugnantem
+<pb n="0306B"/>
+legi mentis suae, et captivari se in lege peccati <note>(Rom. VII, 23)</note>
+              </hi>,
+nec de conscientia sua praesumit <note>(Vid. S. Aug. lib. II contra Jul. Pel., c. 5, n. 13)</note> 
+;
+sed per Christi gratiam <emph>174</emph> confidit se a mortis corpore
+liberandum: et tu quemquam opinaris scientem
+non posse peccare? Paulus dicit: <hi>Non enim quod volo
+facio bonum; sed quod nolo malum, hoc ago <note>(Rom. VII,
+19)</note>
+              </hi>: et tu arbitraris homini prodesse scientiam, quae
+delicti augeat invidiam? Esto tamen ut perfectus peccare
+non possit. In Adam Deus omnes homines praevidebat,
+et ideo promiscue generi non conveniebat
+humano habere scientiam boni et mali, quam per
+carnis vitia, ut oportebat, exercere non poterat.</p>
+          </div3>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>Qumodo tentamenta diaboli plena sint mendacii; et de
+deceptione mulieris, et lapsu Adae. Quemadmodum
+etiam cognoverint se esse nudos, et succinctoria sibi
+fecerint, quidve per ea significetur.</hi> 
+<pb n="0306C"/>
+          </p>
+<div3>
+            <head>61.</head>
+            <p>
+ Discamus igitur tentamenta diaboli plena esse
+mendacii; vix enim unum verum videtur ex iis quae
+pollicitus est, reliqua falsa composuit. Sic enim habes: <hi>Et dixit serpens mulieri: Non morte moriemini <note>(Gen. III, 4)</note>
+            </hi>.
+Ecce unum falsum; nam morte mortuus
+est homo, qui secutus est promissa serpentis.
+Deinde addidit: <hi>Scit,</hi> inquit, <hi>Deus quia quacumque
+die manducaveritis ex eo, adaperientur oculi vestri <note>(Ibid., 5)</note>
+            </hi>.
+Hoc solum verum, quia infra habes: <hi>Quia manducaverunt ambo, et aperti sunt oculi eorum <note>(Ibid., 7)</note>
+            </hi>.
+Sed hoc verum quod noceret. Denique non
+<pb n="0306D"/>
+omnibus aperire oculos utile, quia scriptum est:
+Videbunt et non videbunt <note>(Esai. VI, 9)</note>. Sed statim
+agglutinatum mendacium est, quia adjunxit: <hi>Et eritis
+sicut dii scientes bonum et malum <note>(Gen. III, 5)</note>
+            </hi>.
+In quo licet advertere idololatriae auctorem esse serpentem,
+eo quod plures deos induxisse in hominum
+videatur errorem quaedam serpentis astutia. Et hoc
+<pb n="0307A"/>
+fefellit, quia homo sicut dii. Non solum enim sicut
+dii esse homines desierunt, sed etiam qui quasi dii
+erant, quibus dictum est: <hi>Ego dixi, dii estis,</hi> sui gratiam
+perdiderunt <note>(Ps. LXXXI, 6)</note>.</p>
+          </div3>
+<div3>
+            <head>62.</head>
+            <p>
+ <hi>Et vidit mulier quia bonum est lignum ad manducandum,
+et quia gratum oculis ad videndum, et speciosum
+est ad intuendum <note>(Gen. III, 6)</note>
+            </hi>. Infirma auctor
+judicii quae de eo quod non gustaverat, judicabat. Et
+ideo non facile, nisi id quod diligentius pertractaverimus,
+quod interiore probaverimus affectu, videtur
+ad opus aliquod esse sumendum. <hi>Accipiens,</hi> inquit, <hi>de fructu ejus manducavit, et dedit viro suo simul, et
+manducaverunt ambo.</hi> 
+ Bene praetermissum est ubi decipitur
+Adam; quia non sua culpa, sed vitio lapsus
+uxoris est.
+<pb n="0307B"/>
+</p>
+          </div3>
+<div3>
+            <head>63. </head>
+            <p>
+ <hi>Et aperti sunt,</hi> inquit, <hi>oculi eorum, et cognoverunt
+quod nudi essent <note>(Ibid., 7)</note>
+            </hi>. Et ante quidem nudi
+erant, sed non sine virtutum integumentis <note>(De Poenit.
+dist. 2, c. Ut cognoverunt)</note>. Nudi erant propter
+morum simplicitatem, et quod amictum fraudis natura
+nesciret. Nunc autem multis simulationum involucris
+mens humana velatur. Ergo posteaquam spoliatos
+se illa sinceritate et simplicitate viderunt integrae
+incorruptaeque naturae, quaerere mundana et
+manufacta <emph>175</emph> coeperunt, quibus nuda suae mentis
+operirent: delectationes delectationibus, et mundi
+hujus umbratiles voluptates velut folia foliis assuentes,
+quibus obumbrarent genitale secretum. Nam
+quomodo clausos oculos corporis habuit Adam, qui
+omnia animantia ita vidit, ut his et nomen imponeret?
+<pb n="0307C"/>
+Quomodo cognoverunt, id est, interiore et altiore
+scientia non tunicam sibi, sed virtutum deesse
+velamina?</p>
+          </div3>
+<div3>
+            <head>64.</head>
+            <p>
+ <hi>Et assuerunt,</hi> inquit, <hi>folia ficus, et fecerunt
+sibi succinctoria <note>(Ibid. 7)</note>
+            </hi>. Ficum hoc loco pro qua
+specie debeamus accipere divinarum nos docet series
+lectionum: quandoquidem sanctos esse qui sub
+vite et ficu requiescunt Scriptura memoraverit <note>(Mich. IV, 4)</note>,
+et Salomon dixerit: <hi>Quis plantat ficum,
+et de fructu ejus non manducat <note>(Prov. XXVII,
+18)</note>
+            </hi>, et Dominus ad ficum venerit; sed ideo sit offensus,
+quia non invenerit fructum, sed folia tantum.
+Docet ergo me Adam quid sint folia, qui posteaquam
+peccavit, de foliis ficus fecerit sibi succinctorium,
+qui de fructibus magis ejus gustare debuerit. Justus
+<pb n="0307D"/>
+fructum eligit, folia peccator. Quis est fructus? <hi>Fructus,</hi> 
+ inquit, <hi>spiritus est charitas, gaudium, pax,
+patientia, benignitas, modestia, continentia, dilectio <note>(Galat. V, 22)</note>
+            </hi>.
+Non habebat fructum, qui gaudium
+non habebat. Non habebat fidem, qui praevaricatus
+erat mandatum Dei. Non habebat continentiam, qui
+de interdicto sibi gustaverat ligno.</p>
+          </div3>
+<div3>
+            <head>65.</head>
+            <p>
+ Ergo quicumque praevaricatur mandatum Dei,
+spoliatur atque nudatur; et fit ipse sibi turpis: vult
+se operire quibusdam ficus foliis, fortasse quibusdam
+inanibus, vel umbratilibus sermonibus, quos
+<pb n="0308A"/>
+compositis mendaciis assuens, et verbum de verbo
+struens, ad operiendam conscientiam suae mentis,
+factique velamen peccator intexit, ut pudenda sua
+contegat. Jacit enim supra se folia, qui culpam velare
+desiderans aut diabolum delicti memorat auctorem,
+aut carnis praetendit illecebras, aut alium
+quempiam persuasorem prodit erroris. Et de Scripturis
+divinis frequenter promit exempla, quibus justos
+in culpam perhibet incidisse, dicens si forte in
+stupris fuerit deprehensus: Et Abraham cum ancilla
+concubuit <note>(Gen. XVI, 4)</note>, et David alienam adamavit
+et sibi adscivit uxorem <note>(II Reg. XI, 4 et 27)</note>.
+Assuit enim sibi quaedam folia, quaedam exempla de
+propheticarum serie scripturarum, fructum earum
+non putat requirendum.
+<pb n="0308B"/>
+</p>
+          </div3>
+<div3>
+            <head>66. </head>
+            <p>
+Nonne tibi videntur etiam Judaei folia assuere,
+dum legis spiritalis verba corporaliter interpretantur?
+Quorum interpretatio fructum omnem viriditatis
+amittit, damnata maledicto ariditatis aeternae.
+Bona igitur interpretatio, hoc est, spiritalis ficus est
+fructuosa, sub qua justi sanctique requiescunt.
+Quam qui plantaverit in animis singulorum, sicut
+Paulus ait: <hi>Ego plantavi, Apollo rigavit <note>(I Cor. III,
+6)</note>
+            </hi>, manducabit ex ea fructum. Mala autem interpretatio
+fructum ferre, viriditatem servare non poterit.</p>
+          </div3>
+<div3>
+            <head>67.</head>
+            <p>
+ Quod igitur gravius est <note>(Vid. S. Aug. II cont.
+Jul. Pelag., c. 6, n. 16)</note>, hac se Adam interpretatione
+succinxit eo loco, ubi fructu magis castitatis se
+succingere debuisset. In lumbis enim quibus praecingimur,
+<pb n="0308C"/>
+quaedam semina generationis esse dicuntur;
+et ideo male ibi succinctus est Adam foliis inutilibus,
+ubi futurae generationis <emph>176</emph> non fructum futurum,
+sed quaedam peccata signaret, quae manserunt usque
+in adventum Domini Salvatoris. Caeterum posteaquam
+Dominus advenit, ficum invenit incultam:
+rogatus ne eam juberet excidi, ut coleretur permisit.
+Et ideo jam non foliis, sed divino sermone succingimur;
+quia ipse Dominus ait: <hi>Sint lumbi vestri succincti,
+et lucernae ardentes <note>(Luc. XII, 35)</note>
+            </hi>. Unde
+etiam pecuniam in zonis nostris portare prohibet <note>(Matth. X, 9)</note>;
+non enim saecularia, sed aeterna debet
+zona nostra servare.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p> <hi>De voce Domini deambulantis ad vesperam, et increpatione
+Adam,</hi> Ubi es? <hi>Cur praeterea primus increpatur
+Adam, cum prior mulier gustaverit: et de
+mulieris excusatione, ac mysteriis per illa designatis.</hi> 
+<pb n="0308D"/>
+          </p>
+<div3>
+            <head>68.</head>
+            <p>
+ <hi>Et audierunt,</hi> inquit, <hi>vocem Domini Dei deambulantis
+in paradiso ad vesperam <note>(Gen. III, 8)</note>
+            </hi>. Quae
+est deambulatio Dei qui ubique semper est? Sed
+puto deambulationem quamdam esse Dei per divinarum
+seriem Scripturarum, in quibus Dei quaedam
+versatur praesentia; cum audimus quia ipse aspicit
+<pb n="0309A"/>
+omnia, et oculi Domini super justos: cum legimus
+quia Jesus sciebat cogitationes eorum <note>(Luc. VI, 8)</note>:
+cum legimus: <hi>Quid cogitatis mala in cordibus vestris <note>(Matth. IX, 4)</note>
+            </hi>?
+Ergo dum haec recensemus, quasi
+deambulantem cognoscimus Deum. Fugerat ergo
+peccator, non quo Dei posset latere conspectum:
+sed intra conscientiam suam latere cupiebat, opera
+sua lucere nolebat. Justi enim est facie ad faciem
+videre; quia justi mens non solum Deo praesens est,
+sed etiam cum Deo disputat, sicut scriptum est: <hi>Judicate pupillo, et justificate viduam, et venite disputemus,
+dicit Dominus 
+ <note>(Esai. I, 17 et 18)</note>
+            </hi>. Ergo cum
+legit peccator has Scripturas divinas, audit vocem
+Dei quasi ambulantis ad vesperam. Quid est ad vesperam,
+nisi quia culpam suam sero cognoscit, et sero
+<pb n="0309B"/>
+venit quaedam erroris praeteriti verecundia, quae
+errorem praevenire debuerat? Nam dum culpa fervet
+in corpore, et anima exagitatur corporis passionibus,
+non cogitat Deum sensus errantis, hoc est, non audit
+Deum ambulantem in Scripturis divinis, ambulantem
+in mentibus singulorum. Dicit enim Deus,
+Quoniam inhabitabo in illis, et inter eos ambulabo,
+et ero illorum Deus <note>(Levit. XXVI, 12)</note>. Ergo
+cum in animae sensum redierit potestatis formido divinae,
+tum erubescimus, tunc nos gestimus abscondere,
+tunc in peccatorum nostrorum positi cogitationibus,
+in medio ligni paradisi ubi peccavimus,
+deprehendimur, latere cupientes, et arbitrantes
+quod Deus non requirat occulta. Sed scrutator animorum
+et cogitationum usque ad divisionem animae
+<pb n="0309C"/>
+penetrans dicit: <hi>Adam, ubi es <note>(Gen. III, 9)</note>
+            </hi>?</p>
+          </div3>
+<div3>
+            <head>69.</head>
+            <p>
+ Quomodo loquitur Deus? Numquid voce corporea?
+Non utique, sed virtute quadam praestantiore,
+quam vox corporis potest esse, fundit oracula. Hanc
+vocem ejus prophetae audierunt; hanc vocem fideles
+audiunt, impii non intelligunt. Denique in Evangelio
+habes, quia audivit evangelista dicentem Patrem: <hi>Et clarificavi, et</hi> 
+ <emph>177</emph> <hi>iterum clarificabo <note>(Joan. XII,
+28)</note>
+            </hi>; sed Judaei non audierunt. Dicebant enim: <hi>Tonitruum factum est 
+ <note>(Ibid., 29)</note>
+            </hi>. Illic ergo, sicut
+supra habes, quia sentiebatur deambulans Deus qui
+non deambulabat: sic audiebatur loquens Deus, qui
+non loquebatur.</p>
+          </div3>
+<div3>
+            <head>70.</head>
+            <p>
+ Sed quid loquatur, consideremus: <hi>Adam, ubi
+es?</hi> Adhuc in his remedium sanitatis est, qui audiunt
+<pb n="0309D"/>
+Dei verbum. Denique Judaei qui sibi clauserunt aures
+ne audirent, hodieque non merentur audire. Deinde
+habent remedium qui se absconderunt. Nam qui absconditur,
+erubescit: qui erubescit, convertitur; sicut
+scriptum est: <hi>Confundantur, et convertantur omnes
+valde velociter <note>(Ps. VI, 11)</note>
+            </hi>. Deinde hoc ipsum quod
+vocat, indicium sanaturi est, quia Dominus quos miseratur,
+et vocat. Dicendo autem, <hi>Ubi es?</hi> non locum
+quaerit qui novit arcanum; neque enim Deus clausos
+<pb n="0310A"/>
+habebat oculos, ut non videret latentem. Denique
+ideo dixit: <hi>Factus est Adam tamquam unus ex nobis <note>(Gen. III, 22)</note>
+            </hi>;
+quia aperuit oculos. Et hic quidem
+aperuit oculos, ut culpam suam videret, quam vitare
+non potuit. Magis enim postquam peccavimus,
+nescio quomodo nostra delicta cognoscimus: et tunc
+peccatum esse intelligimus, quod antequam peccaremus,
+non putabamus esse peccatum. Certe non quasi
+peccatum putabamus esse damnandum; nam si damnaremus,
+non admitteremus. Deus autem omnium
+videt culpas, et omnium delicta cognoscit: super
+omnem animam, super omnium occulta oculos habet.
+ Quid est ergo: <hi>Adam, ubi es?</hi> Id est, non in
+quo, sed in quibus es. Non ergo interrogatio est, sed
+increpatio. De quibus, inquit, bonis, de qua beatitudine,
+<pb n="0310B"/>
+de qua gratia in quam miseriam recidisti? Dereliquisti
+vitam aeternam, et attumulatus es morti,
+consepultus errori. Ubi est illa tua bene sibi conscia
+confidentia? Timor iste culpam fatetur, latebra
+praevaricationem. Ubi ergo es? Hoc est, non in quo
+loco quaero, sed in quo statu. Quo te perduxerunt
+peccata tua, ut fugias Deum tuum quem ante quaerebas?
+Fortasse moveat cur ante increpatur Adam,
+cum mulier ante gustaverit? Sed a praevaricatione
+sexus infirmior coeperit, a verecundia et excusatione
+fortior; ut femina erroris causa fuerit, vir pudoris.</p>
+          </div3>
+<div3>
+            <head>71.</head>
+            <p>
+ Et dixit mulier: <hi>Serpens decepit me, et manducavi <note>(Gen. III, 13; De Poenit. dist I, c. Serpens)</note>
+            </hi>.
+Veniabilis
+culpa quam sequitur professio delictorum. Ideo non
+desperata mulier quae non reticuit Deo, sed magis
+<pb n="0310C"/>
+confessa peccatum est, quam medicabilis secuta sententia
+est. Bonum est condemnari in peccato, et flagellari
+in delicto, ut cum hominibus flagellemur. Denique
+Cain quia voluit crimen negare indignus judicatus
+est, qui puniretur in peccato: sed remissus est
+sine praescripto poenae, fortasse non tam majori crimine
+parricidii (illud enim commisit in fratrem) quam
+sacrilegii, quod Deo credidit mentiendum dicens: <hi>Nescio: numquid ego custos fratris mei sum 
+ <note>(Gen. IV, 9)</note>
+            </hi>?
+Et ideo accusatori diabolo ejus accusatio reservata
+est; ut cum ejus angelis flagelletur, qui cum hominibus
+noluit flagellari. <emph>178</emph> Denique de talibus dictum
+est: <hi>Non est declinatio mortis eorum . . . . et cum
+hominibus non flagellabuntur <note>(Ps. LXXII, 4 et 5)</note>
+            </hi>. Alia
+ergo ratio mulieris, quae licet in culpam praevaricationis
+<pb n="0310D"/>
+inciderat, tamen de paradisi lignis habebat adhuc
+virtutis escam; et ideo dixit peccatum suum, et
+reputatum est ei ad veniam. Justus enim accusator
+est sui in principio sermonis. Neque enim potest
+quisquam justificari a peccato <note>(De Poenit. dist. 1, c.
+Non potest)</note>, nisi fuerit peccatum ante confessus. Unde
+Dominus ait: <hi>Dic iniquitates tuas, ut justificeris <note>(Esai. XLIII, 26)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>72.</head>
+            <p>
+ Ergo quia Eva ipsa confessa delictum est, misequitur
+<pb n="0311A"/>
+et profutura sententia, quae condemnaret
+errorem, et veniam non negaret, ut ad virum
+suum conversa serviret. Primum ne eam facile delectaret
+errare: deinde ut sub fortiore vase locata
+non traduceret virum, sed magis viri consilio et ipsa
+regeretur. In quo quidem mysterium Christi et Ecclesiae
+evidenter agnosco. Designatur enim Ecclesiae
+ad Christum futura conversio, et religiosa servitus
+subdita Dei Verbo, quae multo sit melior, quam saeculi
+hujus libertas. Denique scriptum est: <hi>Dominum Deum
+tuum adorabis, et ipsi soli servies <note>(Deut. VI, 13)</note>
+            </hi>. Haec
+igitur servitus Dei donum est. Denique inter benedictiones
+numeratur hujus servitutis obsequium;
+nam et Isaac in loco benedictionis eam dedit Esau
+filio suo, ut serviret fratri suo. Denique benedictionem
+<pb n="0311B"/>
+ille poscebat; etsi unam sibi cognovisset esse
+praereptam, tamen aliam postulabat dicens: <hi>Numquid
+una benedictio tibi est, Pater <note>(Gen. XXVII, 38)</note>
+            </hi>?
+Per hanc igitur servitutem ille qui per gulam primitias
+suas ante vendiderat, et studio venationis agrestis
+gratiam benedictionis amiserat, credidit se ipso
+futurum esse meliorem, si typum Christi veneraretur
+in fratre. Hac enim servitute pollet populus Christianus,
+sicut et Dominus ad discipulos suos ait: <hi>Qui
+vult inter vos primus esse, sit omnium servus <note>(Matth. XX,
+27)</note>
+            </hi>. Denique hanc servitutem operatur charitas,
+quae et spe major et fide est. Unde scriptum est: <hi>Per charitatem servite invicem vobis 
+ <note>(Galat. V, 13)</note>
+            </hi>.
+Hoc est ergo mysterium quod ait Apostolus esse in
+Christo et in Ecclesia <note>(Ephes. V, 32)</note>. Haec enim vere
+<pb n="0311C"/>
+in praevaricatione ante fuit, sed salva erit per filiorum
+generationem in fide, et charitate, et sanctificatione,
+cum castitate. Praevaricata utique in patribus
+generatio hominum salvatur per filios; ut quod in
+Judaeis offenderat, in Christiana posteritate corrigeret.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p> <hi>Peccatum mulieris quare venia dignum; quidve per serpentem,
+feminam, ac virum significetur. Qualis serpentis
+condemnatio; et in quibus ab Adami condemnatione
+distinguatur.</hi> </p>
+<div3>
+            <head>73.</head>
+            <p>
+ Serpens, inquit, me persuasit: et hoc veniabile
+Deo visum est; eo quod nosset multas ad decipiendum
+vias esse serpentis (quia transfiguratur in
+<pb n="0311D"/>
+angelum lucis, et ministri ejus sicut ministri justitiae
+ sunt) falsa imponentis <emph>179</emph> rebus singulis nomina,
+ut temeritatem dicat esse virtutem, et avaritiae
+nomen imponat industriae. Serpens enim mulierem
+decepit, virum mulier ad praevaricationem de veritate
+deduxit. Serpentis typum accepit delectatio corporalis:
+mulier symbolum sensus est nostri, vir
+mentis. Delectatio itaque sensum movet, sensus menti
+<pb n="0312A"/>
+transfundit quam acceperit passionem. Delectatio
+igitur prima est origo peccati, ideoque non mireris,
+cur ante serpens damnetur judicio Dei, secundo mulier,
+tertio vir. Secundum erroris ordinem, damnationis
+quoque ordo servatus est. Delectatio enim sensum,
+sensus autem mentem captivam facere consuevit.
+Ut scias autem quia serpens typus est delectationis,
+damnationem ejus adverte.</p>
+          </div3>
+<div3>
+            <head>74.</head>
+            <p>
+ <hi>Supra pectus,</hi> inquit, <hi>tuum et in utero tuo ambulabis <note>(Gen. III, 14)</note>
+            </hi>.
+Qui sunt qui in utero suo ambulabant,
+nisi qui ventri et gulae vivunt, quorum
+deus venter est, et gloria in pudendis eorum, qui
+terrena sapiunt, et cibo onerati ad terrena curvantur?
+Bene ergo delectationi ait, quae cibis intenta terram
+videtur manducare: <hi>Supra pectus tuum, et in utero
+<pb n="0312B"/>
+tuo ambulabis, et terram manducabis omnibus diebus
+vitae tuae.</hi> Tollenda est omnis excusatio diaboli; ne
+forte malitiae suae aliquid possit obtendere, ut dicat
+iniquitatem suam ex condemnatione venisse; et ideo
+ad nocendum hominibus pertinaciter obniti, quia
+ideo damnatus est ut noceret: quod videtur esse
+proximum opinioni, si tamquam damnationis accipimus
+istam sententiam. Non enim Deus ad hoc serpentem
+damnavit, ut noceat: sed quid futurus esset,
+ostendit. Et quidem tentatio illa quod amplius hominibus
+prosit, superius demonstravimus <note>(c. 2, n. 9)</note>:
+sed tamen cum legerimus quod scriptum est, dicente
+Deo: <hi>Honorificantes me honorificabo, et contemptor
+mei honore privabitur <note>(I Reg. II, 30)</note>
+            </hi>, licet nobis ex
+his verbis aliquid aestimare. Deus enim operatur
+<pb n="0312C"/>
+quod bonum est, non quod malum. Ergo doceant te
+verba divina, quia operatur gloriam, poenam relinquit. <hi>Honorificantes me,</hi> 
+ inquit, <hi>honorificabo,</hi> honorem
+bonorum operationis suae esse declarans. Et
+contemptores, inquit, mei, non dixit honore privabo;
+sed, honore privabuntur; non suae operationi deputans
+eorum injuriam, sed quid futurum esset, ostendens.
+Ergo hic non dixit: Facio te supra pectus
+tuum, et in utero tuo ambulare, et terram manducare
+omnes dies vitae tuae: sed: <hi>Ambulabis,</hi> inquit, <hi>et
+manducabis;</hi> ut praedixisse magis de serpente quae
+futura sunt, videretur, quam praescripsisse quid faceret.
+Terra enim, inquit, tibi cibus erit, non anima:
+nam et hoc peccatoribus prodest. Unde et Apostolus
+tradidit hujusmodi in interitum carnis, ut spiritus
+<pb n="0312D"/>
+salvus sit in die Domini nostri Jesu Christi. Pectore
+autem et ventre ait reptare serpentem, non tam
+propter corporis figuram, quam quod propter terrenas
+cogitationes de illa coelesti beatitudine sit lapsus.
+Pectus enim frequenter recessus quidam accipitur
+sapientiae. Et ideo Apostolus supra pectus Christi
+reclinat caput, non in terram dejicit. Ergo si sapientia
+diaboli feris immanissimis <emph>180</emph> comparatur, quibus
+<pb n="0313A"/>
+intra pedes pectus sit: et etiam homines qui
+terrena sapiunt, nec interiore affectu eriguntur ad
+coelum, utero videntur reptare per terram; utique
+ventrem animae nostrae non corruptibilibus saeculi
+hujus implere, sed magis Dei verbo satiare debemus.
+Bene igitur David personam suscipiens Adae dicit: <hi>Humiliata est in pulvere anima mea, adhaesit in terra
+venter meus 
+ <note>(Ps. XLIII, 25)</note>
+            </hi>. Adhaesit enim dum
+configuratur serpenti, qui pascitur in iniquitate terrena.
+Ideoque nos Apostolus configurari dicit oportere
+Christo <note>(Rom. VI, 5)</note>, ut virtus Christi praetendat
+in nobis. Quae sententia non putatur in serpentem
+gravis, cum etiam Adam, qui levius peccavit, tali
+condemnatur sententia.</p>
+          </div3>
+<div3>
+            <head>75.</head>
+            <p>
+ Scriptum est enim: <hi>Maledicta terra in operibus
+<pb n="0313B"/>
+tuis: in tristitia manducabis eam omnes dies vitae
+tuae <note>(Gen. III, 17)</note>
+            </hi>. Videtur certe similitudo quaedam
+esse sententiae: sed tamen in ipsa similitudine magna
+discretio. Interest enim utrum manducet aliquis
+terram, sicut serpenti dictum est, quia terram
+manducabit: an vero sicut homini dictum
+est, <hi>in tristitia manducabis.</hi> Adjectio enim ista: <hi>In
+tristitia,</hi> discretionem facit. Discretio quam vim habeat,
+considera. Bonum est mihi in tristitia magis
+terram manducare, quam in delectatione, hoc est,
+ut in actu quodam et sensu corporis contristari videar,
+quam delectari in peccato. Multi enim propter
+nimias iniquitates non suscipiunt peccati conscientiam.
+At vero ille qui ait: <hi>Castigo corpus meum, et
+servituti redigo <note>(I Cor. IX, 27)</note>
+            </hi>, contristatur in nostrorum
+<pb n="0313C"/>
+poenitentia peccatorum; quia sua tanta delicta
+non habuit, ut in his contristari deberet. Denique
+et nobis suadet utilem istam esse tristitiam, quae secundum
+Deum, non secundum saeculum est. Oportet,
+inquit, vos contristari in poenitentiam secundum
+Deum <note>(II Cor. VII, 9 et 10)</note>; nam secundum Deum
+tristitia salutem operatur, saeculi autem tristitia mortem
+operatur. Sed et de veteri Testamento accipe
+illos ad gratiam pervenisse, qui contristabantur in
+<pb n="0314A"/>
+operibus corporalibus; illos vero in supplicio remansisse,
+qui delectabantur hujus mundi operibus. Denique
+Hebraei qui ingemiscebant in laboribus Aegypti,
+justorum gratiam consecuti sunt <note>(Exod. II, 24)</note>.
+Et quia panem in tristitia manducaverunt, esca donati
+sunt spiritali <note>(Exod. XVI, 13 et seq.)</note>: Aegyptii
+vero qui talia opera cum exsultatione celebrabant,
+regi detestabili servientes, nullam veniam sunt adepti.</p>
+          </div3>
+<div3>
+            <head>76.</head>
+            <p>
+ Sed est et illa distinctio, quod serpenti dicitur
+quia terram manducabit; Adae autem: <hi>In tristitia,</hi> 
+inquit, <hi>manducabis, et cum sudore manducabis, et manducabis
+fenum agri <note>(Gen. III, 18 et 19)</note>
+            </hi>; ut quemdam intelligamus
+in his esse processum et quando terram manducamus,
+in quadam malitia esse videamur: quando fenum,
+in quodam processu: quando vero panem, cum
+<pb n="0314B"/>
+consummata fuerit fortitudo. Ergo et nos habeamus
+processum vitae hujus, sicut habuit et Paulus qui dicit: <hi>Vivo autem jam non ego 
+ <note>(Galat. II, 20)</note>
+            </hi>, hoc est, non
+ego qui terram ante manducabam: non ego qui fenum,
+quia omnis caro fenum: <hi>Sed vivit in me</hi> <emph>181</emph> <hi>Christus,</hi> 
+hoc est, vivit panis ille vivus qui venit e coelo,
+vivit sapientia, vivit gratia, vivit justitia, vivit resurrectio.</p>
+          </div3>
+<div3>
+            <head>77.</head>
+            <p>
+ Deinde considera quia non est maledictus homo,
+sed maledictus est serpens: nec terra in se maledicta
+est; sed <hi>Maledicta,</hi> inquit, <hi>in operibus tuis,</hi> 
+ quod ad Adam dictum est. Tunc terra maledicta est,
+si habeas opera terrena, id est opera saecularia. Et
+maledicta non in universum; sed ut spinas et tribulos
+generet, nisi <emph>182</emph> fuerit humanae studio operationis
+<pb n="0314C"/>
+exercitata. Quod si eam exercuerimus, in
+labore quidem et sudore, sed tamen panem manducabimus.
+Repugnat enim lex carnis legi mentis. Et
+laborandum nobis est ac desudandum, ut castigemus
+corpus, et servituti redigamus, et quae sunt spiritalia
+seminemus. Si enim carnalia seminaverimus,
+quae carnalia sunt metemus: si vero spiritalia seminaverimus,
+metemus ea quae sunt spiritalia. <note>(S. Aug.,
+l. II cont. Jul. Pelag., c. 5)</note>.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

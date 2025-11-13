@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2578" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Bartholomäus Bertlin / Memmingen an Heinrich Bullinger / Zürich, 6. März 1555</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/2578</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="25032" type="transcription">S. 3834</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 345,417</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Dabis veniam, si iterum ego rudis et iners tua sancta studia laboresque pios interturbaro.</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XV, S. 489ff, Nr. 2140</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 84,108</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p330" cert="high"/>
+					<placeName ref="l320" cert="high"/>
+					<date when="1555-03-06" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="991">Latein</language>
+				<language ident="el" usage="6">Griechisch</language>
+				<language ident="de" usage="3">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2578!Autograph!00%20E_II_345__fol__417_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">2578/Autograph/00 E_II_345__fol__417_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2578!Autograph!01%20E_II_345__fol__417_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">2578/Autograph/01 E_II_345__fol__417_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Dabis veniam, humanissime et doctissime <persName ref="p495">Bullingere</persName>, si iterum ego rudis et iners tua sancta studia laboresque pios interturbaro.</s>
+					<s n="3" xml:lang="la">Quod enim facio non tam mea quam fratrum, tum<note type="margin">a.R.: tam?</note> piorum aliquot, imo veritatis Christi adserendę caussa facio.</s>
+					<s n="4" xml:lang="la">Rogarunt adeoque per Christum obtestati sunt me fratres et aliquot pii ut tibi scribam precibusque a te contendam ut Christi simplicem de coena domini veritatem, a <persName ref="p7024">Westphalo</persName> illo pastore <placeName ref="l204">Hamburgo</placeName> obfuscatam vel potius oppugnatam, tu responso brevi ex scripturis sacris perspicuo et firmo propugnare vel propugnatam illustrare adserereque velis, ut dei gratia potes.</s>
+					<s n="5" xml:lang="la"><persName ref="p540">Calvini</persName> enim scriptum nullum ad nos pervenit, quem audio se huic <persName ref="p7024">Westphalo</persName> opposuisse.</s>
+					<s n="6" xml:lang="la">Sunt qui silentium vestrum desertionem causse vel turpem fugam interpretantur, qui tamen causse favere videri volunt.</s>
+					<s n="7" xml:lang="la">Reliqui theologi, vel potius <foreign xml:lang="el">κρεολόγοι</foreign> triumphant inter suos.</s>
+					<s n="8" xml:lang="la">Esto, liceat illis iubilare, adeoque ante victoriam <foreign xml:lang="el">ἐγκωμιάζειν</foreign><note type="margin">a.R.: ...</note>, sed ne fiat in iniuriam seu imminutionem simplicis Christi veritatis.</s>
+					<s n="9" xml:lang="la">Queso, mi humanissime <persName ref="p495">Bullingere</persName>, que tua est pia eruditio et sancta prudentia, de remediis cogita.</s>
+					<s n="10" xml:lang="la">Quare<note type="margin">a.R.: Que et</note> pro tua fide dexteritate et prudentia fideliter et fortiter adpone, ne carnalis hic tumor periculose recrudescens in pernitiem corporis Christi, hoc est eius sancte ecclesie pergat.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Unum addam, si nescis: Aeditus est superioribus diebus libellus alius cuius titulum ad me perscripsit diaconus ecclesię <placeName ref="l907">Canpidonensis</placeName> talem: Collectanea sententiarum d. <persName>Aurelii</persName> Augustini episcopi <placeName>Hipponensis</placeName> de coena domini.</s>
+					<s n="12" xml:lang="la">Addita est confutatio vindicans a corruptelis plerosque locos quos pro se ex <persName ref="p18700">Augustino</persName> falso citant sacramentarii, per m. <persName ref="p7024">Ioachimum Westphalum</persName>.</s>
+					<s n="13" xml:lang="la"><placeName ref="l410">Ratispone</placeName> ex officina <persName>Iohannis Carbonis</persName>.</s>
+					<s n="14" xml:lang="la">Anno etc. 55.</s>
+					<s n="15" xml:lang="la">Priorem libellum huius <persName ref="p7024">Westphali</persName> in linguam germanam versum studiose suis commendant clamatores [carn]ales, quem et in canonem, ni fallor, consecrabunt.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Hec, doctissime <persName ref="p495">Bullingere</persName>, tibi subindicare volui ut dispicias caveasque ne quid detrimenti veritas Christi simplex, tum offendiculi Christi ecclesia accipiat.</s>
+					<s n="17" xml:lang="la" ana="farewell">Vale, optime et in Christo observande <persName ref="p495">Bullingere</persName>, et meam infantiam vel inpudentiam boni consule.</s>
+					<s n="18" xml:lang="la">Ex <placeName ref="l320">Mem[m]inga</placeName> pridie nonarum martii anno a nato servatore Christo 1555.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">T[uae] humanitati deditissimus <persName ref="p330">Bartholomaeus Bertlinus</persName>, ecclesie Christi ibidem minister.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la"><persName ref="p495">Heinricho Bullingero</persName> fidelissimo ecclesię <placeName ref="l587">Tigurine</placeName> antistiti, domino et amico suo in Christo observando.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de"><placeName ref="l587">Zürch</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

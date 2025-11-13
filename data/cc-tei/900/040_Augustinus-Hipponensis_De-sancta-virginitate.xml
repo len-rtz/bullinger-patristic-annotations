@@ -1,0 +1,2498 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De sancta virginitate</title>
+              <author ref="http://viaf.org/viaf/66806872">Augustinus Hipponensis<date>354-430</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 40</title>
+           <idno>AugHip.DeSaVi</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De sancta virginitate</head>
+
+<p>Dicit primum de praestantia sacrae ac Deo dicatae virginitatis, cui fecunditatem conjugalem jam non posse ullam comparari
+demonstrat. Duobus subinde occurrit contrariis erroribus; alteri culpantium nuptias, alteri eas aequantium virginitati:
+illorum scilicet putantium nuptias ex oblique et facile damnatas ab Apostolo dicente ad Corinthios, <hi>Tribulationem tamen
+<pb n="0397"/>
+carnis habebunt hujusmodi; ego autem vobis parco;</hi> istorum vero, quia ad eosdem scribit, <hi>Existimo itaque hoc bonum
+esse propter praesentem necessitatem;</hi> contendentium perpetuam continentiam propter saeculi hujus vitam, non propter
+futuram commendari. Postea Christi virgines humilitatem, qua tam excellens conservatur earum munus, habere jubet,
+atque ad eam quam maxime sectandam multa et gravi oratione adhortatur.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>Virgines conjugatos sanctos
+patres non contemnant.</hi> Librum de Bono Conjugali
+nuper edidimus, in quo etiam Christi virgines admonuimus
+atque monemus, ne propter excellentiam
+muneris amplioris quod divinitus acceperunt, contemnant
+in sui comparatione patres et matres populi
+Dei; hominesque illos quos tanquam olivam commendat
+Apostolus, ne superbiat insertus oleaster <note>(Rom.
+XI, 17, 18)</note>, qui venturo Christo etiam filiorum propagatione
+serviebant, ideo meriti inferioris esse arbitrentur,
+quia jure divino continentia connubio, et
+nuptiis pia virginitas anteponitur. In illis quippe parabantur
+et parturiebantur futura, quae nunc impleri
+mirabiliter et efficaciter cernimus, quorum etiam vita
+conjugalis prophetica fuit: unde non consuetudine
+humanorum votorum atque gaudiorum, sed valde
+profundo consilio Dei, in quibusdam eorum fecunditas
+honorari, in quibusdam etiam fecundari sterilitas
+meruit. Hoc vero tempore quibus dictum est, <hi>Si se
+non continent, nubant <note>(I Cor. VII, 9)</note>
+            </hi>; non adhibenda
+est exhortatio, sed consolatio. Quibus autem dictum
+est, <hi>Qui potest capere capiat <note>(Matth. XIX, 12)</note>
+            </hi>; exhortandi
+sunt ne terreantur, et terrendi ne extollantur.
+Non solum ergo praedicanda est virginitas, ut ametur;
+verum etiam monenda, ne infletur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Virginis filius et virginum sponsus
+Christus. Ecclesia sicut Maria, et mater et virgo est.</hi> 
+Hoc isto sermone suscepimus: adjuvet Christus Virginis
+filius, et virginum sponsus, virginali utero corporaliter
+natus, virginali connubio spiritualiter conjugatus.
+Cum ipsa igitur universa Ecclesia virgo sit
+desponsata uni viro Christo, sicut dicit Apostolus <note>(II Cor. XI, 2)</note>;
+quanto digna sunt honore membra
+ejus, quae hoc custodiunt etiam in ipsa carne, quod
+tota custodit in fide? quae imitatur matrem viri sui et
+domini sui. Nam Ecclesia quoque et mater et virgo est,
+Cujus enim integritati consulimus, si virgo non est? aut
+cujus prolem alloquimur, si mater non est? Maria corporaliter
+caput hujus corporis peperit: Ecclesia spiritualiter
+membra illius capitis parit. In utraque virginitas
+fecunditatem non impedit: in utraque fecunditas virginitatem
+non adimit. Proinde cum Ecclesia universa
+sit sancta et corpore et spiritu, nec tamen universa sit
+corpore virgo, sed spiritu; quanto sanctior est in his
+membris, ubi virgo est et corpore et spiritu?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Cognatio spiritualis cum Christo
+propinquitati ejus carnali praeponenda.</hi> Scriptum est in
+Evangelio, quod mater et fratres Christi, hoc est consanguinei
+carnis ejus, cum illi nuntiati fuissent, et
+foris exspectarent, quia non possent eum adire prae
+turba, ille respondit: <hi>Quae est mater mea, aut qui sunt
+<pb n="0398"/>
+fratres mei? Et extendens manum super discipulos
+suos, ait: Hi sunt fratres mei; et quicumque fecerit
+voluntatem Patris mei, ipse mihi frater, et mater, et soror
+est <note>(Matth. XII, 46-50)</note>
+            </hi>. Quid aliud nos docens, nisi
+carnali cognationi genus nostrum spirituale praeponere;
+nec inde beatos esse homines, si justis et sanctis
+carnis propinquitate junguntur, sed si eorum doctrinae
+ac moribus obediendo atque imitando cohaerescunt?
+Beatior ergo Maria percipiendo fidem Christi, quam
+concipiendo carnem Christi. Nam et dicenti cuidam, <hi>Beatus venter qui te portavit;</hi> 
+ ipse respondit, <hi>Imo beati
+qui audiunt verbum Dei, et custodiunt <note>(Luc. XI, 27, 28)</note>
+            </hi>.
+Denique fratribus ejus, id est secundum carnem
+cognatis, qui non in eum crediderunt, quid profuit
+illa cognatio? Sic et materna propinquitas nihil Mariae
+profuisset, nisi felicius Christum corde quam carne
+gestasset.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<div3>
+            <head>4.</head>
+            <p>
+ <hi>Virginitas Mariae voto dicata Deo
+antequam de concipiendo Christo audisset.</hi> Ipsa quoque
+virginitas ejus ideo gratior et acceptior, quia non eam
+conceptus Christus viro violaturo quam conservaret
+ipse praeripuit, sed priusquam conciperetur jam Deo
+dicatam de qua nasceretur elegit. Hoc indicant verba
+quae sibi fetum annuntianti angelo Maria reddidit. <hi>Quomodo,</hi> 
+ inquit, <hi>fiet istud, quoniam virum non cognosco <note>(Luc. I, 34)</note>
+            </hi>?
+Quod profecto non diceret, nisi
+Deo virginem se ante vovisset. Sed quia hoc Israelitarum
+mores adhuc recusabant, desponsata est viro
+justo, non violenter ablaturo, sed potius contra violentos
+custodituro quod illa jam voverat. Quanquam
+etiamsi hoc solum dixisset, <hi>Quomodo fiet istud?</hi> nec
+addidisset, <hi>quoniam virum non cognosco;</hi> non quaesisset
+utique, promissum sibi filium quomodo femina paritura
+esset, si concubitura nupsisset. Poterat et
+juberi virgo permanere, in qua Dei Filius formam
+servi congruenti miraculo acciperet: sed exemplo
+sanctis futura virginibus, ne putaretur sola virgo esse
+debuisse, quae prolem etiam sine concubitu concipere
+meruisset, virginitatem Deo dicavit, cum adhuc quid
+esset conceptura nesciret, ut in terreno mortalique
+corpore coelestis vitae imitatio voto fieret, non praecepto;
+amore eligendi, non necessitate serviendi. Ita
+Christus nascendo de virgine, quae antequam sciret
+quis de illa fuerat nasciturus, virgo statuerat permanere,
+virginitatem sanctam approbare maluit, quam
+imperare. Ac sic etiam in ipsa femina in qua formam
+servi accepit, virginitatem esse liberam voluit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<div3>
+            <head>5.</head>
+            <p>
+ <hi>Virginum omnium decus est unius
+Virginis partus. Virgines et ipsae spiritu matres Christi.</hi> 
+Non est ergo cur Dei virgines contristentur, quod
+etiam ipsae virginitate servata matres carnis esse non
+<pb n="0399"/>
+possunt. Illum enim solum virginitas decenter parere
+posset, qui in sua nativitate parem habere non posset.
+Verumtamen ille unius sanctae Virginis partus omnium
+sanctarum virginum est decus. Et ipsae cum Maria
+matres Christi sunt, si Patris ejus faciunt voluntatem.
+Hinc enim et Maria laudabilius atque beatius
+Christi mater est, secundum supra memoratam ejus
+sententiam: <hi>Quicumque facit voluntatem Patris mei
+qui in coelis est, ipse mihi frater, et soror, et mater est.</hi> 
+Has sibi omnes propinquitates, in populo quem redemit,
+spiritualiter exhibet: fratres et sorores habet
+sanctos viros et sanctas feminas, quoniam sunt illi in
+coelesti haereditate cohaeredes. Mater ejus est tota
+Ecclesia, quia membra ejus, id est, fideles ejus per
+Dei gratiam ipsa utique parit. Item mater ejus est
+omnis anima pia, faciens voluntatem Patris ejus fecundissima
+charitate, in iis quos parturit, donec in
+eis ipse formetur <note>(Galat. IV, 19)</note>. Maria ergo faciens
+voluntatem Dei, corporaliter Christi tantummodo mater
+est, spiritualiter autem et soror et mater.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<div3>
+            <head>6.</head>
+            <p>
+ <hi>Sola Maria corpore ac spiritu simul
+virgo et mater.</hi> Ac per hoc illa una femina, non solum
+spiritu, verum etiam corpore, et mater est et virgo.
+Et mater quidem spiritu, non capitis nostri, quod est
+ipse Salvator, ex quo magis illa spiritualiter nata est;
+quia omnes qui in eum crediderint, in quibus et ipsa
+est, recte filii sponsi appellantur <note>(Matth. IX, 15)</note>: sed
+plane mater membrorum ejus, quod nos sumus; quia
+cooperata est charitate, ut fideles in Ecclesia nascerentur,
+quae illius capitis membra sunt: corpore vero
+ipsius capitis mater. Oportebat enim caput nostrum
+propter insigne miraculum secundum carnem nasci de
+virgine, quo significaret membra sua de virgine Ecclesia
+secundum spiritum nascitura. Sola ergo Maria
+et spiritu et corpore mater et virgo; et mater Christi,
+et virgo Christi: Ecclesia vero in sanctis regnum Dei
+possessuris, spiritu quidem tota mater Christi est,
+tota virgo Christi; corpore autem non tota, sed in
+quibusdam virgo Christi, in quibusdam mater, sed
+non Christi. Et conjugatae quippe fideles feminae et
+virgines Deo dicatae, sanctis moribus et charitate de
+corde puro et conscientia bona et fide non ficta <note>(I Tim.
+I, 5)</note>, quia voluntatem Patris faciunt, Christi spiritualiter
+matres sunt. Quae autem conjugali vita corporaliter
+pariunt, non Christum, sed Adam pariunt, et
+ideo currunt ut Sacramentis imbuti Christi membra
+fiant partus earum, quoniam quid pepererint norunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<div3>
+            <head>7.</head>
+            <p>
+ <hi>Virginitati nulla fecunditas conjugalis
+comparanda.</hi> Hoc dixi, ne forte audeat fecunditas
+conjugalis cum virginali integritate contendere,
+atque ipsam Mariam proponere, ac virginibus Dei dicere:
+Illa in corpore duas res habuit honorandas,
+virginitatem et fecunditatem, quia et integra permansit
+et peperit: hanc felicitatem quoniam totam utraeque
+habere non potuimus, partitae sumus, ut vos sitis
+virgines, nos simus matres; vobis quod defit in
+prole, consoletur servata virginitas, nobis prolis lucro
+<pb n="0400"/>
+amissa compensetur integritas. Haec vox fidelium conjugatarum
+ad sacras virgines utcumque ferenda esset,
+si christianos corpore parerent; ut hoc solo esset
+Mariae fecunditas carnis excepta virginitate praestantior,
+quod illa ipsum caput horum membrorum, hae
+autem membra illius capitis procrearent: nunc vero
+etiamsi tales hac voce contendant, quae ob hoc tantum
+viris junguntur atque miscentur, ut filios habeant,
+nihilque aliud de filiis cogitant, nisi ut eos Christo
+lucrentur, atque id mox ut potuerint faciunt; non
+tamen christiani ex earum carne nascuntur, sed postea
+fiunt, Ecclesia pariente per hoc quod membrorum
+Christi spiritualiter mater est, cujus etiam spiritualiter
+virgo est. Cui sancto partui cooperantur et matres,
+quae non christianos corpore pepererunt, ut fiant quod
+se corpore parere non potuisse noverunt: per hoc
+tamen cooperantur, ubi et ipsae virgines matresque
+Christi sunt, in fide scilicet quae per dilectionem
+operatur <note>(Galat. V, 6)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<div3>
+            <head>8.</head>
+            <p>
+ <hi>Virginitas inde honorata, quia
+Deo dicata.</hi> Nulla ergo carnis fecunditas sanctae virginitati
+etiam carnis comparari potest. Neque enim et
+ipsa quia virginitas est, sed quia Deo dicata est honoratur,
+quae licet in carne servetur, spiritus tamen religione
+ac devotione servatur. Ac per hoc spiritualis
+est etiam virginitas corporis, quam vovet et servat
+continentia pietatis. Sicut enim nemo impudice utitur
+corpore, nisi spiritu prius concepta nequitia; ita nemo
+pudicitiam servat in corpore, nisi spiritu prius insita
+castitate. Porro autem si pudicitia conjugalis, quamvis
+custodiatur in carne, animo tamen, non carni tribuitur,
+quo praeside atque rectore, nulli praeter proprium
+conjugium caro ipsa miscetur; quanto magis quantoque
+honoratius in animi bonis illa continentia numeranda
+est, qua integritas carnis ipsi Creatori animae
+et carnis vovetur, consecratur, servatur?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<div3>
+            <head>9.</head>
+            <p>
+ <hi>Virginitas amissa nulla carnis
+fecunditate compensatur.</hi> Nec illarum ergo fecunditas
+carnis, quae hoc tempore nihil aliud in conjugio quam
+prolem requirunt, quam mancipent Christo, pro
+amissa virginitate compensari posse credenda est.
+Prioribus quippe temporibus venturo secundum carnem
+Christo ipsum genus carnis in ampla quadam et
+prophetica gente necessarium fuit: nunc autem cum
+ex omni hominum genere, atque omnibus gentibus ad
+populum Dei et civitatem regni coelorum membra
+Christi colligi possint, sacram virginitatem qui potest
+capere, capiat <note>(Matth. XIX, 12)</note>; et ea tantum quae se
+non continet, nubat <note>(I Cor. VII, 9)</note>. Quid enim si aliqua
+mulier dives multam pecuniam huic bono operi impendat,
+ut emat ex diversis gentibus servos quos
+faciat christianos; nonne uberius atque numerosius
+quam uteri quantalibet feracitate Christi membra gignenda
+curabit? Nec ideo tamen pecuniam suam comparare
+muneri sacrae virginitatis audebit. At si propter
+faciendos qui nati fuerint christianos, fecunditas carnis
+pro amissa virginitate merito compensabitur,
+<pb n="0401"/>
+fructuosius erit hoc negotium, si magno pecuniario
+pretio virginitas amittatur, quo pueri faciendi christiani
+multo plures emantur, quam unius utero quamlibet
+fertili nascerentur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Nec virginitati conferendum conjugium
+quia virgines parit.</hi> Quod si stultissime dicitur,
+habeant fideles nuptae bonum suum, de quo in alio
+volumine quantum visum est disseruimus; et honorent
+amplius sicut rectissime consueverunt, in sacris
+virginibus melius earum, de quo isto sermone disserimus.</p>
+<div3>
+            <head>10.</head>
+            <p>
+ Nam ne illo quidem debent continentium meritis
+se conferre conjugia, quod ex eis virgines procreantur:
+hoc enim non conjugii bonum est, sed
+naturae; quae sic divinitus instituta est, ut ex quolibet
+humano utriusque sexus concubitu, sive ordinato et
+honesto, sive turpi et illicito, nulla femina nisi virgo
+nascatur, nulla tamen sacra virgo nascitur: ita fit ut
+virgo nascatur etiam de stupro, sacra autem virgo nec
+de conjugio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<div3>
+            <head>11.</head>
+            <p>
+ <hi>Virgines ideo laudatae, quia Deo
+dicatae.</hi> Nec nos hoc in virginibus praedicamus, quod
+virgines sunt; sed quod Deo dicatae pia continentia virgines.
+Nam, quod non temere dixerim, felicior mihi
+videtur nupta mulier quam virgo nuptura: habet
+enim jam illa quod ista adhuc cupit, praesertim si
+nondum vel sponsa cujusquam sit. Illa uni studet placere,
+cui data est: haec multis, incerta cui danda est;
+hoc uno pudicitiam cogitationis defendit a turba,
+quod non adulterum, sed maritum quaerit in turba.
+Illa igitur virgo conjugatae merito praeponitur, quae
+nec multitudini se amandam proponit, cum amorem
+unius ex multitudine inquirit; nec se uni jam componit
+invento, cogitans quae sunt mundi, quomodo placeat
+viro <note>(I Cor. VII, 34)</note>; sed speciosum forma prae filiis
+hominum <note>(Psal. XLIV, 3)</note> sic amavit, ut quia eum
+sicut Maria concipere carne non posset, ei corde concepto
+etiam carnem integram custodiret.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Virgines sacrae non corporali, sed
+spirituali fecunditate Ecclesiae nascuntur. Bonum conjugii
+quam inferius bono sanctae virginitatis.</hi> Hoc genus
+virginum nulla corporalis fecunditas protulit: non est
+haec proles carnis et sanguinis. Si harum quaeritur
+mater, Ecclesia est. Non parit virgines sacras nisi
+virgo sacra, illa quae desponsata est uni viro casta
+exhiberi Christo <note>(II Cor. XI, 2)</note>. Ex illa non tota corpore,
+sed tota virgine spiritu, nascuntur sanctae virgines
+et corpore et spiritu.</p>
+<div3>
+            <head>12.</head>
+            <p>
+ Habeant conjugia bonum suum, non quia filios
+procreant, sed quia honeste, quia licite, quia pudice,
+quia socialiter, procreant, et procreatos pariter, salubriter,
+instanter educant, quia thori fidem invicem
+servant, quia sacramentum connubii non violant.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>In eos qui putant continentiam non
+prodesse nisi ad praesentem vitam.</hi> Haec tamen omnia
+humani officii sunt munera: virginalis autem integritas,
+et per piam continentiam ab omni concubitu immunitas
+angelica portio est, et in carne corruptibili
+incorruptionis perpetuae meditatio. Cedat huic omnis
+<pb n="0402"/>
+fecunditas carnis, omnis pudicitia conjugalis: illa
+non est in potestate, illa non est in aeternitate: fecunditatem
+carnalem non habet liberum arbitrium,
+pudicitiam conjugalem non habet coelum. Profecto
+habebunt magnum aliquid praeter caeteros in illa
+communi immortalitate, qui habent aliquid jam non
+carnis in carne.</p>
+<div3>
+            <head>13.</head>
+            <p>
+ Unde mirabiliter desipiunt, qui putant hujus
+continentiae bonum non esse necessarium propter
+regnum coelorum, sed propter praesens saeculum;
+quod scilicet conjugia terrenis curis pluribus atque
+arctioribus distenduntur, qua molestia virgines et
+continentes carent: quasi ob hoc tantum melius sit
+non conjugari, ut hujus temporis relaxentur angustiae,
+non quod in futurum saeculum aliquid prosit.
+Hanc vanam sententiam ne cordis proprii vanitate
+protulisse videantur, adhibent ex Apostolo testimonium
+ubi ait: <hi>De virginibus autem praeceptum Domini
+non habeo, consilium autem do, tanquam misericordiam
+consecutus a Deo, ut fidelis essem. Existimo itaque
+hoc bonum esse propter praesentem necessitatem,
+quia bonum est homini sic esse <note>(I Cor. VII, 25, 26)</note>
+            </hi>.
+Ecce, inquiunt, ubi manifestat Apostolus hoc propter
+praesentem necessitatem bonum esse, non propter
+futuram aeternitatem. Quasi praesentis necessitatis rationem
+haberet Apostolus, nisi providens et consulens
+in futurum; cum omnis ejus dispensatio non nisi
+ad vitam aeternam vocet.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<div3>
+            <head>14.</head>
+            <p>
+ <hi>Virginitas non praecepto, sed consilio
+commendata ad promerendam singularem gloriam
+in vita futura.</hi> Praesens ergo est vitanda necessitas,
+sed tamen quae aliquid bonorum impedit futurorum:
+qua necessitate vita cogitur conjugalis cogitare
+quae mundi sunt, quomodo placeat vir uxori, vel uxor
+viro. Non quod ea separent a regno Dei, sicut sunt
+peccata, quae ideo praecepto, non consilio cohibentur,
+quia Domino praecipienti non obedire damnabile est:
+sed illud quod in ipso Dei regno amplius haberi posset
+si amplius cogitaretur quomodo placendum esset
+Deo, minus erit utique cum hoc ipsum minus conjugii
+necessitate cogitatur. Ideo, <hi>De virginibus,</hi> inquit, <hi>praeceptum Domini non habeo.</hi> 
+ Praecepto enim quisquis
+non obtemperat, reus est et debitor poenae.
+Proinde quia uxorem ducere vel nubere peccatum
+non est, si autem peccatum esset, praecepto vetaretur;
+propterea praeceptum Domini de virginibus nullum
+est. Sed quoniam devitatis remissisve peccatis,
+adeunda est vita aeterna, in qua est quaedam egregia
+gloria, non omnibus in aeternum victuris, sed quibusdam
+ibi tribuenda, cui consequendae parum est liberatum
+esse a peccatis, nisi aliquid ipsi liberatori voveatur,
+quod non sit criminis non vovisse, sed vovisse
+ac reddidisse sit laudis: <hi>Consilium,</hi> inquit, <hi>do, tanquam
+misericordiam consecutus a Deo, ut fidelis essem.</hi> 
+Neque enim invidere debeo fidele consilium, qui non
+meis meritis, sed Dei misericordia sum fidelis. <hi>Existimo
+itaque hoc bonum esse propter praesentem necessitatem.</hi> 
+<pb n="0403"/>
+Hoc, inquit, unde praeceptum Domini non habeo,
+sed consilium do, hoc est de virginibus, existimo
+bonum esse propter praesentem necessitatem.
+Novi enim quid praesentis temporis, cui conjugia serviunt,
+necessitas cogat, ut ea quae Dei sunt minus
+cogitentur, quam sufficit adipiscendae illi gloriae, quae
+non erit omnium, quamvis in aeterna vita ac salute
+manentium. <hi>Stella enim ab stella differt in claritate;
+sic et resurrectio mortuorum <note>(I Cor. XV, 41, 42)</note>
+            </hi>. <hi>Bonum
+est</hi> ergo <hi>homini sic esse.</hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<div3>
+            <head>15.</head>
+            <p>
+ <hi>Consilium datur non nubendi, non
+praeceptum.</hi> Deinde adjungit idem apostolus et dicit: <hi>Alligatus es uxori, ne quaesieris solutionem; solutus
+es ab uxore, ne quaesieris uxorem.</hi> 
+ Horum duorum
+quod prius posuit, ad praeceptum pertinet, contra
+quod non licet facere. Non enim licet dimittere uxorem,
+nisi ex causa fornicationis, sicut in Evangelio
+ipse Dominus dicit <note>(Matth. XIX, 9)</note>. Illud autem quod
+addidit, <hi>Solutus es ab uxore, ne quaesieris uxorem,</hi> consilii
+sententia est, non praecepti: licet itaque facere,
+sed melius est non facere. Denique continuo subjecit: <hi>Et si acceperis uxorem, non peccasti; et si nupserit
+virgo, non peccat.</hi> 
+ Illud autem prius cum dixisset, <hi>Alligatus
+es uxori; ne quaesieris solutionem;</hi> numquid addidit,
+Et si solveris, non peccasti? Jam enim supra
+dixerat, <hi>His autem qui sunt in conjugio praecipio, non
+ego, sed Dominus, uxorem a viro non discedere; quod
+si discesserit, manere innuptam, aut viro suo reconciliari:</hi> 
+fieri enim potest ut non sua culpa, sed mariti
+discedat. Deinde ait, <hi>Et vir uxorem ne dimittat <note>(I Cor.
+VII, 27, 28, 10, 11)</note>
+            </hi>; quod nihilominus ex praecepto
+Domini posuit, nec ibi addidit, Et si dimiserit, non
+peccat. Praeceptum est enim hoc, cui non obedire
+peccatum est; non consilium, quo si uti nolueris,
+minus boni adipisceris, non mali aliquid perpetrabis.
+Propterea cum dixisset, <hi>Solutus es ab uxore, ne quaesieris
+uxorem;</hi> quia non praecipiebat ne malum fieret,
+sed consulebat ut melius fieret; continuo subjunxit, <hi>Et
+si acceperis uxorem, non peccasti; et si nupserit virgo,
+non peccat.</hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<div3>
+            <head>16.</head>
+            <p>
+ <hi>Tribulatio carnis in conjugio, quae
+sit.</hi> Addidit tamen, <hi>Tribulationem autem carnis habebunt
+hujusmodi, ego autem vobis parco:</hi> hoc modo
+exhortans ad virginitatem continentiamque perpetuam,
+ut aliquantulum a nuptiis etiam deterreret, modeste
+sane, non tanquam a re mala et illicita, sed tanquam
+ab onerosa ac molesta. Aliud est enim admittere
+carnis turpitudinem, aliud habere carnis tribulationem:
+illud est criminis facere, hoc laboris est pati,
+quem plerumque homines etiam pro officiis honestissimis
+non recusant. Sed pro habendo conjugio jam
+hoc tempore, quo non per carnis propaginem venturo
+Christo ipsius prolis propagatione servitur, istam tribulationem
+carnis, quam nupturis praedicit Apostolus,
+suscipere tolerandam perstultum esset, nisi metueretur
+incontinentibus, ne tentante satana in peccata
+damnabilia laberentur. Quod autem se dicit eis parcere,
+quos ait tribulationem carnis habituros, nihil
+mihi interim sanius occurrit, quam eum noluisse
+<pb n="0404"/>
+aperire et explicare verbis eamdem ipsam carnis tribulationem,
+quam praenuntiavit eis qui eligunt nuptias,
+in suspicionibus zeli conjugalis, in procreandis
+filiis atque nutriendis, in timoribus et moeroribus orbitatis.
+Quotus enim quisque, cum se connubii vinculis
+alligaverit, non istis trahatur atque agitetur affectibus?
+Quos neque nos exaggerare debemus, ne ipsis non
+parcamus, quibus parcendum existimavit Apostolus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<div3>
+            <head>17.</head>
+            <p>
+ <hi>In eos qui ab Apostolo damnatas
+ibi nuptias putant. Scripturae aliquod mendacium tribuere
+quam perniciosum.</hi> Tantum per hoc quod breviter
+posui, cautum fieri lectorem oportuit adversus
+eos qui in hoc quod scriptum est, <hi>Tribulationem
+autem carnis habebunt hujusmodi, ego autem vobis parco,</hi> 
+nuptiis calumniantur, quod eas ex obliquo sententia
+ista damnaverit; velut ipsam damnationem noluerit
+dicere, cum ait, <hi>Ego autem vobis parco:</hi> ut videlicet
+cum istis parcit, animae suae non pepercerit,
+si mentiendo dixit, <hi>Et si acceperis uxorem, non peccasti;
+et si nupserit virgo, non peccat.</hi> Quod qui de
+sancta Scriptura credunt vel credi volunt, tanquam
+viam sibi muniunt ad mentiendi licentiam, vel ad
+defensionem suae perversae opinionis, ubicumque
+aliud sentiunt quam sana doctrina postulat. Si quid
+enim manifestum de divinis Libris prolatum fuerit,
+quo eorum confutentur errores, hoc ad manum habent
+velut scutum, quo se adversus veritatem quasi
+tuentes nudent a diabolo vulnerandos, ut dicant hoc
+auctorem libri non verum dixisse, alias ut infirmis
+parceret, alias ut contemptores terreret; sicut occurrerit
+causa, qua eorum perversa sententia defendatur:
+atque ita dum ea quae opinantur, defendere
+quam corrigere malunt, Scripturae sanctae auctoritatem
+frangere conantur, qua una omnes cervices superbae
+duraeque franguntur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<div3>
+            <head>18.</head>
+            <p>
+ <hi>Virginitas sic praeferatur, ut non
+nuptiae damnentur.</hi> Unde sectatores et sectatrices
+perpetuae continentiae et sacrae virginitatis admoneo,
+ut bonum suum ita praeferant nuptiis, ne malum judicent
+nuptias: neque fallaciter, sed plane veraciter
+ab Apostolo dictum noverint, <hi>Qui dat nuptum, bene
+facit; et qui non dat nuptum, melius facit. Et si acceperis
+uxorem, non peccasti; et si nupserit virgo, non
+peccat.</hi> Et paulo post: <hi>Beatior autem erit, si sic permanserit,
+secundum meam sententiam.</hi> Et ne humana
+sententia putaretur, adjungit: <hi>Puto autem, et ego
+Spiritum Dei habeo.</hi> Haec dominica, haec apostolica,
+haec vera, haec sana doctrina est, sic eligere dona majora,
+ne minora damnentur. Melior est in Scriptura
+Dei veritas Dei, quam in cujusquam mente aut carne
+virginitas hominis. Quod eastum est sic ametur, ut
+quod verum est non negetur. Nam quid mali non
+possunt etiam de sua carne cogitare, qui credunt
+apostolicam linguam in eo ipso loco ubi virginitatem
+corporis commendabat, a corruptione mendacii virginem
+non fuisse? Primitus ergo ac maxime, qui bonum
+virginitatis eligunt, Scripturas sanctas firmissime
+teneant nihil esse mentitas; ac per hoc etiam illud
+verum esse quod dictum est, <hi>Et si acceperis uxorem,
+<pb n="0405"/>
+non peccasti; et si nupserit virgo, non peccat.</hi> Nec
+putent minui tam magnum integritatis bonum, si nuptiae
+non erunt malum. Imo vero hinc sibi potius
+majoris gloriae palmam praeparatam esse confidat,
+quae non damnari, si nuberet, timuit; sed honoratius
+coronari, quia non nuberet, concupivit. Qui ergo
+sine conjugio permanere voluerint, non tanquam foveam
+peccati nuptias fugiant: sed tanquam collem
+minoris boni transcendant, ut in majoris continentiae
+monte requiescant. Ea quippe lege collis iste inhabitatur,
+ut non cum voluerit quis emigret. <hi>Mulier</hi> enim <hi>alligata est, quamdiu vir ejus vivit 
+ <note>(I Cor. VII, 38-40)</note>
+            </hi>.
+Verumtamen ad continentiam vidualem ab ipso tanquam
+gradu conscenditur: propter virginalem vero
+vel declinandus est non consentiendo petitoribus, vel
+transiliendus praeveniendo petitores.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<div3>
+            <head>19.</head>
+            <p>
+ <hi>Errores duo contrarii de virginitate
+et conjugio.</hi> Ne quis autem putaret duorum operum
+boni atque melioris aequalia fore praemia, propterea
+contra eos disserendum fuit, qui quod ait Apostolus, <hi>Existimo autem hoc bonum esse propter praesentem
+necessitatem,</hi> 
+ ita interpretati sunt, ut non propter
+regnum coelorum, sed propter saeculum praesens virginitatem
+utilem dicerent; tanquam in illa vita aeterna
+nihil caeteris amplius habituri essent, qui hoc melius
+elegissent. In qua disputatione cum ad illud veniremus
+quod idem apostolus ait, <hi>Tribulationem autem
+carnis habebunt hujusmodi, ego autem vobis parco;</hi> in
+alios litigatores incurrimus, qui non aequales perpetuae
+continentiae nuptias facerent, sed eas omnino
+damnarent. Nam cum error uterque sit, vel aequare
+sanctae virginitati nuptias, vel damnare: nimis invicem
+fugiendo, duo isti errores adversa fronte confligunt,
+quia veritatis medium tenere noluerunt;
+quo et certa ratione, et sanctarum Scripturarum auctoritate,
+nec peccatum esse nuptias invenimus, nec
+eas bono vel virginalis continentiae, vel etiam vidualis
+aequamus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p> <hi>Apostoli dictum,</hi> Ego autem vobis
+parco, <hi>perperam trahi ad nuptiarum damnationem.</hi> Alii
+quippe appetendo virginitatem, nuptias tanquam
+adulterium detestandas esse putaverunt: alii vero
+defendendo connubium, excellentiam perpetuae continentiae
+nihil mereri amplius quam conjugalem pudicitiam
+voluerunt; quasi vel Susannae bonum, Mariae
+sit humiliatio; vel Mariae majus bonum, Susannae
+debeat esse damnatio.</p>
+<div3>
+            <head>20.</head>
+            <p>
+ Absit ergo ut ita dixerit Apostolus nuptis sive
+nupturis, <hi>Ego autem vobis parco;</hi> tanquam noluerit
+dicere quae poena conjugatis in futuro saeculo debeatur.
+Absit ut a Daniele de temporali judicio liberatam
+Paulus mittat in gehennam. Absit ut maritalis thorus
+ei poena sit ante tribunal Christi, cui fidem servando
+elegit sub falsa accusatione adulterii vel periclitari,
+vel mori. Quid egit vox illa, <hi>Melius est mihi
+<pb n="0406"/>
+incidere in manus vestras, quam peccare in conspectu
+Dei <note>(Dan. XIII, 23)</note>
+            </hi>, si Deus eam fuerat, non quia
+pudicitiam nuptialem servabat liberaturus, sed quia
+nupserat damnaturus? Et nunc quoties castitas conjugalis
+adversus calumniatores criminatoresque nuptiarum
+Scripturae sanctae veritate munitur; toties a
+Spiritu sancto contra falsos testes Susanna defenditur,
+toties a falso crimine liberatur, et multo majore
+negotio. Tunc enim uni conjugatae, nunc omnibus;
+tunc de occulto et falso adulterio, nunc de vero et
+manifesto connubio crimen intenditur. Tunc una mulier
+ex eo quod iniqui seniores dicebant, nunc omnes
+mariti et uxores ex eo quod Apostolus dicere
+noluit, accusantur. Damnationem quippe vestram, inquiunt,
+tacuit, cum ait, <hi>Ego autem vobis parco.</hi> Quis
+hoc? Nempe ille qui superius dixerat: <hi>Et si acceperis
+uxorem, non peccasti; et si nupserit virgo, non peccat.</hi> 
+Cur igitur in eo quod modeste tacuit, conjugiorum
+suspicamini crimen; et in eo quod aperte dixit,
+conjugiorum non agnoscitis defensionem? An eos
+damnat tacitus, quos locutus absolvit? Nonne jam
+mitius accusatur Susanna, non de conjugio, sed de
+ipso adulterio, quam doctrina apostolica de mendacio?
+Quid in tanto periculo faceremus, nisi tam certum
+apertumque esset pudicas nuptias non debere
+damnari, quam certum apertumque est sanctam Scripturam
+non posse mentiri?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<div3>
+            <head>21.</head>
+            <p>
+ <hi>Virginitatis laudem et meritum
+esse majus, cum nuptiae non tanquam malae devitantur.</hi> 
+Hic dicet aliquis: quid hoc pertinet ad sacram virginitatem,
+vel perpetuam continentiam, cujus praedicatio
+isto sermone suscepta est? Cui respondeo primo,
+quod superius commemoravi, ex hoc gloriam majoris
+illius boni esse majorem, quod ejus adipiscendae
+causa bonum conjugale transcenditur, non peccatum
+conjugii devitatur. Alioquin perpetuae continentiae
+non praecipue laudari, sed tantum non vituperari
+sufficeret; si propterea teneretur, quoniam nubere
+crimen esset. Deinde quia non humana sententia, sed
+divinae Scripturae auctoritate ad tam excellens donum
+homines exhortandi sunt, non mediocriter neque
+praetereunter agendum est, ne cuiquam ipsa divina
+Scriptura in aliquo mentita videatur. Dehortantur
+enim potius quam exhortantur virgines sacras, qui
+eas sic permanere nuptiarum damnatione compellunt.
+Unde enim confidant verum esse quod scriptum est, <hi>Et qui non dat nuptum, melius facit;</hi> 
+ si falsum putant
+esse quod juxta superius nihilominus scriptum
+est, <hi>Et qui dat virginem suam, bene facit?</hi> Si autem
+loquenti Scripturae de nuptiarum bono indubitanter
+crediderint, eadem coelestis eloquii veracissima auctoritate
+firmatae ad melius suum ferventi ac fidenti
+alacritate transcurrent. Unde jam satis pro suscepto
+negotio diximus, et quantum potuimus demonstravimus,
+nec illud quod ait Apostolus, <hi>Existimo autem
+hoc bonum esse propter praesentem necessitatem,</hi> sic
+esse accipiendum, tanquam in hoc saeculo meliores
+sint sacrae virgines fidelibus conjugatis, in regno autem
+<pb n="0407"/>
+coelorum atque in futuro saeculo pares sint: nec
+illud ubi ait de nubentibus, <hi>Tribulationem autem carnis
+habebunt hujusmodi, ego autem vobis parco <note>(I Cor. VII,
+38, 26, 28)</note>
+            </hi>, ita intelligendum, tanquam nuptiarum
+peccatum et damnationem maluerit tacere quam dicere.
+Harum quippe duarum sententiarum singulas,
+duo errores sibimet contrarii non eas intelligendo
+tenuerunt. Illam enim de praesenti necessitate illi pro
+se interpretantur, qui nubentes non nubentibus
+aequare contendunt: hanc vero ubi dictum est, <hi>Ego
+autem vobis parco,</hi> illi qui nubentes damnare praesumunt.
+Nos autem secundum Scripturarum sanctarum
+fidem sanamque doctrinam, nec peccatum esse
+dicimus nuptias, et earum tamen bonum non solum
+infra virginalem, verum etiam infra vidualem continentiam
+constituimus; praesentemque necessitatem conjugatorum,
+non quidem ad vitam aeternam, verumtamen
+ad excellentem gloriam et honorem qui perpetuae continentiae
+reservatur, impedire eorum meritum dicimus;
+neque hoc tempore nisi eis qui se non continent nuptias
+expedire, tribulationemque carnis ex affectu
+carnali venientem, sine quo nuptiae incontinentium
+esse non possunt, nec tacere voluisse Apostolum
+vera praemonentem, nec plenius explicare hominum
+infirmitati parcentem.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<div3>
+            <head>22.</head>
+            <p>
+ <hi>Virginitas non propter hanc
+vitam, sed propter futuram diligenda ostenditur ex Apostolo.</hi> 
+Nunc jam Scripturarum divinarum evidentissimis
+testimoniis, quae pro nostrae memoriae modulo
+recordari valuerimus, clarius appareat non propter
+praesentem hujus saeculi vitam, sed propter futuram
+quae in regno coelorum promittitur, perpetuam continentiam
+diligendam. Quis autem hoc non advertat
+in eo quod paulo post idem apostolus ait: <hi>Qui sine
+uxore est, cogitat ea quae sunt Domini, quomodo placeat
+Domino; qui autem matrimonio junctus est, cogitat ea
+quae sunt mundi, quomodo placeat uxori. Et divisa est
+mulier innupta et virgo: quae innupta est</hi>, <hi>sollicita
+est quae sunt Domini, ut sit sancta et corpore et spiritu;
+quae autem nupta est, sollicita est quae sunt mundi, quomodo
+placeat viro <note>(I Cor. VII, 32-34)</note>
+            </hi>? Non utique ait,
+Cogitat ea quae securitatis sunt in hoc saeculo, ut sine
+gravioribus molestiis tempus transigat; neque ad
+hoc divisam dicit innuptam et virginem ab ea quae
+nupta est, id est distinctam atque discretam, ut innupta
+in hac vita secura sit propter temporales molestias
+evitandas, quibus nupta non caret: sed, <hi>Cogitat,</hi> 
+inquit, <hi>quae sunt Domini, quomodo placeat Domino,
+et sollicita est quae sunt Domini</hi>, <hi>ut sit sancta
+et corpore et spiritu.</hi> Nisi forte usque adeo quisque
+insipienter contentiosus est, ut conetur asserere,
+non propter regnum coelorum, sed propter praesens
+<pb n="0408"/>
+saeculum Domino placere nos velle, aut propter
+vitam istam, non propter aeternam esse sanctas et
+corpore et spiritu. Hoc credere, quid est aliud, nisi
+miserabiliorem esse omnibus hominibus? Sic enim
+Apostolus ait: <hi>Si in hac vita tantum in Christo sperantes
+sumus, miserabiliores sumus omnibus hominibus <note>(I Cor. XV, 19)</note>
+            </hi>.
+An vero qui frangit panem suum
+esurienti, si tantum propter hanc vitam facit, stultus
+est; et ille erit prudens, qui castigat corpus suum
+usque ad continentiam, qua nec conjugio misceatur,
+si ei nihil proderit in regno coelorum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<div3>
+            <head>23.</head>
+            <p>
+ <hi>Idipsum probatur ex verbis
+Domini.</hi> Postremo ipsum Dominum audiamus evidentissimam
+hanc sententiam proferentem. Nam cum de
+conjugibus non separandis nisi causa fornicationis
+divine ac terribiliter loqueretur, dixerunt ei discipuli: <hi>Si talis est causa cum uxore, non expedit nubere.</hi> 
+Quibus ille: <hi>Non omnes,</hi> inquit, <hi>capiunt verbum
+hoc. Sunt enim spadones qui ita nati sunt; sunt autem
+alii qui ab hominibus facti sunt; et sunt spadones qui
+se ipsos castraverunt propter regnum coelorum: qui potest
+capere, capiat <note>(Matth. XIX, 10-12)</note>
+            </hi>. Quid veracius,
+quid lucidius dici potuit? Christus dicit, Veritas
+dicit, Virtus et Sapientia Dei dicit, eos qui pio proposito
+ab uxore ducenda se continuerint, castrare
+se ipsos propter regnum coelorum; et contra humana
+vanitas impia temeritate contendit, eos qui hoc faciunt,
+praesentem tantummodo necessitatem molestiarum
+conjugalium devitare, in regno autem coelorum
+amplius quidquam caeteris non habere?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+<div3>
+            <head>24.</head>
+            <p>
+ <hi>Item ex verbis Isaiae. Ecclesia
+regnum coelorum cur appellata.</hi> De quibus autem
+spadonibus loquitur Deus per Isaiam prophetam,
+quibus se dicit daturum in domo sua et in muro suo
+locum nominatum, meliorem multo quam filiorum
+atque filiarum, nisi de his qui se ipsos castrant propter
+regnum coelorum? Nam illis quibus ipsum virile
+membrum debilitatur, ut generare non possint, sicut
+sunt eunuchi divitum et regum, sufficit utique cum
+christiani fiunt, et Dei praecepta custodiunt, eo tamen
+proposito sunt, ut conjuges si potuissent haberent,
+caeteris in domo Dei conjugatis fidelibus adaequari,
+qui prolem licite pudiceque susceptam in Dei timore
+nutriunt, docentes filios suos ut ponant in Deo spem
+suam; non autem accipere meliorem locum quam
+est filiorum atque filiarum. Neque enim uxores animi
+virtute, sed carnis necessitate non ducunt. Contendat
+sane qui voluerit de his Prophetam spadonibus hoc
+praenuntiasse, qui corpore abscisi sunt: iste quoque
+error causae quam suscepimus suffragatur. Neque
+enim spadones istos eis qui in domo ejus nullum habent
+locum praetulit Deus, sed eis utique qui in filiis
+generandis conjugalis vitae meritum servant. Nam
+cum dicit, <hi>Dabo eis locum multo meliorem;</hi> ostendit et
+conjugatis dari, sed multo inferiorem. Ut ergo concedamus
+in domo Dei praedictos futuros eunuchos
+secundum carnem, qui in populo Israel non fuerunt;
+quia et ipsos videmus cum Judaei non fiant, tamen
+fieri christianos; nec de illis dixisse Prophetam, qui
+<pb n="0409"/>
+proposito continentiae conjugia non quaerentes, se
+ipsos castrant propter regnum coelorum: itane tanta
+dementia quisquam est contrarius veritati, ut in
+carne factos eunuchos meliorem quam conjugatos locum
+in domo Dei habere credat, et pio proposito
+continentes, corpus usque ad contemptas nuptias castigantes,
+se ipsos non in corpore, sed in ipsa concupiscentiae
+radice castrantes, coelestem et angelicam
+vitam in terrena mortalitate meditantes, conjugatorum
+meritis pares esse contendat; et Christo laudanti
+eos qui se ipsos castraverunt, non propter hoc
+saeculum, sed propter regnum coelorum, christianus
+contradicat, affirmans hoc vitae praesenti esse utile,
+non futurae? Quid aliud istis restat, nisi ut ipsum
+regnum coelorum ad hanc temporalem vitam, in qua
+nunc sumus, asserant pertinere? Cur enim non et in
+hanc insaniam progrediatur caeca praesumptio? Et
+quid hac assertione furiosius? Nam etsi regnum
+coelorum aliquando Ecclesia etiam quae hoc tempore
+est, appellatur; ad hoc utique sic appellatur, quia
+futurae vitae sempiternaeque colligitur. Quamvis ergo
+promissionem habeat vitae praesentis et futurae <note>(I Tim.
+IV, 8)</note>; in omnibus tamen bonis operibus suis non
+respicit <hi>quae videntur, sed quae non videntur. Quae enim
+videntur, temporalia sunt; quae autem non videntur,
+aeterna <note>(II Cor. IV, 18)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<div3>
+            <head>25.</head>
+            <p>
+ <hi>Isaiam loqui de aeterno
+praemio spadonibus promisso.</hi> Nec sane Spiritus sanctus
+tacuit quod contra istos impudentissime ac dementissime
+pervicaces apertum atque inconcussum
+valeret, eorumque belluinum impetum ab ovili suo
+inexpugnabili munitione repelleret. Cum enim dixisset
+de spadonibus, <hi>Dabo eis in domo mea et in muro
+meo locum nominatum, meliorem multo quam filiorum
+atque filiarum;</hi> ne quis nimium carnalis existimaret
+aliquid in his verbis temporale sperandum, continuo
+subjecit, <hi>Nomen aeternum dabo eis, nec unquam deerit <note>(Isai. LVI, 4, 5)</note>
+            </hi>:
+tanquam diceret, Quid tergiversaris
+impia caecitas? quid tergiversaris? Quid serenitati
+veritatis nebulas tuae perversitatis offundis? quid in
+tanta Scripturarum luce tenebras unde insidieris inquiris?
+Quid temporalem tantummodo utilitatem promittis
+continentibus sanctis? <hi>Nomen aeternum dabo
+eis.</hi> Quid ab omni concubitu immunes, et eo quoque
+ipso quo hinc sese abstinent, ea quae sunt Domini cogitantes,
+quomodo placeant Domino, ad terrenam
+commoditatem referre conaris? <hi>Nomen aeternum dabo
+eis.</hi> Quid regnum coelorum, propter quod se ipsos
+castraverunt sancti spadones, in hac tantum vita intelligendum
+esse contendis? <hi>Nomen aeternum dabo
+eis.</hi> Et si forte hic ipsum aeternum pro diuturno
+conaris accipere, addo, accumulo, inculco, <hi>Nec unquam
+deerit.</hi> Quid quaeris amplius? quid dicis amplius?
+Aeternum hoc nomen, quidquid illud est,
+spadonibus Dei, quod utique gloriam quamdam
+propriam excellentemque significat, non erit commune
+cum multis, quamvis in eodem regno et in
+eadem domo constitutis. Nam ideo fortassis et nomen
+<pb n="0410"/>
+dictum est, quod eos quibus datur, distinguit a
+caeteris.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<div3>
+            <head>26.</head>
+            <p>
+ <hi>Objectio de denario omnibus
+reddendo, contra diversitatem praemiorum.</hi> Quid sibi
+ergo vult, inquiunt, ille denarius, qui opere vineae terminato
+aequaliter omnibus redditur; sive iis qui ex
+prima hora, sive iis qui una hora operati sunt <note>(Matth.
+XX, 9)</note>? Quid utique, nisi aliquid significat, quod omnes
+communiter habebunt, sicuti est ipsa vita aeterna,
+ipsum regnum coelorum, ubi erunt omnes quos Deus
+praedestinavit, vocavit, justificavit, glorificavit? <hi>Oportet
+enim corruptibile hoc induere incorruptionem, et
+mortale hoc induere immortalitatem:</hi> hic est ille denarius,
+merces omnium. <hi>Stella</hi> tamen <hi>ab stella differt
+in gloria; sic et resurrectio mortuorum:</hi> haec sunt merita
+diversa sanctorum. Si enim coelum significaretur
+illo denario, nonne in coelo esse omnibus est commune
+sideribus? Et tamen <hi>alia est gloria solis, alia
+gloria lunae, alia stellarum <note>(I Cor. XV, 53, 41, 42)</note>
+            </hi>. Si
+denarius ille pro sanitate corporis poneretur, nonne
+cum recte valemus, omnibus membris communis est
+sanitas, et ipsa si usque ad mortem permaneat, pariter
+et aequaliter omnibus inest? Et tamen <hi>posuit Deus
+membra, singulum quodque eorum in corpore prout
+voluit <note>(Id. XII, 18)</note>
+            </hi>, ut nec totum sit oculus, nec totum
+auditus, nec totum odoratus; et quidquid est
+aliud, habet suam proprietatem, quamvis aequaliter
+habeat cum omnibus sanitatem. Ita quia ipsa vita
+aeterna pariter erit omnibus sanctis, aequalis denarius
+omnibus attributus est; quia vero in ipsa vita aeterna
+distincte fulgebunt lumina meritorum, multae mansiones
+sunt apud Patrem <note>(Joan. XIV, 2)</note>: ac per hoc
+in denario quidem non impari, non vivit alius alio
+prolixius; in multis autem mansionibus honoratur
+alius alio clarius.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+<div3>
+            <head>27.</head>
+            <p>
+ <hi>Virginum gloria futura major
+et propria quaedam in coelis gaudia. Sequi Agnum
+quocumque ierit proprium est virginum.</hi> Pergite itaque,
+sancti Dei, pueri ac puellae, mares ac feminae, caelibes
+et innuptae; pergite perseveranter in finem.
+Laudate Dominum dulcius, quem cogitatis uberius;
+sperate felicius, cui servitis instantius; amate ardentius,
+cui placetis attentius. Lumbis accinctis et lucernis
+ardentibus exspectate Dominum, quando veniat
+a nuptiis <note>(Luc. XII, 35, 36)</note>. Vos afferetis ad
+nuptias Agni canticum novum, quod cantabitis in
+citharis vestris. Non utique tale quale cantat universa
+terra, cui dicitur, <hi>Cantate Domino canticum
+novum; cantate Domino, universa terra <note>(Psal. XCV, 1)</note>
+            </hi>;
+sed tale quale nemo poterit dicere nisi vos. Sic enim
+vos vidit in Apocalypsi quidam prae caeteris dilectus
+ab Agno qui discumbere super pectus ejus solitus
+erat, et bibebat et eructuabat mirabilia super coelestia
+Verbum Dei. Ipse vos vidit duodecies duodena
+millia sanctorum citharoedorum illibatae virginitatis
+in corpore, inviolatae veritatis in corde: et quia sequimini
+<pb n="0411"/>
+Agnum quocumque ierit, scripsit ille de vobis <note>(Apoc. XIV, 2-4)</note>.
+Quo ire putamus hunc Agnum,
+quo nemo eum sequi vel audeat vel valeat nisi vos?
+Quo putamus eum ire? in quos saltus et prata? Ubi
+credo sunt gramina gaudia; non gaudia saeculi
+hujus vana, et insaniae mendaces, nec gaudia qualia in
+ipso regno Dei caeteris non virginibus erunt, sed a
+caeterorum omnium gaudiorum sorte distincta. Gaudium
+virginum Christi, de Christo, in Christo, cum
+Christo, post Christum, per Christum, propter Christum.
+Gaudia propria virginum Christi, non sunt eadem
+non virginum, quamvis Christi. Nam sunt aliis
+alia, sed nullis talia. Ite in haec, sequimini Agnum,
+quia et agni caro utique virgo. Hoc enim in se retinuit
+auctus, quod matri non abstulit conceptus et
+natus. Merito eum sequimini virginitate cordis et
+carnis, quocumque ierit. Quid est enim sequi, nisi
+imitari? Quia Christus pro nobis passus est, relinquens
+nobis exemplum, sicut ait apostolus Petrus, <hi>ut sequamur vestigia ejus 
+ <note>(I Petr. II, 21)</note>
+            </hi>. Hunc in eo
+quisque sequitur, in quo imitatur: non in quantum
+ille Filius Dei est unus, per quem facta sunt omnia;
+sed in quantum filius hominis, quae oportebat, in se
+praebuit imitanda: et multa in illo ad imitandum
+omnibus proponuntur; virginitas autem carnis non
+omnibus; non enim habent quid faciant ut virgines
+sint, in quibus jam factum est ut virgines non
+sint.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<div3>
+            <head>28.</head>
+            <p>
+ <hi>Quousque sequi Agnum omnes
+possunt.</hi> Sequantur itaque Agnum caeteri fideles
+qui virginitatem corporis amiserunt, non quocumque
+ille ierit, sed quousque ipsi potuerint. Possunt autem
+ubique, praeter cum in decore virginitatis incedit. <hi>Beati pauperes spiritu;</hi> 
+ imitamini eum, qui propter
+vos pauper factus est, cum dives esset <note>(II Cor. VIII, 9)</note>. <hi>Beati mites;</hi> 
+ imitamini eum qui dixit, <hi>Discite a me
+quoniam mitis sum et humilis corde <note>(Matth. XI, 29)</note>
+            </hi>. <hi>Beati lugentes;</hi> 
+ imitamini eum qui flevit super Jerusalem <note>(Luc. XIX, 41)</note>.
+ <hi>Beati qui esuriunt et sitiunt justitiam;</hi> 
+imitamini eum qui dixit, <hi>Meus cibus est ut
+faciam voluntatem ejus qui misit me <note>(Joan. IV, 34)</note>
+            </hi>. <hi>Beati misericordes;</hi> 
+ imitamini eum qui vulnerato a
+latronibus et in via jacenti semivivo desperatoque
+subvenit <note>(Luc. X, 30-35)</note>. <hi>Beati mundicordes;</hi> imitamini
+eum <hi>qui peccatum non fecit, nec inventus est dolus
+in ore ejus <note>(I Petr. II, 22)</note>
+            </hi>. <hi>Beati pacifici;</hi> imitamini
+eum qui pro suis persecutoribus dixit, <hi>Pater, ignosce
+illis, quia nesciunt quid faciunt <note>(Luc. XXIII, 34)</note>
+            </hi>. <hi>Beati
+qui persecutionem patiuntur propter justitiam <note>(Matth. V,
+3-10)</note>
+            </hi>; imitamini eum qui <hi>pro vobis passus est, relinquens
+vobis exemplum, ut sequamini vestigia ejus <note>(I Petr.
+II, 21)</note>
+            </hi>. Haec qui imitantur, in his Agnum sequuntur.
+Sed certe etiam conjugati possunt ire per ista
+vestigia, etsi non perfecte in eadem forma ponentes
+pedem, verumtamen in eisdem semitis gradientes.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIX.</head>
+<div3>
+            <head>29.</head>
+            <p>
+ <hi>Quo eum sequuntur solae virgines.
+Invidentia in coelis propter praemiorum differentiam
+<pb n="0412"/>
+nulla.</hi> Sed ecce ille Agnus graditur itinere virginali;
+quomodo post eum ibunt qui hoc amiserunt quod
+nullo modo recipiunt? Vos ergo, vos ite post eum,
+virgines ejus; vos et illuc ite post eum, quia propter
+hoc unum quocumque ierit sequimini eum: ad quodlibet
+enim aliud sanctitatis donum quo eum sequantur,
+hortari possumus conjugatos, praeter hoc quod
+irreparabiliter amiserunt. Vos itaque sequimini eum
+tenendo perseveranter quod vovistis ardenter. Facite
+cum potestis, ne virginitatis bonum a vobis pereat,
+cui facere nihil potestis ut redeat. Videbit vos caetera
+multitudo fidelium, quae Agnum ad hoc sequi non potest:
+videbit, nec invidebit; et collaetando vobis, quod
+in se non habet, habebit in vobis. Nam et illud canticum
+novum proprium vestrum dicere non poterit; audire
+autem poterit, et delectari vestro tam excellenti
+bono. Sed vos qui et dicetis et audietis, quia et hoc
+quod dicetis a vobis audietis, felicius exsultabitis, jucundiusque
+regnabitis. De majore tamen vestro gaudio
+nullus moeror erit quibus hoc deerit. Agnus ille
+quippe, quem vos quocumque ierit sequimini, nec eos
+deseret qui eum quo vos non valent sequi. Omnipotentem
+Agnum loquimur. Et vobis praeibit, et ab eis
+non abibit, cum erit Deus omnia in omnibus <note>(I Cor.
+XV, 28)</note>. Et qui minus habebunt, a vobis non abhorrebunt.
+Ubi enim nulla est invidentia, concors est differentia.
+Praesumite itaque, fidite, roboramini, permanete,
+qui vovetis et redditis Domino Deo vestro
+vota <note>(Psal. LXXV, 12)</note> perpetuae continentiae, non
+propter praesens saeculum, sed propter regnum coelorum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXX.</head>
+<div3>
+            <head>30.</head>
+            <p>
+ <hi>Hortatur ad virginitatem ut
+ad opus supererogationis, non praecepti.</hi> Vos etiam qui
+hoc nondum vovistis, qui potestis capere, capite <note>(Matth. XIX, 12)</note>;
+perseveranter currite, ut comprehendatis <note>(I Cor. IX, 24)</note>.
+Tollite hostias quisque suas,
+et introite in atria Domini <note>(Psal. XCV, 8)</note>, non ex necessitate,
+potestatem habentes vestrae voluntatis. Neque
+enim sicut, <hi>Non moechaberis, Non occides <note>(Exod.
+XX, 13, 14)</note>
+            </hi>, ita dici potest, Non nubes. Illa exiguntur,
+ista offeruntur. Si fiant ista, laudantur: nisi fiant illa,
+damnantur. In illis Dominus debitum imperat vobis:
+in his autem si quid amplius supererogaveritis, in
+redeundo reddet vobis <note>(Luc. X, 35)</note>. Cogitate, quidquid
+illud est, in muro ejus locum nominatum meliorem
+multo quam filiorum atque filiarum. Cogitate illic
+nomen aeternum <note>(Isai. LVI, 5)</note>. Quis explicat
+quale nomen erit? Quidquid tamen erit, aeternum
+erit. Hoc credendo et sperando et amando, potuistis
+conjugia non devitare prohibita, sed transvolare
+concessa.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXI.</head>
+<div3>
+            <head>31.</head>
+            <p>
+ <hi>Humilitas maxime virginibus
+commendanda. Humilitatis mensura cuique data. Superbia
+mater invidentiae.</hi> Unde hujus muneris magnitudo,
+ad quod capessendum pro nostris viribus hortati
+sumus, quanto est excellentius atque divinius
+tanto magis admonet sollicitudinem nostram, non
+solum de gloriosissima castitate, verum etiam de tutissima
+<pb n="0413"/>
+humilitate aliquid loqui. Cum ergo perpetuae
+continentiae professores se conjugatis comparantes,
+secundum Scripturas compererint eos infra esse, et
+opere et mercede, et voto et praemio; statim veniat
+in mentem quod scriptum est: <hi>Quanto magnus es,
+tanto humilia te in omnibus, et coram Deo invenies gratiam <note>(Eccli. III, 20)</note>
+            </hi>.
+Mensura humilitatis cuique ex
+mensura ipsius magnitudinis data est: cui est periculosa
+superbia, quae amplius amplioribus insidiatur.
+Hanc sequitur invidentia, tanquam filia pedissequa:
+eam quippe superbia continuo parit, nec unquam est
+sine tali prole atque comite. Quibus duobus malis,
+hoc est superbia et invidentia, diabolus est. Itaque
+contra superbiam matrem invidentiae maxime militat
+universa disciplina christiana. Haec enim docet humilitatem,
+qua et acquirat et custodiat charitatem: de
+qua cum dictum esset, <hi>Charitas non aemulatur;</hi> velut
+si causam quaereremus, unde fiat ut non aemuletur,
+continuo subdidit, <hi>Non inflatur <note>(I Cor. XIII, 4)</note>
+            </hi>: tanquam
+diceret, Ideo non habet invidentiam, quia nec
+superbiam. Doctor itaque humilitatis Christus primo <hi>semetipsum exinanivit formam servi accipiens, in similitudine
+hominum factus, et habitu inventus ut homo;
+humiliavit semetipsum, factus obediens usque ad mortem,
+mortem autem crucis 
+ <note>(Philipp. II, 7, 8)</note>
+            </hi>. Ipsa vero
+doctrina ejus, quam attente insinuet humilitatem atque
+huic praecipiendae vehementer insistat, quis explicare
+facile possit, atque in hanc rem demonstrandam
+testimonia cuncta congerere? Hoc facere conetur
+vel faciat, quisquis seorsum de humilitate voluerit
+scribere: hujus autem operis aliud propositum est,
+quod de tam magna re susceptum est, ut ei maxime
+sit cavenda superbia.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXII.</head>
+<div3>
+            <head>32.</head>
+            <p>
+ <hi>De humilitate praecepta Domini
+et exempla.</hi> Proinde pauca testimonia, quae Dominus
+in mentem dare dignatur, ex doctrina Christi
+de humilitate commemoro, quae ad id quod intendi
+fortasse sufficiant. Sermo ejus, quem primum prolixiorem
+ad discipulos habuit, inde coepit, <hi>Beati pauperes
+spiritu, quoniam ipsorum est regnum coelorum <note>(Matth. V, 3)</note>
+            </hi>:
+quos sine ulla controversia humiles intelligimus.
+Fidem Centurionis illius ideo praecipue
+laudavit, nec se invenisse in Israel dixit tantam fidem,
+quia ille tam humiliter credidit, ut diceret, <hi>Non sum
+dignus ut sub tectum meum intres <note>(Id. VIII, 5-10)</note>
+            </hi>. Unde
+nec Matthaeus ob aliud eum dixit accessisse ad Jesum,
+cum apertissime Lucas insinuet quod non ad
+eum ipse venerit, sed amicos suos miserit <note>(Luc. VII,
+6, 7)</note>, nisi quia fidelissima humilitate magis ipse accessit,
+quam illi quos misit. Unde et illud propheticum
+est, <hi>Excelsus est Dominus, et humilia respicit;
+excelsa autem a longe cognoscit <note>(Psal. CXXXVII, 6)</note>
+            </hi>: utique
+tanquam non accedentia. Hinc et illi mulieri Chananaeae
+dicit, <hi>O mulier, magna est fides tua! fiat tibi
+sicut vis:</hi> quam superius canem appellaverat, nec ei
+panem filiorum projiciendum esse responderat. Quod
+<pb n="0414"/>
+illa humiliter accipiens dixerat, <hi>Ita, Domine; nam et
+canes edunt de micis quae cadunt de mensa dominorum
+suorum.</hi> Ac sic quod assiduo clamore non impetrabat,
+humili confessione promeruit <note>(Matth. XV, 22-28)</note>.
+Hinc et illi duo proponuntur orantes in templo, unus
+pharisaeus, et alter publicanus, propter eos qui sibi
+justi videntur, et spernunt caeteros, et enumerationi
+meritorum praefertur confessio peccatorum. Et utique
+Deo gratias agebat pharisaeus ex his in quibus sibi
+multum placebat: <hi>Gratias,</hi> inquit, <hi>tibi ago, quia non
+sum sicut caeteri homines, injusti, raptores, adulteri, sicut
+et publicanus iste. Jejuno bis in sabbato, decimas do
+omnium quaecumque possideo. Publicanus autem de longinquo
+stabat, nec oculos ad coelum audebat levare, sed
+percutiebat pectus suum, dicens: Deus, propitius esto
+mihi peccatori.</hi> Sequitur autem divina sententia: <hi>Amen
+dico vobis, descendit justificatus de templo publicanus
+magis quam ille pharisaeus.</hi> Deinde causa ostenditur,
+cur hoc justum sit: <hi>Quoniam is qui se exaltat humiliabitur,
+et qui se humiliat exaltabitur <note>(Luc. XVIII, 10-14)</note>
+            </hi>.
+Fieri ergo potest ut quisque et mala vera devitet, et
+vera bona in se consideret, et de his Patri luminum
+gratias agat, a quo descendit omne datum optimum,
+et omne donum perfectum <note>(Jacobi I, 17)</note>; et tamen
+elationis vitio reprobetur, si aliis peccatoribus maximeque
+peccata in oratione confitentibus, vel sola cogitatione
+quae coram Deo est, superbus insultet, quibus
+non exprobatio cum inflatione, sed miseratio sine
+desperatione debetur. Quid illud quod quaerentibus
+inter se discipulis quisnam eorum major esset, puerum
+parvulum constituit ante oculos eorum, dicens: <hi>Nisi fueritis sicut puer iste, non intrabitis in regnum
+coelorum 
+ <note>(Matth. XVIII, 1-3)</note>
+            </hi>? nonne humilitatem maxime
+commendavit, et in ea meritum magnitudinis
+posuit? Vel cum filiis Zebedaei latera ejus in sedium
+sublimitate concupiscentibus, ita respondit, ut passionis
+ejus calicem bibendum potius cogitarent <note>(Id.
+XX, 21, 22)</note>, in quo se humiliavit usque ad mortem,
+mortem autem crucis <note>(Philipp. II, 8)</note>, quam superbo
+appetitu praeferri caeteris postularent; quid ostendit,
+nisi eis se futurum altitudinis largitorem, qui eum
+doctorem humilitatis antea sequerentur? Jam vero
+quod exiturus ad passionem lavit pedes discipulis,
+monuitque apertissime ut hoc facerent condiscipulis
+atque conservis, quod eis fecisset Magister et Dominus <note>(Joan. XIII, 1-17)</note>;
+quantum commendavit humilitatem?
+Cui commendandae etiam tempus illud elegit,
+quo eum proxime moriturum cum magno desiderio
+contuebantur; hoc utique praecipue memoria retenturi,
+quod Magister imitandus ultimum demonstrasset.
+At ille hoc fecit illo tempore, quod utique potuit et
+aliis ante diebus, quibus cum eis fuerat conversatus:
+quando si fieret, hoc ipsum quidem traderetur, sed
+utique non sic acciperetur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXIII.</head>
+<div3>
+            <head>33.</head>
+            <p>
+ <hi>Humilitas Christianis, sed
+maxime virginibus custodienda.</hi> Cum ergo Christianis
+omnibus custodienda sit humilitas, quandoquidem a
+Christo Christiani appellantur, cujus Evangelium
+nemo diligenter intuetur, qui non eum doctorem humilitatis
+<pb n="0415"/>
+inveniat; tum maxime virtutis hujus sectatores
+et conservatores eos esse convenit, qui magno
+aliquo bono caeteris eminent, ut magnopere curent
+illud quod primitus posui: <hi>Quanto magnus es, tanto
+humilia te in omnibus, et coram Deo invenies gratiam <note>(Eccli. III, 20)</note>
+            </hi>.
+Proinde quia perpetua continentia,
+maximeque virginitas, magnum bonum est in sanctis
+Dei, vigilantissime cavendum est ne superbia corrumpatur.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Curiosas et verbosas malas innuptas Paulus
+apostolus notat, et hoc vitium venire dicit ex otio. <hi>Simul autem,</hi> 
+ inquit, <hi>et otiosae discunt circumire domos</hi>;
+ <hi>non solum autem otiosae, verum etiam curiosae
+et verbosae, loquentes quae non oportet.</hi> De his superius
+dixerat, <hi>Juniores autem viduas evita. Cum enim in deliciis
+egerint, in Christo nubere volunt; habentes damnationem,
+quoniam primam fidem irritam fecerunt:</hi> id
+est, in eo quod primo voverant, non steterunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXIV.</head>
+<p> <hi>Innuptas viventes contra propositum
+non spectat praesens adhortatio ad humilitatem.</hi> Nec tamen ait, nubunt; sed, <hi>nubere volunt.</hi> Multas
+enim earum revocat a nubendo, non amor praeclari
+propositi, sed aperti dedecoris timor, veniens et
+ipse de superbia, qua formidatur magis hominibus
+displicere, quam Deo. Hae igitur quae nubere volunt,
+et ideo non nubunt quia impune non possunt, quae
+melius nuberent quam urerentur, id est, quam occulta
+flamma concupiscentiae in ipsa conscientia vastarentur,
+quas poenitet professionis, et piget confessionis;
+nisi correctum cor dirigant, et Dei timore
+rursus libidinem vincant, in mortuis deputandae sunt,
+sive in deliciis agant; unde dicit Apostolus, <hi>Quae autem
+in deliciis agit, vivens mortua est <note>(I Tim. V, 13,
+11, 12, 6)</note>
+            </hi>; sive in laboribus atque jejuniis, nulla
+cordis correctione superfluis, et magis ostentationi
+quam emendationi servientibus. Non ego talibus magnam
+curam humilitatis ingero, in quibus superbia
+ipsa confunditur, et conscientiae vulnere cruentatur.
+Nec ebriosis, aut avaris, aut alio quolibet damnabilis
+morbi genere jacentibus, cum habeant corporalis
+continentiae professionem, moribusque perversis a
+suo nomine dissonent, hanc magnam sollicitudinem
+piae humilitatis impono: nisi forte in his malis etiam
+ostentare se audebunt, quibus non sufficit quod eorum
+supplicia differuntur. Nec de his ago in quibus est
+quidam placendi appetitus, aut elegantiore vestitu
+quam tantae professionis necessitas postulat, aut capitis
+ligamento notabili, sive praetumidis umbonibus
+capillorum, sive tegminibus ita teneris, ut retiola
+subter posita appareant: his nondum de humilitate,
+sed de ipsa castitate vel integritate pudicitiae danda
+praecepta sunt. Da mihi profitentem perpetuam continentiam,
+atque his et hujusmodi omnibus carentem
+vitiis et maculis morum; huic superbiam timeo, huic
+tam magno bono ex elationis tumore formido. Quo
+<pb n="0416"/>
+magis inest unde sibi placeat, eo magis vereor ne sibi
+placendo illi displiceat, qui <hi>superbis resistit, humilibus
+autem dat gratiam <note>(Jacobi IV, 6)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXV.</head>
+<div3>
+            <head>35.</head>
+            <p>
+ <hi>Humilitatem Christus a se
+disci jubet.</hi> Certe praecipuum magisterium et virginalis
+integritatis exemplum in ipso Christo contuendum
+est. Quid ergo amplius continentibus de humilitate
+praecipiam, quam quod ille qui omnibus dicit, <hi>Discite
+a me quoniam mitis sum et humilis corde?</hi> cum magnitudinem
+suam supra commemorasset; et idipsum
+volens ostendere, quantus propter nos quantillus
+effectus est: <hi>Confiteor,</hi> inquit, <hi>tibi, Pater</hi>, <hi>Domine
+coeli et terrae, quoniam abscondisti haec a sapientibus et
+prudentibus, et revelasti ea parvulis. Ita, Pater, quoniam
+sic placitum est coram te. Omnia mihi tradita
+sunt a Patre meo, et nemo cognoscit Filium, nisi
+Pater; et nemo cognoscit Patrem, nisi Filius, et cui
+voluerit Filius revelare. Venite ad me, omnes qui laboratis
+et onerati estis, et ego vos reficiam. Tollite jugum
+meum super vos, et discite a me quoniam mitis sum et
+humilis corde <note>(Matth. XI, 25-29)</note>
+            </hi>. Ille, ille cui omnia
+tradidit Pater, et quem nemo agnoscit nisi Pater, et qui
+Patrem solus agnoscit, et cui voluerit revelare, non
+dicit, Discite a me mundum fabricare, aut mortuos
+suscitare; sed, <hi>quia mitis sum et humilis corde.</hi> O doctrinam
+salutarem! o Magistrum Dominumque mortalium,
+quibus mors poculo superbiae propinata atque
+transfusa est! Noluit docere quod ipse non esset,
+noluit jubere quod ipse non faceret. Video te, bone
+Jesu, oculis fidei, quos aperuisti mihi tanquam in
+concione generis humani clamantem ac dicentem, <hi>Venite ad me, et discite a me.</hi> 
+ Quid, obsecro te, per
+quem facta sunt omnia, Fili Dei, et idem qui factus
+es inter omnia, Fili hominis; quid ut discamus a te,
+venimus ad te? <hi>Quoniam mitis sum,</hi> inquit, <hi>et humilis
+corde.</hi> Huccine redacti sunt omnes thesauri sapientiae
+et scientiae absconditi in te <note>(Coloss. II, 3)</note>, ut hoc pro
+magno discamus a te, quoniam mitis es et humilis
+corde? Itane magnum est esse parvum, ut nisi a te
+qui tam magnus es fieret, disci omnino non posset?
+Ita plane. Non enim aliter invenitur requies animae,
+nisi inquieto tumore digesto, quo magna sibi erat,
+quando tibi sana non erat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXVI.</head>
+<div3>
+            <head>36.</head>
+            <p>
+ <hi>Humilitatis doctrina facile
+audita a peccatoribus. Virginibus multo magis audienda.</hi> 
+Audiant te, et veniant ad te, et mites atque humiles
+esse discant a te, qui misericordiam et veritatem
+tuam requirunt, tibi vivendo, tibi, non sibi. Audiat
+hoc laborans et oneratus, qui sarcina premitur, ut
+oculos ad coelum levare non audeat, percutiens pectus
+ille peccator et propinquans de longinquo <note>(Luc.
+XVIII, 13)</note>. Audiat Centurio, non dignus cujus tectum
+subires <note>(Matth. VIII, 8)</note>. Audiat Zachaeus major publicanorum,
+quadrupla restituens lucra damnabilium
+peccatorum <note>(Luc. XIX, 2, 8)</note>. Audiat mulier in civitate
+<pb n="0417"/>
+peccatrix, tanto lacrymosior pedibus tuis, quanto
+fuerat alienior a vestigiis tuis <note>(Luc. VII, 37, 38)</note>. Audiant
+meretrices et publicani, qui Scribas et Pharisaeos
+praecedunt in regnum coelorum <note>(Matth. XXI, 31)</note>.
+Audiat omne genus aegrorum, cum quibus tibi pro
+crimine sunt objecta convivia, videlicet quasi a sanis
+qui medicum non quaerebant, cum tu non venires
+vocare justos, sed peccatores in poenitentiam <note>(Id. IX,
+11-13)</note>. Hi omnes cum convertuntur ad te, facile mitescunt
+et humiliantur coram te, memores iniquissimae
+vitae suae, et indulgentissimae misericordiae
+tuae; quia <hi>ubi abundavit peccatum, superabundavit
+gratia <note>(Rom. V, 20)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Sed respice agmina virginum, puerorum puellarumque
+sanctarum: in Ecclesia tua eruditum est
+hoc genus; illic tibi a maternis uberibus pullulavit,
+in nomen tuum ad loquendum linguam solvit, nomen
+tuum velut lac infantiae suae suxit infusum. Non
+potest quisquam ex hoc numero dicere, <hi>Qui prius fui
+blasphemus et persecutor et injuriosus, sed misericordiam
+consecutus sum, quia ignorans feci in incredulitate <note>(I Tim. I, 13)</note>
+            </hi>:
+imo etiam quod non jussisti, sed tantummodo
+volentibus arripiendum proposuisti, dicens, <hi>Qui potest capere, capiat,</hi> 
+ arripuerunt, voverunt;
+et propter regnum coelorum se ipsos, non quia
+minatus es, sed quia hortatus es, castraverunt <note>(Matth.
+XIX, 12)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXVII.</head>
+<p> <hi>Humilitatis exemplum in ipso Domino
+propositum virginibus.</hi> His inclama, hi te audiant,
+quoniam mitis es et humilis corde. Hi quanto magni
+sunt, tanto humilient se in omnibus, ut coram te inveniant
+gratiam. Justi sunt: sed numquid sicut tu justificans
+impium? Casti sunt: sed eos in peccatis matres
+eorum in uteris aluerunt <note>(Psal. L, 7)</note>. Sancti sunt: sed
+tu etiam sanctus sanctorum. Virgines sunt: sed nati
+etiam ex virginibus non sunt. Et spiritu et carne integri
+sunt: sed Verbum caro factum non sunt. Et tamen
+discant, non ab eis quibus peccata dimittis, sed
+a te ipso Agno Dei, qui tollis peccata mundi <note>(Joan.
+I, 14, 29)</note>, quoniam mitis es et humilis corde.</p>
+<div3>
+            <head>38.</head>
+            <p>
+ Non ego te, anima pie pudica, quae appetitum
+carnalem nec usque ad concessum conjugium relaxasti,
+quae decessurum corpus nec successori propagando
+indulsisti, quae fluitantia membra terrena in
+coeli consuetudinem suspendisti: non ego te, ut
+discas humilitatem, ad publicanos et peccatores mitto,
+qui tamen in regnum coelorum praecedunt superbos;
+non te ad hos mitto; indigni sunt enim qui ab immunditiae
+voragine liberati sunt, ut ad eos imitandos
+mittatur illibata virginitas: ad Regem coeli te mitto,
+ad eum per quem creati sunt homines, et qui creatus
+est inter homines propter homines; ad speciosum
+forma prae filiis hominum <note>(Psal. XLIV, 3)</note>, et contemptum
+a filiis hominum pro filiis hominum, ad
+eum qui dominans Angelis immortalibus, non dedignatus
+est servire mortalibus. Eum certe humilem non
+iniquitas, sed charitas fecit; <hi>charitas</hi> quae <hi>non aemulatur,
+<pb n="0418"/>
+non inflatur, non quaerit quae sua sunt <note>(I Cor.
+XIII, 4, 5)</note>
+            </hi>: quia <hi>et Christus non sibi placuit; sed, sicut
+scriptum de illo est, Opprobria exprobrantium tibi ceciderunt
+super me <note>(Rom. XV, 3)</note>
+            </hi>. Vade, veni ad illum,
+et disce quoniam mitis est et humilis corde. Non ibis
+ad eum qui oculos ad coelum levare non audebat
+onere iniquitatis; sed ad eum qui de coelo descendit
+pondere charitatis <note>(Joan. VI, 38)</note>. Non ibis ad eam
+quae Domini sui pedes lacrymis rigavit, quaerens indulgentiam
+gravium peccatorum; sed ibis ad eum qui
+cum daret indulgentiam omnium peccatorum, lavit
+pedes suorum servorum <note>(Id. XIII, 5)</note>. Novi dignitatem
+virginitatis tuae: non tibi propono imitandum publicanum
+humiliter accusantem delicta sua; sed timeo
+tibi pharisaeum superbe jactantem merita sua <note>(Luc. XVIII, 10-14)</note>.
+Non dico, Esto qualis illa de qua
+dictum est, <hi>Dimittuntur ei peccata multa, quoniam
+dilexit multum;</hi> sed metuo ne cum tibi modicum dimitti
+putas, modicum diligas <note>(Id. VII, 38, 47)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXVIII.</head>
+<div3>
+            <head>39.</head>
+            <p>
+ <hi>Timor ipsis virginibus
+necessarius, non timor saecularis aut servilis, sed timor
+Dei castus.</hi> Metuo, inquam, tibi vehementer, ne cum
+te Agnum quocumque ierit secuturam esse gloriaris,
+eum prae tumore superbiae sequi per angusta non possis.
+Bonum est tibi, o anima virginalis, ut sic quomodo
+virgo es, sic omnino servans in corde quod
+renata es, servans in carne quod nata es, concipias
+tamen a timore Domini et parturias spiritum salutis <note>(Isai. XXVI, 18)</note>.
+ <hi>Timor</hi> quidem <hi>non est in charitate,
+sed perfecta,</hi> sicut scriptum est, <hi>charitas foras mittit timorem <note>(I Joan. IV, 18)</note>
+            </hi>:
+sed timorem hominum, non
+Dei; timorem temporalium malorum, non divini in
+fine judicii. <hi>Noli altum sapere, sed time <note>(Rom. XI, 20)</note>
+            </hi>.
+Ama Dei bonitatem, time severitatem: utrumque
+te superbam esse non sinit. Amando enim times,
+ne amatum et amantem graviter offendas. Nam quae
+gravior offensio, quam ut superbia illi displiceas, qui
+propter te superbis displicuit? Et ubi magis esse debet <hi>timor</hi> 
+ ille <hi>castus permanens in saeculum saeculi <note>(Psal. XVIII, 10)</note>
+            </hi>,
+quam in te, quae non cogitas quae
+sunt mundi, quomodo placeas conjugi; sed quae sunt
+Domini, quomodo placeas Domino <note>(I Cor. VII, 32)</note>?
+Ille alius timor non est in charitate: iste autem castus
+non recedit a charitate. Si non amas, time ne pereas:
+si amas, time ne displiceas. Illum timorem charitas
+foras mittit: cum isto intro currit. Dicit apostolus
+etiam Paulus: <hi>Non enim accepimus spiritum servitutis
+iterum in timorem</hi>; <hi>sed accepimus Spiritum adoptionis
+filiorum, in quo clamamus, Abba, Pater <note>(Rom.
+VIII, 15)</note>
+            </hi>. Illum eum timorem credo dicere, qui datus
+erat in Vetere Testamento, ne amitterentur temporalia
+bona, quae Deus promiserat nondum sub gratia filiis,
+sed sub Lege adhuc servis. Est etiam timor ignis
+aeterni, propter quem devitandum Deo servire, nondum
+est utique perfectae charitatis. Aliud est enim
+desiderium praemii, aliud formido supplicii. Aliae voces
+<pb n="0419"/>
+sunt, <hi>Quo abibo ab spiritu tuo, et a facie tua quo
+fugiam <note>(Psal. CXXXVIII, 7)</note>
+            </hi>? et aliae voces sunt, <hi>Unam
+petii a Domino, hanc requiram; ut inhabitem in domo
+Domini per omnes dies vitae meae, ut contempler delectationem
+Domini, et protegar templum ejus</hi>: et, <hi>Ne
+avertas faciem tuam a me <note>(Psal. XXVI, 4, 9)</note>
+            </hi>; et, <hi>Desiderat
+et deficit anima mea in atria Domini <note>(Psal.
+LXXXIII, 3)</note>
+            </hi>. Illas voces habuerit, qui oculos non
+audebat levare in coelum; et quae rigabat lacrymis
+pedes ad impetrandam veniam gravium peccatorum:
+has autem tu habeto, quae sollicita es ea quae sunt
+Domini, ut sis sancta et corpore et spiritu. Illis vocibus
+comitatur timor qui tormentum habet, quem perfecta
+charitas foras mittit: his autem vocibus comitatur
+timor Domini castus permanens in saeculum saeculi.
+Et utrique generi dicendum est, <hi>Noli altum sapere,
+sed time;</hi> ut homo nec de peccatorum suorum
+defensione, nec de justitiae praesumptione se extollat.
+Nam et ipse Paulus, qui dicit, <hi>Non enim accepistis
+spiritum servitutis iterum in timorem:</hi> tamen timore
+comite charitatis ait, <hi>Cum timore et tremore multo fui
+ad vos <note>(I Cor. II, 3)</note>
+            </hi>; et ea sententia quam commemoravi,
+ne adversus fractos oleae ramos insertus superbiret
+oleaster, ipse usus est, dicens, <hi>Noli altum
+sapere, sed time:</hi> ipse omnia membra Christi generaliter
+admonens, ait, <hi>Cum timore et tremore vestram
+ipsorum salutem operamini; Deus est enim qui operatur
+in vobis et velle et operari, pro bona voluntate <note>(Philipp. II, 12, 13)</note>
+            </hi>;
+ne ad Vetus Testamentum
+videatur pertinere quod scriptum est, <hi>Servite
+Domino in timore, et exsultate ei cum tremore <note>(Psal.
+II, 11)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXIX.</head>
+<div3>
+            <head>40.</head>
+            <p>
+ <hi>Spiritus sancti locus cor
+humiliatum. Justis ex cadendi periculo ratio sese humiliandi.</hi> 
+Et quae magis membra corporis sancti, quod
+est Ecclesia, curare debent, ut super ea requiescat
+Spiritus sanctus, quam virginalem profitentia sanctitatem?
+Quomodo autem requiescit ubi non invenit
+locum suum? quid aliud quam cor humiliatum quod
+impleat, non unde resiliat; quod erigat, non quod
+deprimat? cum apertissime dictum sit, <hi>Super quem
+requiescet Spiritus meus? Super humilem et quietum et
+trementem verba mea <note>(Isai. LXVI, 2)</note>
+            </hi>. Jam juste vivis,
+jam pie vivis, pudice, sancte, virginali castitate vivis:
+adhuc tamen hic vivis, et non humiliaris audiendo, <hi>Numquid non tentatio est vita humana super
+terram 
+ <note>(Job VII, 1)</note>
+            </hi>? Non te a praefidenti elatione reverberat, <hi>Vae mundo ab scandalis 
+ <note>(Matth. XVIII, 7)</note>
+            </hi>?
+Non contremiscis, ne deputeris in multis quorum <hi>refrigescit
+charitas, quoniam abundat iniquitas <note>(Id. XXIV,
+12)</note>
+            </hi>? Non percutis pectus cum audis, <hi>Quapropter, qui
+se putat stare, videat ne cadat <note>(I Cor. X, 12)</note>
+            </hi>? Inter
+haec divina monita et humana pericula, itane adhuc
+virginibus sanctis humilitatem persuadere laboramus?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XL.</head>
+<div3>
+            <head>41.</head>
+            <p>
+ <hi>Justis miscentur casuri, ut ex
+<pb n="0420"/>horum casu timor augeatur. Justus non putet modicum
+sibi dimissum, ut modicum diligat. Dimissum deputet
+quidquid mali a se non est commissum.</hi> An vero propter
+aliud credendum est, permittere Deum ut misceantur
+numero professionis vestrae multi et multae casuri et
+casurae, nisi ut his cadentibus timor vester augeatur,
+quo superbia comprimatur; quam sic odit Deus, ut
+contra hanc unam se tantum humiliaret Altissimus?
+Nisi forte revera ideo minus timebis, magisque inflaberis,
+ut modicum diligas eum qui te tantum dilexit,
+ut traderet semetipsum pro te <note>(Galat. II, 20)</note>, quia
+modicum tibi dimisit, viventi videlicet a pueritia religiose,
+pudice, pia castitate, illibata virginitate.
+Quasi vero non tu multo ardentius diligere debeas
+eum, qui flagitiosis ad se conversis quaecumque dimisit,
+in ea te cadere non permisit? Aut vero ille
+pharisaeus, qui propterea modicum diligebat, quia
+modicum sibi dimitti existimabat <note>(Luc. VII, 36-47)</note>,
+ob aliud hoc errore caecabatur, nisi quia ignorans Dei
+justitiam, et suam quaerens constituere, justitiae Dei
+subjectus non erat <note>(Rom. X, 3)</note>? Vos autem genus
+electum, et in electis electius, virginei chori sequentes
+Agnum, etiam vos <hi>gratia salvi facti estis per fidem:
+et hoc non ex vobis, sed Dei donum est; non ex operibus,
+ne forte quis extollatur. Ipsius enim sumus figmentum,
+creati in Christo Jesu in operibus bonis, quae praeparavit
+Deus ut in illis ambulemus <note>(Ephes. II, 8-10)</note>
+            </hi>.
+Ergone hunc quanto ejus donis ornatiores estis, tanto
+minus amabitis? Averterit tam horrendam ipse dementiam!
+Proinde quoniam verum Veritas dixit,
+quod ille cui modicum dimittitur, modicum diligit;
+vos ut ardentissime diligatis, cui diligendo a conjugiorum
+nexibus liberi vacatis, deputate vobis tanquam
+omnino dimissum, quidquid mali a vobis non est illo
+regente commissum. <hi>Oculi</hi> enim <hi>vestri semper ad Dominum,
+quoniam ipse evellet de laqueo pedes vestros <note>(Psal. XXIV, 15)</note>
+            </hi>:
+et, <hi>Nisi Dominus custodierit civitatem,
+in vanum vigilavit qui custodit eam <note>(Psal. CXXVI,
+1)</note>
+            </hi>. Et de ipsa continentia loquens Apostolus ait: <hi>Volo autem omnes homines esse sicut me ipsum: sed
+unusquisque proprium donum habet a Deo; alius sic,
+alius autem sic 
+ <note>(I Cor. VII, 7)</note>
+            </hi>. Quis ergo donat ista?
+quis distribuit propria unicuique sicut vult <note>(Id. XII,
+11)</note>? Nempe Deus, apud quem non est iniquitas <note>(Rom.
+IX, 14)</note>. Ac per hoc qua aequitate ille faciat alios sic,
+alios autem sic, homini nosse aut impossibile, aut
+omnino difficile est: quin tamen aequitate faciat, dubitare
+fas non est. <hi>Quid</hi> itaque <hi>habes quod non accepisti <note>(I Cor. IV, 7)</note>
+            </hi>?
+aut qua perversitate minus diligis,
+a quo amplius accepisti?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLI.</head>
+<div3>
+            <head>42.</head>
+            <p>
+ <hi>Prima humilitatis cogitatio,
+virginitatem haberi ex Dei dono. Praecepta non fieri
+nisi eo dante qui praecipit. Obedientia et poenitentia pariter
+dona Dei.</hi> Quapropter haec prima sit induendae
+humilitatis cogitatio, ne a se sibi putet esse Dei virgo
+quod talis est, ac non potius hoc donum optimum desuper
+descendere a Patre luminum, apud quem non
+<pb n="0421"/>
+est transmutatio, nec momenti obumbratio <note>(Jacobi I,
+17)</note>. Ita enim non putabit modicum sibi esse dimissum,
+ut modicum diligat, et ignorans Dei justitiam,
+ac suam volens constituere, justitiae Dei non subjiciatur.
+In quo vitio erat Simon ille, quem superavit mulier
+cui dimissa sunt peccata multa, quoniam dilexit
+multum. Sed cautius et verius cogitabit, omnia peccata
+sic habenda tanquam dimittantur, a quibus Deus
+custodit ne committantur. Testes sunt voces piarum
+deprecationum in Scripturis sanctis, quibus ostenditur,
+ea ipsa quae praecipiuntur a Deo, non fieri nisi
+dante atque adjuvante qui praecipit. Mendaciter enim
+petuntur, si ea non adjuvante ejus gratia facere possemus.
+Quid tam generaliter maximeque praecipitur,
+quam obedientia qua custodiuntur mandata Dei? Et
+tamen hanc invenimus optari: <hi>Tu,</hi> inquit, <hi>praecepisti
+mandata tua custodiri nimis.</hi> Deinde sequitur: <hi>Utinam
+dirigantur viae meae, ad custodiendas justificationes
+tuas: tunc non confundar, dum inspicio in omnia mandata
+tua <note>(Psal. CXVIII, 4-6)</note>
+            </hi>. Quod Deum praecepisse
+supra posuit, hoc ut a se impleretur optavit. Hoc
+fit utique ne peccetur: quod si peccatum fuerit, praecipitur
+ut poeniteat; ne defensione et excusatione
+peccati pereat superbiendo qui fecit, dum non vult
+poenitendo perire quod fecit. Etiam hoc a Deo petitur,
+ut intelligatur non fieri, nisi eo praestante a quo
+petitur. <hi>Pone,</hi> inquit, <hi>Domine, custodiam ori meo, et
+ostium continentiae circum labia mea: ne declines cor
+meum in verba maligna, ad excusandum excusationes
+in peccatis, cum hominibus operantibus iniquitatem <note>(Psal. CXL, 3, 4)</note>
+            </hi>.
+Si ergo et obedientia qua ejus mandata
+servamus, et poenitentia qua peccata nostra non
+excusamus, sed accusamus, optatur et petitur; manifestum
+est quia cum fit, illo dante habetur, illo adjuvante
+completur. Apertius etiam dicitur propter
+obedientiam, <hi>A Domino gressus hominis diriguntur, et
+viam ejus volet <note>(Psal. XXXVI, 23)</note>
+            </hi>: et de poenitentia
+dicit Apostolus, <hi>Ne forte det illis Deus poenitentiam <note>(II Tim. II, 25)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ De ipsa etiam continentia nonne apertissime dictum
+est: <hi>Et cum scirem quia nemo potest esse continens
+nisi Deus det, et hoc ipsum erat sapientiae, scire cujus
+esset hoc donum <note>(Sap. VIII, 21)</note>
+            </hi>?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLII.</head>
+<p> <hi>Continentia item et sapientia nonnisi
+a Deo praestantur.</hi> Sed forte continentia donum Dei
+est, sapientiam vero sibi ipse homo praestat, qua illud
+donum non suum, sed Dei esse cognoscat. Imo, <hi>Dominus sapientes facit caecos 
+ <note>(Psal. CXLV, 8)</note>
+            </hi>; et, <hi>Testimonium
+Domini fidele, sapientiam praestat parvulis <note>(Psal. XVIII, 8)</note>
+            </hi>;
+et, <hi>Si quis indiget sapientia, postulet
+a Deo, qui dat omnibus affluenter, et non improperat;
+et dabitur ei <note>(Jacobi I, 5)</note>
+            </hi>. Sapientes autem esse
+virgines decet, ne lampades earum exstinguantur <note>(Matth. XXV, 4)</note>.
+Quomodo sapientes, nisi <hi>non alta sapientes,
+sed humilibus consentientes <note>(Rom. XII, 16)</note>
+            </hi>? <hi>Dixit</hi> 
+enim <hi>homini</hi> ipsa Sapientia, <hi>Ecce pietas est sapientia <note>(Job XXVIII, 28)</note>
+            </hi>.
+Si ergo nihil habes quod non accepisti, <hi>noli altum sapere, sed time 
+ <note>(Rom. XI, 20)</note>
+            </hi>. Et
+<pb n="0422"/>
+noli modicum diligere, quasi a quo tibi modicum dimissum
+est: sed potius multum dilige, a quo tibi multum
+tributum est. Si enim diligit, cui donatum est ne
+redderet; quanto magis debet diligere, cui donatum
+est ut haberet? Nam et quisquis ab initio pudicus permanet,
+ab illo regitur; et quisquis ex impudico pudicus
+fit, ab illo corrigitur; et quisquis usque in finem
+impudicus est, ab illo deseritur. Hoc autem ille occulto
+judicio facere potest, iniquo non potest: et fortasse
+ideo latet, ut plus timeatur, et minus superbiatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLIII.</head>
+<div3>
+            <head>44.</head>
+            <p>
+ <hi>De ipso Dei dono ne se extollant
+virgines.</hi> Deinde jam sciens homo, gratia Dei
+se esse quod est, non incidat in alium superbiae laqueum,
+ut de ipsa Dei gratia se extollendo spernat
+caeteros. Quo vitio alius ille pharisaeus, et de bonis
+quae habebat Deo gratias agebat, et tamen se super
+publicanum peccata confitentem extollebat <note>(Luc. XVIII,
+10-14)</note>. Quid igitur faciat virgo, quid cogitet, ne se
+extollat super eos vel eas quae hoc tam magno dono
+carent? Neque enim simulare debet humilitatem, sed
+exhibere: nam simulatio humilitatis major superbia
+est. Idcirco Scriptura volens ostendere veracem humilitatem
+esse oportere, cum dixisset, <hi>Quanto magnus
+es, tanto humilia te in omnibus;</hi> mox quoque
+subdidit, <hi>et coram Deo invenies gratiam <note>(Eccli.
+III, 20)</note>
+            </hi>: utique ubi se fallaciter humiliare non
+posset.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLIV.</head>
+<div3>
+            <head>45.</head>
+            <p>
+ <hi>Quid cogitandum virgini, ut
+veraciter se non audeat muliere vel conjugatae praeferre.</hi> 
+Proinde quid dicemus? Estne aliquid quod virgo Dei
+veraciter cogitet, unde se fideli mulieri, non tantum
+viduae, verum etiam conjugatae praeferre non audeat?
+Non ego reprobam dico: nam quis nesciat obedientem
+mulierem inobedienti virgini praeponendam? Sed
+cum ambae sunt obedientes praeceptis Dei, itane trepidabit
+sanctam virginitatem etiam castis nuptiis et
+continentiam praeferre connubio, fructum centenum
+praeire triceno? Imo vero non dubitet hanc rem illi
+rei praeponere. Haec tamen vel haec virgo obediens et
+Deum timens, illi vel illi mulieri obedienti et Deum
+timenti se anteferre non audeat: alioquin non erit humilis,
+et <hi>Deus superbis resistit <note>(Jacobi IV, 6)</note>
+            </hi>. Quid ergo
+cogitabit? Occulta scilicet dona Dei, quae nonnisi interrogatio
+tentationis, etiam in semetipso, unicuique
+declarat. Ut enim caetera taceam; unde scit virgo,
+quamvis sollicita quae sunt Domini, quomodo placeat
+Domino <note>(I Cor. VII, 32)</note>, ne forte propter aliquam sibi
+incognitam mentis infirmitatem, nondum sit matura
+martyrio, illa vero mulier cui se praeferre gestiebat,
+jam possit bibere calicem dominicae humilitatis, quem
+prius bibendum discipulis amatoribus sublimitatis
+opposuit <note>(Matth. XX, 22)</note>? Unde, inquam, scit, ne
+forte ipsa nondum sit Thecla, jam sit illa Crispina
+?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLV.</head>
+
+<pb n="0423"/>
+<p> <hi>Fructus centenus, sexagenus et tricenus
+varie intellectus.</hi> Certe nisi adsit tentatio, nulla
+doni hujus fit demonstratio.</p>
+<div3>
+            <head>46.</head>
+            <p>
+ Hoc autem tam magnum est, ut eum fructum
+centenum quidam intelligant. Perhibet enim praeclarissimum
+testimonium ecclesiastica auctoritas, in
+qua fidelibus notum est, quo loco martyres, et quo
+defunctae sanctimoniales ad altaris sacramenta recitentur.
+Sed quid significet fecunditatis illa diversitas,
+viderint qui haec melius quam nos intelligunt;
+sive virginalis vita in centeno fructu sit, in sexageno
+vidualis, in triceno autem conjugalis: sive centena
+fertilitas martyrio potius imputetur, sexagena continentiae,
+tricena connubio; sive virginitas accedente
+martyrio centenum fructum impleat, sola vero in sexageno
+sit, conjugati autem tricenum ferentes ad sexagenum
+perveniant si martyres fuerint: sive quod probabilius
+mihi videtur, quoniam divinae gratiae multa
+sunt munera, et est aliud alio majus ac melius, unde
+dicit Apostolus, <hi>Aemulamini autem dona meliora <note>(I
+Cor. XII, 31)</note>
+            </hi>; intelligendum est plura esse, quam ut
+in tres differentias distribui possint. Primum, ne continentiam
+vidualem aut in nullo fructu constituamus,
+aut ad conjugalis pudicitiae meritum deponamus, aut
+virginali gloriae coaequemus; aut coronam martyrii vel
+in habitu animi, etiamsi desit tentationis examen, vel
+in ipsa passionis experientia constitutam, cuilibet illarum
+trium castitati sine ullo incremento fertilitatis
+accedere existimemus. Deinde, ubi ponimus quod multi
+ac multae ita custodiunt continentiam virginalem, ut
+tamen non faciant quae Dominus ait, <hi>Si vis esse perfectus,
+vade, vende omnia quae habes, et da pauperibus,
+et habebis thesaurum in coelo; et veni, sequere me <note>(Matth.
+XIX, 21)</note>
+            </hi>; nec audeant eorum cohabitationi sociari,
+in quibus nemo dicit aliquid proprium, sed sunt eis
+omnia communia <note>(Act. II, 44, et IV, 32)</note>: nihilne putamus
+fructificationis accedere virginibus Dei, cum hoc
+faciunt? aut sine ullo fructu esse virgines Dei, etiamsi
+hoc non faciunt?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLVI.</head>
+<p> <hi>Vita communis sanctimonialium
+excellentior.</hi> Multa ergo sunt dona, et aliis alia clariora
+ac superiora, singulis singula. Et aliquando alter
+fructuosus est donis paucioribus, sed potioribus;
+alter inferioribus, sed pluribus. Et quemadmodum inter
+se vel coaequentur vel distinguantur in accipiendis
+aeternis honoribus, quis hominum audeat judicare?
+dum tamen constet et multa esse ista diversa, et non
+ad praesens tempus, sed in aeternum prodesse meliora.
+<pb n="0424"/>
+Sed Dominum tres arbitror voluisse fructificationis
+commemorare differentias <note>(Matth. XIII, 8)</note>, caeteras
+intelligentibus reliquisse. Nam et alius evangelista
+solum commemoravit centuplum <note>(Luc. VIII, 8)</note>:
+numquid ideo putandus est alia duo vel improbasse
+vel ignorasse, ac non potius intelligenda reliquisse?</p>
+<div3>
+            <head>47.</head>
+            <p>
+ Sed ut dicere coeperam, sive centenus fructus
+sit Deo devota virginitas, sive alio aliquo modo, vel
+quem commemoravimus, vel quem non commemoravimus,
+sit illa fertilitatis intelligenda distantia;
+nemo tamen, quantum puto, ausus fuerit virginitatem
+praeferre martyrio, ac nemo dubitaverit
+hoc donum occultum esse, si examinatrix desit tentatio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLVII.</head>
+<p> <hi>Ut non infletur virgo, cogitet se
+forte non posse pro Christo pati, quod possit conjugata.</hi> Habet itaque virgo quod cogitet quod ei prosit ad servandam
+humilitatem, ne violet illam quae supereminet
+donis omnibus charitatem, sine qua utique quaecumque
+alia vel pauca vel plura vel magna vel parva
+habuerit, nihil est. Habet, inquam, quod cogitet ut
+non infletur, non aemuletur; ita se scilicet bonum virginale
+conjugali bono multo amplius et melius profiteri,
+ut tamen nesciat utrum illa vel illa conjugata jam
+pati pro Christo possit, adhuc vero ipsa non possit,
+et in hoc ei parcatur, quia infirmitas ejus tentatione
+non interrogatur. <hi>Fidelis</hi> enim <hi>Deus,</hi> ait Apostolus, <hi>qui non vos permittet tentari super id quod potestis; sed
+faciet cum tentatione etiam exitum, ut possitis sustinere <note>(I Cor. X, 13)</note>
+            </hi>.
+Fortassis ergo illi vel illae conjugalis
+vitae retinentes in suo genere laudabilem modum, jam
+possint contra inimicum ad iniquitatem cogentem etiam
+laniatu viscerum et effusione sanguinis dimicare; illi
+autem vel illae a pueritia continentes, seque castrantes
+propter regnum coelorum, nondum tamen valeant
+talia vel pro justitia vel pro ipsa pudicitia sustinere.
+Aliud est enim pro veritate ac proposito sancto non
+consentire suadenti atque blandienti, aliud non cedere
+etiam torquenti atque ferienti. Latent ista in facultatibus
+et viribus animorum, tentatione panduntur,
+experientia propalantur. Ut ergo quisque non
+infletur, ex eo quod se pervidet posse, humiliter cogitet
+quod ignorat aliquid praestantius se fortasse non
+posse; aliquos autem qui illud quo sibi gloriose notus
+est, nec habent nec profitentur, hoc quod ipse non potest
+posse. Ita servabitur non fallaci, sed veraci humilitate, <hi>Honore mutuo praevenientes 
+ <note>(Rom. XII, 10)</note>
+            </hi>; et, <hi>Alter alterum existimantes superiorem sibi 
+ <note>(Philipp.
+II, 3)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLVIII.</head>
+<div3>
+            <head>48.</head>
+            <p>
+ <hi>Alia humilitatis occasio,
+quod nullus hic sit sine peccato.</hi> Quid jam dicam de
+ipsa cautela et vigilantia non peccandi? <hi>Quis gloriabitur
+castum se habere cor? aut quis gloriabitur mundum
+se esse a peccato <note>(Prov. XX, 9)</note>
+            </hi>? Integra est quidem
+ab utero matris sancta virginitas: sed <hi>nemo,</hi> inquit, <hi>mundus in conspectu tuo, nec infans cujus est unius
+<pb n="0425"/>
+diei vita super terram 
+ <note>(Job. XXV, 4)</note>
+            </hi>. Servatur et in
+fide inviolata quaedam castitas virginalis, qua Ecclesia
+uni viro virgo casta coaptatur: sed ille unus vir,
+non tantum fideles mente et corpore virgines, sed
+omnes omnino Christianos ab spiritualibus usque ad
+carnales, ab Apostolis usque ad ultimos poenitentes,
+tanquam a summis coelorum usque ad terminos eorum <note>(Matth. XXIV, 31)</note>,
+docuit orare, et in ipsa oratione
+dicere admonuit, <hi>Et dimitte nobis debita nostra,
+sicut et nos dimittimus debitoribus nostris <note>(Id. VI, 12)</note>
+            </hi>:
+ubi per hoc quod petimus, quid etiam nos esse meminerimus
+ostendit. Neque enim pro eis debitis, quae
+totius praeteritae vitae in Baptismo per ejus pacem nobis
+dimissa esse confidimus, nos praecepit orare, dicentes, <hi>Dimitte nobis debita nostra, sicut et nos dimittimus
+debitoribus nostris:</hi> 
+ alioquin hanc orationem catechumeni
+potius usque ad Baptismum orare deberent.
+Cum vero eam baptizati orant, praepositi et
+plebes, pastores et greges; satis ostenditur in hac vita,
+quae tota tentatio est <note>(Job. VII, 1)</note>, neminem se tanquam
+ab omnibus peccatis immunem debere gloriari.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XLIX.</head>
+<div3>
+            <head>49.</head>
+            <p>
+ <hi>Virgines irreprehensibiles
+purgatione peccatorum et humili confessione. Mortifera
+securitas peccandi spe veniae confitentibus promissae.</hi> 
+Proinde etiam virgines Dei irreprehensibiles quidem
+sequuntur Agnum quocumque ierit, et peccatorum
+purgatione perfecta, et virginitate servata, quae non
+rediret amissa: sed quia eadem ipsa Apocalypsis, ubi
+tales tali revelati sunt, etiam hinc eos laudat, quod
+in ore eorum non sit inventum mendacium <note>(Apoc.
+XIV, 4, 5)</note>; meminerint etiam in hoc esse veraces,
+ne se audeant dicere non habere peccatum. Idem
+quippe Joannes qui illud vidit, hoc dixit: <hi>Si dixerimus
+quia peccatum non habemus, nos ipsos decipimus,
+et veritas in nobis non est. Quod si confessi fuerimus delicta
+nostra, fidelis est et justus, ut dimittat nobis peccata
+nostra, et purget nos ab omni iniquitate. Quod si
+dixerimus quoniam non peccavimus, mendacem faciemus
+eum, et verbum ejus non erit in nobis.</hi> Hoc certe
+non illis aut illis, sed Christianis omnibus dicitur, ubi
+et virgines se debent agnoscere. Sic enim erunt sine
+mendacio, quales in Apocalypsi apparuerunt. Ac per
+hoc quamdiu nondum est in coelesti sublimitate perfectio,
+invituperabiles facit in humilitate confessio.</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ Sed rursus, ne per occasionem hujus sententiae
+quisquam cum mortifera securitate peccaret, seque
+trahendum permitteret, tanquam mox delendis facili
+confessione peccatis, continuo subjecit, <hi>Filioli mei,
+haec scripsi vobis, ut non peccetis: et si quis peccaverit,
+advocatum habemus ad Patrem Jesum Christum justum;
+et ipse propitiator est peccatorum nostrorum <note>(I Joan. I, 8-11, 2)</note>
+            </hi>.
+Nemo itaque a peccato tanquam
+rediturus abscedat, nec se hujusmodi quasi societatis
+pacto cum iniquitate constringat, ut eam confiteri
+quam cavere delectet.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT L.</head>
+<p> <hi>Peccata parva quae subrepunt vigilantibus,
+superbia crescunt, humilitate perimuntur. Si quis
+forte hic sine peccato, quanto magnus est, tanto magis
+<pb n="0426"/>
+humiliat se.</hi> Sed quoniam etiam satagentibus vigilantibusque
+ne peccent, subrepunt quodam modo ex humana
+fragilitate peccata, quamvis parva, quamvis
+pauca, non tamen nulla; eadem ipsa fiunt magna et
+gravia, si eis superbia incrementum et pondus adjecerit:
+a sacerdote autem quem habemus in coelis, si
+pia humilitate perimantur, tota facilitate purgantur.</p>
+<div3>
+            <head>51.</head>
+            <p>
+ Sed non contendo cum eis qui asserunt hominem
+posse in hac vita sine ullo peccato vivere: non
+contendo, non contradico. Fortassis enim ex nostra
+miseria magnos metimur, et comparantes nosmetipsos
+nobismetipsis <note>(II Cor. X, 12)</note>, non intelligimus. Unum
+scio, quod isti magni, quales non sumus, quales
+nondum experti sumus, quanto magni sunt, tanto humiliant
+se in omnibus, ut coram Deo inveniant gratiam.
+Quamlibet enim magni sint, <hi>non est servus major
+domino suo, vel discipulus magistro suo <note>(Joan. XIII,
+16)</note>
+            </hi>. Et utique ille est Dominus qui dicit, <hi>Omnia mihi
+tradita sunt a Patre meo:</hi> et ille est Magister qui dicit, <hi>Venite ad me, omnes qui laboratis, et discite a me.</hi> 
+ Et
+tamen quid discimus? <hi>Quoniam mitis sum,</hi> inquit, <hi>et
+humilis corde <note>(Matth. XI, 27-29)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LI.</head>
+<div3>
+            <head>52.</head>
+            <p>
+ <hi>Virginitatis custos Deus qui eam
+dedit, apud humiles quiescit.</hi> Hic dicet aliquis: Non est
+hoc jam de virginitate, sed de humilitate scribere.
+Quasi vero quaecumque virginitas, ac non illa quae secundum
+Deum est, a nobis praedicanda suscepta est.
+Quod bonum quanto magnum video, tanto ei, ne pereat,
+furem superbiam pertimesco. Non ergo custodit
+bonum virginale, nisi Deus ipse qui dedit: et Deus
+charitas est <note>(I Joan. IV, 8)</note>. Custos ergo virginitatis
+charitas: locus autem hujus custodis humilitas. Ibi
+quippe habitat, qui dixit super humilem et quietum
+et trementem verba sua requiescere Spiritum suum <note>(Isai. LXVI, 2)</note>.
+Quid itaque alienum feci, si bonum
+quod laudavi, volens tutius custodiri, curavi etiam
+locum praeparare custodi? Fidenter enim dico, nec
+mihi ne irascantur timeo, quos ut mecum sibi timeant
+sollicitus moneo: facilius sequuntur Agnum, etsi
+non quocumque ierit, certe quousque potuerint, conjugati
+humiles, quam superbientes virgines. Quomodo
+enim sequitur, ad quem non vult accedere? Aut quomodo
+accedit, ad quem non venit ut discat, <hi>Quoniam
+mitis sum et humilis corde?</hi> Illos proinde sequentes,
+Agnus quocumque ierit ducit, in quibus prius ipse ubi
+caput inclinet invenerit. Nam et quidam superbus et
+dolosus hoc ei dixerat, <hi>Domine, sequar te quocumque
+ieris:</hi> cui respondit, <hi>Vulpes foveas habent, et volatilia
+coeli nidos; Filius autem hominis non habet ubi caput
+suum inclinet <note>(Matth. VIII, 19 et 20)</note>
+            </hi>. Arguebat nomine
+vulpium astutam dolositatem, et nomine volucrum
+ventosam elationem, in quo ubi requiesceret piam
+non inveniebat humilitatem. Ac per hoc nusquam omnino
+secutus est Dominum, qui se promiserat, non
+usque ad quemdam profectum, sed omnino quocumque
+ierit secuturum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LII.</head>
+<div3>
+            <head>53.</head>
+            <p>
+ <hi>Humilitas virginibus qua ratione
+exercenda.</hi> Quapropter hoc agite, virgines Dei, hoc
+<pb n="0427"/>
+agite: sequimini Agnum quocumque ierit. Sed prius
+ad eum quem sequamini, venite, et discite quoniam
+mitis est et humilis corde Humiliter ad humilem venite,
+si amatis; et ne discedatis ab illo, ne cadatis.
+Qui enim timet ab illo discedere, rogat et dicit: <hi>Non
+mihi veniat pes superbiae <note>(Psal. XXXV, 12)</note>
+            </hi>. Pergite
+viam sublimitatis, pede humilitatis. Ipse exaltat humiliter
+sequentes, quem descendere non piguit ad jacentes.
+Dona ejus illi servanda committite, fortitudinem
+vestram ad illum custodite <note>(Psal. LVIII, 10)</note>.
+Quidquid mali ipso custodiente non committitis, tanquam
+remissum ab illo deputate: ne modicum vobis
+existimantes dimissum, modicum diligatis, et tundentes
+pectora publicanos ruinosa jactantia contemnatis.
+De viribus vestris expertis cavete, ne quia ferre aliquid
+potuistis inflemini: de inexpertis autem orate,
+ne supra quam potestis ferre tentemini. Existimate
+aliquos in occulto superiores, quibus estis in manifesto
+meliores. Cum aliorum bona, forte ignota vobis,
+benigne creduntur a vobis, vestra vobis nota non
+comparatione minuuntur, sed dilectione firmantur:
+et quae forte adhuc desunt, tanto dantur facilius,
+quanto desiderantur humilius. Perseverantes in numero
+vestro praebeant vobis exemplum; cadentes autem
+augeant timorem vestrum. Illud amate, ut imitemini;
+hoc lugete, ne inflemini. Justitiam vestram nolite
+statuere, Deo vos justificanti subdite. Veniam
+peccatis donate alienis, orate pro vestris: futura vigilando
+vitate, praeterita confitendo delete.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LIII.</head>
+<div3>
+            <head>54.</head>
+            <p>
+ <hi>Virgines quanto sanctiores,
+tanto sint humiliores.</hi> Ecce jam tales estis, ut professae
+atque servatae virginitati caeteris etiam moribus congruatis.
+Ecce jam non solum homicidiis, sacrificiis
+diabolicis et abominationibus, furtis, rapinis, fraudibus,
+perjuriis, ebriositatibus, omnique luxuria et avaritia,
+simulationibus, aemulationibus, impietatibus,
+crudelitatibus abstinetis: verum etiam illa quae leviora
+vel sunt vel putantur, non inveniuntur nec
+oriuntur in vobis; non improbus vultus, non vagi
+oculi, non infrenis lingua, non petulans risus, non
+scurrilis jocus, non indecens habitus, non tumidus
+aut fluxus incessus: jam non redditis malum pro
+malo, nec maledictum pro maledicto <note>(I Petr. III, 9)</note>;
+jam postremo illam mensuram dilectionis impletis,
+ut ponatis animas pro fratribus vestris <note>(I Joan. III,
+16)</note>. Ecce jam tales estis, quia et tales esse debetis.
+Haec addita virginitati, angelicam vitam hominibus,
+et coeli mores exhibent terris. Sed quanto magni estis,
+quicumque ita magni estis, tanto humiliate vos in
+omnibus, ut coram Deo inveniatis gratiam, ne superbis
+resistat, ne se exaltantes humiliet, ne inflatos per
+angusta non trajiciat: quanquam superflua sit sollicitudo,
+ne ubi fervet charitas, desit humilitas.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LIV.</head>
+<div3>
+            <head>55.</head>
+            <p>
+ <hi>Sponsum toto corde ament.</hi> 
+Si ergo nuptias contempsistis filiorum hominum, ex
+<pb n="0428"/>
+quibus gigneretis filios hominum, toto corde amate
+speciosum forma prae filiis hominum: vacat vobis,
+liberum est cor a conjugalibus vinculis. Inspicite pulchritudinem
+amatoris vestri: cogitate aequalem Patri,
+subditum et matri; etiam in coelis dominantem,
+et in terris servientem; creantem omnia, creatum inter
+omnia. Illud ipsum quod in eo derident superbi,
+inspicite quam pulchrum sit: internis luminibus inspicite
+vulnera pendentis, cicatrices resurgentis, sanguinem
+morientis, pretium credentis, commercium
+redimentis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LV.</head>
+<p> <hi>Quanta felicitate ac securitate amatur
+sponsus.</hi> Haec quanti valeant cogitate, haec in statera
+charitatis appendite; et quidquid amoris in nuptias
+vestras impendendum habebatis, illi rependite.</p>
+<div3>
+            <head>56.</head>
+            <p>
+ Bene quod interiorem vestram pulchritudinem
+quaerit, ubi vobis dedit potestatem filias Dei fieri <note>(Joan. I, 12)</note>:
+non quaerit a vobis pulchram carnem,
+sed pulchros mores, quibus frenetis et carnem. Non
+est cui de vobis quisquam mentiatur, et faciat saevire
+zelantem. Videte cum quanta securitate ametis, cui
+displicere falsis suspicionibus non timetis. Vir et
+uxor amant se, quoniam vident se; et quod non vident,
+timent in se: nec certi gaudent ex eo quod in
+manifesto est, dum in occulto suspicantur plerumque
+quod non est. Vos in isto quem oculis non videtis,
+et fide conspicitis, nec habetis verum quod reprehendatis,
+nec eum metuitis ne de falso forsitan offendatis.
+Si ergo magnum amorem conjugibus deberetis,
+eum propter quem conjuges habere noluistis, quantum
+amare debetis? Toto vobis figatur in corde, qui
+pro vobis est fixus in cruce: totum teneat in animo
+vestro, quidquid noluistis occupari connubio. Parum
+vobis amare non licet, propter quem non amastis et
+quod liceret. Sic amantibus mitem et humilem corde
+nullam vobis superbiam pertimesco.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT LVI.</head>
+<div3>
+            <head>57.</head>
+            <p>
+ <hi>Conclusio operis.</hi> Pro modulo
+itaque nostro et de sanctitate qua Sanctimoniales
+proprie dicimini, et de humilitate qua conservatur
+quidquid magnum dicimini, satis locuti sumus. Dignius
+autem illi tres pueri, quibus refrigerium in
+igne praebebat, quem corde ferventissimo diligebant,
+vos de hoc opusculo nostro, verborum quidem numero
+longe brevius, sed pondere auctoritatis multo
+grandius, in hymno quo ab eis Deus honoratur, admoneant.
+Nam sanctitati humilitatem in Dei laudatoribus
+conjungentes, apertissime docuerunt ut tanto
+quisque caveat ne superbia decipiatur, quanto sanctius
+aliquid profitetur. Proinde vos quoque laudate
+eum qui vobis praestat ut in ardore medio saeculi hujus,
+quamvis conjugio non copulemini, non tamen
+uramini; et orantes etiam pro nobis, <hi>Benedicite,
+sancti et humiles corde, Dominum; hymnum dicite, et
+superexaltate eum in saecula <note>(Dan. III, 87)</note>
+            </hi>.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

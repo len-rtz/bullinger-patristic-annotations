@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8369" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Löwenklau (Lewenklaw) / Basel an Heinrich Bullinger, 30. August 1570</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/8369</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="40081" type="transcription">S. 7564/112</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 336,119</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 336,101</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Litteras hasce meis inclusas Reinhartius a Ratlo ante duos menses</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8408" cert="high"/>
+					<placeName ref="l28" cert="high"/>
+					<date when="1570-08-30" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8369!Autograph!00%20E_II_336__fol__119_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">8369/Autograph/00 E_II_336__fol__119_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8369!Autograph!01%20E_II_336__fol__119_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">8369/Autograph/01 E_II_336__fol__119_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. P.</s>
+					<s n="2" xml:lang="la">Litteras hasce meis inclusas <persName ref="p8286">Reinhartus a Ratlo</persName> ante duos menses heic apud me relinquebat, ut eas ad te, vir reverende, oblata occasione mitterem.</s>
+					<s n="3" xml:lang="la">Ego, qui amici voluntati satisfacere cuperem, non multo post <placeName ref="l832">Gallo</placeName> cuidam eas dabam, qui et <placeName ref="l587">Tigurum</placeName> se iturum et te conventurum aiebat.</s>
+					<s n="4" xml:lang="la">Verum mutato consilio <placeName ref="l167">Genevam</placeName> profectus longo temporis interiecto spatio mihi cum meis, quibus erant inclusae, remisit.</s>
+					<s n="5" xml:lang="la">Quam ob rem serius ad te illas pervenire sane doleo meque hac in parte ut excusatum habeas, oro.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Epithalamia istaec poematia <persName ref="p8286">Reinhartus</persName> ipse suis adiunxerat, titulum <persName ref="p17965">Nazianzeni</persName> ego, qui quidem studio meo totum iam biennium qua interpretationem qua veteres ad libros collationem insigniter ornatus hac hyeme typis chalcographicis excudetur.</s>
+					<s n="7" xml:lang="la">Spero illam operam viros bonos probaturos; a me quidem certe magnus impensus est labor, cuius me minime poenitebit, si aequa hominum iudicia experiar; nam ceteroqui dolerem me tam diu studium iuris civilis intermisisse, quod ego iamdudum amplexus urgere non desino.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" ana="farewell">Vale, vir clarissime, meaeque veniam audaciae dato, qui ad te hactenus ignotus scribere non dubitaverim.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Ante diem 3. kalendas septembres <placeName ref="l28">Basilea</placeName>.</s>
+					<s n="10" xml:lang="la">Tui studiosus <persName ref="p8408">Ioannes Lewenkla</persName> scripsit.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la">Reverendo et charissimo viro d. <persName ref="p495">Henrico Bullingero</persName>, pastori ecclesiae <placeName ref="l587">Tigurino</placeName>, domino suo colendo.</s>
+				</p>
+				<p>
+					<note type="author">[Darunter von <persName ref="p495">Bullingers</persName> Hand:]</note>
+					<s n="12" xml:lang="la"><persName ref="p8408">Ioannes Löwenklau</persName>, interpres <persName ref="p17965">Gregorii Nazianzeni</persName>, 1570.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

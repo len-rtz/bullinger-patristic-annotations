@@ -1,0 +1,1690 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De carne Christi</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.DeCaCh</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Argumentum.</head>
+<p>
+          <pb n="0751C"/> <hi>De carnis Christi veritate disputaturus Tertullianus,
+imprimis scripti occasionem significat; quod, qui resurrectionis
+fidem inquietarent, etiam carnem Christi
+quaestionibus distraherent.</hi> Cap. I.</p>
+<p> <hi>Ad institutum autem veniens, adversus Marcionem, qui
+ejus historiam ex Evangelio auferebat; traditionis
+apostolicae praescriptione Christi nativitatem probat.</hi> Cap. II.</p>
+<p> <hi>Deinde neque impossibilem fuisse aut inconvenientem
+Deo.</hi> Cap. III.</p>
+<p> <hi>Neque etiam Deo indignam, neque stultam.</hi> Cap. IV.</p>
+<p> <hi>Non itaque in phantasmate, sed vere crucifixum et mortuum
+(quantumvis etiam id negaret Marcion), vere
+quoque natum Christum.</hi> Cap. V.</p>
+<p> <hi>Jam adversus Apellem deducit, Christum de sideribus
+et substantiis superioris mundi carnem non esse mutuatum.</hi> Cap. VI.</p>
+<p> <hi>Interserens, nihil pro illis facere illud Christi: Quae
+mihi mater, et qui mihi fratres?</hi> Cap. VII.</p>
+<p>
+          <pb n="0752C"/> <hi>Addens, angelum illum igneum Apellecianorum, secundum
+eos etiam coelestia ex poenitentia delicti instituisse;
+atque adeo si de sideribus structa, peccatricem
+fuisse carnem Christi.</hi> Cap. VIII.</p>
+<p> <hi>Et vero, omnia verae carnis signa in Christo fuisse.</hi> Cap. IX.</p>
+<p> <hi>Rursum, adversus alios quosdam, neque animalem fuisse
+Christi carnem deducit.</hi> Cap. X.</p>
+<p> <hi>Neque etiam carnalem.</hi> Cap. XI.</p>
+<p> <hi>Venisse etiam Christum, non ut anima seipsam cognosceret,
+sed ut ipsam salvam faceret.</hi> Cap. XII.</p>
+<p> <hi>Fuisse item in Christo diversas substantias, carnem, et
+animam.</hi> Cap. XIII.</p>
+<p> <hi>Solum etiam Christum fuisse salutificatorem, non angelum.</hi> Cap. XIV,</p>
+<p> <hi>Adversus autem Valentinum, Christi carnem spiritalem
+non fuisse, prosequitur.</hi> Cap. XV.</p>
+<p> <hi>Sicuti etiam adversus Alexandrum quemdam, peccatricem
+<pb n="0753A"/>
+non fuisse carnem Christi, et, etiamsi non ex semine,
+veram tamen.</hi> Cap. XVI.</p>
+<p> <hi>Obiter probans ex scripturis Christum de virgine nasciturum.</hi> Cap. XVII.</p>
+<p> <hi>Non competere etiam ex semine humano Dei Filium
+nasci; ne si esset totus filius hominis, juxta Hebionis
+opinionem, non crederetur Dei filius.</hi> Cap. XVIII.</p>
+<p> <hi>Neque tamen Valentino favere illud ab eo adulteratum:
+Non ex sanguine, nec ex carnis voluntate, nec
+ex viri, sed ex Deo natus est.</hi> Cap. XIX.</p>
+<p> <hi>Porro adversus eosdem non per virginem, sed ex virgine
+natum Christum, latissime ex Scripturis demonstrat.</hi> Cap. XX, XXI.</p>
+<p> <hi>Proinde adimpleri in his omnibus propheticam vocem
+Simeonis de Christo: Ecce hic positus est in signum
+<pb n="0753B"/>
+cui contradicetur.</hi> Cap. XXII, XXIII.</p>
+<p> <hi>Et suggillatos esse haereticos illos omnes, praedictosque
+in Scripturis.</hi> Cap. XXIV.</p>
+<p> <hi>Denique epilogi vice repetens quid hoc libro probaverit,
+ad sequentem</hi> DE RESURRECTIONE CARNIS <hi>librum transitum
+facit.</hi> Cap. XXV.</p>
+<p> <hi>Caeterum Tertullianus, praeterquam quod librum jam dictum</hi> de Resurrectione Carnis <hi>citat infra lib.</hi> V <hi>adv.
+Marcionem, in illo etiam argumenti et tituli hujus fit
+mentio.</hi> Propterea, <hi>inquit c.</hi> II, et nos volumen
+praemisimus DE CARNE CHRISTI, quo eam et solidam
+probamus adversum phantasmatis nativitatem,
+et humanam vindicamus adversus qualitatis proprietatem. <hi>Et rursum:</hi> 
+ Igitur quantum ad haereticos,
+demonstravimus, quo cuneo occurrendum sit a nobis,
+<pb n="0753C"/>
+et occursum est jam suo quoque titulo DE
+CARNE DOMINI ADVERSUS HAERESES; ad hanc maxime
+quaestionem praestruendam. <hi>Praeterquam autem,
+quod MS. viderunt olim hunc librum Trithemius
+abbas et Politianus locis saepe citatis; edidit primus
+in lucem ex Hirsaugiensi et Paterniacensi Rhenanus
+cum scholiis, deinde et annotationibus illustratam
+castigavit ex Gorziensi codice. Interea vero,
+quod desideraretur in Laelandi britannico codice, cum
+a Gelonio non sit recognitus, operae pretium fuit
+<pb n="0754A"/>
+conferre cum tribus MS. vaticanis Codicibus, e quibus
+non paucos locos restituimus; additis etiam argumento
+novo, et annotationibus nostris.</hi> [PAM.]</p>
+<p> <hi>Christum humanam assumpsisse carnem demonstrat,
+contra haereticos quatuor, Marcionem, Apellem,
+Valentinum et Basilidem, seu potius adversus quatuor
+haereses scribit, primam Marcionitarum, secundam
+Apellis, tertiam et quartam Valentinianorum.</hi> [VENET.]</p>
+</div1>
+
+<div2>
+        <head>CAPUT I.</head>
+<p>Qui fidem resurrectionis, ante istos Sadducaeorum
+propinquos sine controversia moratam ,
+student inquietare, ut eam spem negent etiam ad
+carnem pertinere, merito Christi quoque carnem
+quaestionibus distrahunt, tanquam aut nullam omnino,
+aut quoquo modo aliam praeter humanam; ne si humanam
+<pb n="0754B"/>
+constiterit fuisse, praejudicatum sit adversus
+illos eam resurgere omni modo, quae in Christo
+resurrexit. Igitur unde illi destruunt carnis vota,
+inde nobis erunt praestruenda. Examinemus corporalem
+substantiam Domini: de spiritali enim certum
+est. Carnis quaeritur veritas, et qualitas
+ejus retractatur, an fuerit, et unde, et cujusmodi
+fuerit. Renuntiatio ejus, dabit legem nostrae
+resurrectioni. Marcion, ut carnem Christi negaret,
+negavit etiam nativitatem; aut ut nativitatem negaret,
+negavit et carnem: scilicet, ne invicem sibi testimonium
+redderent et responderent nativitas et
+caro; quia nec nativitas sine carne, nec caro sine
+nativitate. Quasi non eadem licentia haeretica et ipse
+potuisset, aut, admissa carne, nativitatem negare, ut
+<pb n="0754C"/>
+Apelles discipulus, et postea desertor ipsius; aut
+et carnem et nativitatem confessus. aliter illas
+interpretari, ut condiscipulus et condesertor ejus
+Valentinus. Sed et qui carnem Christi putativam introduxit,
+aeque potuit nativitatem quoque phantasma
+ confingere, ut et conceptus, et praegnatus,
+et partus virginis, et ipsius exinde infantis
+ordo, <foreign xml:lang="greek">τὸ</foreign> <foreign xml:lang="greek">δοκεῖν</foreign> haberentur: eosdem
+oculos, eosdem sensus fefellissent, quos carnis opinio
+elusit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+
+<pb n="0755A"/>
+<p>Plane nativitas a Gabriele annuntiatur: quid illi
+eum angelo Creatoris? Et in virginis uterum
+conceptus inducitur: quid illi cum Esaia propheta
+Creatoris? Odit moras, qui subito Christum de coelis
+deferebat. « Aufer hinc, inquit, molestos
+semper Caesaris census, et diversoria angusta, et
+sordidos pannos, et dura praesepia. Viderit angelica
+multitudo, Dominum suum noctibus honorans.
+Servent potius pecora pastores. Et Magi ne fatigentur
+de longinquo; dono illis aurum suum. Melior sit et
+Herodes, ne Hieremias glorietur. Sed nec circumcidatur
+infans, ne doleat; nec ad templum deferatur,
+ne parentes suos oneret sumptu oblationis;
+nec in manus tradatur Simeoni, ne senem moriturum
+<pb n="0755B"/>
+exinde contristet. Taceat et anus illa,
+ne fascinet puerum. »  His, opinor, consiliis tot originalia
+instrumenta Christi delere Marcion ausus
+est, ne caro ejus probaretur. Ex qua, oro
+te, auctoritate? Si propheta es, praenuntia aliquid;
+si apostolus, praedica publice; si apostolicus,
+cum apostolis senti; si tantum christianus
+es, crede quod traditum est; si nihil istorum
+es, merito dixerim, morere: nam et mortuus es,
+qui non es christianus, non credendo quod traditum
+ christianos facit. Et eo magis mortuus es,
+quo magis non es christianus: qui cum
+fuisses, excidisti, rescindendo quod retro credidisti;
+sicut et ipse confiteris in quadam epistola, et
+tui non negant, et nostri probant. Igitur rescindens
+<pb n="0756A"/>
+quod credidisti, jam non credens rescidisti: non tamen
+quia credere desiisti, recte rescidisti. Atque in
+rescindendo quod credidisti, probas, antequam
+rescinderes, aliter fuisse quod credidisti. Aliter illud,
+ita erat traditum: porro, quod traditum erat, id erat
+verum, ut ab eis traditum, quorum fuit tradere; ergo
+quod erat traditum rescindens, quod erat verum
+rescidisti, nullo jure fecisti. Sed plenius ejusmodi
+praescriptionibus adversus omnes haereses, alibi jam
+usi sumus. Post quas nunc ex abundanti retractamus
+desiderantes rationem, qua non putaveris
+natum esse Christum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Necesse est, quatenus hoc putas arbitrio. tuo licuisse,
+aut ut impossibilem, aut inconvenientem Deo
+<pb n="0756B"/>
+existimaveris nativitatem. Sed Deo nihil impossibile,
+nisi quod non vult. An ergo voluerit nasci (quia
+si voluit, et potuit, et natus est) consideremus.
+Ad compendium decurro. Si enim nasci se Deus noluisset
+quacumque de causa, nec hominem se videri
+praestitisset. Nam quis, hominem videns, eum negaret
+natum? Ita quod noluisset esse, nec videri omnino
+voluisset. Omnis rei displicentis etiam opinio reprobatur.
+Quia nihil interest, utrum si quid, an non sit,
+si, cum non sit, esse praesumitur. Plane interest
+illud, ut falso non patiatur, quod vere non
+est. « Sed satis erat illi, inquis, conscientia sua.
+Viderint homines, si natum putabant, quia hominem
+videbant. »  Quanto ergo dignius, quantoque constantius
+humanam sustinuisset existimationem vere natus,
+<pb n="0757A"/>
+eamdem existimationem etiam non natus subiturus
+cum injuria conscientiae suae! quam tu ad fiduciam
+reputas, ut non natus, adversus conscientiam suam
+natum se existimari sustineret. Quid tanti fuit, edoce,
+ut consciens Christus quid esset id se quod
+non erat, exhiberet? Non potes dicere:  «  Si natus
+fuisset, et hominem vere induisset, Deus esse
+desisset, amittens quod erat, dum assumit quod
+non erat. »  Periculum enim status sui Deo nullum
+est. « Sed ideo, inquis, nego Deum in hominem vere
+conversum, ita ut et nasceretur, et carne corporaretur
+; quia qui sine fine est, etiam inconvertibilis
+sit necesse est: converti enim in aliud, finis est
+pristini: non competit ergo conversio, cui non
+competit finis. »  Plane natura convertibilium ea lege
+<pb n="0757B"/>
+est, ne permaneant in eo quod convertitur in eis; et
+ita non permanendo pereant, dum perdunt convertendo
+quod fuerunt. Sed nihil Deo par est: natura
+ejus ab omnium rerum conditione distat. Si ergo
+quae a Deo distant, a quibus distat, cum convertuntur,
+amittunt quod fuerunt; ubi erit diversitas
+divinitatis a caeteris rebus, nisi ut contrarium obtineat,
+id est, ut Deus et in omnia converti possit,
+et qualis est, perseverare? Alioquin par erit eorum,
+quae conversa amittunt quod fuerunt; quorum utique
+Deus in omnibus impar non est, si nec in exitu
+conversionis. Angelos Creatoris conversos in effigiem
+humanam, aliquando legisti, et credidisti, et tantam
+corporis gestasse veritatem, ut et pedes eis laverit
+Abraham, et manibus ipsorum ereptus sit Sodomitis
+<pb n="0757C"/>
+Loth; conluctatus quoque homini angelus toto corporis
+pondere dimitti desideravit ab eo a quo detinebatur.
+Quod ergo angelis inferioribus Deo licuit,
+uti, conversi in corpulentiam humanam, angeli nihilominus
+permanerent, hoc tu potentiori Deo aufers,
+quasi non valuerit Christus, vere hominem indutus,
+<pb n="0758A"/>
+Deus perseverare? Aut numquid et angeli illi phantasmata
+ carnis apparuerunt? Sed non audebis
+hoc dicere. Nam si sic apud te angeli Creatoris, sicut
+et Christus, ejus Dei erit Christus, cujus angeli
+ tales qualis et Christus. Si Scripturas opinioni
+tuae resistentes non de industria alias rejecisses,
+alias corrupisses, confudisset te in hac specie
+Evangelium Joannis, praedicans Spiritum columbae
+corpore lapsum desedisse super Dominum.
+Qui Spiritus cum hoc esset, tam vere erat et columba,
+quam et Spiritus, nec interfecerat substantiam
+propriam, assumpta substantia extranea.
+Sed quaeris, corpus columbae ubi sit, resumpto
+Spiritu in coelum. Aeque et angelorum, eadem
+ratione interceptum est, qua et editum fuerat. Si
+<pb n="0758B"/>
+vidisses, cum de nihilo proferebatur, scisses, cum in
+nihilum subducebatur. Si non fuit initium visibile,
+nec finis. Tamen corporis soliditas erat, quo
+momento corpus videbatur. Non potest non fuisse
+quod scriptum est.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Igitur si neque ut impossibilem, neque ut periculosam
+Deo repudias corporationem, superest ut quasi
+indignam rejicias et accuses. Ab ipsa quidem
+exorsus nativitate, perora, age jam, spurcitias
+genitalium in utero elementorum, humoris et
+sanguinis foeda coagula, carnis ex eodem coeno
+alendae per novem menses. Describe uterum de die
+in diem inolescentem, gravem, anxium,
+nec somno tutum, incertum libidinibus fastidii
+<pb n="0758C"/>
+et gulae. Invehere jam et in ipsum mulieris enitentis
+pudorem, vel pro periculo honorandum,
+vel pro natura religiosum. Horres utique et infantem,
+cum suis impedimentis profusum utique et
+oblitum. Dedignaris, quod pannis dirigitur,
+quod vinctionibus formatur, quod blanditiis deridetur.
+<pb n="0759A"/>
+ Hanc venerationem naturae, Marcion,
+despuis; et quo modo natus es? Odisti nascentem
+hominem; et quo modo diligis aliquem? Te quidem
+plane non amasti, cum ab Ecclesia et fide Christi
+recessisti. Sed videris, si tibi displices, aut si aliter
+es natus. Certe Christus dilexit hominem illum
+in immunditiis, in utero coagulatum, illum per pudenda
+prolatum, illum per ludibria nutrium: propter
+eum descendit; propter eum praedicavit; propter eum
+omni se humilitate dejecit <hi>usque ad mortem, et mortem
+crucis <note>(Philip. II)</note>
+          </hi>. Amavit utique, quem magno
+redemit. Si Christus Creatoris est, suum merito
+amavit; si ab alio Deo est, magis adamavit, quando
+alienum redemit. Amavit ergo cum homine etiam
+nativitatem, etiam carnem ejus. Nihil amari potest
+<pb n="0759B"/>
+sine eo, per quod est id quod est. Aufer nativitatem,
+et exhibe hominem; adime carnem, et praesta
+quem Deus redemit. Si haec sunt homo, quem Deus
+redemit, tu haec erubescenda illi facis, quae redemit,
+et indigna, quae, nisi dilexisset, non redemisset?
+Nativitate reformata regeneratione coelesti, carnem
+ab omni vexatione restituit, leprosam emaculat,
+caecam perluminat, paralyticam redintegrat,
+daemoniacam expiat, mortuam resuscitat; et
+nasci in illam erubescit? Si revera de lupa, aut
+sue, aut vacca prodire voluisset, et ferae aut pecoris
+corpore indutus, regnum coelorum praedicaret, tua,
+opinor, illi censura praescriberet, turpe hoc Deo, et
+indignum hoc Dei Filio, et stultum propterea qui
+ita credat. Sit plane stultum, si de nostro sensu
+<pb n="0759C"/>
+judicemus Deum. Sed circumspice <note>(I Cor., I, 27)</note>,
+Marcion, si tamen non delesti: <hi>Stulta mundi elegit
+Deus, ut confundat sapientes</hi>. Quaenam haec stulta
+sunt? conversio hominis ad cultum veri Dei?
+rejectio erroris? disciplina justitiae, pudicitiae, patientiae,
+<pb n="0760A"/>
+misericordiae, innocentiae? Omnia haec quidem
+stulta non sunt. Quaere ergo de quibus dixerit;
+et si te praesumpseris invenisse, non erit tam
+stultum, quam credere in Deum natum, et quidem
+ex virgine, et quidem carneum, qui per illas
+naturae contumelias volutatus sit. Dicat haec aliquis
+stulta non esse, et alia sint, quae Deus in aemulationem
+elegerit sapientiae saecularis. Et tamen apud illam
+facilius creditur Jupiter taurus factus aut cycnus,
+quam vere homo Christus, penes Marcionem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Sunt plane et alia tam stulta, quae pertinent ad
+contumelias et passiones Dei; aut prudentiam dicant
+ Deum crucifixum. Aufer hoc
+quoque, Marcion, imo hoc potius. Quid enim indignius
+<pb n="0760B"/>
+Deo? quid magis erubescendum, nasci an mori?
+carnem gestare, an crucem? circumcidi, an suffigi?
+educari, an sepeliri? in praesepe deponi, an in monumento
+recondi? Sapientior eris, si nec ista credideris.
+Sed non eris sapiens, nisi stultus saeculo
+fueris, Dei stulta credendo. An ideo passiones a
+Christo non rescidisti, quia ut phantasma vacabat a
+sensu earum? Diximus retro aeque illum et nativitatis
+et infantiae imaginariae vacua ludibria
+subire potuisse. Sed jam hic responde, interfector
+veritatis. Nonne vere crucifixus est Deus?
+nonne vere mortuus, ut vere crucifixus? nonne
+vere resuscitatus, ut vere scilicet mortuus? Falso
+ergo statuit inter nos scire Paulus tantum
+Jesum crucifixum? falso sepulturum ingessit?
+<pb n="0760C"/>
+falso resuscitatum inculcavit? Falsa est igitur et fides
+nostra, et phantasma est totum quod speramus
+a Christo? Scelestissime hominum, qui interemptores
+excusas Dei. Nihil enim ab eis passus est Christus,
+si nihil vere est passus. Parce unicae spei totius
+<pb n="0761A"/>
+orbis. Quid destruis necessarium dedecus
+fidei? Quodcumque Deo indignum est, mihi expedit.
+Salvus sum, si non confundar de Domino meo. <hi>Qui
+mei</hi>, inquit, <hi>confusus fuerit, confundar et ego
+ejus</hi>. Alias non invenio materias confusionis,
+quae me per contemptum ruboris probent bene impudentem
+et feliciter stultum. Natus est Dei Filius; non
+pudet, quia pudendum est: et mortuus est Dei Filius;
+prorsus credibile est, quia ineptum est: et sepultus,
+resurrexit; certum est, quia impossibile. Sed haec
+quomodo in illo vera erunt, si ipse non fuit verus, si
+non vere habuit in se quod figeretur, quod moreretur,
+quod sepeliretur et resuscitaretur, carnem scilicet
+sanguine suffusam, ossibus structam, nervis intextam,
+<pb n="0761B"/>
+venis implexam, quae nasci et mori novit? Humana
+sine dubio, ut nata de homine; ideoque
+mortalis haec erit in Christo, quia Christus
+homo et filius hominis. Aut cur homo Christus et
+filius hominis, si nihil hominis et nihil ex homine?
+nisi si aut aliud est homo quam caro, aut aliunde
+caro hominis, quam ex homine; aut aliud Maria,
+quam homo, aut homo deus Marcionis.
+Aliter, non diceretur homo Christus, sine carne; nec
+hominis filius, sine aliquo parente homine: sicut
+nec Deus, sine Spiritu Dei; nec Dei Filius, sine Deo
+patre. ita utriusque substantiae census hominem et
+Deum exhibuit: hinc natum, inde non natum; hinc
+carneum, inde spiritalem; hinc infirmum, inde praefortem;
+<pb n="0761C"/>
+hinc morientem, inde viventem. Quae
+proprietas conditionum, divinae et humanae, aequa utique
+naturae utriusque veritate dispuncta est,
+<pb n="0762A"/>
+eadem fide, et spiritus et carnis. Virtutes spiritum
+Dei, passiones carnem hominis probaverunt. Si virtutes
+non sine spiritu, proinde et passiones non sine
+carne: si caro cum passionibus ficta, et spiritus ergo
+cum virtutibus falsus. Quid dimidias mendacio
+Christum? Totus veritas fuit. Maluit, crede, nasci,
+quam ex aliqua parte mentiri, et quidem in semetipsum;
+ut carnem gestaret sine ossibus duram,
+sine musculis solidam, sine sanguine cruentam, sine
+tunica vestitam, sine fame esurientem, sine dentibus
+edentem, sine lingua loquentem; ut phantasma
+auribus fuerit sermo ejus per imaginem vocis. Fuit
+itaque phantasma etiam post resurrectionem, cum
+manus et pedes suos discipulis inspiciendos offerret
+<pb n="0762B"/>: 
+ <hi>Aspicite,</hi> inquit, <hi>quod ego sum, quia spiritus
+ossa non habet, sicut me habentem videtis <note>(Luc. XXIV)</note>
+          </hi>,
+sine dubio manus et pedes et ossa, quae spiritus non
+habet, sed caro. Quomodo hanc vocem interpretaris,
+Marcion, qui a Deo optimo, et simplici, et bono
+tantum, infers Jesum? Ecce fallit et decipit, et circumvenit omnium oculos, omnium sensus, omnium
+accessus et contractus. Ergo jam Christum non de
+coelo deferre debueras, sed de aliquo circulatorio
+coetu; nec Deum praeter hominem, sed magum hominem;
+nec salutis pontificem, sed spectaculi artificem;
+nec mortuorum suscitatorem, sed vivorum
+avocatorem. Nisi quod et si magus fuit, natus est.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>
+          <pb n="0762C"/>Sed quidam discentes Pontici illius, supra
+magistrum sapere compulsi, concedunt Christo carnis
+<pb n="0763A"/>
+veritatem, sine praejudicio tamen renuendae nativitatis.
+Habuerit, inquiunt, carnem, dum omnino
+non natam. Pervenimus igitur de calcaria, quod
+dici solet, in carbonariam, a Marcione ad Apellem,
+qui posteaquam a disciplina Marcionis in mulierem
+carne lapsus, et dehinc in virginem Philumenem
+spiritu eversus est, solidum Christi
+corpus, sed sine nativitate, suscepit ab ea
+praedicare. Et angelo quidem illi Philumenes
+ eadem voce Apostolus respondebit, qua
+ipsum illum jam tunc praecinebat, dicens <note>(Gal. I, 8)</note>: <hi>Etiamsi angelus de coelis aliter evangelizaverit vobis,
+quam nos evangelizavimus, anathema sit.</hi> 
+ His vero quae
+ insuper argumentantur, nos resistemus. Confitentur
+<pb n="0763B"/>
+ vere corpus habuisse Christum. Unde
+materia, si non ex ea qualitate, in qua videbatur?
+unde corpus, si non caro corpus? unde caro, si non
+nata? quia nasci haberet, ea futura quae nascitur. De
+sideribus, inquiunt, et de substantiis superioris
+mundi mutuatus est carnem: et utique proponunt
+non esse mirandum corpus sine nativitate, cum et
+apud nos angelis licuerit nulla uteri opera in
+carnem processisse. Agnoscimus quidem ita
+relatum; sed tamen quale est, ut alterius regulae
+fides ab ea fide quam impugnat instrumentum argumentationibus
+suis mutuetur? Quid illi cum
+Moyse, qui Deum Moysi rejicit? Si alius Deus
+est, aliter sint res ejus. Sed utantur haeretici
+<pb n="0763C"/>
+omnes Scripturis ejus, cujus utuntur etiam mundo:
+erit illis hoc quoque in testimonium judicii, quod
+de exemplis ipsius blasphemias suas instruunt. Facile
+est veritati etiam nihil tale adversus eos praescribenti
+<pb n="0764A"/>
+obtinere. Igitur, qui carnem Christi ad exemplum
+proponunt angelorum, non natum dicentes,
+licet carnem, comparent velim et caussas tam
+Christi quam angelorum, ob quas in carnem
+processerint. Nullus umquam Angelus ideo descendit,
+ut crucifigeretur, ut mortem experiretur, ut
+a morte resuscitaretur. Si numquam ejusmodi
+fuit caussa Angelorum corporandorum, habes caussam
+cur non nascendo acceperint carnem. Non venerant
+mori; ideo nec nasci. At vero Christus mori
+missus, nasci quoque necessario habuit, ut mori posset.
+Non enim mori solet, nisi quod nascitur. Mutuum
+debitum est inter se nativitati cum mortalitate.
+ Forma moriendi, caussa nascendi est. Si
+<pb n="0764B"/>
+propter id quod moritur mortuus est Christus, id
+autem moritur quod et nascitur, consequens
+erat, imo praecedens, ut aeque nasceretur propter id
+quod nascitur; quia propter idipsum mori habebat,
+quod, quia nascitur, moritur. Non competebat
+non nasci, pro quo mori competebat. « Atquin
+tunc quoque inter illos Angelos ipse Dominus
+apparuit Abrahae sine nativitate cum carne. » 
+Scilicet, pro eadem caussae diversitate. Sed vos hoc
+non recipitis, non eum Christum recipientes, qui
+jam tunc et adloqui, et liberare, et judicare humanum
+genus ediscebat in carnis habitu, non natae adhuc,
+quia nondum moriturae, nisi prius et nativitas
+ejus et mortalitas adnuntiarentur. Igitur probent angelos
+<pb n="0764C"/>
+illos de sideribus accepisse substantiam
+carnis. Si non probant, quia nec scriptum
+est, nec Christi caro inde erit, cui angelorum accommodant
+exemplum. Constat angelos carnem non propriam
+<pb n="0765A"/>
+gestasse, utpote naturas substantiae
+spiritalis, et, si corporis alicujus, sui tamen generis;
+in carnem autem humanam transfigurabiles ad
+tempus, ut videri et congredi cum hominibus
+possent. Igitur, cum relatum non sit unde sumpserint
+carnem, relinquitur intellectui nostro non
+dubitare, hoc esse proprium angelicae potestatis, ex
+nulla materia corpus sibi sumere. « Quanto magis,
+inquis, ex aliqua certum est! »  Sed nihil de eo constat,
+quia Scriptura non exhibet. Caeterum, qui
+valent facere semetipsos quod natura non sunt, cur
+non valeant etiam ex nulla substantia facere?
+Si fiunt quod non sunt, cur non ex eo fiant
+quod non est? Quod autem non est, cum sit, ex nihilo
+est. Propterea nec requiritur, nec ostenditur,
+<pb n="0765B"/>
+quid postea factum sit corporibus illorum. Quod
+de nihilo fuit, nihil factum est. Possunt nihil ipsum
+convertere in carnem, qui semetipsos potuerunt convertere
+in carnem. Plus est naturam demutare, quam
+facere materiam. Sed et si de materia necesse
+fuisset angelos sumpsisse carnem, credibilius
+utique est de terrena materia, quam de ullo genere
+coelestium substantiarum; cum adeo terrenae qualitatis
+extiterit, ut terrenis pabulis pasta sit. Fuerit
+nunc quoque siderea eodem modo terrenis
+pabulis pasta, quando terrena non esset; quo terrena
+coelestibus pasta est, quando coelestis non esset (legimus
+enim manna esui populo fuisse: <hi>Panem,</hi> inquit <note>(Ps. LXXVII)</note>,
+ <hi>angelorum edit homo</hi> ); non tamen
+infringitur semel separata conditio Dominicae
+<pb n="0765C"/>
+carnis, ex caussa alterius dispositionis. Homo
+vere futurus usque ad mortem eam carnem
+oportebat ut indueret, cujus est mors: eam
+<pb n="0766A"/>
+porro carnem, cujus est mors, nativitas antecedit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Sed quotiens de nativitate contenditur, omnes qui
+respuunt eam ut praejudicantem de carnis in Christo
+veritate, ipsum Deum volunt negare esse natum,
+quod dixerit <note>(Matt. XII, 48)</note>: <hi>Quae mihi mater, et
+qui mihi fratres?</hi> Audiat igitur et Apelles, quid
+jam responsum sit a nobis Marcioni eo libello, quo
+ ad Evangelium ipsius provocavimus, considerandam
+scilicet materiam pronuntiationis istius.
+Primo quidem, nunquam quisquam adnuntiasset illi
+matrem et fratres ejus foris stare, qui non certus
+esset habere illum matrem et fratres, et ipsos
+esse, quos tunc nuntiabat, vel retro cognitos, vel
+tunc ibidem compertos, licet propterea abstulerint
+<pb n="0766B"/>
+haereses ista de Evangelio, quod et creditum
+patrem ejus Joseph fabrum, et matrem Mariam,
+et fratres et sorores ejus optime notos sibi esse dicebant,
+qui mirabantur doctrinam ejus. « Sed tentandi
+gratia nuntiaverant et matrem et fratres, quos
+non habebat. »  Hoc quidem Scriptura non dicit, alias
+non tacens, cum quid tentationis gratia factum est
+circa eum: <hi>Ecce,</hi> inquit <note>(Matt. XXII)</note>, <hi>surrexit
+legis doctor, tentans eum.</hi> Et alibi <note>(Matt. XIX)</note>: <hi>Et
+accesserunt ad eum Pharisaei, tentantes.</hi> Quod nemo
+prohibebat hic quoque significari, tentandi gratia
+factum. Non recipio quod extra Scripturam de
+tuo infers. Dehinc, materia tentationis debet subesse.
+Quid tentandum putaverunt in illo? Utique, natusne
+esset, an non; si enim hoc negavit responsio ejus,
+<pb n="0766C"/>
+hoc captavit nuntiatio tentatoris. Sed nulla tentatio
+tendens ad agnitionem ejus, de quo dubitando tentat,
+ita subito procedit, ut non ante praecedat quaestio,
+<pb n="0767A"/>
+quae, dubitationem inferens, cogat tentationem.
+Porro, si nusquam de nativitate Christi volutatum
+est, quid tu argumentaris, voluisse illos per tentationem
+sciscitari quod nunquam produxerunt in quaestionem?
+Eo adjicimus: etiamsi tentandus esset
+de nativitate, non utique hoc modo tentaretur, earum
+personarum adnuntiatione, quae poterant, etiam
+nato Christo, non fuisse. Omnes nascimur, et tamen
+non omnes aut fratres habemus aut matrem. Adhuc
+potest et patrem magis habere quam matrem, et
+avunculos magis quam fratres. Adeo non competit
+tentatio nativitatis, quam licebat et sine matris, et
+sine fratrum nominatione constare. Facilius plane
+est, ut, certi illum et matrem et fratres habere,
+divinitatem potius tentaverint ejus, quam nativitatem:
+<pb n="0767B"/>
+an intus agens, sciret quid foris esset, mendacio
+petitus praesentia eorum, qui in praesenti
+ non erant: nisi quod, etsi vacuisset
+ tentationis ingenium, poterat evenire, ut quos
+illi nuntiabant foris stare, ille eos sciret absentes
+esse, vel valetudinis, vel negotii, vel peregrinationis
+nota jam necessitate. Nemo tentat eo
+modo, quo posse se sciat ruborem tentationis referre.
+Nulla igitur materia tentationis competente,
+liberatur simplicitas nuntiatoris, quod vere
+mater et fratres ejus supervenissent. Sed, quae ratio
+responsi, matrem et fratres ad praesens negantis,
+discat etiam Apelles. Fratres Domini non crediderant
+ in illum, sicut et in Evangelio ante
+Marcionem edito continetur. Mater aeque non demonstratur
+<pb n="0767C"/>
+adhaesisse illi, cum Martha et Maria
+alia in commercio ejus frequententur. Hoc denique
+in loco apparet incredulitas eorum: cum
+is doceret viam vitae, cum Dei regnum praedicaret,
+cum languoribus et vitiis medendis operaretur,
+<pb n="0768A"/>
+extraneis defixis in illum, tam proximi aberant.
+Denique superveniunt, et foris subsistunt, nec
+introcunt, non computantes scilicet quid intus ageretur;
+nec sustinent saltem, quasi necessarius
+aliquid adferrent eo quod ille tum maxime agebat;
+sed amplius interpellant, et a tanto opere revocatum
+volunt. Oro te, Apelles, vel tu, Marcion, si forte
+tabula ludens, vel de histrionibus, aut aurigis contendens,
+tali nuntio avocareris, nonne dixisses: Quae
+mihi mater, aut qui fratres? Deum praedicans et probans
+Christus, Legem et Prophetas adimplens, tanti
+retro aevi caliginem dispargens, indigne usus est hoc
+dicto ad percutiendam incredulitatem foris stantium,
+vel ad excutiendam importunitatem ab opere revocantium?
+Caeterum, ad negandam nativitatem, alius
+<pb n="0768B"/>
+necessarius fuisset et locus, et tempus, et ordo
+sermonis, non ejus qui posset pronuntiari etiam
+ab eo, cui et mater esset et fratres, cum indignatio
+parentes non neget, sed objurget. Denique,
+potiores fecit alios, et meritum praelationis ostendens.
+ audientiam scilicet verbi, demonstrat qua
+conditione negaverit matrem et fratres. Qua enim
+alios sibi adoptavit, qui ei adhaerebant, ea abnegavit
+illos, qui ab eo absistebant. Solet etiam id implere
+ Christus, quod alios docet. Quale ergo erat, si
+docens non tanti facere matrem aut fratres, quanti
+Dei verbum, ipse Dei verbum, nuntiata matre et fraternitate,
+desereret? Negavit itaque parentes, quomodo
+docuit negandos pro Dei opere. Sed alias figura
+est synagogae in matre abjuncta, et Judaeorum
+<pb n="0768C"/>
+in fratribus incredulis. Foris erat in illis Israel; discipuli
+autem novi intus audientes, et credentes, et
+cohaerentes Christo, Ecclesiam deliniabant,
+quam potiorem matrem, et digniorem fraternitatem,
+recusato carnali genere, nuncupavit. Eodem
+<pb n="0769A"/>
+sensu denique et illi exclamationi respondit, non matris
+uterum et ubera negans, sed feliciores designans,
+qui verbum Dei audiunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p>Solis istis capitulis, quibus maxime instructi sibi
+videntur Marcion et Apelles, secundum veritatem
+integri et incorrupti Evangelii interpretatis, satis
+esse debuerat ad probationem carnis humanae in
+Christo per defensionem nativitatis. Sed quoniam et
+isti Apelleciani carnis ignominiam praetendunt
+maxime, quam volunt ab igneo illo praeside mali sollicitatis
+ animabus adstructam, et idcirco
+indignam Christo, et idcirco de sideribus illi substantiam
+competisse, debeo illos de sua paratura
+repercutere. Angelum quemdam inclytum nominant,
+<pb n="0769B"/>
+qui mundum hunc instituerit, et instituto eo poenitentiam
+admiscuerit. Et hoc suo loco tractavimus:
+nam est nobis adversus illos libellus, an
+qui spiritum et voluntatem et virtutem Christi habuerit
+ad ea opera, dignum aliquid poenitentia fecerit,
+cum angelum etiam de figura erraticae ovis interpretentur.
+Teste igitur poenitentia institutoris sui,
+delictum erit mundus; siquidem omnis poenitentia
+confessio est delicti, quia locum non habet nisi in
+delicto. Si mundus delictum est quia corpus et
+membra, delictum erit proinde et coelum, et
+coelestia cum coelo. Si coelestia, et quicquid
+inde conceptum prolatumque est, mala arbor malos
+<pb n="0770A"/>
+fructus edat necesse est <note>(Matth. VIII)</note>. Caro igitur
+Christi de coelestibus structa, de peccati constitit
+ clementis, peccatrix de peccatorio censu,
+et par jam erit ejus substantiae, id est
+nostrae, quam ut peccatricem Christo dedignantur
+inducere. Ita si nihil de ignominia interest, aut
+aliam purioris notae materiam excogitent Christo,
+quibus displicet nostra, aut eamdem agnoscant,
+qua etiam coelestis melior esse non potuit. Legimus
+plane <note>(I Cor. XV)</note>: <hi>Primus homo de terrae limo; secundus
+homo de coelo.</hi> Non tamen ad materiae differentiam
+spectat, sed tantum terrenae retro substantiae
+carnis primi hominis, id est Adae, coelestem de
+spiritu substantiam opponit secundi hominis, id est
+Christi. Et adeo ad spiritum, non ad carnem, coelestem
+<pb n="0770B"/>
+hominem refert: ut quos sic comparat,
+constet in hac carne terrena coelestes fieri, spiritu
+scilicet. Quod si secundum carnem quoque coelestis
+Christus, non compararentur illi non secundum
+carnem coelestes. Si ergo qui fiunt
+coelestes, qualis et Christus, terrenam carnis
+substantiam gestant; hinc quoque confirmatur,
+ipsum etiam Christum in carne terrena fuisse coelestem,
+sicut sunt qui ei adaequantur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Praetendimus adhuc, nihil quod ex alio acceptum
+sit, ut aliud sit quam id de quo sit acceptum, ita
+<pb n="0771A"/>
+aliud esse, ut non suggerat unde sit
+acceptum. Omnis materia sine testimonio originis
+suae non est, etsi demutetur in novam proprietatem.
+Ipsum certe corpus nostrum, quod de limo figulatum
+ etiam ad fabulas nationum
+veritas transmisit, utrumque originis elementum
+ confitetur: carne, terrenum; sanguine,
+aquenum. Nam, licet alia sit species
+qualitatis, hoc est, quod ex alio aliud fit, caeterum,
+quid est sanguis, quam rubens humor? quid
+caro, quam terra conversa in figuras suas?
+Considera singulas qualitates, musculos ut glebas,
+ossa ut saxa, etiam circum papillas calculos
+quosdam; aspice nervorum tenaces connexus,
+ut traduces radicum et venarum ramosos
+discursus, ut ambages rivorum, et lanugines ut muscos,
+et comam ut cespitem, et ipsos medullarum in
+<pb n="0771B"/>
+abdito thesauros, ut metalla carnis. Haec omnia terrenae
+originis signa et in Christo fuerunt: haec
+sunt quae illum Dei Filium celavere, non alias
+tantummodo hominem existimatum, quam ex
+humani substantia corporis. Aut edite aliquid
+in illo coeleste de Septemtrionibus, et
+<pb n="0772A"/>
+Vergiliis, et Suculis emendicatum. Nam quae
+enumeravimus, adeo terrenae testimonia carnis sunt,
+ut et nostrae. Sed nihil novum, nihil peregrinum deprehendo.
+Denique, verbis tantummodo et factis,
+doctrina et virtute sola Christi, homines obstupescebant.
+Notaretur etiam carnis in illo novitas
+miraculo habita. Sed carnis terrenae non mira
+conditio: ipsa erat, quae caetera ejus miranda faciebat.
+Cum dicerent: <hi>Unde huic doctrina et signa ista?</hi> 
+Etiam despicientium formam ejus haec erat vox.
+Adeo nec humanae honestatis corpus fuit, nedum
+coelestis claritatis. Tacentibus apud nos quoque
+Prophetis de ignobili aspectu ejus, ipsae
+passiones, ipsaeque contumeliae loquuntur: passiones
+quidem, humanam carnem; contumeliae
+vero, inhonestam probavere. An ausus
+esset aliquis unque summo perstringere corpus novum,
+<pb n="0772B"/>
+ sputaminibus contaminare faciem, nisi
+merentem? Quid dicis coelestem carnem, quam
+unde coelestem intelligas, non habes? Quid terrenam
+negas, quam unde terrenam agnoscas, habes?
+Esuriit sub diabolo, sitiit sub Samaritide, lacrymatus
+est super Lazarum, trepidavit ad mortem.
+<pb n="0773A"/> <hi>Caro</hi> 
+ enim, inquit, <hi>infirma.</hi> Sanguinem fudit postremo.
+Haec sunt, opinor, signa coelestia. Sed quomodo,
+inquam, contemni et pati posset, sicut et
+dixi, si quid in illa carne de coelesti generositate
+radiasset? Ex hoc ergo convincimus nihil in illa de
+coelis fuisse, propterea ut contemni et pati posset.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Convertor ad alios aeque sibi prudentes, qui
+carnem Christi animalem affirmant, quod anima caro
+sit facta, ergo et caro anima, et sicut caro animalis,
+ita et anima carnalis. Et hic itaque caussas requiro.
+Si, ut animam salvam faceret, in semetipso suscepit
+animam Christus, quia salva non esset nisi per ipsum,
+dum in ipso; non video cur eam carnem fecerit animalem,
+induendo carnem, quasi aliter animam salvam
+<pb n="0773B"/>
+facere non posset, nisi carneam factam. Cum
+enim nostras animas non tantum non carneas, sed
+etiam a carne disjunctas salvas praestet; quanto
+magis illam, quam ipse suscepit, etiam non carneam
+redigere potuit in salutem! Item cum praesumant
+non carnis, sed animae nostrae solius liberandae
+caussa processisse Christum; primo, quam absurdum
+est, ut animam solam liberaturus, id genus corporis
+eam fecerit, quod non erat liberaturus! Deinde, si
+animas nostras per illam, quam gestavit, liberare
+susceperat, illam quoque, quam gestavit, nostram
+gestasse debuerat, id est, nostrae formae, cujuscumque
+formae est in occulto anima nostra, non tamen
+carneae. Caeterum, non nostram animam liberavit,
+si carneam habuit; nostra enim carnea non est.
+<pb n="0773C"/>
+Porro si non nostram liberavit, quia carneam liberavit,
+nihil ad nos; quia non nostram
+liberavit. Sed nec liberanda erat, quae non erat nostra,
+ut scilicet carnea; non enim periclitabatur, si
+non erat nostra, id est, non carnea. Sed liberatam
+constat illam. Ergo non fuit carnea; et fuit nostra, si
+ea fuit quae liberaretur, quoniam periclitabatur.
+Jam ergo, si anima non fuit carnalis in Christo,
+nec caro potest animalis fuisse.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Sed aliam argumentationem eorum convenimus,
+exigentes, cur animalem carnem subeundo Christus,
+animam carnalem videatur habuisse. Deus enim, inquiunt,
+gestivit animam visibilem hominibus
+exhibere, faciendo eam corpus, quae retro invisibilis
+<pb n="0774A"/>
+extiterit, natura nihil, nec semetipsam videns, prae
+impedimento carnis hujus, ut etiam disceptaretur,
+nata anima an non, mortalis ne sit, an non.
+Itaque animam corpus effectam in Christo, ut eam et
+nascentem et morientem, et, quod sit amplius, resurgentem
+videremus. Et hoc autem quale
+erat, ut per carnem demonstraretur anima sibi
+aut nobis, quae per carnem non poterat agnosci: ut
+sic ostenderetur, dum id fit, cui latebat, id est caro?
+tenebras videlicet accepit, ut lucere posset.
+Denique, adhuc prius retractemus, an isto modo
+ostendenda fuerit anima, an in totum invisibilem
+eam retro allegent; utrum quasi incorporalem, an
+etiam habentem aliquod genus corporis proprii. Et
+tamen cum invisibilem dicant, corporalem eam
+<pb n="0774B"/>
+constituunt, habentem quod invisible sit. Nihil enim
+habens invisibile, quomodo potest invisibilis dici?
+Sed ne esse quidem potest, nisi habens per
+quod sit. Cum autem sit, habeat necesse est aliquid,
+per quod est. Si habet aliquid per quod est, hoc
+erit corpus ejus. Omne quod est, corpus est sui generis:
+nihil est incorporale, nisi quod non est. Habente
+igitur anima invisibile corpus, qui visibilem
+eam facere susceperat, utique dignius id ejus visibile
+fecisset, quod invisibile habebatur, quia nec hic
+mendacium, aut infirmitas Deo competit: mendacium,
+si aliud animam, quam quod erat, demonstravit; infirmitas,
+si id quod erat demonstrare non valuit.
+Nemo ostendere volens hominem, cassidem aut personam
+ei inducit. Hoc autem factum est animae, si
+<pb n="0774C"/>
+in carne conversa alienam induit
+superficiem. Sed et si incorporalis anima deputetur,
+ut aliqua vi rationis occulta sit quidem anima, corpus
+tamen non sit, quidquid est anima; proinde impossibile
+Deo non erat, et proposito ejus congruentius
+competebat, nova aliqua corporis specie eam demonstrare,
+quam ista communi omnium, alterius
+jam notitiae; ne sine caussa visibilem ex invisibili
+facere gestisset animam, istis scilicet quaestionibus
+opportunam, per carnis in illam humanae defensionem.
+Sed non poterat Christus inter homines nisi
+homo videri. Redde igitur Christo fidem suam; ut
+qui homo voluerit incedere, animam quoque humanae
+conditionis ostenderit, non faciens eam carneam,
+sed induens eam carne.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+
+<pb n="0775A"/>
+<p>Ostensa sit nunc anima per carnem, si constiterit
+illam ostendendam quoquo modo fuisse, id est incognitam
+sibi et nobis. Quamquam in hoc vana distinctio
+est; quasi nos seorsum ab anima simus,
+cum totum, quod sumus, anima sit. Denique sine
+anima nihil sumus, ne hominis quidem, sed cadaveris
+nomen. Si ergo ignoramus animam, ipsa se ignorat.
+Itaque superest hoc solummodo inspicere,
+an se anima hic ignorarit, ut nota quoquo modo
+fieret. Opinor, sensualis est animae natura. Adeo,
+nihil animale sine sensu; nihil sensuale sine anima.
+Et ut impressius dixerim, animae anima sensus
+est. Igitur cum omnibus anima sentire praestet, et
+ipsa sentiat omnium etiam sensus, nedum qualitates,
+<pb n="0775B"/>
+qui verisimile est, ut ipsa sensum sui ab
+initio sortita non sit? Unde illi, scire quod interdum
+sibi sit necessarium, ex naturalium necessitate,
+si non scit suam qualitatem, cui quid necessarium
+est? Hoc quidem in omni anima recognoscere est;
+notitiam sui dico; sine qua notitia sui nulla anima
+se ministrare potuisset. Puto autem magis hominem,
+animal solum rationale, compotem et animam
+esse sortitum, quae illum facit animal rationale,
+ipsa in primis rationalis. Porro, quomodo rationalis,
+quae efficit hominem rationale animal, si
+ipsa rationem suam nescit, ignorans semetipsam?
+Sed adeo non ignorat, ut auctorem, et arbitrum, et
+statum suum norit. Nihil adhuc de Deo discens,
+Deum nominat: nihil adhuc de judicio ejus admittens,
+<pb n="0775C"/>
+Deo commendare se dicit. Nihil magis
+audiens, quam spem nullam esse post mortem,
+et bene et male defuncto cuique imprecatur. Plenius
+haec prosequitur libellus quem scripsimus <hi>de Testimonio
+animae.</hi> Alioquin, si anima semetipsam ignorans
+erat ab initio, nihil a Christo cognovisse debuerat,
+nisi qualis esset. Nunc autem non effigiem
+suam discit a Christo, sed salutem. Propterea
+<pb n="0776A"/>
+Filius Dei descendit, et animam subiit; non ut ipsa
+se anima cognosceret in Christo, sed ut Christum
+in semetipsa; non enim se ignorando de salute
+periclitatur, sed Dei Verbum. <hi>Vita,</hi> inquit, <hi>
+            <note>(I Joan. I, 2)</note> 
+ manifestata est;</hi> non anima, <hi>etc.: Veni,
+inquit <note>(Luc. IX, 56)</note>
+          </hi>, <hi>animam salvam facere:</hi> non dixit, <hi>ostendere.</hi> 
+ Ignorabamus nimirum animam, licet invisibilem,
+nasci et mori, nisi corporaliter exhiberetur.
+Ignoravimus plane resurrecturam cum carne. Hoc erit
+quod Christus manifestavit. Sed et hoc non aliter in se,
+quam in Lazaro aliquo, cujus caro non erat animalis, ita
+nec anima carnalis. Quid ergo amplius innotuit nobis
+de animae ignoratae retro dispositione? Quid invisibile
+ejus fuit, quod visibilitatem per carnem desideraret?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+
+<pb n="0776B"/>
+<p>Caro facta est anima, ut anima ostenderetur. Numquid
+ergo et caro anima facta est, ut caro manifestaretur?
+Si caro anima est, jam non anima est, sed
+caro. Si anima caro est, jam non caro est, sed anima.
+ Ubi ergo caro, et ubi anima est, alterutrum
+facta est. Imo si neutrum sunt, dum alterutrum alterum
+fiunt, certe perversissimum, ut carnem nominantes,
+animam intelligamus, et animam significantes,
+carnem interpretemur. Omnia periclitabuntur
+aliter accipi quam sunt, et amittere quod sunt, dum
+aliter accipiuntur, si aliter quam sunt, cognominantur.
+Fides nominum, salus est proprietatum. Etiam
+cum demutantur qualitates, accipiunt vocabulorum
+possessiones. Verbi gratia, argilla excocta testae vocabulum
+<pb n="0776C"/>
+suscipit; nec communicat cum vocabulo
+pristini generis, quia nec cum ipso genere.
+Proinde et anima Christi, caro facta, non potest non
+id esse quod facta est, et id non esse quod fuerit,
+aliud scilicet facta. Et quoniam proximum adhibuimus
+exemplum, plenius eo utemur. Certe enim testa
+ex argilla unum est corpus, unumque vocabulum,
+unius scilicet corporis. Nec potest dici et argilla;
+<pb n="0777A"/>
+quia quod fuit, non est; quod autem non est, omnino
+ non adhaeret. Ergo et anima caro facta, uniformis,
+solidata: scilicet singularitas tota
+est, et indiscreta substantia. In Christo vero invenimus
+animam et carnem simplicibus et nudis vocabulis
+editas, id est animam animam, et carnem carnem;
+nusquam animam carnem, aut carnem animam:
+quando ita nominari debuissent, si ita fuissent: sed
+etiam sibi quamque substantiam divise pronuntiatas
+ab ipso, utique pro duarum qualitatum distinctione,
+seorsum animam, et seorsum carnem.
+Quid <hi>anxia est,</hi> inquit <note>(Matt. XXVI, 38)</note>, <hi>anima mea usque ad mortem?</hi> 
+ et <note>(Joan. VI)</note>: <hi>Panis quem ego dedero pro salute mundi, caro mea
+est.</hi> 
+ Porro, si anima caro fuisset, unum esset in
+<pb n="0777B"/>
+Christo carnea anima, aut caro animalis. At cum
+dividit species, carnem et animam, duo ostendit:
+si duo, jam non unum; si non unum, jam nec anima
+carnalis, nec caro animalis; unum enim est anima
+caro, aut caro anima. Nisi et seorsum aliam gestabat
+animam, praeter eam quae caro erat, et aliam circumferebat
+carnem, praeter illam quae anima erat. Quod
+si una caro, et una anima; illa tristis usque ad mortem,
+et illa panis pro mundi salute; salvus est numerus
+duarum substantiarum, in suo genere distantium,
+excludens carneae animae unicam speciem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+<p>Sed angelum, aiunt, gestavit Christus. Qua ratione?
+Qua et hominem. Eadem ergo est et caussa, ut hominem
+gestaret Christus: salus hominis fuit caussa;
+<pb n="0777C"/>
+scilicet, ad restituendum quod perierat. Homo perierat;
+hominem restitui oportuerat. Ut angelum
+gestaret Christus, nihil tale de caussa est. Nam etsi
+angelis perditio reputatur, <hi>in ignem praeparatum diabolo
+et angelis ejus,</hi> nunquam tamen illis restitutio
+repromissa est. Nullum mandatum de salute angelorum
+suscepit Christus a Patre. Quod Pater neque repromisit,
+neque mandavit, Christus administrare non
+<pb n="0778A"/>
+potuit. Cui igitur rei angelum quoque gestavit, nisi
+ut satellitem fortem, cum quo salutem hominis operaretur?
+Idoneus enim non erat Dei Filius, qui solus
+hominem liberaret, a solo et singulari serpente dejectum?
+Ergo jam non unus Deus, nec unus salutificator,
+si duo salutis artifices, et utique alter altero
+indigens. An vero, ut per angelum liberaret hominem?
+Cur ergo descendit ad id quod per angelum erat expediturus?
+Si per angelum, quid et ipse? Si per se, quid
+et angelus? Dictus est quidem magni consilii angelus,
+id est nuntius; officii, non naturae vocabulo. Magnum
+enim cogitatum Patris, super hominis scilicet restitutione,
+annuntiaturus saeculo erat. Non ideo tamen
+sic angelus intelligendus ut aliqui Gabriel aut
+Michael. Nam et filius a domino vineae mittitur ad
+<pb n="0778B"/>
+cultores, sicut et famuli, de fructibus petitum. Sed
+non propterea unus ex famulis deputabitur filius, quia
+famulorum successit officio. Facilius ergo dicam, si
+forte, ipsum filium angelum, id est nuntium patris,
+quam angelum in filio. Sed cum de filio ipso sit pronuntiatum <note>(Ps. VIII)</note>:
+ <hi>Minuisti cum modicum quid citra angelos,</hi> 
+ quomodo videbitur angelum induisse,
+sic infra angelos diminutus, dum homo fit, qua
+caro et anima et filius hominis? qua autem
+spiritus Dei et virtus altissimi <note>(Luc, I)</note>, non potest
+infra angelos haberi, Deus scilicet et Dei Filius.
+Quanto ergo, dum hominem gestat, minor angelis
+factus est, tanto non, dum angelum gestat. Poterit
+haec opinio Hebioni convenire, qui nudum hominem,
+et tantum ex semine David, id est, non
+<pb n="0778C"/>
+et Dei filium, constituit Jesum, plane Prophetis aliquo
+ gloriosiorem, ut ita in illo angelus
+fuisse dicatur; quemadmodum in aliquo Zacharia.
+Nisi quod a Christo nunquam est dictum: <hi>
+            <note>(Zach. I)</note> 
+ Et ait mihi angelus qui in me loquebatur;</hi> 
+sed nec quotidianum illud omnium Prophetarum: <hi>Haec
+dicit Dominus.</hi> Ipse enim erat Dominus coram, ex
+sua auctoritate pronuntians <note>(Is., I)</note>: <hi>Ego autem dico
+<pb n="0779A"/>
+vobis.</hi> Quid ultra? adhuc Esaiam exclamantem audi <note>(Is.
+LXIII)</note>: <hi>Non angelus, neque legatus, sed ipse Dominus
+salvos eos fecit.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p>Licuit et Valentino, ex privilegio haeretico, carnem
+Christi spiritalem comminisci. Quidvis eam fingere
+potuit, quisquis humanam credere noluit; quando
+(quod ad omnes dictum est) si humana non fuit, nec
+ex homine, non video ex qua substantia ipse
+se, Christus hominem et filium hominis pronuntiarit <note>(Joan., VIII, 40)</note>:
+ <hi>Nunc autem vultis occidere
+hominem veritatem ad vos locutum;</hi> et <hi>(Luc,
+VI, 5)</hi>: <hi>Dominus est sabbati filius hominis.</hi> De ipso
+enim Esaias <note>(Is. LIII, 3)</note>: <hi>Homo in plaga, et sciens
+ferre imbecillitatem;</hi> et Hieremias <note>(Jerem., XVII)</note>: <hi>Et
+<pb n="0779B"/>
+homo est, et quis cognoscet illum?</hi> et Daniel <note>(Dan., VII)</note>:
+ <hi>Et super nubes tanquam filius hominis.</hi> 
+Etiam Paulus apostolus <note>(I Tim., II)</note>: <hi>Mediator Dei et
+hominum, homo Christus Jesus.</hi> Item Petrus in Actis
+Apostolorum <note>(Act., I)</note>: <hi>Jesum Nazarenum, virum
+vobis a Deo destinatum,</hi> utique hominem. Haec sola
+sufficere vice praescriptionis debuerunt ad testimonium
+carnis humanae, et ex homine sumptae, et non spiritalis;
+sicut nec animalis, nec sidereae, nec imaginariae;
+si sine studio et artificio contentionis haereses
+esse potuissent. Nam ut penes quemdam ex Valentini
+factione legi, primo non putant terrenam, et humanam
+ Christo substantiam informatam, ne
+deterior angelis Dominus deprehendatur, qui non terrenae
+carnis extiterunt; dehinc, quod oporteret
+<pb n="0779C"/>
+similem nostri carnem similiter nasci, non de spiritu,
+nec de Deo, sed ex viri voluntate. Et cur non de
+corruptela, sed de incorruptela? Et quare non, sicut
+et illa resurrexit, et in coelo resumpta est, ita et
+nostra, par ejus, statim assumitur? aut cur illa, par
+nostrae, non aeque in terram dissoluta est? Talia et
+ ethnici volutabunt: Ergo Dei Filius in tantum
+humilitatis exhaustus? Et, si resurrexit in exemplum
+spei nostrae, cur nihil tale de nobis probatum est?
+<pb n="0780A"/>
+Merito ethnici talia, sed merito et haeretici. Numquid
+enim inter illos distat, nisi quod ethnici non credendo
+credunt, at haeretici credendo non credunt? Legunt
+denique <note>(Ps. VIII)</note>: <hi>Minorasti eum modico citra angelos,</hi> 
+et negant inferiorem substantiam Christi; nec
+hominem se, sed vermem pronuntiantis <note>(Ps. XXI)</note>;
+qui <hi>
+            <note>(Is., LIII)</note> nec formam habuit, nec speciem;</hi> 
+sed forma ejus ignobilis, despecta citra
+omnes homines; homo in plaga, et sciens ferre imbecillitatem.
+Agnoscunt hominem Deo mixtum, et
+negant hominem. Mortuum credunt, et quod est mortuum,
+ex incorruptela natum esse contendunt: quasi
+corruptela aliud sit a morte. « Sed et nostra caro statim
+resurgere debebat. »  Exspecta: nondum inimicos
+suos Christus oppressit, ut cum amicis de inimicis
+<pb n="0780B"/>
+triumphet.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI.</head>
+<p>Insuper, argumentandi libidine, ex forma ingenii
+haeretici, locum sibi fecit Alexander ille, quasi nos
+affirmemus, idcirco Christum terreni census induisse
+carnem, ut evacuaret in semetipso carnem peccati.
+Quod etsi diceremus, quacunque ratione muniremus
+sententiam nostram, dum ne tanta amentia, qua
+putavit, tanquam ipsam carnem Christi opinemur, ut
+peccatricem, evacuatam in ipso: cum illam et ad
+dexteram Patris in coelis praesidere meminerimus, et
+venturam inde, suggestu paternae claritatis, praedicemus.
+Adeo, ut evacuatam non possumus dicere,
+ita nec peccatricem; nec evacuatam, in qua
+dolus non fuit. Defendimus autem, non carnem
+<pb n="0780C"/>
+peccati evacuatam esse in Christo, sed peccatum carnis;
+non materiam, sed naturam; nec substantiam,
+sed culpam: secundum Apostoli auctoritatem dicentis <note>(Rom., VIII, 3)</note>:
+ <hi>Evacuavit peccatum in carne.</hi> Nam et
+alibi <note>(Ibid.)</note>: <hi>in similitudine,</hi> inquit, <hi>carnis peccati</hi> fuisse
+Christum. Non quod similitudinem carnis acceperit,
+quasi imaginem corporis, et non veritatem; sed similitudinem
+peccatricis carnis vult intelligi; quod ipsa
+non peccatrix caro Christi, ejus fuit par, cujus erat
+<pb n="0781A"/>
+peccatum; genere, non vitio Adae: quando hinc
+etiam confirmamus eam fuisse carnem in Christo,
+cujus natura est in homine peccatrix; et sic in illa
+peccatum evacuatum, quod in Christo sine peccato
+habeatur, quae in homine sine peccato non habebatur.
+Nam neque ad propositum Christi faceret evacuantis
+peccatum carnis, non in ea carne evacuare illud, in
+qua erat natura peccati, neque ad gloriam. Quid enim
+magnum, si in carne meliore, et alterius, id est non
+peccatricis naturae, naevum redemit? Ergo, inquis,
+si nostram induit, peccatrix fuit caro Christi.
+Noli constringere explicabilem sensum. Nostram enim
+induens, suam fecit; suam faciens, non peccatricem
+eam fecit. Caeterum (quod ad omnes dictum sit,
+qui ideo non putant carnem nostram in Christo fuisse,
+<pb n="0781B"/>
+quia non fuit ex viri semine) recordentur Adam ipsum
+in hanc carnem, non ex semine viri factum. Sicut
+terra conversa est in hanc carnem sine viri semine,
+ita et Dei Verbum potuit sine coagulo in ejusdem
+carnis transire materiam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII.</head>
+<p>Sed remisso Alexandro cum suis syllogismis, quos
+in argumentationibus torquet, etiam cum psalmis
+Valentini, quos magna impudentia quasi idonei alicujus
+auctoris interserit, ad unam jam lineam congressionem
+dirigamus, an carnem Christus ex virgine
+acceperit, ut hoc praecipue modo humanam eam constet,
+si ex humana matrice substantiam traxit. Quamquam
+liquit jam et de nomine hominis, et
+de statu qualitatis, et de sensu tractationis, et de
+<pb n="0781C"/>
+exitu passionis humanam constitisse. Ante omnia autem
+commendanda erit ratio quae praefuit, ut Dei Filius de
+virgine nasceretur. Nove nasci debebat novae nativitatis
+dedicator, de qua signum daturus Dominus ab Esaia
+praedicabatur. Quod est istud signum? <hi>Ecce virgo
+concipiet in utero, et pariet filium <note>(Is., VII)</note>
+          </hi>. Concepit
+igitur virgo et peperit Emmanuelem, Nobiscum Deum.
+Haec est nativitas nova, dum homo nascitur in Deo;
+<pb n="0782A"/>
+in quo homine Deus natus est, carne antiqui seminis
+suscepta, sine semine antiquo, ut illam novo semine,
+id est, spiritaliter reformaret exclusis antiquitatis sordibus,
+expiatam. Sed tota novitas ista, sicut et in omnibus,
+de veteri figura est, rationali per virginem dispositione
+ Domino nascente. Virgo erat adhuc terra
+nondum opere compressa, nondum sementi subacta:
+ex ea hominem factum accepimus a Deo in animam
+vivam. Igitur si primus Adam de terra traditur,
+merito sequens, vel novissimus Adam, ut
+Apostolus dixit, proinde de terra, id est, carne nondum
+ generationi resignata, in spiritum vivificantem
+a Deo est prolatus. Et tamen, ne mihi vacet
+incursus nominis Adae, unde Christus
+Adam ab Apostolo dictus est, si terreni non fuit
+<pb n="0782B"/>
+census homo ejus? Sed et hic ratio defendit, quod
+Deus imaginem et similitudinem suam, a diabolo
+captam, aemuia operatione recuperavit. In virginem
+enim adhuc Evam irrepserat verbum aedificatorium
+mortis; in virginem aeque introducendum erat Dei
+Verbum extructorium vitae: ut quod per ejusmodi
+sexum abierat in perditionem, per eumdem
+sexum redigeretur in salutem. Crediderat Eva serpenti:
+credidit Maria Gabrieli. Quod illa credendo
+deliquit, haeccredendo delevit. « Sed Eva nihil
+tunc concepit in utero ex diaboli verbo. »  Imo concepit.
+Nam exinde ut abjecta pareret, et in doloribus pareret,
+verbum diaboli semen illi fuit. Enixa est denique
+diabolum fratricidam. Contra, Maria eum edidit, qui
+carnalem fratrem Israel, interemptorem suum, salvum
+<pb n="0782C"/>
+quandoque praestaret. In vulvam ergo Deus Verbum
+suum detulit, bonum fratrem, ut memoriam mali
+fratris eraderet. Inde prodeundum fuit Christo ad
+salutem hominis, quo homo jam damnatus intraverat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVIII.</head>
+<p>Nunc, ut simplicius respondeamus, non competebat
+<pb n="0783A"/>
+ex semine humano Dei Filium nasci, ne si
+totus esset filius hominis, non esset et Dei filius, nihilque
+haberet amplius Salomone, et amplius
+Jona; et de Hebionis opinione credendus erat. Ergo,
+jam Dei Filius ex Patris Dei semine, id est spiritu,
+ut esset et hominis filius, caro ei sola
+erat ex hominis carne sumenda, sine viri semine.
+Vacabat enim viri semen, apud habentem Dei
+semen. Itaque, sicut nondum natus ex virgine, patrem
+Deum habere potuit sine homine matre;
+aeque, cum de virgine nasceretur, potuit matrem habere
+hominem sine homine patre. Sic denique
+homo cum Deo, dum caro hominis cum spiritu Dei.
+Caro sine semine, ex homine; spiritus cum semine,
+ex Deo. Igitur si fuit dispositio rationis super Filium
+<pb n="0783B"/>
+Dei ex virgine proferendum, cur non ex virgine acceperit
+corpus, quod de virgine protulit? Quia aliud
+est quod a Deo sumpsit. Quoniam, inquiunt, <hi>Verbum <note>(Joan., I)</note> 
+ caro factum est.</hi> Vox ista quid caro factum
+sit contestatur; nec tamen periclitatur, quasi statim
+aliud sit factum caro, et non Verbum. Si ex
+carne factum est verbum caro, aut si ex semine
+ipso factum est, Scriptura dicat. Cum Scriptura
+non dicat, nisi quod sit factum, non et unde sit
+factum; ergo ex alio, non ex semine ipso suggerit
+factum. Si non ex semine ipso, sed ex alio,
+jam hinc tracta, ex quo magis credere congruat, carnem
+factum Verbum, nisi ex carne, in qua et factum
+est, vel quia ipse Dominus sententialiter et definitive
+pronuntiavit <note>(Joan., IV)</note>: <hi>Quod in carne natum est,
+<pb n="0783C"/>
+caro est,</hi> quia ex carne natum est. Sed si de homine
+tantummodo dixit, non et de semetipso, plane nega
+hominem Christum, et ita defende non et in ipsum
+competisse. Atquin subjicit <note>(ibid.)</note>: <hi>Et quod de spiritu
+natum est, spiritus est.</hi> Quia Deus spiritus est, et de
+Deo natus est. Hoc utique vel eo magis in ipsum tendit,
+<pb n="0784A"/>
+si et in credentes ejus. Si ergo et hoc ad ipsum,
+cur non et illud supra? Neque enim dividere potes
+hoc ad ipsum, illud supra ad caeteros homines, qui
+utramque substantiam Christi, et carnis et spiritus,
+non negas. Caeterum, si tam carnem habuit, quam
+spiritum, cum de duarum substantiarum conditione
+pronuntiat, quas et ipse gestat, non potest videri de
+spiritu quidem suo, de carne vero non sua determinasse.
+Ita, cum ipse sit de spiritu Dei, et spiritus
+Deus est, et Deus ex Deo natus ipse est, et ex
+carne hominis, homo in carne generatus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX.</head>
+<p>Quid est ergo, <hi>non ex sanguine, neque ex voluntate
+carnis, neque ex voluntate viri, sed ex Deo nati sunt</hi>?
+Hoc quidem capitulo ego potius utar, cum adulteratores
+<pb n="0784B"/>
+ejus obduxero. Sic enim scriptum esse contendunt: <hi>Non ex sanguine, nec ex carnis voluntate, nec
+ex viri, sed ex Deo natus est,</hi> 
+ quasi supra dictos credentes
+in nomine ejus designet, ut ostendat esse
+semen illud arcanum electorum, et spiritalium,
+quod sibi imbuunt. Quomodo autem ita erit, cum
+omnes qui credunt in nomine Domini, communi lege
+generis humani, ex sanguine, et ex carnis, et ex viri
+voluntate nascantur, etiam Valentinus ipse? Adeo
+singulariter, ut de Domino scriptum est: <hi>Et ex Deo
+natus est.</hi> Merito, quia Verbum Dei, et cum Verbo
+Dei spiritus, et in spiritu Dei virtus, et quidquid Dei
+est Christus. Qua caro autem, non ex sanguine, nec
+ex carnis et viri voluntate: quia ex Dei voluntate
+Verbum caro factum est. Ad carnem enim, non ad
+<pb n="0784C"/>
+verbum pertinet negotiatio formalis nostrae nativitatis,
+quia caro sic habebat nasci, non verbum. Negans
+autem ex carnis quoque voluntate natum, cur
+non negavit etiam ex substantia carnis? Neque enim,
+quia ex sanguine negavit, substantiam carnis renuit,
+sed materiam seminis, quam constat sanguinis esse
+<pb n="0785A"/>
+calorem, ut despumatione mutatam in coagulum
+sanguinis foeminae. Nam ex coagulo in caseo vis est
+substantiae, quam medicando constringit, id est lactis.
+Intelligimus ergo, ex concubitu nativitatem Domini
+negatam, quod sapit voluntas viri et carnis, non ex
+vulvae participatione. Et quid utique tam exaggeranter
+inculcavit, non ex sanguine, nec ex carnis voluntate,
+aut viri, natum; nisi quia ea erat caro, quam
+ex concubitu natam nemo dubitaret? Negans porro
+ex concubitu, non negavit ex carne; imo confirmavit
+ex carne, quia non proinde negavit ex carne, sicut
+ex concubitu negavit. Oro vos, si Dei spiritus non
+de vulva carnem participaturus descendit in vulvam,
+cur descendit in vulvam? potuit enim extra eam fieri
+caro spiritalis simplicius multo, quam intra vulvam
+<pb n="0785B"/>
+fieret extra vulvam. Sine caussa eo se intulit,
+unde nihil extulit. Sed non sine caussa descendit in vulvam:
+ergo ex illa accepit. Quia si non ex illa accepit,
+sine caussa in illam descendit, maxime ejus qualitatis
+caro futurus, quae non erat vulvae, id est spiritalis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX.</head>
+<p>Qualis est autem tortuositas vestra, ut ipsam <hi>ex</hi> 
+syllabam, praepositionis officio adscriptam, auferre
+quaeratis, et alia magis uti, quae in hac specie non invenitur
+penes Scripturas sanctas? <hi>Per</hi> virginem dicitis
+natum, non <hi>ex</hi> virgine; et <hi>in</hi> vulva, non <hi>ex</hi> vulva.
+Quia et angelus in somnis ad Joseph: <hi>Nam quod in
+ea natum est,</hi> inquit <note>(Matth., I)</note>, <hi>de Spiritu Sancto est;</hi> 
+non dixit <hi>ex ea.</hi> Nempe tamen, etsi <hi>ex ea</hi> dixisset, <hi>in
+ea</hi> dixerat: in ea enim erat, quod ex ea erat. Tantumdem
+<pb n="0785C"/>
+ergo, et cum dicit, <hi>in ea,</hi> et <hi>ex ea</hi> consonat;
+quia ex ea erat, quod in ea erat. Sed bene, quod idem
+dicit Matthaeus, originem Domini decurrens ab
+<pb n="0786A"/>
+Abraham usque ad Mariam: <hi>Jacob,</hi> inquit, <hi>generavit
+Joseph, virum Mariae, ex qua nascitur Christus.</hi> Sed et
+Paulus grammaticis istis silentium imponit: <hi>Misit,</hi> 
+inquit <note>(Gal., IV, 4)</note>, <hi>Deus Filium suum factum ex muliere.</hi> 
+Numquid <hi>per mulierem,</hi> aut <hi>in muliere</hi>? Hoc
+quidem impressius, quod <hi>factum</hi> potius dicit, quam <hi>natum:</hi> 
+ simplicius enim enuntiasset <hi>natum. Factum</hi> 
+autem dicendo, et <hi>verbum caro factum est</hi> consignavit,
+et carnis veritatem ex virgine factae asseveravit.
+Nobis quoque ad hanc speciem Psalmi patrocinabuntur,
+non quidem apostatae, et haeretici, et platonici
+Valentini, sed sanctissimi et receptissimi prophetae
+David. Ille apud nos canit Christum, per quem
+se cecinit ipse Christus. Accipe Christum, et audi
+Dominum Patri Deo colloquentem <note>(Ps., XXI)</note>:
+<pb n="0786B"/> <hi>Quia tu es qui avulsisti me ex utero matris meae:</hi> 
+ ecce
+unum. <hi>Et spes mea ab uberibus matris meae; super te
+sum projectus ex vulva:</hi> ecce aliud : <hi>Et ab utero matris
+meae Deus meus es tu:</hi> ecce aliud. Nunc ad
+sensus ipsos decertemus. <hi>Avulsisti me</hi>, inquit, <hi>ex
+utero.</hi> Quid avellitur, nisi quod inhaeret, quod infixum,
+innexum est ei, a quo, ut auferatur, avellitur? Si
+non adhaesit utero, quomodo avulsus est? si adhaesit
+qui avulsus est, quomodo adhaesisset, nisi dum ex
+utero est per illum nervum umbilicarem, quasi
+folliculi sui traducem, adnexus  origini
+vulvae. Etiam cum quid extraneum extraneo
+agglutinatur, ita concarnatur et convisceratur cum
+eo cui agglutinatur, ut cum avellitur, rapiat secum
+ex corpore aliquid a quo avellitur, quasi sequelam
+<pb n="0786C"/>
+quamdam abruptae unitatis, et producis
+mutui coitus. Caeterum quae ubera matris suae nominat?
+Sine dubio, quae hausit. Respondeant obstetrices,
+<pb n="0787A"/>
+medici et physici, de uberum natura, an aliter
+manare soleant, sine vulvae genitali passione, suspendentibus
+ exinde venis sentinam illam inferni
+ sanguinis, et ipsa translatione decoquentibus
+in materiam lactis laetiorem. Inde adeo fit,
+ut uberum tempore, menses sanguinum vacent. Quod
+si Verbum caro ex se factum est, non ex vulvae communicatione,
+nihil operata vulva, nihil functa,
+nihil passa; quomodo fontem suum transfudit in
+ubera, quae, nisi habendo, non mutat? Habere autem
+sanguinem non potuit lacti subministrando, si
+non haberet caussas sanguinis ipsius, avulsionem scilicet
+suae carnis. Quid fuerit novitatis in Christo ex
+virgine nascendi, palam est: scilicet, solummodo hoc,
+quod ex virgine, secundum rationem quam edidimus;
+<pb n="0787B"/>
+et uti virgo esset regeneratio nostra, spiritaliter ab
+omnibus inquinamentis sanctificata per Christum, virginem
+et ipsum, etiam carnaliter, ut ex virginis carne.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXI.</head>
+<p>Si ergo contendunt hoc competisse novitati, ut
+quemadmodum non ex viri semine, ita nec ex virginis
+carne caro fieret Dei Verbum; quare non hoc
+sit tota novitas, ut caro non semine nata,
+carne processerit? Accedant adhuc cominus
+ad congressum: <hi>Ecce,</hi> inquit, <hi>virgo concipiet in utero.</hi> 
+Quidnam? utique Dei Verbum, non viri semen:
+certe ut pareret filium. Nam, <hi>Et pariet,</hi> inquit, <hi>filium.</hi> 
+Ergo, ut ipsius fuit concepisse, ita ipsius est quod
+peperit; licet non ipsius fuerit quod concepit. Contra si
+Verbum ex se caro factum est, jam ipsum se concepit,
+<pb n="0787C"/>
+et peperit, et vacat prophetia. Non enim virgo concepit,
+neque peperit, si non quicquid peperit ex
+verbi concepto, caro ipsius est. Sola haec autem prophetae
+vox evacuabitur? an et angeli, conceptum et
+partum virginis annuntiantis? an et omnis jam Scriptura,
+<pb n="0788A"/>
+quaecumque matrem pronuntiat Christi? Quomodo
+enim mater, nisi quia in utero ejus fuit? Sed nihil
+ex utero ejus accepit, quod matrem eam faceret, in cujus
+utero fuit Hoc nomen non debet caro extranea.
+Matris uterum non appellat, nisi filia uteri, caro. Filia
+uteri porro non est, si sibi nata est. Tacebit igitur
+et Elizabeth prophetam portans jam Domini sui
+conscium infantem, et in super Spiritu Sancto adimpleta.
+Sine caussa enim dicit <note>(Luc., I)</note>: <hi>Et unde mihi, ut
+mater Domini mei ad me veniat</hi>? si Maria non filium,
+sed hospitem in utero gestabat Jesum. Quomodo dicit: <hi>Benedictus 
+ fructus uteri tui?</hi> Quis hic fructus
+uteri, qui non ex utero germinavit; qui non in utero
+radicem egit; qui non ejus est, cujus est uterus? Et
+qui utique fructus uteri? Christus. An quia ipse est
+<pb n="0788B"/>
+flos de virga profecta ex radice Jesse; radix autem
+Jesse, genus David; virga ex radice, Maria ex
+David? Flos ex virga, filius Mariae, qui dicitur Jesus
+Christus, ipse erit et fructus. Flos enim fructus:
+quia per florem, et ex flore, omnis fructus eruditur in
+fructum. Quid ergo? negant et fructui suum florem,
+et flori suam virgam et virgae suam radicem, quo minus
+suam radix sibi vindicet per virgam proprietatem
+ejus quod ex virga est, floris et fructus. Siquidem
+omnis gradus generis ab ultimo ad principalem recensetur,
+ut jam nunc carnem Christi, non tantum Mariae,
+sed et David per Mariam, et Jesse per David,
+sciant adhaerere. Ideo hunc fructum ex lumbis David,
+id est, ex posteritate carnis ejus jurat illi Deus concessurum
+in throno ipsius. Si ex lumbis David, quanto
+<pb n="0788C"/>
+magis ex lumbis Mariae, ob quam in lumbis David!</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXII.</head>
+<p>Deleant igitur et testimonia daemonum filium
+David proclamantia Jesum: sed testimonia Apostolorum
+delere non poterunt, si daemonum indigna
+<pb n="0789A"/>
+sunt. Ipse imprimis Matthaeus, fidelissimus
+Evangelii commentator, ut comes Domini, non aliam
+ob caussam, quam ut nos originis Christi carnalis
+compotes faceret, ita exorsus est: <hi>Liber geniturae Jesu
+Christi, filii David, filii Abraham.</hi> His originis fontibus
+genere manante, cum gradatim ordo deducitur
+ad Christi nativitatem, quid aliud quam caro ipsa
+Abrahae et David, per singulos traducem sui faciens,
+in virginem usque describitur inferens Christum,
+imo ipse Christus proditur de virgine? Sed et
+Paulus, utpote ejusdem Evangelii et discipulus et
+magister, et testis, qua ejusdem ipsius
+Christi apostolus, confirmat Christum ex semine David
+secundum carnem, utique ipsius. Ergo ex semine
+David caro Christi. Sed secundum Mariae carnem, exsemine
+<pb n="0789B"/>
+David: ergo ex Mariae carne est, dum ex semine
+est David. Quocumque detorseris dictum, aut
+ex carne est Mariae, quod ex semine est David; aut
+ex David semine est, quod ex carne est Mariae. Totam
+hanc controversiam dirimit idem Apostolus,
+ipsum definiens esse Abrahae semen. Cum Abraham,
+utique multo magis David, quasi recentioris. Retexens
+enim promissionem benedictionis nationum in
+nomine Abraham: <hi>Et in semine tuo benedicentur
+omnes nationes: non,</hi> inquit, <hi>dixit, Seminibus, tanquam
+de pluribus; sed Semine</hi>, <hi>tanquam de uno,
+quod est Christus.</hi> Qui haec legimus et credimus, quam
+debemus et possumus agnoscere in Christo carnis
+qualitatem? Utique non aliam, quam Abraham; siquidem
+semen Abraham Christus: nec aliam, quam
+<pb n="0789C"/>
+Jesse, siquidem ex radice Jesse flos Christus: nec
+aliam, quam David, siquidem fructus ex lumbis David,
+Christus: nec aliam quam ex Maria, siquidem
+ex Mariae utero, Christus. Et adhuc superius: nec
+aliam quam Adam, siquidem secundus Adam, Christus.
+Consequens ergo est, ut aut illos spiritalem
+carnem habuisse contendant, quo eadem conditio
+substantiae deducatur in Christo: aut concedant carnem
+Christi spiritalem non fuisse, quae non de spiritali
+stirpe censetur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIII.</head>
+<p>Sed agnoscimus adimpleri propheticam vocem Simeonis,
+<pb n="0790A"/>
+super adhuc recentem infantem Dominum pronuntiatam <note>(Luc. II)</note>:
+ <hi>Ecce hic positus est in ruinam et suscitationem
+multorum in Israel, et in signum quod contradicetur.</hi> 
+ Signum enim nativitatis Christi, secundum
+Esaiam: <hi>Propterea dabit vobis Dominus ipse signum:
+ecce virgo concipiet in utero, et pariet filium.</hi> 
+Agnoscimus ergo signum contradicibile, conceptum
+et partum virginis Mariae; de quo Academici isti, Peperit,
+et non peperit; Virgo, et non virgo: quasi
+non, etsi ita dicendum esset, a nobis magis dici conveniret.
+Peperit enim, quae ex sua carne; et non peperit,
+quae non ex viri semine. Et virgo, quantum
+a viro; non virgo, quantum a partu. Non tamen
+ut ideo, peperit, et non peperit; et ideo,
+Virgo, quae non virgo, quia non de visceribus suis
+<pb n="0790B"/>
+mater. Sed apud nos nihil dubium, nec retortum in
+ancipitem defensionem. Lux, lux; et tenebrae, tenebrae,
+et Est, est; et, Non, non. Quod amplius, hoc a
+malo est. Peperit, quae peperit. Et si virgo concepit,
+in partu suo nupsit, ipsa patefacti corporis
+lege, in quo nihil interfuit, de vi masculi admissi,
+an emissi, idem illud sexus resignaverit.
+Haec denique vulva est propter quam et de
+aliis scriptum est: <hi>Omne masculinum adaperiens vulvam,
+sanctum vocabitur Domino.</hi> Quis vere sanctus,
+quam Dei Filius? Quis proprie vulvam adaperuit,
+quam qui clausam patefecit? Caeterum, omnibus nuptiae
+patefaciunt. Itaque magis patefacta est, quia magis
+erat clausa. Utique magis non virgo dicenda
+est, quam virgo, saltu quodam mater ante, quam
+<pb n="0790C"/>
+nupta. Et quid ultra de hoc retractandum est, cum
+hac ratione Apostolus, non ex virgine, sed ex muliere
+editum Filium Dei pronuntiavit, agnovit adapertae
+vulvae nuptialem passionem? Legimus quidem
+apud Ezechielem de vacca illa quae peperit, et non
+peperit. Sed videte, ne vos jam tunc providens
+Spiritus Sanctus notarit hac voce, disceptaturos super
+uterum Mariae. Caeterum, non contra illam suam
+simplicitatem, pronuntiasset dubitative, Esaia dicente <note>(Is., VI)</note>:
+ <hi>Concipiet, et pariet.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIV.</head>
+<p>Quod enim Esaias jaculatur insuggillatione haereticorum
+<pb n="0791A"/>
+ipsorum, et imprimis <note>(Is., V)</note>: <hi>Vae qui
+faciunt dulce amarum, et tenebras lucem;</hi> istos
+scilicet notat, qui nec vocabula ista in luce proprietatum
+suarum conservant; ut anima non alia
+sit, quam quae vocatur, et caro non alia quam quae
+videtur, et Deus non alius, quam qui praedicatur.
+Ideo etiam Marcionem prospiciens: <hi>Ego sum,</hi> inquit <note>(Is., XLV)</note>,
+ <hi>Deus, et alius absque me non est.</hi> Et cum
+in alio idipsum eodem modo dicit: <hi>Ante me
+Deus non fuit,</hi> nescio quas illas Valentinianorum
+Aeonum genealogias pulsat. Et, <hi>Non ex sanguine, neque
+ex carnis et viri voluntate, sed ex Deo <note>(Joan., I)</note> natus
+est,</hi> Hebioni respondit. Aeque, <hi>Etiamsi angelus de
+coelo aliter evangelizaverit vobis quam nos, anathema
+sit <note>(Gal., I)</note>
+          </hi>; ad energema Apelleiacae virginis
+<pb n="0791B"/>
+Philumenes filum dirigit. Certe, <hi>qui negat Christum
+in carne venisse, hic antichristus est <note>(I Joan.,
+IV)</note>
+          </hi>. Nudam et absolutam et simplici nomine naturae
+suae pronuntians carnem, omnes disceptatores ejus
+ferit. Sicut et definiens ipsum quoque Christum
+unum, multiformis Christi argumentatores quatit,
+qui alium faciunt Christum, alium Jesum; alium
+elapsum de mediis turbis, alium detentum; alium in
+secessu montis, in ambitu nubis sub tribus arbitris
+clarum; alium caeteris passivum, ignobilem; alium
+magnanimum, alium vero trepidantem; novissime,
+<pb n="0792A"/>
+alium passum, alium resuscitatum; per quod suam
+quoque in alia carne resurrectionem adseverant. Sed
+bene, quod idem veniet de coelis, qui est passus; idem
+omnibus apparebit, qui est resuscitatus. Et <hi>videbunt</hi> 
+et agnoscent, <hi>qui eum confixerunt <note>(Zach., XI;
+Joan., XIX)</note>
+          </hi>: utique ipsam carnem, in quam saevierunt;
+sine qua, nec ipse esse poterit, nec agnosci.
+Ut et illi erubescant, qui affirmant carnem in coelis
+vacuam sensu, ut vaginam exempto Christo sedere:
+aut qui carnem et animam tantumdem, aut tantummodo
+animam, carnem vero non jam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXV.</head>
+<p>Sed hactenus de materia praesenti satis. Jam enim
+arbitror instructam esse carnis in Christo, et ex virgine
+<pb n="0792B"/>
+natae, et humanae probationem. Quod et solum
+discussum sufficere potuisset, citra singularum ex
+diverso opinionum congressionem; quam et argumentationibus
+earum, et scripturis quibus utuntur,
+provocavimus ex abundanti, uti eo, quod probavimus,
+quid et unde fuerit Christi caro, quid non
+fuerit, adversus omnes praejudicaverimus. Ut
+autem clausulam de praefatione communi faciat
+resurrectio carnis nostrae, alio libello defendenda,
+hic habebit praestructionem; manifesto
+jam, quale fuerit quod in Christo resurrexit.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

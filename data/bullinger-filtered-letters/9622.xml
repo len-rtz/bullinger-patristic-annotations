@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9622" type="Beilage" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ludwig von Wittgenstein (Sayn-Wittgenstein)] / [Heidelberg] an [Heinrich Bullinger] / [Zürich], 1. April 1574</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/9622</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="44022" type="transcription">S. 8260/30</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Beilage" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 348,64a</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 348,64b</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>De adulterio primum quaeritur, cum iuxta Severi rescriptum</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8030" cert="low"/>
+					<placeName ref="l210" cert="low"/>
+					<date when="1574-04-01" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low"/>
+					<placeName ref="l587" cert="low"/>
+				</correspAction>
+				<correspContext>
+					<ref type="parent" target="file9621"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9622!Autograph!00%20E_II_348__fol__64_a_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">9622/Autograph/00 E_II_348__fol__64_a_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9622!Autograph!01%20E_II_348__fol__64_a_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">9622/Autograph/01 E_II_348__fol__64_a_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">De adulterio primum quaeritur, cum iuxta <persName ref="p18989">Severi</persName> rescriptum qualecunque matrimonium imo in desponsata etiam violari non debeat et adulterium sit, an, si vir coniugatus solutam corrumpat, adulterium sit et dici possit, quod iurisconsulti negant.</s>
+					<s n="2" xml:lang="la">Secundo quaeritur, an ad imparia vir et uxor iudicari debeant, cum et in hoc <placeName ref="l425">Romanae</placeName> leges divinis non consentiant.</s>
+					<s n="3" xml:lang="la">Tertio, cui accusandi adulteros et adulteras concessa sit facultas et utrum, si maritus sciens adulteram et contra retinendo ferat, magistratus, ad quem rumore percrebescat, accusare debeat vel possit.</s>
+					<s n="4" xml:lang="la">Quarto, an magistratus adulterii vitium poena persequi possit et iure debeat, item quo poenarum genere plectendi adulter et adultera, in quo et leges et consuetudo variant.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la">Quinto, an reconciliatio interponi possit et quis reconciliationis modus.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Hi sunt articuli quęstionis de adulteris a quodam bono viro memoriae gratia notata.</s>
+				</p>
+				<p>
+					<note type="address">[ohne Adresse, nur ein Zettel.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

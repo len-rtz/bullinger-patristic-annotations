@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9914" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johann Konrad Ulmer (von Ulm, ab Ulmis)] / [Schaffhausen] an [Heinrich Bullinger], 4. März 1575</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/9914</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="45014" type="transcription">S. 8382/16</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 375,906</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>ago tibi meo fratrumque nonine gratias, quas possum, maximas, quod ea communicasti liberaliter</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8109" cert="low"/>
+					<placeName ref="l441" cert="low"/>
+					<date when="1575-03-04" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t2"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9914!Autograph!00%20E_II_375__fol__906_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">9914/Autograph/00 E_II_375__fol__906_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!9914!Autograph!01%20E_II_375__fol__906_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">9914/Autograph/01 E_II_375__fol__906_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Clarissime vir et pater in Christo colendissime, ago tibi meo fratrumque nomine gratias, quas possum, maximas, quod ea communicasti liberaliter et benigne, quae maerito fidis dei servis syncerae doctrinae amantibus impartienda erant, ut, si non labore, at votis tamen suis optimam causam promovere queant.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la">Non est vero, quod vereare, ne illa arcana, quae occulta et in sinu nostro reposita esse vis, evulgentur.</s>
+					<s n="4" xml:lang="la">Quae enim communicanda fratribus iudico, ea illis in manus non trado, sed praelegendo impartio.</s>
+					<s n="5" xml:lang="la">Qare, ut integram historiam cognoscamus, si quid deinceps oblatum actumque fuerit, submisse oro, ut, quantum licebit, tantum nobis etiam communicare digneris.</s>
+					<s n="6" xml:lang="la">Caeterum doleo tanta te excusatione apud me uti, quod respondendi tempus (ut tu quidem arbitraris, ego vero non agnosco) transgressus fueris; nolo tibi, ne unius quidem momenti molestiam mea causa facias.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Gravis prudens et erudita vestra responsio ad scriptum ecclesiastici apud <placeName ref="l210">Heidelbergenses</placeName> senatus nobis probat, praesertim in eo, quod et <placeName ref="l41">Bernates</placeName> monuerunt, ubi non in universum omnem synodum repudiatis, sed ad liberam et christianam vos ingenue offertis.</s>
+					<s n="8" xml:lang="la">Caetera domino commendanda sunt, qui aequissimus iudex suis optimis tandem rationibus nostra certamina dirimet suamque causam ipse iustissimus patronus defendet.</s>
+					<s n="9" xml:lang="la"><persName ref="p18346">Theodoreti</persName> exempla quottidie expecto sicut et exempla Apologiae vestrae, d. <persName ref="p8033">Bezae</persName> et <placeName ref="l210">Heidelbergensium</placeName>.</s>
+					<s n="10" xml:lang="la">Vere de legatione in <placeName ref="l832">Galliam</placeName> mittenda scribis.</s>
+					<s n="11" xml:lang="la">quod compositio sit ex integro et corrupto expectanda.</s>
+					<s n="12" xml:lang="la">Minus curarem pontificiorum artes; magis me nostrorum, qui legationem ambiunt, levitas et Epicureismus excruciat, qui revera magis aureas cathenas quam christianam pacem in <placeName ref="l832">Gallia</placeName> et nostrae religionis exibilationem venantur, ne quid gravius et tuis auribus molestius scribam.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" ana="salute">Remitto, quae communicasti, absque macula omnia tuam humanitatem orans, ut nominatim omnes collegas meo fratrumque nomine salutare digneris.</s>
+					<s n="14" xml:lang="la">4. martii 1575.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Tuus <persName ref="p8109">Iohannes Conradus Ulmerus</persName>.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la">Clarissimo viro atque eximio Iesu Christi servo domino <persName ref="p495">Henrico Bullingero</persName> seniori, ecclesiae <placeName ref="l587">Tigurinae</placeName> antistiti fidelissimo, domino et patri suo in Christo colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

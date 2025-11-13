@@ -1,0 +1,2130 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Elia et jejunio</title>
+              <author ref="http://viaf.org/viaf/100227669">Ambrosius Mediolanensis<date>340-397</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 14</title>
+           <idno>AmbMed.DeElEtJ</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De Elia et jejunio</head>
+
+<pb n="0697"/>
+<emph>535</emph> 
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p divs_removed="true"> <hi>Sicut olim Patres, cum progrederentur ad bellum, atque
+in neomeniis diebusque laetitiae tuba canebant;
+ita et nobis diebus jejunii, paschalique festo appropinquantibus
+tuba canendum.</hi> 
+<pb n="0697A"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ Divinum ad patres resultavit oraculum, ut cum
+egrederentur ad bellum, tuba canerent <note>(Num. X,
+9)</note>, cujus sonitu Dominus reminisceretur populi sui,
+quo petitum conferret auxilium plus quae misericordiae
+suae incentiva cognoscens; et in diebus laetitiae
+suae, in neomeniis suis concinerent tubarum
+sono. Unde et David dicit: <hi>Canite in initio mensis
+tuba in die frequenti solemnitatis vestrae <note>(Psal. LXXX,
+4)</note>
+              </hi>. Veniet igitur nobis dies solemnitatis, et jam appropinquat.
+Canamus tuba tamquam in praelium progredientes.
+<pb n="0697B"/>
+Canamus tuba, ut annuntiemus solemnitatis
+diem, simul nobis et certamen imminet, et victoria
+repromittitur. Victoria nostra, crux Christi est:
+tropaeum nostrum, pascha est Domini Jesu. Sed ille
+ante est praeliatus, ut vinceret, non quod ipse egeret
+certamine; sed ut nobis formam bellandi ante praescriberet,
+et postea daret gratiam triumphandi. Certamen
+nostrum, jejunium est. Denique jejunavit
+Salvator, et sic tentator ad eum accessit. Et primum
+gulae direxit spiculum dicens: <hi>Si Filius Dei es, dic
+lapidi huic, ut panis fiat <note>(Luc. IV, 3)</note>
+              </hi>. Ille cibum velut
+escam laquei praetendit, ut sic illaquearet appetentiam
+corporalem: Dominus jejunium praetulit, ut
+<pb n="0698A"/>
+laqueos tentatoris, ut vincula dissolveret. Denique
+sic habes scriptum: <hi>Non in solo pane vivit homo,
+sed in omni verbo Dei <note>(Ibid., 4)</note>
+              </hi>. Illo laqueo Adam
+fuerat <emph>536</emph> strangulatus, hac absolutione diabolicae
+quaestionis omnis homo est liberatus.</p>
+          </div3>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Quam magna virtus sit jejunii, quamque speciosa ac
+valida ejus militia, exemplo Christi atque sancti Eliae
+comprobatur.</hi> </p>
+<div3>
+            <head>2.</head>
+            <p>
+ Magna virtus est jejunii. Denique tam speciosa
+ejus militia est, ut jejunare delectaret et Christum:
+tam valida, ut ad coelum homines erigeret. Et ut humanis
+magis quam divinis utamur exemplis, de
+Eliae jejuno ore vox emissa coelum clausit sacrilego
+populo Judaeorum <note>(III Reg. XVII, 1)</note>. Etenim cum a
+<pb n="0698B"/>
+rege Achab altare esset idolo constitutum, ad verbum
+prophetae tribus annis et sex mensibus ros pluviae
+non cecidit super terram. Digna poena quae intemperantiam
+congrue coerceret; ut coelum impiis
+clauderetur, qui terrena polluerant. Dignum etiam,
+ut ad condemnationem regis sacrilegi propheta ad
+viduam in Sareptam Sidoniae mitteretur, quae quoniam
+devotionem cibo praetulit, meruit ut ariditatis
+publicae sola non sentiret aerumnam. Itaque non defecit
+ hydria polentae, cum torrentis fluenta deficerent.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Quid ejus reliqua contexam? Jejunus filium viduae
+ab inferis resuscitavit: jejunus pluvias ore deposuit:
+<pb n="0699A"/>
+jejunus ignes de coelo eduxit: jejunus curru
+raptus est ad coelum: et quadraginta dierum jejunio
+divinam acquisivit praesentiam. Tunc denique plus
+meruit, quando plus jejunavit. Jejuno ore statuit
+fluenta Jordanis, et redundantem fluminis alveum
+repente siccatum pulverulento transmisit vestigio.
+Merito illum dignum coelo divina judicavit sententia,
+ut cum ipso raperetur corpore; quoniam coelestem
+vitam vivebat <emph>537</emph> in corpore, ac supernae usum
+conversationis exhibebat in terris.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Jejunii commendatio: deque jejunio sancti Joannis;
+et qualis esca a nobis quaerenda sit.</hi> </p>
+<div3>
+            <head>4.</head>
+            <p>
+ Quid est enim jejunium, nisi substantia, et
+<pb n="0699B"/>
+imago coelestis? Jejunium refectio animae, cibus
+mentis est jejunium, vita est angelorum jejunium,
+culpae mors, excidium delictorum, remedium salutis,
+radix gratiae, fundamentum est castitatis. Hoc
+ad Deum gradu citius pervenitur: hoc gradu Elias
+ascendit, antequam curru. Hanc haereditatem sobrietatis
+et abstemiae ad coelum abiens discipulo dereliquit.
+In hac virtute et spiritu Eliae venit Joannes.
+Denique in deserto et ille vacabat jejuniis. Esca
+autem ejus erat locusta, et mel silvestre. Et ideo
+quia vitae humanae possibilitatem continentia supergressus
+fuerat, non homo, sed angelus aestimatus
+est. De ipso legimus: <hi>Etiam plusquam propheta. Hic
+est de quo scriptum est: Ecce mitto angelum meum
+ante faciem tuam, qui praeparabit viam tuam ante te</hi> 
+<pb n="0699C"/> <note>(Matth. XI, 9 et 10)</note>.
+Quis humana virtute equos
+igneos, currus igneos potuisset ascendere, regere
+currus aereos, nisi qui naturam humani corporis,
+incorruptibilis jejunii virtute mutasset?</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Sed de Eliae gestis plurima jam frequenti diversorum
+librorum sermone digessimus; et cavendum
+arbitror ne in eadem recurramus, cum praesertim in
+opere suo ipse laudetur. Imitemur ergo illum, et
+eam escam quaeramus, cujus virtute diebus ac noctibus
+progredi ad supernorum possimus cognitionem.
+Non enim omnis esca materialis, nec omnis
+cibus corporalis; est cibus mentis, ut diximus, quo
+epulantur animae, de quo ait Dominus: <hi>Meus cibus
+est ut faciam voluntatem Patris mei qui in coelis est <note>(Joan. IV, 34)</note>
+            </hi>.
+Hic cibus angelorum est, ut divino
+<pb n="0699D"/>
+famulentur imperio. Nulla illis cura mensarum,
+nullus conviviorum usus, nullae repositae epulae,
+nullus vini potus aut sicerae, nulla distentio corporis,
+nulla ventris offensio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>De origine et antiquitate jejunii, a quo primus usus
+mundi coepit, de quo prima lex in paradiso constituta
+fuit; quod tandem quos gula denudaverit,
+operit.</hi> 
+<pb n="0700A"/>
+          </p>
+<div3>
+            <head>6.</head>
+            <p>
+ Itaque ne terrenum quis, aut novellum putet
+esse jejunium, primus usus mundi a jejunio coepit,
+quando lux clara resplenduit <note>(Gen. I, 3 et seq.)</note>. Secundus
+dies in jejunio, quando coeli factum est firmamentum.
+Tertio die pabulum terra germinavit,
+natura obsequium praebuit, jejunium tamen coelestis
+disciplina servabat. Quarto die luminaria facta sunt
+solis et lunae, et adhuc jejunium. Quinto die preduxerunt
+aquae repentia animarum viventium, et
+volatilia volantia super terram secundum firmamentum
+coeli: et vidit Deus quia bona, et benedixit ea,
+dicens: <hi>Crescite et multiplicamini, et replete aquas
+quae sunt in</hi> <emph>538</emph> <hi>mari: et volatilia multiplicentur
+<pb n="0700B"/>
+super terram <note>(Ibid., 22)</note>
+            </hi>. Et adhuc jejunium. Denique
+benedixit ea, sicut scriptum est, et dixit: <hi>Crescite,</hi> 
+et non dixit: Edite et manducate. Sexto die
+bestiae sunt creatae <note>(Dist. 35, c. Sexto die)</note>, et cum
+bestiis orta edendi potestas est, et usus escarum.
+Ubi cibus coepit, ibi finis factus est mundi. Ubi coepit
+sua incrementa nescire, ibi coeperunt divina
+circa eum opera feriari. Quo indicio declaratum est
+quod per cibos mundus haberet imminui, per quos
+desiit augeri. Nemo delictum sciebat, nemo poenam
+timebat, nemo noverat mortem.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Plantavit Dominus paradisum ad gratiam beatorum,
+posuit ibi hominem operari, et custodire
+eum. Et ut sciamus <note>(Dist. et cap. iisdem, § Et ut
+sciamus)</note> non esse novellum jejunium, primam illic
+<pb n="0700C"/>
+legem constituit de jejunio. Sciebat enim quod per
+escam culpa haberet intrare. Prima poena de jejunii
+praevaricatione intraverat, dicente mandato Dei: <hi>De
+ligno quod est scientiae boni et mali non comedetis:
+qua die autem manducaveritis ex eo, morte moriemini <note>(Gen. II, 17)</note>
+            </hi>.
+Eo usque autem <note>(Dist. et cap. iisdem,
+§ Eo usque)</note> nemo praevaricari noverat, ut adhuc
+orta non esset, quae prima est praevaricata indictum
+abstinentiae. Lex a Domino Deo, praevaricatio
+legis a diabolo: culpa per cibum, latebra post
+cibum. Cognitio infirmitatis in cibo, virtus firmitatis
+in jejunio. Denique quamdiu interdictis abstinuere,
+nesciebant esse se nudos: posteaquam manducaverunt
+de interdicta arbore, nudatos esse se cognoverunt.
+Merito ergo mulier ubi culpae agnovit auctorem,
+<pb n="0700D"/>
+interrogata respondit: <hi>Serpens persuasit mihi,
+et manducavi <note>(Gen. III, 13)</note>
+            </hi>. Serpens gulam suadet,
+Dominus jejunare decernit <note>(Dist. et cap. iisdem, §
+Serpens)</note>. Denique ipse ait: <hi>Jejunate et orate, ne
+intretis in tentationem <note>(Matth. XXVI, 41)</note>
+            </hi>. Itaque gula
+de paradiso regnantem expulit, abstinentia ad paradisum
+revocavit errantem.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Et dixit Deus: <hi>Ecce Adam factus est quasi
+<pb n="0701A"/>
+unus ex nobis <note>(Gen. III, 22)</note>
+            </hi>. Irridens utique Deus,
+non approbans dicit, hoc est: Putabas te similem
+fore nostri: sed quia voluisti esse quod non eras,
+destitisti esse quod eras: intra te eras, et dum
+supra te esse affectas, infra te esse coepisti. Denique
+vestivit eum tunica pellicea prius, et sic ait: <hi>Ecce
+Adam,</hi> quasi dicat: Ecce amictus tuus, ecce dignum
+indumentum tuum, hic te vestitus decet. Qui divina
+affectant, tali digni habentur ornatu. Ecce quo te
+tua culpa deduxit, ecce nunc in hac tunica pellicea
+tamquam unus ex nobis aperuisti oculos. Circumspice
+diligenter, nudum te aspicis, quem vestitum
+putabas.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Gula ergo nudos facit, jejunia operiunt etiam
+exutos. Unde David ait: <hi>Operui in jejunio animam
+<pb n="0701B"/>
+meam <note>(Ps. LXVIII, 11)</note>
+            </hi>. Bonum operimentum, quod animam
+tegit, ne a tentatore deprehendatur, ne a tentatore
+nudetur. Bonum velamen quod tegit culpam,
+tegit abstinentia, tegit gratia. Beati enim quorum
+remissae sunt iniquitates, et quorum tecta sunt peccata.
+Tegit gratia, dum remittit, et omnem abolet errorem:
+tegit abstinentia, dum obumbrat vitium, et moesto
+abscondit affectu, atque extenuat poenitendo. Etenim
+jejunium et <emph>539</emph> eleemosyna a peccato liberant.
+Opertus erat Adam virtutum velamine priusquam
+praevaricaretur, sed tamquam exutus praevaricatione,
+vidit se esse nudum; quia indumentum quod habebat,
+amiserat. In diebus enim jejuniorum vestrorum <hi>orietur,</hi> 
+ inquit, <hi>tibi matutinum lumen tuum, et sanitas
+tua matura orietur, et praecedet ante te justitia,
+<pb n="0701C"/>
+et circumdabit te majestas Domini <note>(Esai. LVIII, 8)</note>
+            </hi>.
+Bonum vestimentum lux. Scriptum est enim: <hi>Circumdatus
+luce sicut vestimento <note>(Ps. CIII, 2)</note>
+            </hi>. Bonum
+vestimentum; quando circumdat Dominus et operit
+jejunantes.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Noe quod inebriatus fuerit, ob ignorantiam excusatur:
+et quae mala ex vini usu nata sint, quaeve bona ex
+ejusdem abstinentia, propositis utrinque exemplis
+declaratur.</hi> </p>
+<div3>
+            <head>10.</head>
+            <p>
+ Nudatus erat Noe quando inebriatus est, texit
+eum pietas filiorum. Sed nudatus erat per ignorantiam,
+non per intemperantiam; adhuc enim vinum
+nesciebatur. In principio generis humani ignorabatur
+<pb n="0701D"/>
+ebrietas <note>(Dist. 35, cap. Sexto die, § In principio)</note>.
+Primus ipse plantavit vineam: dedit naturam, sed
+ignoravit potentiam. Itaque vinum nec suo pepercit
+auctori. Quid mirum si cum Dominus ipse creaturas
+suas laudaverit, et iste miratus est? Itaque cum
+eum delectaret reperti muneris gratia, tentavit vehementior
+creatura insuetos senis artus, turbavit nova
+<pb n="0702A"/>
+potio. <hi>Dormitaverunt,</hi> inquit, <hi>qui ascenderunt equos <note>(Psal. LXXV, 7)</note>
+            </hi>.
+Ascendit corporis voluptates justus,
+et obdormivit. Sed illius ebrietas nobis suadet sobrietatem <note>(Dist. et cap. iisdem, § Sed illius)</note>.
+Semel
+enim inebriatus est Noe. Ubi vero malum ebrietatis
+agnovit, inventum suum ad remedium temperavit,
+non effudit ad vitium. Unde et Apostolus ait: <hi>Modico
+vino utere propter frequentes tuas infirmitates <note>(I Tim. V, 23)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Manebat antequam vinum inveniretur, omnibus
+inconcussa libertas, nemo sciebat a consorte
+naturae suae obsequia servitutis exigere. Non esset
+hodie servitus, si ebrietas non fuisset. Obrepserat
+quidem jam fraternae praelationis invidia, manebat
+tamen adhuc paternae pietatis reverentia. Laesa pietas
+<pb n="0702B"/>
+est, dum ridetur ebrietas. Non illis itaque solis
+nocent vina quos tentant, sed et illis amplius quorum
+oculis temulenta ebriorum membra nudantur.
+Hinc risus irreverens nascitur, hinc libido inflammatur;
+ut multo majore temulentia eos vina perturbent,
+quorum oculos ac mentes inebriaverint, quam
+quorum membra prostraverint.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Legimus etiam <note>(Dist. et cap. iisdem, § Legimus)</note> 
+quod patrem Lot inebriaverint filiae in eo monte <note>(Gen. XIX, 33 et seq.)</note>,
+ad quem timentes incendia
+Sodomitana confugerant, et habitabant in spelunca.
+Convenit ebrietati atque concurrit aetas, sexus, solitudo,
+locus, ferarum magis latibulis, quam humanis
+aptior domiciliis. Fuit itaque ebrietas origo incesti,
+pessimae generatricis partus deterior.
+<pb n="0702C"/>
+</p>
+          </div3>
+<div3>
+            <head>13. </head>
+            <p>
+At non Abraham vina in suo convivio ministrabat:
+sed immolabat vitulum, butyrum, et <emph>540</emph> 
+lac etiam angelis hospitibus exhibebat. Coeli dominum,
+mundi agnoscebat auctorem: vinum tamen
+exhibere non poterat. Sed recte illic deerat materia
+peccati, ubi erat remissio peccatorum.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Denique annuntiavit eum Joannes neque
+manducans panem, neque bibens vinum. Qui enim
+Christum annuntiat, ab omni vitiorum incentivo
+praestare se debet alienum. Vicit igitur sanctum
+Noe, vel etiam Lot Abrahae nepotem ebrietas, quorum
+alter cum jejunaret, diluvio superstes fuit, alter
+incendio.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Moysen quoque cognovimus sitienti populo
+amaritudines aquarum temperasse, non vina. Cui
+<pb n="0702D"/>
+petra aquam vomuit, potuit et vini abundantia non
+deesse. Denique dixit Deus: <hi>Percuties petram, et
+exiet aqua ex ea, et bibet populus <note>(Exod. XVII, 6)</note>
+            </hi>.
+Non dixit: Exiet vinum in populo. Periculosum
+enim erat vinum populo ministrare, quod fortiores
+ferre vix possent.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>De lege jejunii a Moyse data, et de jejunio ejusdem.
+Quomodo matrum Samson et Samuelis sterilitatem
+abstinentia vini fecundaverit; quibusque cibis Elisaeus
+filios prophetarum aluerit?</hi> 
+<pb n="0703A"/>
+          </p>
+<div3>
+            <head>16.</head>
+            <p>
+ Denique Moyses de jejunio legem dedit, de
+vino non dedit. Ipsum quoque jejunantem non voces
+magnae, non fulgura et nubes nimbosa, non fumigans
+Sina perterruit. Neque vero introisset in nubem,
+et vocem Dei loquentis de medio ignis sine
+periculo salutis audisset, nisi munitus armis jejunii
+fuisset. Quadraginta enim diebus jejunavit in monte,
+cum Legem acciperet a Domino Deo nostro. Et
+in superioribus quidem montis Lex dabatur Moysi
+<pb n="0703B"/>
+jejunanti, in inferioribus populo manducanti praevaricatio
+sacrilega luxu accendebatur epulantium. Quo
+spectaculo motus fregit tabulas Moyses, indignum
+judicans ut ebrio populo Lex daretur. Itaque tabulas
+Legis, quas accepit abstinentia, conteri fecit
+ebrietas.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Quid vero alia dicam? Nonne sterilitatem
+matris Samson vini abstinentia fecundavit, et parientem
+fecit ex sterili? Quoniam juxta praeceptum
+Domini vinum non bibit. Nonne Annam non manducantem
+exaudivit Dominus, et infecunditatem ejus
+solvere jejunia? Ex quibus duo generati, unus
+fortissimus, alius observantissimus, dignos se praebuerunt,
+qui jejunii gremio diu foti, et quodam
+abstinentiae effusi utero viderentur. Idem itaque
+<pb n="0703C"/>
+Samson, qui matris sobrietate generatus est, allophylorum
+ insultantium sibi ebrietate est vindicatus.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Elisaeus vates qui de magistro didicerat parcimoniam,
+cum filios aleret prophetarum, vitis
+agrestis grumulis mensas onerabat, et ineptis silvestribus
+oleribus hospitalitatis implebat officium.
+Quorum offensi amaritudine cum manducare non
+possent, levis farinae aspersione omnem illam
+amaritudinem temperavit, abstinentiae propheticae
+munere veneni vires evacuans.
+<emph>541</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Tribus pueris in fornacem jejuno stomacho ingressis
+flammas refrigerium attulisse; ac leones etiam jejunare
+Danielis edoctos esse jejunio.</hi> </p>
+<div3>
+            <head>19. </head>
+<p>
+              <pb n="0703D"/>Est quaedam creaturae natura, quam amiantum
+<pb n="0704A"/>
+vocant, nullo facilis igni consumi: quae imposita
+focis ignescit, illico sublata de flamma tamquam
+aquarum infusione munda resplendet. Talia
+erant Hebraeorum corpora puerorum, quae de jejunio
+in amianti transformata naturam, vaporem
+ignis non ad dispendium sui, sed ad gratiam mutuabantur.
+Denique cum furerent fornacis incendia, ut
+ultra quadraginta cubitos flamma per circuitum funderetur,
+consumens plurimos quos repererat Chaldaeorum,
+qui naphtha, pice, et stuppa, atque sarmento
+alimenta ignibus ministrabant; ubi cum jejunio
+ingressi sunt, discusso ardore flammarum, in
+medio fornacis coepere statim roris spiritu refrigerantis
+humescere; ita ut eorum nullus capillus
+capitis exureretur, quia illam quoque jejunia comam
+<pb n="0704B"/>
+paverant.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Daniel, vir desideriorum, trium hebdomadarum
+jejunio leones quoque docuit jejunare, missus in lacum,
+in adamantis rigorem abstinentiae soliditate
+membra duratus non patuit vulneri. Sic eum constrinxerant
+jejunia, ut in ejus corpore ferarum morsibus
+locus esse non posset. Clausa tenebant leones
+ora, quae abstinentiae propheticae sanctitas comprimebat;
+ut ea ferae aperire non possent meriti quibusdam
+vinculis alligata.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Jejunium itaque virtutem ignis exstinxit, jejunium
+ora obstruxit leonum, jejunium maris fluenta
+solidavit, jejunium petram solvit in fontes aquarum,
+virtute jejunii contra suam mutata naturam et fluctus
+obriguit, et petra inundavit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Jejunii commoda ut magis eluceant, cum gulae incommodis
+comparat, ac perturbationum, quas eadem
+gula inferre solet, elegantissimam subjicit descriptionem;
+cui exhortatio ad sobrietatem conjungitur.</hi> 
+<pb n="0704C"/>
+          </p>
+<div3>
+            <head>22.</head>
+            <p>
+ Sed quid vetustis utar exemplis, cum abundet
+jejunium etiam praesentium muneribus gratiarum?
+Quis deterioravit domum suam <emph>542</emph> jejunio? Quis
+imminuit facultates? Cui non suspecta luxuries? Cui
+non venerabilis abstinentia? Cujus thorum appetivit
+parcimonia? Cujus pudorem non laesit ebrietas?
+Jejunium continentiae magisterium est, pudicitiae disciplina,
+humilitas mentis, castigatio carnis, forma
+<pb n="0704D"/>
+sobrietatis, norma virtutis, purificatio animae, miserationis
+<pb n="0705A"/>
+expensa, lenitatis institutio, charitatis illecebra,
+senilis gratia, custodia juventutis. Jejunium
+est infirmitatis allevamentum, alimentum salutis.
+Nemo cruditatem jejunando incidit, nullus per continentiam
+ ictum sanguinis sensit, immo nullus
+non repressit et repulit. Bonum itineris viaticum,
+bonum totius vitae: bonum in mari, sedat naufragia,
+cibum servat.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Qui grave dicunt jejunium esse, respondeant
+quis jejunio defecerit. Multi in prandio, plerique
+dum vomunt epulum, fudere animam. Quod postremo
+animal jejunium sibi causam fuisse mortis ingemuit?
+Per escam laqueus non cavetur, in esca
+hamus latet, cibus deducit in foveam, et cibus inducit
+in retia, cibus visco etiam aves illigat, cibus volantes
+<pb n="0705B"/>
+deponit ad mortem. Quae non propter ventrem
+pericula? Muta animalia crimen nesciunt, et in hoc
+solo tamquam pro crimine puniuntur. Jejunium sobrietas
+mentis est, hoc vigent sensus, in hoc judicia
+tractantur, in convivio pocula. Jejunium custodit disciplinam,
+luxuriam sequitur inopia. <hi>Luxuria mater est
+famis <note>(Tob. IV)</note>
+            </hi>, secundum propheticum dictum. Jejunium
+quietem diligit, luxuria inquietudinem. Jejunium
+otia serit, luxus negotia.</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Ferietur aliquando coquorum vestigiorum machaera.
+Requiescat obsonator qui antequam luceat,
+fores pulsat alienas, et tamquam bellum aliquod immineat,
+excitat dormientes. Turbatum vides, anhelantem
+advertis: interrogas quae causa perturbationis
+sit. Poscit, inquit, dominus meus, ubi vinum
+<pb n="0705C"/>
+melius veneat, quaerit ubi durior vulva curetur,
+ubi jecur mollius, ubi phasianus pinguior, ubi piscis
+recentior. Cursitat per diversa; et cum invenerit,
+summo cursu properat. Inquietat dominum somnolentum,
+auctionatur pretia. Si pretium moverit
+piscis, nusquam meliorem asserit inveniri, immo
+deesse. Heri, inquit, tempestas, hodie procella, vix
+istum potui latentem deprehendere. Multi concursant
+in macello: si tu reddideris, alter plus dabit;
+et quid exhibebis in prandio? Istius vini ille natalis
+est, haec ex illo lacu lecta ostrea: talis fit de singulis
+licitatio. <emph>543</emph> Hasta quaedam agitatur inter
+<pb n="0706A"/>
+obsonatorem, et pastorem. Turbatus addicit patrimonium,
+rogat adhuc per quos suorum bonorum jura
+minuantur.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Curritur ad coquinam, fit ingens strepitus, fit
+tumultus. Tota exagitatur familia, maledicunt omnes,
+quod nulla his requies detur. Tandem aliquando
+da requiem coquo. Instar statuae pincernae dextera
+summo gelu riget. Ille in frigida exercet manus, illi
+marmora lavant. Mundant pavimenta vino madida,
+et spinis cooperta piscium; et quanti dum ambulant,
+vulnerantur? In ipso convivio clamor epulantium,
+gemitus vapulantium. Si quid forte displicuit
+amicis, illi rident, tu indignaris. Sileat aliquando
+domus a multis perturbationibus huc atque illuc discurrentium,
+vacet fumo, et semiustulatorum nidore.
+<pb n="0706B"/>
+Non coquinam, sed carnificinam putes: praelium
+geri, non prandium curari; ita sanguine omnia natant.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Malae dominae servitur gulae, quae semper expetit,
+numquam expletur. Quid enim insatiabilius
+ventre? Hodie suscipit, et cras exigit. Cum impletus
+fuerit, disputatur de continentia: cum digesserit,
+vale virtutibus dicitur, quaerit luxuriam. Inter pocula
+philosophia praedicatur, inter philosophos vina
+laudantur. <hi>Vigiliae,</hi> inquit, <hi>et cholera, et tortura
+viro insatiabili <note>(Eccli. XXXI, 23)</note>
+            </hi>: manducat et paulo
+post poenitet: non illum diutius sua intemperantia
+delectavit.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Attende divitem qui induebatur purpura et
+bysso, et epulabatur quotidie splendide, cujus ad januam
+<pb n="0706C"/>
+mendicus ille Lazarus jacebat plenus ulceribus,
+cupiens saturari ex his quae de mensa cadebant divitis.
+Paulo post cum esset mortuus, coepit rogare positus
+in inferno, ut extremum digiti sui pauper ille
+in aquam intingeret, et refrigeraret linguam ejus,
+quae ardebat incendio. Ubi illae copiae? Ubi illae
+ebrietates? Sitit qui inebriabatur: abundat qui mendicabat.
+In ipso convivio dum bibunt, sitiunt; et cum
+inebriati fuerint, amplius bibunt. Quasi aperto gurgite
+vinum jam non bibitur, sed infunditur: poculum
+non libatur, sed exinanitur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Cur potentes vinum bibere prohibeantur? Judith jejunans
+Holophernem obtruncat: iisdemque artibus
+populum suum liberat Esther, cui poenas ebrius
+Aman exsolvit. Postremo variae jejunii laudes enumerantur.</hi> 
+<pb n="0707A"/>
+          </p>
+<div3>
+            <head>28.</head>
+            <p>
+ <hi>Spinae,</hi> inquit, <hi>nascuntur in manu ebriosi <note>(Prov. XXVI, 9)</note>
+            </hi>,
+quia ipse se manibus suis vulnerat,
+et ulcera sibi in pectus dejicit. His spinis scindit
+vestimentum fidei quod accepit, et thesaurum suum
+servare non poterit. Omnis enim ebriosus et fornicator
+egebit, et induet se scissa vestimenta insipientiae.
+Et ideo potentes vinum prohibentur bibere; ne
+cum biberint, obliviscantur sapientiam <note>(Prov.
+XXXI, 4)</note>. <emph>544</emph>
+</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Denique bibebant vinum in ebrietate potentes,
+qui Holopherni principi militiae regis Assyriorum
+se tradere gestiebant: sed non bibebat femina
+Judith, jejunans omnibus diebus viduitatis suae, praeter
+festorum dierum solemnitates. His armis munita processit,
+et omnem Assyriorum circumvenit exercitum.
+Sobrii vigore consilii abstulit Holophernis caput,
+servavit pudicitiam, victoriam reportavit. Haec enim
+succincta jejunio in castris praetendebat alienis: ille
+vino sepultus jacebat, ut ictum vulneris sentire non
+posset. Itaque unius mulieris jejunium innumeros
+stravit exercitus ebriorum:</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Esther quoque pulchrior facta est jejunio; Dominus
+enim gratiam sobriae mentis augebat. Omne
+<pb n="0707C"/>
+genus suum, id est, totum populum Judaeorum a persecutionis
+acerbitatibus liberavit; ita ut regem sibi
+faceret esse subjectum, non libidinis ardore flammatum,
+sed coelesti miseratione conversum; ita ut et
+poena retorqueretur in impium, et honor sacris redderetur
+altaribus. Itaque illa quae triduo jejunavit
+continuo, et corpus suum aqua lavit, plus placuit,
+et vindictam retulit. Aman autem dum se regali
+jactat convivio, inter ipsa vina poenam suae ebrietatis
+exsolvit.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Est ergo jejunium reconciliationis sacrificium,
+virtutis incrementum, quod fecit etiam feminas fortiores
+augmento gratiae. Jejunium nescit feneratorem,
+non sortem fenoris novit, non redolet usuras
+mensa jejunantium: non strangulant filium continentis
+<pb n="0707D"/>
+viri paternae centesimae: non vexant viduam
+oppignorata sobrii viri jura defuncti: non defenerata
+excludit haeredem aula jejuni.
+<pb n="0708A"/>
+</p>
+          </div3>
+<div3>
+            <head>32. </head>
+            <p>
+Etiam ipsis jejunium conviviis dat gratiam.
+Dulciores post famem epulae fiunt, quae assiduitate
+fastidio sunt, et diuturna continuatione vilescunt.
+Condimentum cibi jejunium est. Quanto avidior appetentia,
+tanto esca jucundior. Commendat sitis poculum,
+ nescit vini vetustates quaerere. Jejunus
+quidquid hauserit, transmittit ad satietatem, non ad
+judicium nare suspendit. Usu etiam pretiosa degenerant:
+quorum autem difficilis possessio, eorum grata
+perfunctio. Ipse sol post noctem gratior, ipsa lux post
+tenebras splendidior, et post vigilias sopor dulcior,
+ipsa salus post aegritudinis tentamenta jucundior. Ab
+ipso mundi conditore didicimus saepe diversitatibus
+cumulari gratiam. Patrocinatur ergo et convivio fames,
+ut gratior fiat mensa jejuniis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Mystica mensa jejunio comparatur. Quae fames faciat
+acceptabile jejunium; quidve sit quod dicitur:</hi> Cum
+jejunatis, ungite caput vestrum, <hi>moraliter ac
+mystice disquiritur.</hi> 
+<pb n="0708B"/>
+          </p>
+<div3>
+            <head>33.</head>
+            <p>
+ Mystica quoque mensa jejunio comparatur:
+illa mensa, de qua dicit David: <emph>545</emph> <hi>Parasti in conspectu
+meo mensam adversus eos qui tribulant me <note>(Psal.
+XXII, 5)</note>
+            </hi>. Mensa ista famis acquiritur pretio: et poculum
+illud inebrians sobrietate, coelestium sacramentorum
+siti quaeritur. Dixit enim Dominus: <hi>Qui sititis, ite ad
+aquam, et quicumque non habetis argentum, ite et
+emite, et bibite et manducate <note>(Esai. LV, 1)</note>
+            </hi>. Et alibi
+ait: <hi>Ecce qui serviunt mihi, manducabunt: vos vero
+<pb n="0708C"/>
+esurietis. Ecce qui serviunt mihi, bibent: vos autem sitietis <note>(Esai., LXV, 13)</note>
+            </hi>.
+Qui vos nisi qui ante potastis?
+De quibus supra dixit: <hi>Parastis daemoniis mensam,
+et implestis fortunae poculum <note>(Ibid., 11)</note>
+            </hi>. Ergo
+si ad mensam illam venerabilem jejunia sancta nos
+perducunt: si hac fame illa quae sunt aeterna mercamur;
+quid de iis dubitamus quae in usu humano
+sunt, quod etiam suaviora haec nobis faciat jejunium?</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Non autem omnis fames acceptabile jejunium
+facit, sed fames quae Dei timore suscipitur. Considera:
+ Quadragesima totis praeter sabbatum et Dominicam
+jejunatur diebus. Hoc jejunium Domini pascha
+concludit. Venit jam dies resurrectionis, baptizantur
+ Electi, veniunt ad altare, accipiunt sacramentum,
+<pb n="0708D"/>
+sitientes totis hauriunt venis. Merito dicunt
+singuli refecti spiritali cibo, et spiritali potu: <hi>Parasti
+in conspectu meo mensam . . . . et poculum tuum
+<pb n="0709A"/>
+inebrians quam praeclarum est <note>(Psal. XXII, 5)</note>
+            </hi>! Non sola
+autem fames quaeritur, sed plena disciplina jejunii.
+Denique aliis dicitur: <hi>In diebus jejuniorum vestrorum
+invenitis voluntates vestras, et omnes subditos
+vobis stimulatis. An ad judicia et rixas jejunatis et percutitis
+pugnis? Ut quid mihi tale jejunium, ita ut audiatur
+in clamore vox vestra? Non hoc jejunium ego
+elegi, et diem ad humiliandum animam suam hominem:
+nec si flectas ut circulum collum tuum, cinerem etiam
+et cilicium substernas, nec sic vocabitis jejunium acceptum.
+Non tale jejunium ego elegi, dicit Dominus <note>(Esai. LVIII, 3 et seq.)</note>
+            </hi>.
+Quod jejunium improbetur,
+audivimus: nunc audiamus quod sit probabile. <hi>Sed
+solve omnem colligationem injustitiae tuae: dissolve
+obligationes violentarum commutationum, dimitte confractos
+<pb n="0709B"/>
+in remissionem, et omnem conscriptionem iniquam
+dirumpe. Frange esurienti panem tuum: et egenos
+non habentes tectum, induc in domum tuam: et si
+videris nudum, cooperi eum: et domesticos seminis tui
+non despicias.</hi> Vides quae species sit et forma jejunii,
+ quis mentis habitus; ut orationi vaces, et in lege
+Dei die ac nocte mediteris.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Ipsa figura corporis plena gravitatis, nullus
+rubor ebrietatis circumfusus genas qui intuentium
+offendat aspectus, sed vultus casto micet pallore
+reverendus, sermo gravior, oculus verecundior, gressus
+stabilior atque moderatior, plerumque enim
+turbatiore incessu proditur motus animorum. Vultus
+intentior, et quidam cogitationis suae arbiter, et
+tacitus cordis interpres; ut neque tristitiam praetexat,
+<pb n="0709C"/>
+neque solvatur risu <emph>546</emph> incontinenti. Non enim
+superfluum hoc putes nostrae commonitionis; cum
+Sapientia dicat in Evangelio: <hi>Cum autem jejunatis,
+nolite fieri sicut hypocritae tristes <note>(Matth. VI, 16)</note>
+            </hi>. Ideo
+dixit hypocritas, eo quod simulatione alienam personam
+induant; sicut in scena qui tragoedias canunt,
+pro eorum dictis quorum personas gerunt, motus
+suos excitant, ut aut irascantur, aut moereant, vel
+exsultent. Affectant enim isti, ut jejunare videantur,
+hominibus magis quam Deo cupientes probari, quod
+faciebant Judaei.</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ Et ideo nobis dicitur: <hi>Vos autem cum jejunatis,
+ungite caput vestrum, et faciem vestram lavate, ne
+pareatis hominibus quia jejunatis, sed Patri vestro qui
+est in abscondito: et Pater vester qui videt in abscondito,
+<pb n="0709D"/>
+reddet vobis <note>(Ibid., 17 et 18)</note>
+            </hi>. Quid est <hi>Ungite
+caput vestrum?</hi> Sed et luxuriosi dicunt: Vino et unguentis
+nos repleamus. Unguento enim se ungunt,
+ qui corporei odoris gratiam quaerunt. Sed illa unguenta
+libidinis illecebram movere consuerunt. Aliud
+<pb n="0710A"/>
+est sobrietatis unguentum, de quo dicit Ecclesia ad
+sponsum suum: <hi>Unguentum exinanitum nomen tuum <note>(Cant. I, 2)</note>
+            </hi>:
+aliud oleum quo artus animae et quaedam
+membra pinguescunt. Unde et David dicit: <hi>Impinguasti
+in oleo caput meum <note>(Psal. XXII, 5)</note>
+            </hi>. Et hoc
+est oleum laetitiae, quo unctus est Christus a Deo
+Patre, ut prae omnibus suis emineret consortibus.
+Hoc jubet ungi caput nostrum, ut oleo laetitiae obducatur
+omnis simulata tristitia; ne videaris jejunium
+tuum vendere hominibus, ne videaris contristari in
+animae tuae salute. Nemo enim tristis coronatur, nemo
+moestus triumphat. Unge ergo caput tuum, ubi
+sensus sapientis sunt; oculi enim sapientis in capite
+ejus. Ad mysteria vocaris, et nescis: discis, cum
+venis. Et reminiscere illud: <hi>Sicut unguentum in capite,
+<pb n="0710B"/>
+quod descendit in barbam Aaron <note>(Ps. CXXXII, 2)</note>
+            </hi>,
+tunc cognoscis quid sit: <hi>Ungite caput vestrum:</hi> quomodo
+placueris Deo, ut tibi sua patefaceret sacramenta,
+et daret gratiam spiritalem.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Est et aliud caput mysticum. Quod illud?
+Audi: <hi>Caput mulieris vir; caput autem viri Christus <note>(I Cor. XI, 3)</note>
+            </hi>.
+Mitte in Christum, mitte etiam in
+caput ejus unguentum. Caput ejus Deus est. Illa
+mulier Ecclesiae typum gerens, quae in caput ejus
+misit unguentum, confessa est ejus divinitatem; et
+quae in pedes ejus misit, confessa est ejus passionem.
+Utraque laudatur. Et tu fac quo lauderis quo remissionem
+accipias peccatorum <note>(Matth. XXVI, 10)</note>. Lava
+faciem tuam, emunda animam tuam peccatricem,
+lava conscientiam tuam <note>(Luc. VII, 44 et seq.)</note>. Index
+<pb n="0710C"/>
+enim facies plerumque est conscientiae, et quidam
+tacitus sermo mentis, cum aut peccato compungimur,
+aut integritate laetamur. Noli hanc exterminare
+faciem, lava illam, et omnem sordem conscientiae
+tuae dilue. Exterminat faciem suam qui aliud corde
+gerit, aliud foris praetendit. Non nos velut <emph>547</emph> 
+quodam peripetasmate operiamus: quod intus est,
+foris luceat: quod foris est, intus operetur. Nemo in
+jejunio culpam includat, pure ferat innocentiam. Jejunium
+enim culpae interfectorium est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p> <hi>Jejunii virtus amariorum exemplo illustratur, et esca
+licet dulcis, quam noxia sit, Esau et Jacob historia
+ostenditur; tum sequitur exhortatio ad jactantiam
+in jejunio declinandam.</hi> 
+<pb n="0710D"/>
+          </p>
+<div3>
+            <head>38.</head>
+            <p>
+ Nemo amarioribus dulcia praeoptet. Dulcis
+voluptas videtur, amarum jejunium. Hoc amaro illud
+dulce tollatur. Solent amara etiam ipsis plus
+prodesse corporibus. Sicut enim cum in intimis
+<pb n="0711A"/>
+puerorum visceribus vermes ex cibi indigestione nascuntur,
+exstingui non queunt nisi cum amarior potus
+infunditur, aut medicamentorum vis inolescit
+asperior, quorum odore moriantur: ita profundum animae
+virtus ingressa jejunii culpam latentem interficit.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Quid Esau servum fratri suo fecit? Nonne
+esca ad horam dulcis, amara in posterum? Quid
+Jacob dominum fratri dedit? Nonne contemptus cibi
+ad tempus amarior, sed salubris in reliquum? Ipsa
+corpora dulcibus frequenter inflantur, et melle
+jecur tenditur; idem tamen escae amaritudine temperatur.
+Ideo non mediocris, sed laudata quaestio: <hi>De
+manducante exivit esca, et de forti dulce <note>(Judic. XIV,
+14)</note>
+            </hi>. Alii habent: <hi>Et de tristi dulce;</hi> Graeci codices
+maxime. Sed et forte laboriosum est; exit enim dulce
+<pb n="0711B"/>
+de tristitia vel labore.</p>
+          </div3>
+<div3>
+            <head>40.</head>
+            <p>
+ Noli ergo te jactare cum jejunas, noli gloriari,
+ne nihil tibi prosit jejunium. Quae enim ad ostentationem
+fiunt, non in futurum fructum extendent suum;
+sed praesentium mercede consumunt. Elias in deserto
+erat, ne quis eum jejunantem videret, nisi soli
+corvi qui eum pascerent. Elisaeus in deserto erat,
+ubi non inveniretur esca, nisi amara. Joannes in
+deserto erat, ubi solas locustas et mel silvestre inveniret.
+Jejunantibus epulae pio angelorum ministerio
+deferebantur. Prandebat Daniel inter jejunantes
+leones. Ille prandebat alienum prandium, ferae non
+tangebant suum. Jejunantibus epulae volant, prandentibus
+pedes vacillant: jejunantibus manna de
+coelo descendit, epulantibus culpa praevaricationis
+<pb n="0711C"/>
+ascendit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Quemadmodum in omne facinus praecipitet ebrietas:
+quamque illa ridicula sit et odiosa, eleganti descriptione
+exponitur. Post quae nonnulla de luxurioso
+adolescente ad philosophiam converso adjiciuntur.</hi> </p>
+<div3>
+            <head>41.</head>
+            <p>
+ Sed quid est hoc? Dum de jejunio disputo,
+strepitus audio conviviorum. Nisi fallor, in sermone
+meo redoluit prandium. Sonus ergo litterarum invitat,
+impatientiae exempla non terrent. Etenim qui
+jejunantem, et ea quae <emph>548</emph> Legis sunt ferentem,
+exspectare non passus est populus, utique sedit
+manducare, et bibere, et surrexerunt ludere. Videmus
+sacrilegium ebrietati fuisse conjunctum. Nam
+<pb n="0711D"/>
+sicut mater fidei continentia: ita perfidiae mater
+ebrietas est. In quod facinus non ista praecipitat?</p>
+          </div3>
+<div3>
+            <head>42.</head>
+            <p>
+ Sedent in foribus tabernarum homines tunicam
+non habentes, nec sumptum sequentis diei. De
+imperatoribus et potestatibus judicant; immo regnare
+<pb n="0712A"/>
+sibi videntur, et exercitibus imperare. Fiunt ebrietate
+divites, qui sunt veritate inopes. Aurum donant,
+dispensant pecunias populis, civitates aedificant, qui
+non habent unde cauponi potus sui corporis pretium
+solvant. Fervet enim vinum in his, et nesciunt quid
+loquantur. Divites sunt dum inebriantur: mox ubi
+vinum digesserint, cernunt se esse mendicos. Uno
+die bibunt multorum dierum labores.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ De ebrietate ad arma consurgitur, calicibus
+tela succedunt. Pro vino sanguis effunditur, et ipsum
+sanguinem vina fuderunt. Quam fortes sibi homines
+videntur in vino, quam sapientes, quam diserti,
+quam etiam pulchri ac decori, cum stare non possint!
+Mens necesse est titubet, lingua balbutiat, pallor
+exsanguis ora suffundat, fetor ebrietatis horrori
+<pb n="0712B"/>
+sit. Barbari in ferrum ruunt, vulgus in rixas. Si
+quis eorum pugno fuerit percussus, videas ora saucium
+vini lacrymas fundere, miserabiles epilogos
+decantare. Habet unum hoc temulentia, ut emolliat
+et resolvat corda temulentorum. Sicut enim ignis
+probat ferrum durum, ita et vini incendio etiam superborum
+hominum cor liquescit.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Omnes sibi vino aequales videntur, nullus inferior.
+Non pauper diviti cedit, ut pote qui pauperem
+se esse nescit: non infirmus valido, cui omnis in
+bibendo est fortitudo: non mendicus locupleti, non
+ignobilis honorato; cum bibentes, illum regem habeant,
+qui bibendo superaverit caeteros. Meritoque
+scriptum est: <hi>Aequalis vita hominibus vinum in
+ebrietate <note>(Eccl. XXXI, 32)</note>
+            </hi>. Sed utinam et quod sequitur
+<pb n="0712C"/>
+audires: <hi>Bibas illud moderate, ut sis sobrius <note>(Ibid.)</note>
+            </hi>.
+Non habes quod accuses: vinum in jucunditate
+creatum est, non in ebrietate ab initio. Exsultatio
+animae et cordis est, si moderate bibas: immoderatio
+autem potus iracundiam concitat, et ruinas
+multas efficit.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Sed forte dicant has esse potationes vulgarium
+et levissimorum hominum. Veniamus ergo ad horum
+potentium et fortissimorum convivia. Non ego
+hic unguentatos adolescentulos aut coronatos rosis
+proferam, qualem ferunt illum fuisse qui delibutus
+unguentis, redimitus floribus, subnixus meretricibus,
+antelucano potu ebrius, et diurno cereorum comitatus
+lumine, philosophi auditorium disputantis ingressus
+sit. Quo audito, coronas, ut aiunt, sensim detraxerit,
+<pb n="0712D"/>
+unguenta deterserit, scortis vale dixerit:
+philosophus postea tantus evaserit, ut esset sobrietatis <emph>549</emph> 
+ exemplum, qui fuerat ante ebrietatis ludibrium.
+Non enim unum emendatum illis invideo;
+ut doceam genus eorum luxuriae a me non esse simulatum.
+<pb n="0713A"/>
+Certe ille si resipuit a vino, fuit tamen semper
+temulentus sacrilegio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>Militarium hominum convivia, cum pugna quadam
+atque spectaculo comparantur; et eorum partes singulae,
+et quasi quaedam protasis, epitasis et catastrophe
+quam diligentissime describuntur.</hi> </p>
+<div3>
+            <head>46.</head>
+            <p>
+ Apage igitur hinc adolescentes lubricos, ad
+convivia praeliatorum venimus. Inter arma prandendum
+est, stipatores hi sunt bellici qui ministrant,
+succincti auro, et Babylonicis lumbos suffolti balteis:
+aureis torquibus nitent colla, aureis bullis zonam
+tegunt, aureis thecis cultros includunt suos, quibus
+dimicent cum epulis dividendis. Assistunt pueri coma
+<pb n="0713B"/>
+nitentes, ex gente barbarica ad hos usus electi,
+ per singularum distantias aetatum vices. Cernas populorum
+diversorum ordines, aciem ordinatam putes:
+vasa exposita argentea, pompam arbitreris:
+ cornu in medio vini plenum, non praeliaris, sed
+epularis instrumentum buccinae, quod discumbentes
+in certamen accendat.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ Primo minoribus poculis velut ferentariis
+pugna praeluditur. Verum haec non sobrietatis species,
+sed bibendi est disciplina. Etenim ut tragoediarum
+actores primo sensim vocem excitant, donec
+ udae vocis aperiant iter, ut postea magnis possint
+clamoribus personare: ita isti quoque in principio
+praelusoriis se exercent poculis, ut irritent sitim; ne
+forte restinguant eam, et satiati postea bibere non
+<pb n="0713C"/>
+possint. Ergo ubi res calere coeperit, poscunt majoribus
+poculis: fervor inardescit martius, cibo sitis
+exaestuat, et ubi imminui visa, potu meraciore reparatur.
+<pb n="0714A"/>
+Certant pocula cum ferculis, et inter morsus
+saepe remittuntur. Deinde procedente potu longius
+contentiusque, diversa et magna certamina,
+quis bibendo praecellat? Nota gravis, si quis se excuset,
+si quis temperandum forte vinum putet. Et haec
+donec ad mensas perveniatur secundas.
+</p>
+            <p>48 At ubi consummatae fuerint epulae, putes jam
+esse surgendum: tunc de integro potum instaurant
+suum; et cum consummaverint, tunc <emph>550</emph> inchoare
+se dicunt, tunc deferuntur phialae, tunc maximi crateres
+quasi instrumenta bellorum. Ac ne immoderatum
+hoc arbitreris, mensura proponitur, certatur
+sub judice, sub lege decernitur. Agonothetes illis
+furor est, stipendium debilitas, victoriae praemium
+culpa. Pendet anceps diu et dubius belli eventus; furor
+<pb n="0714B"/>
+enim ille est praeliaris. Cedunt pincernarum manus
+vina fundentium, et coquorum labores calida
+ministrantium; cedunt qui mensuras ipsas bonas supereffluentes
+diligenti librant examine, ne quid effundant:
+non cedunt bibentes.</p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Sola illa sunt sine excusatione certamina. In
+bello si quis se inferiorem viderit, arma convertit,
+et meretur veniam: hic si quis calicem convertat,
+urgetur ad potum. In scammate si quis manum levat,
+exsors quidem palmae, sed immunis injuriae
+est: in conviviis etsi manum revocet a vino, ori
+ejus infunditur. Omnes inebriantur, victores victique
+omnes ebrii jacent, plerique sopiti. Nec portari eos
+ad sepulcrum licet, priusquam is qui pascit, de omnibus
+se vindicatum viderit, ut ulciscatur dispendium.
+<pb n="0714C"/>
+Qui autem damna non sentit, hanc mensae suae gloriam
+putat, si ex ea vulnerati omnes ac saucii tamquam
+de arena exeant.
+<pb n="0715A"/>
+</p>
+          </div3>
+<div3>
+            <head>50. </head>
+            <p>
+Spectaculum triste Christianorum oculis, et
+miserabilis species. Cernas juvenes terribiles visu
+hostibus de convivio portari foras, et inde ad convivium
+reportari, repleri ut exhauriant, et exhauriri
+ut bibant. Si quis verecundior fuerit, ut erubescat
+surgere; cum jam immoderatos potus tenere non
+possit, anhelare vehementius, sudare, gemere, signis
+prodere, quod pudeat confiteri. Ibi unusquisque
+pugnas enarrat suas, ibi fortia facta praedicant sua,
+narrant tropaea vino madidi, et somnolenti nesciunt
+mente, quid lingua proferant. Unusquisque
+stertit et potat, dormit et dimicat; et si quando consurrectum
+fuerit, viri praeliatores stare non possunt,
+egressu vacillant. Rident servuli dominorum opprobria,
+manibus suis portant militem bellatorem, imponunt
+<pb n="0715B"/>
+equo. Itaque hac atque illac tamquam navigia
+sine gubernatore fluctuant; et tamquam vulnere
+icti in terram defluunt, nisi excipiantur a servulis.
+Alii referuntur in scutis, fit pompa ludibrii. Quos
+mane insignes armis spectaveras, vultu minaces, eosdem <emph>551</emph> 
+ vesperi cernas etiam a puerulis impune
+rideri, sine ferro vulneratos, sine pugna interfectos,
+sine hoste turbatos, sine senectute tremulos, in
+ipso juventutis flore nascente.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p> <hi>Reprehenduntur qui convivia ad temulentiam praeparant:
+et major esse vini, quam veneni vis ostenditur.</hi> </p>
+<div3>
+            <head>51.</head>
+            <p>
+ Quis tale miscuit furoris poculum? Quis tantum
+infudit mentibus venenum? Periclitatur homo lutum
+<pb n="0715C"/>
+esse de corpore; et ipse sibi reus est insaniae
+voluntariae, corruptelae spontaneae; et tamen nec
+vos excusamini qui vocatis ut amicos, et emittitis ut
+inimicos. Quanto melius in terram tua vina fudisses?
+Sed et terra inebriat, et asperiores etiam ipsas feras
+reddit, si vini contigerit odor. Denique vindemiae
+tempore si vineam intraverint, solent ebrietate succendi.
+Quid te delectant damna sine gratia? Rogas
+ad jucunditatem, cogis ad mortem: invitas ad prandium,
+ efferre vis ad sepulcrum: cibos promittis,
+tormenta irrogas: vina praetendis, venena suffundis.
+Omne enim quidquid nocet, venenum est. Tollit
+sensus, viscera exurit, somnum infestat, caput
+vexat.
+<pb n="0716A"/>
+</p>
+          </div3>
+<div3>
+            <head>52. </head>
+            <p>
+Etiam major vis vini, quam veneni est. Denique
+venenum vino excluditur, non vinum veneno.
+Merito Deus per Moysen non solum veneno, sed
+etiam draconum veneno, vinum comparavit dicens: <hi>Furor draconum vinum eorum, et ira aspidum insanabilis <note>(Deut. XXXII, 33)</note>
+            </hi>.
+Et pulchre addidit, <hi>insanabilis;</hi> 
+multi enim a reliquo serpentium veneno curantur,
+nemo ab ebrietate. Certe veneno caro vulneratur,
+mens sine noxa est: ebrietas ad corporis mortem,
+mentis etiam crimen adjungit. Adverte autem
+et perfidiae venenum, vini declaratum nomine. Ait
+enim supra de alienigenis, qui nescirent Deum. <hi>De
+vinea</hi> enim <hi>Sodomae vinum eorum, et vitis eorum vitis
+Gomorrhae: uva eorum, uva fellis, botrus amaritudinis
+in ipsis <note>(Ibid., 32)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p> <hi>Se non omnia dixisse quae in ebrios dici poterant ostendit
+exposito Esaiae loco: unde in lasciviam popinonum
+invehitur; et ad finem quaedam de calice aureo
+Babylonis, et vase apostolico subjungit.</hi> 
+<pb n="0716B"/>
+          </p>
+<div3>
+            <head>53.</head>
+            <p>
+ Putatis me tamquam vino crapulatum, intemperantius
+jejunii praedicationi hunc miscuisse sermonem;
+et adhuc propter hos fortissimos viros
+quanta praeterii, quanta minora dixi, quam Dominus
+locutus est! Audistis quid per Moysen dixerit:
+audite quid in libro sermonum Esaiae scriptum sit.
+ Invehitur enim Dominus in hujusmodi versus, et
+ait: <hi>Vae iis qui consurgunt mane, et sectantur siceram,
+qui ebrii sunt vesperi: nam vinum eos comburet. Cum
+cithara enim et psalterio et tympanis vinum bibunt: opera
+<pb n="0716C"/>
+autem Domini non</hi> <emph>552</emph> <hi>respiciunt, et opera manuum
+ejus non considerant. Cui vae,</hi> inquit, <hi>cui judicia, cui
+tumultus <note>(Esai. V, 11)</note>
+            </hi>. Diversa singulis, temulentis
+omnia. Vae enim iis qui ebrii sunt vesperi <note>(Prov.
+XXIII, 29)</note>! Quid ergo illis qui et ante vesperam, et
+frequenter in lucem madent? Ergo vae sibi debitum.
+Habent concertationes, conserunt lites, in caedem
+prosiliunt, et veniunt ad judicia vel vocantur. Habent
+ergo judicia tamquam rei. Fit nonnumquam gravior
+tumultus, quia vino mens pervertitur ebriosi: <hi>Et non
+meminit regis, nec magistratus,</hi> ut scriptum est: <hi>et
+omnia aperta facit loqui, et non meminerunt, cum biberent,
+amicitiae, nec fraternae necessitudinis (III Esdrae
+III, 21 et seq)</hi>: sed post tumultum sumunt gladios;
+<pb n="0717A"/>
+et cum a vino mersi fuerint, et surrexerint, non
+meminerunt ipsi quae gesserint. Habent ergo etiam
+dignam mercedem tumultus.</p>
+          </div3>
+<div3>
+            <head>54.</head>
+            <p>
+ Praeterieram certe ego citharam, psalteria,
+tympana, quae cognovimus conviviis hujusmodi frequenter
+adhiberi, ut vino et cantu excitentur libidines.
+Plerique etiam, Persico more, mulieres dignas
+temulentorum consortio induci jubent, et ab his
+phialas accipiunt, atque illis se substernunt sedentibus.
+Et hunc ritum sacratae habent observationes in
+ebrietatis ministerium. Habent ergo vinum et barbari:
+libenter his Romani indulgent; ut et ipsi solvantur
+in potus, et enervati ebrietate vincantur. Nec
+solum vinum ebrietatem facit, sed et sicera. Denique
+Hebraei omnem potum qui inebriat, sicerae nomine
+vocant.
+<pb n="0717B"/>
+</p>
+          </div3>
+<div3>
+            <head>55. </head>
+            <p>
+Non immerito ergo vae illis qui mane ebrietatis
+potum requirunt, quos conveniebat Deo laudes
+referre, praevenire lucem, et occurrere oratione
+soli justitiae, qui suos visitat, et exsurgit nobis, si
+nos Christo, non vino et sicerae surgamus. Hymni
+dicuntur, et tu citharam tenes? Psalmi canuntur, et
+tu psalterium sumis aut tympanum. Merito vae, quia
+salutem relinquis, mortem eligis. Vix diluculum, et
+jam cursatur per tabernas, vinum quaeritur, excutiuntur
+tapetes, accubitum festinant sternere; lagenas
+argenteas, auratos calices exponunt. Vae, inquit,
+ista quaerentibus!</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ Calix aureus Babylon in manu Domini inebrians
+omnem terram. <hi>A vino ejus biberunt omnes gentes,
+ideo commotae sunt. Et subito cecidit Babylon, et contrita
+<pb n="0717C"/>
+est <note>(Jer. LI, 7 et 8)</note>
+            </hi>. Calix ergo aureus contritusest;
+quia Babylon contrita est, quae est calix aureus.
+Sed quamvis auro se jactet et pretio, in Domini et
+ipsa est potestate. Denique divina indignatione conteritur.
+Qua ratione calix aureus? Quoniam qui veritate
+deficitur, quaerit illecebram; ut species saltem
+pretiosa ad bibendum aliquos possit illicere.</p>
+          </div3>
+<div3>
+            <head>57.</head>
+            <p>
+ Constitue ante oculos tuos pompam hujus saeculi,
+vides speciosam illecebram, sed inanem gratiam.
+Non te inducant aurea vasa et argentea. <emph>553</emph> <hi>Habemus
+et nos thesaurum in vasis fictilibus <note>(II Cor. IV, 7)</note>
+            </hi>.
+Vas apostolicum fictile est, sed in eo thesaurus est
+Christi. Vae siceram mane sectantibus! Aureum est
+hoc vas, poculum est, et in eo poculo venenum mortis,
+<pb n="0717D"/>
+venenum libidinis, venenum ebrietatis. Hoc qui
+biberit, commovetur et cadit. Commovetur non solum
+corpore, sed etiam corde turbato; commoveri
+enim peccati est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p> <hi>Ebrios Caini ac persecutorum Domini similes esse, immo
+daemoniacis ipsis miseriores: iidem suis coloribus
+depinguntur: in quos Jeremiae verba cadere declarat
+sanctus Doctor.</hi> 
+<pb n="0718A"/>
+          </p>
+<div3>
+            <head>58.</head>
+            <p>
+ Denique Cain exiens a conspectu Dei, habitavit
+in terra Naid, quod interpretatione significat
+commotionem. Ergo qui calice aureo inebriatur, peccato
+movetur. Quid te sub maledicto constituis Cain
+illius parricidae, ut tremas atque movearis? Sed et
+persecutores Domini transeuntes movebant capita
+sua. Exagitabat enim eos spiritus nequam, qui repleta
+a se corpora movere consuevit. Et ille cum
+defuerit, tremor desinit: ebrietas autem perpetuum
+dat tremorem. Sudant vinum corpora temulentorum:
+si levius ea tetigeris, exprimis vinum.</p>
+          </div3>
+<div3>
+            <head>59.</head>
+            <p>
+ Ebrietas fomentum libidinis, ebrietas incentivum
+insaniae, ebrietas venenum insipientiae. Haec
+<pb n="0718B"/>
+sensus hominum mutat et formas, per hanc fiunt ex
+hominibus equi adhinnientes. Siquidem naturali vapore
+corporis calidi, et praeter naturam vini calore
+flammati, cohibere se non queunt, et in bestiales libidines
+excitantur; ut nullum tempus praescriptum
+habeant, quo deceat indulgere concubitui. Vocem
+amittunt, colore variantur, oculis ignescunt, ore
+anhelant, fremunt naribus, in furorem inardescunt,
+sensum excedunt. Hinc phrenesis periculosa, hinc
+calculi gravis poena, hinc exitialis cruditas, hinc vomitus
+frequens semesas epulas cum internorum viscerum
+cruore fundentium. Mentior, nisi eadem Dominus
+per Hieremiam locutus est dicens: <hi>Bibite et
+inebriamini, et vomite, et cadetis, et non surgetis <note>(Jer. XXV, 27)</note>
+            </hi>.
+<pb n="0718C"/>
+</p>
+          </div3>
+<div3>
+            <head>60. </head>
+            <p>
+Hinc etiam vanae imagines, incerti visus, instabilis
+gressus, umbras saepe transiliunt sicut foveas.
+Nutat his cum facie terra, subito erigi et inclinari
+videtur, et quasi vertatur, timentes in faciem ruunt,
+et solum manibus apprehendunt, aut concurrentibus
+montibus sibi videntur includi. Murmur in auribus
+tamquam maris fluctuantis fragor, et resonantia
+fluctu littora. Canes si viderint, leones arbitrantur, et
+fugiunt. Alii risu solvuntur incondito, alii inconsolabili
+moerore deplorant, alii irrationabiles cernunt pavores.
+Vigilantes somniant, dormientes litigant. Vita <emph>554</emph> 
+ his somnium est, somnus his mors est: excitari
+nullis vocibus possunt; quantolibet stimulandos
+impulsu putes, nisi resipuerint, evigilari non possunt.
+</p>
+          </div3>
+<div3>
+            <head>61. </head>
+<p>
+              <pb n="0718D"/>Unde bene Hieremias hujusmodi hominem
+tamquam superfluam creaturam, deflendum putat.
+Quid enim est homo ebrius, nisi superflua creatura?
+Itaque sic ait: <hi>Sicut fletum Jazer, deflebo te, vinea;
+quia deserta est civitas Jazer <note>(Jer. XLVIII, 32)</note>
+              </hi>. Et infra: <hi>Vinum in torcularibus tuis mane non calcaverunt, meridie autem non fecerunt 
+ <note>(Ibid. 33)</note>
+              </hi>. Jazer <foreign xml:lang="greek">ποιήσις
+περισσὸς,</foreign> factura superflua est. Moderatio enim naturalis
+<pb n="0719A"/>
+est: supra mensuram quidquid est superfluum
+habetur: ita est ebrietas quae fletu prophetico deploratur.
+Unde ait Apostolus: <hi>Nolite inebriari vino in
+quo est luxuria, sed inebriamini spiritu <note>(Ephes. V, 18)</note>
+              </hi>.
+Est ergo ebrietas culpae, est et gratiae. Et forte haec
+naturae, quae gratiae, qui ad imaginem et similitudinem
+Dei facti, Spiritu sancto repleti esse debemus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<p> <hi>De obtestationibus, sacramentis, ac propinationibus
+compotantium. Quomodo saepe secretiora vino extorqueantur.
+Et de prodigiosa quadam bibendi ratione,
+et quam ea sit valetudini perniciosa.</hi> </p>
+<div3>
+            <head>62.</head>
+            <p>
+ Quid autem obtestationes potantium loquar?
+Quid memorem sacramenta, quae violare nefas arbitrantur?
+<pb n="0719B"/>
+Bibamus, inquiunt: Opto salutem imperatorum;
+ut qui non biberit, fiat rens indevotionis.
+Videtur enim non amare imperatorem, qui pro ejus
+salute non biberit. O piae devotionis obsequium!
+Bibamus pro salute exercituum, pro comitum virtute,
+pro filiorum sanitate. Et haec vota ad Deum
+pervenire judicant, sicut illi qui calices ad sepulcra
+martyrum deferunt, atque illic in vesperam bibunt,
+et aliter se exaudiri posse non credunt. O stultitiam
+hominum, qui ebrietatem sacrificium putant: qui
+aestimant illis ebrietatem placere, qui jejunio passionem
+sustinere didicerunt!</p>
+          </div3>
+<div3>
+            <head>63.</head>
+            <p>
+ Quantos de intemperanti convivio novimus ad
+tormenta venisse? Dum per ebrietatem de imperio
+suo certant, et sibi regna promittunt, aliis honores
+pollicentur, infelices ad poenam ducti sunt, qui quid
+<pb n="0719C"/>
+dicerent nesciebant. Unde plerique boni judices ea
+quae per ebrietatem dicta essent, tenenda ad crimen
+non putaverunt. Plerique etiam vino utuntur ut
+equuleo; et quibus tormenta non eliciunt vocem
+proditionis, eos tentant bibendo; ut patriae statum,
+salutem civium, defensionis suae prodant consilia.
+Virtus enim plerumque vincit dolorem: fidem autem
+potus excludit. Cognovi plerosque fidiculis exulceratos
+nomen suum negasse. Quis inter cyathos texit,
+quod latere cupiebat? <emph>555</emph>
+</p>
+          </div3>
+<div3>
+            <head>64.</head>
+            <p>
+ Quid retexam auditum mihi non poculi,
+<pb n="0720A"/>
+sed profluvii genus, quo in ora hominum tamquam per
+fistulas aut canales vina funduntur. Hos homines, an
+utres verius aestimaverim? Et tamen ipsi utres, nisi
+moderata transfusio sit, saepe rumpuntur. Per cornu
+etiam fluentia in fauces hominum vina decurrunt;
+et si quis respiraverit, commissum flagitium, soluta
+acies, loco motus habetur. Aqua decurrens a Libano
+cautes rupeas solvit, quomodo mollibus putant nequaquam
+nocere visceribus vinolentorum impetus
+fluentorum?</p>
+          </div3>
+<div3>
+            <head>65.</head>
+            <p>
+ Elephantos quoque ferunt promuscide haurire
+aquae plurimum; eosdem tamen ad sedandam
+sitim moderato potu esse contentos: sed si forte ab
+aliquo caupone fuerint mercede fraudati, indignantes
+replere concavum promuscidis, non ut bibant,
+<pb n="0720B"/>
+sed effundant; atque ita momentariis inundationibus
+irrigare ejus tabernam, de quo se putarint vindicandos.
+Siccantur ad petum subito lacus, ac repente
+funduntur, natant omnia. Cui non mirum, tam immania
+belluarum corpora superfluum nil tenere?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p> <hi>Feminarum ebrietas quam sit ipsis propudiosa ac perniciosa
+spectantibus! quod malum ubi deploravit,
+quantum bonum sit sobrietas, et quantum malum intemperantia,
+exemplo Israelitarum patefacit.</hi> </p>
+<div3>
+            <head>66.</head>
+            <p>
+ Sed quid de viris loquamur, quando etiam
+feminae, quas oportet sollicitiorem castitati sobrietatis
+adhibere custodiam, usque ad ebrietatem bibunt?
+Deinde surgentes, quas etiam inter secreta domus
+<pb n="0720C"/>
+vel audiri ab alienis non convenit, vel videri, prodire
+audent in publicum, non velato capite, vultu
+procaci. Apostolus <note>(I Cor. XIV, 35)</note> mulieres tacere
+etiam in Ecclesia jubet, domi viros suos praecipit interrogare.
+Illae in plateis inverecundos etiam viris
+sub conspectu adolescentulorum intemperant um
+choros ducunt, jactantes comam, trahentes tunicas,
+scissae amictus, nudae lacertos, plaudentes manibus,
+saltantes pedibus, personantes vocibus, irritantes in
+se juvenum libidines motu histrionico, petulanti
+oculo, dedecoroso ludibrio. Spectat corona adolescentum,
+et fit miserabile theatrum. Inter saltantium
+<pb n="0721A"/>
+ruinas et spectantium lapsus, coelum impuro
+contaminatur aspectu, terra turpi saltatione polluitur,
+quae obscenis saltatibus verberatur.</p>
+          </div3>
+<div3>
+            <head>67.</head>
+            <p>
+ Quomodo patienter loquar, pie praeteream,
+convenienter defleam? Vinum nobis tantarum animarum
+damna intulit. Etenim si vinum et mulieres
+discedere a Deo faciunt, quod vel ebrietas, vel libido
+praevaricationis illecebrae <emph>556</emph> sint, si singula ac
+separata haec faciunt, quid facient unita? Unde non
+immerito ait sapiens ante nos quidam: <hi>Mulier ebriosa,
+ira magna <note>(Eccli. XXVI, 11)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>68.</head>
+            <p>
+ Quid autem mirum si vino decipiuntur animae
+feminarum, cum omnes illae Tribus patrum, cum de
+petra biberint aquam, manna manducarent, gentes
+validissimas vincerent, et non erat in his ullus infirmus:
+<pb n="0721B"/>
+ubi vero carnes desiderare coeperunt, et desideriis
+in Aegyptum convertebantur, nequaquam ex tot
+millibus hominum in terram repromissionis praeter
+duos pervenire meruerunt? Itaque quid boni sit sobrietas,
+quid mali intemperantia, hinc colligere datur:
+quando murmurabant requirentes Aegypti delicias,
+a serpentibus mordebantur: quando per maris
+Rubri transibant semitam, aquam bibebant. Non
+ergo veremur exemplum, non fugimus delicias, ne
+nos futurorum bonorum adeptione defraudent?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p> <hi>Luxuriosis exitium Esaiae prophetia denuntiari: mare
+a mercatoribus, in quorum avaritiam invehitur, sollicitari
+non debere; cum non ad navigandum, sed ad
+escam, et non hominibus, sed piscibus ad perambulandum
+fuerit datum: postremo qua ratione navibus
+comparentur voluptuosi?</hi> 
+<pb n="0721C"/>
+          </p>
+<div3>
+            <head>69.</head>
+            <p>
+ Et quid aliorum utar sententiis? Ipsi bene
+pasti ac luxuriosi quid sibi sperent, audiamus. Inducit
+enim eos Esaias propheta dicentes: <hi>Manducemus
+et bibamus: cras enim moriemur <note>(Esai. XXII, 13)</note>
+            </hi>.
+Meritoque exclamat: <hi>Ululate naves Carthaginis,
+quae perierunt, et non amplius erunt <note>(Esai. XXIII,
+1)</note>
+            </hi>. Quod est dictum de visione Tyri, quam luxuriosam
+urbem cognovimus. Ideoque nona visio est, non septima
+aut octava, quod ea neque legem custodiat, neque
+Evangelii gratiam: cum et sabbato legitimo ignes libidinis
+adolere sit vetitum, et Evangelii serie octavus dies
+resurrectionis illuceat. Idem autem dies primus atque
+<pb n="0721D"/>
+octavus, quia Dominica dies in se recurrit. Luxuria
+ergo nec fidem habet, nec observantiam disciplinae:
+<pb n="0722A"/>
+luxuria seminarium et origo vitiorum est. Nec
+arbitremini me adversus Apostolum dixisse <note>(I Tim.
+VI, 1)</note>, quia ille ait avaritiam radicem esse vitiorum
+omnium, quoniam luxuria ipsius est mater avaritiae.
+Etenim cum exhauserit quis luxuriando proprias facultates,
+quaerit postea avara compendia.</p>
+          </div3>
+<div3>
+            <head>70.</head>
+            <p>
+ Auditis hodie quid lectum sit: <hi>Mercatores.</hi> inquit, <hi>Phoenicum transmeantes mare in aqua multa:
+semen mercatorum sicut messis quae defertur 
+ <note>(Esai.
+XXIII, 2 et 3)</note>
+            </hi>. Vicinae sunt istae civitates, Tyrus, Phoenice,
+Sidon: vicinae ut locis, ita et vitiis. Mercatores
+a negotiationibus periculosa transfretatione maris <emph>557</emph> 
+ lucella quaerentes. Sollicita vita hominum, inquieta
+conversatio, et quodam semper in turbine,
+ventis ipsis mobilior quibus volvitur, et huc atque
+<pb n="0722B"/>
+illuc saepe jactatur. Utique accusatis crebra naufragia,
+quis vos navigare compellit? Quasi non invidia
+opum et terras faciatis intutas, et ad latrocinium
+plurimos excitetis? Mare non ad navigandum fecit
+Deus, sed propter elementi pulchritudinem. Latius
+pelagi fudit aequora, certe ut freto includeret terras,
+ne longius tu vagus et exsul errares. Sed tempestate
+jactatur mare. Timere ergo, non usurpare debetis.
+Elementum innocens nihil deliquit: temeritas
+humana sibi est ipsa discrimini. Denique qui non navigat,
+nescit timere naufragium. Dominus dixit: <hi>Dominamini
+piscium maris <note>(Gen. I, 28)</note>
+            </hi>, non dixit: Navigate
+in fluctibus. Denique et propheta Jonas, qui
+missus est in Ninivem, ut poenitentiam praedicaret,
+quia voluit navigare, ut fugeret a facie Dei, tempestate
+<pb n="0722C"/>
+turbatur, et sorte ductus, et jactatus in mare, et
+exceptus a ceto est.</p>
+          </div3>
+<div3>
+            <head>71.</head>
+            <p>
+ Propheta quoque David ait, cum Dei circa
+hominem commemoraret gratiam: <hi>Omnia subjecisti
+sub pedibus ejus, oves et boves universas, insuper et
+pecora campi, volucres coeli, et pisces maris, qui perambulant
+semitas maris <note>(Psal. VIII, 8 et 9)</note>
+            </hi>. Piscibus
+dedit, non hominibus, perambulare semitas maris.
+Ad escam tibi mare datum est, non ad periculum:
+ad cibum, non ad mercatum utere. Cur tibi periculum
+generas de voluptate? Cur separatioris elementi
+profunda rimaris? Cur inquietas mundi altiora secreta?
+Cur postremo saepius sulcare atque exarare
+fluctus impatiens nauta contendis? Cur tentas frequenter
+innoxia aequora, irritas procellas? O inexplebilis
+<pb n="0722D"/>
+avaritia mercatorum? Cedit tibi et mare, et
+inquietudinem tuam pelagus ferre non potest. Denique
+<pb n="0723A"/>
+toties recurrentibus mercatoribus exaratum: <hi>Erubesce, Sidon, dixit mare 
+ <note>(Esai. XXIII, 4)</note>
+            </hi>. Tamquam
+fatigati elementi vox ista dicentis est: <hi>Erubesce, Sidon,</hi> 
+hoc est, meos fluctus negotiator arguis, cum sis
+ipse fluctibus inquietior; et erubesce vel pudore,
+quoniam periculo non moveris. Verecundiores venti
+sunt, quam vestrae cupiditates. Illi habent otia sua,
+numquam vestra quaerendi studia feriantur. Et cum
+otiosa tempestas est, numquam vestra otiosa sunt
+navigia. Versatur unda sub remige, quando quiescit
+a flamine.</p>
+          </div3>
+<div3>
+            <head>72.</head>
+            <p>
+ <hi>Non parturivi,</hi> inquit, <hi>nec peperi, nec enutrivi
+juvenes <note>(Ibid.)</note>
+            </hi>. Quid me inquietant quos nescio,
+quos non agnosco? <hi>Ite in Carthaginem, ululate qui
+inhabitatis insulas <note>(Ibid. 6)</note>
+            </hi>. Supra dixit: <hi>Ululate
+<pb n="0723B"/>
+naves Carthaginis.</hi> Carthaginem etenim Tyrii condiderunt,
+et ideo Carthaginenses sequuntur luxuriam
+conditorum, transfusa in se decolora successione nequitiae,
+pessimorum vitiorum deteriores haeredes. Et
+bene luxuriosos, naves dixit. Sicut enim hae vento, ita
+illi cibo jactantur et vino. Insulas <emph>558</emph> repleta potu
+corpora inhabitant, naufragiis circumsonant, tunduntur
+fluctibus ebrietates, nec per diem nec per noctem
+quiescunt. Horum igitur mercatorum semen in
+aqua, messis in fluctibus est. In aqua enim labores
+suos seminant, ut pericula metant. In aqua eis seges
+pullulat, in aqua messis exuberat. Fructus ipse in
+aqua est, numquam tutus et solidus. Unde recte ait <note>(Ezech. XXVIII)</note>:
+Qui seminabat in terra, non introivit
+in negotiationem: immo qui seminabat in coelo.
+<pb n="0723C"/>
+Sed est bona terra, in qua quicumque seminaverit,
+fructus ei coelestes orientur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p> <hi>In verborum vilitate saepius majorem inesse efficaciam.
+Quomodo canticum meretricis nationum congregatio
+cantaverit; cum exhortatione ad morum conversionem,
+nec non ad peccata eleemosynis redimenda.</hi> </p>
+<div3>
+            <head>73.</head>
+            <p>
+ <hi>Ululate,</hi> inquit, <hi>iterum, naves Carthaginis,
+quoniam periit munitio vestra; et erit in illa die, relinquetur
+Tyrus <note>(Esai. XXIII, 14)</note>
+            </hi>. Et infra: <hi>Eritque
+post septuaginta annos Tyrus ut canticum meretricis <note>(Ibid. 15)</note>
+            </hi>.
+Vide quibus verbis utatur propheta, nec
+refugiat verborum istiusmodi vilitatem. Nos interdum
+refugimus; non quod nobis, quam illis lingua
+sit castior, sed auctoritas inferior. Major enim vis
+<pb n="0723D"/>
+rerum in talium expressione sermonum est; ut qui
+delicta non erubescunt, erubescant vel nomina delictorum. <hi>Eritque Tyrus,</hi> 
+ inquit, <hi>ut canticum meretricis.</hi> 
+Vide ne cum aliquis illos choros viderit turpia
+verba cantare, dicat: Ecce Tyrus facta est ut
+<pb n="0724A"/>
+canticum meretricis. Oraculum propheticae annuntiationis
+impletum est.</p>
+          </div3>
+<div3>
+            <head>74.</head>
+            <p>
+ Et subjecit: <hi>Accipe citharam, et vagare, civitas
+meretrix oblita, bene cithariza, multa canta, ut fiat
+memoria tui. Et post septuaginta annos erit Tyrus ut
+canticum meretricis, et visitationem faciet Deus Tyri <note>(Ibid. 16)</note>
+            </hi>.
+Unde possumus et in bono canticum
+Rahab illius meretricis accipere, quae exploratores
+Jesu fideli mente suscepit. Nam et Dominus ait: <hi>Cantavimus vobis, et non saltastis 
+ <note>(Luc. VII, 32)</note>
+            </hi>. Et
+David ait: <hi>Cantate Domino canticum novum, cantate
+Domino, omnis terra <note>(Psal. XCV, 1)</note>
+            </hi>, hoc est canticum
+meretricis, quod ante illa meretrix in Adam et Eva
+terra cantavit, meretrix in populo nationum.
+Haec meretrix plurimas fecit bonas meretrices,
+<pb n="0724B"/>
+de quibus dictum est a Domino Jesu ad illum
+electum et seniorem populum Dei: <hi>Publicani et meretrices
+praecedunt vos in regnum Dei <note>(Matth. XXI, 31)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>75.</head>
+            <p>
+ Ergo quoniam tam misericordem habemus
+Dominum, qui etiam gravi ignoscat errori, convertamur
+a vitiis, non recedamus a lege, praeceptum
+Domini quasi servuli sedulis studiis exsequamur. Quid
+nobis cum impuritatibus et impudicitiis? Quid cum
+operibus diaboli? <emph>559</emph> Audistis hodie in lectione decursa
+quid legio dixerit: <hi>Quid mihi et tibi est, Jesu
+fili Dei <note>(Luc. VIII, 28)</note>
+            </hi>? Et tu dicito, si forte vides
+pugnare adversum te diaboli tentamenta: Quid mihi
+et tibi est, Belial? Ego Christi servus sum, illius redemptus
+sanguine, illi me totum mancipavi. Quid
+mihi et tibi est? Non novi opera tua, nihil tuum
+<pb n="0724C"/>
+quaero, nihil tuum possideo, nihil tuum desidero.
+Quanto magis nos oportet separari a diabolo, si se
+ille discernit a Christo? Et si fuimus ei in aliquo
+obnoxii, jam non sumus: confugimus ad medicum,
+vulnera superiora curavit. Et si quid superest acerbitatis,
+medela non deerit. Et si quid injuriae fecimus,
+memor non erit, qui semel donavit. Et si gravia
+deliquimus, magnum medicum invenimus, magnam
+medicinam gratiae ejus accepimus <note>(De poenit., dist. 1,
+cap. Medicina)</note>. Magna enim medicina tollit peccata
+magna.</p>
+          </div3>
+<div3>
+            <head>76.</head>
+            <p>
+ Habemus etiam plura subsidia, quibus peccata
+nostra redimamus. Pecuniam habes, redime peccatum
+tuum. Non venalis est Dominus, sed tu ipse venalis
+es. Peccatis tuis venumdatus es, redime te
+<pb n="0724D"/>
+operibus tuis, redime te pecunia tua. Vilis pecunia,
+sed pretiosa est misericordia. <hi>Eleemosyna,</hi> inquit, <hi>a
+peccato liberat <note>(Tob. XII, 9)</note>
+            </hi>. Et alibi dicit: <hi>Redemptio
+viri, divitiae ejus <note>(Prov. XIII, 8)</note>
+            </hi>. Et in Evangelio
+Dominus dicit: <hi>Facite vobis amicos de mammona
+<pb n="0725A"/>
+iniquitatis <note>(Luc. XVI, 9)</note>
+            </hi>. Et veneno frequenter antidotum
+temperatur, hoc est, venenum veneno excluditur.
+Veneno mors repellitur, vita servatur. Fac et
+tu quasi bonus dispensator de instrumento avaritiae
+subsidium misericordiae, sinceritatis gratiam de corruptionis
+illecebra.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<p> <hi>Prophetis etiam futura praesentia esse: item mundum
+ex Esaiae vaticinio non injuria destruendum, ad quam
+rem illustrandam perelegans adhibetur stadii comparatio.
+Hujus occasione nos athletas esse atque ad
+coronam exerceri sedulo oportere sanctus docet; ac
+tandem Christum ut adventum suum maturet, apprecatur.</hi> </p>
+<div3>
+            <head>77. </head>
+<p>
+              <pb n="0725B"/>Audisti quid lectum sit hodie: <hi>Ecce venit Dominus
+disperdere orbem terrarum <note>(Esai. XIII, 5)</note>
+              </hi>. Quasi
+manu sanctus propheta demonstret, quasi oculis
+advenientem videat judicii diem, ita dicit: <hi>Ecce venit
+Dominus disperdere orbem terrarum.</hi> Immo quia in
+spiritu prophetis etiam quae futura sunt tamquam
+praesentia revelantur, ideo quae videbat, nobis quoque
+demonstrare cupiebat, ut nos ad conversionem
+ab errore revocaret.</p>
+          </div3>
+<div3>
+            <head>78.</head>
+            <p>
+ Nec tamen quisquam frangi debet, cum audit
+quia disperdet Dominus orbem terrarum. Ne forte
+dicat: Esto, nos gravia peccata commisimus, quid
+deliquit coelum, quid terra, quid mare, ut et illa disperdat?
+Cur peribit tam pulcher ornatus? Angusti
+est animi istiusmodi opinio. Caeterum si altius spectes,
+<pb n="0725C"/>
+invenies hoc esse pro nobis, quod putas esse
+contra nos: judicabis hoc esse pro mundo, quod adversum
+mundum arbitraris. Non semper stadium
+refertum <emph>560</emph> est spectatoribus, non semper certaminibus
+inquietum, non semper concretum pulvere:
+sed quando certamina, tunc populus in spectaculo,
+luctator in scammate, pulvis in stadio. Ubi decursa
+certamina, conventus solvitur, discedit unusquisque
+aut victor ad gratiam, aut victus ad opprobrium:
+evehit corona victorem, victum premit verecundia,
+angit injuria. Si quis ergo postea ingrediatur stadium,
+videat vacuum celebritatis, dicat agonothetae: Cur
+vacat stadium; cur silent certamina; cur solemnia
+feriantur? Respondebit qui agoni praeest: Oportet
+requiescere athletas, requiescere spectatores. Quis
+<pb n="0725D"/>
+enim laboris est fructus, nisi requies post laborem?
+Similiter et orbis terrarum aliquando solvendus est,
+ut sit requies fatigatis.</p>
+          </div3>
+<div3>
+            <head>79.</head>
+            <p>
+ Athletae sumus, in quodam stadio decernimus
+spiritali. Denique bonus athleta dicebat: <hi>Facti sumus
+spectaculum hujus mundi <note>(I Cor. IV, 9)</note>
+            </hi>. Et alibi: <hi>Si
+curro, non ut in incertum: sic enitor, non ut aerem
+caedens; sed castigo corpus meum <note>(I Cor. IX, 26)</note>
+            </hi>. Et
+alibi: <hi>Superiora obliviscens, et quae sunt priora appetens,
+<pb n="0726A"/>
+ad destinatum sequor bravium <note>(Philip. III, 13)</note>
+            </hi>.
+Athletae ergo sumus, legitime certandum est. Multa
+luctamina sunt: et qui hodie victus est, cras se reparat.
+Ante ad bravium contenditur, postea ad coronam.
+Numquid athleta otio vacat, cum semel dederit
+certamini nomen suum? Exercetur quotidie, ungitur
+quotidie. Ipse cibus ei agonisticus datur, disciplina
+exigitur, castimonia custoditur. Et tu dedisti nomen
+tuum ad agonem Christi, subscripsisti ad competitionem
+coronae: meditare, exercere, ungere oleo laetitiae,
+unguento exinanito. Cibus tuus cibus sobrietatis
+sit, nihil habeat intemperantiae, nihil luxuriae. Potus
+tuus parcior, ne quid ebrietatis obrepat: custodi
+corporis castimoniam, ut possis esse habilis ad coronam,
+ne existimatio tua offendat spectatoris affectum,
+<pb n="0726B"/>
+ne te fautores tui negligentem videant et deserant.
+Spectant te Archangeli, et Potestates, et
+Dominationes, et illa Angelorum decem millia decem
+millium. Sub tantis spectatoribus erubescere, considera
+quam dedecorosum sit. Ingressus stadium,
+pulvere rigorem animae tuae excita, lacertos excute.
+Progressus in scamma, necesse est ut excipias pulverem,
+subeas aestivi solis flagrantiam. Gravis aestus,
+sed dulcis victoria: molesta caligo pulveris, sed speciosa
+tolerantia. Nemo stadium pulverulentus ingreditur,
+sed pulverulentum reddunt certamina. Ibi colligitur
+pulvis, ubi palma proponitur. Nemo iterum
+nitidus coronatur, pulverulentum decet victoria.</p>
+          </div3>
+<div3>
+            <head>80.</head>
+            <p>
+ Veni ergo, Domine Jesu, exeat corona tua,
+admitte victores in requiem, victos ad compunctionem.
+<pb n="0726C"/>
+Et si disperdis orbem terrarum, plura sunt invisibilia
+opera tua, quam quae vidimus. Qui angustioris
+est animi, illa non cernit, dolet quod disperdas
+orbem terrarum: sed qui novit spectare quae invisibilia
+sunt, gaudet ut venias, et omnes liberes. Gaudent
+athletae qui possunt <emph>561</emph> dicere: <hi>Veniat regnum
+tuum, fiat voluntas tua sicut in coelo et in terra <note>(Matth.
+VI, 10)</note>
+            </hi>. Gaudebit creatura mundi, ut a vanitate
+mundi istius liberetur, quae nunc congemiscit et parturit;
+quia vanitati etiam illa creatura subjecta est,
+donec multiplicetur adoptio filiorum, et totius corporis
+redemptio compleatur. In bono ergo disperdet orbem
+terrarum. Erit etenim coelum novum, et nox non
+erit amplius. Denique revelabit, inquit, faciem ejus,
+ut revelata facie spectemus gloriam Christi <hi>(I Cor. III,
+<pb n="0726D"/>
+13)</hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p> <hi>Fugiendas comessationes, ne se a nobis Moyses cum
+levitis separet, et quomodo adhuc veniat. Item
+quosnam rescindi jubeat Apostolus? Post haec nondum
+baptizati ad hanc tantam gratiam invitantur,
+explosis ad extremum quorumdam excusationibus.</hi> </p>
+<div3>
+            <head>81.</head>
+            <p>
+ Advertamus ergo in stadio constituti quantis
+<pb n="0727A"/>
+aut delectationi aut dolori erimus, qui nunc fautores
+nobis sunt, ne pro nobis incipiant erubescere. Sicut
+enim <hi>erit gaudium in coelo super uno peccatore poenitentiam
+agente <note>(Luc. XV, 10)</note>
+            </hi>, ita erit moestitia super
+eo qui, non exorata venia, cursum hujus vitae
+confecerit. Castigemus ergo corpus nostrum jejuniis,
+fugiamus indecoras comessationes. Caveamus ne nobis
+dicatur: Ululate a vino. Ne veniat Moyses, et
+levitas advocet: et quicumque paratus ad Dominum
+armatam dexteram gerat, separet se ab his qui manducando
+et bibendo gravia contraxere peccata. Et
+hodie Moyses venit, cum Lex recensetur: Moyses
+vocat, cum Lex praecipit.</p>
+          </div3>
+<div3>
+            <head>82.</head>
+            <p>
+ Apostolus docet <note>(II Thess. III, 6)</note> ut separemus
+nos ab omni fratre inquiete agente. Percutiamus
+<pb n="0727B"/>
+eum gladio spirituali, qui est verbum Dei. <note>(Ephes. VI, 17)</note>.
+Non fratris, non propinqui accipiamus
+personam: sed omnem immundum a Christi
+secernamus altaribus; ut emundet et corrigat lapsus
+suos, quo ad sacramenta Christi redire mereatur.</p>
+          </div3>
+<div3>
+            <head>83.</head>
+            <p>
+ Si quis autem non est baptizatus, securior
+convertatur remissionem accipiens peccatorum. Siquidem
+baptismus velut ignis quidam peccata consumit;
+quia Christus in igne et spiritu baptizat. Denique
+hunc typum legis in Regnorum libris <note>(III Reg.
+XVIII, 34)</note>, ubi Elias super altare ligna imposuit, et
+dixit ut mitterent super de hydriis aquam et dixit: <hi>Iterate, et iteraverunt;</hi> 
+ et dixit: <hi>Iterate tertio, et iteraverunt,
+tertio;</hi> et cum manaret aqua, precatus est
+<pb n="0727C"/>
+Elias, et ignis descendit de coelo. Tu es <emph>562</emph> homo
+super altare, qui ablueris aqua, cujus exuritur culpa, ut
+vita renovetur. Lignum enim et stipulam consumit
+ignis. Noli timere ignem per quem illuminaris. Ideo
+tibi dicitur: <hi>Accedite ad eum, et illuminamini <note>(Psal.
+XXXIII, 6)</note>
+            </hi>. Suscipite jugum Christi. Nolite timere
+quia jugum est: festinate, quia leve est. Non conterit
+colla, sed honestat. Quid dubitatis; quid procrastinatis?
+Non alligat cervicem vinculis, sed mentem
+<pb n="0728A"/>
+gratia copulat: non necessitate constringit,
+ sed voluntatem boni operis dirigit.</p>
+          </div3>
+<div3>
+            <head>84.</head>
+            <p>
+ Quid negas adhuc esse temporis? Omne tempus
+opportunum ad indulgentiam. Si aurum tibi offeram,
+non mihi dicis: Cras veniam, sed jam exigis.
+Aurum accipere nemo differt, nullus excusat: redemptio
+animae promittitur, et nemo festinat. Joannes
+in poenitentiam baptizabat, et omnis Judaea
+conveniebat: Christus baptizat in Spiritu: Christus
+gratiam dispensat, et cum fastidio convenitur. Typum
+baptismatis demonstravit Elias <note>(III Reg. XVIII,
+43 et seq.)</note>, et coelum aperuit quod fuit clausum tribus
+annis et sex mensibus. Quanto majora munera
+veritatis sunt! Aperuit utique coelum non pluvia
+descendens, sed ascendens gratia. Nemo enim nisi
+<pb n="0728B"/>
+per aquam et Spiritum ascendit in regnum coelorum.
+Clauserat coelum hominibus perfidia, sed aperuit
+fides.</p>
+          </div3>
+<div3>
+            <head>85.</head>
+            <p>
+ Patebat et ante hoc coelum hominibus. Denique
+Enoch raptus ad coelum est. Iterum clausum est:
+sed aperuit Elias qui raptus est curru igneo <note>(IV Reg.
+XI)</note>. Et vos potestis ascendere, si sacramenti gratiam
+consequamini. Quousque delectationes; quousque
+comessationes? Instat judicii dies: dum differs gratiam,
+mors appropinquat. Quis dicat: Nunc mihi
+non vacat, occupatus sum, non mihi demonstres lumen,
+nolo tam cito me redimas, non mihi adhuc opus
+est regnum coeleste? Nonne hoc dicit qui excusat se
+a baptismate? Et quanta gratia renovaris, o homo!
+Purgaris, et non exureris: sanaris, et non doles:
+<pb n="0728C"/>
+reformaris, et non dissolveris: ictum mortis non
+excipis, et resurgis. Et adhuc dissimulas; adhuc exspectas
+ut vivas saeculo, postea te reservas Deo.
+Ignoras quod Cain propterea displicuerit sacrificium,
+quoniam non primitiva obtulit, sed primitivis ipse
+perfunctus est, de sequentibus munus Deo tentavit
+offerre: Abel autem primitiarum suarum oblatione
+praelatus, meruit insigni pietatis laudari oraculo.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber primus ad Constantium Augustum</title>
+              <author ref="http://viaf.org/viaf/89595978">Hilarius Pictaviensis<date>315-367</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 10</title>
+           <idno>HilPic.LiPrAdC</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Liber primus ad Constantium Augustum</head>
+
+<pb n="0557"/>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0557A"/> <hi>Ecclesiae ne a fratribus affligantur. Judices
+saeculares ne cognoscant causas clericorum.</hi> --Benignifica
+natura tua, domine beatissime Auguste, cum
+benigna voluntate concordat. Et quoniam de fonte
+paternae pietatis tuae misericordia largiter profluit;
+quod rogamus, facile nos impetrare posse confidimus.
+Non solum verbis, sed etiam lacrymis deprecamur,
+ne diutius catholicae Ecclesiae gravissimis injuriis
+afficiantur, et intolerabiles sustineant persecutiones
+et contumelias, et quod est nefarium, a
+fratribus nostris. Provideat et decernat clementia
+tua, ut omnes se ( <hi>abundat</hi> se) ubique judices, quibus
+provinciarum administrationes creditae sunt, ad
+quos sola cura et sollicitudo publicorum negotiorum
+pertinere debet, a religiosa se observantia abstineant:
+<pb n="0557B"/>
+neque posthac praesumant atque usurpent,
+et putent se causas cognoscere clericorum, et innocentes
+ homines variis afflictationibus, minis,
+violentia, terroribus frangere atque vexare.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Ne inviti vi subjiciantur heterodoxis. Catholicorum
+oppressorum vox, ne rectores locorum haereticis
+favorem praestent. Mysteriorum solemnia, et preces pro
+rege.</hi> --Intelligit singularis et admirabilis sapientia
+tua, non decere, non oportere cogi et compelli invitos
+et repugnantes, ut se his subjiciant et addicant
+vi oppressi, qui non cessant adulterinae doctrinae
+<pb n="0558A"/>
+corrupta semina adspergere. Idcirco laboratis, et salutaribus
+consiliis rempublicam regitis; excubatis etiam,
+et vigilatis: ut omnes quibus imperatis, dulcissima
+libertate potiantur. Non alia ratione quae turbata
+sunt componi, quae divulsa sunt coerceri possunt;
+nisi unusquisque nulla servitutis necessitate adstrictus,
+integrum habeat vivendi arbitrium. Certe vox
+exclamantium a tua mansuetudine exaudiri debet:
+Catholicus sum, nolo esse haereticus; Christianus
+sum, non Arianus: et melius mihi in hoc saeculo
+mori, quam alicujus privati potentia dominante castam
+veritatis virginitatem corrumpere. Aequumque
+debet videri sanctitati tuae, gloriosissime Auguste,
+ut qui timent Dominum Deum et divinum judicium,
+non polluantur aut contaminentur exsecrandis blasphemiis;
+<pb n="0558B"/>
+sed habeant potestatem, ut eos sequantur
+episcopos et praepositos, qui et inviolata conservant
+foedera charitatis, et cupiunt perpetuam et sinceram
+habere pacem. Nec fieri potest, nec ratio patitur, ut
+repugnantia congruant, dissimilia conglutinentur,
+vera et falsa misceantur, lux et tenebrae confundantur,
+dies quoque et nox habeant aliquam conjunctionem.
+Si igitur, quod sine dubitatione et speramus et
+credimus, haec permovent non insitam, sed ingenitam
+tuam bonitatem; praecipe ut non studium, non gratiam,
+non favorem, locorum Rectores gravissimis
+<pb n="0559A"/>
+haereticis praestent. Permittat lenitas tua populis, ut
+quos voluerint <note>(mss. volunt)</note>, quos putaverint, quos
+delegerint, audiant docentes, et divina mysteriorum
+solemnia concelebrent, <emph>537</emph> et pro incolumitate
+et beatitudine tua offerant preces.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Suspicio seditionis eximitur. Arianorum astus.</hi> --Non quisquam perversus aut invidus maligna loquatur:
+nulla quidem suspicio est non modo seditionis,
+sed nec asperae obmurmurationis. Quieta sunt
+omnia, et verecunda. Et nunc, qui Ariana et pestifera
+contagione inquinati sunt, non cessant ore impio
+et sacrilego animo evangeliorum sinceritatem
+corrumpere, et rectam apostolorum regulam depravere.
+Divinos prophetas non intelligunt. Callidi
+et astuti artificio quodam utuntur, ut inclusam
+<pb n="0559B"/>
+perniciosam corruptelam inquisitorum verborum velamine
+contegant, et non prius venenatum virus effundant,
+quam simplices et innocentes sub praetextu
+nominis Christiani raptos atque irretitos, ne soli
+pereant, participes horrendi criminis sui reos faciant.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Sacerdotes pii ad suas sedes remeent.</hi> --Et hoc
+obsecramus pietatem tuam, ut eos, qui adhuc (egregii
+videlicet sacerdotes, qui tanti nominis praepollent
+dignitate), aut in exsilio, aut in desertis locis
+tenentur, jubeas ad sedes suas remeare: ut ubique
+grata libertas sit, et jucunda laetitia.
+<pb n="0560A"/>
+</p>
+        </div3>
+<div3>
+          <head>5. </head>
+          <p>
+ <hi>Ariana haeresis novella.</hi> --Quis non videt, quis
+non intelligit? Post quadringentos fere annos, post
+quam Dei unigenitus Filius humano generi pereunti
+subvenire dignatus est, quasi ante non apostoli, non
+post eorum martyria et excessus fuerint Christiani,
+novella nunc et teterrima lues, non corrupti aeris,
+sed exsecrandorum blasphemorum, Ariana effusa
+est. <emph>538</emph> Ita illi, qui ante crediderunt, inanem
+spem immortalitatis habuerunt? Nuper didicimus
+commenta haec fuisse inventa et a duobus Eusebiis
+et a Narcisso et a Theodoro et ab Stephano
+et Acacio et Menophanto, et imperitis atque improbis
+duobus adolescentibus Ursacio et Valente:
+ quorum epistolae proferuntur, et idoneis testibus
+etiam convincuntur, qui eos magis oblatrantes quam
+<pb n="0560B"/>
+disputantes audierunt. Quibus qui communionem
+suam imprudenter et incaute commiscent, quia sunt
+socii scelerum, participes criminum necesse est
+ etiam eos, qui jam in hoc saeculo abjecti sunt et
+abdicati, cum advenerit dies judicii, pati supplicia
+sempiterna.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Litterae et legatio post absolutionem Athanasii.
+Arianorum crudelitas.</hi> --Jam nemini dubium est,
+ cujuscemodi curam in absolutionem Athanasii,
+sancti illi viri receperint: ut post synodi sententias,
+quas, pro sacerdotalis judicii reverentia, fas fuerat
+<pb n="0561A"/>
+sacerdotali vel ecclesiastica conscientia contineri,
+scribi ad regem, legationemque instrui oportuerit.
+Sed quid aliud his litteris, quam libertatem fidei et
+contagionem Ariani nominis deprecantur, orantque
+vincula, carceres, tribunalia, et omnem illum feralem
+habitum, novas etiam in reos quaestiones inhiberi?
+Deus cognitionem sui docuit potius, quam exegit: et
+operationum coelestium admiratione praeceptis suis
+concilians auctoritatem, coactam confitendi se adspernatus
+est voluntatem. Si ad fidem veram istius
+modi vis adhiberetur; episcopalis <emph>539</emph> doctrina obviam
+pergeret, diceretque: Deus universitatis est
+Dominus, obsequio non eget necessario, non requirit
+coactam confessionem. Non fallendus est, sed
+promerendus. Nostra potius, non sua causa venerandus
+<pb n="0561B"/>
+est. Non possum nisi volentem recipere, nisi
+orantem audire, nisi profitentem signare. Simplicitate
+quaerendus est, confessione discendus est, charitate
+amandus est, timore venerandus est, voluntatis
+probitate retinendus est. At vero quid istud est, quod
+sacerdotes timere Deum vinculis coguntur, poenis
+jubentur? Sacerdotes carceribus continentur, plebs
+in custodia catenati ordinis constricta disponitur,
+virgines nudantur ad poenam, et sacrata Deo corpora,
+ publico exposita conspectui, ad fructum
+spectaculi et quaestionis aptantur. Cogunt nempe, non
+ut Christiani omnes sint, sed ut Ariani: et confessam
+in Deo fidem ad consortium piaculi sui scelere
+compellunt. Auctoritate etiam nominis sui in
+errorem Imperatorem transducunt: rectum affirmantes,
+<pb n="0561C"/>
+ut sub specie timoris Dei, in hac perversitate
+subditos sibi tradant. Quaestiones poscunt, judiciorum
+subsidia desiderant, auctoritatem regiam implorant:
+et nec sic perversitatem sceleris sui erubescunt,
+extorquere conniventiam plebium nec
+cogendi jure potuerunt.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Judicialis forma in causa Athanasii non servata.</hi> 
+--Haec si de veteribus chartulis prolata aetatis nostrae
+tempus instruerent; ambigendum, ut opinor,
+tantis de rebus fuisset. Et cum ab aliis quibusque
+<pb n="0562A"/>
+pronuntiari posceretur reus; quaereretur in fidem
+litterarum, in judicum vitam, in accusatorum fidem,
+in ipsius quoque hominis mores atque actus. Moveret
+enim absolutionem ejus Arianorum juncta damnatio:
+magnique periculi esset, judicium simul cum
+reatus et innocentiae non suscepta rursum inquisitione
+dissolvere: totaque in patrocinium suum,
+cum fidei doctrina, auctoritas sibi antiquitatis assisteret.
+At cum ipsi, qui tunc Ariani haeretici damnati
+sunt, rem exagitent, turbent <emph>540</emph> omnia, omnesque
+ex potestate et ambitione corrumpant, et Athanasius
+si fuit, esse adhuc reus potest; testes loquantur, videant
+judices, fidei doctrina praeceptis evangelicis
+atque apostolicis eluceat: quae obtusio intelligentiae
+est? quae cordis hebetudo? quae oblivio spei? qu
+<pb n="0562B"/>
+amor scelerum? quod odium veritatis? in damnatorum
+favorem, Dei amorem transducunt.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ <hi>Eusebii Vercellensis injusta damnatio.</hi> --Venio
+nunc ad id, quod recens gestum est, in quo se etiam
+professio sceleris in secreto artis suae dedignata
+est continere. Eusebius Vercellensis episcopus est
+vir omni vita Deo serviens. Hic post Arelatensem
+synodum, cum Paulinus episcopus tantis istorum
+sceleribus contraisset <note>(Arelate an. 353)</note>, venire Mediolanum
+praecipitur <note>(an. 355)</note>. Collecta jam illic malignantium
+synagoga, decem diebus ad Ecclesiam est
+vetitus accedere, dum adversus tam sanctum virum
+ malitia se perversa consumit. Suppuratis deinde
+consiliis omnibus, ubi libitum est, advocatur. Adest
+una cum Romanis clericis <note>(Hilario diac. et Pancratio)</note>,
+<pb n="0562C"/>
+et Lucifero Sardiniae episcopo. Conventus
+ut in Athanasium subscriberet, ait, De sacerdotali
+fide prius debere constare; compertos sibi quosdam
+ex his, qui adessent, haeretica labe pollutos. Expositam
+fidem apud Nicaeam, cujus superius meminimus,
+posuit in medio: spondens omnia se, quae postularent
+esse facturum, si fidei professionem scripsissent.
+Dionysius Mediolanensis Episcopus chartam
+primus accepit: ubi profiteri scribendo coepit, Valens
+calamum et chartam e manibus ejus violenter extorsit,
+<pb n="0563A"/>
+clamans non posse fieri, ut aliquid inde gereretur.
+Res post clamorem multum deducta in conscientiam
+plebis est: gravis omnium dolor ortus
+est, impugnata est a sacerdotibus fides. Verentes
+igitur illi populi judicium, e Dominico ad palatium
+<pb n="0564A"/>
+transeunt. Cujusmodi sententiam in Eusebium longe
+ante, quam ecclesiam ingrederetur, scripserint:
+de se loquitur ipsa sententia.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

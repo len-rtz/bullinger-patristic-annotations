@@ -1,0 +1,1163 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De patientia</title>
+              <author ref="http://viaf.org/viaf/66806872">Augustinus Hipponensis<date>354-430</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 40</title>
+           <idno>AugHip.DePat2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De patientia</head>
+
+<p>Principio distinguit Augustinus patientiam veram a falsa. Hortatur deinde ad eam quae vera est, per quam pro aeterna
+vita et ex Dei amore mala sufferuntur, patientiam amplectendam. Docet postremo hanc patientiae virtutem, non liberi
+arbitrii viribus, sed divinae gratiae adjutorio tribuendam esse.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>Patientia Dei qualis.</hi> Virtus
+animi quae Patientia dicitur, tam magnum Dei donum
+est, ut etiam ipsius qui nobis eam largitur, qua malos
+ut corrigantur exspectat, patientia praedicetur. Ita
+quamvis Deus nihil pati possit, patientia vero a patiendo
+nomen acceperit, patientem tamen Deum non
+modo fideliter credimus, verum etiam salubriter
+confitemur. Sed Dei patientia qualis et quanta sit,
+quem nihil patientem, nec tamen impatientem, imo
+etiam patientissimum dicimus, verbis explicare quis
+possit? Ineffabilis est ergo illa patientia, sicut zelus
+ejus, sicut ira ejus, et si quid hujusmodi est. Nam si
+tanquam nostra ista cogitemus, in illo nulla sunt. Nihil
+enim horum nos sine molestia sentimus: absit
+autem ut impassibilem Dei naturam perpeti ullam
+molestiam suspicemur. Sicut autem zelat sine aliquo
+livore, irascitur sine aliqua perturbatione, miseretur
+sine aliquo dolore, poenitet eum sine alicujus suae
+pravitatis correctione: ita est patiens sine ulla passione.
+Nunc itaque humana patientia, quam capere
+possumus, et habere debemus, cujusmodi sit, quantum
+Dominus tribuit, et quantum patitur brevitas
+praesentis sermonis expediam.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Patientia recta quaenam et quam
+utilis.</hi> Patientia hominis, quae recta est atque laudabilis
+et vocabulo digna virtutis, ea perhibetur qua
+aequo animo mala toleramus, ne animo iniquo bona
+deseramus, per quae ad meliora perveniamus. Quapropter
+impatientes dum mala pati nolunt, non efficiunt
+ut a malis eruantur, sed ut mala graviora patiantur.
+Patientes autem qui mala malunt non committendo
+ferre, quam non ferendo committere, et
+leviora faciunt quae per patientiam patiuntur, et
+pejora evadunt quibus per impatientiam mergerentur
+<pb n="0612"/>.
+Bona vero aeterna et magna non perdunt, dum
+malis temporalibus brevibusque non cedunt: quoniam <hi>non sunt condignae passiones hujus temporis,</hi> 
+ sicut
+Apostolus dicit, <hi>ad futuram gloriam quae revelabitur
+in nobis <note>(Rom. VIII, 18)</note>
+            </hi>. Et iterum ait: <hi>Quod est
+temporale et leve tribulationis nostrae, in incredibilem
+modum aeternum gloriae pondus operatur nobis <note>(II Cor.
+IV, 17)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Patientia iniquorum quanta.</hi> Intueamur
+ergo, charissimi, quanta in laboribus et doloribus
+homines dura sustineant, pro rebus quas vitiose
+diligunt, et quanto se his feliciores fieri putant,
+tanto infelicius concupiscunt. Quanta pro falsis divitiis,
+quanta pro vanis honoribus, quanta pro ludicris
+affectionibus periculosissima et molestissima patientissime
+tolerantur! Pecuniae, gloriae, lasciviae cupidos
+videmus, ut ad desiderata perveniant, adeptisque
+non careant, soles, imbres, glacies, fluctus, et
+procellosissimas tempestates, aspera et incerta bellorum,
+immanium plagarum ictus, et vulnera horrenda,
+non inevitabili necessitate, sed culpabili voluntate
+perferre. Verum hae licitae quodam modo
+videntur insaniae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Haec a vanis laudatur.</hi> Namque avaritia,
+ambitio, luxuria, et variorum oblectamenta
+ludorum, nisi propter illa facinus aliquod admittatur,
+sive flagitium quod legibus prohibetur humanis, putantur
+ad innocentiam pertinere: imo etiam qui sine
+fraude cujusquam, aut pro habenda vel augenda pecunia,
+aut pro adipiscendis vel retinendis honoribus,
+aut in agone certando seu venando, seu theatricum
+aliquid plausibiliter exhibendo magnos labores doloresque
+pertulerit, parum est quod populari vanitate
+nullis reprehensionibus cohibetur, sed insuper extollitur
+<pb n="0613"/>
+laudibus: <hi>Quoniam laudatur,</hi> sicut scriptum est, <hi>peccator in desideriis animae suae 
+ <note>(Psal. IX, 3)</note>
+            </hi>. Vis
+enim desideriorum facit tolerantiam laborum et dolorum:
+et nemo nisi pro eo quod delectat, sponte suscipit
+ferre quod cruciat. Sed istae, ut dixi, cupiditates,
+propter quas explendas qui eis flagrant, multa
+dura et acerba patientissime sustinent, licitae existimantur
+legibusque concessae.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<div3>
+            <head>4.</head>
+            <p>
+ <hi>Immanis tolerantia Catilinae ac latronum.</hi> 
+Quid quod etiam pro apertis sceleribus, non ut ea
+puniant, sed ut perpetrent, multa homines gravissima
+perferunt? Nonne de quodam nobilissimo patriae parricida
+saecularium litterarum loquuntur auctores, quod
+famem, sitim, frigus ferre poterat, ejusque erat corpus
+patiens inediae, algoris, vigiliae, supra quam cuiquam
+credibile est <note>(Sallust., Catil. cap. 5)</note>? Quid de latronibus
+dicam, quorum omnes cum insidiantur viatoribus,
+noctes perpetiuntur insomnes, atque ut transeuntes
+excipiant innocentes, sub qualibet coeli asperitate
+nocentem animum corpusque defigunt? Quidam vero
+eorum invicem torquere perhibentur, ita ut exercitatio
+contra poenas nihil distet a poenis. Non enim tantum
+fortassis excruciantur a judice ut a dolentibus
+veritas inquiratur, quantum a suis sociis ut a patientibus
+non prodatur. Et tamen in his omnibus miranda
+est potius quam laudanda patientia: imo nec
+miranda nec laudanda, quae nulla est; sed miranda
+duritia, neganda patientia: nihil autem illic jure laudandum,
+nihil utiliter imitandum; tantoque rectius
+majore supplicio dignum judicaveris animum, quanto
+magis vitiis subdit instrumenta virtutum. Patientia
+comes est sapientiae, non famula concupiscentiae:
+patientia amica est bonae conscientiae, non inimica
+innocentiae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<div3>
+            <head>5.</head>
+            <p>
+ <hi>Patientiam veram a falsa distinguit
+causa patiendi.</hi> Cum ergo videris quemquam patienter
+aliquid pati, noli continuo laudare patientiam,
+quam non ostendit nisi causa patiendi. Quando illa
+bona est, tunc ista vera est: quando illa non polluitur
+cupiditate, tunc a falsitate ista distinguitur. Cum
+vero illa tenetur in crimine, tunc hujus multum erratur
+in nomine. Non enim sicut omnes qui sciunt
+sunt participes scientiae, ita omnes qui patiuntur
+sunt participes patientiae: sed qui passione recte
+utuntur, hi patientiae veritate laudantur, hi patientiae
+munere coronantur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<div3>
+            <head>6.</head>
+            <p>
+ <hi>Pro aeterna salute quanta sufferre
+debent pii, si tanta pro temporali vita patiuntur mali.
+Non animae tantum, sed ipsi quoque corpori consulitur
+ferendo mortem et dolores.</hi> Verumtamen cum pro libidinibus,
+vel etiam sceleribus, cum denique pro ista
+temporali vita ac salute multa homines horrenda mirabiliter
+sufferunt; satis nos admonent quanta sufferenda
+sint pro vita bona, ut etiam postea possit esse
+aeterna, et sine ullo temporis termino, sine utilitatis
+ullius detrimento vera felicitate secura. Dominus ait,
+<pb n="0614"/> <hi>In vestra patientia possidebitis animas vestras 
+ <note>(Luc.
+XXI, 19)</note>
+            </hi>: non ait, villas vestras, laudes vestras,
+luxurias vestras; sed, <hi>animas vestras.</hi> Si ergo tanta
+suffert anima ut possideat unde pereat, quanta debet
+sufferre ne pereat? Deinde, ut illud dicam quod culpabile
+non est, si tanta suffert pro salute carnis suae
+inter manus secantium sive urentium medicorum,
+quanta debet sufferre pro salute sua inter furores
+quorumlibet inimicorum? Cum medici, ne corpus
+moriatur, per poenas corpori consulant; inimici autem
+poenas et mortem corpori comminando, ut
+anima et corpus in gehenna occidatur impellant.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Quanquam et ipsi corpori tunc providentius consulatur,
+si temporalis salus ejus pro justitia contemnatur,
+et poena vel mors ejus patientissime pro justitia
+sufferatur. De corporis quippe redemptione quae in
+fine futura est, loquitur Apostolus, ubi ait: <hi>Et ipsi
+in nobismetipsis ingemiscimus, adoptionem filiorum exspectantes
+redemptionem corporis nostri.</hi> Deinde subjunxit: <hi>Spe enim salvi facti sumus. Spes autem quae
+videtur, non est spes: quod enim videt quis, quid et
+sperat</hi>?
+ <hi>Si autem quod non videmus speramus, per
+patientiam exspectamus <note>(Rom. VIII, 23-25)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Patientiae usus in animo et in corpore.</hi> Cum ergo torquent aliqua mala, sed non extorquent
+opera mala, non solum anima per patientiam
+possidetur; verum etiam cum per patientiam corpus
+ipsum ad tempus affligitur vel amittitur, in aeternam
+stabilitatem salutemque resumitur, et ei per
+dolorem et mortem inviolabilis sanitas et felix immortalitas
+comparatur. Unde Dominus Jesus ad patientiam
+exhortans martyres suos, etiam ipsius corporis
+integritatem futuram sine cujusquam, non
+dicam membri, sed capilli amissione, promisit. <hi>Amen
+dico vobis,</hi> inquit, <hi>capillus capitis vestri non peribit <note>(Luc. XXI, 18)</note>
+            </hi>.
+Ut quoniam <hi>nemo unquam,</hi> sicut Apostolus
+dicit, <hi>carnem suam odio habuit <note>(Ephes. V, 29)</note>
+            </hi>,
+magis homo fidelis per patientiam quam per impatientiam
+pro statu suae carnis invigilet, et futurae
+incorruptionis inaestimabili lucro quantalibet ejus praesentia
+damna compenset.</p>
+<div3>
+            <head>8.</head>
+            <p>
+ Quamvis autem patientia virtus sit animi, partim
+tamen ea utitur animus in se ipso, partim vero
+in corpore suo. In se ipso utitur patientia, quando
+illaeso et intacto corpore aliquid quod non expediat
+vel non deceat, facere aut dicere quibuslibet adversitatibus
+aut foeditatibus rerum seu verborum stimulis
+incitatur, et patienter mala omnia tolerat, ne
+ipse mali aliquid opere vel ore committat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Patientia animi.</hi> Per hanc patientiam
+sustinemus, etiam dum corpore sani sumus,
+quod inter hujus saeculi scandala beatitudo nostra
+differtur: unde dictum est quod paulo ante commemoravi, <hi>Si quod non videmus speramus, per patientiam
+exspectamus.</hi> 
+ Hac patientia sanctus David conviciantis
+<pb n="0615"/>
+opprobria toleravit, et cum facile posset
+ulcisci, non solum non fecit, verum et alium pro
+se dolentem commotumque compescuit <note>(II Reg. XVI,
+5-12)</note>; et potestatem regiam magis adhibuit prohibendo,
+quam exercendo vindictam. Neque tunc
+ejus corpus aliquo morbo affligebatur aut vulnere,
+sed humilitatis tempus agnoscebatur, ac ferebatur
+voluntas Dei, propter quam patientissimo animo
+amaritudo contumeliae bibebatur. Hanc patientiam
+Dominus docuit, quando commotis zizaniorum permixtione
+servis, et volentibus ea colligere, dixit
+respondisse patremfamilias, <hi>Sinite utraque crescere
+usque ad messem <note>(Matth. XIII, 30)</note>
+            </hi>. Oportet enim patienter
+ferri, quod festinanter non oportet auferri.
+Hujus et ipse patientiae praebuit et demonstravit
+exemplum, quando ante passionem corporis sui,
+discipulum Judam priusquam ostenderet traditorem,
+pertulit furem <note>(Joan. XII, 6, et XIII, 29)</note>; et ante
+experimentum vinculorum et crucis et mortis, labiis
+ejus dolosis non negavit osculum pacis <note>(Matth. XXVI,
+29)</note>. Haec omnia, et si qua alia sunt quae commemorare
+longum est, ad eum patientiae modum pertinent,
+quo animus non sua peccata, sed quaecumque extrinsecus
+mala patienter sustinet in se ipso, suo prorsus
+corpore illaeso.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Patientia in externis incommodis.
+Utraque patientia in Martyribus. Patientiae majus certamen
+diabolo saeviente.</hi> Alius est autem patientiae modus,
+quo idem ipse animus quaecumque molesta et
+gravia in sui corporis passionibus perfert; non sicut
+stulti vel maligni homines, propter adipiscenda vana
+vel scelera perpetranda; sed sicut a Domino definitum
+est, <hi>propter justitiam <note>(Matth. V, 10)</note>
+            </hi>. Utroque modo
+sancti martyres certaverunt. Nam et impiorum opprobriis
+saturati sunt, ubi animus corpore intacto quasdam
+veluti plagas suas integer sustinet; et in corporibus
+vincti sunt, inclusi sunt, fame ac siti affecti
+sunt, torti sunt, secti sunt, dilaniati sunt, incensi
+sunt, trucidati sunt: et pietate immobili subdiderunt
+Deo mentem, cum paterentur in carne quidquid
+exquirenti crudelitati venit in mentem.</p>
+<div3>
+            <head>9.</head>
+            <p>
+ Majus sane patientiae certamen est, quando non
+visibilis inimicus persequendo atque saeviendo urget
+in nefas, qui palam et aperte a non consentiente vincatur;
+sed ipse diabolus, qui etiam per filios infidelitatis,
+tanquam per sua vasa, filios lucis insequitur,
+per se ipsum occultus impugnat, saeviendo instans ut
+contra Deum fiat aliquid vel dicatur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p> <hi>Patientia sancti Job.</hi> Talem illum
+Job sanctus expertus est, utraque tentatione vexatus,
+sed in utraque stabili patientiae robore et armis pietatis
+invictus. Nam prius illaeso corpore cuncta quae
+habebat amisit, ut animus ante suae carnis cruciatum,
+<pb n="0616"/>
+subtractis rebus quas magni pendere homines solent,
+frangeretur, et adversus Deum loqueretur aliquid,
+nis amissis propter quae illum colere putabatur.
+Percussus est etiam omnium subita orbitate filiorum,
+ut quos singillatim susceperat, simul perderet, tanquam
+eorum numerositas, non unde felicitas ornaretur
+exstiterit, sed unde calamitas augeretur. Ubi
+autem ista perpessus in Deo suo mansit immobilis,
+ejus affixus est voluntati, quem non posset amittere
+nisi propria voluntate; et pro iis quae perdidit eum
+qui abstulit tenuit, in quo inveniret quod nunquam
+periret. Neque enim ille abstulerat qui nocendi habuit
+voluntatem, sed ille qui dederat potestatem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Job cautior Adamo.</hi> Aggressus est
+inimicus et corpus, nec ea quae homini extrinsecus
+inerant, sed ipsum jam hominem in qua potuit
+parte percussit. A capite usque ad pedes ardebant
+dolores, scatebant vermes, sanies defluebat: manebat
+in putri corpore animus integer, horrendosque
+cruciatus carnis contabescentis inviolata pietate et
+incorrupta patientia perferebat. Aderat uxor, nec ferebat
+opem aliquam viro, sed in Deum blasphemiam
+suggerebat. Non enim eam diabolus, cum etiam filios
+abstulisset, tanquam nocendi imperitus reliquerat;
+quae quantum esset necessaria tentatori, jam in Eva
+didicerat <note>(Gen. III, 1-6)</note>. Sed modo alterum Adam,
+quem per mulierem caperet, non invenerat. Cautior
+fuit iste in doloribus, quam ille in nemoribus: ille
+victus est in deliciis, iste vicit in poenis; consensit
+ille oblectamentis, non cessit iste tormentis. Aderant
+et amici, non ut in malis consolarentur, sed ut malum
+suspicarentur. Neque enim eum qui tanta patiebatur,
+innocentem esse credebant, nec tacebat eorum lingua
+quod illius conscientia non habebat; ut inter
+immanes cruciatus corporis, etiam falsis animus caederetur
+opprobriis. At ille sustinens in carne dolores
+suos, in corde errores alienos, conjugis corripiebat
+insipientiam, amicos docebat sapientiam, servabat
+ubique patientiam.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<div3>
+            <head>10.</head>
+            <p>
+ <hi>Impatientia Donatistarum sibi
+manus afferentium, quando a Catholicis quaeruntur.</hi> 
+Hunc intueantur, qui sibi ingerunt mortem, quando
+quaeruntur ad vitam; et sibi auferendo praesentem,
+abnegant et futuram. Qui si ad Christum negandum,
+vel aliquid contra justitiam faciendum, sicut veri martyres,
+cogerentur, omnia potius patienter ferre, quam
+sibi impatienter mortem inferre debuerant. Quod si
+fugiendorum malorum causa recte fieri posset, Job
+sanctus se ipse perimeret, ut tanta mala in rebus
+suis, in filiis suis, in membris suis, diabolicae crudelitatis
+effugeret. Non autem fecit. Absit enim ut in se
+committeret ipse vir sapiens, quod nec mulier suggessit
+insipiens. Quia et si suggessisset, merito et hic
+illud audisset, quod audivit suggerendo blasphemiam: <hi>Locuta es tanquam una ex insipientibus mulieribus. Si
+bona suscepimus de manu Domini, mala non sustinebimus <note>(Job. I, II, etc.)</note>
+            </hi>?
+Et ipse quippe patientiam
+perdidisset, sive blasphemando, sicut illa voluerat,
+<pb n="0617"/>
+sive se interficiendo, quod nec illa ausa fuerat dicere,
+moreretur: atque esset inter illos de quibus dictum
+est, <hi>Vae iis qui perdiderunt patientiam <note>(Eccli. II, 16)</note>
+            </hi>!
+et augeret potius quam evaderet poenas, qui post sui
+corporis mortem, sive ad blasphemorum, sive ad homicidarum,
+vel etiam plus quam parricidarum supplicia
+raperetur. Si enim parricida eo sceleratior est
+quam quilibet homicida, quia non tantum hominem,
+verum etiam propinquum necat; inque ipsis parricidis,
+quanto propinquiorem quisque peremerit, tanto
+judicatur immanior: sine dubio pejor est qui se occidit;
+quia nemo est homini se ipso propinquior.
+Quid ergo miseri faciunt, qui cum et hic sibimet ingestas,
+et postea non solum impietatis adversus
+Deum, sed etiam ipsius quam in se exercuerunt crudelitatis
+luant debitas poenas, insuper quaerunt et
+martyrum glorias? cum etiamsi pro vero Christi testimonio
+persecutionem paterentur, et se interficerent,
+ne aliquid a persecutoribus paterentur, recte illis
+diceretur, <hi>Vae iis qui perdiderunt patientiam!</hi> Quomodo
+enim justum praemium patientiae redditur,
+si et impatiens passio coronatur? Aut quomodo innocens
+judicabitur, cui dictum est, <hi>Diliges proximum
+tuum sicut te ipsum <note>(Matth. XIX, 19)</note>
+            </hi>, si homicidium
+committit in se ipso, quod committere prohibetur
+in proximo?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<div3>
+            <head>11.</head>
+            <p>
+ <hi>Patientia bonorum.</hi> Audiant
+ergo sancti de Scripturis sanctis praecepta patientiae: <hi>Fili, accedens ad servitutem Dei, sta in justitia
+et timore, et praepara animam tuam ad tentationem:
+deprime cor tuum, et sustine; ut crescat in novissimis
+vita tua. Omne quod tibi supervenerit accipe, et in dolore
+sustine, et in humilitate tua patientiam habe. Quoniam
+in igne probatur aurum et argentum, homines vero receptibiles
+in camino humiliationis 
+ <note>(Eccli. II, 1-5)</note>
+            </hi>. Et in
+loco alio legitur: <hi>Fili, ne deficias in disciplina Domini,
+neque fatigeris cum ab illo increparis. Quem enim
+diligit Dominus, corripit; flagellat autem omnem filium
+quem recipit <note>(Prov. III, 11 et 12)</note>
+            </hi>. Quod hic positum est, <hi>filium quem recipit;</hi> 
+ hoc in supra dicto testimonio est, <hi>homines receptibiles.</hi> 
+ Hoc enim justum est, ut qui de
+pristina felicitate paradisi propter contumacem deliciarum
+appetentiam dimissi sumus, per humilem
+molestiarum patientiam recipiamur: fugaces mala
+faciendo, reduces mala patiendo; ibi contra justitiam
+facientes, hic pro justitia patientes.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<div3>
+            <head>12.</head>
+            <p>
+ <hi>Patientia non venit ex liberi arbitrii
+viribus, sed ex divino adjutorio.</hi> Sed vera patientia
+quae hujus est nomine digna virtutis, quaerendum est
+unde sumatur. Sunt enim qui eam tribuant viribus
+voluntatis humanae, non quas habent ex divino adjutorio,
+sed quas ex libero arbitrio. Error autem iste
+superbus est: eorum est enim qui abundant, de quibus
+dicitur in Psalmo: <hi>Opprobrium eis qui abundant,
+et despectio superbis <note>(Psal. CXXII, 4)</note>
+            </hi>. Non ergo est ista <hi>patientia pauperum,</hi> 
+ quae <hi>non perit in aeternum <note>(Psal.
+IX, 19)</note>
+            </hi>. Hi enim pauperes ab illo eam divite accipiunt,
+cui dicitur, <hi>Deus meus es tu, quoniam bonorum
+<pb n="0618"/>
+meorum non eges <note>(Psal. XV, 2)</note>
+            </hi>; a quo est omne datum
+optimum, et omne donum perfectum <note>(Jacobi I, 17)</note>;
+ad quem clamat egenus et pauper, qui laudat nomen
+ejus, et petendo, quaerendo, pulsando, dicit: <hi>Deus
+meus, eripe me de manu peccatoris, et de manu legem
+praetereuntis et iniqui: quoniam tu es patientia mea,
+Domine, spes mea a juventute mea <note>(Psal. LXX, 4 et 5)</note>
+            </hi>.
+Isti autem qui abundant, et egere ad Deum dedignantur,
+ne ab illo accipiant veram patientiam, de sua
+falsa gloriantes, consilium inopis volunt confundere,
+quoniam Dominus spes ejus est <note>(Psal. XIII, 6)</note>. Nec
+attendunt cum homines sunt, et suae, id est, humanae
+voluntati tantum tribuunt, in illud se incurrere quod
+scriptum est: <hi>Maledictus omnis qui spem suam ponit
+in homine <note>(Jerem. XVII, 5)</note>
+            </hi>. Unde etiamsi eis contingat
+ut aliqua dura et aspera, vel ne displiceant hominibus,
+vel ne graviora patiantur, vel sibi placendo et
+amando praesumptionem suam, eadem ipsa superbissima
+voluntate sustineant; hoc illis dicendum est de
+patientia, quod de sapientia beatus Jacobus apostolus
+dicit: <hi>Non est ista sapientia desursum descendens; sed
+terrena, animalis, diabolica <note>(Jacobi III, 15)</note>
+            </hi>. Cur enim
+non sit superborum falsa patientia, sicut superborum
+est falsa sapientia? A quo est autem vera sapientia,
+ab illo est et vera patientia. Huic enim cantat ille
+spiritu pauper: <hi>Deo subjecta est anima mea, quoniam
+ab ipso est patientia mea <note>(Psal. LXI, 6)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<div3>
+            <head>13.</head>
+            <p>
+ <hi>Objectio: cur voluntatis vires non
+sufficiunt ad patiendum pro justitia, sicut pro injustitia.</hi> 
+Sed respondent et loquuntur dicentes: Si voluntas
+hominis sine ullo Dei adjutorio viribus liberi arbitrii
+tam multa gravia et horrenda perfert, sive in animo,
+sive in corpore, ut mortalis vitae hujus et peccatorum
+delectatione perfruatur; cur non eodem modo eadem
+ipsa voluntas hominis eisdem viribus liberi arbitrii,
+non ad hoc exspectans se divinitus adjuvari, sed
+sibi naturali possibilitate sufficiens, quidquid laboris
+vel doloris ingeritur, pro justitia et vita aeterna patientissime
+sustinet? An vero, inquiunt, idonea est
+iniquorum voluntas, Deo non adjuvante, ut se ipsi in
+cruciatibus pro iniquitate, et antequam ab aliis crucientur,
+exerceant; idonea est voluntas moras vitae
+hujus amantium, ut Deo non adjuvante, inter atrocissima
+et longa tormenta in mendacio perseverent,
+ne sua facinora confitentes, jubeantur occidi; et non
+est idonea justorum voluntas, nisi eis vires desuper
+suggerantur, quaslibet poenas, vel ipsius decore justitiae,
+vel aeternae vitae amore perferre?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<div3>
+            <head>14.</head>
+            <p>
+ <hi>Solutio: iniquos duritiem excupiditate,
+pios fortitudinem ex charitate habere. Patientiae
+falsae sufficit voluntas humana, non autem verae.</hi> 
+Qui haec dicunt, non intelligunt et quemque iniquorum
+tanto esse ad quaecumque mala perferenda duriorem,
+quanto in eo major est cupiditas mundi; et
+quemque justorum tanto esse ad quaecumque mala
+perferenda fortiorem, quanto in eo est major charitas
+<pb n="0619"/>
+Dei. Sed cupiditas mundi initium habet ex arbitrio
+voluntatis, progressum ex jucunditate voluptatis, firmamentum
+ex vinculo consuetudinis: <hi>Charitas autem
+Dei diffusa est in cordibus nostris,</hi> non utique ex nobis,
+sed <hi>per Spiritum sanctum qui datus est nobis <note>(Rom. V,
+5)</note>
+            </hi>. Proinde ab illo est patientia justorum, per quem
+diffunditur charitas eorum. Quam charitatem laudans
+atque commendans Apostolus, inter caetera ejus
+bona dixit eam et cuncta sufferre. <hi>Charitas,</hi> inquit, <hi>magnanima est.</hi> 
+ Et paulo post ait: <hi>Omnia tolerat <note>(I Cor. XIII, 4 et 7)</note>
+            </hi>.
+Quanto ergo major est in sanctis
+charitas Dei, tanto magis pro eo quod diligitur, et
+quanto major est in peccatoribus cupiditas mundi,
+tanto magis pro eo quod concupiscitur, omnia tolerantur.
+Ac per hoc inde est patientia vera justorum,
+unde est in eis charitas Dei; et inde est patientia
+falsa iniquorum, unde est in eis cupiditas mundi.
+Propter quod dicit Joannes Apostolus: <hi>Nolite diligere
+mundum, nec ea quae in mundo sunt. Si quis dilexerit
+mundum, dilectio Patris non est in ipso: quia omne
+quod in mundo est, concupiscentia carnis est, et concupiscentia
+oculorum, et ambitio saeculi; quae non est ex
+Patre, sed ex mundo est <note>(I Joan. II, 15 et 16)</note>
+            </hi>. Haec igitur
+concupiscentia quae non est ex Patre, sed ex
+mundo, quanto fuerit in homine vehementior et ardentior,
+tanto fit quisque pro eo quod concupiscit,
+omnium molestiarum dolorumque patientior. Idcirco,
+sicut supra diximus, non est ista patientia desursum
+descendens: patientia vero piorum desursum est,
+descendens a Patre luminum. Itaque illa terrena est,
+ista coelestis; illa animalis, ista spiritualis; illa diabolica,
+ista deifica. Quoniam concupiscentia, qua fit
+ut peccantes omnia pertinaciter patiantur, ex mundo
+est; charitas autem, qua fit ut recte viventes omnia
+fortiter patiantur, ex Deo est. Et ideo illi falsae patientiae
+potest sine adjutorio Dei voluntas humana sufficere;
+tanto durior, quanto cupidior; et eo tolerabilius
+mala sustinens, quo ipsa fit pejor: huic autem, quae
+vera patientia est, ideo voluntas humana, nisi desuper
+adjuta et inflammata, non sufficit, quia Spiritus sanctus
+est ignis ejus; quo nisi accensa diligat impassibile
+bonum, ferre non potest quod patitur malum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<div3>
+            <head>15.</head>
+            <p>
+ <hi>Ut charitas ex Deo, ita ex
+ipso patientia vera quae manat a charitate.</hi> Sicut enim
+divina testantur eloquia, <hi>Deus charitas est, et qui manet
+in charitate, in Deo manet, et Deus in illo manet <note>(I Joan. IV, 16)</note>
+            </hi>.
+Quisquis ergo contendit haberi posse
+Dei charitatem sine Dei adjutorio, quid aliud contendit,
+nisi haberi Deum posse sine Deo? Quis autem
+hoc dicat Christianus, quod nullus dicere audeat insanus?
+Exsultans ergo apud Apostolum vera, pia,
+fidelisque patientia, dicit ore sanctorum: <hi>Quis nos
+separabit a charitate Christi? Tribulatio? an angustia?
+an persecutio? an fames? an nuditas? an periculum?
+an gladius? sicut scriptum est, Quia propter te mortificamur
+tota die, deputati sumus sicut oves victimae. Sed
+in his omnibus supervincimus per eum qui dilexit nos:</hi> 
+<pb n="0620"/>
+non per nos, sed <hi>per eum qui dilexit nos.</hi> Deinde sequitur
+et adjungit, <hi>Certus sum enim, quia neque mors,
+neque vita, neque angeli, neque principatus, neque potestates,
+neque praesentia, neque futura, neque altitudo,
+neque profundum, neque creatura alia poterit nos
+separare a charitate Dei, quae est in Christo Jesu
+Domino nostro <note>(Rom. VIII, 35-39)</note>
+            </hi>. Haec est illa <hi>charitas
+Dei,</hi> quae <hi>diffusa est in cordibus nostris:</hi> non ex
+nobis, sed <hi>per Spiritum sanctum qui datus est nobis.</hi> 
+Malorum autem <hi>concupiscentia,</hi> propter quam in eis
+est falsa patientia, <hi>non est ex Patre,</hi> sicut dicit apostolus
+Joannes, <hi>sed ex mundo est.</hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<div3>
+            <head>16.</head>
+            <p>
+ <hi>Si cupiditas ex mundo, quomodo
+ex humana voluntate. Quod quis non sit ex mundo, non
+naturae est, sed gratiae.</hi> Hic dicet aliquis: Si ex mundo
+est concupiscentia malorum, per quam fit ut mala
+omnia pro eo quod ab illis concupiscitur perferant,
+quo modo ex eorum dicitur voluntate? Quasi vero
+non et ipsi ex mundo sint, cum ab eis diligitur mundus,
+deserto eo per quem factus est mundus. <hi>Serviunt</hi> 
+enim <hi>creaturae potius quam Creatori, qui est benedictus
+in saecula <note>(Rom. I, 25)</note>
+            </hi>. Sive itaque mundi vocabulo
+Joannes apostolus dilectores significaverit
+mundi, voluntas quae ex ipsis est, utique ex mundo
+est: sive mundi nomine coelum et terram et quaecumque
+in eis sunt, hoc est, universam complexus
+sit creaturam, voluntas procul dubio creaturae, quae
+non est Creatoris, ex mundo est. Propter quod talibus
+Dominus dicit: <hi>Vos de deorsum estis, ego de sursum
+sum: vos de hoc mundo estis, ego non sum de hoc mundo <note>(Joan. VIII, 23)</note>
+            </hi>.
+Apostolis autem dicit: <hi>Si de mundo
+hoc essetis, mundus quod suum est diligeret.</hi> Sed ne sibi
+amplius arrogarent, quam eorum mensura poscebat,
+et hoc quod eos non esse dixit ex mundo, naturae
+putarent esse, non gratiae: <hi>Quia vero,</hi> inquit, <hi>de mundo
+non estis, sed ego elegi vos de mundo, propterea odit vos
+mundus <note>(Id. XV, 19)</note>
+            </hi>. Ergo de mundo erant: nam
+ut de mundo non essent, electi sunt de mundo.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<div3>
+            <head>17.</head>
+            <p>
+ <hi>Electio gratiae praevenit omnia
+merita bona. Gratia dat merita, non meritis datur.
+Praevenit fidem.</hi> Hanc autem electionem non praecedentium
+in bonis operibus meritorum, sed electionem
+gratiae demonstrans Apostolus, sic inquit: <hi>Et in
+hoc tempore reliquiae per electionem gratiae salvae factae
+sunt. Si autem gratia, jam non ex operibus; alioquin
+gratia jam non est gratia <note>(Rom. XI, 5 et 6)</note>
+            </hi>. Haec
+est electio gratiae, id est, electio qua per Dei gratiam
+homines eliguntur. Haec est, inquam, electio gratiae,
+qua omnia bona merita praeveniuntur humana. Si
+enim ullis bonis meritis datur, jam non gratis datur,
+sed debita redditur, ac per hoc non vero nomine
+gratia nuncupatur; ubi <hi>merces,</hi> sicut idem dicit apostolus, <hi>non imputatur secundum gratiam, sed secundum
+debitum 
+ <note>(Id. IV, 4)</note>
+            </hi>. Si autem ut vera sit gratia, id
+est, gratuita, nihil invenit in homine, cui merito debeatur;
+quod bene intelligitur et in eo quod dictum
+<pb n="0621"/>
+est, <hi>Pro nihilo salvos facies eos <note>(Psal. LV, 8)</note>
+            </hi>: profecto
+ipsa dat merita, non meritis datur. Praevenit ergo
+etiam fidem, ex qua omnia bona opera incipiunt. <hi>Justus enim,</hi> 
+ sicut scriptum est, <hi>ex fide vivit <note>(Habac.
+II, 4)</note>
+            </hi>. Porro autem gratia non solum adjuvat
+justum, verum etiam justificat impium. Et ideo etiam
+cum adjuvat justum, et videtur ejus meritis reddi,
+nec sic desinit esse gratia; quoniam id adjuvat quod
+ipsa est largita. Propter hanc itaque gratiam, quae
+cuncta bona merita humana praecedit, non solum
+Christus ab impiis occisus est, verum etiam <hi>pro impiis
+mortuus est <note>(Rom. V, 6)</note>
+            </hi>. Et antequam moreretur,
+non utique justos, sed justificandos elegit Apostolos,
+quibus ait, <hi>Ego vos de mundo elegi.</hi> Quibus
+enim dixit, <hi>De mundo non estis;</hi> et ne putarent se
+nunquam fuisse de mundo, mox addidit, <hi>sed ego vos
+de mundo elegi:</hi> profecto ut de mundo non essent,
+ipsius in eos electione collatum est. Quocirca si per
+suam justitiam, non per gratiam ejus eligerentur, non
+de mundo electi essent: quoniam de mundo jam non
+essent, si jam justi essent. Deinde si propterea sunt
+electi, quia jam justi erant; ipsi priores jam Dominum
+elegerant. Quis enim potest esse justus, nisi
+eligendo justitiam? <hi>Finis autem legis Christus, ad justitiam
+omni credenti <note>(Id. X, 4)</note>
+            </hi>. <hi>Qui factus est nobis
+sapientia a Deo; et justitia, et sanctificatio, et redemptio:
+ut, quemadmodum scriptum est, Qui gloriatur, in
+Domino glorietur <note>(I Cor. I, 30, 31)</note>
+            </hi>. Ipse est ergo nostra
+justitia.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<div3>
+            <head>18.</head>
+            <p>
+ <hi>Gratiae et fidei dono etiam antiqui
+ante incarnationem justificati sunt. Sine fide nullus
+unquam justus fuit.</hi> Unde et antiqui justi ante incarnationem
+Verbi, in hac fide Christi, et in hac vera
+justitia, quod est nobis Christus, justificati sunt;
+hoc credentes futurum quod nos credimus factum: et
+ipsi gratia salvi facti per fidem, non ex se ipsis, sed
+Dei dono; non ex operibus, ne forte extollerentur <note>(Ephes. II, 8, 9)</note>.
+Bona quippe opera eorum non praevenerunt
+misericordiam Dei, sed subsecuta sunt. Ipsi
+quippe audierunt, ipsi scripserunt longe antequam
+Christus venisset in carne: <hi>Miserebor cui misertus
+ero, et misericordiam praestabo cui misericors fuero.</hi> E
+quibus Dei verbis, tanto post apostolus Paulus diceret, <hi>Igitur non volentis neque currentis, sed miserentis
+est Dei 
+ <note>(Exod. XXXIII, 19, et Rom. IX, 15, 16)</note>
+            </hi>. Ipsorum
+etiam vox est longe antequam Christus venisset
+in carne: <hi>Deus meus, misericordia ejus praeveniet me <note>(Psal. LVIII, 11)</note>
+            </hi>.
+Quomodo autem possent alieni esse
+a fide Christi, quorum charitate etiam nobis praenuntiatus
+est Christus; sine cujus fide quisquam mortalium
+nec fuit, nec est, nec esse aliquando poterit justus?
+Si ergo jam justi a Christo eligerentur Apostoli,
+prius illum ipsi elegissent, ut justi eligi possent;
+quia sine illo justi esse non possent. Sed non ita factum
+est: ipse quippe illis ait, <hi>Non vos me elegistis,
+sed ego vos elegi.</hi> Unde dicit apostolus Joannes, <hi>Non
+quod dilexerimus Deum, sed quia ipse prior dilexit nos <note>(I Joan. IV, 10)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<div3>
+            <head>19.</head>
+            <p>
+ <hi>Ante gratiae electionem injusti
+<pb n="0622"/>
+omnes.</hi> Quod cum ita sit, quid est homo utens
+in hac vita propria voluntate, antequam eligat et diligat
+Deum, nisi injustus et impius? Quid est, inquam,
+homo aberrans a Creatore creatura, nisi Creator
+ejus memor sit ejus <note>(Psal. VIII, 5)</note>, et eligat eum
+gratis, et diligat gratis? Quia ipse non potest eligere
+vel diligere, nisi prius electus dilectusque curetur,
+qui caecitate eligenda non cernit, et languore diligenda
+fastidit. Sed forte quis dicat: Quomodo Deus
+prius eligit et diligit iniquos, ut justificet eos, cum
+scriptum sit, <hi>Odisti, Domine, omnes operantes iniquitatem <note>(Psal. V, 7)</note>
+            </hi>?
+Quomodo putamus, nisi miro et
+ineffabili modo? Et tamen etiam nos possumus cogitare,
+quod medicus bonus aegrotum et odit et diligit:
+odit enim, quia aegrotat; diligit, ut aegritu
+dinem pellat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<div3>
+            <head>20.</head>
+            <p>
+ <hi>Quomodo charitas verae patientiae,
+ita cupiditas fons malae patientiae.</hi> Haec propter
+charitatem dicta sint, sine qua in nobis non potest
+esse vera patientia: quia in bonis charitas Dei est,
+quae tolerat omnia, sicut in malis mundi cupiditas.
+Sed haec charitas per Spiritum sanctum est in nobis,
+qui datus est nobis. Unde a quo nobis est charitas,
+ab illo est patientia. Mundi autem cupiditas, quando
+patienter sustinet onera cujuslibet calamitatis, gloriatur
+de viribus propriae voluntatis, tanquam de stupore
+morbi, non de robore sanitatis. Insana est ista
+gloriatio; non est patientiae, sed dementiae. Voluntas
+ista tanto videtur patientior acerborum malorum,
+quanto est avidior temporalium bonorum, quia inanior
+aeternorum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+<div3>
+            <head>21.</head>
+            <p>
+ <hi>Voluntatem malam esse posse
+etiam sine spiritus mali instigatione.</hi> Quod si eam
+exagitat et inflammat fallacibus visis et suasionibus
+immundis diabolicus spiritus et maligna
+conspiratione sociatus, efficit hominis voluntatem,
+vel errore dementem, vel appetitu cujuslibet mundanae
+delectationis ardentem: quae cum videtur
+intolerabilia mirabiliter sustinere, non tamen ideo
+etiam voluntas mala sine instigatione alterius immundi
+spiritus, sicut voluntas bona sine adjutorio
+sancti Spiritus non potest esse. Nam esse posse voluntatem
+malam etiam sine aliquo spiritu vel seducente
+vel incitante, in ipso diabolo satis ostenditur,
+qui per nullum alium diabolum, sed propria voluntate
+factus diabolus invenitur. Voluntas itaque
+mala sive cupiditate rapiatur, sive timore
+revocetur, sive laetitia diffundatur, sive tristitia
+contrahatur, atque in his omnibus perturbationibus
+animi quaecumque sunt aliis vel alio tempore
+ graviora contemnat et perferat; potest et sine
+<pb n="0623"/>
+alterius spiritus instinctu se ipsa seducere, et defectu
+a superioribus in inferiora lapsando, quanto
+jucundius aestimaverit, quod adipisci appetit, vel
+amittere metuit, vel adeptum gaudet, vel amissum
+dolet, tanto tolerabilius pro eo ferre quod sibi minus
+est ad patiendum, quam illud ad fruendum. Quidquid
+enim illud est, ex creatura est, cujus nota voluptas
+est. Quodam modo enim familiari contactu atque
+connexu ad experiendam ejus suavitatem adjacet
+amanti creaturae amata creatura.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<div3>
+            <head>22.</head>
+            <p>
+ <hi>Bona voluntas non nisi ex
+Deo.</hi> Voluptas autem Creatoris, de qua scriptum est, <hi>Et torrente voluptatis tuae potabis eos 
+ <note>(Psal. XXXV, 9)</note>
+            </hi>,
+longe alterius generis est: neque enim, sicut nos,
+creatura est. Nisi ergo amor ejus detur inde nobis,
+non est unde esse possit in nobis. Ac per hoc voluntas
+bona, qua diligitur Deus, in homine non potest
+esse, nisi in quo Deus operatur et velle <note>(Philipp. II,
+13)</note>. Haec igitur voluntas bona, id est, voluntas Deo
+fideliter subdita, voluntas sanctitate superni ardoris
+accensa, voluntas quae diligit Deum et proximum propter
+Deum; sive amore, de quo respondet apostolus
+Petrus, <hi>Domine, tu scis quia amo te <note>(Joan. XXI, 15)</note>
+            </hi>;
+sive timore, de quo dicit apostolus Paulus, <hi>in timore
+et tremore vestram ipsorum salutem operamini <note>(Philipp.
+II, 12)</note>
+            </hi>; sive gaudio, de quo dicit, <hi>Spe gaudentes,
+in tribulatione patientes <note>(Rom. XII, 12)</note>
+            </hi>; sive tristitia,
+qualem se dicit magnam habuisse pro fratribus suis <note>(Id. IX, 2)</note>:
+quaecumque amara et aspera sufferat,
+charitas Dei est, quae omnia tolerat <note>(I Cor. XIII, 7)</note>,
+quae non diffunditur in cordibus nostris, nisi per Spiritum
+sanctum qui datus est nobis <note>(Rom. V, 5)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<p> <hi>Piorum patientia Dei donum.
+Schismaticorum patientia pro Christo an laudanda.</hi> Unde nequaquam dubitante pietate, sicut charitas
+sancte amantium, ita patientia pie tolerantium Dei
+donum est. Neque enim divina Scriptura fallit aut
+fallitur, quae non solum in veteribus Libris habet hujus
+rei testimonia, cum Deo dicitur, <hi>Patientia mea tu
+es <note>(Psal. LXX 5)</note>
+            </hi>; et, <hi>Ab ipso est patientia mea <note>(Psal. LXI, 6)</note>
+            </hi>;
+et ubi alius propheta dicit, accipere
+nos Spiritum fortitudinis: verum etiam in apostolicis
+Litteris legitur, <hi>Quia vobis donatum est pro Christo,
+non solum ut credatis in eum, sed ut etiam patiamini
+propter eum <note>(Philipp. I, 29)</note>
+            </hi>. Non ergo quasi de proprio
+faciat animum elatum quod sibi audit esse donatum.</p>
+<div3>
+            <head>23.</head>
+            <p>
+ Si quis autem non habens charitatem, quae
+pertinet ad unitatem spiritus et vinculum pacis, quo
+catholica Ecclesia congregata connectitur, in aliquo
+schismate constitutus, ne Christum neget, patitur
+tribulationes, angustias, famem, nuditatem, persecutionem,
+pericula, carceres, vincula, tormenta, gladium,
+vel flammas, vel bestias, vel ipsam crucem
+timore gehennarum, et ignis aeterni; nullo modo ista
+culpanda sunt, imo vero et haec laudanda patientia
+est. Non enim dicere poterimus, melius ei fuisse ut
+Christum negando nihil eorum pateretur, quae passus
+<pb n="0624"/>
+est confitendo; sed existimandum est fortasse tolerabilius
+ei futurum judicium, quam si Christum negando
+cuncta illa vitaret: ut illud quod ait Apostolus, <hi>Si tradidero corpus meum ut ardeam, charitatem
+autem non habeam, nihil mihi prodest 
+ <note>(I Cor. XIII, 3)</note>
+            </hi>;
+nihil prodesse intelligatur ad regnum coelorum obtinendum,
+non ad extremi judicii tolerabilius supplicium
+subeundum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+<div3>
+            <head>24.</head>
+            <p>
+ <hi>An haec eorum patientia sit
+Dei donum.</hi> Sed merito quaeri potest utrum et ista patientia
+donum Dei sit, an viribus tribuenda sit voluntatis
+humanae, qua quisque ab Ecclesia separatus, non
+pro errore qui eum separavit, sed pro veritate sacramenti
+seu verbi quae apud eum remansit, timore
+poenarum aeternarum poenas patitur temporales. Cavendum
+est enim ne forte, si Dei donum istam patientiam
+dixerimus, hi quibus inest, etiam ad regnum Dei
+pertinere credantur: si autem illam donum Dei esse
+negaverimus, cogamur fateri, sine adjutorio et munere
+Dei in voluntate hominis esse posse aliquid boni.
+Neque enim hoc non est bonum, ut credat homo
+aeterno supplicio se esse puniendum, si negaverit
+Christum, et pro ista fide qualecumque supplicium
+perferat et contemnat humanum.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Proinde sicut negandum non est hoc esse donum
+Dei, ita intelligendum est alia esse Dei dona filiorum
+illius Jerusalem, quae sursum libera est mater nostra.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<p> <hi>Dona filiorum haeredum et dona
+filiorum exhaeredatorum diversa.</hi> (Haec sunt enim
+quodam modo haereditaria, in quibus sumus <hi>haeredes
+Dei, cohaeredes autem Christi</hi> ); alia vero quae possunt
+accipere etiam filii concubinarum, quibus Judaei carnales
+et schismatici vel haeretici comparantur. Quamvis
+enim scriptum sit, <hi>Ejice ancillam et filium ejus;
+neque enim haeres erit filius ancillae cum filio meo
+Isaac <note>(Gal. IV, 26, 30, et Gen. XXI, 10)</note>
+            </hi>: et Abrahae
+dixerit Deus, <hi>In Isaac vocabitur tibi semen <note>(Gen. XXI,
+12, et Rom. IX, 7 et 8)</note>
+            </hi>: quod sic est Apostolus
+interpretatus, ut diceret, <hi>Id est, non qui filii carnis,
+hi filii Dei; sed filii promissionis deputantur in semine</hi> 
+ut intelligeremus semen Abrahae secundum
+Isaac propter Christum ad Dei filios pertinere, qui
+sunt corpus Christi et membra, id est, Ecclesia Dei
+una, vera, germana, catholica, tenens piam fidem;
+non eam quae per elationem vel timorem, sed eam quae
+per dilectionem operatur <note>(Galat. V, 6)</note>: tamen etiam
+filios concubinarum quando a filio suo Isaac dimisit
+Abraham, nonnulla eis largitus est munera, ne relinquerentur
+omni modo inanes, non ut tenerentur haeredes.
+Sic enim legimus: <hi>Dedit autem Abraham omnem
+censum suum Isaac filio suo; et filiis concubinarum
+suarum dedit Abraham munera, et dimisit eos ab Isaac
+filio suo <note>(Gen. XXV, 5, 6)</note>
+            </hi>. Si ergo filii sumus liberae
+Jerusalem, alia dona exhaeredatorum, alia intelligamus
+haeredum. Hi enim haeredes sunt, quibus dicitur: <hi>Non enim accepistis spiritum servitutis iterum in timorem;
+<pb n="0625"/>
+sed accepistis spiritum adoptionis filiorum, in quo
+clamamus, Abba, Pater 
+ <note>(Rom. VIII, 14-17)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIX.</head>
+<div3>
+            <head>26.</head>
+            <p>
+ <hi>Patientiae pauperum Christi
+merces aeterna.</hi> Clamemus ergo spiritu charitatis, et
+donec veniamus ad haereditatem in qua semper maneamus,
+liberali amore simus, non servili timore patientes.
+Clamemus, quamdiu pauperes sumus, donec
+illa haereditate ditemur. Magna quippe inde pignora
+accepimus, quod ad nos ditandos pauper factus est
+Christus, quo in supernas divitias exaltato, missus est
+qui sancta desideria nostris cordibus inspiraret Spiritus
+sanctus. Horum pauperum adhuc credentium,
+nondum contemplantium; adhuc sperantium, nondum
+tenentium; adhuc desiderio suspirantium, nondum felicitate
+regnantium; adhuc esurientium et sitientium,
+<pb n="0626"/>
+nondum satiatorum: horum ergo <hi>pauperum patientia
+non peribit in aeternum <note>(Psal. IX, 19)</note>
+            </hi>: non quia et illic
+patientia erit, ubi quod toleretur non erit; sed <hi>non
+peribit,</hi> dictum est, quia infructuosa non erit. Fructum
+autem habebit aeternum, ideo non peribit in aeternum.
+Qui enim laborat inaniter, cum eum spes fefellerit,
+propter quam laborabat, merito dicit, Perdidi tantum
+laborem: quisquis vero ad sui laboris promissa pervenerit,
+gratulans dicit, Non perdidi laborem meum.
+Dicitur ergo labor non perisse, non quia manet perpetuus,
+sed quia non est inaniter fusus. Sic et patientia
+pauperum Christi, sed ditandorum haeredum
+Christi, non peribit in aeternum: non quia et illic
+patienter ferre jubebimur, sed quia pro iis quae hic
+patienter pertulimus, aeterna beatitudine perfruemur.
+Non dabit finem sempiternae felicitati, qui donat temporalem
+patientiam voluntati: quia utrumque munus
+donatae donatum est charitati.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

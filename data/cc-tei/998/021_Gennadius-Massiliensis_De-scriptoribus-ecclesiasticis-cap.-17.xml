@@ -1,0 +1,91 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De scriptoribus ecclesiasticis cap. 17</title>
+              <author ref="http://viaf.org/viaf/27422228">Gennadius Massiliensis<date>-c.492</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1849</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 21</title>
+           <idno>GenMas.DeScEcC</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De scriptoribus ecclesiasticis cap. 17</head>
+
+<p> <hi>Rufinus Aquilejensis Ecclesiae Presbyter, non minima pars fuit doctorum Ecclesiae, et in transferendo de
+Graeco in Latinum elegans ingenium habuit. Denique maximam partem
+Graecorum bibliothecae Latinis exhibuit:</hi> Basilii <hi>scilicet</hi> Caesariensis <hi>Cappadociae Episcopi,</hi> Gregorii Nazianzeni <hi>eloquentissimi hominis,</hi> Clementis
+Romani Recognitionum libros, Eusebii Caesariensis <hi>Palaestinae</hi> Ecclesiasticam historiam, Xisti sententias,
+Evagrii sententias. <hi>Interpretatus est etiam,</hi> sententias Pamphilii Martyris adversum Mathematicos. <hi>Horum
+omnium quaecumque praemissis prologis, a Latinis leguntur, a Rufino interpretata sunt, quae autem sine prologo,
+ab alio translata sunt, qui prologum facere noluit.</hi> Origenis <hi>autem non omnia, quid et Hieronymus transtulit
+aliquanta, quae sub prologo discernuntur. Proprio autem labore, immo gratiae Dei dono, exposuit idem Rufinus</hi> 
+Symbolum, <hi>ut in ejus comparatione alii nec exposuisse credantur. Disseruit et</hi> Benedictionem Jacob super
+Patriarchas, <hi>triplici, id est historico, morali et mystico sensu. Scripsit et</hi> Epistolas <hi>ad timorem Dei hortatorias
+multas, inter quas praeeminent illae, quas</hi> ad Probam <hi>dedit. Historiae etiam Ecclesiasticae, quam ab</hi> Eusebio <hi>scriptam, et ab ipso interpretatam diximus, addidit</hi> 
+ decimum <hi>et</hi> undecimum librum. <hi>Sed et</hi> obtrectatori <hi>opusculorum suorum</hi> 
+ respondit duobus voluminibus, <hi>arguens et convincens, se Dei intuitu et Ecclesiae utilitate,
+auxiliante Domino, ingenium agitasse: illum vero aemulationis stimulo incitatum ad obloquendum stilum vertisse.</hi> 
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

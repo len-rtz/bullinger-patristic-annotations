@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11943" type="Brief" source="GR-I" n="1897">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes (Gian) Travers / Zuoz an Heinrich Bullinger, 20. April 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/11943</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=1897</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b39" n="52" type="transcription">S. 67</bibl>
+				<bibl source="b17" n="1897" type="regest">S. 209</bibl>
+				<bibl source="b17" n="1897" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 365,435</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 365a,435</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Die von <persName ref="p495" cert="high">Bullinger</persName> geschenkte Bibel hat ihn sehr erfreut, und <persName ref="p495" cert="high">Bullingers</persName> [nicht erhaltene] Antwort auf seine Frage [betreffend Geistererscheinungen, <ref target="file11914">Nr. 1868</ref><note xml:id="fn1" type="footnote" n="1">Zu diesem Thema s. Philipp <hi>Wälchli,</hi> <placeName ref="l587" cert="high">Zürich</placeName> und die Geister. Geisterglaube und Reformation, in: Bewegung und Beharrung. Aspekte des reformierten Protestantismus, 1520-1650, FS Emidio Campi, hg. v. Christian Moser, Peter Opitz ua., Leiden 2009. - Studies in the History of Christian Tradition 144, S. 240-246.</note> ], in der er Schriftstellen sowie <persName ref="p4541" cert="high">Chrysostomus</persName> und andere Väter zitiert, hilft ihm weiter; wird sich gemäß seinen bescheidenen Möglichkeiten dankbar erweisen. Wie <persName ref="p495" cert="high">Bullinger</persName> aus <persName ref="p654" cert="high">Comanders</persName> Brief [<ref target="file11926">Nr. 1880</ref>] weiß, wird <persName ref="p8476" cert="high">Veit [Kappeler d.J.]</persName> wegen Trinkens und anderer schlechter Sitten aus dem Schuldienst entlassen; <persName ref="p6831" cert="high">Travers</persName> bittet um Hilfe bei der Suche nach einem Nachfolger. Anempfiehlt den Schulverwalter [Klostervogt <persName cert="high" ref="p3196">Hans Tscharner</persName>], der diesen Brief überbringt; dieser wird dem Drucker [<persName ref="p4851" cert="high">Christoph Froschauer</persName>] den [von <persName ref="p6831" cert="high">Travers</persName> bestellten] Matthäus- und Johanneskommentar [<persName ref="p495">Bullingers</persName> - <bibl source="b286">HBBibl</bibl> I 144 und 153f] bezahlen. Bittet, seinen Sohn [<persName ref="p6831" cert="high">Johannes Travers</persName>] weiter zu eifrigem Studium anzuhalten.</p>
+						</summary>
+						<msItem>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graubünden, Korr. I, S. 67f, Nr. 52</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p6831" cert="high"/>
+					<placeName ref="l585" cert="high"/>
+					<date when="1544-04-20" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t3"/>
+					<category n="t4"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11943!Autograph!00%20E_II_365__fol__435_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">11943/Autograph/00 E_II_365__fol__435_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11943!Autograph!01%20E_II_365__fol__435_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">11943/Autograph/01 E_II_365__fol__435_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">S. D. Opusculo scripture sacre typis ditissime manante dono abs te, vir vigilantissime, accepto ac lecto quanta sim animi recreacione perfusus, explicatu difficillimum esset, nec minus grata fuit super questione oblata tua resolucio, cuius ortodoxe scripture ac dominorum patrum citatos locos, <persName ref="p4541">Crysostomi</persName> ac aliorum, ad amussim quadrare repperi, eamque contrarium sentientibus coram exhibere non negligam.</s>
+					<s n="2" xml:lang="la">Tu aliquo tedio iuvande lectionis nostre gratia non afficeris.</s>
+					<s n="3" xml:lang="la">Esto, laborum tuorum in appetituum nostrorum extinctionem impensorum compensacio debita non sequatur, faciam olim, ut me ingratitudinis totum incusare non valeas.</s>
+					<s n="4" xml:lang="la">Interim habeo tibi, <persName ref="p495">Bullingere</persName> piissime, immortales gratias, quod tanti reptantem me vermiculum facis, a quo preter animum gratum et tui semper ama(n)tissimum expectaturus es nihil.</s>
+					<s n="5" xml:lang="la">- Ceterum quod ad scole nostre prefecturam attinet, ut <persName ref="p654">Comander</persName>, frater noster charissimus, suis litteris significavit, pro virili tua adnitaris, oro, quo ceptum illud sanctissimum et item reipublice plus quam necessarium adversariorum votis non cedat.</s>
+					<s n="6" xml:lang="la">Verum <persName ref="p8476">Vitus</persName> ille, cuius sumus tui gratia aliquo tempore opera usi, vino sepissime obruitur ac mores admodum incompositos pre se fert, crescenti iuventuti maxime damnosos, de quibus exacte <persName ref="p654">Comander</persName> te certiorem fecit.</s>
+					<s n="7" xml:lang="la">Hiis moti dydascali munus Vito ipsi abdicavimus; eapropter bono successore egemus.</s>
+					<s n="8" xml:lang="la">Iuva, ut soles omnes.</s>
+					<s n="9" xml:lang="la">Commentarios in Ioannem et Matheum tuos a typographo liberabit presencium lator, scole nostre yconomus, quem tibi ex corde com(m)e(n)do.</s>
+					<s n="10" xml:lang="la" ana="farewell">Vale.</s>
+					<s n="11" xml:lang="la">Filium pro tum consuetudinis humanitate interdum bonis hortamentis ad litteras invitare perge.</s>
+					<s n="12" xml:lang="la" ana="farewell">Iterum vale.</s>
+					<s n="13" xml:lang="la">Ex <placeName ref="l585">Zutzs</placeName>, 20. Aprilis 1544.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Quantulus est, totus tuus <persName ref="p6831">Ioannes Traversus</persName> <placeName ref="l648">Rhaetus</placeName>.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Vigilantissimo <persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tigurine</placeName> ecclesie pastori, viro docto iuxta ac pyo et fratri amantissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

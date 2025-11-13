@@ -1,0 +1,2049 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber de mortibus persecutorum</title>
+              <author ref="http://viaf.org/viaf/100198064">Lactantius<date>250-325</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 7</title>
+           <idno>Lactan.LiDeMoP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>I.</head>
+        <p>
+ 
+<pb n="0189C"/>Audivit Dominus orationes tuas, Donate charissime,
+<pb n="0190C"/>
+quas in conspectu ejus constanter fundis per dies
+omnes, et carissimorum fratrum, qui gloriosa confessione
+<pb n="0191A"/>
+ sempiternam sibi coronam pro fidei suae meritis
+quaesierunt. Ecce addetur his omnibus adversarius;
+et restituta per orbem tranquillitate, profligata
+nuper Ecclesia rursum exsurgit, et majore gloria
+templum Dei, quod ab impiis fuerat eversum, misericordia
+Domini fabricatur. Excitavit enim Deus
+principes, qui tyrannorum nefaria et cruenta imperia
+resciderunt, humano generi providerunt; ut jam
+quasi discusso transacti temporis nubilo, mentes
+omnium pax jocunda et serena laetificet. Nunc post
+tantae tempestatis violentos turbines, placidus aër et
+optata lux refulsit. Nunc placatus servorum suorum
+<pb n="0192A"/>
+precibus, Deus jacentes et afflictos coelesti auxilio
+sublevat. En nunc moerentium lacrymas, extincta
+impiorum conspiratione, deterget; et qui illuctati
+erant Deo, jacent: qui templum sanctum everterant,
+ruina majori ceciderunt; qui justos excarnificaverunt,
+coelestibus plagis, et cruciatibus meritis nocentes
+animas profuderunt; serius quidem, sed graviter
+ac digne. Distulerat enim poenas eorum Deus, ut ederet
+in eos magna et mirabilia exempla; quibus posteri
+discerent, et Deum esse unum, et eumdem vindicem,
+digna videlicet supplicia impiis ac persecutoribus irrogare.
+De quorum exitu scripto testificari placuit,
+<pb n="0193A"/>
+ ut omnes qui procul amoti fuerunt, vel qui
+postea futuri sunt, scirent, quatenus virtutem ac
+majestatem suam in exscindendis delendisque nominis
+sui hostibus Deus summus ostenderet. Hinc itaque
+utile est, si a principio ex quo est Ecclesia constituta,
+qui fuerint persecutores, et quibus poenis in
+eos coelestis judicis severitas vindicaverit, exponam.</p>
+      </div1>
+<div1>
+        <head>II.</head>
+        <p>
+ Extremis temporibus Tiberii Caesaris, ut scriptum
+<pb n="0194A"/>
+legimus, Dominus noster Jesus Christus a Judaeis
+cruciatus est, post diem decimum Kalendarum Aprilium,
+duobus Geminis consulibus: cum resurrexisset
+die tertio, congregavit discipulos, quos metus comprehensionis
+ejus in fugam verterat; et diebus quadraginta
+cum his commoratus, aperuit corda eorum,
+et Scripturas interpretatus est, quae usque ad id tempus
+obscurae atque involutae fuerunt. Ordinavitque
+eos, et instruxit ad praedicationem dogmatis ac doctrinae
+suae, disponens Testamenti novi solemnem disciplinam.
+<pb n="0195A"/>
+ Quo officio repleto, circumvolvit eum procella
+nubis, et subtractum oculis hominum rapuit in
+coelum. Et inde discipuli, qui tunc erant undecim,
+assumptis in locum Judae proditoris Matthia et Paulo,
+dispersi sunt per omnem terram, ad Evangelium
+praedicandum, sicut illis magister Dominus imperaverat;
+et per annos quinque et viginti usque ad principium
+Neroniani imperii, per omnes provincias et
+civitates Ecclesiae fundamenta miserunt. Cumque
+jam Nero imperaret, Petrus Romam advenit; et
+<pb n="0196A"/>
+editis quibusdam miraculis, quae virtute ipsius Dei,
+data sibi ab eo potestate, faciebat, convertit multos
+ad justitiam, Deoque templum fidele ac stabile collocavit.
+Qua re ad Neronem delata, cum animadverteret
+non modo Romae, sed ubique quotidie magnam
+multitudinem deficere a cultu idolorum, et ad
+religionem novam, damnata vetustate, transire;
+ut erat execrabilis ac nocens tyrannus, prosilivit ad
+excidendum coeleste templum, delendamque justitiam,
+et primus omnium persecutus Dei servos, Petrum
+<pb n="0197A"/>
+ cruci affixit, et Paulum interfecit. Nec tamen
+habuit impune; respexit enim Deus vexationem populi
+sui. Dejectus itaque fastigio imperii, ac devolutus
+a summo tyrannus impotens, nusquam repente
+comparuit; ut ne sepulturae quidem locus in
+terra tam malae bestiae appareret. Unde illum quidam
+deliri credunt esse translatum, ac vivum reservatum,
+Sibylla dicente matricidam profugum a finibus
+esse venturum; ut quia primus persecutus est,
+idem etiam novissimus persequatur, et Antichristi
+praecedat adventum. Itaque fas est credere, sicut
+<pb n="0198A"/>
+duos Prophetas vivos esse translatos in ultima tempora,
+atque initium Christi sanctum ac sempiternum,
+cum descendere coeperit, quod Sibyllae futurum praenuntiant:
+eodem modo etiam Neronem venturum putant,
+ut praecursor diaboli ac praevius sit venientis ad
+vastationem terrae, et humani generis eversionem.</p>
+      </div1>
+<div1>
+        <head>III.</head>
+        <p>
+ Post hunc, interjectis aliquot annis, alter non minor
+tyrannus ortus est, qui cum exerceret injustam
+<pb n="0199A"/>
+ dominationem, subjectorum tamen cervicibus incubavit
+quam diutissime, tutusque regnavit, donec impias
+manus adversus Dominum tenderet. Postquam
+vero ad persequendum justum populum instinctu daemonum
+incitatus est, tunc traditus in manus inimicorum
+luit poenas. Nec satis ad ultionem fuit, quod
+est interfectus: domi etiam memoria nominis ejus
+erasa est. Nam cum multa mirabilia opera fabricasset,
+cum Capitolium aliaque nobilia monumenta fecisset,
+Senatus ita nomen ejus persecutus est, ut neque
+imaginum, neque titulorum ejus relinqueret ulla
+vestigia, gravissimis decretis etiam mortuo notam
+inureret ad ignominiam sempiternam. Rescissis igitur
+actis tyranni, non tantum in statum pristinum Ecclesia
+<pb n="0200A"/>
+restituta est, sed etiam multo clarius ac floridius
+enituit; secutisque temporibus, quibus multi
+ac boni principes Romani imperii clavum regimenque
+tenuerunt, nullos inimicorum impetus passa, manus
+suas in orientem occidentemque porrexit; ut
+jam nullus esset terrarum angulus tam remotus, quo
+non religio penetrasset; nulla denique natio tam feris
+moribus vivens, ut non suscepto Dei cultu, ad justitiae
+opera mitescereret. Sed enim postea longa pax rupta est.</p>
+      </div1>
+<div1>
+        <head>IV.</head>
+        <p>
+ Extitit enim post annos plurimos execrabile animal
+Decius, qui vexaret Ecclesiam. Quis enim justitiam,
+nisi malus persequatur? Et quasi hujus rei gratia
+provectus esset ad illud principale fastigium, furere
+<pb n="0201A"/>
+ protinus contra Deum coepit, ut protinus caderet.
+Nam profectus adversus Carpos, qui tum Daciam
+Moesiamque occupaverant, statimque circumventus
+a barbaris, et cum magna exercitus parte deletus,
+nec sepultura quidem potuit honorari: sed exutus ac
+nudus, ut hostem Dei oportebat, pabulum feris ac volucribus
+jacuit.</p>
+      </div1>
+<div1>
+        <head>V.</head>
+        <p>
+ Non multo post Valerianus quoque non dissimili
+furore correptus, impias manus in Deum intentavit;
+et multum, quamvis brevi tempore, justi sanguinis
+fudit. At illum Deus novo ac singulari poenae genere
+<pb n="0201B"/>
+affecit, ut esset posteris documentum, adversarios
+<pb n="0202A"/>
+Dei semper dignam scelere suo recipere mercedem.
+Hic captus a Persis, non modo imperium, quo fuerat
+insolenter usus, sed etiam libertatem, quam caeteris
+ademerat, perdidit, vixitque in servitute turpissime.
+Nam Rex Persarum Sapor, is qui eum ceperat, si
+quando libuerit aut vehiculum ascendere, aut equum,
+inclinare sibi Romanum jubebat, ac terga praebere,
+et imposito pede supra dorsum ejus, illud esse verum
+dicebat (triumphi genus) exprobrans ei cum
+risu, non quod in tabulis aut parietibus Romani pingerent.
+Ita ille dignissime triumphatus, aliquandiu
+vixit, ut diu barbaris Romanum nomen ludibrio ac
+derisui esset. Etiam hoc ei accessit ad poenam, quod
+<pb n="0202B"/>
+cum filium haberet Imperatorem, captivitatis suae tamen
+<pb n="0203A"/>
+ ac servitutis extremae non invenit ultorem, nec
+omnino repetitus est. Postea vero quam pudendam
+vitam in illo dedecore finivit, direpta est ei cutis, et
+exuta visceribus pellis est infecta rubro colore, ut
+in templo barbarorum deorum ad memoriam clarissimi
+triumphi poneretur, legatisque nostris semper
+esset ostentus, ne nimium Romani viribus suis fiderent,
+cum exuvias capti principis apud deos suos cernerent.
+Cum igitur tales poenas de sacrilegis Deus
+exegerit, nonne mirabile est, ausum esse quemquam
+postea non modo facere, sed etiam cogitare adversus
+majestatem singularis Dei regentis et continentis
+universa?</p>
+      </div1>
+<div1>
+        <head>VI.</head>
+        <p>
+ Aurelianus, qui esset natura vesanus et praeceps,
+quamvis captivitatem Valeriani meminisset, tamen
+<pb n="0203B"/>
+oblitus sceleris ejus et poenae, iram Dei crudelibus
+factis lacessivit. Verum illi ne perficere, quidem quae
+cogitaverat, licuit: sed protinus inter initia sui furoris
+extinctus est. Nondum ad provincias ulteriores
+cruenta ejus scripta pervenerant, et jam Coenofrurio,
+<pb n="0204A"/>
+qui locus est Thraciae, cruentus ipse humi jacebat,
+falsa quadam suspicione ab amicis suis interemptus.
+Talibus et tot exemplis coerceri posteriores tyrannos
+oportebat. At hi non modo territi non sunt, sed
+audacius etiam contra Deum confidentiusque fecerunt.</p>
+      </div1>
+<div1>
+        <head>VII.</head>
+        <p>
+ Diocletianus, qui scelerum inventor et malorum
+machinator fuit, cum disperderet omnia, nec a Deo
+quidem manus potuit abstinere. Hic orbem terrae simul
+et avaritia, et timiditate subvertit. Tres enim participes
+regni sui fecit, in quatuor partes orbe diviso,
+et multiplicatis exercitibus, cum singuli eorum longe
+majorem numerum militum habere contenderunt,
+quam priores principes habuerant, cum soli rempublicam
+gererent. Adeo major esse coeperat numerus
+accipientium, quam dantium, ut enormitate indictionum
+<pb n="0204B"/>
+consumptis viribus colonorum, desererentur
+agri, et culturae verterentur in sylvam. Et ut omnia
+terrore complerentur, provinciae quoque in frusta
+concisae, multi praesides et plura officia singulis regionibus,
+ac pene jam civitatibus incubare, item rationales
+<pb n="0205A"/>
+ multi et magistri, et vicarii praefectorum,
+quibus omnibus civiles actus admodum rari, sed condemnationes
+tantum et proscriptiones frequentes,
+exactiones rerum innumerabilium, non dicam crebrae,
+sed perpetuae, et in exactionibus injuriae non ferendae.
+Nec quoque tolerari possunt, quae ad exhibendos
+milites spectant. Idem insatiabili avaritia thesauros
+nunquam minui volebat: sed semper extraordinarias
+opes ac largitiones congerebat, ut ea quae
+recondebat, integra atque inviolata servaret. Idem
+cum variis iniquitatibus immensam faceret charitatem,
+legem pretiis rerum venalium statuere conatus est.
+Tunc ob exigua et vilia multus sanguis effusus, nec
+venale quidquam metu apparebat, et charitas multo
+deterius exarsit, donec lex necessitate ipsa post multorum
+<pb n="0205B"/>
+exitium solveretur. Huc accedebat infinita
+quaedam cupiditas aedificandi, non minor provinciarum
+exactio in exhibendis operariis, et artificibus, et
+plaustris omnibus, quaecumque sint fabricandis operibus
+necessaria. Hic basilicae, hic circus, hic moneta,
+hic armorum fabrica, hic uxori domus, hic
+filiae. Repente magna pars civitatis exceditur. Migrabant
+<pb n="0206A"/>
+omnes cum conjugibus ac liberis, quasi urbe ab
+hostibus capta. Et cum perfecta haec fuerant cum
+interitu provinciarum: Non recte facta sunt, aiebat:
+alio modo fiant. Rursus dirui ac mutari necesse erat,
+iterum fortasse casura. Ita semper dementabat, Nicomediam
+studens urbi Romae coaequare. Jam illud
+praetereo, quam multi perierint possessionum aut
+opum gratia. Hoc enim usitatum et fere licitum consuetudine
+malorum. Sed in hoc illud fuit praecipuum,
+quod ubicumque cultiorem agrum viderat, aut ornatius
+aedificium, jam parata domino calumnia et poena capitalis,
+quasi non posset rapere aliena sinc sanguine.</p>
+      </div1>
+<div1>
+        <head>VIII.</head>
+        <p>
+ Quid frater ejus Maximianus, qui est dictus Herculius?
+non dissimilis ab eo. Nec enim possent in
+<pb n="0206B"/>
+amicitia tam fideli cohaerere, nisi esset in utroque
+mens una, eadem cogitatio, par voluntas, aequa
+sententia. Hoc solum differebant, quod avaritia minori
+altero fuit plus, majori vero minus; sed plus timiditatis,
+plus vero animi, non ad bene faciendum,
+sed ad male. Nam cum ipsam imperii sedem teneret
+Italiam, subjacerentque opulentissimae provinciae vel
+<pb n="0207A"/>
+ Africa, vel Hispania, non erat in custodiendis opibus
+tam diligens, quarum illi copia suppetebat. Et cum
+opus esset, non deerant locupletissimi Senatores,
+qui subornatis indiciis, affectasse imperium dicerentur,
+ita ut effoderentur assidue lumina Senatus.
+Cruentissimus fiscus male partis opibus affluebat.
+Jam libido in homine pestifero, non modo ad corrumpendos
+mores, quod est odiosum ac detestabile,
+verum etiam ad violandas primorum filias. Nam quacumque
+iter fecerat, avulsae a conspectu parentum
+virgines, statim praesto. His rebus beatum se judicabat;
+his constare felicitatem imperii sui putabat,
+si libidini et cupiditati malae nihil denegaret.
+</p>
+        <p>Constantium praetereo, quoniam dissimilis caeterorum
+fuit, dignusque qui solus orbem teneret.</p>
+      </div1>
+<div1>
+        <head>IX.</head>
+        <p>
+ 
+<pb n="0207B"/>Alter vero Maximianus, quem sibi generum Diocletianus
+asciverat, non his duobus tantum, quos
+tempora nostra senserunt, sed omnibus qui fuerunt,
+<pb n="0208A"/>
+malis pejor. Inerat huic bestiae naturalis barbaries,
+et feritas a Romano sanguine aliena. Non mirum,
+cum mater ejus Transdanuviana, infestantibus Carpis,
+in Daciam novam transjecto amne confugerat. Erat
+etiam corpus moribus congruens, status celsus, caro
+ingens, et in horrendam magnitudinem diffusa et
+inflata. Denique et verbis, et actibus, et aspectu
+terrori omnibus ac formidini fuit. Socer quoque
+eum metuebat acerrime. Cujus timoris haec fuit
+causa, Narseus, rex Persarum, concitatus domesticis
+exemplis avi sui Saporis, ad occupandum Orientem
+cum magnis copiis inhiabat.
+</p>
+        <p>Tunc Diocletianus, ut erat in omni tumultu meticulosus,
+animique disjectus, simul et exemplum Valeriani
+timens, non ausus est obviam tendere: sed
+<pb n="0208B"/>
+hunc per Armeniam misit, ipse in Oriente subsistens
+et occupans exitus rerum. Ille insidiis suis barbaros,
+quibus mos est cum omnibus suis ad bellum
+pergere, multitudine impeditos, et sarcinis occupatos
+non difficiliter oppressit; fugatoque Narseo rege,
+<pb n="0209A"/>
+ reversus cum praeda et manubiis ingentibus, sibi
+attulit superbiam, Diocletiano timorem. In tantos
+namque fastus post hanc victoriam elevatus est, ut
+jam detrectaret Caesaris nomen. Quod cum in litteris
+ad se datis audisset, truci vultu ac voce terribili
+exclamabat: QUOUSQUE CAESAR? Exinde insolentissime
+agere coepit, ut ex Marte se procreatum, et
+videri, et dici vellet, tamquam alterum Romulum;
+maluitque Romulam matrem stupro infamare, ut
+ipse diis oriundus videretur. Sed differo de factis
+ejus dicere, ne confundam tempora. Postea enim
+quam nomen Imperatoris accepit, exuto socero, tum
+demum furere coepit, et contemnere omnia. Diocles
+(sic) enim ante imperium vocabatur: cum rempublicam
+talibus consiliis et talibus sociis everteret, cum
+<pb n="0210A"/>
+pro sceleribus suis nihil non mereretur, tamdiu tamen
+summa felicitate regnavit, quamdiu manus suas
+justorum sanguine non inquinaret. Quam vero causam
+persequendi habuerit, exponam.</p>
+      </div1>
+<div1>
+        <head>X.</head>
+        <p>
+ Cum ageret in partibus Orientis, ut erat pro timore
+scrutator rerum futurarum, immolabat pecudes,
+et in jecoribus earum ventura quaerebat. Tum
+quidam ministrorum scientes Dominum, cum adsisterent
+immolanti, imposuerunt frontibus suis immortale
+signum. Quo facto, fugatis daemonibus, sacra
+turbata sunt. Trepidabant aruspices, nec solitas
+in extis notas videbant; et quasi non litassent, saepius
+immolabant. Verum identidem mactate hostiae
+nihil ostendebant, donec magister ille aruspicum
+<pb n="0211A"/>
+ Tagis, seu suspicione, seu visu, ait idcirco non respondere
+sacra, quod rebus divinis profani homines
+interessent. Tunc ira furoris sacrificare non eos tantum,
+qui sacris ministrabant, sed universos qui erant
+in palatio jussit, et in eos, si detrectassent, verberibus
+animadverti; datisque ad praepositos litteris,
+etiam milites cogi ad nefanda sacrificia praecepit, ut
+qui non paruissent, militia solverentur. Hactenus
+furor ejus et ira processit, nec amplius quidquam
+contra legem aut religionem Dei fecit. Deinde interjecto
+aliquanto tempore, in Bithyniam venit hiematum;
+eodemque tum Maximianus quoque Caesar inflammatus
+scelere advenit, ut ad persequendos christianos
+instigaret senem vanum, qui jam principium
+fecerat. Cujus furoris hanc causam fuisse cognovi.</p>
+      </div1>
+<div1>
+        <head>XI.</head>
+        <p>
+ 
+<pb n="0211B"/> Erat mater ejus deorum montium cultrix, mulier
+admodum superstitiosa. Quae cum esset, dapibus sacrificabat
+pene quotidie, ac vicariis suis epulis exhibebat.
+Christiani abstinebant; et illa cum Gentibus
+epulante, jejuniis hi et orationibus insistebant. Hinc
+concepit odium adversus eos, ac filium suum non
+<pb n="0212A"/>
+minus superstitiosum querelis muliebribus ad tollendos
+homines incitavit. Ergo habito inter se per totam
+hyemem consilio, cum nemo admitteretur, et
+omnes de summo statu reipublicae tractari arbitrarentur,
+diu senex furori ejus repugnavit, ostendens quam
+perniciosum esset inquietari orbem terrae, fundi
+sanguinem multorum; illos libenter mori solere, satis
+esse si palatinos tantum ac milites ab ea religione
+prohiberet. Nec tamen deflectere potuit praecipitis,
+hominis insaniam. Placuit ergo amicorum sententiam
+experiri. Nam erat hujus malitiae, cum bonum quid
+facere decrevisset, sine consilio faciebat, ut ipse
+laudaretur. Cum autem malum, quoniam id reprehendendum
+sciebat, in consilium multos advocabat,
+ut aliorum culpae adscriberetur quidquid ipse deliquerat.
+<pb n="0212B"/>
+Admissi ergo judices pauci, et pauci militares,
+ut dignitate antecedebant, interrogabantur.
+Quidam proprio adversus Christianos odio, inimicos
+deorum et hostes religionum publicarum tollendos
+esse censuerunt; et qui aliter sentiebant, intellecta
+hominis voluntate, vel timentes, vel gratificari volentes,
+in eamdem sententiam congruerunt. Nec sic quidem
+<pb n="0213A"/>
+ flexus est Imperator, ut accommodaret assensum:
+sed deos potissimum consulere statuit, misitque aruspicem
+ad Apollinem Milesium. Respondit ille ut
+divinae religionis inimicus. Traductus est itaque a
+proposito. Et quoniam nec amicis, nec Caesari, nec
+Apollini poterat reluctari, hanc moderationem tenere
+conatus est, ut eam rem sine sanguine transigi juberet,
+cum Caesar vivos cremari vellet, qui sacrificio
+repugnassent.</p>
+      </div1>
+<div1>
+        <head>XII.</head>
+        <p>
+ Inquiritur peragendae rei dies aptus, et felix; ac
+potissimum Terminalia deliguntur, quae sunt ad septimum
+kalendas Martias, ut quasi terminus imponeretur
+huic religioni.
+</p>
+        <l>Ille dies primus lethi, primusque malorum</l>
+<l>
+<pb n="0213B"/>Causa fuit,</l>
+        <p>
+quae et ipsis, et orbi terrarum acciderunt. Qui dies
+cum illuxisset, agentibus Consulatum senibus ambobus
+octavum et septimum, repente adhuc dubia
+luce ad Ecclesiam Praefectus cum ducibus, et Tribunis
+et rationalibus venit; et revulsis foribus, simulacrum
+Dei quaeritur. Scripturae repertae incenduntur,
+datur omnibus praeda. Rapitur, trepidatur, discurritur.
+<pb n="0214A"/>
+Ipsi vero in speculis (in alto enim constituta
+Ecclesia ex palatio videbatur) diu inter se concertabant,
+utrum ignem potius supponi oporteret. Vicit
+sententia Diocletianus, cavens ne magno incendio
+facto, pars aliqua civitatis arderet. Nam multae ac
+magnae domus ab omni parte cingebant. Veniebant
+igitur Praetoriani acie structa, cum securibus et aliis
+ferramentis; et immissi undique, fanum illud editissimum
+paucis horis solo adaequarunt.</p>
+      </div1>
+<div1>
+        <head>XIII.</head>
+        <p>
+ Postridie propositum est edictum, quo cavebatur
+ut Religionis illius homines carerent omni honore ac
+dignitate, tormentis subjecti essent, ex quocumque
+ordine aut gradu venirent, adversus eos omnis actio
+<pb n="0214B"/>
+caleret; ipsi non de injuria, non de adulterio, non
+de rebus ablatis agere possent, libertatem denique
+ac vocem non haberent. Quod edictum quidam, etsi
+non recte, magno tamen animo diripuit et conscidit,
+cum irridens diceret, victorias Gothorum et Sarmatarum
+propositas. Statimque productus, non modo
+extortus, sed etiam legitime coctus, cum admirabili
+patientia postremo exustus est.</p>
+      </div1>
+<div1>
+        <head>XIV.</head>
+        <p>
+ 
+<pb n="0215A"/> Sed Caesar non contentus est edicti legibus. Aliter
+Diocletianum aggredi parat. Nam ut illum ad propositum
+crudelissimae persecutionis impelleret, occultis
+ministris palatio subjecit incendium. Et cum pars
+quaedam conflagrasset, Christiani arguebantur, velut
+hostes publici, et cum ingenti invidia simul cum
+palatio Christianorum nomen ardebat: illos, consilio
+cum ennuchis habito, de extinguendis Principibus
+cogitasse, duos Imperatores domi suae pene vivos esse
+combustos. Diocletianus vero, qui semper se volebat
+videri astutum et intelligentem, nihil potuit suspicari:
+sed ira inflammatus, excarnificare omnes suos
+protinus coepit. Sedebat ipse, atque innocentes igne
+torrebat. Item judices universi, omnes denique, qui
+<pb n="0215B"/>
+erant in palatio magistri, data potestate, torquebantur.
+Erant certantes, quis prior aliquid inveniret.
+Nihil usquam reperiebatur; quippe cum familiam
+Caesaris nemo torqueret. Aderat ipse, et instabat,
+nec patiebatur iram inconsiderati senis deflagrare.
+Sed quindecim diebus interjectis, aliud rursum incendium
+molitus est. Id celerius animadversum, nec
+<pb n="0216A"/>
+tamen auctor apparuit. Tunc Caesar medio hyemis
+profectione parata prorupit, eodem die contestans
+fugere se, ne vivus arderet.</p>
+      </div1>
+<div1>
+        <head>XV.</head>
+        <p>
+ Furebat ergo Imperator jam non in domesticos
+tantum, sed in omnes, et primam omnium filiam Valeriam,
+conjugemque Priscam sacrificio pollui coegit.
+Potentissimi quondam eunuchi necati, per quos palatium
+et ipse ante constabat. Comprehensi Presbyteri
+ac ministri, et sine ulla probatione ac confessione
+damnati, cum omnibus suis deducebantur. Omnis
+sexus et aetatis homines ad exustionem rapti: nec
+singuli, quoniam tanta erat multitudo, sed gregatim
+circumdato igni amburebantur; domestici, alligatis
+ad collum molaribus, mari mergebantur. Nec minus
+<pb n="0216B"/>
+in caeterum populum persecutio violenter incubuit.
+Nam judices per omnia templa dispersi, universos ad
+sacrificia cogebant. Pleni carceres erant. Tormentorum
+genera inaudita excogitabantur; et ne cui temere
+jus diceretur, arae in secretariis ac pro tribunali
+positae, ut litigatores prius sacrificarent, atque ita
+causas suas dicerent; sic ergo adjudices, tanquam ad
+<pb n="0217A"/>
+ deos adiretur. Etiam litterae ad Maximianum atque
+Constantium commeaverant, ut eadem facerent. Eorum
+sententia in tantis rebus expectata non erat. Et
+quidem senex Maximianus libens paruit per Italiam,
+homo non adeo clemens. Nam Constantius, ne dissentire
+a majorum praeceptis videretur, conventicula,
+id est, parietes, qui restitui poterant, dirui passus
+est: verum autem Dei templum, quod est in hominibus,
+incolume servavit.</p>
+      </div1>
+<div1>
+        <head>XVI.</head>
+        <p>
+ Vexabatur ergo universa terra, et praeter Gallias,
+ab Oriente usque ad occasum tres acerbissimae bestiae
+saeviebant.
+</p>
+        <l>Non mihi si linguae centum sint oraque centum,</l>
+<l>Ferrea vox, omnes scelernm comprendere formas,</l>
+<l>Omnia poenarum percurrere nomina possim,</l>
+        <p>
+
+<pb n="0217B"/>
+quas judices per provincias justis atque innocentibus
+intulerunt. Verum quid opus est illa narrare, praecipue
+tibi, Donate carissime, qui praeter caeteros tempestatem
+turbidae persecutionis expertus es? Nam
+<pb n="0218A"/>
+cum incidisses in Flaccinum praefectum, non pusillum
+homicidam, deinde in Hieroclem ex Vicario Praesidem,
+qui autor et consiliarius ad faciendam persecutionem
+fuit, postremo in Priscillianum successorem
+ejus, documentum omnibus invictae fortitudinis praebuisti.
+Novies enim tormentis cruciatibusque variis
+subjectus, novies adversarium gloriosa confessione
+vicisti. Novem praeliis zabulum cum satellitibus suis
+debellasti: novem victoriis seculum cum suis terroribus
+triumphasti.
+</p>
+        <p>Quam jocundum illud spectaculum Deo fuit, cum
+victorem te cerneret, non candidos equos, aut immanes
+elephantos, sed ipsos potissimum triumphatores
+currui tuo subjugantem? Hic est verus triumphus,
+cum dominatores dominantur. Victi enim tua virtute
+<pb n="0218B"/>
+ac subjugati sunt; quandoquidem nefanda jussione
+contempta, omnes apparatus ac terriculas tyrannicae
+potestatis fide stabili et robore animi profligasti. Nihil
+adversus te verbera, nihil ungulae, nihil ignis,
+<pb n="0219A"/>
+ nihil ferrum, nihil varia tormentorum genera valuerunt.
+Adimere tibi fidem ac devotionem nulla vis potuit.
+Hoc est esse discipulum Dei: hoc est militem
+Christi, quem nullus hostis expugnet, nullus lupus
+de castris coelestibus rapiat, nullus laqueus inducat,
+nullus dolor vincat, nullus cruciatus affligat. Denique
+post illas novem gloriosissimas pugnas, quibus a
+te zabulus victus est, non est ausus ulterius congredi
+tecum, quem tot praeliis expertus est non posse
+superari. Et cum tibi parata esset victrix corona, desiit
+amplias provocare, ne jam sumeres. Quam licet
+non acceperis in praesenti, tamen integra tibi pro virtutibus
+tuis et meritis in regno Domini reservatur.
+Sed redeamus ad ordinem rerum.</p>
+      </div1>
+<div1>
+        <head>XVII.</head>
+        <p>
+ 
+<pb n="0219B"/>Hoc igitur scelere perpetrato, Diocletiani cum jam
+felicitas ab eo recessisset, perrexit statim Romam,
+ut illic vicennalium diem celebraret, qui erat futurus
+ad XII kalendas Decembres. Quibus solennibus celebratis,
+cum libertatem populi Romani ferre non poterat,
+impatiens, et aeger animi, prorupit ex urbe impendentibus
+kalendis Januariis, quibus illi nonus
+consulatus deferebatur. Tredecim dies tolerare non
+potuit, ut Romae potius quam Ravennae procederet
+Consul. Sed profectus hyeme, saeviente frigore atque
+imbribus verberatus, morbum levem, at perpetuum
+traxit; vexatusque per omne iter, lectica plurimum
+<pb n="0220A"/>
+vehebatur. Sic aestate transacta, per circuitum
+ripae Istricae Nicomediam venit, morbo jam gravi
+insurgente. Quocumque se premi videret, prolatus
+est tamen, ut circum, quem fecerat, dedicaret anno
+post vicennalia repleto; deinde ita languore oppressus,
+ut per omnes deos pro vita ejus rogaretur, donec
+Idibus Decembribus luctus repente in palatio,
+moestitia et lacrymae, judicum trepidatio, et silentium.
+Tota civitate jam non modo mortuum, sed etiam
+sepultum dicebant, cum repente mane postridie pervagari
+fama quod viveret, domesticorum ac judicum
+vultus alacritate mutari. Non defuerunt qui suspicarentur
+celari mortem ejus, donec Caesar veniret, ne
+quid forte a militibus novaretur. Quae suspicio tantum
+valuit, ut nemo crederet eum vivere, nisi kalendis
+<pb n="0220B"/>
+Martiis prodiisset, vix agnoscendus, quippe qui
+anno fere toto aegritudine tabuisset. Et ille idibus
+Decembribus sopitus animam receperat, nec tamen
+totam. Demens enim factus est, ita ut certis horis
+insaniret, certis resipisceret.</p>
+      </div1>
+<div1>
+        <head>XVIII.</head>
+        <p>
+ Nec multis post diebus Caesar advenit, non ut
+patri gratularetur, sed ut eum cogeret imperio cedere.
+Jam conflixerat nuper (cum) Maximiano sene,
+eumque terruerat injecto armorum civilium metu.
+Aggressus est ergo Diocletianum, primum molliter
+et amice, jam senem esse dicens, jam minus validum,
+<pb n="0221A"/>
+ et administrandae reipublicae inhabilem, debere
+illum requiescere post labores. Simul et exemplum
+Nervae proferebat, qui imperium Trajano tradidisset.
+Ille vero aiebat, et indecens esse, si post tantam sublimis
+fastigii claritatem in humilis vitae tenebras
+decidisset, et minus tutum, quod in tam longo imperio
+multorum sibi odia quaesisset. Nervam vero uno
+anno imperantem, cum pondus et curam tantarum
+rerum vel aetate, vel insolentia, ferre non quiret,
+abjecisse gubernaculum reipublicae, atque ad privatam
+vitam rediisse, in qua consenuerat. Verum si
+nomen Imperatoris cuperet adipisci, impedimento
+nihil esse, quominus omnes Augusti nuncuparentur.
+At ille, qui orbem totum jam spe invaserat, cum sibi
+aut nihil praeter nomen, aut non multum videbat
+<pb n="0221B"/>
+accedere, respondit debere ipsius dispositionem in
+perpetuum conservari, ut duo sint in republica majores,
+qui summam rerum teneant; item duo minores,
+<pb n="0222A"/>
+qui sint adjumento: inter duos facile posse concordiam
+servari, inter quatuor pares nullo modo. Si
+ipse cedere noluisset, se sibi consulturum, ne amplius
+minor et extremus esset. Jam fluxisse annos
+quindecim, in Illyricum, id est, ad ripam Danubii
+relegatus, cum gentibus barbaris luctaretur, cum
+alii intra laxiores et quietiores terras delicate imperarent.
+</p>
+        <p>His auditis, senex languidus, qui jam et Maximiani
+senis litteras acceperat, scribentis quaecumque
+locutus fuisset, et didicerat augeri ab eo exercitum,
+lacrymabundus:</p>
+<p>DIOCLET. Fiat, inquit, si hoc placet. Supererat ut,
+communi consilio omnium Caesares legerentur.</p>
+<p>GALERIUS. Quid opus est consilio, cum sit necesse
+<pb n="0222B"/>
+illis duobus placere quidquid nos fecerimus?</p>
+<p> D. Ita plane. Nam illorum filios nuncupari necesse
+<pb n="0223A"/>
+ est. Erat autem Maximiano (filius) Maxentius,
+hujus ipsius Maximiani gener, homo perniciosae ac
+malae mentis, adeo superbus et contumax, ut neque
+patrem, neque socerum solitus sit adorare. Et
+idcirco utrique invisus fuit. Constantio quoque filius
+erat Constantinus, sanctissimus adolescens, et illo
+fastigio dignissimus, qui insigni et decoro habitu
+corporis, et industria militari, et probis moribus,
+et comitate singulari, a militibus amaretur, a privatis
+et optaretur. Eratque tunc praesens, jam pridem
+a Diocletiano factus tribunus ordinis primi.</p>
+<p> D. Quid ergo fiet?</p>
+<p> G. Ille, inquit, dignus non est. Qui enim me privatus
+contempsit; quid faciet, cum imperium acceperit?</p>
+<p> D. Hic, vero et amabilis est, et ita imperaturus,
+<pb n="0223B"/>
+ut patre suo melior et clementior judicetur.</p>
+<p>
+          <pb n="0224A"/>G. Ita fiet, ut ego non possim facere quae velim.
+Eos igitur oportet nuncupari, qui sint in mea potestate,
+qui timeant, qui nihil faciant, nisi meo
+jussu.</p>
+<p> D. Quos ergo faciemus?</p>
+<p> G. Severum, inquit.</p>
+<p> D. Illumne saltatorem, temulentum, ebriosum, cui
+nox pro die, et dies pro nocte?</p>
+<p> G. Dignus, inquit, quoniam militibus fideliter
+praebuit, et eum misi ad Maximianum, ut ab eo induatur.</p>
+<p> D. Esto. Alterum quem dabis?</p>
+<p> G. Hunc, inquit, ostendens Daiam adolescentem
+quemdam semibarbarum, quem recens jusserat
+Maximianum vocari de suo nomine. Jam et ipsi,
+<pb n="0224B"/>
+Diocletianus nomen ex parte mutaverat ominis causa
+<pb n="0225A"/>
+ quia Maximianus fidem summa religione praestabat.</p>
+<p> D. Quis est hic, quem mihi offers?</p>
+<p> G. Meus, inquit, affinis.</p>
+<p> D. At ille gemebundus: Non idoneos homines
+mihi das, quibus tutela Reipublicae committi possit.</p>
+<p> G. Probavi eos, inquit.</p>
+<p> D. Tu videris, qui regimen imperii suscepturus
+es. Ego satis laboravi, et providi quemadmodum,
+me imperante, Respublica staret incolumis. Si quid
+accesserit adversi, mea culpa non erit.</p>
+      </div1>
+<div1>
+        <head>XIX.</head>
+        <p>
+ Cum haec essent constituta, procedit kalendis Maiis.
+Constantinum omnes intuebantur. Nulla erat dubitatio.
+Milites qui aderant, et priores militum electi,
+<pb n="0225B"/>
+et acciti ex legionibus, in hunc unum intenti gaudebant,
+optabant, et vota faciebant. Erat locus altus
+extra civitatem ad millia fere tria, in cujus summo
+<pb n="0226A"/>
+Maximianus ipse purpuram sumpserat; et ibi columna
+fuerat erecta cum Jovis signo. Eo pergitur. Concio
+militum convocatur. Inquit senex cum lacrymis,
+alloquitur milites: se invalidum esse, requiem post
+labores petere, imperium validioribus tradere, alios
+Caesares subrogare. Summa omnium expectatio quid
+afferret. Tunc repente pronuntiat Severum et Maximinum
+Caesares. Obstupefiunt omnes in tribunali.
+Constantinus astabat susum: haesitare inter se, num
+Constantini immutatum nomen esset, cum in conspectu
+omnium Maximianus manum retrorsum extendens,
+protraxit a tergo Daiam, Constantino repulso,
+et exutum vestem privatam, constituit in medium.
+Mirari omnes qui esset, unde esset. Nemo tamen reclamare
+ausus est, cunctis insperatae novitate rei
+<pb n="0226B"/>
+turbatis. Huic purpuram Diocletianus injecit suam,
+qua se exuit, et Diocles iterum factus est. Tum descenditur;
+et rheda per civitatem veteranus Rex foras
+<pb n="0227A"/>
+ exportatur, in patriamque dimittitur. Daia vero
+sublatus nuper a pecoribus et sylvis, statim scutarius,
+continuo protector, mox tribunus, postridie
+Caesar, accepit Orientem calcandum et conterendum;
+quippe qui neque militiam, neque Rempublicam
+sciret, jam non pecorum, sed militum pastor.</p>
+      </div1>
+<div1>
+        <head>XX.</head>
+        <p>
+ Maximianus, postquam senibus expulsis, quod
+voluit et fecit, se jam solum totius orbis dominum
+esse rebatur. Nam Constantium, quamvis priorem
+nominari esset necesse, contemnebat, quod et natura
+mitis esset, et valitudine corporis impeditus.
+Hunc sperabat brevi obiturum; et si non obisset,
+vel invitum exuere facile videbatur. Quid enim faceret,
+si a tribus cogeretur imperium deponere? Habebat
+<pb n="0227B"/>
+ipse Licinium veteris contubernii amicum,
+et a prima militia familiarem, cujus consiliis ad
+omnia regenda utebatur. Sed eum Caesarem facere
+noluit, ne filium nominaret, vel ut postea in Constantii
+locum nuncuparet Augustum atque fratrem;
+tunc vero ipse principatum teneret, ac pro arbitrio
+suo debacchatus in orbem terrae, vicennalia celebraret,
+ac substituto Caesare filio suo, qui tunc
+<pb n="0228A"/>
+erat novennis, et ipse deponeret: ita cum imperii
+summam tenerent Licinius ac Severus, et secundum
+Caesarum nomen Maximinus et Candidianus, inexpugnabili
+muro circumseptus securam et tranquillam
+degeret senectutem. Hoc consilia eis ostendebant.
+Sed Deus, quem sibi fecit infestum, cuncta
+illius cogitata dissolvit.</p>
+      </div1>
+<div1>
+        <head>XXI.</head>
+        <p>
+ Adeptus igitur maximam potestatem, ad vexandunt
+orbem, quem sibi patefecerat, animum intendit. Nam
+post devictos Persas, quorum hic ritus, hic mos est,
+ut Regibus suis in servitium se addicant, et Reges populo
+suo tanquam familia utantur, hunc morem nefarius
+homo in Romanam terram voluit inducere, quem
+ex illo tempore victoriae sine pudore laudabat. Et quia
+<pb n="0228B"/>
+id aperte jubere non poterat, sic agebat, ut et ipse libertatem
+hominibus auferret. In primis honores ademit.
+Torquebantur ab eo non decuriones modo, sed
+primores etiam civitatum, egregii ac perfectissimi viri,
+et quidem in causis levibus atque civilibus. Si morte
+digni viderentur, cruces stabant; sin minus, compedes
+parati. Matresfamilias ingenuae ac nobiles in gynaeceum
+rapiebantur. Si quis esset verberandus, defixi
+<pb n="0229A"/>
+ in stabulo pali quatuor stabant, ad quos nullus
+unquam servus distendi solebat. Quid lusorium, vel
+delicias ejus referam? Habebat ursos ferociae ac magnitudinis
+suae simillimos, quos toto imperii sui tempore
+elegerat. Quoties delectari libuerat, horum aliquem
+afferri nominatim jubebat. His homines non
+plane comedendi, sed obsorbendi objectabantur:
+quorum artus cum dissiparentur, ridebat suavissime;
+nec unquam sine humano cruore coenabat. Dignitatem
+non habentibus poena ignis fuit; et haec ille primo adversus
+Christianos permiserat, datis legibus, ut post
+tormenta damnati lentis ignibus urerentur. Qui cum
+deligati fuissent, subdebatur primo pedibus lenis
+flamma tamdiu; donec callum solorum contractum
+igni ab ossibus revelleretur. Deinde incensae faces et
+<pb n="0229B"/>
+extinctae admovebantur singulis membris, ita ut locus
+nullus in corpore relinqueretur intactus. Et inter haec
+suffundebatur facies aqua frigida, et os humore abluebatur,
+ne arescentibus siccitate faucibus, cito spiritus
+<pb n="0230A"/>
+redderetur; quod postremo accidebat, cum per multum
+diem decocta omni cute, vis ignis ad intima viscera
+penetrasset. Hinc rogo facto cremabantur corpora
+jam cremata; lecta ossa, et in pulverem comminuta,
+jactabantur in flumine ac mare.</p>
+      </div1>
+<div1>
+        <head>XXII.</head>
+        <p>
+ Quae igitur in Christianis excruciandis didicerat,
+consuetudine ipsa in omnes exercebat. Nulla poena
+penes eum levis: non insulae, non carceres, non metalla;
+sed ignis, crux, ferae, in illo erant quotidiana
+et facilia. Domestici et administratores lancea emendabantur.
+In curia poena capitis et animadversio gladii
+admodum paucis quasi beneficium deferebatur,
+qui ob merita vetera impetraverant bonam mortem.
+Jam illa huic levia fuerant. Eloquentia extincta, causidici
+<pb n="0230B"/>
+sublati, jureconsulti aut relegati, aut necati.
+Litterae autem inter malas artes habitae; et qui eas
+noverant, pro inimicis hostibusque protriti et execrati.
+Licentia rerum omnium, solutis legibus, adsumpta
+<pb n="0231A"/>
+ et judicibus data. Judices militares, humanitatis
+litterarum rudes, sine assessoribus in provincias
+immissi.</p>
+      </div1>
+<div1>
+        <head>XXIII.</head>
+        <p>
+ At vero illud publicae calamitatis et communis luctus
+omnium fuit, census in provincias et civitates semel
+missus, censitoribus ubique diffusis, et omnia
+exagitantibus, hostilis tumultus, et captivitatis horrendae
+species erant. Agri glebatim metiebantur, vites
+et arbores numerabantur, animalia omnis generis
+scribebantur, hominum capita notabantur, in civitatibus
+urbanae ac rusticae plebes adunatae, fora omnia
+gregibus familiarum referta; unusquisque cum liberis,
+cum servis aderant: tormenta ac verbera personabant,
+filii adversus parentes suspendebantur,
+fidelissimi quique servi contra dominos vexabantur,
+<pb n="0231B"/>
+uxores adversus maritos. Si omnia defecerant, ipsi
+contra se torquebantur; et cum dolor vicerat, adscribebantur
+quae non habebantur. Nulla aetatis valetudinis
+excusatio. Aegri et debiles deferebantur; aestimabantur
+aetates singulorum parvulis adjiciebantur anni,
+senibus detrahebantur. Luctu et moestitia plena
+<pb n="0232A"/>
+omnia. Quae veteres adversus victos jure belli fecerant,
+haec ille adversus Romanos Romanisque subjectos
+facere ausus est; quia parentes ejus censui
+subjugati fuerant, quem Trajanus Dacis assidue rebellantibus
+poenae gratia victor imposuit. Post hoc,
+pecuniae pro capitibus pendebantur, et merces pro
+vita dabatur. Non tamen hisdem censitoribus fides
+habebatur: sed alii super alios mittebantur, tamquam
+plura inventuri. Et duplicabatur semper, illis non
+invenientibus, sed ut libuit addentibus, ne frustra
+missi viderentur. Interea minuebantur animalia, et
+mortales obibant, et nihil minus solvebantur tributa
+pro mortuis, ut nec vivere jam, nec mori saltem gratis
+liceret. Mendici supererant soli, a quibus nihil
+exigi possit, quos ab omni genere injuriae tutos miseria
+<pb n="0232B"/>
+et infelicitas fecerat. Atqui homo impius misertus
+est illis, ut non egerent. Congregari jussit, et
+exportatos naviculis in mare mergi. Adeo hominem
+misericordem, qui providerit ne quis, illo imperante,
+miser esset. Ita, dum cavit, ne quis simulatione mendicitatis
+censum subterfugiat, multitudinem virorum
+miserorum contra omne jus humanitatis occidit.</p>
+      </div1>
+<div1>
+        <head>XXIV.</head>
+        <p>
+ 
+<pb n="0233A"/> Jam propinquavit illi judicium Dei, secutumque
+tempus est, quo res ejus dilabi ac fluere coeperunt.
+Nondum animum intenderat ad evertendum pellendumve
+Constantium. Dum est occupatus his rebus,
+quas superius exposui, et expectabat obitum ejus:
+sed tam celeriter non putabat obiturum. Qui cum
+graviter laboraret, miserat litteras, ut filium suum
+Constantinum remitteret sibi videndum, et quidem
+jamdudum. Ille vero nihil minus volebat. Nam et in
+insidiis saepe juvenem appetiverat; quia palam nihil
+audebat, ne contra se arma civilia, et, quod maxime
+verebatur, odia militum concitaret. Sub obtentu exercitii
+ac lusus feris illum objecerat: sed frustra; quoniam
+Dei manus hominem protegebat, qui illum de
+<pb n="0233B"/>
+manibus ejus liberavit in ipso cardine. Namque saepius
+cum jamdiu necare non posset, dedit illi sigillum,
+inclinante jam die, praecepitque ut postridie
+<pb n="0234A"/>
+mane, acceptis mandatis, proficisceretur, vel ipse illum
+occasione aliqua retentaturus, vel praemissurus
+litteras ut a Severo teneretur. Quae cum ille prospiceret,
+quiescente jam imperatore, post coenam properavit
+exire, sublatisque per mansiones multas omnibus
+equis publicis, evolavit. Postridie imperator,
+cum consulto ad medium diem usque dormisset, vocari
+eum jubet. Dicitur ei post coenam statim profectus.
+Indignari ac fremere coepit. Poscebat equos
+publicos, ut eum retrahi faceret. Nudatus ei
+cursus publicus nuntiatur. Vix lacrymas tenebat. At
+ille incredibili celeritate usus, pervenit ad patrem jam
+deficientem, qui ei, militibus commendato, imperium
+per manus tradidit; atque ita in lecto suo requiem
+vitae, sicut optabat, accepit. Suscepto imperio, Constantinus
+<pb n="0234B"/>
+Augustus nihil egit prius, quam christianos
+cultui ac Deo suo reddere. Haec fuit prima ejus
+sanctio sanctae religionis restitutae.</p>
+      </div1>
+<div1>
+        <head>XXV.</head>
+        <p>
+ 
+<pb n="0235A"/> Paucis post diebus, laureata imago ejus allata est
+ad malam bestiam. Deliberavit diu an susciperet. In
+eo pene res fuit, ut illam, et ipsum qui attulerat,
+exureret; nisi eum amici ab illo furore flexissent,
+admonentes eum periculi, quod universi milites,
+quibus invitis, ignoti Caesares erant facti, suscepturi
+Constantinum fuissent, atque ad eum concursuri alacritate
+summa, si venisset armatus, Suscepit itaque
+imaginem admodum invitus, atque ipsi purpuram
+misit, ut ultro ascivisse illum in societatem videretur.
+Jam turbatae rationes ejus fuerant, nec poterat
+alterum extra numerum nuncupare, ut voluerat. Sed
+illud excogitavit, ut Severum, qui erat aetate maturior,
+Augustum nuncuparet, Constantinum vero non
+Imperatorem, sicut erat factus, sed Caesarem cum
+<pb n="0235B"/>
+Maximino appellari juberet, ut eum de secundo loco
+rejiceret in quartum.</p>
+      </div1>
+<div1>
+        <head>XXVI.</head>
+        <p>
+ Compositae ei res quodam modo jam videbantur,
+<pb n="0236A"/>
+cum subito illi alius terror allatus est, generum ipsius
+Maxentium Romae factum Imperatorem. Cujus
+motus haec fuit causa. Cum statuisset censibus institutis
+orbem terrae devorare, ad hanc usque prosiluit
+insaniam, ut ab hac captivitate ne populum quidem
+Romanum fieri vellet immunem. Ordinabantur jam
+Censitores, qui Romam missi describerent plebem.
+Eodem fere tempore castra quoque Praetoria sustulerat.
+Itaque milites pauci, qui Romae in castris relicti
+erant, opportunitatem nacti, occisis quibusdam
+judicibus, non invito populo, qui erat concitatus,
+Maxentium purpuram induerant. Quo nuntio allato,
+aliquantum rei novitate turbatus est, nec tamen nimium
+territus. Et oderat hominem, et tres Caesares
+facere non poterat. Satis visum est semel fecisse quod
+noluit. Severum arcessit, et hortatus ad recipiendum
+<pb n="0236B"/>
+imperium, mittit eum cum exercitu Maximiani ad
+expugnandum Maxentium; et mittit Romam, in qua
+milites illi summis deliciis saepissime excepti, non
+modo salvam esse illam urbem, sed ibi vivere optarent.
+<pb n="0237A"/>
+ Maxentius tanti facinoris sibi conscius, licet
+jure haereditatis paternos milites traducere ad se
+posset, cogitans tamen fieri posse, ut Maximianus socer
+idipsum metuens Severum in Illyrico relinqueret,
+atque ipse cum suo exercitu ad se oppugnandum
+veniret, quaerebat quatenus se a periculo impendente
+muniret. Patri suo post depositum imperium in Campania
+moranti purpuram mittit, et bis Augustum nominat.
+Ille vero et rerum novarum cupidus, et qui
+deposuerat in vitus, libenter arripuit. Severus interim
+vadit, et ad muros Urbis armatus accedit. Statim milites,
+sublatis signis, abeunt, et se contra quem venerant,
+tradunt. Quid restabat deserto, nisi fuga? Sed
+occurrebat jam resumpto imperio Maximianus, cujus
+adventu Ravennam confugit, ibique se cum paucis
+<pb n="0237B"/>
+militibus inclusit. Qui cum videret futurum, ut Maximiano
+traderetur, dedit sese ipse, vestemque purpuream
+eidem, a quo acceperat, reddidit. Quo facto,
+nihil aliud impetravit, nisi bonam mortem. Nam venis
+ejus incisis, leniter mori coactus est. Ab hoc coepit
+suos persequi.</p>
+      </div1>
+<div1>
+        <head>XXVII.</head>
+        <p>
+ 
+<pb n="0238A"/>Herculius vero cum Maximiani nosset insaniam,
+cogitare coepit illum, audita nece Severi, inflammatum
+ira, cum exercitu esse venturum, et fortasse adjuncto
+Maximino, ac duplicatis copiis, quibus resisti
+nullo modo posset: urbe munita, et rebus coeptis
+inimicis diligenter instructis, profisciscitur in Galliam,
+ut Constantinum partibus suis conciliaret, suae
+minoris filiae nuptiis. Ille interea, coacto exercitu,
+invadit Italiam, ad Urbem accedit, Senatum extincturus,
+populum trucidaturus. Verum clausa et munita
+omnia offendit. Nulla erat spes irrumpendi: oppugnatio
+difficilis; ad circumsedendum moenia non satis
+<pb n="0238B"/>
+copiarum, quippe qui nunquam viderat Romam,
+aestimaretque illam non multo esse majorem, quam
+quas noverat civitates. Tunc quaedam legiones
+detestantes scelus, quod socer generum oppugnaret,
+et quod Romani milites Romam, translatis signis,
+imperium reliquerunt. Et jam caeteri milites
+<pb n="0239A"/>
+ nutabant, cum ille, fracta superbia, dimissisque animis,
+et Severi exitum metuens, ad pedes militum provolutus
+orabat, ne hosti traderetur donec promissis ingentibus
+flexit animos quorumdam, et retro signa convertit,
+ac fugam trepidus capessivit; in qua opprimi
+facillime potuit, si cum paucis quispiam sequeretur.
+Quod cum timeret, dedit militibus potestatem, ut
+dispersi quam latissime diriperent omnia, vel corrumperent;
+ut si quis insequi voluisset utensilia non haberet.
+Vastata est igitur ea pars Italiae, quo pestiferum
+illud agmen incessit: expilata omnia, mulieres
+corruptae, virgines violatae, extorti parentes et mariti,
+ut filias, ut conjuges, ut opes suas proderent.
+Abactae tanquam de barbaris praedae pecorum ac jumentorum.
+Hoc modo se ad sedes suas recepit, cum
+<pb n="0239B"/>
+Romanus quondam Imperator, nunc populator Italiae,
+hostiliter universa vexasset. Olim quidem ille, ut nomen
+imperatoris acceperat, hostem se Romani nominis
+erat professus, cujus titulum immutari volebat;
+ut non romanum imperium, sed Daciscum cognominaretur.</p>
+      </div1>
+<div1>
+        <head>XXVIII.</head>
+        <p>
+ Post hujus fugam, cum se Maximianus alter e Gallia
+recepisset, habebat imperium commune cum filio.
+Sed juveni magis parebatur, quam seni, quippe cum
+<pb n="0240A"/>
+prior et major filii potestas esset, qui etiam patri reddiderat
+imperium. Ferebat iniquo animo senex, quod
+non posset libere facere quod vellet, et filio suo puerili
+aemulatione invidebat. Cogitabat ergo expellere
+adolescentem, ut sibi sua vindicaret. Quod facile vibatur,
+quia milites erant [sui] qui Severum reliquerant.
+Advocavit populum ac milites, quasi concionem
+de praesentibus reipublicae malis habiturus. De quibus
+cum multa dixisset, convertit ad filium manus;
+et illum esse dicens auctorem malorum, illum principem
+calamitatum, quas respublica sustineret, diripuit
+ab humeris ejus purpuram. Exutus ille praecipitem
+se de tribunali dedit, et a militibus exceptus est.
+Quorum ira et clamore perturbatus est senex impius,
+et ab urbe Roma, tanquam Superbus alter, exactus est.</p>
+      </div1>
+<div1>
+        <head>XXIX.</head>
+        <p>
+ 
+<pb n="0240B"/>Rediens rursus in Gallias, ubi aliquantum moratus
+est, profectus ad hostem filii sui Maximianum,
+quasi ut de componendo reipublicae statu et cum eo
+disputaret; re autem vera ut illum per occasionem
+reconciliationis occideret, ac regnum ejus teneret,
+exclusus a suo, quocumque venisset. Aderat ibi Diocles,
+a genero nuper accitus, ut quod ante non fecerat,
+praesente illo imperium Licinio daret, substituto
+in Severi loco. Itaque fit utroque praesente. Sic uno
+<pb n="0241A"/>
+ tempore sex fuerunt. Quare impeditis consiliis senex
+Maximianus tertiam quoque fugam moliebatur:
+redit in Galliam plenus malae cogitationis ac sceleris,
+ut Constantinum imperatorem generum suum,
+generi filium, dolo malo circumveniret; et ut posset
+fallere, deponit regiam vestem. Francorum gens in
+armis erat. Persuadet nihil suspicanti, ne omnem secum
+exercitum duceret, paucis militibus posse barbaros
+debellari; ut et ipse haberet exercitum, quem
+occuparet, et ille opprimi posset ob militum paucitatem.
+Credit adolescens, ut perito, ac seni; paret, ut
+socero: proficiscitur, relicta militum parte majore.
+Ille, paucis diebus expectatis, cum jam Constantinum
+aestimaret intrasse fines barbarorum, repente
+purpuram sumit, thesauros invadit, donat, ut solet,
+<pb n="0241B"/>
+large; fingit de Constantino, quae in ipsum protinus
+reciderunt. Imperatori propere quae gesta sunt, nuntiantur.
+Admirabili celeritate cum exercitu revolat.
+Opprimitur homo ex improviso, nondum satis instructus;
+milites ad Imperatorem suum redeunt. Occupaverat
+Massiliam, et portas obseraverat. Accedit
+propius Imperator; et in muro adstantem alloquitur,
+non aspere, nec hostiliter: sed rogat quid sibi voluisset,
+quid ei defuisset, cur faceret quod ipsum praecipue
+non deceret. Ille vero ingerebat maledicta de
+muris. Tum subito a tergo ejus portae reserantur,
+milites recipiuntur. Attrahitur ad Imperatorem rebellis
+Imperator, pater impius, socer perfidus. Audit
+<pb n="0242A"/>
+scelera quae fecit, detrahitur ei vestis, et increpito
+vita donatur.</p>
+      </div1>
+<div1>
+        <head>XXX.</head>
+        <p>
+ Sic amisso imperatoris ac soceri honore, humilitatis
+impatiens, alias rursus insidias machinatus est.
+Quia semel habuit impune, vocat filiam Faustam,
+eamque nunc precibus, nunc blandimentis sollicitat
+ad proditionem mariti, alium digniorem virum pollicetur,
+petit cubiculum patens relinqui, et negligentius
+custodiri sinat. Pollicetur illa facturam, et refert protinus
+ad maritum. Componitur scena, qua manifesto
+facinus teneretur. Supponitur quidam vilis eunuchus,
+qui pro Imperatore moriatur. Surgit ille nocte intempesta:
+videt omnia insidiis opportuna. Rari excubitores
+erant, et ii quidem longius; quibus tamen dicit
+<pb n="0242B"/>
+vidisse somnium, quod filio suo narrare vellet. Ingreditur
+armatus, et spadone obtruncato, prosiliit
+gloriabundus, ac profitetur quod admiserit. Repente
+se ex altera parte Constantinus ostendit cum globo
+armatorum. Profertur e cubiculo cadaver occisi: haeret
+manifestarius homicida, et mutus stupet:
+</p>
+        <l>Quasi dura silex, aut stet Marpesia cautes;</l>
+        <p>
+impietatis ac sceleris increpatur. Postremo datur ei
+potestas liberae mortis:
+</p>
+        <l>Ac nodum informis leti trabe nectit ab alta.</l> 
+<p>Ita ille Romani nominis maximus Imperator, qui
+per longum temporis intervallum cum ingenti gloria
+<pb n="0243A"/>
+ viginti annorum vota celebravit, eliso et fracto superbissimo
+gutture, vitam detestabilem turpi et ignominiosa
+morte finivit.</p>
+      </div1>
+<div1>
+        <head>XXXI.</head>
+        <p>
+ Ab hoc Deus, religionis ac populi sui vindex, oculos
+ad Maximianum alterum transtulit, nefandae persecutionis
+auctorem, ut in eo etiam virtutem majestatis
+ostenderet. Jam de agendis et ipse vicennalibus cogitabat;
+et ut qui jamdudum provincias afflixerat auri
+argentique indictionibus factis, quae promiserat redderet,
+etiam in nomine vicennalium securem alteram
+afflixit. Qua vexatione generis humani exactio celebrata
+sit, maxime rei annonariae, ecquis enarrare digne
+potest? Officiorum omnium milites, vel potius carnifices,
+singulis adhaerebant; cui prius satisfieret, incertum:
+venia non habentibus nulla; sustinendi multiplices
+<pb n="0243B"/>
+cruciatus, nisi exhiberetur statim, quod non
+erat: multis custodiis circumsepto nulla respirandi
+<pb n="0244A"/>
+facultas: nullo tempore anni vel exigua requies; frequens
+super hisdem hominibus, vel ipsis judicibus,
+vel militibus judicum pugna: nulla area sine exactore,
+nulla vindemia sine custode, nihil ad victum
+laborantibus relictum. Quae quanquam intolerabilia
+sint, eripi ab ore hominum cibos labore quaesitos,
+tamen sustentabile aliquo modo vel spe futurorum.
+Quid vestis omnis generis? quid aurum? quid argentum?
+Nonne haec necesse est ex venditis fructibus
+comparari? Unde igitur hoc, o dementissime tyranne,
+praestabo, cum omnes fructus auferas, universa nascentia
+violenter eripias? Quis ergo non bonis suis
+eversus est, ut opes, quae sub imperio ejus fuerunt,
+conraderentur ad votum, quod non erat celebraturus.</p>
+      </div1>
+<div1>
+        <head>XXXII.</head>
+        <p>
+ 
+<pb n="0244B"/>Nuncupato igitur Licinio imperatore, Maximinus
+iratus, nec Caesarem se, nec tertio loco nominari volebat.
+<pb n="0245A"/>
+ Mittit ergo ad eum saepe legatos: orat sibi pareat,
+dispositionem suam servet, cedat aetati, et honorem
+deferat canis. At ille tollit audacius cornua, et
+praescriptione temporis pugnat se priorem esse debere,
+qui prior sumpserit purpuram; preces ejus et
+mandata contemnit. Dolet bestia, et mugit, quod
+cum ideo ignobilem fecisset Caesarem, ut sibi obsequens
+esset, is tamen tanti beneficii sui oblitus, voluntati
+ac precibus suis impie repugnaret. Victus contumacia,
+tollit Caesarum nomen, et se Liciniumque
+Augustos appellat, Maxentium et Constantinum filios
+Augustorum, Maximinus postmodum scribit, quasi
+nuntians in campo Martio proxime celebrato Augustum
+se ab exercitu nuncupatum. Recepit ille moestus
+ac dolens; et universos quatuor, imperatores jubet
+<pb n="0245B"/>
+numerari.</p>
+      </div1>
+<div1>
+        <head>XXXIII.</head>
+        <p>
+ 
+<pb n="0246A"/>Jam decimus et octavus annus agebatur, cum percussit
+eum Deus insanabili plaga. Nascitur ei ulcus
+malum in inferiori parte genitalium, serpitque latius.
+Medici secant, curant. Sed inductam jam cicatricem
+scindit vulnus; et rupta vena, fluit sanguis usque ad
+periculum mortis. Vix tamen cruor sistitur. Nova ex
+integro cura. Tamen perducitur ad cicatricem. Rursus
+levi corporis motione vulneratur: plus sanguinis quam
+ante decurrit. Albescit ipse, atque absumptis viribus
+tenuatur; et tunc quidem rivus cruoris inhibetur. Incipit
+vulnus non sentire medicinam: proxima quaeque
+cancer invadit; et quanto magis circumsecatur, latius
+saevit, quanto curatur, increscit.
+</p>
+        <l rend="indent">Cessere magistri</l>
+<l>
+<pb n="0246B"/>Phillyrides Chiron, Amythaoniusque Melampus.</l> 
+<p>Undique medici nobiles trahuntur. Nihil humanae
+<pb n="0247A"/>
+ manus promovent. Confugitur ad idola. Apollo et
+Asclepius orantur; remedium flagitatur. Dat Apollo
+curam. Malum multo pejus augetur. Jam non longe
+pernicies aberat, et inferiora omnia corripuerat. Computrescunt
+forinsecus viscera, et in tabem sedes
+tota dilabitur. Non desinunt tamen infelices Medici,
+vel sine spe vincendi mali, fovere, curare. Repercussis
+medullis, malum recidit introrsus, et interna
+comprehendit; vermes intus creantur. Odor it autem
+non modo per palatium: sed totam civitatem pervadit.
+Nec mirum, cum jam confusi essent exitus stercoris
+et urinae. Comestum a vermibus et in putredinem
+corpus cum intolerandis doloribus solvitur.
+<l>Clamores simul horrendos ad sidera tollit,</l>
+<l>
+<pb n="0247B"/>Quales mugitus fingit saucius taurus.</l> 
+
+<pb n="0248A"/>
+Apponebantur ad sedem fluentem cocta et calida animalia,
+ut vermiculos eliceret calor. Quies resolutis,
+inaestimabile scatebat examen; et tamen multo majorem
+copiam tabescendorum viscerum pernicies foecunda
+generaverat. Jam diverso malo partes corporis
+amiserant speciem. Superior usque ad vulnus
+aruerat, et miserabili macie cutis lurida longe inter
+ossa consederat. Inferior sine ulla pedum forma, in
+utrium modum inflata discreverat. Et haec facta sunt
+per annum perpetem; cum tandem malis domitus
+Deum coactus est confiteri: novi doloris urgentis
+per intervalla exclamat, se restituturum Dei templum,
+satisque pro scelere facturum. Et jam deficiens
+edictum misit hujusmodi.</p>
+      </div1>
+<div1>
+        <head>XXXIV.</head>
+ 
+<pb n="0249A"/>
+<p>
+          <emph>EDICTUM GALERII.</emph>
+ <hi>Inter caetera quae pro Reipublicae semper commodis
+atque utilitate disponimus, nos quidem volueramus antehac,
+juxta leges veteres et publicam disciplinam, Romanorum
+cuncta corrigere, atque id providere, ut
+etiam Christiani, qui parentum suorum reliquerant sectam,
+ad bonas mentes redirent. Siquidem eadem ratione
+tanta eosdem Christianos voluntas invasisset, et
+tanta stultitia occupasset, ut non illa veterum instituta
+sequerentur, quae forsitan primum parentes eorumdem
+constituerant: sed pro arbitrio suo, atque ut hisdem
+erat libitum, ita sibimet leges facerent, quas observarent,
+et per diversa varios populos congregarent.
+Denique cum ejusmodi nostra jussio extitisset, ut ad
+<pb n="0249B"/>
+veterum se instituta conferrent, multi periculo subjugati,
+multi etiam deturbati sunt; atque cum plurimi in
+proposito perseverarent, ac videremus nec diis eosdem
+cultum ac religionem debitam exhibere, nec christianorum
+Deum observare, contemplatione mitissimae nostrae
+clementiae intuentes et consuetudinem sempiternam, qua
+<pb n="0250A"/>
+solemus cunctis hominibus veniam indulgere, promptissimam
+in his quoque indulgentiam nostram credidimus
+porrigendam; ut denuo sint Christiani, et conventicula
+sua componant, ita ut ne quid contra disciplinam
+agant. Alia autem epistola judicibus significaturi
+sumus, quid debent observare. Unde juxta hanc indulgentiam
+nostram debebunt Deum suum orare pro salute
+nostra, et Reipublicae, ac sua, ut undiqueversum
+Respublica perstet incolumis, et securi vivere in sedibus
+suis possint.</hi> </p>
+      </div1>
+<div1>
+        <head>XXXV.</head>
+        <p>
+ Hoc edictum proponitur Nicomediae pridie Kalendas
+Maias, ipso octies, et Maximino iterum Consulibus.
+Tunc apertis carceribus, Donate carissime,
+cum caeteris confessoribus e custodia liberatus es,
+<pb n="0250B"/>
+cum tibi carcer sex annis pro domicilio fuerit. Nec
+tamen ille hoc facto veniam sceleris accepit a Deo:
+sed post dies paucos, commendatis Licinio conjuge
+sua et filio, atque in manu traditis, cum jam totius
+corporis membra defluerent, horrenda tabe consumptus
+est. Idque cognitum Nicomediae Id. mensis
+<pb n="0251A"/>
+ ejusdem, cum futura essent vicennalia Kalendis
+Martiis impendentibus.</p>
+      </div1>
+<div1>
+        <head>XXXVI.</head>
+        <p>
+ Quo nuntio Maximinus audito, dispositis ab Oriente
+cursibus pervolavit, ut provincias occuparet, ac Licinio
+morante, omnia sibi usque ad fretum Chalcedonium
+vindicaret. Ingressusque Bithyniam, quo sibi
+ad praesens favorem conciliaret, cum magna omnium
+laetitia sustollit censum. Discordia inter ambos imperatores,
+ac pene bellum. Diversas ripas armati tenebant.
+Sed conditionibus certis pax et amicitia componitur,
+et in ipso freto foedus fit, ac dexterae copulantur.
+Redit ille securus, et fit qualis in Syria et in
+Aegypto fuit. In primis indulgentiam Christianis communi
+titulo datam tollit, subornatis legationibus civitatum,
+<pb n="0251B"/>
+quae peterent, ne intra civitates suas Christianis
+conventicula extruere liceret, ut suasu coactus
+et impulsus facere videretur, quod erat sponte facturus.
+<pb n="0252A"/>
+Quibus annuens, novo more sacerdotes maximos
+per singulas civitates singulos ex primoribus
+fecit, qui et sacrificia per omnes deos suos quotidie
+facerent, et veterum sacerdotum ministerio subnixi,
+darent operam, Christiani neque fabricarent, neque
+publice aut privatim colerent: sed comprehensos
+suo jure ad sacrificia cogerent, vel judicibus offerent.
+Parumque hoc fuit, nisi etiam provinciis ex altiore
+dignitatis gradu singulos quasi Pontifices superponeret;
+et eos utrosque candidis chlamydibus ornatos
+jussit incedere. Facere autem parabat, quae jamdudum
+in Orientis partibus fecerat. Nam cum clementiam
+specie tenus profiteretur, occidi servos Dei
+vetuit, debilitari jussit. Itaque confessoribus effodiebantur
+oculi, amputabantur manus, pedes detruncabantur,
+<pb n="0252B"/>
+nares, vel auriculae desecabantur.</p>
+      </div1>
+<div1>
+        <head>XXXVII.</head>
+        <p>
+ Haec ille moliens, Constantini litteris deterretur.
+<pb n="0253A"/>
+ Dissimulavit ergo. Et tamen si quis inciderat, mari
+occulte mergebatur. Consuetudinem quoque suam
+non intermisit, ut in palatio per singulos dies sacrificaretur.
+Et hoc primus invenerat, ut animalia omnia,
+quibus vescebatur, non a coquis, sed a sacerdotibus
+ad aras immolarentur, nihilque prorsus mensae apponeretur,
+nisi aut delibatum, aut sacrificatum, aut perfusum
+mero; ut quisquis ad coenam vocatus esset,
+inquinatus inde atque impurus exiret. In caeteris
+quoque magistri sui similis. Nam si quid reliqui,
+vel Diocles, vel Maximianus reliquerunt, hic
+abrasit, sine ullo pudore auferens omnia. Itaque
+horrea privatorum claudebantur, apothecae obsignabantur,
+debita in futuros annos exigebantur. Hinc
+fames, agris ferentibus; hinc charitas inaudita. Armentorum
+<pb n="0253B"/>
+ac pecorum greges ex agris rapiebantur
+ad sacrificia quotidiana, quibus eos adeo corruperat,
+ut aspernarentur annonam, et effundebant passim
+<pb n="0254A"/>
+sine delectu, sine modo; quum satellites universos,
+quorum numerus ingens erat, pretiosis vestibus et
+aureis nummis expungeret, gregariis et tyronibus
+argentum daret, barbaros omni genere largitionis
+honoraret. Nam quod viventium bona vel auferebat,
+vel dono suis dabat, [prout] quisque petierat aliena,
+nescio an [non] agendas illi fuisse gratias putem, quod
+more clementium latronum incruenta spolia detrahebat.</p>
+      </div1>
+<div1>
+        <head>XXXVIII.</head>
+        <p>
+ Illud vero capitale, et supra omnes, qui fuerunt,
+corrumpendi cupiditas, quid dicam nescio, nisi caeca
+et effraenata, et tamen his verbis exprimi pro indignatione
+sua non potest. Vincit officium linguae sceleris
+<pb n="0254B"/>
+magnitudo. Eunuchi, lenones scrutabantur omnia.
+Ubicumque liberalior facies erat, secedendum patribus
+ac maritis fuit. Detrahebantur nobilibus foeminis
+<pb n="0255A"/>
+ vestes, itemque virginibus, et per singulos artus
+inspiciebantur, ne qua pars corporis regio cubili
+esset indigna. Si qua detrectaverat, in aqua necabatur;
+tamquam majestatis crimen esset sub illo adultero
+pudicitia. Aliqui, constupratis uxoribus, quas
+ob castitatem ac fidem carissimas habebant, quum
+dolorem ferre non possent, se ipsos etiam necaverunt.
+Sub hoc monstro, pudicitiae integritas nulla, nisi ubi
+barbaram libidinem deformitas insignis arcebat.
+Postremo hunc jam induxerat morem, ut nemo uxorem
+sine permissu ejus duceret, ut ipse in omnibus
+nuptiis praegustator esset. Ingenuas virgines imminutas
+servis suis donabat uxores. Sed et Comites ejus
+sub tali Principe imitabantur [hoc exemplum, et civium]
+suorum cubilia impune violabant. Quis enim
+<pb n="0255B"/>
+vindicaret? Mediocrium filias, ut cuique libuerat,
+rapiebat. Primariae, quae rapi non poterant, in beneficiis
+petebantur; nec recusari licebat, subscribente
+Imperatore, quin aut pereundum esset, aut
+habendus gener aliquis barbarus. Nam fere nullus
+stipator in latere ei, nisi ex gente horum, qui
+a Gothis tempore vicennalium terris suis pulsi,
+<pb n="0256A"/>
+Maximiano se tradiderunt, malo generis humani,
+ut illi barbaram servitutem fugientes, in Romanos
+dominarentur. His satellitibus et protectoribus cinctus,
+Orientem ludibrio habuit.</p>
+      </div1>
+<div1>
+        <head>XXXIX.</head>
+        <p>
+ Denique quum libidinibus suis hanc legem dedisset,
+ut fas putaret quidquid concupisset, ne ab Augusta
+quidem, quam nuper appellaverat matrem, potuit
+temperare. Venerat post obitum Maximiani ad eum
+Valeria, quum se putaret in patribus ejus tutius moraturam,
+eo maxime quod habebat uxorem. Sed animal
+nefarium protinus inardescit. Adhuc in atris vestibus
+erat mulier, nondum luctus tempore impleto.
+Legatis praemissis in matrimonio postulat, ejecturus
+uxorem, si impetrasset. Respondit illa libere, quae
+<pb n="0256B"/>
+sola poterat: primo non posse de nuptiis in illo
+ferali habitu agere, tepidis adhuc cineribus mariti
+sui, patris ejus; deinde illum impie facere, quod sibi
+fidam conjugem repudiet, idem utique facturus et
+sibi; postremo, nefas esse illius nominis ac loci
+feminam sine more, sine exemplo, maritum alterum
+experiri. Nuntiatur homini quid esset ausa. Libido
+<pb n="0257A"/>
+ in iram furoremque convertitur. Statim mulierem
+proscribit, bona ejus rapit, aufert comites, spadones
+in tormentis necat, ipsam cum matre in exilium relegat;
+nec in locum certum: sed huc atque illuc praecipitem
+cum ludibrio exturbat, et amicas ejus afficto
+adulterio damnat.</p>
+      </div1>
+<div1>
+        <head>XL.</head>
+        <p>
+ Erat clarissima foemina, cui ex filiis juvenibus jam
+nepotes erant. Hanc Valeria tamquam matrem alteram
+diligebat, cujus consilio negatam sibi suspicatur. Dat
+negotium Praesidi Eratineo, ut eam cum dedecore interficiat.
+Huic aliae duae adjunguntur, aeque nobiles,
+quarum altera Vestalem famulam virginem Romae reliquerat,
+fugitivae tunc Valeriae familiaris. Altera virum
+habuit senatorem, non nimis Augustae proxima.
+<pb n="0257B"/>
+Sed utraque ob eximiam pulchritudinem corporis ac
+pudicitiam necabatur. Rapiuntur subito mulieres, non
+ad judicium, sed ad lactrocinium. Nec enim quisquam
+accusator extabat. Invenitur quidam Judaeus ob alia
+facinora reus, qui spe impunitatis inductus, adversus
+insontes mentiatur, Judex aequus et diligens extra civitatem
+cum praesidio, ne lapidibus obruatur, protulit.
+Agebatur haec tragoedia Nicaeae. Inrogantur tormenta
+Judaeo, dum quae jussus [erat diceret; hae ne]
+loquerentur, pugnis a tortoribus coercentur: innocentes
+<pb n="0258A"/>
+duci jubentur. Fletus et comploratio, non illius
+tantum mariti, qui aderat bene meritae uxori, sed omnium,
+quos res indigna et inaudita contraxerat. Ac ne
+impetu populi de carnificum manibus raperentur,
+promoti militari modo instructi velites et sagittarii
+prosequuntur. Ita mediae inter cuneos armatorum ad
+supplicium deductae. Jacuissentque insepultae, domesticis
+in fugam versis, nisi eas furtiva amicorum misericordia
+sepelisset. Nec adultero impunitas promissa
+persolvitur: sed patibulo affixus, aperuit omne mysterium,
+et sub extremo spiritu inquit omnibus, qui
+videbant, [ac] innocentes et occisas esse testatur.</p>
+      </div1>
+<div1>
+        <head>XLI.</head>
+        <p>
+ Augusta vero in desertas quasdam solitudines
+Syriae relegata, patrem suum Diocletianum per occultos
+<pb n="0258B"/>
+gnarum calamitatis suae fecit. Mittit ille legatos,
+et rogat ut ad se filiam remittat. Nihil proficit. Iterum
+ac saepius obsecrat. Non remittitur. Postremo
+cognatum suum quemdam militarem ac potentem
+virum legat, qui eum beneficiorum suorum admonitum
+deprecetur. Is quoque, imperfecta legatione,
+irritas preces renuntiat.</p>
+      </div1>
+<div1>
+        <head>XLII.</head>
+        <p>
+ Eodemque tempore senis Maximiani statuae Constantini
+jussu revellebantur, et imagines cum quo pictus
+<pb n="0259A"/>
+ esset, detrahebantur. Et quia senes ambo simul
+plerumque picti erant, et imagines simul deponebantur
+amborum. Itaque quum videret vivus, quod
+nulli unquam imperatorum acciderat, duplici aegritudine
+affectus, moriendum sibi esse decrevit. Jactabat
+se huc atque illuc, aestuante anima per dolorem,
+nec somnum, nec cibum capiens. Suspiria et
+gemitus, crebrae lacrymae, jugis volutatio corporis,
+nunc in lecto, nunc humi. Ita viginti annorum felicissimus
+imperator, ad humilem vitam dejectus
+adeo, et proculcatus injuriis, atque in odium vitae
+dejectus, postremo fame atque angore confectus est.</p>
+      </div1>
+<div1>
+        <head>XLIII.</head>
+        <p>
+ Unus jam supererat de adversariis Dei, cujus
+<pb n="0259B"/>
+nunc exitum ruinamque subnectam. Cum haberet
+aemulationem adversus Licinium, quia praelatus ei
+a Maximiano fuerat, licet nuper cum eo amicitiam
+confirmasset, tamen ut audivit Constantini sororem
+Licinio esse desponsam, existimavit affinitatem illam
+duorum imperatorum contra se copulari. Et
+ipse legatos ad urbem misit occulte, societatem
+Maxentii atque amicitiam postulatum. Scribit etiam
+familiariter. Recipiuntur legati benigne, fit amicitia,
+<pb n="0260A"/>
+utriusque imagines simul locantur. Maxentius
+tanquam divinum auxilium libenter amplectitur.
+Jam enim bellum Constantino indixerat, quasi necem
+patris sui vindicaturus. Unde suspicio inciderat,
+senem illum tam exitiabilem finxisse discordiam
+cum filio, ut ad alios succidendos viam sibi faceret,
+quibus omnibus sublatis, sibi ac filio totius orbis imperium
+vindicaret. Sed id falsum fuit. Nam id propositi
+habebat, ut et filio, et caeteris extinctis, se ac
+Diocletianum restitueret in regnum.</p>
+      </div1>
+<div1>
+        <head>XLIV.</head>
+        <p>
+ Jam mota inter eos fuerant arma civilia. Et quamvis
+se Maxentius Romae contineret, quod responsum
+acceperat, periturum esse, si extra portas urbis
+<pb n="0260B"/>
+exisset; tamen bellum per idoneos duces gerebatur.
+Plus virium Maxentio erat, quod et patris sui exercitum
+receperat a Severo, et suum proprium de
+Mauris atque Italis nuper extraxerat. Dimicatum,
+et Maxentiani milites praevalebant; donec postea
+confirmato animo Constantinus, et ad utrumque paratus,
+copias omnes ad urbem propius admovit, et
+e regione Pontis Mulii consedit. Imminebat dies,
+quo Maxentius imperium ceperat, qui est ad sextum
+<pb n="0261A"/>
+ kalendas novembris; et quinquennalia terminabantur.
+Commonitus est in quiete Constantinus, ut coeleste
+signum Dei notaret in scutis, atque ita praelium
+committeret. Fecit ut justus est, et tranversa
+X littera, summo capite circumflexo, Christum in
+scutis notat. Quo signo armatus exercitus capit ferrum.
+Procedit hostis obviam sine imperatore, pontemque
+transgreditur. Acies pari fronte concurrit.
+Summa vi utrinque pugnatur. Neque his fuga nota,
+neque illis. Fit in urbe seditio, et dux increpitatur,
+velut desertor salutis publicae. Tumque repente populus
+(Circenses enim natali suo edebat), voce subclamat,
+Constantinum vinci non posse.
+</p>
+        <p>Qua voce consternatus proripit se, ac vocatis quibusdam
+Senatoribus, libros Sibyllinos inspici jubet,
+<pb n="0261B"/>
+in quibus repertum est, illo die hostem Romanorum
+esse periturum. Quo responso in spem victoriae inductus
+procedit, in aciem venit. Pons a tergo ejus
+scinditur. Eo viso, pugna crudescit, et manus Dei
+supererat aciei. Maxentianus proterretur; ipse in
+fugam versus properat ad pontem, qui interruptus
+erat, ac multitudine fugientium pressus, in Tiberim
+deturbatur. Confecto tandem acerbissimo bello, cum
+<pb n="0262A"/>
+magna Senatus populique Romani laetitia susceptus
+Imperator Constantinus, Maximini perfidiam cognoscit,
+litteras deprehendit, statuas et imagines invenit.
+Senatus Constantino, virtutis gratia, primi
+nominis titulum decrevit, quem sibi Maximinus vindicabat,
+ad quem victoria liberatae Urbis quum fuisset
+allata, non aliter accepit, quam si ipse victus
+esset. Cognito deinde Senatus decreto, sic exarsit
+dolore, ut inimicitias aperte profiteretur, convicia
+jocis mixta adversus imperatorem maximum diceret.</p>
+      </div1>
+<div1>
+        <head>XLV.</head>
+        <p>
+ Constantinus, rebus in Urbe compositis, hyeme
+proxima Mediolanum contendit. Eodem Licinius advenit,
+ut acciperet uxorem. Maximinus ubi eos intellexit
+<pb n="0262B"/>
+nuptiarum solemnibus occupatos, exercitum
+movit e Syria, hyeme quam cum maxime saeviente,
+et mansionibus geminatis, in Bithyniam concurrit,
+debilitato agmine. Nam maximis imbribus, et nivibus,
+et luto, et frigore, et labore jumenta omnis generis
+amissa sunt, quorum miserabilis per viam
+strages speciem jam futuri belli, et similem cladem
+militibus nuntiabat. Nec ipse intra fines suos moratus
+<pb n="0263A"/>
+ est: sed transjecto protinus freto, ad Byzantii portas
+accessit armatus. Erant ibi milites praesidiarii, ad
+hujusmodi casus a Licinio conlocati. Hos primum
+muneribus et promissis illicere tentavit: postea vi
+et oppugnatione terrere; nec tamen quidquam vis aut
+promissa valuerunt.
+</p>
+        <p>Jam consumpti erant dies undecim, per quos fuit
+spatium nuntios litterasque mittendi ad Imperatorem,
+cum milites non fide, sed paucitate diffisi, seipsos dederunt.
+Hinc promovit Heracleam; et illic eadem ratione
+detentus, aliquot dierum tempus amisit. Et jam
+Licinius, festinato itinere, cum paucis Adrianopolim
+venerat, cum ille, accepta in deditione Perintho,
+aliquanto moratus, processit ad mansionem millia
+decem et octo. Nec enim poterat ulterius, Licinio jam
+<pb n="0263B"/>
+secundam mansionem tenente distantem millibus totidem;
+qui, collectis ex proximo quantis potuit militibus,
+pergebat obviam Maximino, magis ut eum moraretur,
+quam proposito dimicandi, aut spe victoriae.
+Quippe cum ille septuaginta millium armatorum exercitum
+duceret, ipse vix triginta millium numerum
+collegisset. Sparsi enim milites per diversas regiones
+fuerant, et adunari omnes angustiae temporis non sinebant.</p>
+      </div1>
+<div1>
+        <head>XLVI.</head>
+        <p>
+ 
+<pb n="0264A"/>Propinquantibus ergo exercitibus, jam futurum
+propediem praelium videbatur. Tum Maximinus ejusmodi
+votum Jovi vovit, ut si victoriam cepisset,
+Christianorum nomen extingueret, funditusque deleret.
+Tunc proxima nocte Licinio quiescenti adsistit
+Angelus Dei, monens ut ocius surgeret, atque oraret
+Deum summum cum omni exercitu suo; illius
+fore victoriam, si fecisset. Post has voces, cum surgere
+sibi visus esset, et cum ipso qui monebat, adstaret,
+tunc docebat eum quomodo et quibus verbis
+esset orandum. Discusso deinde somno, notarium
+jussit acciri, et sicut audierat, haec verba dictavit: <hi>Summe Deus, te rogamus. Sancte Deus, te rogamus.
+Omnem justitiam tibi commendamus, salutem nostram
+<pb n="0264B"/>
+tibi commendamus, imperium nostrum tibi commendamus.
+Per te vivimus, per te victores et felices existimus.
+Summe sancte Deus, preces nostras exaudi. Brachia
+nostra ad te tendimus. Exaudi, sancte summe Deus.</hi> 
+Scribuntur haec in libellis pluribus, et per praepositos
+tribunosque mittuntur, ut suos quisque milites
+doceat. Crevit animus universis, victoriam sibi credentibus
+de coelo nuntiatam. Statuit imperator praelium
+diei kalendarum maiarum, quae octavum annum
+<pb n="0265A"/>
+ nuncupationis ejus implebant, ut suo potissimum
+natali vinceretur, sicut ille victus est Romae. Maximinus
+voluit praeire maturius: pridie mane aciem
+composuit, ut natalem suum postridie victor celebraret.
+Nuntiatur in castra movisse Maximinum. Capiunt
+milites arma, obviamque procedunt. Campus
+intererat sterilis ac nudus, quem vocant Serenum.
+Erat jam utraque acies in conspectu. Liciniani scuta
+deponunt, galeas resolvunt, ad coelum manus tendunt,
+praeeuntibus Praepositis, et post Imperatorem
+precem dicunt. Audit acies peritura precantium murmur.
+Illi, oratione ter dicta, virtute jam pleni, reponunt
+capitibus galeas, scuta tollunt. Procedunt Imperatores
+ad colloquium. Ferri non potuit Maximinus
+ad pacem. Contemnebat enim Licinium, ac desertum
+<pb n="0265B"/>
+iri a militibus existimabat, quod ille esset in largiendo
+tenax, ipse autem profusus, eoque proposito
+moverat bellum, ut, exercitu Licinii sine certamine
+accepto, ad Constantinum duplicatis viribus statim
+pergeret.</p>
+      </div1>
+<div1>
+        <head>XLVII.</head>
+        <p>
+ 
+<pb n="0266A"/>Ergo propius acceditur, tubae canunt, signa procedunt.
+Liciniani, impetu facto, adversarios invadunt.
+Illi vero perterriti, nec gladios expedire, nec
+tela jacere quiverunt. Maximinus aciem circumire, ac
+milites Licinianos nunc precibus sollicitare, nunc donis.
+Nullo loco auditur. Fit impetus in eum, et ad
+suos refugit. Caedebatur acies ejus impune, et tantus
+numerus legionum, tanta vis militum a paucis metebatur.
+Nemo nominis, nemo virtutis, nemo veterum
+praemiorum memor; quasi ad devotam mortem,
+non ad praelium venissent, sic eos Deus summus jugulandos
+subjecit inimicis. Jam strata erat ingens
+multitudo. Videt Maximinus aliter rem geri quam
+putabat. Projecit purpuram, et sumpta veste servili
+<pb n="0266B"/>
+fugit, ac fretum trajecit: at in exercitu pars dimidia
+prostrata est, pars autem vel dedita, vel in fugam
+versa est. Ademerat enim pudorem deserendi desertor
+imperator. At ille kalendis maiis, id est, una
+nocte atque una die, Nicomediam alia nocte pervenit,
+<pb n="0267A"/>
+ cum locus praelii abesset millia centum sexaginta;
+raptisque filiis et uxore, et paucis ex palatio comitibus,
+petivit Orientem. Sed in Cappadocia, collectis
+ex fuga et ab Oriente militibus, substitit. Ita vestem
+resumpsit.</p>
+      </div1>
+<div1>
+        <head>XLVIII.</head>
+        <p>
+ Licinius vero, accepta exercitus parte ac distributa,
+trajecit exercitum in Bithyniam paucis post
+pugnam diebus, et Nicomediam ingressus, gratiam
+Deo, cujus auxilio vicerat, retulit; ac die iduum
+Juniarum, Constantino atque ipso ter consulibus,
+de restituenda Ecclesia hujusmodi litteras praesidem
+datas proponi jussit.
+</p>
+        <p>
+          <emph>LITTERAE LICINII.</emph>
+        </p>
+<p> « Cum feliciter, tam ego Constantinus Augustus,
+<pb n="0267B"/>
+quam etiam ego Licinius Augustus, apud Mediolanum
+convenissemus, atque universa, quae ad commoda
+et securitatem publicam pertinerent, in tractatu
+haberemus, haec inter caetera quae videbamus
+pluribus hominibus profutura, vel in primis ordinanda
+<pb n="0268A"/>
+esse credidimus, quibus divinitatis reverentia
+continebatur, ut daremus et christianis, et omnibus
+liberam potestatem sequendi religionem, quam
+quisque voluisset, quo quidem divinitas in sede
+coelesti, nobis atque omnibus qui sub potestate
+nostra sunt constituti, placata ac propitia possit
+existere. Itaque hoc consilio salubri ac rectissima
+ratione ineundum esse credidimus, ut nulli omnino
+facultatem abnegandam putaremus, qui vel observationi
+christianorum, vel ei religioni mentem suam
+dederat, quam ipse sibi aptissimam esse sentiret; ut
+possit nobis summa divinitas, cujus religioni liberis
+mentibus obsequimur, in omnibus solitum favorem
+suum benevolentiamque praestare. Quare scire Dicationem
+tuam convenit, placuisse nobis, ut, amotis
+<pb n="0268B"/>
+omnibus omnino conditionibus, quae prius scriptis ad
+officium tuum datis super christianorum nomine videbantur,
+nunc vere ac simpliciter unusquisque eorum,
+qui eamdem observandae religioni christianorum
+gerunt voluntatem, citra ullam inquietudinem
+<pb n="0269A"/>
+ ac molestiam sui idipsum observare contendant. Quae
+sollicitudini tuae plenissime significanda esse credidimus,
+quo scires nos liberam atque absolutam colendae
+religionis suae facultatem hisdem christianis
+dedisse. Quod cum hisdem a nobis indultum esse pervideas,
+intelligit Dicatio tua, etiam aliis religionis suae
+vel observantiae potestatem similiter apertam, et liberam
+pro quiete temporis nostri esse concessam; ut
+in colendo quod quisque delegerit habeat liberam facultatem,
+quia (nolumus detrahi) honori, neque cuiquam
+religioni aliquid a nobis. Atque hoc insuper in
+persona christianorum statuendum esse censuimus,
+quod si eadem loca, ad quae antea convenire consueverant,
+de quibus etiam datis ad officium tuum litteris
+certa antehac forma fuerat comprehensa, priore
+<pb n="0269B"/>
+tempore aliqui vel a fisco nostro, vel ab alio quocumque
+videntur esse mercati, eadem christianis sine
+pecunia, et sine ulla pretii petitione, postposita omni
+frustratione atque ambiguitate, restituantur. Qui
+etiam dono fuerunt consecuti, eadem similiter hisdem
+christianis quantocius reddant: etiam vel hi qui
+emerunt, vel qui dono fuerunt consecuti, si petiverint
+de nostra benevolentia aliquid, Vicarium postulent,
+quo et ipsis per nostram clementiam consulatur. Quae
+omnia corpori christianorum protinus per intercessionem
+tuam, ac sine mora tradi oportebit. Et quoniam
+iidem christiani non ea loca tantum, ad quae
+convenire consueverunt, sed alia etiam habuisse noscuntur,
+<pb n="0269C"/>
+ad jus corporis eorum, id est, Ecclesiarum,
+<pb n="0270A"/>
+non hominum singulorum, pertinentia, ea omnia lege,
+qua superius, comprehendimus, citra ullam prorsus
+ambiguitatem vel controversiam hisdem christianis,
+id est, corpori et conventiculis eorum reddi jubebis,
+supradicta scilicet ratione servata, ut ii qui eadem
+sine pretio, sicut diximus, restituerint, indemnitatem
+de nostra benevolentia sperent. In quibus omnibus
+supradicto corpori christianorum intercessionem
+tuam efficacissimam exhibere debebis, ut praeceptum
+nostrum quantocius compleatur, quo etiam in hoc
+per clementiam nostram quieti publicae consulatur.
+Hactenus fiet, ut sicut superius conprehensum est,
+divinus juxta nos favor, quem in tantis sumus rebus
+experti, per omne tempus prospere successibus nostris
+cum beatitudine nostra publica perseveret. Ut
+<pb n="0270B"/>
+autem hujus sanctionis benevolentiae nostrae forma ad
+omnium possit pervenire notitiam, perlata programmate
+tuo haec scripta et ubique proponere, et ad omnium
+scientiam te perferre conveniet, ut hujus benevolentiae
+nostrae sanctio latere non possit. » </p>
+<p>His litteris propositis, etiam verbo hortatus est, ut
+conventicula in statum pristinum redderentur. Sic ab
+eversa Ecclesia usque ad restitutam fuerunt anni decem,
+menses plus minus quatuor.</p>
+      </div1>
+<div1>
+        <head>XLIX.</head>
+        <p>
+ Sequenti autem Licinio cum exercitu tyrannum,
+profugus concessit, et rursus Tauri montis angustias
+<pb n="0270C"/>
+petiit: munimentis ibidem ac turribus fabricatis,
+<pb n="0271A"/>
+ iter obstruere conatus est; et inde dextrorsum perrumpentibus
+omnia victoribus, Tarsum postremo confugit.
+Ibi cum jam terra marique peteretur, nec ullum
+speraret refugium, angore animi ac metu confugit
+ad mortem, quasi ad remedium malorum quae
+Deus in caput ejus ingessit. Sed prius cibo se infersit,
+ac vino ingurgitavit, ut solent hi qui hoc ultimo
+se facere arbitrantur. Et sic hausit venenum.
+Cujus vis, referto stomacho repercussa, valere non
+potuit in praesens, sed in languorem malum versa
+pestilentiae similem, ut diutius protracto spiritu
+cruciamenta sentiret. Jam saevire in eum coeperat
+virus; cujus vi cum praecordia ejus furerent, insustentabili
+dolore usque ad rabiem mentis elatus est, adeo
+ut per dies quatuor insania percitus, haustam manibus
+<pb n="0271B"/>
+terram velut esuriens devoraret. Deinde post
+<pb n="0272A"/>
+multos gravesque cruciatus, cum caput suum parietibus
+infligeret, exilierunt oculi ejus de caveis. Tunc
+demum, amisso visu, Deum videre coepit candidatis
+ministris de se judicantem. Exclamabat ergo sicut
+ii qui torqueri solent; et non se, sed alios fecisse
+dicebat. Deinde, quasi tormentis adactus, fatebatur,
+Christum subinde deprecans, et plorans ut suimet
+misereretur. Sic inter gemitus, quos tamquam cremaretur,
+edebat, nocentem spiritum detestabili genere
+mortis efflavit.</p>
+      </div1>
+<div1>
+        <head>L.</head>
+        <p>
+ Hoc modo Deus universos persecutores nominis
+sui debellavit, ut eorum nec stirps, nec radix ulla
+remaneret. Nam Licinius summa rerum potitus, in
+<pb n="0272B"/>
+primis Valerium, quem Maximinus iratus nec post fugam
+<pb n="0273A"/>
+ quidem, cum sibi videret esse pereundum, fuerat
+ausus occidere; item Candidianum, quem Valeria
+ex concubina genitum ob sterilitatem adoptaverat,
+necari jussit. Mulier tamen, ut eum vixisse
+cognovit, mutato habitu, comitatui ejus se miscuit,
+ut fortunam Candidiani specularetur; qui quia Nicomediae
+se obtulerat, et in honore haberi videbatur,
+nihil tale metuens, occisus est. Et illa, exitu ejus
+audito, protinus fugit. Idem Severi filium Severianum,
+jam aetate robustum, qui fugientem Maximinum
+fuerat ex acie sequutus, tamquam post obitum ejus
+de sumenda purpura cogitasset, capitali sententiae
+subjectum interemit. Qui omnes Licinium jam pridem,
+quasi malum metuentes, cum Maximino esse
+maluerant, praeter Valeriam, quae volens Licinio in
+<pb n="0273B"/>
+omnes Maximiani haereditates jure suo cedere, idem
+Maximino negaverat. Ipsius quoque Maximini filium,
+tum maximum, agentem in annis octo, et filiam septennem,
+quae desponsa fuerat Candidiano, extinxit.
+Sed prius mater eorum in Orientem praecipitata est.
+Ibi saepe illa castas foeminas mergi jusserat. Sic
+omnes impii vero et justo judicio Dei eadem quae
+fecerant receperunt.</p>
+      </div1>
+<div1>
+        <head>LI.</head>
+        <p>
+ Valeria quoque per varias provincias quindecim
+mensibus plebeio cultu pervagata, postremo apud
+Thessalonicam cognita, comprehensa cum matre
+<pb n="0274A"/>
+poenas dedit. Ductae igitur mulieres cum ingenti spectaculo
+et miseratione tanti casus ad supplicium, et,
+amputatis capitibus, corpora earum in mare abjecta
+sunt. Ita illis pudicitia et conditio exitio fuit.</p>
+      </div1>
+<div1>
+        <head>LII.</head>
+        <p>
+ Quae omnia secundum fidem (scienti enim loquor),
+ita ut gesta sunt mandanda litteris credidi; ne aut
+memoria tantarum rerum interiret, aut, si quis historiam
+scribere voluisset, corrumperet veritatem, vel
+peccata illorum adversus Deum, vel judicium Dei
+adversus illos reticendo. Cujus aeternae pietati gratias
+agere debemus, qui tandem respexit in terram,
+quod gregem suum partim vastatum a lupis rapacibus,
+partim vero dispersum, reficere ac recolligere
+dignatus est, et bestias malas extirpare, quae divini
+<pb n="0274B"/>
+gregis pascua protriverant, cubilia dissipaverant. Ubi
+sunt modo magnifica illa et clara per gentes Joviorum
+et Herculiorum cognomina, quae primum a Dioclete
+ac Maximiano insolenter assumpta, ac postmodum
+ad successores eorum translata, viluerunt?
+Nempe delevit ea Dominus, et erasit de terra.
+</p>
+        <p>Celebremus igitur triumphum Dei cum exultatione,
+victoriam Domini cum laudibus frequentemus, diurnis
+nocturnisque precibus celebremus; celebremus,
+ut pacem post annos decem plebi suae datam confirmet
+in saeculum. Tu praecipue, Donate charissime,
+qui a Deo mereris audiri, Dominum deprecare, ut
+<pb n="0275A"/>
+ misericordiam suam servet aeternam famulis suis
+propitias ac mitis; ut omnes insidias atque impetus
+<pb n="0276A"/>
+diaboli a populo suo arceat; ut florescentes Ecclesias
+perpetua quiete custodiat.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

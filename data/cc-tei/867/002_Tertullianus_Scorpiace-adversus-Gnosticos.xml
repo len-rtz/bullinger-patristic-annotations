@@ -1,0 +1,1378 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Scorpiace adversus Gnosticos</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.ScAdGn</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>ARGUMENTUM.</head>
+
+<pb n="0121A"/>
+<p> <hi>Gnosticos adoritur, qui martyrium tollebant: illius
+utilitatem necessitatemque probat. Scorpiace sive
+Scorpiacum liber hic vocatur, quoniam Scorpiorum
+in morem latenter simplicioribus imponerent, dicebantque
+Deum sanguinem Christianorum non sitire,
+nec Christum de morte nostra salutem exspectare.</hi> EDIT. VENET.</p>
+</div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+<p>Magnum de modico malum scorpios terra
+suppurat: tot venena, quot genera; tot pernicies,
+quot et species; tot dolores, quot et colores,
+Nicander scribit et pingit: et tamen unus
+omnium violentiae gestus nocere de cauda; quae cauda
+erit, quodcumque de postumo corporis propagatur,
+et verberat. Proinde scorpii series illa
+<pb n="0121B"/>
+nodorum, venenata intrinsecus venula subtilis, arcuato
+<pb n="0122A"/>
+impetu surgens, hamatile spiculum in summo
+tormenti ratione stringit; unde et bellicam
+machinam, retractu tela vegetantem, de scorpio
+nominant. Id spiculum, et fistula est, patula
+tenuitate in vulnus et virus, qua figit effundit.
+Familiare periculi tempus aestas; Austro et
+Africo saevitia velificat. In remediis naturalia
+plurima; aliquid et magia circumligat, medicina
+cum ferro et poculo occurrit. Nam et praebibunt
+quidam, festinando tutelam; sed concubitus
+exhaurit, et denuo sitiunt. Nobis fides
+praesidium, si non et ipsa percutitur diffidentia signandi
+statim et adjurandi, et urgendi 
+bestiae calcem: hoc denique modo etiam ethnicis
+saepe subvenimus; donati a Deo ea potestate,
+quam Apostolus dedicavit <note>(Act., XXVIII)</note>, cum
+<pb n="0122B"/>
+morsum viperae sprevit. Quid ergo promittit stylus
+<pb n="0123A"/>
+iste, si fides de suo tuta est? Ut et alias de
+suo tuta sit, cum suos scorpios patitur.
+Acerba mediocritas et istis, et genus varium, et
+uno modo armantur, et certo tempore subornantur,
+nec alio quam ardoris. Hoc apud Christianos
+persecutio est. Cum igitur fides aestuat, et Ecclesia
+exuritur de figura rubi, tunc Gnostici erumpunt,
+tunc Valentiniani proserpunt, tunc omnes martyriorum
+refragatores ebulliunt, calentes
+et ipsi offendere, figere, occidere. Nam quod sciant
+multos simplices ac rudes, tum infirmos, plerosque
+vero in ventum, et si placuerit, christianos,
+nunquam magis adeundos sapiunt, quam cum
+aditus animae formido laxavit; praesertim cum aliqua
+atrocitas fidem martyrum coronavit. Itaque primo
+<pb n="0123B"/>
+ trahentes adhuc caudam de affectibus applicant,
+aut quasi in vacuum flagellant. Haeccine
+pati homines innocentes? ut putes fratrem,
+aut de melioribus ethnicum? Siccine tractari sectam
+nemini molestam? Dehinc adigunt, perire homines
+sine caussa. Perire enim, et sine caussa, prima
+fixura. Exinde jam caedunt. Sed nesciunt simplices
+animae, quid, quomodo scriptum sit, ubi, et quando,
+et coram quibus confitendum, nisi quod nec simplicitas
+<pb n="0124A"/>
+ista, sed vanitas, imo dementia, pro Deo mori.
+Et: Quis me salvum faciat, si is occidet, qui
+salvum facere debebit? Semel Christus pro nobis
+obiit, semel occisus est ne occideremur. Si vicem repetit,
+nunc et ille salutem de mea nece exspectat?
+An Deus hominum mundi sanguinem flagitat, maxime
+si <hi>taurorum et hircorum <note>(Ps., LIX, 13)</note>
+          </hi> recusat? Certe <hi>peccatoris poenitentiam mavult quam mortem 
+ <note>(Ezech.
+XVIII, 23)</note>
+          </hi>. Et quomodo non peccatorum desiderat
+mortem? Haec, et si qua alia admenta haereticorum
+venenorum, quem non vel in scrupulum
+figant, si non in exitium? vel in bilem, si
+non in mortem? At tu, fides si vigilat, ibidem
+scorpio pro solea anathema illidito, et relinquito in
+suo sopore morientem. Caeterum, si plagam
+<pb n="0124B"/>
+satiaverit, intimat virus, et properat in viscera; statim
+omnes pristini sensus retorpescunt, sanguis animi
+gelascit, carne spiritus exolescit, nausea
+nominis inaccrescit. Jam et ipsa mens sibi
+quo vomat quaerit. Atque ita semel infirmitas quae
+percussa est, sauciatam fidem vel in haeresim,
+vel in saeculum exspirat. Et nunc praesentia rerum est
+medius ardor ipsa canicula persecutionis: ab ipso
+scilicet cynocephalo. Alios ignis, alios gladius, alios
+<pb n="0125A"/>
+bestiae Christianos probaverunt. Alii fustibus interim
+et ungulis insuper degustata martyria in carcere
+esuriunt. Nos ipsi ut lepores, destinata venatio,
+de longinquo obsidemur, et haeretici ex more grassantur.
+Itaque tempus admonuit adversus nostrates
+bestiolas (promptam) mederi theriacam
+stylo temperare; qui legeris, biberis. Non amarum
+potio. Si <hi>eloquia Domini dulcia super mella et favos <note>(Ps. XVIII, 7)</note>
+          </hi>,
+inde pigmenta sunt; si <hi>lacte et
+melle</hi> promissio Dei manat, hoc sapiunt quae illuc
+faciunt. <hi>Vae autem qui dulce in amarum, et lumen in
+tenebras convertunt <note>(Is. V, 20)</note>
+          </hi>. Perinde enim et qui
+martyriis refragantur, salutem perditionem interpretantes,
+tam dulce in amarum, quam lucem in tenebras
+reformant, atque ita miserrimam hanc vitam
+<pb n="0125B"/>
+illi beatissimae praevertendo, tam amarum pro dulci,
+quam tenebras pro luce supponunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>Sed nondum de bono Martyrii, nisi debito
+primum; nec ante de utilitate ejus, quam de necessitate
+discendum. Auctoritas divina praecedit, an
+tale quid voluerit atque mandaverit Deus, ut qui
+negant bonum, non suadeantur accommodum,
+nisi cum subacti fuerint. Ad officium haereticos
+compelli, non illici dignum est. Duritia vincenda
+est, non suadenda. Et utique satis optimum
+praejudicabitur, quod probabitur a Deo constitutum
+atque praeceptum. Sustineant Evangelia paulisper,
+dum radicem eorum ex primo Legem; dum inde
+<pb n="0126A"/>
+elicio Dei voluntatem, unde et ipsum recognosco. <hi>Ego sum,</hi> 
+ inquit <note>(Exod. XX)</note>, <hi>Deus tuus qui te
+eduxi de terra Aegypti. Non erunt tibi dii alii
+praeter me. Non facies tibi simulacrum eorum quae in
+coelo, et quae in terra deorsum, et quae in mari infra
+terram. Non adorabis ea, neque famulaberis eis. Ego
+enim sum Dominus Deus tuus.</hi> Item in eadem
+Exodo: <hi>Ipsi vidistis quod de coelo locutus ad vos sim.
+Non facietis vobis deos argenteos, et deos aureos
+non facietis vobis.</hi> Secundum haec et in Deuteronomio <hi>(VI)</hi>:
+ <hi>Audi, Israel, Dominus Deus tuus unus
+est,</hi> et: <hi>Diliges Dominum Deum tuum ex toto corde
+tuo, et ex tota anima tua, et ex totis viribus tuis;</hi> et
+rursus: <hi>Ne obliviscaris Domini Dei tui, qui te eduxit
+de terra Aegypti et domo servitutis. Dominum
+<pb n="0126B"/>
+Deum tuum timebis, et illi famulaberis soli, et illi adglutinaberis;
+et in nomine ejus dejerabis. Non ibitis
+post deos alienos ex diis nationum quae circum vos,
+quia aemulatur Deus tuus in te: ne iratus
+indignetur, et exterminet te a facie terrae.</hi> Sed et proponens
+benedictiones et maledictiones: <hi>Benedictiones,</hi> 
+ inquit <note>(Deut. XI, 27)</note>, <hi>si audieritis praecepta
+Domini Dei vestri, quaecumque ego praecipio
+vobis hodie, et non erraveritis de via, quam
+mandavi vobis, ut abeuntes serviatis diis aliis,
+quos non scitis.</hi> De quibus omnifariam extirpandis: <hi>Perditione perdetis,</hi> 
+ inquit, <hi>omnia loca, in quibus servierunt
+nationes diis suis, quas vos possidebitis
+haereditate: subter montes et colles, et sub arbores
+<pb n="0127A"/>
+densas quasque effodietis aras earum, evertetis et
+comminuetis staticula earum, et excidetis lucos earum,
+et scalptilia ipsorum deorum concremabitis igni,
+et disperdetis nomen eorum de loco illo.</hi> Adhuc ingerit
+cum introissent terram promissionis, et exterminassent
+nationes ejus: <hi>Cave tibi ne sequaris eas posteaquam
+exterminatae fuerint a facie tua, ne requisieris
+deos illarum, dicens: quemadmodum faciunt nationes
+deis suis, et ego ita faciam.</hi> Sed et id: <hi>Si
+prophetes,</hi> inquit <note>(Deut. XIII)</note>, <hi>exsurrexerit in te, aut
+somnium somnians, et dederit tibi signum vel ostentum,
+et evenerit</hi>, <hi>et dixerit: eamus, et serviamus deis
+aliis, quos non scitis: ne audiatis sermonem prophetae,
+aut somniatoris illius; quia tentat vos Dominus Deus
+vester, an ex toto corde vestro, et ex tota anima
+<pb n="0127B"/>
+vestra timeatis eum. Post Dominum Deum vestrum 
+ abibitis, et hunc timebitis, et praecepta ejus
+custodietis, et vocem ejus audietis, et illi servietis, et
+illi adjiciemini. Prophetes autem et somniator ille
+morietur: locutus est enim ad seducendum te a Domino
+Deo tuo.</hi> Sed et alio capitulo: <hi>Si autem
+rogaverit te frater tuus ex patre vel matre, aut filius
+tuus, aut filia tua, aut mulier, quae in gremio tuo est,
+aut amicus qui animae tuae pars est, clam dicens: eamus,
+et serviamus deis aliis, quos non scis, nec patres tui,
+ex deis nationum quae circum te proxime sunt, aut longe;
+ne velis ire cum illo, et ne audieris eum. Non parcet oculus tuus super eum, 
+ nec misereberis, nec celabis eum: annuntians annuntiabis de eo; manus tuae erunt
+in eum in primis ad occidendum, et manus omnis populi</hi> 
+<pb n="0127C"/>
+ <hi>in novissimis, et lapidabitis illum, et morietur,
+quoniam quaesivit avertere te a Domino Deo tuo.</hi> Subjicit
+etiam de civitatibus, si quam ex his constitisset
+suasu iniquorum hominum transiisse ad deos alios.
+ut interficerentur omnes incolentes eam, et devotamenta
+fierent universa ejus, et colligerentur omnia
+spolia ejus in omnes exitus ejus, et igni cremarentur
+cum omnibus vasis suis, et cum omni populo in conspectu
+Domini Dei. <hi>Et non erit habitabilis,</hi> inquit, <hi>in
+aeternum, non reaedificabitur amplius, nec adhaerebit
+quidquam manibus tuis ex devotamento ejus, uti avertatur
+Dominus ab indignatione irae suae.</hi> Maledictionum
+<pb n="0128A"/>
+quoque ordinem ab idolorum exsecratione commisit: <hi>Maledictus homo qui fecerit sculptile aut fusile, aspernamentum
+Domino, opus 
+ manuum artificis, et
+collocaverit illud in abscondito <note>(Deut. XXVII, 15)</note>
+          </hi>. In
+Levitico vero <hi>(XIX, 4)</hi>: <hi>Non sequemini</hi>, inquit, <hi>idola, et deos fusiles non facietis vobis. Ego Dominus
+Deus vester.</hi> 
+ Et alibi: <hi>Filii Israel famuli pueri mei;
+hi sunt quos eduxi de terra Aegypti. Ego Dominus Deus
+vester. Non facietis vobis manu facta, nec scalptile staticulum statuetis vobis, nec lapidem scopum ponetis
+in terra vestra. Ego Dominus Deus vester.</hi> 
+ Et haec
+quidem prima per Moysen dicta sunt a Domino,
+utique pertinentia quoscumque Dominus Deus Israelis
+perinde de Aegypto superstitiosissimi saeculi, et de
+domo humanae servitutis eduxerit. Sed et deinceps
+<pb n="0128B"/>
+omne os Prophetarum ejusdem Dei vocibus sonat,
+eamdem legem suam eorumdem praeceptorum instauratione
+cumulantis, nec aliud primum tam principaliter
+denuntiantis, quam ab omni factura atque
+cultura idolorum cavere; ut per David: <hi>Dei nationum
+argentum et aurum; oculos habent, nec vident;
+aures habent, nec audiunt; nares habent, nec odorantur;
+os, nec loquuntur; manus, nec contrectant;
+pedes, nec ingrediuntur. Similes erunt illis qui faciunt
+ea</hi>, <hi>et qui fidunt in illis.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Nec putem disceptandum, an digne Deus prohibeat
+nomen et honorem suum mendacio addici, an digne
+quos ab errore superstitionis avulserit, rursus in
+Aegyptum regredi nolit; an digne a se non patitur
+<pb n="0128C"/>
+absistere quos sibi allegit. Itaque nec illud exspectabit
+ retractari a nobis, an observari voluerit disciplinam
+quam voluit instituere, et an merito ulciscatur
+desertam, quam voluit observatam: quando
+frustra instituisset, si observari eam noluisset; et
+frustra observari voluisset, si vindicare noluisset.
+Sequitur enim ut has definitiones Dei adversus superstitiones,
+ tam evictas quam etiam vindicatas
+probem, quoniam ex his tota martyriorum ratio constabit.
+Aberat apud Deum in monte Moyses, cum
+populus tam necessariam absentiam ejus impatiens,
+deos sibi producere quaerit, quos potius ipse perdiderit.
+<pb n="0129A"/>
+Urgetur Aaron, et jubet inaures foeminarum
+suarum in ignem conferri. Amissuri enim erant in
+judicium sibi vera ornamenta aurium, Dei voces.
+Sapiens ignis effigiem vituli defundit illis, suggillans
+illic cor habentes, ubi et thesaurum, apud Aegyptum
+scilicet inter caetera animalia bovis etiam cujusdam
+consecratricem; itaque tria millia hominum a parentibus
+ proximis caesa, quia tam proximum parentem
+Deum offenderant, transgressionis et primordia et
+merita dedicaverunt. In Arithmis <note>(Num. XXV)</note>,
+cum divertisset Israel apud Sethim, abeunt libidinatum
+ad filias Moab, invitantur ad idola, ut et spiritu
+fornicarentur; edunt denique de pollutis eorum:
+dehinc et adorant deos gentis, et Beelphegor initiantur.
+Ob hanc quoque idololatriam, moechiae sororem,
+<pb n="0129B"/>
+viginti tria millia domesticis obtruncata gladiis divinae
+irae litaverunt. Defuncto Jesu Nave <note>(Jud. II)</note>, derelinquunt
+Deum patrum suorum, et serviunt idolis
+Baalim et Astartis; et iratus Dominus tradidit eos in
+manibus diripientium; et diripiebantur ab illis, et
+venundabantur inimicis, nec poterant omnino subsistere
+a facie inimicorum suorum; quocumque processerant,
+manus erat super illos in mala, et compressati
+sunt valde. Post quae instituit super illos
+Deus Critas, quos <hi>censores</hi> intelligimus, sed nec istis
+obaudire perseverarunt: ut quis Critarum obierat, illi
+ad delinquendum supra quam patres eorum, abeundo
+post deos alienorum et serviendo et adorando eos.
+Itaque Dominus iratus: Quoniam quidem, ait, transgressa
+est gens ista pactum meum, quod disposui
+<pb n="0129C"/>
+patribus eorum, et non audierunt vocem meam, et
+ego non advertam ad auferendum virum a facie eorum
+ex nationibus quas relinquit decedens Jesu. Atque ita
+per omnes pene annales critarum et deinceps regum, reservatis
+gentium circumcolarum viribus, bello et captivitate
+et jugo allophylorum iram dispensavit Israel,
+quotienscumque ab illo maxime in idololatriam
+exorbitaverunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Hanc igitur si a primordio constat et prohibitam
+de tot tantisque praeceptis, et nunquam impune
+<pb n="0130A"/>
+commissam, de tot tantisque documentis, nec
+ullum tam superbum crimen apud Deum deputari,
+quam hujusmodi transgressionem, ultro intelligere
+debemus divinarum et denuntiationum et executionum
+intentionem, jam tunc martyriis patrocinatam, non
+modo non dubitandis, verum etiam sustinendis,
+quibus scilicet locum fecerat prohibendo idololatriam:
+aliter enim martyria non evenirent; et utique auctoritatem
+suam praestruxerat, volens ea evenire quibus
+locum fecerat. Nunc enim de Dei voluntate compungimur,
+et ingeminat scorpius plagam, hanc
+negans, hanc accusans voluntatem, ut aut alium
+Deum insinuet, cujus haec non sit voluntas; aut
+nostrum nihilominus destruat, cujus talis sit voluntas;
+aut omnino neget voluntatem Dei, si ipsum negare
+<pb n="0130B"/>
+non poterit. Nos autem de Deo alibi dimicantes, et
+de reliquo corpore haereticae cujusque doctrinae, nunc
+in unam speciem congressionis certas praeducimus
+lineas, non alterius Dei, quam Israelis, eam defendentes
+voluntatem, quae martyriis locum fecerit, tam
+ex praeceptis prohibitae semper, quam ex judiciis
+punitae idololatriae. Si enim praeceptum observatum
+vim patitur, hoc erit quodammodo observandi praeceptum,
+ut id patiar per quod potero observare
+praeceptum: vim scilicet quaecumque mihi imminet
+caventi ab idololatria. Et utique qui imponit praeceptum,
+extorquet obsequium. Non potuit ergo noluisse
+ea evenire, per quae constabit obsequium.
+Praescribitur mihi ne quem alium Deum dicam; ne,
+vel dicendo, non minus lingua quam manu Deum
+<pb n="0130C"/>
+fingam; ne quem alium adorem, aut quoque modo
+venerer, praeter unicum illum qui ita mandat; quem
+et jubeor timere, ne ab eo deserar; et de omni
+substantia diligere, ut pro eo moriar. Huic sacramento
+militans ab hostibus provocor, par sum illis
+si manus dedero; hoc defendendo depugno
+in acie, vulneror, concidor, occidor. Quis hunc
+militi suo exitum voluit, nisi qui tali eum
+sacramento consignavit?</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Habes igitur Dei mei voluntatem: occursum est
+<pb n="0131A"/>
+huic plagae. In alium ictum consideremus, de voluntatis
+qualitate. Longum est ut Deum meum bonum
+ostendam, quod jam a nobis didicerunt Marcionitae.
+Deum interim sufficit dici, ut necesse sit bonum
+credi. Malum enim Deum qui praesumpserit,
+constare in utroque non poterit: aut Deum negare
+debebit, quem malum existimarit; aut bonum dicere,
+quem Deum pronuntiarit. Bona igitur erit et voluntas
+ejus, qui nisi bonus, non erit Deus. Probabit
+hoc etiam ipsius rei bonitas, quam Deus voluit;
+martyrii dico: quia bonum nonnisi bonus voluit.
+Bonum contendo martyrium apud eumdem Deum, a
+quo et prohibetur et punitur idololatria. Obnititur
+enim et adversatur idololatriae martyrium. Malo autem
+obniti et adversari nisi bonum non potest.
+<pb n="0131B"/>
+Non quasi negemus esse aemulationem, tam malorum
+inter se, quam et bonorum. Sed alia conditio
+est hujus tituli. Martyrium enim non de communi
+aliqua malitia certat cum idololatria, sed de
+sua gratia; liberat enim ab idololatria. Quod a malo
+liberat, quis non bonum pronuntiabit? quid aliud est
+adversatio idololatriae atque martyrii, quam mortis
+et vitae? In tantum vita martyrio deputabitur, quantum
+ mors idololatriae. Vitam qui malum
+dixerit, habet mortem quam bonum dicat. Est et haec
+perversitas hominum, salutaria excutere, exitiosa
+suscipere, periculosa quaerere, medica male vitare;
+mori denique citius, quam curari desiderare.
+Nam et medicinae praesidium plures refugiunt:
+plures enim stulti, plures timidi, et male verecundi.
+<pb n="0131C"/>
+Et est plane quasi saevitia medicinae, de
+scalpello, deque cauterio, de sinapis incendio;
+non tamen secari, et inuri, et extendi, idcirco
+<pb n="0132A"/>
+malum, quia dolores utiles affert: nec quia
+tantummodo contristat, recusabitur; sed quia necessario
+contristat, adhibebitur. Horrorem operis
+fructus excusat. Ululans denique ille, et gemens, et
+mugiens inter manus medici, postmodum easdem
+mercede cumulabit, artifices optimas praedicabit, et
+saevas jam negabit. Sic et martyria desaeviunt,
+sed in salutem; licebit et Deo in vitam aeternam per
+ignes et gladios et acerba quaeque curare. Sed medicum
+quidem miraberis etiam in illo, quod ferme
+pares adhibet qualitates medelarum adversus qualitates
+querelarum: cum quasi de perverso auxiliatur,
+per ea subveniens per quae laboratur. Nam et
+calores caloribus amplius onerando compescit, et
+ardores siti potius macerando restinguit, et
+<pb n="0132B"/>
+fellis excessus amaris quibusque potiunculis
+colligit, et sanguinis fluxus defusa insuper venula
+revocat. Deum vero, et quidem zelotem, culpandum
+existimabis, si voluit certasse cum caussa,
+et injuriae aemulando prodesse, mortem morte dissolvere,
+occisionem occisione dispargere, tormentis
+tormenta discutere, supplicia suppliciis evaporare,
+vitam auferendo conferre, carnem laedendo juvare,
+animam eripiendo servare. Perversitas quam putas,
+ratio est; quod saevitiam existimas, gratia est: ita
+ Deo de momentaneis aeterna medicante. Magnifica
+bono tuo Deum tetrum: incidisti in manus
+ejus, sed feliciter incidisti; incidit et ille in aegritudines
+tuas. Homo semper medico prior negotium facit:
+denique sibimetipse periculum mortis attraxit.
+<pb n="0132C"/>
+Acceperat a Domino suo, ut a medico, satis utilem
+disciplinam secundum legem vivendi, ut omnia quidem
+ederet, ab una solummodo arbuscula temperaret,
+<pb n="0133A"/>
+quam ipse medicus importunam interim noverat:
+audiit ille quem maluit, et abstinentiam rupit,
+edit illicitum, et transgressione saturatus, in
+mortem cruditavit, dignissimus bona fide in totum
+perire, qui voluit. Sed Dominus sustentata
+fervura delicti, donec tempore medicina temperaretur,
+paulatim remedia composuit, omnes
+fidei disciplinas, et ipsas aemulas vitio, verbum mortis
+verbo vitae rescindentes, auditum transgressionis
+auditu devotionis limantes, ita et cum mori praecipit
+medicus ille, veternum mortis excludit. Quid
+gravatur pati nunc homo ex remedio, quod non est
+tunc gravatus pati ex vitio? displicet occidi in salutem,
+cui non displicuit occidi in perditionem? nauseabit
+ad antidotum, qui hiavit ad venenum?</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+
+<pb n="0133B"/>
+<p>Sed si certaminis nomine Deus nobis martyria
+proposuisset, per quae cum adversario experiremur,
+ut a quo libenter homo elisus est, eum
+jam constanter elidat, hic quoque liberalitas magis,
+quam acerbitas Dei praeest. Evulsum enim hominem
+ de diaboli gula per fidem, jam et inculcatorem
+ejus voluit efficere per virtutem; ne solummodo
+evasisset, verum etiam evicisset inimicum. Amavit,
+qui vocaverat in salutem, invitare et ad gloriam;
+ut gaudeamus liberati, exultemus etiam coronati.
+Agonas istos, contentiosa solemnia et superstitiosa
+certamina graecarum et religionum et voluptatum,
+quanta gratia saeculum celebret, etiam
+Africae liquit. Adhuc Carthaginem singulae
+<pb n="0133C"/>
+civitates gratulando inquietant, donatam pythico
+agone post stadii senectutem. Ita ab aevo dignissimum
+creditum est stadiorum experimentum,
+committere artes, corporum et vocum praestantiam
+<pb n="0134A"/>
+exprimere, praemio indice, spectaculo judice,
+sententia voluptate: qua nulla sunt praelia, non
+nulla vulnera, pugni quassant, calces
+arietant, cestus dilaniant, flagella dilacerant: nemo
+tamen agonis praesidem suggillaverit, quod homines
+violentiae objectat, injuriarum actiones extra stadium,
+sed quantum livores illi et cruores et vibices
+negotiantur intendet: coronas scilicet, et gloriam,
+et dotem, privilegia publica, stipendia civica,
+imagines, statuas, et qualem potest praestare
+saeculum de fama aeternitatem, de memoria resurrectionem.
+Pyctes ipse non queritur dolere se, nam
+ vult, corona premit vulnera, palma sanguinem
+obscurat; plus victoria tumet quam injuria.
+Hunc tu laesum existimabis, quem vides laetum? Sed
+<pb n="0134B"/>
+nec victus ipse de agonotheta casum suum exprobrabit.
+Deum dedecebit artes et disciplinas suas
+educere in medium, in hoc saeculi spatium, in spectaculum
+hominibus et angelis et universis potestatibus?
+carnem atque animam probare de constantia
+atque tolerantia? dare huic palmam, huic honorem,
+illi civitatem, illi stipendia? etiam quosdam reprobare,
+et castigatos cum ignominia summovere? Nimirum
+praescribes Deo, quibus temporibus, aut modis,
+aut locis de familia sua judicet, quasi non et
+praejudicare judici congruat. Quid nunc, si non
+certaminis nomine in martyria fidem exposuisset,
+sed et proprii profectus; nonne oportebat illam
+habere aliquem spei cumulum, cui studium suum
+cogeret, votumque suspenderet, quo eniteretur ascendere,
+<pb n="0134C"/>
+cum terrena quoque officia in gradus
+aestuent? aut quomodo multae mansiones apud Patrem,
+si non pro varietate meritorum? quomodo et
+stella a stella distabit in gloria <note>(I Cor. XV)</note>, nisi pro
+<pb n="0135A"/>
+diversitate radiorum? Porro, et si fidei propterea
+congruebat sublimitatis et claritatis aliqua prolatio,
+tale quid esse oportuerat illud emolumenti,
+quod magno constaret labore, cruciatu, tormento,
+morte. Sed respice compensationem: cum
+caro et anima dependitur, quibus in homine carius
+nihil est; alterum manus Dei, alterum flatus;
+ipsa dependi in profectu, quorum est profectus;
+ipsa erogari, quae lucrifiant; eadem pretia,
+quae et merces. Prospexerat et has Deus imbecillitates
+conditionis humanae, adversarii insidias, rerum
+fallacias, saeculi retia, etiam post lavacrum periclitaturam
+fidem, perituros plerosque rursum post salutem,
+qui vestitum obsoletassent nuptialem, qui
+faculis oleum non praeparassent, qui requirendi per
+<pb n="0135B"/>
+montes et saltus, et humeris essent reportandi. Posuit
+igitur secunda solatia, extrema praesidia, dimicationem
+martyrii, et lavacrum sanguinis exinde securum.
+De cujus felicitate David: <hi>Beati quorum dimissa
+sunt delicta, et quorum opertae sunt iniquitates <note>(Ps.
+XXXII, 1)</note>
+          </hi>. <hi>Beatus vir cui non imputaverit Deus delictum.</hi> 
+ Proprie enim martyribus nihil jam reputari
+potest, quibus in lavacro ipsa vita deponitur. <hi>Sic dilectio operit multitudinem delictorum 
+ <note>(I Petr. IV,
+8)</note>
+          </hi>, quae <hi>Deum scilicet diligens ex totis viribus suis,</hi> 
+quibus in martyrio decertat, <hi>ex tota anima sua <note>(Matth.
+XXII, 37)</note>
+          </hi>, quam pro Deo ponit, hominem martyrem
+excudit. Haec tu remedia, consilia, judicia,
+spectacula etiam Dei atrocitatem judicabis?
+sanguinem hominis Deus concupiscit? Et tamen ausim
+<pb n="0135C"/>
+dicere, si et homo regnum Dei, si homo certam
+salutem, si et homo secundam regenerationem.
+Nulli compensatio invidiosa est, in qua aut gratiae,
+aut injuriae communis est ratio.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Incutiat adhuc scorpius, homicidam Deum
+ventilans: horrebo plane spurcum blasphemiae
+statum de haeretico ore foetentem; sed et talem Deum
+de fiducia rationis amplectar, qua ratione etiam ipse
+se plus quam homicidam pronuntiavit ex Sophiae
+suae persona, voce Salomonis: <hi>Sophia,</hi> inquit <note>(Proverb.,
+IX, 2)</note>, <hi>jugulavit filios suos.</hi> Sophia, sapientia
+est. Sapienter utique jugulavit, dum in vitam; et
+rationaliter, dum in gloriam. O parricidii ingenium!
+o sceleris artificium! o argumentum crudelitatis, quae
+idcirco occidit, ne moriatur quem occiderit! Et ideo
+<pb n="0136A"/>
+quid sequitur? <hi>Sophia in exitibus cantatur hymnis, <note>(Prov., I, 20)</note>
+          </hi>;
+cantatur enim et exitus martyrum. <hi>Sophia in plateis de constantia 
+ agit,</hi> bene enim filios
+suos jugulat. Super summos autem muros confisa dicit,
+cum quidem secundum Isaiam hic exclamat: <hi>Ego Dei sum;</hi> 
+ et hic vociferatur: <hi>In nomine Jacob;</hi> et
+alius scribit, <hi>In nomine Israelis <note>(Is., XLIV, 5)</note>
+          </hi>.
+O bonam matrem! Opto et ipse in filios ejus redigi,
+ut ab ea occidar. Opto occidi, ut filius fiam. Solum
+autem jugulat filios suos; an et torquet? Audio enim et
+alibi dicentem Deum: <hi>Uram illos sicuti uritur argentum</hi>,
+ <hi>et probabo illos sicuti probatur aurum <note>(Zach., XIII, 19)</note>
+          </hi>.
+Utique per tormenta ignium et
+suppliciorum, per martyria fidei examinatoria. Scit et
+Apostolus qualem Deum adscripserit, cum scribit:
+<pb n="0136B"/> <hi>Si Deus Filio suo non pepercit, sed pro nobis tradidit
+illum, quomodo non et cum illo omnia condonavit nobis?</hi> 
+Vides quomodo etiam proprium suum Filium primogenitum
+et unigenitum Sophia divina jugulaverit; utique
+victurum, imo et caeteros in vitam redacturum. Possum
+dicere cum Sophia Dei: Christus est qui se tradidit pro
+delictis nostris. Jam et semetipsam Sophia trucidavit.
+Verba non sono solo sapiunt, sed et sensu: nec
+auribus tantummodo audienda sunt, sed et mentibus.
+Crudelem Deum, qui non intelligit, credit. Quamquam
+et non intelligenti posita sententia est, quae temeritatem
+cohibeat aliter intelligendi. <hi>Quis enim,</hi> inquit <note>(Rom., XI, 32)</note>,
+ <hi>cognovit sensum Dei? aut quis illi
+consiliarius fuit, qui eum instruat? aut viam intelligentiae
+quis demonstravit illi?</hi> Sed enim Scytharum Dianam,
+<pb n="0136C"/>
+aut Gallorum Mercurium, aut Afrorum Saturnum,
+hominum victima placari apud saeculum licuit.
+Et Latio ad hodiernum Jovi media in urbe humanus
+sanguis ingustatur; nec quisquam retractat,
+aut non rationem praesumit aliquam, aut inaestimabilem
+Dei sui voluntatem. Si noster quoque Deus propriae
+hostiae nomine martyria sibi depostulasset, quis
+illi exprobrasset funestam religionem, et lugubres ritus,
+et aram rogum, et pollinctorem sacerdotem? et
+non beatum amplius reputasset, quem Deus comedisset?</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p>Unum igitur gradum insistimus, et in hoc solum
+provocamus, an praecepta sint a Deo martyria, ut credas
+ratione praecepta, si praecepta cognoveris,
+quia nihil Deus non ratione praeceperit. Siquidem <hi>honorata
+est apud illum mors religiosorum ipsius,</hi> ut canit
+<pb n="0137A"/>
+David <note>(Ps. CXV)</note>; non opinor ista communis et omnium
+debitum: atqui justa, etiam ignominiosa est
+ex elogio transgressionis et merito damnationis;
+sed illa quae in ipso aditur ex testimonio religionis,
+et praelio confessionis, pro justitia et sacramento;
+sicut Esaia <hi>(LVII, 1)</hi>: <hi>Videte</hi>, inquit, <hi>quomodo
+perit justus, et nemo excipit corde; et viri justi auferuntur,
+et nemo animadvertit: a facie enim injustitiae perit justus,
+et erit honor sepultura ejus.</hi> Habes hic quoque
+et praedicationem et remunerationem martyriorum. A
+primordio enim justitia vim patitur. Statim ut coli
+Deus coepit, invidiam religio sortita est: qui Deo placuerat,
+occiditur, et quidem a fratre; quo proclivius
+impietas alienum sanguinem sectaretur, a suo
+ auspicata est. Denique, non modo justorum; verum
+<pb n="0137B"/>
+etiam et prophetarum. David exagitatur, Elias
+fugatur, Jeremias lapidatur, Esaias secatur, Zacharias
+inter altare et aedem trucidatur, perennes cruoris
+sui maculas silicibus adsignans. Ipse clausula Legis
+et Prophetarum; nec prophetes, sed angelus dictus,
+contumeliosa caede truncatur in puellae psalticae
+ lucar. Et utique qui spiritu Dei agebantur, ab
+ipso in martyria dirigebantur, ut et jam patiendo
+quae et praedicassent. Proinde et trina fraternitas,
+cum dedicatio imaginis regiae urbem urgeret
+officio, non ignoraverunt quid fides, quae sola in illis
+captiva non fuerat, exigeret; moriendum scilicet adversus
+idololatriam. Meminerant enim et Jeremiae
+scribentis ad eos <hi>(Baruch, VI)</hi>, quibus illa captivitas
+imminebat: <hi>Et nunc videbitis deos Babyloniorum
+aureos et argenteos et ligneos portari super humeros,
+<pb n="0137C"/>
+ostentantes nationibus timorem. Cavete igitur ne et vos
+consimiles sitis Allophylis, et timore capiamini, dum
+aspicitis turbas adorantes retro eos et ante; sed dicite in
+animo vestro: Te, Domine, adorare debemus.</hi> Itaque
+dixerunt a Deo concepta fiducia, quando vigore animi
+conditionales minas regis excutiunt <note>(Dan., III, 16)</note>: <hi>Non habemus necessitatem respondendi huic tuo imperio.
+<pb n="0138A"/>
+Est enim Deus noster quem colimus, potens eruere
+nos de fornace ignis, et ex manibus tuis; et tunc manifestum
+fiet tibi, quod neque idolo tuo famulabimur, nec
+imaginem tuam auream, quam stauisti, adorabimus.</hi> 
+O martyrium et sine passione perfectum! Satis passi,
+satis exusti sunt, quos propterea Deus texit, ne potestatem
+ejus mentiri viderentur. Nam et Danielem
+nullius praeter Dei supplicem, et idcirco a Chaldaeis
+delatum ac depostulatum, statim utique conclusa
+et usitata feritas leonum devorasset, si Darii digna
+praesumptio de Deo falli debuisset. Caeterum, pati
+oportebat omnem Dei praedicatorem atque cultorem
+qui ad idololatriam provocatus negasset obsequium,
+secundum illius quoque rationis statum, qua et
+praesentibus tunc et posteris deinceps commendari
+<pb n="0138B"/>
+veritatem oportebat, pro qua fidem diceret passio
+ipsorum defensorum ejus; quia nemo voluisset occidi,
+nisi compos veritatis. Talia a primordio et praecepta
+et exempla debitricem martyrii fidem ostendunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Superest, ne antiquitas suum quoque habuerit
+sacramentum, novitatem christianam recensere,
+quasi et de Deo aliam, ac proinde disciplina quoque
+aemulam, cujus sophia filios suos jugulare non
+norit. Plane alia in Christo et divinitas et voluntas
+et schola, martyria aut nulla in totum, aut
+aliter intelligenda mandarit, qui neminem ad hujusmodi
+discrimen hortetur, qui pro eo passis nihil repromittat,
+quia pati eos nolit. Et ideo praeceptorum
+principia deducens: <hi>Beati,</hi> inquit <note>(Matth., V, 10)</note>,
+<pb n="0138C"/> <hi>qui persecutionem patiuntur ob justitiam, quoniam illorum
+est regnum coelorum.</hi> 
+ Hoc quidem absolute ad omnes,
+dehinc proprie ad Apostolos ipsos: <hi>Beati eritis
+cum vos dedecoraverint, et persecuti fuerint, et dixerint
+adversus vos omnia mala propter me; gaudete et exultate,
+quoniam merces vestra plurima in coelo: sic enim
+faciebant et prophetis patres eorum <note>(ibid., V, 11)</note>
+          </hi>. Ut
+<pb n="0139A"/>
+etiam prophetaret quod et ipsi occidi haberent ad
+exemplum prophetarum. Quanquam et si omnem
+hanc persecutionem conditionalem in solos tunc Apostolos
+destinasset, utique per illos cum toto sacramento,
+cum propagine nominis, cum traduce Spiritus
+Sancti in nos quoque spectasset etiam persecutionis
+obeundae disciplina, ut in haereditarios discipulos, et
+apostolici seminis frutices. Nam et rursus ad Apostolos
+dirigit <note>(Matth., X, 16)</note>: <hi>Ecce ego mitto vos tanquam
+oves in medio luporum;</hi> et <note>(v. 17)</note>: <hi>Cavete ab
+hominibus; tradent enim vos in consessus, et in synagogis
+suis flagellabunt vos, et ad praesides et reges perducemini,
+mei caussa, in testimonium illis et nationibus,</hi> etc.
+Cum autem subjicit <note>(v. 21)</note>: <hi>Tradet autem frater
+fratrem, et pater filium in mortem, et insurgent filii in
+<pb n="0139B"/>
+parentes, et mortificabunt eos;</hi> manifeste iniquitatem
+istam in caeteros pronuntiavit, quam in Apostolis non
+invenimus. Nemo enim eorum aut fratrem aut patrem
+passus est traditorem, quod plerique jam nostri. Dehinc
+ad Apostolos revocat <note>(v. 22)</note>, <hi>Et eritis odio omnibus
+propter nomen meum.</hi> Quanto magis nos, quos a
+parentibus quoque tradi oportet? Ita, ipsa hac permistione
+nunc ad Apostolos, nunc ad omnes disponendo,
+eumdem in universos nominis exitum effudit, in quibus
+consederit nomen cum odii sui lege. <hi>Qui autem
+sustinuerit usque in finem, iste salvus fiet (ibid)</hi>. Quid
+sustinendo, nisi persecutionem, nisi traditionem, nisi
+occisionem? Nec enim aliud est sustinere in finem,
+quam pati finem. Et ideo: <hi>Non est discipulus super
+magistrum <note>(ib., v. 25)</note>
+          </hi>. Statim sequitur: <hi>Nec servus
+<pb n="0139C"/>
+super dominum suum;</hi> quia cum magister et dominus
+ipse perpessus sit persecutionem et traditionem et
+occisionem, multo magis servi et discipuli eamdem
+expendere debebunt, ne quasi superiores exempti
+de iniquitate videantur; quando hoc ipsum sufficere
+eis ad gloriam debeat, aequari passionibus
+Domini et Magistri; ad quarum tolerantiam aedificans
+monet <note>(ibid., v, 28)</note>, <hi>non eos timendos, qui solum corpus
+occidant, animam autem interficere non valeant:
+sed illi potius metum consecrandum, qui et corpus et
+animam occidere et perdere possit in gehenna.</hi> Quinam
+hi solius corporis interemptores, nisi praesides et reges
+supradicti? homines opinor. Quis etiam animae
+dominator, nisi Deus solus? Quis iste ignium comminator,
+nisi is, sine cujus voluntate nec passerum alter
+<pb n="0139D"/>
+in terram cadit; id est, nec altera ex duabus substantiis
+hominis, caro aut anima? Quia et <hi>capillorum</hi> 
+apud eum <hi>regestus est numerus <note>(ibid., v. 31)</note>
+          </hi>. <hi>Nolite
+<pb n="0140A"/>
+ergo metuere</hi> cum super dicit, <hi>multis passeribus antistatis;</hi> 
+non frustra, id est, non sine emolumento casuros
+in terram repromittit; si magis ab hominibus
+quam a Deo occidi eligamus. <hi>Omnis igitur qui in me
+confessus fuerit coram hominibus, et ego confitebor in
+illo coram Patre meo qui in coelis est. Et omnis qui negaverit
+me coram hominibus, et ego negabo illum coram
+Patre meo qui in coelis est <note>(ibid., v. 33)</note>
+          </hi>. Manifesta, ut
+opinor, definitio et ratio est tam confessionis
+quam negationis, etsi dispositio diversa est. Qui se
+christianum confitetur, Christi esse testatur. Qui
+Christi est, in Christo sit necesse est. Si in Christo
+est, in Christo utique confitetur, cum se christianum
+confitetur. Hoc enim non potest esse, nisi sit in Christo.
+Porro, in Christo confitendo, Christum quoque
+<pb n="0140B"/>
+confitetur qui sit in Christo, dum et ipse in illo est,
+utpote christianus. Nam et si diem dixeris,
+lucis rem ostendis quae diem praestat, licet non
+dixeris lucem, ita, etsi non directo pronuntiavit,
+ « qui me confessus fuerit » ; non est diversus actus
+quotidianae confessionis, a sensu Dominicae pronuntiationis.
+Quod enim est qui se confitetur, id est
+christianum, etiam id per quod est confitetur, id
+est Christum. Proinde qui se negavit christianum,
+in Christo negavit, negando se in Christo esse,
+dum negat se christianum, et Christum autem in
+se negando, dum se in Christo negat, Christum
+quoque negabit. Ita et qui in Christo negaverit,
+Christum negabit. Et qui in Christo confessus fuerit,
+Christum confitebitur. Suffecisset igitur et si de confitendo
+<pb n="0140C"/>
+tantummodo Dominus pronuntiasset. Ex
+forma enim confessionis, contrario quoque ejus praejudicaretur,
+id est negationi; perinde negationi
+negationem rependi a Domino, quemadmodum
+confessioni confessionem. Et ideo cum
+in forma confessionis, etiam negationis conditio
+intelligatur, apparet ad alium modum negationis
+pertinere, quod de ea aliter Dominus pronuntiavit,
+quam de confessione, dicendo: <hi>Qui me negaverit;</hi> 
+non,  « Qui in me » . Prospexerat enim et
+hanc vim plerumque in expugnatione nominis subsecuturam;
+ ut qui se christianum negasset, ipsum
+quoque Christum compelleretur blasphemando negare.
+ Sicut non olim pro . . . spice cum tota
+fide quorumdam colluctatum hoc modo horruimus.
+<pb n="0140D"/>
+Itaque frustra erit dicere,  « Etsi me negavero
+christianum, non negabor a Christo; non enim ipsum
+negavi. »  Ex illa enim negatione tantumdem tenebitur,
+<pb n="0141A"/>
+qua se christianum negando, Christum in se
+negans, etiam ipsum negavit. Plus est autem, quod
+et confusioni confusionem comminatur: <hi>Qui me
+confusus fuerit coram hominibus, et ego confundar
+eum coram Patre meo qui in coelis est.</hi> Sciebat enim
+a confusione vel maxime formari negationem: mentis
+statum in fronte consistere; priorem esse pudoris,
+quam corporis plagam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Qui vero non hic, id est, non intra hunc ambitum
+terrae, nec per hunc commeatum vitae, nec apud
+homines hujus naturae communis confessionem putant
+constitutam, quanta praesumptio est adversus
+omnem ordinem rerum in terris istis, et in vita ista,
+et sub humanis potestatibus experiundarum?
+<pb n="0141B"/>
+Nimirum cum animae de corporibus excesserint, et
+per singula tabulata coelorum de praecepto dispici
+coeperint, et interrogari arcana illa haereticorum
+sacramenta, tunc confitendum apud veras potestates
+et veros homines, Theletos scilicet et Abascantos
+et Acinetos Valentini. Nostrates enim, inquiunt,
+nec ipse Demiurgus constanter homines probabat
+veros esse, quos <hi>stillicidium situlae et pulverem
+areae et sputamen et locustas</hi> deputavit; etiam
+irrationalibus jumentis adaequavit. Plane ita scriptum.
+Non tamen idcirco aliud hominis genus intelligendum
+praeter nos: quos quia constat esse, et comparatione
+  potuit induere, salva et proprietate generis,
+et singularitate. Neque enim si vita vitiata est, ut despectui
+judicata despectis compararetur, statim natura
+<pb n="0141C"/>
+sublata est, ut alia in nomine ejus deputaretur.
+Atquin servatur natura, etsi suffunditur vita, nec alios
+novit Christus homines, quam de quibus dicit: <hi>Quem me aiunt esse homines?</hi> 
+ et: <hi>Quomodo vultis ut
+faciant vobis homines, et ita vos facite illis.</hi> Vide an
+servaverit genus, a quibus et testimonium sui exspectet,
+et in quos justitiae vicem mandat. Illos autem
+coelestes homines si expostulem mihi ostendi, facilius
+<pb n="0142A"/>
+ Aratus Persea, et Cephea, et Erigonam, et
+Ariadnam inter sidera deliniabit. Quis autem prohibuit
+Dominum illic etiam confessionem hominum
+faciendam manifeste determinare, ubi suam futuram
+aperte pronuntiavit? ut ita esset positum:
+ « Qui in me confessus fuerit coram hominibus in
+coelis, et ego in illo confitebor coram Patre meo qui
+in coelis est? »  Eripere me debuit ex isto terrenae
+confessionis errore, quam suscipi noluit, si
+coelestem praecepisset, quia nullos alios homines noveram
+praeter incolas terrae; ne ipso quidem adhuc
+tunc in coelis homine conspecto. Quae porro
+fides rerum, ut post excessum ad superna sublevatus,
+illic probarer, quo non nisi jam
+probatus imponerer? illic de praecepto examinarer,
+<pb n="0142B"/>
+quo nisi admittendus pervenire non possem?
+Christiano coelum ante patet quam via; quia
+nulla via in coelum, nisi cui patet coelum; quod
+qui attigerit, intrabit. Quas mihi potestates janitrices
+affirmas juxta romanam superstitionem Janum
+quemdam et Forculum et Limentinum? quas
+a cancellis ordinas potestates? Si unquam legisti apud
+David <note>(Ps. XXIV, 7)</note>, <hi>auferte portas principes
+vestras</hi>, <hi>et subleventur portae aeternae, et intrabit
+rex gloriae.</hi> Si item audisti apud Amos <hi>(IX, 6)</hi>: <hi>Qui
+assensum illum suum aedificat in coelos, et profusionem
+suam fundat in terras;</hi> scito et ascensum illum
+exinde complanatum vestigiis Domini, et introitum
+exinde reseratum viribus Christi, nec ullam moram
+aut quaestionem in limine Christianis occursuram,
+<pb n="0142C"/>
+qui non dignosci habeant illic, sed agnosci;
+nec interrogari, sed admitti. Nam et si adhuc clausum
+putas coelum, memento claves ejus hic Dominum Petro,
+et per eum, Ecclesiae reliquisse, quas hic unusquisque
+interrogatus atque confessus feret secum.
+Sed asseverat diabolus illic confitendum, ut suadeat
+hic negandum. Pulchra videlicet documenta praemittam,
+ bonas mecum claves feram, timorem
+<pb n="0143A"/>
+eorum, qui solum corpus occidunt, animae autem
+nihil faciunt: commendatus ero hujus praecepti desertione;
+honeste in coelestibus stabo, qui in terrenis
+stare non potui; sustinebo majores potestates,
+qui minoribus cessi; merebor denique admitti, jam
+exclusus. Suppetit adhuc dicere: si in coelestibus
+confitendum, et hic negandum est; nam ubi
+alterum, ibi utrumque; aemula enim quaeque concurrunt.
+Etiam persecutionem in coelis agitari oportebit,
+quae confessionis negationisve materia est. Quid
+itaque cessas, audacissime haeretice, totum ordinem
+christianae concussionis in superna transferre, et in
+primis, ipsum nominis odium illic collocare, ubi ad
+Patris dexteram praesidet Christus? Illic constitues
+ et synagogas Judaeorum, fontes persecutionum,
+<pb n="0143B"/>
+apud quas Apostoli flagella perpessi sunt, et populos
+nationum cum suo quidem circo, ubi facile conclamant,
+  « Usquequo genus tertium? »  Sed et fratres
+nostros et patres et filios et socrus et nurus et domesticos
+nostros ibidem exhibere debebis, per quos
+traditio disposita est: item reges et praesides et armatas
+potestates, apud quos caussa purganda est.
+Erit certe etiam carcer in coelo, carens sole, aut ingratis
+luminosus, et vincula fortasse de zonis, et
+equuleus axis ipse qui torquet: tum si lapidandus
+christianus, grandines aderunt; si urendus, fulmina
+prae manu sunt; si trucidandus, Orionis armati manus
+ operabitur; si bestiis finiendus, ursas
+septemtrio emittet, zodiacus tauros et leones. Haec qui
+sustinuerit in finem, iste erit salvus. Ergone et finis
+<pb n="0143C"/>
+in coelis, et passio, et occisio, et prima confessio? Et
+ubi caro, omnibus istis necessaria? ubi corpus? quod
+solum ab hominibus habet occidi. Haec nobis etiam
+ludicrum in modum certa ratio mandavit, nec ullus
+obicem praescriptionis istius extrudet, ut non omnem
+ordinem persecutionis, omnem ejus caussae firmam
+paraturam illuc transferre cogatur, ubi confessioni
+forum dederit. Siquidem confessio a persecutione
+deducitur, et persecutio in confessione finitur. Nec
+<pb n="0144A"/>
+possunt non una sequi, quae et aditum et exitum, id
+est, initium finemque disponunt. Porro et odium
+nominis hic erit, et persecutio hic erumpit, et traditio
+hic producit, et interrogatio hic compellit, et carnificina
+hic desaevit, et totum hunc ordinem in terris
+confessio vel negatio expungit. Igitur si caetera hic,
+nec confessio alibi; si confessio alibi, nec caetera hic.
+Enimvero non alibi caetera; itaque nec confessio in coelo.
+Aut si aliam volunt esse rationem interrogationis
+et confessionis coelestis, utique et ordinem suum illi
+struere debebunt alium longe, et ab ista dispositione
+diversum, quae Scripturis notatur, et possumus
+dicere, Viderint, dum hic ordo terrenae interrogationis
+et confessionis, ex materia decurrens persecutionis et
+discordiae publicae in nomen, salvus sit suae fidei; ut
+<pb n="0144B"/>
+ita credendum sit sicut et scribitur, ita intelligendum
+sit sicuti auditur. Hic omnem ordinem sustineo,
+ipso Domino non aliam regionem mundi destinante.
+Quid enim post confessionis et negationis terminum
+subjungit? <hi>Ne putaveritis venisse me uti pacem
+mittam in terram; non veni, sed ut machaeram, certe in
+terram. Veni enim dividere hominem adversus patrem
+suum, et filiam adversus matrem suam, et socrum adversus
+nurum suam: et inimici homini domestici sui.
+Sic enim efficitur, ut tradat frater fratrem in mortem,
+et pater filium, et insurgant filii in parentes, et mori eos
+faciant. Et qui sustinuerit in finem, hic salvus erit <note>(Matt., X, 34 et seq.)</note>
+          </hi>.
+Adeo totus hic ordo dominicae
+machaerae, non in coelum missae, sed in terram, illic
+constituit etiam confessionem, quae in finem sustinendo
+<pb n="0144C"/>
+passura est mortem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Eadem igitur forma, caetera quoque ad
+martyrii pertinere defendimus. <hi>Qui pluris,</hi> inquit <note>(Luc. XIV)</note>,
+ <hi>fecerit etiam animam suam quam me, non
+est me dignus;</hi> id est, qui maluerit vivere me negando,
+quam mori confitendo. <hi>Qui animam suam invenerit, perdet
+illam; qui vero perdiderit mei caussa, inveniet illam.</hi> 
+Proinde enim invenit eam, qui negarit lucrifaciendo
+<pb n="0145A"/>
+vitam; sed perdet in gehennam, qui se
+putat negando lucrifacere eam. Perdet autem eam
+ad praesens, qui confessus occiditur; sed inventurus
+eam in vitam aeternam. Ipsi denique praesides, cum
+hortantur negationi, <hi>serva animam tuam,</hi> dicunt,
+et <hi>noli animam tuam perdere.</hi> Quo modo
+loqueretur Christus, nisi quo modo tractaretur
+christianus? Sed cum prohibet meditari responsionem
+ad tribunal, famulos suos instruit, Spiritum
+Sanctum responsurum repromittit <note>(Matth. X, 20)</note>; et
+cum in carcere fratrem vult visitari <note>(Matth., XXV)</note>,
+confessoris imperat curam; et cum Deum vindictam
+facturum electorum suorum affirmat <note>(Matth., XV)</note>,
+passiones consolatur illorum: etiam in parabola
+seminis post cespitem arefacti, persecutionum
+<pb n="0145B"/>
+figurat ardorem. Haec si non ita accipiuntur quemadmodum
+pronuntiantur, sine dubio praeterquam sonant
+sapiunt; et aliud in vocibus erit, aliud in sensibus;
+ut allegoriae, ut parabolae, ut aenigmata. Quemcumque
+igitur conceperint ventum argumentationis
+scorpii isti, quocumque se acumine impegerint, una
+jam linea est: ad ipsas res provocabuntur, an secundum
+Scripturas transigantur. Siquidem tunc aliud significabitur
+in Scripturis, si non idipsum reperiatur
+in rebus. Quod enim scriptum est, hoc evenire oportebit.
+Porro, tunc eveniet quod est scriptum, si non
+aliud eveniet. <hi>Ecce autem et odio habemur ab
+omnibus hominibus, nominis caussa,</hi> quomodo et
+scriptum est; <hi>et tradimur etiam a proximis,</hi> quomodo
+et scriptum est; <hi>et perducimur ad potestates, et interrogamur,
+<pb n="0145C"/>
+et torquemur, et confitemur, et trucidamur,</hi> 
+quomodo et scriptum est <note>(Matth., X)</note>. Sic Dominus
+edixit. Si aliter edixit haec, cur non aliter eveniunt,
+quam edixit, id est, quemadmodum edixit? Atquin
+non aliter eveniunt quam edixit: ergo sicut eveniunt,
+ita edixit, ita eveniunt. Nam nec licuisset
+aliter evenire, quam edixit; nec ipse aliter edixisset,
+quam evenire voluisset. Ita, non aliud significabunt
+Scripturae, quam in rebus recognoscimus. Aut
+si nondum aguntur illa quae praedicantur, quomodo
+<pb n="0146A"/>
+haec aguntur quae praedicata non sunt? Non sunt
+enim haec praedicata quae aguntur, si alia sunt quae
+praedicantur, et non haec quae aguntur. At nunc,
+quia ipsa sunt in rebus, quae in vocibus,
+aliter dicta creduntur; quid fieret si aliter facta
+invenirentur? Sed haec est perversitas fidei, probata
+non credere, non probata praesumere. Cui perversitati
+illud quoque opponam, ut si haec quae sic
+aguntur quemadmodum scripta sunt, non erunt ipsa
+quae praedicantur, illa quae non debeant sic agi quemadmodum
+scripta sunt, ne et ipsa horum exemplo
+periclitentur, excludi siquidem aliud in vocibus, aliud
+in rebus est; et relinquitur nec praedicata videri
+cum evenerint, si aliter praedicantur quam evenire
+habent. Et quomodo credentur quae non erunt praedicata,
+<pb n="0146B"/>
+quia non ita erunt praedicata quomodo eveniunt?
+Ita haeretici quae praedicantur non ut probata sunt
+credendo, ea quae nec praedicata sunt, credunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Quis nunc medullas Scripturarum magis nosset,
+quam ipsa Christi schola? quos et sibi discipulos Dominus
+adoptavit, omnia utique edocendos; et nobis magistros
+adornavit, omnia utique docturos. Cui potius
+figuram vocis suae declarasset, quam cui effigiem
+gloriae suae revelavit, Petro, Jacobo, Joanni, et postea
+Paulo, quem paradisi quoque compotem fecit
+ante martyrium? An et illi aliter quam sentiunt scribunt,
+fallaciae magistri, non veritatis? Petrus quidem
+ad Ponticos: <hi>Quanta enim,</hi> inquit <note>(I Petr. II)</note>, <hi>gloria,
+si non ut delinquentes puniamini, sustinetis! Haec enim
+<pb n="0146C"/>
+gratia est, in hoc et vocati estis, quoniam et Christus
+passus est pro nobis, relinquens vobis exemplum semetipsum,
+ut assequamini vestigia ipsius.</hi> Et rursus <note>(I Pet.
+IV)</note>: <hi>Dilecti, ne expavescatis ustionem, quae agitur in
+vobis in tentationem, quasi novum accidat vobis: etenim
+secundum quod communicatis passionibus Christi, gaudete,
+uti et in revelatione gloriae ejus gaudeatis exultantes.
+Si dedecoramini in nomine Christi, beati estis,
+quoniam gloria et Dei spiritus requiescit in vobis,
+dum ne quis vestrum patiatur, ut homicida, aut fur,
+<pb n="0147A"/>
+aut maleficus, aut alieni speculator. Si autem ut
+christianus, ne erubescat; glorificet autem Dominum in
+nomine isto.</hi> Joannes vero, ut etiam pro fratribus nostris
+animas ponamus, hortatur, negans timorem esse
+in dilectione <note>(I Joan. IV, 18)</note>: <hi>Perfecta enim dilectio
+foras abjicit timorem: quoniam timor poenam habet; et
+qui timet, non est perfectus in dilectione.</hi> Quem timorem
+intelligi praestat, nisi negationis auctorem? Quam
+dilectionem perfectam affirmat, nisi fugatricem timoris,
+et animatricem confessionis? Quam poenam timore
+puniat, nisi quam negator relaturus est, cum
+corpore et anima occidendus in gehenna? Quod si
+pro fratribus, quanto magis pro Domino moriendum
+docet, satis de Apocalypsi quoque sua instructus haec
+suadere! Mandaverat etenim spiritus ad angelum ecclesiae
+<pb n="0147B"/>
+Smyrnaeorum <note>(Apocal. II, 10)</note>: <hi>Ecce diabolus
+ex numero tuo conjiciet in carcerem, ut tentemini
+diebus decem. Esto fidelis ad mortem usque, et dabo
+tibi vitae coronam.</hi> Item ad Pergamenorum de Antipa
+fidelissimo martyre interfecto in habitatione Satanae.
+Item ad Philadelphenorum, quod a tentatione ultima
+liberaretur, qui Domini nomen non negarat. Exinde
+victori cuique promittit nunc arborem vitae, et
+mortis veniam secundae: nunc latens manna cum
+calculo candido, et nomine ignoto: nunc ferreae virgae
+potestatem, et stellae matutinae claritatem: nunc
+albam vestiri, nec deleri de libro vitae, et columnam
+fieri in Dei templo, in nomine Dei et Domini, et Jerusalem
+coelestis inscripta, nunc residere cum Domino
+in throno ejus, quod aliquando Zebedaei filiis
+<pb n="0147C"/>
+negabatur. Quinam isti tam beati victores, nisi proprie
+martyres? Illorum etenim victoriae, quorum et
+pugnae; eorum vero pugnae, quorum et sanguis. Sed
+et interim sub altari martyrum animae placidum
+quiescunt, et fiducia ultionis patientiam pascunt,
+et indutae stolis, candidam claritatis usurpant,
+donec et alii consortium illarum gloriae impleant.
+Nam et rursus innumera multitudo albati et palmis
+victoriae insignes revelantur; scilicet de Antichristo
+triumphantes, sicut unus ex presbyteris; <hi>Hi sunt,</hi> 
+ait <note>(Apoc. VII, 14)</note>, <hi>qui veniunt ex illa pressura magna,
+et laverunt vestimentum suum, et candidaverunt ipsum
+in sanguine agni:</hi> vestitus enim animae, caro. Sordes
+quidem baptismate abluuntur, maculae vero martyrio
+<pb n="0148A"/>
+candidantur. Quia et Esaias <note>(Is. I, 18)</note> ex russeo
+et coccino niveum et laneum repromittit. Magna
+etiam Babylon cum describitur ebria sanctorum
+cruore, sine dubio ebrietas ejus martyriorum poculis
+ministratur, quorum formido quid relatura sit, aeque
+ostenditur. Inter omnes enim reprobos; imo ante
+omnes. Timidis autem, inquit, dehinc caeteris, particula
+in stagno ignis et sulphuris. Sic timor ejus in
+Epistola ejus <note>(I Joan. IV, 18)</note>, quem dilectio foras abjicit,
+habet poenam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p>Paulus vero Apostolus de persecutore <note>(Act. IX)</note>, qui
+primus Ecclesiae sanguinem fudit, postea gladium
+stylo mutans, et convertens machaeram in aratrum;
+lupus rapax Benjamin, dehinc ipse afferens escam
+<pb n="0148B"/>
+secundum Jacob, qualiter martyria, jam et sibi optabilia,
+commendat! cum de Thessalonicensibus
+gaudens: <hi>Uti,</hi> inquit <note>(II Thessal. I, 3, 4)</note>, <hi>gloriemur in
+vobis in Ecclesiis Dei pro tolerantia vestra et fide, in
+omnibus persecutionibus et pressuris, quibus sustinetis
+ostentamen justi judicii Dei, ut digni habeamini
+regno ejus, pro quo et patimini.</hi> Sicut et ad Romanos <note>(Rom. V, 11)</note>:
+ <hi>Non solum autem, verum etiam exultantes
+in pressuris; certi quod pressura tolerantiam
+perficit, tolerantia vero probationem, probatio autem
+spem, spes vero non confundit.</hi> Et rursus <note>(Rom. VIII,
+17)</note>: <hi>Quod si filii, et haeredes; haeredes quidem Dei, cohaeredes
+vero Christi: siquidem compatimur</hi>, <hi>uti et
+cum illo glorificemur. Reputo enim passiones hujus
+temporis non esse dignas ad gloriam, quae in nobis revelabitur</hi> 
+<pb n="0148C"/>.
+Et ideo postmodum: <hi>Quis,</hi> inquit <note>(Rom. VIII, 35)</note>,
+ <hi>separabit nos a dilectione Christi?
+pressura, an angustia, an fames, an nuditas, an periculum,
+an machaera, secundum quod scriptum est:
+tui caussa mortificamur tota die, deputati sumus ut
+pecora jugulationis; sed in omnibus istis supervincimus
+pro eo qui nos dilexit. Persuasum enim habemus, quod
+neque mors, neque vita, neque virtus, neque sublimitas,
+neque profundum, neque alia conditio poterit nos a dilectione
+Dei separare, quae est in Christo Jesu Domino
+nostro.</hi> Sed et Corinthiis passiones suas enumerans <note>(II Cor. XI, 33)</note>,
+patiendum utique praefinivit: <hi>In laboribus
+abundantius, in carceribus plurimum, in mortibus
+saepius; a Judaeis quinquies quadragenas citra
+<pb n="0149A"/>
+unam accepi, ter virgis caesus, semel lapidatus,</hi> et reliqua.
+Quae si magis incommoda quam martyria videbuntur,
+tamen rursus: <hi>Propter quod,</hi> inquit <note>(II Cor.
+XII, 10)</note>, <hi>boni duco in infirmitatibus, in injuriis, in necessitatibus,
+in persecutionibus, in angustiis pro Christo.</hi> 
+Etiam in superioribus <note>(II Cor. IV, 8)</note>: <hi>Qui in omnibus
+tribulemur, sed non coangustemur; et indigeamus, sed
+non perindigeamus; quoniam persecutionibus agitemur,
+sed non derelinquamur; qui dejiciamur, sed non
+pereamus: semper mortificationem Christi Jesu in corpore
+nostro circumferentes. Sed etsi,</hi> inquit, <hi>exterior
+homo noster vitiatur,</hi> caro scilicet, vi persecutionum; <hi>sed interior renovatur die et die;</hi> 
+ anima scilicet spe promissionum.
+Nam quod ad praesens, <hi>temporale et leve
+pressurae nostrae per supergressum in supergressum</hi> 
+<pb n="0149B"/> <hi>aeternum pondus gloriae perficit 
+ nobis, non intuentibus
+quae videntur, sed quae non videntur. Quae enim
+videntur, temporalia,</hi> de incommodis dicens; <hi>quae vero
+non videntur, aeterna,</hi> de praemiis spondens.
+Thessalonicensibus vero de vinculis scribens,
+utique beatos affirmavit, <note>(Phil. I, 29)</note>, quibus donatum
+esset <hi>non tantum credere in Christum, sed
+etiam pro ipso pati: Eumdem,</hi> inquit, <hi>agonem habentes
+quem in me vidistis, et nunc audistis</hi>. <hi>Nam
+et si libor super sacrificium, gaudeo et congaudeo
+omnibus vobis, perinde et vos gaudete et congaudete
+mihi <note>(ibid., II, 17)</note>
+          </hi>. Vides quam martyrii definiat
+felicitatem, cui de gaudio mutuo acquirit solemnitatem.
+Ut proximus denique voti sui factus
+est, qualiter de prospectu ejus exsultans Timotheo
+scribit <note>(II Tim. IV, 6, 7)</note>? <hi>Ego enim jam libor, et
+<pb n="0149C"/>
+tempus dijunctionis instat</hi>. <hi>Agonem bonum decertavi,
+cursum consummavi, fidem custodivi; superest corona,
+quam mihi Dominus illa die reddet,</hi> scilicet passionis.
+Satis et ipse supra allocutus <note>(II Tim. II, 11; II Tim.
+1, 8)</note>: <hi>Fidelis sermo: si enim commortui sumus
+Christo, et convivemus; si sufferimus, et conregnabimus;
+<pb n="0150A"/>
+si negaverimus, et ille nos negabit; si non credimus, ille
+fidelis est, negare se non potest. Ne ergo confundaris
+martyrio Domini nostri, neque me vinctum ejus;</hi> quia
+praedixerat: <hi>Non enim dedit nobis Deus spiritum timoris,
+sed virtutis et dilectionis et sanae mentis.</hi> Virtute
+enim patimur ex dilectione in Deum, et sana mente,
+cum ob innocentiam patimur. Sed et sicubi tolerantiam
+praecipit, quibus magis eam quam passionibus
+prospicit? sicubi ab idololatria divellit, quid ei
+magis quam martyria praevellit?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+<p>Plane monet Romanos <note>(Rom. XIII, 4-7)</note> omnibus
+potestatibus subjici, quia <hi>non sit potestas nisi a Deo,</hi> 
+quia <hi>non sine caussa gladium gestet,</hi> et quia <hi>ministerium 
+ sit Dei; sed et ultrix,</hi> inquit, <hi>in iram ei qui
+<pb n="0150B"/>
+malum fecerit.</hi> Nam et praemiserat: <hi>Principes enim
+non sunt timori bono operi, sed malo. Vis autem non
+timere potestatem? fac bonum, et laudem ab ea referes. 
+ Dei ergo ministra est tibi in bonum. Si vero malum
+facias, time.</hi> Ita, non in occasione frustrandi martyrii
+jubet te subjici potestatibus, sed in provocatione bene
+vivendi, etiam sub illarum respectu, quasi adjutricum
+justitiae, quasi ministrarum divini judicii, hic
+etiam de nocentibus praejudicantis. Dehinc et exequitur
+quomodo velit te subjici potestatibus, reddere
+jubens, <hi>cui tributum, tributum; cui vectigal, vectigal;</hi> 
+id est <hi>
+            <note>(Matt. XXII, 21)</note> quae sunt Caesaris, Caesari,
+et quae Dei, Deo;</hi> solius autem Dei homo. Condixerat
+scilicet Petrus, regem quidem honorandum;
+ut tamen tunc rex honoretur, cum suis rebus insistit,
+<pb n="0150C"/>
+cum a divinis honoribus longe est; quia et pater
+et mater diligentur, cum Deo non comparabuntur.
+Caeterum, super Deum diligi nec animam licebit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p>Num ergo et Apostolorum litterae mobiles?
+<pb n="0151A"/>
+ et nos usquequaque simplices animae, et solummodo
+columbae, libenter errantes? credo vivendi
+cupiditate. Ita vero sit, ut recedant a litteris
+suis sensus. Quae tamen passos Apostolos scimus,
+manifesta doctrina est; hanc intelligo solam Acta
+decurrens; nihil quaero; carceres illic, et vincula, et
+flagella, et saxa, et gladii, et impetus Judaeorum, et
+coetus nationum, et tribunorum elogia, et regum
+auditoria, et proconsulum tribunalia, et Caesaris
+nomen interpretem non habent. Quod Petrus
+caeditur, quod Stephanus opprimitur, quod
+Jacobus immolatur, quod Paulus distrahitur, ipsorum
+sanguine scripta sunt. Et si fidem Commentarii
+ voluerit haereticus, instrumenta imperii
+loquentur, ut lapides Jerusalem. Vitas Caesarum legimus;
+<pb n="0151B"/>
+orientem fidem Romae primus Nero cruentavit.
+Tunc Petrus ab altero cingitur, cum cruci adstringitur.
+Tunc Paulus civitatis romanae consequitur
+nativitatem, cum illic martyrii renascitur generositate.
+Haec ubicumque jam legero, pati disco; nec mea
+interest quos sequar martyrii magistros, sensusne an
+<pb n="0152A"/>
+exitus Apostolorum; nisi quod et sensus in exitibus
+recognosco. Nihil enim passi fuissent, quod non prius
+patiendum esse sensissent. Cum vincula Paulo
+Agabus gestu quoque prophetasset, discipuli flentes
+et orantes ne se Jerosolyma committeret, frustra
+oraverunt. Ille enim, quod semper docuerat animatus: <hi>Quid fletis,</hi> 
+ inquit, <hi>et contristatis cor meum? At
+ego non modo vincula Jerosolymis pati optaverim,
+verum etiam mori pro nomine Domini mei Jesu Christi.
+Atque ita cesserunt, dicendo: Fiat voluntas Domini <note>(Act. XXI, 13, 14)</note>
+          </hi>;
+fidentes scilicet, passiones ad
+voluntatem Dei pertinere. Non enim dehortationis
+consilio, sed dilectionis retinere tantaverant, ut
+Apostolum desiderantes, non ut martyrium dissuadentes.
+Quod si jam tunc Prodicus aut Valentinus
+<pb n="0152B"/>
+assisteret, suggerens, non in terris esse confitendum
+ apud homines; minus vero, ne Deus humanum
+sanguinem sitiat, nec Christus vicem passionis,
+quasi et ipse de ea salutem consecuturus
+exposcat; statim audisset a servo Dei, quod audierat
+a Domino diabolus: <hi>Recede, Satana, scandalum
+<pb n="0153A"/>
+mihi es; scriptum est: Dominum Deum tuum adorabis,
+et illi soli servies <note>(Matt. XXVI, 23; IV, 10)</note>
+          </hi>. Sed
+et nunc audire debebit, quatenus multo post, venena
+<pb n="0154A"/>
+ista suffudit; nulli infirmorum facile nisi
+nocitura, si qui non hanc nostram ex fide praebiberit,
+vel etiam superbiberit potionem.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

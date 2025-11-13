@@ -1,0 +1,428 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Psalmus contra partem Donati</title>
+              <author ref="http://viaf.org/viaf/66806872">Augustinus Hipponensis<date>354-430</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 43</title>
+           <idno>AugHip.PsCoPaD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Psalmus contra partem Donati</head>
+
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>
+<pb n="0024"/>Abundantia peccatorum solet fratres conturbare:</l>
+<l>Propter hoc Dominus noster voluit nos praemonere,</l>
+<l>
+<pb n="0025"/>Comparans regnum coelorum reticulo misso in mare,</l>
+<l>Congreganti multos pisces, omne genus, hinc et
+inde.</l> 
+<l>Quos cum traxissent ad littus, tunc coeperunt separare:</l>
+<l>Bonos in vasa miserunt; reliquos malos, in mare.</l> 
+<l>Quisquis novit Evangelium, recognoscat cum timore.</l> 
+<l>Videt reticulum Ecclesiam, videt hoc saeculum mare.</l> 
+<l>Genus autem mixtum piscis, justus est cum peccatore.</l> 
+<l>Saeculi finis est littus: tunc est tempus separare.</l> 
+<l>Quando retia ruperunt, multum dilexerunt mare.</l> 
+<l>Vasa sunt sedes sanctorum, quo non possunt pervenire <note>(Matth. XIII, 47 50)</note> 
+.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Bonus auditor fortasse quaerit, Qui ruperunt rete?</l> 
+<l>Homines multum superbi, qui justos se dicunt esse.</l> 
+<l>Sic fecerunt scissuram, et altare contra altare.</l> 
+<l>Diabolo se tradiderunt, cum pugnant de traditione,</l>
+<l>Et crimen quod commiserunt, in alios volunt transferre:</l>
+<l>Ipsi tradiderunt Libros, et nos audent accusare,</l>
+<l>Ut pejus committant scelus, quam commiserunt et
+ante.</l> 
+<l>Quod possent causam Librorum excusare de timore,</l>
+<l>Quod Petrus Christum negavit <note>(Id. XXVI, 70)</note>, dum
+terreretur de morte:</l>
+<l>Modo quo pacto excusabunt factum altare contra altare?</l> 
+<l>Et pace Christi conscissa spem ponunt in homine?</l> 
+<l>Quod persecutio non fecit, ipsi fecerunt in pace.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Custos noster, Deus magne, tu nos potes liberare</l>
+<l>A pseudoprophetis istis, qui nos quaerunt devorare.</l> 
+<l>Maledictum cor lupinum contegunt ovina pelle:</l>
+<l>Qui noverunt Scripturas, hos solent circumvenire.</l> 
+<l>Audiunt enim traditores, et nesciunt quod gestum est
+ante.</l> 
+<l>Quibus si dicam, Probate, non habent quid respondere.</l> 
+<l>Suis se dicunt credidisse; dico ego mentitos esse:</l>
+<l>Quia et nos credimus nostris, qui eos dicunt tradidisse.</l> 
+<l>Vis nosse qui dicant falsum? Qui non sunt in unitate.</l> 
+<l>Olim jam causa finita est, quod vos non statis in
+pace.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>
+<pb n="0026"/>Dixerunt majores nostri, et libros fecerunt inde,</l>
+<l>Qui tunc causam cognoverunt, quod recens possent
+probare.</l> 
+<l>Erant quidam traditores Librorum de sancta lege,</l>
+<l>Episcopi de Numidia, et non quilibet de plebe:</l>
+<l>Cum Carthaginem venissent episcopum ordinare,</l>
+<l>Invenerunt Caecilianum jam ordinatum in sua sede</l>
+<l>Irati sunt quia ipsi non potuerunt ordinare.</l> 
+<l>Erant Botrus et Celestius hostes Caeciliano valde,</l>
+<l>Impii, fures, superbi, de quibus longum est referre,</l>
+<l>Junxerunt se simul omnes crimen in illum conflare.</l> 
+<l>Dicunt ordinatorem ejus sanctos libros tradidisse.</l> 
+<l>Sic pacis retia ruperunt, et errant modo per mare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<p>
+          <emph> <hi>Ecce quam bonum et quam jucundum, fratres in unum
+habitare <note>(Psal. CXXXIII, 1)</note>
+            </hi>.</emph>
+<l>Audite vocem Prophetae, ut sitis in unitate.</l> 
+<l>Crimen nobis quis probavit antiquum de traditione?</l> 
+<l>Quis objecit in judicio? Qui sederunt judicare?</l> 
+<l>Quibus testibus convicit? Quis ausus est affirmare?</l> 
+<l>Sed hoc libenter finxerunt, quod se noverunt fecisse:</l>
+<l>Quia fama jam loquebatur de Librorum traditione;</l>
+<l>Sed qui fecerant latebant in illa perditione.</l> 
+<l>Inde alios infamaverunt, ut se ipsos possent celare.</l> 
+<l>Per illos caeteri erraverunt principes ex ipsa parte:</l>
+<l>Quia non credere collegis putaverunt sibi turpe.</l> 
+<l>Jam, fratres, finitur error, et simus in unitate.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Fecerunt quod voluerunt tunc in illa caecitate:</l>
+<l>Non judices sederunt, non sacerdotes de more,</l>
+<l>Quod solent in magnis causis, congregati judicare.</l> 
+<l>Non accusator et reus steterunt in quaestione;</l>
+<l>Non testes, non documentum, quo possent crimen
+probare:</l>
+<l>Sed furor, dolus, tumultus, qui regnant in falsitate.</l> 
+<l>Proferantur nobis Gesta quae in concilio solent esse,</l>
+<l>Videamus quae res coegit fieri altare contra altare.</l> 
+<l>Si malus erat sacerdos, deponendus erat ante:</l>
+<l>Si non poterat deponi, tolerandus intra rete:</l>
+<l>Sicut modo toleratis tam multos malos aperte:</l>
+<l>Et qui fertis pro furore, ferretis unum pro pace.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Gaudium magnum esset nobis, si tunc nolletis errare:</l>
+<l>Sed si tunc non visum est verum, vel nunc experti
+videte.</l> 
+<l>Multos nunc habetis pravos, qui vobis displicent
+valde:</l>
+<l>
+<pb n="0027"/>Nec tamen hos separatis a vestra communione.</l> 
+<l>Non dico de illis peccatis, quae potestis et negare:</l>
+<l>Fustes, ignes, mortes dico, quae committunt vestri in
+luce.</l> 
+<l>Et tamen suffertis illos, vel errore, vel timore.</l> 
+<l>Quantum erat, ferrent unum patres vestri pro unitate,</l>
+<l>Si tantus erat tumultus, ut non possent degradare.</l> 
+<l>Addo quod innocens erat, et nil poterant probare.</l> 
+<l>Sed ne crimen quaereretur, ubi se videbant esse;</l>
+<l>Finxerunt se nimis justos, cum totum vellent perturbare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Honores vanos qui quaerit, non vult cum Christo regnare:</l>
+<l>Sicut princeps hujus mali, de cujus vocantur parte.</l> 
+<l>Nam Donatus cum volebat Africam totam obtinere,</l>
+<l>Tunc judices transmarinos petiit ab Imperatore:</l>
+<l>Sed haec tam injusta petitio non erat de charitate.</l> 
+<l>Hoc ipsa veritas clamat, quam volo modo referre.</l> 
+<l>Nam consensit Imperator, misit qui sederent Romae</l>
+<l>Sacerdotes, qui tunc possent Caecilianum cum illo
+audire.</l> 
+<l>Dicta causa est, nil probatum est: ausus est et appellare;</l>
+<l>Et post collegarum sedem, audire ab Imperatore.</l> 
+<l>Hic petitio illa probatur non esse de charitate.</l> 
+<l>Deinde ubique victus coepit Christianos rebaptizare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Justitiam sequi si vultis, totam causam cogitate.</l> 
+<l>Quod postea fecit, quare factum non est ante?</l> 
+<l>Dissentiebant sacerdotes in tota Africana parte;</l>
+<l>Sacerdotes transmarini possent inde judicare:</l>
+<l>Quid curritis ad schisma, et altare contra altare?</l> 
+<l>Ut quod postea judicatum est, jam non possetis audire,</l>
+<l>Et a judicibus vestris cogeremini appellare,</l>
+<l>Dum vultis erroris regnum quoquo modo confirmare.</l> 
+<l>Et nunc et vos totum nescitis, et fingitis vos nescire:</l>
+<l>Et cum vos veritas urget, patres dicitis errasse,</l>
+<l>Quasi vos aliquis vetet jam recedere ab errore.</l> 
+<l>Sed superbia vos ligavit in cathedra pestilentiae.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Karitatem Christi qui habet, pacem non potest
+odisse.</l> 
+<l>Vel vos jam populi, audite, et nobiscum concordate,</l>
+<l>Qui non tenetis cathedram, pro qua pugnetis injuste.</l> 
+<l>Si modo episcopi vestri ex una aliqua regione</l>
+<l>Haberent inter se litem, quos velletis judicare,</l>
+<l>Nisi alterarum regionum, qui non essent de ipsa
+lite,</l>
+<l>
+<pb n="0028"/>Sed cum discussissent causam, pronuntiarent pro
+una parte:</l>
+<l>Nunquam communicaretis qui illis nollent consentire.</l> 
+<l>Quare ergo consensistis istis qui hoc fecerunt ante?</l> 
+<l>Nam et ipsi non consenserunt transmarinorum sententiae,</l>
+<l>Qui pro nobis judicarunt: nam nobis junguntur hodie.</l> 
+<l>Si judex Christus hoc dicat, quid habetis respondere?</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Lumen cordis si est in vobis, verum potestis videre.</l> 
+<l>Sunt Preces Donati et Acta, quibus quod dictum est
+probate.</l> 
+<l>Quae si credere non vultis, vos huc aliqua proferte,</l>
+<l>Quibus si et nos non credimus, erit rixa sine fine.</l> 
+<l>Amplectamur ergo pacem: quid ad nos quod gestum
+est ante?</l> 
+<l>Objicitis traditionem: respondemus vos fecisse.</l> 
+<l>Clamatis vos de Macario, et nos de Circumcellione.</l> 
+<l>Illud nostrum jam transactum: vestri non cessant
+usque hodie.</l> 
+<l>Habeat paleas area vestra, vos hoc solum vultis esse:</l>
+<l>Vos enim non vultis pacem; illi minantur de fuste.</l> 
+<l>Et utinam minarentur, et non tunderent quotidie.</l> 
+<l>Hos si expellunt isti, vestri non habent per quos regnare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Modum si excessit Macarius conscriptum in christiana
+lege,</l>
+<l>Vel legem regis referebat, ut pugnaret pro unitate:</l>
+<l>Non dico istum nihil peccasse, sed vestros pejores
+esse.</l> 
+<l>Quis enim praecepit illis per Africam sic saevire?</l> 
+<l>Non Christus, non Imperator probatur hoc permisisse,</l>
+<l>Fustes, et ignes privatos, et insaniam sine lege.</l> 
+<l>Quia scriptum est, <hi>Reconde gladium <note>(Matth. XXVI, 52)</note>
+            </hi>,
+scelus non putant in fuste.</l> 
+<l>Non ut homo moriatur, sed ut conquassetur valde</l>
+<l>Et postea moriatur, inde jam cruciatus languore.</l> 
+<l>Sed tamen si miserentur, occidunt et uno fuste.</l> 
+<l>Fustes Israeles vocant, quod dixerunt cum honoret</l>
+<l>Ut plus vastent ipsum nomen, quam corpus quod caedunt
+inde.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Nolite nobis jam, fratres, tempus Macarii imputare.</l> 
+<l>Si crudeles erant illi, et nobis displicent valde:</l>
+<l>Si autem falsa de illis dicun,, Deus potest judicare.</l> 
+<l>Nos amemus pacem Christi, gaudeamus in unitate.</l> 
+<l>Si qui mali sunt in Ecclesia, nil nobis possunt nocere.</l> 
+<l>Si non possunt nobiscum esse, excludantur salva
+pace:</l>
+<l>Si non poterunt excludi, excludantur vel de corde.</l> 
+<l>
+<pb n="0029"/>Dixit Ezechiel sanctus, quosdam consignatos esse,</l>
+<l>Qui gemunt peccata fratrum, et non se separant inde <note>(Ezech. IX, 4)</note> 
+.</l> 
+<l>Sic nos propter malos fratres, non separemur a matre.</l> 
+<l>Quod tunc impii fecerunt, extra levantes altare,</l>
+<l>Ut pejores nunc haberent, quam quos se fingunt fugisse.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Omnis qui Scripturas legit, novit quod volo aperire.</l> 
+<l>Joannes Baptista dixit tunc ad Judaeos aperte,</l>
+<l>Quod illos tanquam aream suam Christus posset ventilare <note>(Matth. III, 12)</note> 
+.</l> 
+<l>Misit in messem operarios discipulos praedicare <note>(Id.
+IX, 37)</note>:</l>
+<l>Per quos area collecta est, et ventilata de cruce.</l> 
+<l>Tunc justi tanquam frumentum Ecclesias impleverunt
+caste,</l>
+<l>Vendentes quae possidebant, et mundo dicentes vale.</l> 
+<l>Illi tanquam semen erant, quod toto dispersum est
+orbe,</l>
+<l>Ut alia surgeret messis, quae ventilanda est in fine.</l> 
+<l>Haec crescit inter zizania, quia sunt haereses ubique:</l>
+<l>Hujus palea sunt injusti, qui non sunt in unitate <note>(Id.
+XIII, 24-30, 37-43)</note>.</l> 
+<l>Ex quibus si erat Macarius, nos quid vis rebaptizare?</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Pone in corde areas duas, ut possis quod dico videre.</l> 
+<l>Certe et priores habebant sanctos, sicut ostendunt
+Scripturae.</l> 
+<l>Nam et septem millia virorum Deus se dixit reliquisse <note>(III Reg. XIX, 18; Rom. XI, 4)</note> 
+.</l> 
+<l>Et sacerdotes et reges, multi justi sunt in lege.</l> 
+<l>Ibi habes tantos Prophetas, habes multos et de
+plebe.</l> 
+<l>Dic mihi quis tunc justorum separabit sibi altare?</l> 
+<l>Multa scelera admittebat iniquus populus ille,</l>
+<l>Idolis sacrificatum est, tot occisi sunt prophetae.</l> 
+<l>Et nemo tamen justorum recessit ab unitate.</l> 
+<l>Justi injustos sufferebant, venturo ventilatore.</l> 
+<l>Uno templo miscebantur, sed mixti non erant corde.</l> 
+<l>Dicebant in illos tanta, et unum habebant altare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Quid vobis ad haec videtur? Secunda messis Ecclesiae,</l>
+<l>Quae per totum orbem crescit, plura debet sustinere.</l> 
+<l>Habet enim Domini exemplum, et in Juda traditore <note>(Matth. X, 4)</note> 
+.</l> 
+<l>Hunc inter bonos ferebat, hunc misit et praedicare.</l> 
+<l>Malus servus praedicabat, sed Christus erat in fide.</l> 
+<l>Quia qui judici credebant, non curabant de praecone.</l> 
+<l>Quando dedit sanctam coenam, nec tunc illum exclusit
+inde <note>(Id. XXVI, 25)</note>:</l>
+<l>
+<pb n="0030"/>Et posset per illum tradi, etiam si exisset ante.</l> 
+<l>Sed nobis exemplum datum est malos fratres tolerare,</l>
+<l>Ut quando non possunt excludi, solo separemur
+corde.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Rogo, respondete nobis, quid vultis rebaptizare?</l> 
+<l>Lapsos sacerdotes vestros pellitis a communione:</l>
+<l>Et nemo tamen post illos ausus est rebaptizare;</l>
+<l>Et quoscumque baptizarunt, vobis communicant
+hodie.</l> 
+<l>Quid ab iis acceperunt, si non habebant quid dare?</l> 
+<l>Legite quomodo adulteri puniantur in sancta lege.</l> 
+<l>Non enim dicere possunt quod peccarunt a timore.</l> 
+<l>Si sancti soli baptizant, post istos rebaptizate.</l> 
+<l>Quid calumniamini nobis, quia sumus in unitate,</l>
+<l>Qui nondum eramus nati in illa persecutione?</l> 
+<l>Scriptum est, peccata patrum ad filios non pertinere <note>(Deut. XXIV, 16)</note> 
+.</l> 
+<l>Sed nemo dat fructum bonum, si praecisus est de vite.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Scitis Catholica quid sit, et quid sit praecisum a vite:</l>
+<l>Si qui sunt inter vos cauti, veniant, vivant in radice;</l>
+<l>Antequam nimis arescant, jam liberentur ab igne.</l> 
+<l>Ideo non rebaptizamus, quod unum signum est in
+fide:</l>
+<l>Non quia vos sanctos videmus, sed solam formam tenere.</l> 
+<l>Quia ipsam formam habet sarmentum, quod praecisum
+est de vite.</l> 
+<l>Sed quid illi prodest forma, si non vivit de radice?</l> 
+<l>Venite, fratres, si vultis ut inseramini in vite.</l> 
+<l>Dolor est cum vos videmus praecisos ita jacere.</l> 
+<l>Numerate sacerdotes vel ab ipsa Petri sede,</l>
+<l>Et in ordine illo patrum quis cui successit, videte:</l>
+<l>Ipsa est petra, quam non vincunt superbae inferorum
+portae <note>(Matth. XVI, 18)</note>.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Talis si quis ad te veniat plenus catholica fide,</l>
+<l>Quales illos sanctos viros omnes solemus audire;</l>
+<l>Et si tibi dicat, Frater, quid me vis rebaptizare?</l> 
+<l>Quid sit ante factum nescio, nunc autem sum in Christi
+fide.</l> 
+<l>Si me maculat quod nescio, tu qualis sis nunc ostende.</l> 
+<l>Vultus tuos ecce attendo, ignoro quid sit in corde.</l> 
+<l>Si me maculat quod nescio, tu me maculas fortasse.</l> 
+<l>Et si credo esse sanctum, quibus communicas vide.</l> 
+<l>Si maculat quod nescimus, jam non potes sanctus
+esse,</l>
+<l>Quem maculant tot peccata, quae committunt vestri
+occulte.</l> 
+<l>Si autem quod nescis non curas, nec ego quod factum
+est ante.</l> 
+<l>Et tamen christianum talem audes rebaptizare.</l> 
+<l>
+<pb n="0031"/>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Vae, qui pro cathedris vestris sic contenditis injuste!</l> 
+<l>Clamatis vos solos sanctos, aliud dicitis in corde;</l>
+<l>Quia videtis et vos, multos malos abundare ubique:</l>
+<l>Numquid dicere potestis, Mixti sumus intra rete?</l> 
+<l>Respondetur enim vobis, jam vos illud disrupisse.</l> 
+<l>Neque dicere potestis, paleas vos sustinere:</l>
+<l>Iterum enim respondemus, Hoc fecissetis et ante.</l> 
+<l>Non enim pejores erant illo Juda traditore;</l>
+<l>Cum quo Apostoli acceperunt primum Sacramentum
+coenae <note>(Matth. XXVI, 25; et Joan. XIII, 26)</note>,</l>
+<l>Cum tanti sceleris reum inter se jam scirent esse:</l>
+<l>Nec tamen hos inquinabant sordes in alieno corde.</l> 
+<l>Et tamen christianos fratres audetis rebaptizare.</l> 
+<l>Omnes qui gaudetis de pace, modo verum judicate.</l> 
+<l>Audite, fratres, quod dico, et mihi irasci nolite:</l>
+<l>Quia non sunt falsa quae auditis, potestis et considerare.</l> 
+<l>Quid, si ipsa nunc Ecclesia vos alloquatur cum pace,</l>
+<l>Et dicat: O filii mei, quid querimini de matre?</l> 
+<l>Quare me deseruistis jam volo a vobis audire.</l> 
+<l>Accusatis frates vestros, et ego laceror valde.</l> 
+<l>Quando me premebant Gentes, multa tuli cum dolore,</l>
+<l>Multi me deseruerunt, sed fecerunt in timore:</l>
+<l>Vos vero nullus coegit sic contra me rebellare.</l> 
+<l>
+<pb n="0032"/>Dicitis mecum vos esse, sed falsum videtis esse.</l> 
+<l>Ego Catholica dicor, et vos de Donati parte.</l> 
+<l>Jussit me Apostolus pro regibus mundi orare <note>(I
+Tim. II, 1, 2)</note>:</l>
+<l>Vos invidetis quos reges jam sunt in christiana fide.</l> 
+<l>Si filii estis, quid invidetis quia auditae sunt preces
+meae?</l> 
+<l>Quando enim dona miserunt, noluistis acceptare.</l> 
+<l>Et obliti estis Prophetas, qui illud praedixerunt ante,</l>
+<l>Quod gentium reges magni missuri essent dona Ecclesiae <note>(Psal. LXXI, 10)</note> 
+:</l>
+<l>Quae dona cum respuistis, ostendistis vos non esse:</l>
+<l>Et Macarium coegistis suum dolorem vindicare.</l> 
+<l>Sed ego quid vobis feci, vestra mater in toto orbe?</l> 
+<l>Expello malos quos possum: quos non possum cogor
+ferre;</l>
+<l>Fero illos donec sanentur, aut separentur in fine.</l> 
+<l>Vos me quare dimisistis, et crucior de vestra morte?</l> 
+<l>Si multum malos odistis, quales habetis videte.</l> 
+<l>Si et vos toleratis malos, quare non in unitate,</l>
+<l>Ubi nemo rebaptizat, nec altare contra altare?</l> 
+<l>Malos tantos toleratis, sed nulla bona mercede:</l>
+<l>Quia quod debetis pro Christo, pro Donato vultis
+ferre.</l> 
+<l>Cantamus vobis, fratres, pacem si vultis audire.</l> 
+<l>Venturus est judex noster; nos damus, exigit ille.</l> 
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10640" type="Brief" source="HBBW-5" n="602">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Oswald Myconius (Geißhüsler), 29. Juni 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/10640</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=602</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b7" n="602" type="transcription">S. 252</bibl>
+				<bibl source="b7" n="602" type="regest">S. 252</bibl>
+				<bibl source="b7" n="602" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 342,51</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Würde den von <persName ref="p8418" cert="high">Myconius</persName> empfohlenen Buchdrucker <persName ref="p6117" cert="high">[Thomas] Platter</persName> gerne berücksichtigen, ist jedoch zu sehr mit anderen Geschäften überhäuft. Die vieldeutige Ausdrucksweise von <persName ref="p18722" cert="high">Erasmus</persName> mißfällt ihm; gegen den Druck des ["Ecclesiastes"] wäre allerdings nur dann einzuschreiten, falls diese Schrift noch weitere anstößige Stellen enthalten sollte.</p>
+						</summary>
+						<msItem>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>C.O. X/2, S. 48f</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 5, Nr. 602, S. 252</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="low"/>
+					<date when="1535-06-29" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8418" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t2"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10640!Autograph!00%20E_II_342__fol__51_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">10640/Autograph/00 E_II_342__fol__51_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10640!Autograph!01%20E_II_342__fol__51_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">10640/Autograph/01 E_II_342__fol__51_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Omnia a me, <persName ref="p8418">Myconi</persName> venerande, reportaret, qui tuis mihi literis commendatus supplicat<note xml:id="fn1" type="footnote" n="1">Siehe oben <ref target="file10639">Nr. 601</ref>, 14-18.</note>, si modo esset, quod reportare gauderet.</s>
+					<s n="3" xml:lang="la">Sed negotia, quibus distringor, in momento pene non sinunt, ut <persName ref="p6117">Plattero</persName> vel alii cuipiam viro bono liceat inservire.</s>
+					<s n="4" xml:lang="la"><persName ref="p4851">Froschouero</persName> chartas<note xml:id="fna" type="footnote" n="a"><hi>vor</hi> chartas <hi>gestrichenes</hi> per.</note> subcisivis horis illitas verius quam scriptas exhibeo, precibus fratrum improbis etiam victus et in hoc pistrinum adactus.</s>
+					<s n="5" xml:lang="la">Meminero tamen petitionis tuae, si qua se obtulerit huic viro inserviendi occasio.</s>
+					<s n="6" xml:lang="la">Nam videtur omnino esse vir bonus et dignus, cui benefitium conferatur.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la"><persName ref="p18722">Erasmum</persName> complector et veneror ob venerabile senium et multa in literas et litteratos collata benefitia, interim execror lubricitatem hominis detestabilem.</s>
+					<s n="8" xml:lang="la">Novit hic homo duabus sedere sellis et utroque portare humero<note xml:id="fn2" type="footnote" n="2">Zu den beiden Redensarten vgl. <bibl source="b56">Adagia</bibl>, 1, 7, 2 (<bibl source="b370">LB</bibl> II 262f); <bibl source="b473">Otto</bibl> 315f, Nr. 1621, bzw. <bibl source="b541">Röhrich</bibl> II 899f.</note>.</s>
+					<s n="9" xml:lang="la">Verba, quae ascribis<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10639">Nr. 601</ref>, 9-12.</note>, prope <persName ref="p4541">Chrysostomi</persName><note xml:id="fnb" type="footnote" n="b"><hi>in der Vorlage</hi> <persName ref="p4541">Chrystomi</persName>.</note> sunt ex opere De dignitate sacerdotali<note xml:id="fn4" type="footnote" n="4">Vgl. <persName ref="p4541">Chrysostomus</persName>, De sacerdotio III/4; VI/4 (Sources Chrétiennes 272 142-145. 316f).</note>, nec dubito, quin intelligat ipse sua ipsius verba per hyperbolen et amplificationem.</s>
+					<s n="10" xml:lang="la">Sed quid id ad plebem, cuius proprium est raro sapere, et ad quorum impuras manus haec perveniunt?</s>
+					<s n="11" xml:lang="la">Ferrem tamen hoc et dissimularem, si in toto opere hic modo scopulus promineret.</s>
+					<s n="12" xml:lang="la">At si in reliquis quoque scandala posuit<note xml:id="fnc" type="footnote" n="c"><hi>am Rande für gestrichenes</hi> posita fuerint.</note>, nequaquam dissimularem.</s>
+					<s n="13" xml:lang="la">Explicandus est orbis, non intricandus scriptis nostris.</s>
+					<s n="14" xml:lang="la">Clare, pure et simpliciter loquendum.</s>
+					<s n="15" xml:lang="la">Quae vidit vel audivit vel <persName ref="p8126">Oporinus</persName> vel <persName ref="p6117">Blatterus</persName> vel <persName ref="p4261">Bebelius</persName>, referent<note xml:id="fn5" type="footnote" ana="bio" n="5"><persName ref="p4261">Johann Bebel (Welschhans)</persName>, gest. 1550, wahrscheinlich von <placeName ref="l491">Straßburg</placeName>, war seit 1523 in <placeName ref="l28">Basel</placeName> als Buchdrucker tätig und erhielt 1524 das Bürgerrecht. Im gleichen Jahr brachte ihn der Druck einer Schrift <persName ref="p4349">Karlstadts</persName> für kurze Zeit ins Gefängnis. Bedeutung erlangte er vor allem durch den Druck von Werken antiker Autoren in den Originalsprachen. - Lit.: Das Tagebuch des Johannes Gast, bearb. v. Paul Burckhardt, Basel 1945, S. 251, Anm. 2; Wilhelm <hi>Bonacker,</hi> Der Basler Buchdrucker Johann Bebel, in: Schweizerisches Gutenbergmuseum XXIX, 1943, S. 101-105; <hi>Benzing,</hi> Buchdrucker 35; Josef <hi>Benzing,</hi> in: <bibl source="b457">NDB</bibl> I 686; Peter Gerhard <hi>Bietenholz,</hi> in: <bibl source="b163">Contemporaries</bibl> I 112f.</note>.</s>
+					<s n="16" xml:lang="la">Ego in praesentiarum plura non potui.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la"><pb type="edition" next="253"/>Opto te nobis et ecclesiae diu incolumem, frater dilectissime.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Die Petro et Paulo sacra, 1535.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la"><persName ref="p495">H. Bullingerus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="20" xml:lang="la">Domino <persName ref="p8418">Osvaldo Myconio</persName>, sanctae <placeName ref="l28">Basileiensis</placeName> ecclesiae antistiti vigilantissimo, suo in domino charissimo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

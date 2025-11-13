@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1561" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes (Hans) von Ulm / Oxford an Heinrich Bullinger / Zürich, 5. Februar 1552</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/1561</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="22034" type="transcription">S. 2771</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 335,2185 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Si vales, gaudeo; et ipse valeo, et princeps noster recte valet. Eius ad te literas pridie nonarum Januarii</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Ep. Tig. III, S. 294ff, Nr. 210</title>
+							</bibl>
+							<bibl type="Gedruckt">
+								<title>Zurich Letters III, S. 446-448, Nr. 210</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms B 171,71</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Füessli, H.K.</author>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 77,45</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p20172" cert="high"/>
+					<placeName ref="l376" cert="high"/>
+					<date when="1552-02-05" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="993">Latein</language>
+				<language ident="de" usage="7">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t4"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1561!Autograph!00%20E_II_335__fol__2185_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">1561/Autograph/00 E_II_335__fol__2185_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1561!Autograph!01%20E_II_335__fol__2185_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">1561/Autograph/01 E_II_335__fol__2185_v_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1561!Autograph!02%20E_II_335__fol__2186_r_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">1561/Autograph/02 E_II_335__fol__2186_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1561!Autograph!03%20E_II_335__fol__2186_v_.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">1561/Autograph/03 E_II_335__fol__2186_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Si vales, gaudeo; et ipse valeo, et princeps noster recte valet.</s>
+					<s n="2" xml:lang="la">Eius ad te literas pridie nonarum ianuarii tabellario <placeName ref="l587">Tigurum</placeName> perferendas dedi.</s>
+					<s n="3" xml:lang="la">An reddantur recte, nescio; ego sane vehementer dubito, cum quod per se iam sint hybernae navigationes odiosae, tum quia pervagatum est vitium apud eiusmodi homines, ut vel negligentes sint vel omnino infideles; idcirco eas denuo tua causa describendas putavi.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Multa cognosces ex literis, quas post <persName ref="p3067">Stumphii</persName> a nobis discessum trinas ad te dedi; gratos tibi optatosque esse, qui de virorum principum benevolentia erga te rumores a me significantur, non dubito, mi dulcissime pater, praestaborque et enitar, ut indies magis magisque haec inter vos augeatur et conservetur amicitia.</s>
+					<s n="5" xml:lang="la">Te quidem in dies mehercule habeo chariorem sollicitudinesque meas quotidie magis tua plane summa merita exacuunt, ne quid aut ex amore aut ex iudicio tuo deperdam.</s>
+					<s n="6" xml:lang="la">Constans iam aliquot dies percrebuit rumor <persName ref="p591">Iohannem Chekum</persName> auratum militem, regiae maiestatis institutorem, cancellarium <placeName ref="l830">Angliae</placeName> hoc concilio creandum: <placeName ref="l136">Eliensis</placeName> episcopus ad tempus duntaxat isto officio fungitur, donec alius ad illum honorem perpetuus a parliamento decernatur.</s>
+					<s n="7" xml:lang="la">Tu velim ad illum diligenter scribas; vir enim tui cum primis est amans ac studiosus, praeterea summae existimationis atque dignitatis homo: argumentum tibi nequaquam deesse poterit.</s>
+					<s n="8" xml:lang="la">Is unus ac pene solus cum <persName ref="p8107">Treherno</persName> nostrae huius salutis author semper fuit.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la">Deinde <persName ref="p20172">Ulmios</persName> meos, tua commendatione ad <persName ref="p672">Coxum</persName> adductus, perquam benigne ac humaniter in aula regis accepit.</s>
+					<s n="10" xml:lang="la">Postea <persName>Alexandri</persName> studia defendi iuvarique a <placeName ref="l1909">Warwicense</placeName> curaturum se lubenter affirmat.</s>
+					<s n="11" xml:lang="la">Titulum <placeName ref="l3029">Warwicensis</placeName> iam plenum ac integrum accepisti; id unum hoc tempore postulat, ut promissa tua exolvas, quod ut enitare contendasque, vel potius ut perficias, posse enim te mihi persuasi, vehementer et etiam atque etiam rogo.</s>
+					<s n="12" xml:lang="la">Res maximi est momenti ac ponderis, quod tute ipse pro tua summa prudentia facile cogitabis.</s>
+					<s n="13" xml:lang="la">Rectissime feceris (mihi crede) si futuris hisce nundinis literas quam diligentissime ad illum scribas, quibus et studium illi tuum ac operam singulariter deferas, et pro eius celsitudinis erga te benevolentia gratias agas: in his vero omnibus, quae ad tanti principis dignitatem facere videbuntur accurate contexes.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Haec hactenus.</s>
+					<s n="15" xml:lang="la"><persName ref="p8111">Petrus Martyr</persName> adhuc <placeName ref="l296">Londini</placeName> suas agit partes in constituendis legibus sacris.</s>
+					<s n="16" xml:lang="la">Liber eius necdum allatus est: falsissimi sunt <persName ref="p380">Byrkmanni</persName>.</s>
+					<s n="17" xml:lang="la">Filia principis convaluit ex magno et periculoso morbo.</s>
+					<s n="18" xml:lang="la">Mira nunc parturit, quae in lucem tua cum laude brevi sunt exitura.</s>
+					<s n="19" xml:lang="la">Inventus est hisce diebus magnus thesaurus optimorum librorum: <persName ref="p18887">Basilius</persName> in Esaiam et Psalmos Graece, et aliquot alia scripta, seu fragmenta potius, eiusdem authoris; <persName ref="p4541">Chrysostomus</persName> in evangelia Gręce; integer Proclus; <persName>Porphyrius</persName> et Plotinus Platonici.</s>
+					<s n="20" xml:lang="la">Illos libros omnes ipse hoc die vidi.</s>
+					<s n="21" xml:lang="la">Reliquum est nunc ut valeas, pater in Christo colendissime, ignoscasque rusticitati mearum literarum; nam et festinans scripsi, et ludis, seriis quidem illis, vehementer impeditus.</s>
+					<s n="22" xml:lang="la"><placeName ref="l376">Oxonii</placeName>, 5 febr. 1552.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la">Tuus discipulus et in Christo filius, <persName ref="p20172">Iohannes ab Ulmis</persName>.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la">Literas omnes meis includito, praecipue <persName ref="p591">Cheki</persName>: ni effecero ut literas a <placeName ref="l3029">Warwicensi</placeName> accipias, fidem mihi nullam amplius habeto.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la">Titulus conveniens dignitati <placeName ref="l3029">Warwicensis</placeName>: Illustrissimo principi ac domino, d. <persName ref="p20646">Iohanni Dudlaeo</persName>, potentissimo <placeName ref="l2590">Northumbriae</placeName> vel Northumbrorum<note type="margin">a.R.: ...</note> duci, comiti a <placeName ref="l3029">Warwik</placeName>, domino <persName>Lyslae</persName>, <persName>regnorum Angliae</persName>, <placeName ref="l2665">Hybernię</placeName> et <placeName ref="l832">Francię</placeName> regis consiliario summo ac principi.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la">Scripsit ad te dux <placeName ref="l1956">Suffolchiae</placeName>, filia eius, <persName ref="p1422">Haddonus</persName>, <persName ref="p8151">Elmerus</persName> et <persName ref="p8506">Scinnerus</persName>, quorum literas ad te misi omnes, ut supra ostendi.</s>
+					<s n="27" xml:lang="la"><persName ref="p2378">Oglethorpus</persName>, doctor et vicecancellarius huius academiae, tuas iam avide expectat literas, itidem <persName ref="p1508">Hardingus</persName>, vir absolute doctus.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la">Ornatissimo viro d. <persName ref="p495">Heinricho Bullingero</persName>, <placeName ref="l587">Tigurinae</placeName> ecclesiae archiepiscopo, domino suo longe colendissimo.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de">Vom herzogen von <placeName ref="l1956">Suffolk</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

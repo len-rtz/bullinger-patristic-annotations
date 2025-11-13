@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file7194" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an [Pawel (Paul) Gilowski] / [Oswiecim], 14. August 1567</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/7194</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="37074" type="transcription">S. 7045/95</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph__(Entwurf)" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph__(Entwurf)">E II 441,729 + 726 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Multis nominibus gratulamur nobis pariter et vobis... Simul enim plurima commoda vestrae nobis a attulerunt</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>A. Mühling: HB's europ. Kirchenpolitik 334 (Anlage 35); vgl. 264</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+					<date when="1567-08-14" cert="high"><note>1. Karte</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8010" cert="low"/>
+					<placeName ref="l372" cert="low"/>
+				</correspAction>
+				<correspContext>
+					<ref type="child" target="file7195"/>
+					<ref type="parent" target="file7195"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t6"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7194!Autograph%20%28Entwurf%29!00%20E_II_441__S__729_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">7194/Autograph (Entwurf)/00 E_II_441__S__729_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7194!Autograph%20%28Entwurf%29!01%20E_II_441__S__726_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">7194/Autograph (Entwurf)/01 E_II_441__S__726_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7194!Autograph%20%28Entwurf%29!02%20E_II_441__S__727_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">7194/Autograph (Entwurf)/02 E_II_441__S__727_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Multis nominibus gratulamur nobis pariter et vobis, viri clarissimi et fratres charissimi, in Christo servatore nostro.</s>
+					<s n="2" xml:lang="la">Simul enim plurima commoda vestrae nobis attulerunt epistolae certe per omnia nobis etiam gratissimae.</s>
+					<s n="3" xml:lang="la">Principio enim gaudemus animos vestros sic syncera erga nos charitate flagrare tantique vos nostra vobis praestita facere officia.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Certe nos vicissim in domino vos quoque complectimur amore ferventissimo, et si quid officii praestitimus vobis, totum hoc referimus ad divinam gratiam, ac quod reliquum est, omnia ultro et totis animis spontanea servitia nostra vobis offerimus.</s>
+					<s n="5" xml:lang="la">Deinde agimus gratias domino deo nostro, qui dedit ecclesiis tam procul ab invicem distantibus, <placeName ref="l2472">Polonicis</placeName> inquam et <placeName ref="l862">Helveticis</placeName>, unum idemque sentire.</s>
+					<s n="6" xml:lang="la">Libenter enim legimus in vestra illa epistola vos cum vestris ecclesiis non tantum approbare, sed et subscribere ecclesiarum <placeName ref="l862">Helveticarum</placeName> confessioni oramusque dominum, ut in hoc sancto consensu nos omnes, quo in finem usque in confessione orthodoxa perseveremus.</s>
+					<s n="7" xml:lang="la">Praeterea gaudemus tempestatem illam ex variis obortam sectis, maxime vero ex blasphemiis <persName>Arianorum</persName> in nihil nunc esse sedatam.</s>
+					<s n="8" xml:lang="la">Date vos operam, fratres, ut precibus instetis domino, quo is tribuat tranquillitatem, quantum quidem in hisce terris sperare possimus, solidam et pleniorem.</s>
+					<s n="9" xml:lang="la">Date operam, ut veritati purae et simplici inhaereamus/reatis mordicus, fugiatis autem quaestiones et disputationes periculos curiosas et plus scandali habentes quam fructus ac emolumenti.</s>
+					<s n="10" xml:lang="la">Maxime probatur nobis sanctiss[imum] imperatoris <persName ref="p18541">Constantini</persName> super hac re iudicium, quod extat apud <persName ref="p17899">Eusebium</persName> libro de vita <persName ref="p18541">Constantini</persName>.</s>
+					<s n="11" xml:lang="la">Ad <persName>Alexandrum</persName> enim et <persName>Arium</persName> contendentes de divinitate filii dei inter alia... inquit; et quae ibi sequuntur.</s>
+					<s n="12" xml:lang="la">Sufficiat ergo nobis, quod cernimus in scripturis apostolicis propheticisque suffecisse apostolis atque prophetis.</s>
+					<s n="13" xml:lang="la">Docuerunt illi constanter et simpliciter patrem, filium et spiritum sanctum unum verum et solum esse deum <persName>Iehovah</persName>, interim illos inter se non confuderunt more Praxeae aut Sabellianorum, quasi pater ipse sibi sit filius et idem spiritus sanctus, sed docuerunt patrem esse patrem aeternum et habere filium coeternum ita et spiritum sanctum et filium quidem, non patrem, non spiritum missum esse in mundum, incarnatum, crucifixum, mortuum, resuscitatum et receptum in coelos.</s>
+					<s n="14" xml:lang="la">Singulis enim suas proprietates tribuit verbum dei, ita tamen ut pater et filius non duos constituant deos neque pater, filius et spiritus s. tres nobis proponant colendos et adorandos deos.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la">Nam verbum dei, qu credendi docendique regula est, simpliciter dicit: et hi tres nunum sunt, et dominus Iesus: "Ego", inquit, "et pater unum sumus."</s>
+					<s n="16" xml:lang="la">Nam scriptura alioqui pronunciat: "Etsi plures dicantur dii nobis, tamen unus est deus.</s>
+					<s n="17" xml:lang="la">Audi <persName>Arrie</persName>, dominus deus tuus unus est deus.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Proinde cum constantissime et simplicissime ad hunc modum ab apostolorum temporibus docti sumus, religiosum sane est huic doctrinae... minime curiosa, sed simplici firmaque fide adhaerere et eandem retinere in ecclesiis christianis et a rationibus perversorum hominum et quotidie perversa invenientium... abstinere.</s>
+					<s n="19" xml:lang="la">Aut quorsum pertinet ulterius scrutari et ea scire et expiscari velle curiosis et malae fidei hominibus, quae nobis ab ipso deo in verbo suo non ita sunt nobis exposita.</s>
+					<s n="20" xml:lang="la">Hortamur, chare frater mi <persName ref="p8010">Paule Gilovi</persName>, quem audimus magnis multisque a domino donis esse dotatum, et strenue simplicem verbi dei doctrinam tueatur/tueri contra sp... osos et phanaticos homines... ut pergas facere... Nunquam deerit tibi dominus gratia sua...</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la">Retulit nobis dilectus frater noster <persName ref="p8511">Tretius</persName> de rebus vestris plurima, ut certe diligens est et laboriosus.</s>
+					<s n="22" xml:lang="la">Eum commendamus vobis ut virum pium, doctum, in fide syncerum et per omnia diligentem, quem in domino amamus plurimum.</s>
+					<s n="23" xml:lang="la">Amate nos fratres et orate pro nobis, sicuti et amamus vos ex animo et supplicamus domino pro vestris omnibus aliis Christum confitentibus ecclesiis.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" ana="farewell">Valete.</s>
+					<s n="25" xml:lang="la">Dominus confirmet vos in omni bono.</s>
+					<s n="26" xml:lang="la"><placeName ref="l587">Tiguri</placeName> 14. augusti 1567.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la">Clarissimis viris <persName ref="p8010">Paulo Gilovio</persName> Zatorien[sis] et <placeName ref="l19">Osvenczinensium</placeName> ecclesiarum Christi superintendenti senioribusque et ministris dominis colendissimis et fratribus charissimis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

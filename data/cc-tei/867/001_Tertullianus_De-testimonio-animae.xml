@@ -1,0 +1,455 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De testimonio animae</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 1</title>
+           <idno>Tertul.DeTeAn</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>ARGUMENTUM</head>
+
+<p>ARGUMENTUM.-- <hi>Post uberrimam Scriptorum segetem,
+<pb n="0607D"/>
+qui religionis Christianae caussam egerant, in arenam
+descenderat Tertullianus, ut patet ex Apologetico et
+libris duobus contra Nationes; cum tamen caussam illam
+nihil juvisse videretur, hunc de Testimonio animae
+libellum exorsus est, ut novo pugnandi genere christiani
+hostes adoriretur, conceptamque perverse
+<pb n="0608C"/>
+ex eorumdem animis opinionem evelleret, et rem
+<pb n="0608D"/>
+Christianam in tuto collocaret. Hujusce operis veluti
+fundamenta jecerat Apologetici, cap. 17, verum hic
+ea latius prosequitur, quae obiter tantum perstrinxerat:
+Deumque praesertim unum hic, et animae statum
+post mortem demonstrat.</hi> </p>
+</div1>
+<div1>
+        <head>CAP. I. </head>
+        <p>
+Magna curiositate et majore longe memoria
+<pb n="0609A"/>
+opus est ad studendum, si quis velit ex
+litteris receptissimis quibusque philosophorum
+vel poetarum vel quorumlibet doctrina sapientiae
+saecularis magistrorum testimonia excerpere christianae
+veritatis; ut aemuli persecutoresque ejus de suo
+proprio instrumento, et erroris in se, et iniquitatis in
+nos rei revincantur. Nonnulli quidem, quibus
+de pristina litteratura et curiositatis labor et memoriae
+tenor perseveravit, ad eum modum opuscula
+penes nos condiderunt, commemorantes et contestificantes
+in suggillationem et originem et traditionem
+et sententiarum argumenta , per quae recognosci
+possit, nihil nos aut novum aut portentosum suscepisse,
+de quo non etiam communes et publicae
+litterae ad suffragium nobis patrocinentur, si quid aut
+<pb n="0609B"/>
+erroris ejecimus, aut aequitatis admisimus. Sed ne
+suis quidem magistris, alias probatissimis atque lectissimis,
+fidem inclinavit humana de incredulitate duritia,
+sicubi in argumenta christianae defensionis impingunt;
+tunc vani poetae, cum deos humanis passionibus
+et fabulis designant: tunc philosophi duri,
+cum veritatis fores pulsant. Hactenus sapiens et
+prudens habebitur, qui prope christianum pronuntiarit,
+cum si quid prudentiae aut sapientiae affectaverit,
+seu ceremonias despuens, seu saeculum revincens,
+pro christiano denotetur. Jam igitur nihil nobis
+erit cum litteris et doctrina perversae felicitatis, cui
+in falso potius creditur, quam in vero. Viderint
+si qui de unico et solo deo pronuntiaverunt. Imo
+nihil omnino relatum fit, quod agnoscat christianus,
+<pb n="0610A"/>
+ne exprobrare possit. Nam et quod relatum est,
+neque omnes sciunt; neque qui sciunt, constare confidunt.
+Tanto abest ut nostris litteris annuant
+homines, ad quas nemo venit nisi jam christianus.
+Novum testimonium advoco, imo omni litteratura notius,
+omni doctrina agitatius, omni editione vulgatius,
+toto homine majus, id est totum quod est
+hominis. Consiste in medio, anima, seu divina et
+aeterna res es secundum plures philosophos, eo magis
+non mentiens. Seu minime divina, quoniam
+quidem mortalis, ut Epicuro soli videtur, eo magis
+ mentiri non debebis, seu de coelo exciperis,
+seu de terra conciperis, seu numeris, seu atomis concinnaris,
+seu cum corpore incoeperis, seu post
+corpus induceris, unde unde et quoquo modo
+<pb n="0610B"/>
+hominem facis animal rationale, sensus et scientiae
+capacissimum. Sed non eam te advoco, quae scholis
+formata, bibliothecis exercitata, academiis et
+porticibus Attici partam sapientiam ructas.
+Te simplicem et rudem et impolitam et idioticam
+compello, qualem habent qui te solam habent,
+illam ipsam de compito, de trivio, de textrino totam.
+Imperitia tua mihi opus est, quoniam aliquantulae
+peritiae tuae nemo credit. Ea expostulo, quae
+tecum in hominem infers, quae aut ex temetipsa,
+aut ex quocumque auctore tuo sentire didicisti. Non
+es, quod sciam, christiana, fieri enim, non nasci solet
+ christiana. Tamen nunc a te testimonium
+flagitant christiani, ab extranea adversus tuos, ut vel
+<pb n="0611A"/>
+tibi erubescant, quod nos ob ea oderint et irrideant,
+quae te nunc consciam detineant.
+</p>
+      </div1>
+<div1>
+        <head>CAP. II. </head>
+        <p>
+Non placemus, Dominum praedicantes
+hoc nomine unico unicum, a quo omnia, et sub quo
+universa. Dic testimonium si ita scis. Nam te quoque
+palam et tota libertate, qua non licet nobis,
+domi ac foris audimus ita pronuntiare, Quod Deus
+dederit, et, Si Deus voluerit, ea voce et aliquem esse
+significas, et omnem illi confiteris potestatem, ad
+cujus spectas voluntatem, simul et caeteros negas deos
+esse, dum suis vocabulis nuncupas, Saturnum, Jovem,
+Martem, Minervam. Nam solum Deum confirmas,
+quem tantum Deum nominas, ut et cum illos
+interdum deos appellas, de alieno et quasi pro mutuo
+usa videaris. De natura quoque Dei quem praedicamus,
+<pb n="0611B"/>
+nec te latet: Deus bonus est, Deus benefacit,
+tua vox est. Plane ea dicis, sed homo malus
+scilicet, contraria propositione oblique et figuraliter
+exprobrans, ideo malum hominem, quia a Deo
+bono abscesserit. Etiam quod penes Deum bonitatis et
+benignitatis omnis benedictio inter nos summum sit
+disciplinae et conversationis sacramentum, Benedicat
+te Deus, tam facile pronuntias, quam christiano
+necesse est. At cum in maledictum
+convertis benedictionem Dei, perinde dicto omnem
+super nos potestatem ejus consistere secundum nos
+confiteris. Sunt, qui etsi Deum non negent, dispectorem
+plane et arbitrum, et judicem non putent:
+in quo utique nos maxime rejiciunt, qui ad istam
+disciplinam metu praedicati judicii transvolamus; sic
+<pb n="0611C"/>
+Deum honorantes, dum curis observationis, et
+molestiis animadversionis absolvunt, cui ne iram quidem
+<pb n="0612A"/>
+ adscribunt. Nam si Deus (inquiunt) irascitur,
+corruptibilis et passionalis est. Porro quod patitur,
+quodque corrumpitur, etiam interitum potest capere,
+quem Deus non capit. At iidem alibi animam divinam
+et a Deo conlatam confitentes, cadunt in testimonium
+ipsius animae, retorquendum adversus opinionem superiorem.
+Si enim anima aut divina aut a Deo data
+est, sine dubio datorem suum novit. Et si novit, utique
+et timet, ut tantum postremo auctorem. An
+non timet, quem magis propitium velit, quam iratum?
+Unde igitur naturalis timor animae in Deum, si Deus
+non novit irasci? Quomodo timetur, qui nescit
+offendi? Quid timetur, nisi ira? unde ira, nisi ex
+animadversione? Unde animadversio, nisi de Dei
+judicio? Unde judicium, nisi de potestate? Cujus
+<pb n="0612B"/>
+potestas summa, nisi Dei solius? Hinc ergo tibi
+anima de conscientia suppetit domi ac foris,
+nullo irridente vel prohibente praedicare, <hi>Deus
+videt omnia,</hi> et <hi>Deo commendo,</hi> et <hi>Deus reddet,</hi> et <hi>Deus
+inter nos jubicabit.</hi> Unde hoc tibi non Christianae?
+Atque id plerumque et vitta Cereris redimita,
+et pallio Saturni coccinata et deae Isidis linteata?
+In ipsis denique templis Deum judicem imploras,
+sub Esculapio stans, Junonem in aere exorans,
+Minervae calceans furvis galeam formis,
+et neminem de praesentibus deis contestaris; in
+tuo foro aliunde judicem appellas, in tuis templis alium
+deum pateris. O testimonium veritatis, quae apud
+ipsa daemonia testem efficit christianorum.
+</p>
+      </div1>
+<div1>
+        <head>CAP. III. </head>
+        <p>
+Enimvero cur daemonia affirmamus
+<pb n="0612C"/>
+esse? sane quasi non et probemus, qui ea soli de
+corporibus exigimus. Aliqui Chrysippi adsentator
+<pb n="0613A"/>
+ illudit ea, et esse, et abominationem
+sustinere, execrationes tuae respondent. Daemonium
+vocas, hominem aut immunditia, aut malitia, aut
+insolentia, aut quacunque macula, quam nos daemoniis
+deputamus, aut ad necessitatem odii opportunam.
+Satanam denique in omni aversatione et
+aspernatione et detestatione pronuntias, quem nos dicimus
+malitiae angelum, totius erroris artificem, totius
+saeculi interpolatorem, per quem homo a primordio circum ventus,
+ut praeceptum Dei excederet, et propterea
+in mortem datus, exinde totum genus de suo semine
+infectum, suae etiam damnationis traducem fecit.
+Sentis igitur perditorem tuum. Et licet soli illum
+noverint christiani, vel quaecunque apud Dominum
+secta, et tu tamen eum nosti, dum odisti.
+</p>
+      </div1>
+<div1>
+        <head>CAP. IV. </head>
+        <p>
+Jam nunc quod ad necessariorem sententiam
+<pb n="0613B"/>
+tuam spectet, quantum et ad ipsum statum
+tuum tendit, affirmamus, te manere post vitae dispunctionem,
+et exspectare diem judicii, proque
+meritis aut cruciatui destinari, aut refrigerio,
+utroque sempiterno. Quibus sustinendis necessario
+tibi substantiam pristinam, ejusdemque hominis materiam,
+et memoriam reversuram, quod et nihil
+mali ac boni sentire possis, sine carnis passionalis
+facultate, et nulla ratio sit judicii sine ipsius exhibitione,
+qui meruit judicii passionem. Ea opinio Christiana
+etsi honestior multo pythagorica, quae te non
+in bestias transfert; etsi plenior platonica, quae tibi
+etiam dotem corporis reddit; etsi epicurea gratior,
+<pb n="0614A"/>
+quae te ab interitu defendit: tamen propter suum
+nomen soli vanitati et stupori, et ut dicitur, praesumptioni
+deputatur. Sed non erubescimus, si
+tecum erit nostra praesumptio. Primo enim cum alicujus
+defuncti recordaris, misellum vocas eum:
+non utique quod de bono vitae ereptum, sed ut
+poenae et judicio jam adscriptum. Caeterum alias
+securos vocas defunctos. Profiteris et vitae incommodum,
+et mortis beneficium. Vocas porro securos,
+si quando extra portam cum obsoniis et
+matteis tibi potius parentans ad busta recedis,
+aut a bustis dilutior redis. At ego sobriam tuam sententiam
+exigo: misellos vocas mortuos, cum de tuo
+loqueris, cum ab eis longe es. Nam in convivio
+eorum quasi praesentibus et conrecumpentibus sortem
+suam exprobrare non possis, debes adulari propter
+<pb n="0614B"/>
+quos laetius vivis. Misellum ergo vocas, qui nihil
+sentit? quid quod ut sentienti maledicis, cujus
+memoriam cum alicujus offensae morsu facis. Terram
+gravem imprecaris, et cineri penes inferos tormentum.
+Aeque ex bona parte, cui gratiam debes,
+ossibus et cineribus ejus refrigerium comprecaris,
+et ut bene requiescat apud inferos cupis. Si nihil passionis
+est tibi post mortem, si nulla sensus perseverantia,
+si denique nihil es ipsa ubi corpus reliquisti:
+cur mentiris in te, quasi aliquid ultra pati possis?
+Imo cur in totum times mortem, si nihil est
+tibi timendum post mortem, qua nec experiundum
+post mortem? Nam etsi dicere potes, ideo
+<pb n="0615A"/>
+mortem timeri, non ut aliquid minantem, sed
+ut commodum vitae amputantem: atquin cum et
+incommoda longe plura vitae pariter excedas,
+ et lucratione gravioris partis metum diluis,
+nec jam timenda est amissio bonorum, quae altero
+bono, id est incommodorum pace, pensatur. Non
+est timendum, quod nos liberat ab omni timendo.
+Si times vita decedere, quia optimam nosti: certe
+mortem timere non debes, quam malam nescis. At
+cum times, scis malam. Non scires autem malam
+quia nec timeres, si non scires aliquid esse post
+mortem, quod eam malam faciat, ut timeas. Omittamus
+nunc naturalem formam timendi mortem. Nemo
+timeat, quod evadere non potest. Ex altera parte
+congredior, laetioris spei post mortem. Nam omnibus
+<pb n="0615B"/>
+fere ingenita est famae post mortem cupido. Longum
+est retexere Curtios et Regulos, vel
+Graecos viros, quorum innumera elogia sunt contemptae
+mortis propter posthumam famam. Quis non
+hodie memoriae post mortem frequentandae ita studet,
+ut vel litteraturae operibus, vel simplici laude morum,
+vel ipsorum sepulcrorum ambitione, nomen
+fuum servet? Unde anima hodie affectare aliquid,
+quod velit post mortem, et tantopere praeparare,
+ quo sit usura post obitum: si nihil de postero
+sciret? Sed forsitan de sensu post excessum tui
+certiores, quam de resurrectione quandoque, cujus
+nos praesumptores denotamur. Atquin hoc quoque ab
+anima praedicatur. Nam si de aliquo jam pridem
+defuncto tanquam vivo quis requirat, prae
+<pb n="0615C"/>
+manu occurrit dicere: Abiit jam, et reverti
+debet.
+</p>
+      </div1>
+<div1>
+        <head>CAP. V. </head>
+        <p>
+Haec testimonia animae quanto vera, tanto
+simplicia; quanto simplicia, tanto vulgaria; quanto
+vulgaria, tanto communia: quanto communia, tanto
+naturalia: quanto naturalia, tanto divina. Non
+<pb n="0616A"/>
+putem cuiquam frivolum et frigidum videri posse, si
+recogitet naturae majestatem, ex qua censetur auctoritas
+animae. Quantum dederis magistrae, tantum
+adjudicabis discipulae. Magistra natura, anima discipula.
+Quicquid aut illa edocuit, aut ista perdidicit: a
+Deo traditum est, magistro scilicet ipsius magistrae.
+Quid anima possit de principali institutore praesumere,
+in te est aestimare de ea quae in te est.
+Senti illam, quae ut sentias efficit! recogita in praesagiis
+vatem, in ominibus augurem, in eventibus
+prospicem. Mirum si a Deo data homini, novit divinare.
+Tam mirum, si eum a quo data est, novit.
+Etiam circumventa ab adversario, meminit sui auctoris,
+et bonitatis, et decreti ejus, et exitus sui et
+ adversarii ipsius. Sic mirum, si a Deo data,
+<pb n="0616B"/>
+eadem canit, quae Deus suis dedit nosse. Sed qui
+ejusmodi eruptiones animae non putavit doctrinam
+esse naturae et congenitae et ingenitae conscientiae
+ tacita commissa, dicet potius diventilatis in vulgus
+opinionibus, publicatarum litterarum usum,
+jam et quasi vitium corroboratum taliter sermocinandi.
+Certe prior anima, quam littera; et prior
+sermo, quam liber, et prior sensus, quam stylus;
+et prior homo ipse, quam philosophus et poeta. Numquid
+ergo credendum est, ante litteraturam et divulgationem
+ejus mutos absque hujusmodi pronuntiationibus
+homines vixisse? Nemo deum et bonitatem
+ejus, nemo mortem, nemo inferos loquebatur: mendicabat
+sermo, opinor, imo nec ullus esse poterat,
+cessantibus etiam tunc, sine quibus etiam hodie jam
+<pb n="0616C"/>
+beatior, et locupletior, et prudentior esse non potest,
+si ea quae tam facilia, tam assidua, tam proxima
+hodie sunt, in ipsis quodammodo labiis parta,
+retro non fuerunt, antequam litterae in saeculo germinassent,
+antequam Mercurius (opinor) natus fuisset.
+Et unde ordo ipsis litteris contingit, nosse,
+<pb n="0617A"/>
+et in usum loquelae disseminare, quae nulla unquam
+mens conceperat, aut lingua protulerat, aut auris
+exceperat? At enim quum divinae Scripturae, quae penes
+nos vel Judaeos sunt, in quorum oleastro insiti
+sumus, multo saecularibus litteris non modica tantum
+aetate aliqua antecedant, ut loco suo edocuimus ad
+fidem earum demonstrandam; etsi haec eloquia de
+litteris usurpavit anima, utique de nostris credendum
+erit, non de vestris: quia potiora sunt ad instruendam
+animam priora, quam postera, quae et ipsa a prioribus
+instrui sustinebant; cum, etsi de vestris instructam
+concedamus, ad originem tamen principalem
+traditio pertineat, nostrumque omnino sit, quodcunque
+de nostris sumpsisse et tradidisse contigit
+vobis. Quod cum ita sit, non multum refert, an a
+<pb n="0617B"/>
+Deo formata sit animae conscientia, an litteris Dei.
+Quid igitur vis, homo, de humanis sententiis litterarum
+tuarum exisse haec in usus communis callositatem?
+</p>
+        <p>CAPUT VI.
+Crede itaque tuis, et de commentariis nostris
+tanto magis crede divinis, sed de animae ipsius
+arbitrio perinde crede naturae. Elige quam ex his
+fidelius sororem observes veritatis. Si de tuis
+litteris dubitas, neque Deus, neque natura mentitur:
+ut et naturae et Deo credas, crede animae; ita fiet, ut
+et tibi credas. Illa certe est, quam tanti facis, quantum
+ illa te facit: cujus es totus; quae tibi omnia
+est; sine qua nec vivere potes nec mori; propter
+quam Deum negligis. Quum enim times fieri christianus,
+<pb n="0618A"/>
+eam conveni: cur alium colens, Deum nominat?
+Cur, cum maledicendos spiritus denotat, daemonia
+pronuntiat? Cur ad coelum contestatur, et
+ad terram detestatur? Cur alibi servit, alibi vindicem
+convenit? Cur de mortuis judicat? Cur verba
+habet Christianorum, quos ne auditos visosque
+vult? Cur aut nobis dedit ea verba, aut accepit a
+nobis? Cur aut docuit, aut didicit? Suspectam habe
+ convenientiam praedicationis in tanta disconvenientia
+conversationis. Vanus es, si huic linguae soli
+aut graecae, quae propinquae inter se habentur,
+reputabis ejusmodi, ut neges naturae universitatem.
+Non Latinis nec Argivis solis anima de coelo cadit.
+Omnium gentium unus homo nomen est., una
+anima, varia vox, unus spiritus, varius sonus; propria
+<pb n="0618B"/>
+cuique genti loquela, sed loquelae materia communis.
+Deus ubique, et bonitas Dei ubique; daemonium
+ubique, et maledictio daemonii ubique,
+judicii divini invocatio ubique, mors ubique, et conscientia
+mortis ubique et testimonium ubique. Omnis
+anima suo jure proclamat, quae nobis ne mutire
+conceditur. Merito igitur omnis anima rea et testis
+est, in tantum et rea erroris, in quantum testis
+veritatis; et stabit ante aulas Dei die judicii,
+nihil habens dicere. Deum praedicabas, et non requirebas;
+daemonia abominabaris, et illa adorabas, judicium
+Dei appellabas, nec esse credebas; inferna
+supplicia praesumebas, et non praecavebas; Christianum
+nomen sapiebas et Christianum persequebaris.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

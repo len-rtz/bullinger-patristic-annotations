@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12407" type="Brief" source="HBBW-16" n="2360">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an Matthias Erb, 19. Februar 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/12407</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=2360</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b19" n="2360" type="transcription">S. 168</bibl>
+				<bibl source="b19" n="2360" type="regest">S. 167</bibl>
+				<bibl source="b19" n="2360" type="footnotes"/>
+				<bibl type="scan">Basel UB</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a6"/>
+						<idno subtype="Autograph">KiAr Mscr 25c, Nr. 56</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">Ms. Ki. Ar. 25c Nr. 54, f. 74 f.</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1"><persName ref="p495" cert="high">Bullinger</persName> erhielt mit Dank <persName ref="p1010" cert="high">Erbs</persName> Sendung [<ref target="file12380">Nr. 2333</ref>], kann aber aufgrund seiner Arbeitslast nicht so antworten, wie er es gerne möchte. <persName ref="p1010" cert="high">Erb</persName> soll weiter schreiben, zumal seine Briefe sehr willkommen sind.</p>
+							<p xml:id="regest2">- Nach <placeName ref="l18" cert="high">Augsburg</placeName> wurde der junge <persName ref="p8018" cert="high">Johannes Haller</persName> geschickt, der dort sehr freundlich aufgenommen wurde.</p>
+							<p xml:id="regest3">- <persName ref="p495" cert="high">Bullinger</persName> sieht täglich, wie notwendig seine „Resurrectio“ ist, da überall die Epikureer in Erscheinung treten. Diesen muss ein Riegel vorgeschoben werden.</p>
+							<p xml:id="regest4">- <persName ref="p1010" cert="high">Erb</persName> möge im Kampf für [das Evangelium] stark bleiben, wie einst Moses und Aaron in ihrem Kampf gegen [den Pharao]. Gehen die Diener Gottes infolge ihres göttlichen Auftrags zugrunde, so tritt [lediglich das] ein, was man [aus der Heiligen Schrift] vernimmt. Also soll <persName ref="p1010" cert="high">Erb</persName> ohne Furcht sein. Der Herr wird ihm beistehen.</p>
+							<p xml:id="regest5">- <persName ref="p495" cert="high">Bullinger</persName> freut sich sehr, dass die <placeName ref="l327" cert="high">Mömpelgarder</placeName> Kirche wiederhergestellt wurde.</p>
+							<p xml:id="regest6">- Die Beratung in <placeName ref="l1107" cert="high">Trient</placeName> hat am 4. Februar die zweite Sitzung eröffnet. Bald werden die Ketzer aus <placeName ref="l822" cert="high">Deutschland</placeName> dorthin zitiert. Gott möge [das Papsttum] entlarven!</p>
+							<p xml:id="regest7">- Das mit großem Aufwand begonnene [Zweite <placeName ref="l410" cert="high">Regensburger</placeName> Religions]gespräch geht auf lächerliche Weise zu Ende. Davon werden auch andere berichten. Wenn sich doch nur die [Protestanten] gemäß <cit type="bible"><ref>2Tim 3, 5</ref></cit> vor den [Katholiken] hüten würden!</p>
+							<p xml:id="regest8">- <persName ref="p5254" cert="high">[Johannes] Hoffmeister</persName> ist ein rechter Narr, wie sie an den Höfen gehalten werden!</p>
+							<p xml:id="regest9">- <persName ref="p18538" cert="high">Kaiser [Karl V.]</persName> widersetzt sich [Christus]. <persName ref="p495" cert="high">Bullinger</persName> kennt <persName ref="p18538" cert="high">Karls</persName> Sturheit und Hochmut gut genug, um zu wissen, dass er nicht leicht zurückweichen wird; doch wird auch er untergehen wie der Pharao in den Fluten.</p>
+							<p xml:id="regest10">- Gut, dass <persName ref="p17927" cert="high">Pfalzgraf [Friedrich II.]</persName> sich zum [Evangelium] bekehrt hat. Doch fürchtet <persName ref="p495" cert="high">Bullinger</persName>, dass dieser [noch zu sehr] von <persName ref="p1974" cert="high">Luther</persName> abhängt und wie einst die Könige Israels nur die Tempel Baals und nicht die hochgelegenen, [heidnischen]<pb type="edition" next="168"/> Kultstätten abschafft. <persName ref="p1010" cert="high">Erb</persName> soll schreiben, wenn er Zuverlässiges vom [<placeName ref="l411" cert="high">Reichenweierer</placeName>] Hofe oder aus <placeName ref="l491" cert="high">Straßburg</placeName> über die pfalzgräfliche Reformation hört. [Nachrichten] kann er an <persName ref="p1278" cert="high">Johannes Gast</persName> nach <placeName ref="l28" cert="high">Basel</placeName> schicken, der sie weiterleiten wird.</p>
+							<p xml:id="regest11">- Was soll <persName ref="p495" cert="high">Bullinger</persName> über <persName ref="p4637" cert="high">Veit [Dietrichs]</persName> Schrift [„An die christliche Kirche zu Regenspurg“] sagen? Er hätte von [<persName ref="p4637" cert="high">Dietrich</persName>] anderes erwartet. Dieser ist ein Affe <persName ref="p1974" cert="high">Luthers</persName>. Die Argumente seiner Gegner behandelt er ganz oberflächlich. Zwar macht er viele Worte, doch sagen diese wenig aus. Er redet von Schwärmern. Das sind Menschen, die alles verwechseln und keine [logische] Ordnung kennen, [was aber keineswegs auf die <placeName ref="l587" cert="high">Zürcher</placeName> zutrifft]. <persName ref="p4637" cert="high">Dietrichs</persName> Stellung zur eucharistischen Anbetung gibt sowohl den [Protestanten] als auch den [Katholiken] Stoff zum Lachen.</p>
+							<p xml:id="regest12">- In <placeName ref="l587" cert="high">[Zürich]</placeName> liegen die Dinge gut, abgesehen davon, dass <persName ref="p8437" cert="high">Erasmus [Schmid]</persName> sehr an der Wassersucht leidet, sich dabei jedoch als standhaft erweist. Er wird [bald sterben].</p>
+							<p xml:id="regest13">- Grüße an <persName ref="p8103" cert="high">[Sigismund] Stier</persName>, den Schreiber [<persName ref="p4890" cert="high">Oswald Fürstenlob</persName>], <persName ref="p8088" cert="high">[Nikolaus] König</persName> und <persName ref="p20592" cert="high">Gerold [Meyer von Knonau d.J.]</persName>. Grüße von den Brüdern.</p>
+							<p xml:id="regest14">- <persName ref="p495" cert="high">Bullinger</persName> hätte gerne <persName ref="p1010" cert="high">Erbs</persName> Brief an <persName ref="p4637" cert="high">Veit [Dietrich]</persName> gesehen.</p>
+						</summary>
+						<msItem>
+							<textLang>Deutsch</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 16, Nr. 2360, S. 168</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+					<date when="1546-02-19" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p1010" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="910">Latein</language>
+				<language ident="de" usage="90">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t6"/>
+					<category n="t11"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12407!Autograph!00%20KiAr_Mscr_25c_Nr_56_0001.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">12407/Autograph/00 KiAr_Mscr_25c_Nr_56_0001.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12407!Autograph!01%20KiAr_Mscr_25c_Nr_56_0002.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">12407/Autograph/01 KiAr_Mscr_25c_Nr_56_0002.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12407!Autograph!02%20KiAr_Mscr_25c_Nr_56_0003.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">12407/Autograph/02 KiAr_Mscr_25c_Nr_56_0003.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12407!Autograph!03%20KiAr_Mscr_25c_Nr_56_0004.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">12407/Autograph/03 KiAr_Mscr_25c_Nr_56_0004.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">Gratiam et pacem.</s>
+					<s n="2" xml:lang="la">Accepi fasciculum literarum<note xml:id="fn1" type="footnote" n="1"><persName ref="p1010">Erbs</persName> Brief vom 24. Januar 1546 (<ref target="file12380">Nr. 2333</ref>), der am 30. Januar 1546 in <placeName ref="l587">Zürich</placeName> eintraf (s. <ref target="file12380">Nr. 2333</ref>, Anm. 60) und dem eine Abschrift des in <placeName ref="l327">Mömpelgard</placeName> geschlossenen Abkommens beigelegt war; s. <ref target="file12380">Nr. 2333</ref>,40-43.</note> abs te, <persName ref="p1010">Erbi</persName> charissime, missum, et pro fide, diligentia et charitate tua maximas ago gratias.</s>
+					<s n="3" xml:lang="la">Interea mole negotiorum et scribendis literis ita adobruor, ut non possim, quod libenter vellem.</s>
+					<s n="4" xml:lang="la">Tu ergo paucula haec boni consule et nihilominus brevi et crebro rescribe.</s>
+					<s n="5" xml:lang="la">Sunt enim omnia tua mihi longe gratissima.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la"><placeName ref="l18">Augustam</placeName> misimus doctum et pium adolescentem d. <persName ref="p8018">Ioannem Hallerum</persName><note xml:id="fn2" type="footnote" n="2">Siehe dazu zuletzt <ref target="file12404">Nr. 2357</ref>,18-23.</note>.</s>
+					<s n="7" xml:lang="la">Hic ab <placeName ref="l18">Augustanis</placeName> receptus est magna cum gratulatione.</s>
+					<s n="8" xml:lang="la">Ora dominum, ut ministerium eius fortunet.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="9" xml:lang="la">Video in diem disputationem de Resurrectione<note xml:id="fn3" type="footnote" n="3"><persName ref="p495">Bullingers</persName> "Resurrectio" <hi>(HBBibl</hi> I 148; <hi>BZD C345),</hi> die im Herbst 1545 gedruckt wurde; s. <bibl source="b18">HBBW XV</bibl> 292, Anm. 26.</note> admodum esse necessariam,<note xml:id="fn4" type="footnote" n="4"><persName ref="p495">Bullinger</persName> bezieht sich auf <persName ref="p1010">Erbs</persName> Mitteilungen in <ref target="file12380">Nr. 2333</ref>,11-22.</note> cum ubilibet terrarum greges erumpant Epicureorum<note xml:id="fn5" type="footnote" n="5">greges ... Epicureorum: Vgl. <hi><persName ref="p19882">Horaz</persName>,</hi> Epistulae, 1, 4, 16.</note>.</s>
+					<s n="10" xml:lang="la">Bene ergo facit, qui his repugula<note xml:id="fn6" type="footnote" n="6">= repagula.</note> obiicit.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="11" xml:lang="la">Sis autem fortis in certamine Christi.</s>
+					<s n="12" xml:lang="la">Haec nostra est vocatio, ut certemus cum sathana et impuris hominibus<note xml:id="fn7" type="footnote" n="7">7 Vgl. <cit type="bible"><ref>Eph 6, 12</ref></cit>.</note>.</s>
+					<s n="13" xml:lang="la">Toties adierunt Moses et Aaron regem rebellem<note xml:id="fn8" type="footnote" n="8"><persName ref="p18573">Pharao</persName>.</note>; toties repulsum passi sunt; toties redierunt<note xml:id="fn9" type="footnote" n="9">Vgl. <cit type="bible"><ref>Ex 5. 8-12</ref></cit>.</note>.</s>
+					<s n="14" xml:lang="la">Extorserunt tandem populum.</s>
+					<s n="15" xml:lang="la">Agimus cum populo durae cervicis<note xml:id="fn10" type="footnote" n="10"><cit type="bible"><ref>Ex 32, 9</ref></cit> passim.</note> et rebelli<note xml:id="fn11" type="footnote" n="11"><cit type="bible"><ref>Jes 30, 9</ref></cit> passim.</note>, cum populo novissimi temporis corruptissimo<note xml:id="fn12" type="footnote" n="12">Vgl. <cit type="bible"><ref>2Tim 3, 1-5</ref></cit>.</note>.</s>
+					<s n="16" xml:lang="la">Nuspiam ergo cessandum; subinde et perpetuo urgendum<note xml:id="fn13" type="footnote" n="13">Vgl. <cit type="bible"><ref>Apg 20, 31</ref></cit>; <cit type="bible"><ref>2Tim 4, 2</ref></cit>.</note>.</s>
+					<s n="17" xml:lang="la">Sumus ministri, qui a domino nostro missi a colonis fructum postulamus<note xml:id="fn14" type="footnote" n="14">Anspielung auf <cit type="bible"><ref>Mt 21, 33-36</ref></cit>.</note>.</s>
+					<s n="18" xml:lang="de">Wirt uns dann der koppff drab zerschlagen<note xml:id="fn15" type="footnote" n="15">drab zerschlagen: abgeschlagen.</note>, so gadts erst, wie es hoͤrt<note xml:id="fn16" type="footnote" n="16">so gadts erst, wie es hört: so geschieht es zunächst [hier auf Erden], wie man es [in <cit type="bible"><ref>Mt 5, 11f</ref></cit>; <cit type="bible"><ref>Jo 15, 18-20</ref></cit>; <cit type="bible"><ref>Apg 14, 22</ref></cit>; <cit type="bible"><ref>2Tim 3, 12]</ref></cit> vernimmt.</note>.</s>
+					<s n="19" xml:lang="la">Sis ergo fortis et inpavidus<note xml:id="fn17" type="footnote" n="17">Vgl. <cit type="bible"><ref>1Chr 22, 13</ref></cit>; <cit type="bible"><ref>28, 20</ref></cit>; <cit type="bible"><ref>Sach 8, 13</ref></cit>.</note>.</s>
+					<s n="20" xml:lang="la">Ora dominum.</s>
+					<s n="21" xml:lang="la">Non deerit hic tuis conatibus.<pb type="edition" next="169"/></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="22" xml:lang="la">Gaudeo valde <placeName ref="l327">Muntbelgardianam</placeName> ecclesiam esse restitutam.</s>
+					<s n="23" xml:lang="la">Dominus confirmet ipsam<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file12380">Nr. 2333</ref>,40-43.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="24" xml:lang="la">Consilium<note xml:id="fn19" type="footnote" n="19">Vgl. <bibl source="b18">HBBW XV</bibl> 191,14 (und öfters auch in späteren Briefen <persName ref="p495">Bullingers</persName> und der Protestanten), wo <persName ref="p495">Bullinger</persName> "consilium" statt "concilium" schreibt, und dadurch deutlich macht, dass er nicht gewillt ist, die Beratung in <placeName ref="l1107">Trient</placeName> als Konzil anzuerkennen.</note> <placeName ref="l1107">Tridentinum</placeName> 2. sessionem celebravit 4. februarii<note xml:id="fn20" type="footnote" n="20">Eigentlich die dritte Session (s. <bibl source="b171">CT</bibl> I 27f: "4. Februarii. Sessio III.": vgl. auch ebd., 434. 476f), wenn man die Eröffnungssession als die erste Sitzung betrachtet.</note>.</s>
+					<s n="25" xml:lang="la">Mox citabit ex <placeName ref="l822">Germania</placeName> hereticos.</s>
+					<s n="26" xml:lang="la">Dominus detegat bestiam multicipem<note xml:id="fn21" type="footnote" n="21">mehrköpfig; s. z.B. <cit type="bible"><ref>Apk 13, 1</ref></cit>. - Gemeint ist das Papsttum.</note> et atterat impietatem et idololatriam cum doctoribus superstitionis et magiae brevi.</s>
+					<s n="27" xml:lang="la">Amen.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="28" xml:lang="la"><pb type="scan" next="74v."/>Colloquium<note xml:id="fn22" type="footnote" n="22">Das Zweite <placeName ref="l410">Regensburger</placeName> Religionsgespräch.</note>, magnis sumptibus coeptum, exiit in risum.</s>
+					<s n="29" xml:lang="la">Id quod ex aliis intelliges.</s>
+					<s n="30" xml:lang="la">Utinam vel nunc nostri sapere incipiant<note xml:id="fn23" type="footnote" n="23">Vgl. <ref target="file12401">Nr. 2354</ref>,16-23.</note> et aversentur homines illos iuxta praeceptum apostoli 2. Timoth. 3 [5]!</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="31" xml:lang="de">Der <persName ref="p5254">Hoffmeister</persName><note xml:id="fn24" type="footnote" n="24"><persName ref="p5254">Johannes Hoffmeister</persName> - <persName ref="p495">Bullinger</persName> bezieht sich auf <persName ref="p1010">Erbs</persName> Mitteilungen in <ref target="file12380">Nr. 2333</ref>,62-66.</note> wil erwysen und war machen, das er ein raͤchter, warer hoffmeister ist, wie sy an der herren hoͤffen in narren kappen erhallten werdent.</s>
+					<s n="32" xml:lang="de">Diewyl er dann ein hoffmeister ist, zücht<note xml:id="fn25" type="footnote" ana="lex" n="25">zieht.</note> er gern der herren hoͤffen nach.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="33" xml:lang="la"><persName ref="p18538">Caesar</persName><note xml:id="fn26" type="footnote" n="26"><persName ref="p18538">Karl V.</persName></note> recalcitrat contra stimulum<note xml:id="fn27" type="footnote" n="27">Vgl. <cit type="bible"><ref>Apg 9, 5</ref></cit>; <cit type="bible"><ref>26, 14</ref></cit>. Gemeint ist, gegen etwas Widriges anzukämpfen und es dadurch erst recht zu empfinden; s. <bibl source="b56">Adagia</bibl> 1, 3, 46 <hi>(ASD</hi> II/1 359f, <ref target="file10277">Nr. 246</ref>); <bibl source="b473">Otto</bibl> 331f, Nr. 1693; <bibl source="b260">Grimm</bibl> XII 480.</note>.</s>
+					<s n="34" xml:lang="la">Experietur olim duritiem petrae<note xml:id="fn28" type="footnote" n="28">Vgl. <cit type="bible"><ref>Mt 21, 44 par.</ref></cit> - Gemeint ist: Der Kaiser wird an Christus zerbrechen.</note>.</s>
+					<s n="35" xml:lang="la">Utinam resipisceret!</s>
+					<s n="36" xml:lang="la">Ego hactenus ita novi hominis inflexilem<note xml:id="fn29" type="footnote" n="29">= inflexibilem.</note> et superbam cervicem, ut non arbitrer ipsum facile cessurum, sed prius experturum omnia, donec cum pharaone medius<note xml:id="fn30" type="footnote" n="30">Bezieht sich auf den Kaiser.</note> mediis fluctibus submergatur<note xml:id="fn31" type="footnote" n="31">Vgl. <cit type="bible"><ref>Ex 14, 26-29</ref></cit>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="37" xml:lang="la">Valde gaudeo <persName ref="p17927">Palatinum</persName><note xml:id="fn32" type="footnote" n="32"><persName ref="p17927">Kurfürst Friedrich II. von der Pfalz</persName>.</note> ad Christum esse conversum.</s>
+					<s n="38" xml:lang="la">Vereor tamen, ne is excelsa<note xml:id="fn33" type="footnote" n="33">hochgelegene heidnische Kultstätten.</note> non<note xml:id="fna" type="footnote" n="a">non <hi>fehlt in der Vorlage.</hi></note> plene demoliatur<note xml:id="fn34" type="footnote" n="34">Anspielung auf Könige Judas wie Asa und Josaphat, die zwar die Baaltempel zerstörten, jedoch nicht die Kulthöhen; s. <cit type="bible"><ref>1Kön 15, 9-14</ref></cit>; <cit type="bible"><ref>22, 41-44.</ref></cit></note>.</s>
+					<s n="39" xml:lang="la">Lutherizat fortassis et cum principibus Israelis Baalis templa diruit, sed excelsa <persName ref="p1974">Lutheri</persName> nondum odit.</s>
+					<s n="40" xml:lang="la">Dominus aperiat mentem illustrissimi principis!</s>
+					<s n="41" xml:lang="la">Tu, quaeso, diligenter scribe, si quid certi vel ex aula<note xml:id="fn35" type="footnote" n="35">Der Hof von Graf <persName ref="p8098">Georg von Württemberg-Mömpelgard</persName> in <placeName ref="l411">Reichenweier</placeName>.</note> vel ex <placeName ref="l491">Argentorato</placeName> audieris de eius reformatione.</s>
+					<s n="42" xml:lang="la">Mitte ea,<pb type="edition" next="170"/> quae ad me dare velis, <placeName ref="l28">Basilaeam</placeName> ad <persName ref="p1278">Ioannem Gastium</persName>.</s>
+					<s n="43" xml:lang="la">Is probe curabit omnia ad me perferri.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="44" xml:lang="la">Quid vero dicam aut iudicem de <persName ref="p4637">Viti</persName><note xml:id="fn36" type="footnote" n="36"><persName ref="p4637">Veit Dietrich</persName>.</note> scriptis<note xml:id="fn37" type="footnote" n="37"><persName ref="p495">Bullinger</persName> bezieht sich auf <persName ref="p4637">Dietrichs</persName> Buch "An die christliche Kirche zu Regenspurg" von Oktober 1545, welches <persName ref="p1010">Erb</persName> seinem Brief an <persName ref="p495">Bullinger</persName> von Ende 1545 beigelegt hatte; s. <bibl source="b18">HBBW XV</bibl> 625 und Anm. 2.</note>?</s>
+					<s n="45" xml:lang="la">Miseret me hominis.</s>
+					<s n="46" xml:lang="la">Alia ab eo expectaveram.</s>
+					<s n="47" xml:lang="la">Ineptissime et affectatissime imitatur<note xml:id="fnb" type="footnote" n="b">imitatur <hi>korrigiert aus</hi> initiatur.</note> d. <persName ref="p1974">Lutheri</persName> Thersiticam dicacitatem<note xml:id="fn38" type="footnote" n="38">Anspielung auf den schmähsüchtigen Kämpfer <persName ref="p19889">Thersites</persName>; vgl. <hi><persName ref="p18514">Homer</persName>,</hi> Ilias, 2, 212-277.</note>, ac ita se prodit simiam esse illius plus quam ridiculam.</s>
+					<s n="48" xml:lang="la">Nostra frigide asserit atque confirmat.</s>
+					<s n="49" xml:lang="la">Adversariorum argumenta frigidius dissoluit.</s>
+					<s n="50" xml:lang="la">Multis praeterea verbis paucissima dicit.</s>
+					<s n="51" xml:lang="de">Meminit Schwermerorum.</s>
+					<s n="52" xml:lang="la">Nisi viro ipsi<note xml:id="fn39" type="footnote" n="39">Dem <persName ref="p4637">Veit Dietrich</persName>.</note> Schwermeri sint omnia miscentes et nullo ordine disserentes iusto, ego quid Schwermeri sint, ignoro.</s>
+					<s n="53" xml:lang="la">De adoranda eucharistia ita<pb type="scan" next="75r."/> ineptit,<note xml:id="fn40" type="footnote" n="40">Vgl. <bibl source="b18">HBBW XV</bibl> 626, Anm. 8.</note> ut suis pariter nostris et adversariis materiam ridendi suppeditarit.</s>
+					<s n="54" xml:lang="la">Verum domini bonitas et iustitia huiusmodi doctores nihil non sibi tribuentes ita detegit.</s>
+					<s n="55" xml:lang="la">Dominus misereatur nostri.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="56" xml:lang="la">De rebus nostris nihil aliud scribo quam res gratia domini bene habere, nisi quod d. <persName ref="p8437">Erasmus</persName><note xml:id="fn41" type="footnote" n="41"><persName ref="p8437">Erasmus Schmid</persName>.</note> confectus hydropisi<note xml:id="fn42" type="footnote" n="42">hydropisis: Wassersucht.</note> iam laborat in extremis.</s>
+					<s n="57" xml:lang="la">Mira est hominis patientia; admiranda fides et spes.</s>
+					<s n="58" xml:lang="la">Pręmittemus ergo illum brevi, non amittemus<note xml:id="fn43" type="footnote" ana="bio" n="43">Vgl. z.B. <hi><persName ref="p18988">Cyprian</persName>,</hi> De mortalitate, 20. - <persName ref="p8437">Schmid</persName> starb am 23. Februar 1546; s. <bibl source="b288">HBD</bibl> 34,4f.</note>.</s>
+					<s n="59" xml:lang="la">Nos sequemur propediem.</s>
+					<s n="60" xml:lang="la">Orate pro nobis.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="61" xml:lang="la" ana="farewell">Vale cum tuis omnibus, inprimis d. <persName ref="p8103">Taurino</persName>,<note xml:id="fn44" type="footnote" n="44">Kanzler <persName ref="p8103">Sigismund Stier</persName>.</note> scriba,<note xml:id="fn45" type="footnote" n="45">Schreiber <persName ref="p4890">Oswald Fürstenlob</persName>.</note> <persName ref="p8088">Rhegio</persName>,<note xml:id="fn46" type="footnote" n="46">Pfarrer <persName ref="p8088">Nikolaus König</persName>.</note> <persName ref="p20592">Geroldo</persName><note xml:id="fn47" type="footnote" n="47">Schreiberlehrling <persName ref="p20592">Gerold Meyer von Knonau d.J.</persName></note> et reliquis.</s>
+					<s n="62" xml:lang="la" ana="salute">Salutant vos fratres omnes.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="63" xml:lang="la"><placeName ref="l587">Tiguri</placeName>, 19. februarii anno 1546.</s>
+				</p>
+				<p>
+					<s n="64" xml:lang="la">Pro libro <persName ref="p4637">Viti</persName><note xml:id="fn48" type="footnote" n="48">Siehe Anm. 37.</note> magnas ago gratias.</s>
+					<s n="65" xml:lang="la">Cuperem tuam ad ipsum epistolam<note xml:id="fn49" type="footnote" n="49"><persName ref="p1010">Erbs</persName> Brief an <persName ref="p4637">Veit Dietrich</persName> vom 8. November 1545 <hi>(HBBW</hi> XV 626-630). Ende 1545 hatte <persName ref="p1010">Erb</persName> aus Zeitmangel keine Abschrift von diesem Brief für <persName ref="p495">Bullinger</persName> anfertigen können; s. <bibl source="b18">HBBW XV</bibl> 626,6. - Vgl. auch <ref target="file12497">Nr. 2450</ref> und Anm. 5.</note> videre.</s>
+				</p>
+				<p>
+					<s n="66" xml:lang="la"><persName ref="p495">Bullingerus</persName> tuus.</s>
+				</p>
+				<p>
+					<s n="67" xml:lang="la">Non licuit per negotia haec relegere.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 75v.:]</note>
+					<s n="68" xml:lang="la">Praestantissimo viro d. <persName ref="p1010">Matthiae Erbio</persName> <placeName ref="l411">Rychenvillae</placeName> Christum prędicanti, domino et fratri semper colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

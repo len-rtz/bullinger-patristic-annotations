@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4202" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Sulzer / Basel an Heinrich Bullinger / Zürich, 26. Januar 1560</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/4202</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="30019" type="transcription">S. 5385/24</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 336,460</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 336,463</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Glareanorum negocium, quantum potui, nostris commendavi, et habuit me mirifice sollicitum</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>C.O. XVIII, S. 10, Nr. 3158 Exc.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 96,130</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p3099" cert="high"/>
+					<placeName ref="l28" cert="high"/>
+					<date when="1560-01-26" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t10"/>
+					<category n="t11"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4202!Autograph!00%20E_II_336__fol__460_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">4202/Autograph/00 E_II_336__fol__460_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4202!Autograph!01%20E_II_336__fol__460_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">4202/Autograph/01 E_II_336__fol__460_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la"><placeName ref="l646">Glareanorum</placeName> negocium, quantum potui, nostris commendavi, et habuit me mirifice sollicitum, metuque adeo ne nunc quidem vaco, ne, si maxime proximis comitiis pax impetretur, iniquioribus saltem conditionibus sit constatura neve diuturnitate frangantur cedantque adversariis paulatim agnitam Christi professionem, etiam qui hactenus fortes in domino perstiterunt.</s>
+					<s n="3" xml:lang="la">Sed dominus est, cuius protectioni ecclesiam indesinenter commendare pergamus et tanto vigilemus studiosius adversus omnia Satanae molimina.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">In <placeName ref="l1028">Augusta Trevirorum</placeName> is est status, ut esse deterior nequeat, isque civium vicio, qui, ut evangelio Christi spirantes optimos cordatissimosque viros opprimerent, supplices tyranno archiepiscopo facti sunt suaque sponte avita quaedam illustriaque privilegia tradiderunt e manibus accersiveruntque spontaneam servitutem.</s>
+					<s n="5" xml:lang="la">Tantum furorem insaevit animis Christi odium.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la">Doleo casum vetustissimę et <persName ref="p18895">Athanasii</persName> quondam hospitae civitatis, quae nunc exules facit sua viscera, quum olim exulibus propter Christum perfugium praebuerit.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la">Vix redimi vita potuit captivorum Christi per quamlibet seriam legatorum a principibus civitatibusque missorum intercessionibus.</s>
+					<s n="8" xml:lang="la">Non desunt, qui bellum religionis ergo certum in <placeName ref="l822">Germania</placeName> exarsurum affirment, sed unde et qua ex parte, non constat.</s>
+					<s n="9" xml:lang="la">In <placeName ref="l749">Saxonia</placeName> militem conscribi, potissimum equitem, aiunt; sed cuius auspiciis et in quem finem id fiat, nemo liquido dicit; expecto literas forsitan aliquid indicaturas.</s>
+					<s n="10" xml:lang="la"><placeName ref="l41">Bernates</placeName> meos cum <placeName ref="l167">Genevatibus</placeName> in graciam redituros spero, posteaquam a lata etiam per superarbitrum sententia <placeName ref="l167">Genevates</placeName> ad amicam transactionem se obtulerunt.</s>
+					<s n="11" xml:lang="la">Intelligunt (arbitror) utrique, quam sit necessaria ipsis coniunctio inter se, nisi non est necessum illis civitatem suaque iura, libertatem et religionem, his ditionem occupatam tueri.</s>
+					<s n="12" xml:lang="la">Videtur hic annus habiturus motus non vulgares aut machinationes memorabiles.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la">Dirigat omnia dominus ad suam gloriam et nos servet!</s>
+					<s n="14" xml:lang="la">Praesentium latorem tibi commendo, ut, si quid possis, eum consilio saltem iuves; negocium forense, quod agit, non intelligo.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" ana="farewell">Bene vale in Christo Iesu.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la"><placeName ref="l28">Basileae</placeName> 26. ianuarii anno 60.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" ana="salute">Saluta symmistas tuos omnes meis verbis reverenter.</s>
+					<s n="18" xml:lang="la">Tuus <persName ref="p3099">Simon Sulcerus</persName>.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la">Clarissimo viro d. <persName ref="p495">Heinricho Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> antistiti vigilantissimo, domino colendissimo et charissimo fratri suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

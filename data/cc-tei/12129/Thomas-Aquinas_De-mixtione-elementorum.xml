@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>De mixtione elementorum</title>
+               <author ref="http://viaf.org/viaf/264344179">Thomas Aquinas<date>1225-1274</date></author>
+</titleStmt>
+               
+               <extent></extent>
+               <editionStmt>
+              <edition>critical edition, apparatus not encoded</edition>
+              <editor></editor>
+         </editionStmt>
+               <publicationStmt>
+                  <pubPlace>Romae</pubPlace>
+                  <publisher>Textum Leoninum</publisher>
+                  <date>1976</date>
+               </publicationStmt>
+<seriesStmt>
+             <title>Corpus Thomisticum</title>
+            <idno>ThomAqu.DeMiEle</idno>
+            </seriesStmt>
+         <notesStmt>
+            <note></note>
+         </notesStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>based on data from Corpus Thomisticum (http://www.corpusthomisticum.org), this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+          <note>Textum Leoninum Romae 1976 emendatum ac translatum a Roberto Busa SJ in taenias magneticas denuo recognovit Enrique Alarcón atque instruxit</note>
+          <editorialDecl>
+             <normalization>Classical Latin orthography</normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date></date>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item></item>
+		  <item></item>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme='genre'>
+  		 <list>
+   			<item></item>
+  		</list>
+  		</keywords>
+  		<keywords scheme='period'>
+ 		 <list>
+   			<item></item>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>
+<div1><head>De mixtione elementorum</head>
+<p><A NAME="69885"/>Dubium apud multos esse solet quomodo elementa sint in mixto.
+	Videtur autem quibusdam quod, qualitatibus actiuis et passiuis elementorum ad medium aliqualiter reductis per alterationem, forme substantiales elementorum manent: si enim forme substantiales non maneant, corruptio quedam elementorum esse uidebitur et non mixtio.
+	Rursus, si forma substantialis corporis mixti sit actus materie, non presuppositis formis simplicium corporum, simplicia corpora elementorum rationem amittent.
+	Est enim elementum ex quo componitur aliquid primo, et est in eo, et est indiuisibile secundum speciem; sublatis enim formis substantialibus, non sic ex simplicibus corporibus corpus mixtum componetur quod in eo remaneant.
+	Est autem impossibile sic se habere.
+	Impossibile est enim materiam secundum idem diuersas formas elementorum suscipere; si igitur in corpore mixto forme substantiales elementorum saluentur, oportebit diuersis partibus materie eas inesse.
+	Materie autem diuersas partes accipere est impossibile nisi preintellecta quantitate in materia, sublata enim quantitate substantia indiuisibilis permanet, ut patet in I Phisicorum; ex materia autem sub quantitate existente et forma substantiali adueniente corpus phisicum constituitur: diuerse igitur partes materie formis elementorum subsistentes plurium corporum rationem suscipiunt.
+	Multa autem corpora impossibile est esse simul; non igitur in qualibet parte corporis mixti erunt quatuor elementa: et sic non erit uera mixtio, sed secundum sensum, sicut accidit in aggregatione corporum insensibilium propter paruitatem.
+	Amplius, omnis forma substantialis propriam dispositionem in materia requirit, sine qua esse non potest: unde alteratio est uia ad generationem et corruptionem.
+	Impossibile est autem in idem conuenire propriam dispositionem que requiritur ad formam ignis, et propriam dispositionem que requiritur ad formam aque, quia secundum huiusmodi dispositiones ignis et aqua sunt contraria; contraria autem impossibile est esse in eodem: impossibile est igitur quod in eadem parte mixti sint forme substantiales ignis et aque.
+	Si igitur mixtum fiat remanentibus formis substantialibus simplicium corporum, sequitur quod non sit uera mixtio sed solum ad sensum, quasi iuxta se positis partibus insensibilibus propter paruitatem.
+	Quidam autem utrasque rationes uitare uolentes, in maius inconueniens inciderunt: ut enim mixtionem ab elementorum corruptione distinguerent, dixerunt formas substantiales elementorum aliqualiter remanere in mixto.
+	Sed rursus, ne cogerentur dicere esse mixtionem ad sensum et non secundum ueritatem, posuerunt quod forme elementorum non manent in mixto secundum suum complementum sed in quoddam medium reducuntur; dicunt enim quod forme elementorum suscipiunt magis et minus et habent contrarietatem ad inuicem.
+	Sed quia hoc manifeste repugnat communi opinioni, et dictis Aristotilis dicentis in Predicamentis quod substantie nichil est contrarium et quod non recipit magis et minus, ulterius procedunt, dicentes quod forme elementorum sunt imperfectissime, utpote materie prime propinquiores; unde sunt medie inter formas substantiales et accidentales, et sic, in quantum accedunt ad naturam formarum accidentalium, magis et minus suscipere possunt.
+	Hec autem positio multipliciter improbabilis est.
+	Primo quidem quia esse aliquid medium inter substantiam et accidens est omnino impossibile: esset enim aliquid medium inter affirmationem et negationem.
+	Proprium enim accidentis est in subiecto esse, substantie uero in subiecto non esse; forme autem substantiales sunt quidem in materia, non autem in subiecto: nam subiectum est hoc aliquid; forma autem substantialis est que facit hoc aliquid, non autem presupponit ipsum. 
+Item ridiculum est dicere medium esse inter ea que non sunt unius generis, ut probatur in X Metaphisice, medium enim et extrema ex eodem genere esse oportet; nichil igitur medium esse potest inter substantiam et accidens.
+	Deinde, impossibile est formas substantiales elementorum suscipere magis et minus.
+	Omnis enim forma suscipiens magis et minus est diuisibilis per accidens, in quantum scilicet subiectum eam potest participare uel magis uel minus.
+	Secundum autem id quod est diuisibile per se uel per accidens, contingit esse motum continuum, ut patet in VI Phisicorum: est enim loci mutatio et augmentum et decrementum secundum quantitatem et locum que sunt per se diuisibilia; alteratio autem secundum qualitates, que suscipiunt magis et minus, ut calidum et album.
+	Si igitur forme elementorum suscipiunt magis et minus, tam generatio quam corruptio elementorum erit motus continuus: quod est impossibile, nam motus continuus non est nisi in tribus generibus, scilicet in quantitate et qualitate et ubi, ut probatur in V Phisicorum.
+	Amplius, omnis differentia secundum formam substantialem uariat speciem; quod autem recipit magis et minus, differt quod est magis ab eo quod est minus et quodammodo est ei contrarium, ut magis album et minus album.
+	Si igitur forma ignis suscipiat magis et minus, magis facta uel minus facta speciem uariabit, et non erit eadem forma, sed alia.
+	Et hinc est quod Philosophus dicit in VIII Metaphisice, quod sicut in numeris uariatur species per additionem et subtractionem, ita in substantiis.
+	Oportet igitur alium modum inuenire, quo et ueritas mixtionis saluetur, et tamen elementa non totaliter corrumpantur, sed aliqualiter in mixto remaneant.
+	Considerandum est igitur quod qualitates actiue et passiue elementorum contrarie sunt ad inuicem, et magis et minus recipiunt.
+	Ex contrariis autem qualitatibus que recipiunt magis et minus, constitui potest media qualitas que sapiat utriusque extremi naturam, sicut pallidum inter album et nigrum, et tepidum inter calidum et frigidum.
+	Sic igitur remissis excellentiis qualitatum elementarium, constituitur ex hiis quedam qualitas media que est propria qualitas corporis mixti, differens tamen in diuersis secundum diuersam mixtionis proportionem; et hec quidem qualitas est propria dispositio ad formam corporis mixti, sicut qualitas simplex ad formam corporis simplicis.
+	Sicut igitur extrema inueniuntur in medio quod participat naturam utriusque, sic qualitates simplicium corporum inueniuntur in propria qualitate corporis mixti.
+	Qualitas autem simplicis corporis est quidem aliud a forma substantiali ipsius, agit tamen in uirtute forme substantialis; alioquin calor calefaceret tantum, non autem per eius actionem forma substantialis educeretur in actum, cum nichil agat ultra suam speciem.
+	Sic igitur uirtutes formarum substantialium simplicium corporum in corporibus mixtis saluantur.
+	Sunt igitur forme elementorum in corporibus mixtis, non quidem actu sed uirtute.
+	Et hoc est quod Aristotiles dicit in I De generatione: <hi>Non manent igitur -elementa scilicet in mixto- actu ut corpus et album, nec corrumpuntur nec alterum nec ambo: saluatur enim uirtus eorum</hi>.</p>
+
+</div1>
+</body></text>
+</TEI> 

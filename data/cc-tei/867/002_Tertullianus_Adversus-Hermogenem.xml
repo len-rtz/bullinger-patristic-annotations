@@ -1,0 +1,1938 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Adversus Hermogenem</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.AdvHer</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Argumentum.</head>
+<p>
+          <pb n="0195D"/>Hermogenes iste natione fuit afer, professione
+pictor, alius omnino ab eo de quo, cum Phygello seu
+Phileto, loquitur Apostolus, II ad Timoth. 1. Christianum
+<pb n="0196D"/>
+se primum professus, vafritiem et subdolum
+nationis animum testatus est, cum in gentilium philosophiam
+degener incurrit, et Stoicorum deliria secutus
+<pb n="0197A"/>
+est. Hermogenes adhuc vivens docebat dari
+materiam aeternam, hoc innixus principio, <hi>bonum et
+optimum esse Deum, qui bona atque optima tam velit
+facere, quam scit, imo nihil non bonum, atque optimum
+et velle eum, et sapere . . . . inveniri autem et mala ab eo
+facta utique non ex arbitrio et voluntate; oportere igitur
+ex vitio alicujus rei factum ex materia esse sine dubio.</hi> 
+Cui reponebat Tertullianus <hi>Hermogenem duos Deos
+inferre, dum materiam parem Deo infert. Deum autem
+unum esse oportet, unicum autem esse non poterit, cui
+aliquid adaequabitur, adaequabitur autem Deo materia,
+cum aeterna censetur.</hi> Similiter <hi>nec omnipotens Deus,</hi> 
+qui <hi>materiae indiguit, et materia egenti Deo se praestitit
+minori, et invalido, et minus idoneo de nihilo facere,
+quae velit.</hi> Praeterea si materia mala, et aeterna, profecto
+<pb n="0197B"/>
+malum inevitabile, et necessarium; si mutabilis
+in bonum, ergo non aeterna, <hi>et hic auctor mali Deus,
+qui cum debuisset omnia ex materia protulisse, aut
+tantum bona, protulisset etiam mala, utique aut volens
+esse mala, si poterat efficere ne essent, aut non volens
+efficere omnia bona, si voluit, et non fecit.</hi> [LUMP.]</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p>Solemus haereticis compendii gratia de posteritate
+praescribere. In quantum enim veritatis regula prior,
+quae etiam futuras haereses praenuntiavit, in tantum
+posteriores quaeque doctrinae haereses praejudicabuntur,
+quia sunt quae futurae veritatis antiquiore
+regula praenuntiabantur. Hermongenis autem doctrina
+tam novella est, denique ad hodiernum homo in saeculo,
+et natura quoque haereticus etiam turbulentus,
+<pb n="0197C"/>
+qui loquacitatem facundiam existimet, et impudentiam
+constantiam deputet, et maledicere singulis,
+<pb n="0198A"/>
+officium bonae conscientiae judicet. Praeterea
+pingit illicite , nubit assidue; legem Dei in
+libidinem defendit, in artem contemnit; bis
+falsarius, et cauterio et stylo; totus adulter,
+et praedicationis et carnis siquidem etnubentium
+contagio foetet, nec ipse apostolicus Hermogenes
+in regula perseveraverit. Sed viderit persona, cum
+doctrina mihi quaestio est. Christum Dominum non
+alium videtur aliter cognoscere, alium tamen facit
+quem aliter cognoscit: imo totum quod est Deus
+aufert, nolens illum ex nihilo universa fecisse. A
+Christianis enim conversus ad Philosophos, de Ecclesia
+in Academiam et Porticum, inde sumpsit a Stoicis
+materiam cum Domino ponere, quae ipsa semper
+fuerit neque nata, neque facta, nec initium habens omnino
+<pb n="0198B"/>
+nec finem, ex qua Dominus omnia postea fecerit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p>Hanc primam umbram plane sine lumine pessimus
+pictor illis argumentationibus coloravit, praestruens
+aut Dominum de semetipso fecisse cuncta, aut de
+nihilo aut de aliquo: ut cum ostenderit neque ex semetipso
+fecisse potuisse, neque ex nihilo, quod
+superest exinde confirmet, ex aliquo eum fecisse, atque
+ita aliquid illud materiam fuisse. Negat illum ex
+semetipso facere potuisse: quia partes ipsius fuissent,
+quaecumque ex semetipso fecisset Dominus. Porro
+in partes non devenire, ut indivisibilem et indemutabilem,
+et eumdem semper qua Dominus. Caeterum,
+si de semetipso fecisset aliquid, ipsius fuisset
+aliquid. Omne autem et quod fieret, et quod faceret,
+<pb n="0198C"/>
+imperfectum habendum; quia ex parte fieret, et ex
+parte faceret: aut si totus totum fecisset, oportuisset
+<pb n="0199A"/>
+illum simul et totum esse, et non totum; quia oporteret
+et totum esse, ut faceret semetipsum; et totum
+non esse, ut fieret de semetipso. Porro difficillimum.
+Si enim esset, non fieret, esset enim: si vero
+non esset, non faceret, quia nihil esset. Eum autem
+qui semper sit, non fieri, sed esse illum in aevum
+aevorum. Igitur non de semetipso fecisse illum qui
+non ejus fuerit conditionis, ut de semetipso facere
+potuisset. Proinde ex nihilo non potuisse eum facere,
+sic contendit, bonum et optimum definiens Dominum,
+qui bona atque optima tam velit facere quam sit;
+imo nihil non bonum atque optimum et velle eum et
+facere. Igitur omnia bona, omnia ab eo bona et optima
+oportuisse fieri secundum conditionem ipsius. Inveniri
+autem et mala ab eo facta; utique non ex arbitrio,
+<pb n="0199B"/>
+nec ex voluntate: quia si ex arbitrio et voluntate,
+nihil incongruens et indignum sibi faceret.
+Quod ergo non arbitrio suo fecerit, intelligi oportere
+ex vitio alicujus rei factum, ex materia esse sine dubio.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p>Adjicit et aliud: Deum semper Deum etiam
+Dominum fuisse, nunquam non Deum. Nullo porro
+modo potuisse illum semper Dominum haberi, sicut
+et semper Deum, si non fuisset aliquid retro semper,
+cujus semper Dominus haberetur, fuisse itaque materiam
+semper Deo Domino. Hanc conjecturam ejus
+jam hinc destruere properabo, quam hactenus propter
+non intelligentes adjecisse duxi, ut sciant, caetera
+quoque argumenta tam intelligi quam revinci. Dei
+nomen dicimus semper fuisse apud semetipsum, et
+<pb n="0199C"/>
+in semetipso, Dominum vero non semper: diversa
+enim utriusque conditio. Deus substantiae ipsius
+nomen, id est divinitatis; Dominus vero non substantiae,
+sed potestatis substantiam semper fuisse cum
+suo nomine, quod est Deus, postea Dominus, accedentis
+scilicet rei mentio. Nam ex quo esse coeperunt
+<pb n="0200A"/>
+in quae potestas Domini ageret, ex illo per accessionem
+potestatis et factus et dictus est Dominus:
+quia et pater Deus est, et judex Deus est; non tamen
+ideo pater et judex semper, quia Deus semper. Nam
+nec pater potuit esse ante filium, nec judex ante delictum.
+Fuit autem tempus, cum et delictum
+et filius non fuit, quod judicem, et qui patrem Dominum
+ faceret. Sic et Dominus non ante ea quorum
+Dominus existeret, sed Dominus tantum futurus
+quandoque, sicut Pater per Filium, sicut judex per delictum;
+ita et Dominus per ea, quae sibi servitura
+fecisset. Argumentari tibi videor, Hermogenes.
+Naviter Scriptura nobis patrocinatur, quae utrumque
+nomen ei distinxit, et suo tempore ostendit. Nam
+Deus quidem quod erat semper, statim nominat:
+<pb n="0200B"/> <hi>In principio fecit Deus coelum et terram.</hi> 
+ Ac deinceps
+quamdiu faciebat quorum dominus futurus erat, Deus
+solummodo ponit: <hi>Et dixit Deus, et fecit Deus, et vidit
+Deus,</hi> et nusquam adhuc Dominus. At ubi universa
+perfecit, ipsumque vel maxime hominem, qui proprie
+Dominum intellecturus erat, Dominus etiam cognominatur.
+Tunc etiam Dominus nomen adjunxit: <hi>Et accepit Deus 
+ Dominus hominem quem
+finxit. Et praecipit Dominus</hi> Deus. Ac exinde Dominus
+qui retro Deus tantum, ex quo habuit cujus
+esset. Nam Deus sibi erat; rebus autem tunc Deus,
+cum et Dominus. Igitur in quantum putabit ideo materiam
+semper fuisse, quia Dominus semper esset,
+in tantum constabit nihil fuisse, quia constat Dominum
+non semper fuisse. Adjiciam et ego propter non
+<pb n="0200C"/>
+intelligentes, quorum Hermogenes extrema linea
+est, et quidem epinoemata illius retorquebo
+adversus illum. Cum enim neget materiam natam aut
+factam, sic quoque invenio Domini nomen Deo non
+competisse in materiam; quia libera fuerit necesse
+est, quae originem non habendo, non habuit auctorem,
+<pb n="0201A"/>
+quod erat, nemini serviens. Itaque ex quo
+Deus potestatem suam exercuit in eam, faciendo ex
+materia, ex illo materiam Dominum Deum passa, demonstrat
+hoc illum tamdiu non fuisse, quamdiu
+fuit. Hinc denique incipiam de materia retractare,
+quod eam Deus sibi comparet proinde non natam,
+proinde non factam, proinde aeternam, sine initio,
+sine fine propositam. Quis enim alius Dei census,
+quam aeternitas? quis alius aeternitatis status, quam
+semper fuisse et futurum esse, ex praerogativa nullius
+initii et nullius finis? Hoc si Dei est proprium,
+quia etsi alii adscribatur, jam non erit Dei proprium,
+sed commune cum eo cui et adscribitur. Nam, etsi
+sunt qui dicuntur dei sive in coelo, sive in terra, nomine;
+caeterum, unus Deus pater, ex quo omnia
+<pb n="0201B"/> <note>(I Cor. VIII, 5)</note>:
+quo magis apud nos solius Dei esse
+debeat, quod Dei proprium est: et, ut dixi, jam non
+proprium esset, quia alterius esset. Quod si Deus est,
+unicum sit necesse est, ut unius sit: aut
+quid erit unicum et singulare, nisi cui nihil
+adaequabitur? quid principale, nisi quod super
+omnia, nisi quod ante omnia, et ex quo omnia? Haec
+Deus solus habendo est, et solus habendo, unus
+est. Si alius habuerit, tot jam erunt dei, quot
+habuerint quae dei sunt. Ita Hermogenes duos deos
+infert. Materiam parem Deo infert. Deum autem
+unum esse oportet, quia quod summum sit, Deus
+est: summum autem non erit, nisi quod unicum fuerit:
+unicum autem esse non poterit, cui aliquid adaequabitur;
+adaequabitur autem Deo materia, cum
+<pb n="0201C"/>
+aeterna censetur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p>Sed Deus, Deus est; materia, materia est: quasi
+diversitas nominum comparationi resistat, si status
+idem vindicetur. Sit et natura diversa, sit et forma
+non eadem, dummodo ipsius status una sit ratio.
+Innatus Deus, an non et innata materia? semper
+Deus, annon semper et materia? Ambo sine initio,
+<pb n="0202A"/>
+ambo sine fine, ambo etiam auctores universitatis,
+tam qui fecit, quam de qua fecit. Neque enim potest
+non et materia auctrix omnium deputari, de qua
+universitas consistit. Quomodo respondebit? Non
+statim materiam comparari Deo, si quid Dei habeat,
+quia non totum habendo non concurrat in plenitudinem
+comparationis? Quid Deo reliquit amplius, ut
+non totum Dei, materiae dedisse videatur? Vel qua,
+inquit, et sic habente materia, salva sit Deo et auctoritas
+ et substantia, qua solus et primus auctor
+est, et Dominus omnium censeatur. Veritas autem
+sic unum Deum exigit defendendo, ut solius sit quidquid
+ipsius est. Ita enim ipsius erit, si fuerit solius:
+et ex hoc alius deus non possit admitti, dum nemini
+licet habere de Deo aliquid. Ergo, inquis, nec nos
+<pb n="0202B"/>
+habemus Dei aliquid. Imo habemus, et habebimus,
+sed ab ipso, non a nobis. Nam et dei crimus, si
+meruimus illi esse de quibus praedicavit: <hi>Ego dixi:
+Vos Dei estis;</hi> et, <hi>stetit Deus in ecclesia deorum <note>(Ps.
+LXXXI, 1)</note>
+            </hi>: sed ex gratia ipsius, non ex nostra
+proprietate, quia ipse est solus qui deos faciat. Materiae
+ autem proprium facit quod cum Deo habet:
+aut si a Deo accepit, quod est Dei, ordinem dico
+aeternitatis, potest credi et habere illam cum Deo aliquid,
+et deum illam non esse. Quale est autem, cum
+confitetur ille aliquid cum Deo habere, et vult solius
+Dei esse quod materiam non negat habere?</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p>Dicit salvum Deo esse, ut et solus sit, et primus,
+et omnium auctor, et omnium dominus, et nemini
+<pb n="0202C"/>
+comparandus; quae mox materiae quoque adscribit.
+Ego quidem Deus, contestabitur Deus,
+et juravit nonnumquam per semetipsum, quod alius
+non sit qualis ipse <note>(Deut. XXXII, 39, 40)</note>: sed mendacem
+eum faciet Hermogenes. Erit enim et materia qualis
+Deus, infecta, innata, initium non habens, nec finem.
+ Dicet Deus: Ego primus <note>(Is. XLI, XLIV, XLVIII)</note>?
+et quomodo primus, cui materia coaetanea est? Inter
+coaetaneos autem et contemporales ordo non est, aut
+<pb n="0203A"/>
+et materia prima est. <hi>Extendi,</hi> inquit, <hi>coelum solus <note>(Is. XLIV)</note>
+            </hi>:
+atquin non solus, cum ea enim
+extendit de qua et extendit. Cum proponit salvo
+Dei statu fuisse materiam; vide ne ei reddatur
+a nobis, proinde salvo statu materiae fuisse Deum,
+communi tamen statu amborum. Salvum ergo erit et
+materiae, ut et ipsa fuerit, sed cum Deo, quia et
+Deus solus, sed cum illa. Et ipsa prima cum Deo,
+quia et Deus primus cum illa: sed et illa incomparabilis
+cum Deo, quia et Deus incomparabilis
+cum illa, et auctrix cum Deo, et domina cum
+Deo. Sic aliquid et non totum materiae habere,
+ita illi nihil reliquit Hermogenes, quod non et materiae
+contulisset: ut non materia Deo, sed Deus potius
+materiae comparetur. Atque adeo, cum ea
+<pb n="0203B"/>
+quae propria Dei vindicamus, semper fuisse, sine
+initio, sine fine, et primum fuisse, et solum, et omnium
+auctorem, materiae quoque competant; quaero
+quid diversum et alienum a Deo, ac per hoc privatum
+materia possederit, per quod Deo non comparetur?
+In qua omnia Dei propria recensentur, satis
+praejudicant de reliqua comparatione.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p>Si minorem et inferiorem materiam Deo, et idcirco
+incomparabilem illi, contendit, ut majori, ut superiori,
+praescribo non capere ullam diminutionem et
+humiliationem, quod sit aeternum et innatum: quia
+hoc et Deum faciat tantum, quantus est, nullo minorem,
+neque subjectiorem, imo omnibus majorem et
+sublimiorem. Sicut enim caetera quae nascuntur, aut
+<pb n="0203C"/>
+finiunt, et idcirco aeterna non sunt, semel opposita
+fini, quae et initio admittunt ea quae Deus non
+capit, diminutionem dico interim et subjectionem,
+quia nata et facta sunt: ita et Deus ideo ea non capit,
+quia nec natus omnino, nec factus est. Materiae
+autem status talis est. Igitur et duobus aeternis,
+ut innatis, ut infectis, Deo atque materia, ob eamdem
+rationem communis status, ex aequo habentibus
+id quod neque diminui, nec subjici admittit, id est
+aeternitatem: neutrum dicimus altero esse minorem,
+sive majorem, neutrum altero humiliorem, sive superiorem,
+sed stare ambo ex pari magna, ex pari sublimia,
+<pb n="0204A"/>
+ex pari solidae et perfectae felicitatis, quae
+censetur aeternitas. Neque enim proximi erimus opinionibus
+nationum, quae si quando coguntur Deum
+confiteri, tamen et alios infra illum volunt. Divinitas
+autem gradum non habet, utpote unica; quae si et in
+materia erit, ut proinde innata et infecta et aeterna,
+aderit utrobique, quia minor se nusquam poterit
+esse. Quomodo ergo discernere audebit Hermogenes,
+atque ita subjicere Deo materiam, aeternam aeterno,
+innatam innato, auctricem auctori? dicere audentem,
+et, Ego prima, et, Ego ante omnia, et, Ego a quo
+omnia: pares fuimus, simul fuimus, ambo sine initio,
+sine fine: ambo sine auctore, sine Deo? Quis me
+Deus subjicit contemporali, coaetaneo? Si quia
+Deus dicitur, habeo et ego meum nomen. Aut ego
+<pb n="0204B"/>
+sum Deus, aut ille materia: quia ambo sumus
+quod alter est nostrum. Putas itaque materiam Deo
+non comparasse, quam scilicet subjiciat illi?</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p>Atquin etiam praeponit illam Deo, et Deum potius
+subjicit materiae, cum vult eum de materia cuncta fecisse.
+Si enim ex illa usus est ad opera mundi, jam
+et materia superior invenitur, quae illi copiam operandi
+subministravit, et Deus subjectus materiae videtur,
+cujus substantiae eguit. Nemo enim non eget
+eo de cujus utitur: nemo non subjicitur ei cujus
+eget, ut possit uti: sic et nemo de alieno utendo non
+minor est eo de cujus utitur. Et nemo qui praestat de
+suo uti, non in hoc superior est eo cui praestat uti.
+Itaque materia ipsa quidem Deo non eguit, sed
+<pb n="0204C"/>
+egenti se Deo praestitit, divitem et locupletem
+et liberalem minori, opinor, et invalido et minus idoneo
+de nihilo facere quae velit. Grande revera beneficium
+Deo contulit, ut haberet hodie per quem Deus
+cognosceretur, et omnipotens vocaretur: nisi quod
+jam non omnipotens, si non et hoc potens, ex nihilo
+omnia proferre. Sane et sibi praestitit aliquid materia,
+ut et ipsa cum Deo possit agnosci coaequalis Deo,
+imo et adjutrix: nisi quod solus eam Hermogenes
+cognovit, et haereticorum patriarchae philosophi.
+Prophetis enim et apostolis usque adhuc latuit, puto
+et Christo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+
+<pb n="0205A"/>
+<p>Non potest dicere Deum ut Dominum materia
+usum ad opera mundi: Dominus enim non potuit
+esse substantiae coaequalis. Sed precario forsitan
+usus est. Et ideo precario, non dominio, ut cum
+ea mala esset, de mala tamen sustinuerit uti,
+scilicet ex necessitate mediocritatis suae, qua non valebat
+ex nihilo uti; non ex potestate, quam si habuisset
+omnino ut Deus in materiam, quam malam norat,
+ante eam in bonum convertisset ut dominus et
+bonus, ut ita de bono, non de malo uteretur. Sed
+quia bonus quidem, Dominus autem non, ideo, qualem
+habuit, tali usus, necessitatem suam ostendit
+cedentem conditioni materiae: quam si Dominus
+fuisset, emendasset. Sic enim Hermogeni respondendum
+<pb n="0205B"/>
+est, cum ex dominio defendit Deum materia
+usum, et de re non sua, scilicet non facta ab ipso.
+Jam ergo malum ab ipso, qui est mali, si non auctor,
+quia non effector, certe permissor, quia dominator.
+Si vero materia non et ipsius, qua malum Dei non
+est: de alieno ergo usus, aut precario usus est,
+qua egens ejus; aut et injuria, qua praevalens ejus.
+His enim tribus modis aliena sumuntur, jure, beneficio,
+impetu; id est, dominio, precario, vi. Dominio
+non suppetente eligat Hermogenes, quid Deo
+congruat, precario an vi de materia cuncta fecisse.
+Non ergo melius censuisset Deus nihil
+omnino faciendum, quam precario aut vi faciendum,
+et quidem de malo?</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p>
+            <pb n="0205C"/>Nonne, etiamsi materia optima fuisset, aeque indecorum
+sibi existimasset, de alieno, licet bono? Fatue
+satis, si ita gloriae suae caussa molitus est mundum,
+ut debitorem se alienae substantiae ostenderet,
+et quidem non bonae. Ergo, inquit, ex nihilo faceret,
+ut mala quoque arbitrio ejus imputarentur? Magna,
+<pb n="0206A"/>
+bona fide, caecitas haereticorum pro hujusmodi argumentatione,
+cum ideo aut alium Deum bonum et
+optimum volunt credi, quia mali auctorem existiment
+Creatorem; aut materiam cum Creatore proponunt,
+ut malum a materia, non a Creatore deducant:
+quando nullus omnino deus liberetur ista quaestione,
+ut non auctor mali videri proinde possit, quisquis ille
+est qui malum etsi non ipse fecit, tamen a quocumque
+et unde unde passus est fieri. Audiat igitur et
+Hermogenes,dum alibi de mali ratione distinguimus,
+interim se quoque nihil egisse hac sua injectione.
+Ecce enim, etsi non auctor sed assentator
+mali invenitur Deus, qui malum materiae tanto sustinuit
+de bono ante mundi constitutionem, quam ut
+bonus et mali aemulus emendasse debuerat. Aut enim
+<pb n="0206B"/>
+potuit emendare, sed noluit: aut voluit quidem,
+verum non potuit infirmus Deus. Si potuit et noluit,
+malus et ipse, quia malo favit; et sic jam
+habetur auctor ejus, quod licet non instituerit,
+quia tamen si noluisset illud esse, non
+esset, ipse jam fecit esse, quod noluit non esse:
+quo quid est turpius? Si id voluerit esse, quod ipse
+noluit fecisse, adversum semetipsum egit, cum et
+voluit esse quod noluit fecisse, et noluit fecisse quod
+voluit esse. Quasi bonum voluit esse, et quasi malum
+noluit fecisse. Quod non faciendo, malum judicavit,
+id sustinendo, bonum pronuntiavit, malum pro
+bono sustinendo et non potius eradicando, assertor
+ejus inventus est: male, si per voluntatem,
+turpiter, si per necessitatem. Aut famulus erit mali
+<pb n="0206C"/>
+Deus, aut amicus; cum materiae malo conversatur,
+nedum etiam de malo ejus operatus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p>Et tamen unde nobis persuadet Hermogenes
+ malam esse materiam? Non enim poterit non
+<pb n="0207A"/>
+malum dicere cui malum adscribit. Nam definimus
+diminutionem et subjectionem capere non posse
+quod sit aeternum, ut alii coaeterno inferius deputetur.
+Ita et nunc nec malum dicimus competere
+illi, quia nec subjici ex hoc possit, quod nullo modo
+potest subjici, quia aeternum est. Sed cum alias summum
+bonum constet esse quod sit aeternum ut Deus,
+per quod solus est Deus, dum aeternus est, et ita
+bonus, dum Deus; quomodo materiae inerit malum,
+quam ut aeternam, summum bonum credi necesse
+est? Aut, si quod aeternum est poterit et mali capax
+esse, poterit hoc et in Deum credi: et sine caussa
+gestivit malum a Deo transferre, si competit et
+aeterno, competendo materiae. Jam vero, si quod
+aeternum est, malum potest credi invincibile, et insuperabile
+<pb n="0207B"/>
+ erit malum ut aeternum: et ita nos
+frustra laboramus de auferendo malo ex nobis ipsis,
+tum et Deus hoc frustra mandat et praecipit: imo
+et judicium frustra constituit Deus, injustitia
+ utique puniturus. Quod si tunc erit mali
+finis, cum praeses ejus diabolus <hi>abierit in ignem,
+quem praeparavit illi Deus et angelis ejus <note>(Matth.,
+XXV)</note>
+            </hi>, prius in <hi>puteum abyssi relegatus <note>(Apocal.,
+XX)</note>
+            </hi>, <hi>cum revelatio filiorum dei redemerit
+conditionem a malo, utique vanitati subjectam <note>(Rom. VIII)</note>
+            </hi>;
+cum restituta innocentia et integritate
+conditionis, pecora condixerint bestiis et
+parvuli de serpentibus luserint <note>(Is. XI, 6, 7)</note>; cum <hi>Pater Filio posuerit inimicos sub pedes 
+ <note>(Ps. CIX)</note>
+            </hi>, utique
+ operarios mali. Utique si finis malo competit,
+necesse est competierit initium, eritque
+<pb n="0207C"/>
+materia habens initium, habendo et finem mali. Quae
+<pb n="0208A"/>
+enim malo deputantur, secundum mali statum computantur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p>Age nunc, malam ac pessimam credamus esse materiam,
+utique natura; sicut Deum bonum et optimum
+credimus, proinde natura: porro naturam
+certam et fixam haberi oportebit tam in malo perseverantem
+apud materiam, quam in bono apud
+Deum inconvertibilem et indemutabilem. Scilicet
+quia, si demutabitur natura in materia de malo in
+bonum, demutari poterit et in Deo de bono in malum.
+Hoc loco dicet aliquis: <hi>Ergo de lapidibus filii
+Abrahae non suscitabuntur, et genimina viperarum non
+facient poenitentiae fructum <note>(Luc. III, 7, 8)</note>
+            </hi>, et filii irae
+non fient filii pacis <note>(Ephes. II, 3)</note>, si natura mutabilis
+<pb n="0208B"/>
+non erit. Temere ad ista exempla respicies, o homo; non
+enim competunt ad caussam materiae, quae innata est,
+ea quae nata sunt, lapides, et viperae, et homines:
+horum enim natura habendo institutionem, habere
+poterit et cessationem. Materiam vero tene semel
+aeternam determinatam, ut infectam, ut innatam; et
+ideo indemutabilis et incorruptibilis naturae credendam,
+ex ipsius etiam sententia Hermogenis, quam
+opponit, cum Deum negat ex semetipso facere
+potuisse; quia non demutetur quod sit aeternum,
+amissurum scilicet quod fuerat, dum fit ex demutatione
+quod non erat, si non esset aeternum: Dominum
+vero aeternum aliud esse non posse, quam quod
+est semper. Hac et ego definitione merito illum repercutiam:
+Materiam aeque reprehendo, cum ex illa
+mala pessima, etiam bona atque optima a Deo fiunt:
+<pb n="0208C"/> <hi>Et vidit Deus quia bona, et benedixit ea Deus (Gen. I,
+<pb n="0209A"/>
+3, 31)</hi>,
+utique qua optima, non certe qua mala ac pessima.
+Demutationem igitur admisit materia, et si ita
+est, statum aeternitatis amisit: mortua est denique
+sine sua forma. Sed aeternitas amitti non potest:
+quia, nisi amitti non possit, aeternitas non est. Ergo
+nec demutationem potuit admisisse: quia, si aeternitas
+est, demutari nullo modo potest.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p>Et quaeretur: Quomodo ex ea bona facta sint, quae
+ex demutatione nullo modo facta sunt? Unde in mala
+ac pessima boni atque optimi semen? Certe nec bona
+arbor fructus malos edit, quia nec Deus nisi bonus:
+nec mala arbor, bonos, quia nec materia est nisi
+pessima. Aut si dabimus illi aliquid etiam boni germinis,
+jam non erit uniformis naturae, id est malae
+<pb n="0209B"/>
+in totum, sed et tantum duplex, id est bonae et
+malae naturae. Et quaeretur iterum, an in bono et malo
+poterit convenire luci et tenebris, dulci et amaro.
+Aut si potuit utriusque diversitas boni et mali concurrisse,
+et duplex natura fuisse materiae, amborum
+ferax fructuum, jam nec bona ipsa Deo deputabuntur,
+ut nec mala illi imputentur: sed utraque species
+de materiae proprietate sumpta, ad materiam
+pertinebit. Quo pacto, neque gratiam bonorum Deo
+debebimus, nec invidiam malorum, quia nihil de suo
+operatus ingenio.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p>Per quod probabitur manifeste materiae deservisse.
+Nam etsi dicatur, licet ex occasione materiae, suo tamen
+arbitrio bona protulisse, quasi nactus bonum
+<pb n="0209C"/>
+materiae, quamquam et hoc turpe sit, certe cum ex
+eadem etiam mala profert, vel haec utique non de
+suo arbitrio proferendo, servit materiae, aliud non
+habens facere quam ex malo proferre; invitus utique
+qua bonus, ex necessitate ut invitus, et ex servitute
+ut ex necessitate. Quid ergo dignius, ex necessitate
+eum condidisse mala, an ex voluntate? Si
+quidem, ex necessitate condidit, si ex materia: ex
+voluntate, si ex nihilo. Jam enim sine caussa laboras,
+ne malorum auctor constituatur Deus: quia, etsi de
+materia fecit, ipsi deputabuntur qui fecit, proinde
+quatenus fecit. Plane sic interest unde fecerit, ac si
+de nihilo fecisset: nec interest unde fecerit, ut inde
+fecerit, unde eum magis decuit. Magis autem eum decuit
+ex voluntate fecisse, quam ex necessitate, id
+<pb n="0209D"/>
+est, ex nihilo potius quam ex materia. Dignius est
+Deum etiam malorum auctorem liberum credere,
+<pb n="0210A"/>
+quam servum. Quaecumque potestas ei, quam pusillitas
+competit. Si et sic concedimus materiam quidem
+nihil boni habuisse, Dominum vero, si quid boni edidit,
+sua virtute edidisse, aliae aeque oborientur quaestiones.
+Primo, si bonum in materia omnino non
+fuit, non ex materia bonum factum est, quod materia
+scilicet non habuit. Dehinc, si non ex materia,
+jam ergo ex Deo factum. Si nec ex Deo, jam ergo ex
+nihilo factum. Hoc enim superest secundum Hermogenis
+dispositionem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p>Porro si bonum, neque ex materia factum est,
+quia non erat in illa, ut in mala; neque ex Deo, quia
+nihil potuit ex Deo fieri, sicut definit Hermogenes:
+invenitur bonum jam ex nihilo factum, ut ex nullo
+<pb n="0210B"/>
+factum, ut neque ex materia, neque ex Deo. Et si
+bonum ex nihilo, cur non et malum? imo cur non omnia
+ex nihilo, si aliquid ex nihilo? nisi si insufficiens fuit
+divina virtus omnibus producendis, quae aliquid protulerit
+ex nihilo. Aut si ex materia mala bonum processit,
+quia neque ex nihilo, neque ex Deo, sequetur
+ut ex conversione processerit materiae, contra
+denegatam aeterni conversionem. Ita unde bonum
+constitit, jam negabit Hermogenes inde illud
+constare potuisse. Necesse est autem ex aliquo eorum
+processerit, ex quibus negavit procedere potuisse.
+Caeterum, si ideo malum non ex nihilo, ne Dei fiat,
+de cujus arbitrio videbitur, sed ex materia, ut ipsius
+sit, de cujus substantia erit factum: et hic, ut dixi,
+auctor mali habebitur Deus, qui cum eadem virtute et
+<pb n="0210C"/>
+voluntate debuisset omnia bona ex materia protulisse,
+aut tantum bona, non omnia tamen bona,
+protulisset etiam mala; utique aut volens esse mala,
+si poterat efficere ne essent; aut non valens efficere
+omnia bona, si voluit et non fecit: dum nihil intersit
+per infirmitatem Dominus auctor mali extiterit,
+an per voluntatem. Aut quae fuit ratio, ut cum bona
+fecisset quasi bonus, etiam mala protulisset
+quasi non bonus, cum non congruentia sibi solummodo
+edidit. Quid necesse erat, suo opere prolato,
+etiam materiae negotium curare, proinde et malum
+proferendo, solus ut cognosceretur bonus de
+bono, materia autem ne cognosceretur mala
+de malo? Plus bonum floruisset sine mali adflatu. Nam
+et Hermogenes expugnat quorumdam argumentationes,
+<pb n="0210D"/>
+dicentium mala necessaria fuisse ad illuminationem
+bonorum, ex contrariis intelligendorum.
+<pb n="0211A"/>
+Ergo aut nec propterea locus mali proferendi fuit,
+aut si qua alia ratio exigit illud induci, cur non et ex
+nihilo potuerit induci, ipsa ratione excusatura Dominum
+ne mali auctor existimaretur, quae nunc cum
+de materia operatur mala, excusat: si excusat,
+adeo ubique et undique illuc compellitur quaestio quo
+nolunt, qui, ipsam mali rationem non examinando,
+nec dignoscendo quomodo illud aut Deo adtribuant,
+aut a Deo separent, pluribus et indignioribus destructionibus
+Deum objiciunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p>Igitur in praestructione hujus articuli, et alibi forsitan
+retractandi, equidem diffinio, aut Deo adscribendum
+et bonum et malum quae ex materia fecit,
+aut materiae ipsi, ex qua fecit; aut utrumque utrique,
+<pb n="0211B"/>
+quia ambo sibi obligantur qui fecit et de qua
+fecit: aut alterum alteri; tertius enim, praeter materiam
+et Deum, non est. Porro si Dei erit utrumque,
+videbitur Deus etiam mali auctor: Deus autem
+ut bonus, auctor mali non erit; si materiae
+ utrumque, videbitur materia etiam boni
+matrix; mala autem in totum materia boni non
+erit matrix; si utriusque erit, utrumque; in hoc
+quoque comparabitur Deo materia, et partes erunt
+ambo, ex aequo mali ac boni adfines; aequari autem
+Deo materia non debet, ne duos deos efficiat; si
+alterum alterius, utique Dei bonum, et materiae
+malum; neque malum Deo, neque materiae bonum
+adscribitur: et bona autem et mala Deus,
+de materia faciendo, cum ea facit. Haec si ita sunt,
+<pb n="0211C"/>
+nescio qua possit evadere sententia Hermogenis,
+qui Deum, quoquo modo de materia malum condidit,
+sive voluntate, sive necessitate, sive ratione,
+non putet mali auctorem. Porro, si mali auctor est
+ipse qui fecit, plane socia materia per substantiae
+suggestum, excludis jam caussam materiae introducendae.
+Nihilominus enim, et per materiam Deus
+auctor mali ostenditur, si ideo materia praesumpta
+est, ne Deus mali auctor videretur. Exclusa itaque
+materia, dum excluditur caussa ejus, superest uti
+<pb n="0212A"/>
+Deum omnia ex nihilo fecisse constet. Videbimus an
+et mala, cum apparuerit quae mala, et an mala interim
+ea quae putas. Dignius enim de suo arbitrio produxit,
+haec quoque producendo de nihilo, quam de praejudicio
+alieno, si de materia produxisset. Libertas, non
+necessitas, Deo competit: malo voluerit mala a semetipso
+condidisse, quam non potuerit non condidisse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<p>Unici Dei status hanc regulam vindicat: non
+aliter unici, nisi quia solius: non aliter solius, nisi
+quia nihil cum illo: sic et primus erit, quia
+omnia post illum: sic omnia post illum, quia omnia
+ab illo: sic ab illo, quia ex nihilo, ut illi quoque
+Scripturae ratio constet: <hi>Quis cognovit sensum
+Domini? Aut quis illi consiliarius fuit? aut quem consultatus
+<pb n="0212B"/>
+est? aut viam intelligentiae et scientiae quis demonstravit
+illi? quis tradidit, et retribuetur ei <note>(Rom.
+XI, 34, 35)</note>
+            </hi>? Nemo utique: quia nulla vis, nulla materia,
+nulla natura substantiae alterius aderat illi.
+Porro, si de aliquo operatus est, necesse est ab
+ea ipsa acceperit et consilium et tractatum dispositionis,
+ut viam intelligentiae et scientiae. Pro
+qualitate enim rei operari habuit et secundum ingenium
+materiae, non secundum suum arbitrium: adeo
+ut et mala pro natura, non sua, sed substantiae, fecerit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p>Si necessaria est Deo materia ad opera mundi, ut
+Hermogenes existimavit, habuit Deus materiam longe
+digniorem et idoneiorem, non apud philosophos aestimandam,
+sed apud prophetas intelligendam, Sophiam
+<pb n="0212C"/>
+suam scilicet: haec denique sola cognovit sensum
+Domini. Quis enim scit quae sunt Dei, et quae in
+ipso, nisi spiritus qui in ipso <note>(I Cor. II, 11)</note>? Sophia autem
+spiritus, haec illi consiliarius fuit, via intelligentiae
+et scientiae ipsa est <note>(Prov. VIII)</note>. Ex hac fecit,
+faciendo per illam, et faciendo cum illa. <hi>Cum pararet
+coelum,</hi> inquit, <hi>aderam illi; et cum fortia faciebat (super
+ventos) quae sursum nubila, et cum firmos ponebat fontes 
+ ejus quae sub coelo est, ego eram compingens cum
+ipso. Ego eram ad quam gaudebat, quotidie autem
+<pb n="0213A"/>
+oblectabar in persona ejus <note>(Ibid.)</note>
+            </hi>: quando oblectabatur
+cum perfecisset orbem, et inoblectabatur in
+filiis hominum. Quis non hanc potius omnium fontem
+et originem commendet, materiam vero materiarum,
+non sibi subditam, non statu diversam,
+non motu inquietam, non habitu informem, sed
+insitam et propriam et compositam et decoram, quali
+Deus potuit eguisse, sui magis quam alieni
+egens? Denique, ut necessariam sensit ad opera
+mundi, statim eam condit et generat in semetipso: <hi>Dominus,</hi> 
+ inquit, <hi>condidit me initium viarum
+suarum in opera sua: ante saecula fundavit me, prius
+quam faceret terram, prius quam montes collocarentur;
+ante omnes autem colles generavit me; prior autem abysso genita sum 
+ <note>(Ibid.)</note>
+            </hi>. Agnoscat ergo Hermogenes
+<pb n="0213B"/>
+idcirco etiam Sophiam Dei natam et
+conditam praedicari, ne quid innatum et inconditum
+praeter solum Deum crederemus. Si enim intra Dominum
+quod ex ipso et in ipso fuit, sine initio
+non fuit: Sophia scilicet ipsius ex indenata et condita,
+ex quo in sensu Dei ad opera mundi disponenda
+coepit agitari: multo magis non capit sine initio
+quicquam fuisse quod extra Dominum fuerit. Si
+vero Sophia eadem Dei sermo est sensu sophia,
+et sine quod factum est nihil <note>(Joan. I, 3)</note>, sicut et
+dispositum sine sophia, quale est ut filio Dei sermone
+unigenito et primogenito aliquid fuerit praeter Patrem
+antiquius: et hoc modo utique generosius, nedum
+quod innatum nato fortius, et quod infectum
+facto validius? quia quod ut esset nullius
+<pb n="0213C"/>
+eguit auctoris, multo sublimius erit eo quod, ut esset,
+aliquem habuit auctorem: proinde, si malum quidem
+innatum est, natus autem sermo Dei: <hi>Eructavit enim,</hi> 
+ inquit, <hi>sermonem optimum <note>(Ps.
+XLIV, 1)</note>
+            </hi>, non scio an bono malum possit adduci,
+validius ab infirmo, ut innatum a nato. Ita et hoc nomine
+materiam Deo praeponit Hermogenes, praeponendo
+eam Filio. <hi>Filius enim sermo, et Deus sermo <note>(Joan., I, 1)</note>
+            </hi>;
+et: <hi>Ego et Pater unum sumus (Joan., X,
+<pb n="0214A"/>
+10)</hi>: nisi quod sustinebit aequo animo filius eam praeponi
+sibi, quae Patri adaequatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p>Sed et ad originale instrumentum Moysi provocabo,
+unde et diversa pars suspiciones suas ingratis
+ fulcire conatur, ne scilicet non inde instrui
+videretur unde oportet. Itaque occasiones sibi
+ sumpsit quorumdam verborum, ut haereticis
+fere mos est simplicia quaeque torquere. Nam et
+ipsum principium, in quo Deus fecit coelum et terram,
+aliquid volunt fuisse quasi substantivum et corpulentum,
+quod in materiam interpretari possit. Nos
+autem unicuique vocabulo proprietatem suam
+vindicamus, principium initium esse, et competisse
+ita poni rebus incipientibus fieri. Nihil enim, quod
+<pb n="0214B"/>
+fieri habet, sine initio esse, quin initium sit illi
+ipsum dum incipit fieri. Ita principium sive initium,
+incoeptionis esse verbum, non alicujus
+substantiae nomen. Jam nunc, si principalia Dei
+opera coelum et terra sunt, quae ante omnia Deus
+fecit suorum esse proprie principium, quae priora
+sunt facta, merito sic praefatur Scriptura: <hi>In principio
+fecit Deus coelum et terram <note>(Gen. I, 1)</note>
+            </hi>; quemadmodum
+dixisset: In finem Deus fecit coelum et terram:
+si post universa fecisset. Aut si principium aliqua
+substantia est, erit et finis aliqua materia. Plane licebit
+etiam substantivum aliquid principium esse alii
+rei, quae ex ipso sit futura, ut argilla principium
+testae, ut semen principium herbae. Sed cum ita utimur
+vocabulo principii quasi originis, non quasi ordinis
+<pb n="0214C"/>
+nomine, adjicimus et mentionem ipsius rei
+specialiter, quam volumus principium alterius rei. De
+caetero si sic ponamus, verbi gratia: In principio fecit
+figulus pelvim vel urnam; jam non materiam significabit
+ principium: non enim argillam nominavi
+principium, sed ordinem operis; quia figulus
+ante caetera primum pelvim et urnam fecit, exinde
+facturus et caetera; ad ordinationem operum principii
+vocabulum pertinebit, non ad originem substantiarum.
+<pb n="0215A"/>
+Possum et aliter principium interpretari,
+non ab re tamen: nam et in graeco <hi>principii</hi> vocabulum,
+quod est <foreign xml:lang="greek">ΑΡΧΗ,</foreign> non tantum ordinativum,
+sed et potestativum capit principatum. Unde et <foreign xml:lang="greek">ΑΡΧΟΝΤΑΣ</foreign>
+ dicunt principes et magistratus. Ergo secundum
+hanc quoque significationem, principium pro
+principatu et potestate sumetur. In principatu enim
+et in potestate Deus fecit coelum et terram.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p>Sed ut nihil aliud significet graeca vox, quam principium,
+et principium nihil aliud capiat, quam initium,
+habemus etiam illam initium agnoscere, quae
+dicit: <hi>Dominus condidit me initium viarum suarum
+in opera sua.</hi> Si enim per Sophiam Dei omnia
+facta sunt; et coelum ergo et terram Deus faciens in
+<pb n="0215B"/>
+principio, id est initio, in Sophia sua fecit. Denique
+si principium materiam significaret, non ita Scriptura
+inscripsisset: <hi>In principio Deus fecit,</hi> sed <hi>ex
+principio.</hi> Non enim in materia, sed ex materia fecisset.
+De Sophia autem potuit dici, <hi>in principio.</hi> In Sophia
+enim primo fecit, in qua cogitando et disponendo
+jam fecerat; quoniam etsi ex materia facturus
+fuisset, ante in Sophia cogitando et disponendo jam
+fecerat. Quoniam etsi erat initium viarum, quia
+cogitatio et dispositio prima Sophiae fit operatio de
+cogitatu viam operibus instituens, hanc et inde auctoritatem
+Scripturae mihi vindico, quod et Deus qui fecit,
+et ea quae fecit ostendens, unde fecerit non
+proinde testatur. Nam cum in omni operatione tria
+sint principalia: qui facit, et quod fit, et ex quo fit;
+<pb n="0215C"/>
+tria nomina sunt edenda in legitima operis enarratione:
+persona factoris, species facti, forma materiae.
+Si materia non edetur, ubi et opera et operator
+edentur, apparet ex nihilo eum operatum. Proinde
+enim ederetur ex quo, si ex aliquo fuisset operatus.
+Denique Evangelium ut supplementum instrumenti
+<pb n="0216A"/>
+veteris adhibendo, in quo vel eo magis debuerat
+ostendi Deus ex aliqua materia universa fecisse,
+quod illic etiam per quem omnia fecerit revelatur:
+ <hi>In principio erat sermo, in</hi> quo <hi>principio scilicet
+Deus fecit coelum et terram. Et sermo erat apud Deum,
+et Deus erat sermo. Omnia per ipsum facta sunt, et
+sine illo factum est nihil <note>(Joan. I, 1)</note>
+            </hi>. Cum igitur et hic
+manifestetur et factor, id est Deus: et facta, id est
+omnia: et per quem, id est sermo; nonne et unde
+omnia facta essent a Deo per sermonem, exegisset
+ordo profiteri, si ex aliquo facta essent? Ita quod non
+fuit, non potuit Scriptura profiteri, Et non profitendo
+satis probavit non fuisse, quia profiteretur si fuisset.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<p>Ergo, inquis, si tu ideo praejudicas ex nihilo facta
+<pb n="0216B"/>
+omnia, quia non sit manifeste relatum de materia
+praecedenti factum quid, vide ne diversa pars
+ideo contendat ex materia omnia facta, quia proinde
+non aperte significatum sit, ex nihilo quid factum.
+Plane retorqueri quaedam facile possunt: non statim
+et ex aequo admitti, ubi diversitas caussae est. Dico
+enim, etsi non aperte Scriptura pronuntiavit ex nihilo
+facta omnia, sicut nec ex materia, non tantam fuisse
+necessitatem aperte significandi de nihilo facta omnia,
+quanta esset, si ex materia facta fuissent. Quoniam
+quod fit ex nihilo, eo ipso dum non ostenditur ex aliquo
+factum, manifestatur ex nihilo factum: et
+non periclitatur ne ex aliquo factum existimetur, quando
+non demonstretur ex quo sit factum. Quod autem
+ex aliquo fit, nisi hoc ipsum aperte declaratur ex aliquo
+<pb n="0216C"/>
+factum, dum illud ex quo factum sit non ostenditur,
+periclitabitur primo videri ex nihilo factum,
+quia non editur ex quo sit factum. Dehinc, etsi ea sit
+conditione, ut non possit videri non ex aliquo,
+proinde periclitabitur, ex alio longe factum videri,
+quam ex quo factum est, dum non proponitur unde
+<pb n="0217A"/>
+sit factum. Ita, si ex nihilo Deus cuncta fecisse non
+potuit, etsi Scriptura non adjecisset illum ex nihilo
+fecisse <note>(II Mach. VII, 28)</note>; ex materia eum fecisse
+omni modo debuit edixisse, si et ex materia fecisset,
+quia illud in totum habebat intelligi, etsi non
+significaretur: at istud in dubio, nisi significaretur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p>Atque adeo Spiritus Sanctus hanc Scripturae suae
+rationem constituit, ut cum quid ex aliquo sit, et
+unde sit referat. <hi>Fruticet</hi>, inquit, <hi>terra herbam
+foeni, seminantem semen secundum genus, et secundum
+similitudinem, et lignum fructuosum faciens fructum,
+cujus semen in ipso in similitudinem. Et factum est sic.
+Et produxit terra herbam foeni seminantem semen secundum
+genus, et lignum fructuosum faciens fructum, cujus
+semen in ipso in similitudinem.</hi> Et rursus: <hi>Et dixit
+<pb n="0217B"/>
+Deus: Producant aquae repentia animarum vivarum,
+et volatilia volantia super terram per firmamentum coeli.
+Et factum est sic. Et fecit Deus cetos magnos, et omnem
+animam animalium repentium, quae produxerunt aquae
+secundum genus ipsorum.</hi> Item post haec: <hi>Et dixit
+Deus: Producat terra animam viventem secundum genus,
+quadrupedia et repentia, et bestias terrae, secundum
+genus ipsorum <note>(Genes., cap. I, v. 11 et seqq.)</note>
+            </hi>.
+Si ergo ex jam factis rebus, alias res Deus proferens,
+ostendit per prophetam, et dicit quid unde protulerit
+(quamquam possimus unde illas prolatas aestimare,
+dum ne ex nihilo; jam enim facta erant
+quaedam, ex quibus prolatae videri possent): si tantam
+curam instructionis nostrae insumpsit Spiritus
+sanctus, ut sciremus quid unde processerit, nonne
+<pb n="0217C"/>
+proinde nos et de coelo et de terra compotes reddidisset,
+significando unde ea esset operatus, si de
+aliqua materia origo constaret illorum? ut tanto magis
+ex nihilo ea videretur operatus, quanto nihil adhuc
+<pb n="0218A"/>
+erat factum, ex quo operatus videretur. Itaque
+sicut ea quae de aliquo prolata sunt,
+ostendit unde prolata sint: ita quae non ostendit
+unde prolata sint, ex nihilo prolata confirmat.
+Igitur <hi>in principio Deus fecit coelum et terram.</hi> Adoro
+Scripturae plenitudinem, qua mihi et factorem
+manifestat et facta. In Evangelio vero amplius et ministrum
+atque arbitrum rectoris invenio sermonem.
+An autem de aliqua subjacenti materia facta
+sint omnia, nusquam adhuc legi. Scriptum esse doceat
+Hermogenis officina. Si non est scriptum, timeat
+ vae illud, adjicientibus aut detrahentibus
+destinatum <note>(Apoc. XXII, 18, 19)</note>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<p>Sed ex sequentibus argumentatur, quia scriptum
+sit: <hi>Terra autem erat invisibilis et incomposita.</hi> 
+<pb n="0218B"/>
+ Nam et <hi>terrae</hi> nomen redigit in
+materiam, quia terra sit quae facta est ex illa. Et <hi>erat</hi> 
+ in hoc dirigit, quasi quae semper retro fuerit
+innata et infecta. Invisibilis autem et rudis, quia
+informem et confusam et inconditam vult fuisse materiam.
+Has quidem opiniones ejus singillatim revincam,
+sed interim volo sic ei respondere. Putamus
+ his articulis materiam demonstrari. Numquid
+tamen, quia erat ante omnia, et tale aliquid esse
+ex ea factum Scriptura significat? Atquin nihil tale significat.
+Fuerit licet materia, quantum sibi licet, vel
+potius Hermogeni: potuit et fuisse, et tamen nihil
+Deus ex illa fecisse, vel quia non decebat Deum alicujus
+eguisse, certe quia nec ostenditur quicquam ex
+materia fecisse. Sine caussa ergo esset, inquis. Non
+<pb n="0218C"/>
+plane adeo sine caussa. Nam etsi mundus non est
+factus ex illa, sed haeresis facta est, et quidem
+hoc impudentior, quod non ex materia facta est haeresis,
+sed materiam ipsam potius haeresis fecit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+
+<pb n="0219A"/>
+<p>Revertor nunc ad singulos articulos, per quos putavit
+significatam esse materiam. Et primo de nominibus
+expostulabo. Horum enim alterum legimus,
+quod est terrae: alterum non invenimus, quod est
+materiae. Quaero ergo, cum materiae nominatio non
+exstet in Scriptura, quomodo ei etiam terrae appellatio
+accommodetur in alio jam genere substantiae nota?
+Quo magis materiae quoque nominatio extitisse
+debuerat, consecuta etiam terrae appellationem, ut
+scirem terram commune cum materia esse nomen, ne
+illud ei soli substantiae vindicarem, cujus et proprium,
+in qua magis notum est, vel ne illud in
+quamcumque aliam speciem, nec utique omni materiae
+communicare possem, si vellem. Cum enim non
+<pb n="0219B"/>
+exstat proprium vocabulum ejus rei cui commune
+vocabulum adscribitur, quanto non comparet cui
+adscribatur, cuicumque alii poterit adscribi. Ita Hermogenes,
+etsi materiam ostenderet nominatam, deberet
+eamdem probare terram quoque cognominatam,
+ut ita utrumque illi vocabulum vindicaret.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<p>Vult igitur duas proponi terras in ista scriptura:
+unam, quam in principio Deus fecit; aliam, materiam,
+ex qua fecit, de qua dictum sit: <hi>Terra autem
+erat invisibilis et rudis.</hi> Utique si quaeram ex duabus
+quae, cui nomen terrae accommodare debeat, dicetur,
+hanc quae facta sit ex illa ex qua facta est, vocabulum
+derivasse, quia verisimilius sit ab origine
+sobolem potius, quam originem a sobole vocitari.
+<pb n="0219C"/>
+Hoc si ita est, alia nobis obvolvitur quaestio, an competat
+terram hanc quam Deus fecit, ex illa ex qua fecit,
+cognomentum derivasse. Audio enim apud Hermogenem
+caeterosque <hi>materiarios</hi> haereticos, terram
+quidem illam informem et invisibilem et rudem fuisse:
+<pb n="0220A"/>
+hanc vero nostram proinde et formam, et conspectum,
+et cultum, a Deo consecutam. Aliud ergo
+factam quam erat ea ex qua facta est. Porro aliud
+facta, non potuit cum ea denominatione sociari,
+a cujus conditione desciverat. Si nomen proprium
+materiae illius fuit terra, haec quae non est materia,
+aliud scilicet facta, terrae quoque non capit nomen
+alienum, et statu suo extraneum. Sed materia facta,
+id est terra, habuit cum sua origine consortium
+nominis, sicut et generis. Non adeo. Nam et
+testam, licet ex argilla confectam, jam non argillam
+vocabo, sed testam: et electrum, licet ex
+auro et argento foederatum, nec argentum tamen
+nec aurum appellabo, sed electrum: a cujus
+habitu quid divertit, pariter et a vocatu ejus recedit,
+<pb n="0220B"/>
+appellationis, sicut et conditionis proprietate.
+Quam autem transierit de statu terrae illius, id est
+materiae, ista terra, vel eo palam est, quod haec apud
+Genesim testimonium boni accipit: <hi>Et vidit Deus
+quia bonum:</hi> illa autem apud Hermogenem in originem
+et caussam malorum deputatur. Postremo, si
+ideo haec terra, quia et illa, cur non et materia haec
+quoque, quia illa? Imo jam et coelum et omnia, si
+ex materia constant, et terrae et materiae vocari debuerunt.
+Satis ista de terrae nomine (in quo materia
+ intelligi voluit) quod nomen unius elementi
+omnes sciunt, natura primum, deinde Scriptura
+docente, nisi et Sileno illi apud Midam regem
+adseveranti de alio orbe, credendum est, auctore
+Theopompo. Sed et deos multos idem refert.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<p>
+            <pb n="0220C"/>Nobis autem unus Deus et una est terra, quam in
+principio Deus fecit, cujus ordinem incipiens Scriptura
+decurrere, primo factam eam edicit, dehinc
+qualitatem ipsius edisserit, sicut et coelum primo
+<pb n="0221A"/>
+factum professa: <hi>In principio fecit Deus coelum,</hi> dehinc
+dispositionem ejus superinducit: <hi>Et separavit
+inter aquam quae erat infra firmamentum <note>(Gen. I, 7)</note>
+            </hi>, <hi>et quae super firmamentum, et vocavit Deus firmamentum
+coelum,</hi> 
+ ipsum quod in primordio fecerat. Proinde
+et de homine: <hi>Et fecit Deus hominem: ad imaginem
+Dei fecit illum <note>(Ibid. 27)</note>
+            </hi>. Dehinc qualiter fecerit reddit: <hi>Et finxit Deus hominem de limo terrae, et adflavit in faciem
+ejus flatum vitae, et factus est homo in animam vivam <note>(Gen. II, 7)</note>
+            </hi>.
+Et utique sic decet narrationem inire,
+primo praefari, postea prosequi, nominare, deinde
+describere. Alioquin vanum, si ejus rei cujus nullam
+praemiserat mentionem, id est materiae, ne ipsum
+quidem nomen, subito formam et habitum promulgavit: 
+ante enarrat qualis esset, quam an esset;
+<pb n="0221B"/>
+ostendit figuram deformati; nomen abscondit.
+At quanto credibilius secundum nos ejus rei dispositionem
+Scriptura subjunxit, cujus institutionem simulque
+nominationem praemisit. Quam denique integer
+sensus est: <hi>In principio Deus fecit coelum et terram,
+terra autem erat invisibilis et rudis <note>(Gen. I, 1, 2)</note>
+            </hi>,
+quam Deus scilicet fecit, de qua Scriptura cum
+maxime ediderat. Nam et <hi>autem</hi> ipsum, velut fibula
+conjunctivae particulae ad connexum narrationi
+oppositum est, <hi>terra autem.</hi> Hoc enim verbo
+revertitur ad eam de qua supra dixerat, et alligat
+sensum. Adeo aufer hinc <hi>autem,</hi> et soluta compago
+est, ut tunc possit de alia terra dictum videri, <hi>Terra erat invisibilis et rudis.</hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+<p>
+            <pb n="0221C"/> Sed tu supercilia capitis, nutu digiti accommodato,
+altius tollens, et quasi retro jactans: <hi>Erat,</hi> 
+ inquis, quasi semper fuerit, scilicet innata
+et infecta, et idcirco materia credenda. At ego sine
+ullo lenocinio pronuntiationis simpliciter respondebo,
+de omni re posse dici <hi>erat,</hi> etiam de ea quae facta,
+quae nata sit, quae aliquando non fuerit, et quae materia
+non sit. Omne enim quod habet esse, unde
+habeat, sive per initium, sive sine initio,
+<pb n="0222A"/>
+hoc ipso quod est, etiam <hi>erat</hi> dicetur. Cui competit
+prima verbi positio in definitionem, ejusdem etiam
+declinatio verbi decurret in relationem. <hi>Est,</hi> definitionis
+caput; <hi>erat,</hi> relationi facit. Hae sunt argutiae
+et subtilitates haereticorum, simplicitatem communium
+verborum torquentes in quaestionem.
+Magna scilicet quaestio est, si erat terra, quae facta
+est. Sane discutiendum an ei competat invisibilem
+et rudem fuisse quae facta est, an ei ex qua facta est,
+ut ejusdem sit <hi>erat,</hi> cujus et quod erat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<p>Atquin non tantum probabimus istum habitum huic
+terrae competisse, sed et illi alii non competisse. Nam
+si nuda materia Deo subjacebat, nullo scilicet
+elemento obstruente, si quidem nondum quicquam
+<pb n="0222B"/>
+erat praeter ipsam et Deum; utique invisibilis esse
+non poterat. Quia etsi tenebras volet in substantia
+fuisse materiae (cui articulo respondere debebimus
+suo ordine), etiam homini tenebrae visibiles sunt.
+Hoc enim ipsum quod sunt tenebrae, videtur, nedum
+Deo. Et utique si invisibilis esset, nullo modo cognosceretur
+qualitas ejus. Unde ergo compertus est
+Hermogenes informem et confusam et inconditam
+illam fuisse, quae ut invisibilis latebat: aut si hoc
+a Deo revelatum est, probare debet. Sic et an rudis
+dici potuerit, expostulo. Certe enim rude illud
+est quod imperfectum est. Certe imperfectum non
+potest esse, nisi quod factum est. Quod enim minus
+factum est, imperfectum est. Certe, inquis. Ergo
+materia quae facta non erat in totum imperfecta esse
+<pb n="0222C"/>
+non potuit. Quae imperfecta non fuit, etiam rudis
+non fuit. Initium non habens quia facta non fuit,
+carnit et rudimento. Initii enim accidens est rudimentum.
+Terra vero quae facta est, meruit et rudis
+dici. Statim enim ut facta est, habuit imperfectae locum,
+ante perfectionem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIX.</head>
+<p>Si quidem omnia opera sua Deus ordine consummavit,
+incultis primo elementis, depalans
+<pb n="0223A"/>
+quodammodo mundum; dehinc exornatis velut
+dedicans. Nam et lumen non statim splendore solis
+implevit, et tenebras non statim solatio lunae temperavit,
+et coelum non statim sideribus stellisque signavit,
+et maria non statim belluis frequentavit,
+et ipsam terram non statim varia foecunditate dotavit:
+sed primo esse ei contulit; dehinc non in vacuum
+esse supplevit. Sic enim et Isaias: <hi>Non in vacuum,</hi> 
+ait, <hi>fecit illam, sed inhabitari <note>(Is. XLV,
+18)</note>
+            </hi>. Postea ergo quam facta est, futura etiam perfecta,
+interim erat invisibilis et rudis. Rudis quidem,
+hoc quoque ipso quod invisibilis, ut nec visui
+perfecta, simul et ut de reliquo nondum instructa.
+Invisibilis vero, ut adhuc aquis, tamquam munimento
+ genitalis humoris, obducta: qua forma,
+<pb n="0223B"/>
+etiam adfinis ejus caro nostra producitur. Nam et
+David ita canit: <hi>Domini est terra et plenitudo ejus,
+orbis terrae</hi>, <hi>et omnes qui habitant in illa. Ipse super
+maria fundavit eam, et super flumina praeparavit eam <note>(Ps. XXIII, 1, 2)</note>
+            </hi>.
+Segregatis enim aquis in cavationem
+ sinuum, emicantior facta est arida, quae antehac
+aquis tegebatur. Exinde itaque et visibilis efficitur,
+dicente Deo: <hi>Congregetur aqua in congregationem 
+ unam, et videatur arida. Videatur</hi> inquit,
+non, <hi>fiat.</hi> Jam enim facta erat, sed invisibilis usque
+tunc videri sustinebat. <hi>Arida</hi> autem, quod erat
+futura ex divortio humoris, tamen terra. <hi>Et vocavit
+Deus aridam terram,</hi> non materiam. Sic et perfectionem
+postea consecuta, desinit rudis haberi,
+cum pronuntiat Deus: <hi>Fruticet terra herbam foeni
+<pb n="0223C"/>
+seminantem semen secundum genus, et secundum similitudinem,
+et lignum fructuosum faciens fructum, cujus
+semen in ipso in similitudinem.</hi> Item: <hi>Producat
+terra animam vivam secundum genus, et quadrupedia,
+et repentia, et bestias terrae secundum genus.</hi> Implevit
+igitur ordinem suum Scriptura divina. Quam enim
+<pb n="0224A"/>
+praedixit invisibilem et rudem, ei et visionem reddidit
+et perfectionem. Non alia autem materia erat invisibilis
+et rudis. Ergo materia erit postea visibilis
+et perfecta. Volo itaque videre materiam; visibilis
+enim facta est. Volo et perfectam eam recognoscere,
+ut ex illa etiam foeni herbam, et ex illa decerpam
+lignum fructuosum; et ex illa animalia usui meo
+famulentur. Sed materia quidem nusquam: terra
+vero, haec, id est coram. Hanc video, hac perfruor,
+ex quo invisibilis et rudis esse desiit, de qua
+manifestissime Isaias: <hi>Haec dicit Dominus qui fecit
+coelum <note>(Is. XLV, 18)</note>
+            </hi>. Iste Deus qui demonstravit terram,
+et fecit illam. Certe eamdem demonstravit.
+quam et fecit. Quomodo demonstravit? Utique dicendo: <hi>Videatur arida.</hi> 
+ Quare videri jubet, nisi quia
+<pb n="0224B"/>
+retro non videbatur? ut si quoque eam <hi>non in vacuum</hi> 
+fecisset faciendo visibilem, et <hi>ita habilem</hi>. Et sic
+per omnia probatur nobis hanc quam incolimus,
+eamdem et factam esse a Deo et ostensam, nec
+aliam fuisse rudem et invisibilem, quam quae et facta
+et ostensa est; atque ita, <hi>terra autem erat invisibilis et
+rudis,</hi> ad eam pertinet quam Deus cum coelo separavit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXX.</head>
+<p>Sic et sequentia conjecturam Hermogenis instruere
+videbuntur: <hi>Et tenebrae super abyssum, et spiritus Dei
+super aquas ferebatur <note>(Gen. I, 2)</note>
+            </hi>; quasi et hae confusae
+substantiae, massalis illius molis argumenta portendant.
+Atquin singillatim definiens tenebras, abyssum, spiritum
+Dei, aquas, nihil confusum, nec in confusione
+incertum aestimari facit tam divisa relatio
+<pb n="0224C"/>
+certorum et distinctorum elementorum. Hoc quidem
+amplius, cum situs proprios eis adscribit, tenebras
+super abyssum, spiritum super aquas, negavit confusionem
+substantiarum, quarum demonstrando dispositionem,
+demonstravit etiam distinctionem. Vanissimum
+ denique, ut materia quae informis
+<pb n="0225A"/>
+inducitur, de tot formarum vocabulis informis adseveretur,
+non edito quid sit illud corpus confusionis,
+quod unicum utique credendum est, si informe est:
+uniforme etenim quod informe est. Informe autem,
+quod ex varietate confusum est, unam habeat necesse
+est speciem; quod non habet speciem, dum
+ex multis unam habet speciem. Caeterum, aut habebat
+in se species istas materia, de quarum vocabulis
+intelligenda esset, tenebras dico, et abyssum, et
+spiritum, et aquas, aut non habebat. Si enim habebat,
+quomodo inducitur non habens formas? Si
+non habebat quomodo agnoscitur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXI.</head>
+<p>Sed et illud utique captabitur: de coelo solo et
+de terra ista Scripturam significasse, quod eam
+<pb n="0225B"/>
+in principio Deus fecerit, de speciebus autem supradictis
+nihil tale: et ideo eas quae factae non significentur,
+ad infectam materiam pertinere. Respondebimus
+huic quoque scrupulo. Scriptura divina satis
+dissereret, si summas ipsas rerum a Deo factas
+commendasset coelum et terram, habentes utique
+suggestus suos proprios, qui in ipsis summis intelligi
+possent. Suggestus autem coeli et terrae primo
+tunc fuerint tenebrae, et abyssus, et spiritus, et
+aquae. Nam terrae quidem suberat abyssus et tenebrae.
+Si enim abyssus infra terram, tenebrae autem
+super abyssum, sine dubio et tenebrae et abyssus infra
+terram. Coelo vero spiritus et aquae subjacebant:
+nam si aquae super terram, quae eam texerant, spiritus
+autem super aquas, pariter et spiritus et aquae
+<pb n="0225C"/>
+super terram. Quae vero super terram, ea utique infra
+coelum. Et sicut terra abysso et tenebris, ita et
+coelum spiritui et aquis incubabat, et complectebantur.
+Et ita novum non est, ut id solum quod continet
+nominetur, qua summale: in isto autem intelligatur
+<pb n="0226A"/>
+et quod continetur, qua portionale. Ecce, si
+dicam, Civitas exstruxit theatrum et circum: scena
+autem erat talis et talis, et statuae super Euripum,
+et obeliscus super omnia ferebatur: quia
+non et has species edixerim factas a civitate, non
+erunt ab ea cum circo et theatro? an ideo non adjeci
+factas has quoque species, quia inerant eis quae facta
+praedixeram, et inesse quibus inerant, intelligi poterant?
+Sed vacet hoc exemplum, ut humanum:
+aliud de auctoritate Scripturae ipsius arripiam. <hi>Fecit,</hi> 
+inquit, <hi>Deus hominem de terra, et adflavit in faciem ejus
+flatum vitae, et factus est homo in animam vivam.</hi> Faciem
+quidem ejus hic nominat, sed nec ipsam factam a
+Deo dixit: <hi>costam</hi> vero et <hi>ossa,</hi> et <hi>carnem,</hi> et <hi>oculos,</hi> 
+et <hi>sudorem,</hi> et <hi>sanguinem (Gen. II, 21, 23; III, 5,
+<pb n="0226B"/>
+29; IV, 10)</hi> postea loquitur, quae nec tunc facta a
+Deo significavit. Quid respondebit Hermogenes?
+Numquid et membra hominis ad materiam pertinebunt,
+quia non nominatim facta referuntur? An et haec in
+hominis factitatione censentur? Proinde membra
+erunt coeli et terrae abyssus et tenebrae, spiritus
+et aquae. In corporibus enim membra sunt facta: in
+corporibus et membra sunt nominata. Nullum elementum
+non membrum est ejus elementi quo continetur:
+omnia autem elementa coelo aut terra continentur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXII.</head>
+<p>Haec responderim pro scriptura praesenti, quatenus
+hic solorum corporum factitationem commendare
+videtur coeli et terrae. Scivit esse qui ultro in corporibus
+et membra cognoscerent, et ideo compendio
+<pb n="0226C"/>
+usa est. Providit tamen et hebetes et insidiosos, qui
+dissimulato tacito intellectu, ipsis quoque membris
+verbum factitationis significatorium exigerent.
+Itaque et propter istos singulas species factas docet
+aliis in locis. Habes Sophiam, <hi>Prior autem abysso
+<pb n="0227A"/>
+genita sum,</hi> dicentem: ut credas abyssum quoque
+genitam, id est factam, quia et filios facimus, licet
+generemus. Nihil interest facta an nata sit abyssus,
+dum initium detur illi, quod non daretur si materiae
+subjecta esset. De tenebris vero ipse Dominus per
+Isaiam: <hi>Ego</hi> qui <hi>struxi lucem et feci tenebras <note>(Is.
+XLV, 7)</note>
+            </hi>. De spiritu aeque Amos: <hi>Qui solidat tonitruum
+et condit spiritum, et annuntiat in homines Christum
+suum <note>(Amos. IV, 13)</note>
+            </hi>: eum spiritum conditum
+ostendens, qui in terras conditas deputabatur, qui
+super aquas ferebatur, librator, et adflator, et animator
+universitatis: non, ut quidam putant, ipsum
+Deum significari spiritum, quia Deus spiritus. Neque
+enim aquae Dominum sustinere sufficerent; sed
+eum spiritum dicit de quo etiam venti constiterunt,
+<pb n="0227B"/>
+ut ait per Isaiam: <hi>Quia spiritus a me exivit et flatum
+omnem ego feci <note>(Is. LVII, 26)</note>
+            </hi>. Item de aquis eadem
+Sophia: <hi>Et cum firmos ponebat fontes ejus quae
+sub coelo est, ego eram modulans cum ipso <note>(Prov. VIII,
+28, 29)</note>
+            </hi>. Cum ergo et eas species probamus a Deo
+factas, etsi in Genesi tantummodo nominantur sine
+factitationis mentione, respondebitur fortasse ex diverso:
+Plane factas eas, sed ex materia: ut stylus
+quidem Moysi, <hi>Et tenebrae super abyssum, et spiritus
+Dei super aquas ferebatur,</hi> materiam sonet: caeterae
+vero Scripturae, quae ex materia factae sint species,
+in disperso demonstrent. Ergo sicut terra de terra, ita
+et abyssus ex abysso, et tenebrae ex tenebris, et spiritus
+et aquae ex spiritu et aquis constiterunt. Et
+sicut supra diximus, non potuit informis fuisse materia,
+<pb n="0227C"/>
+si species habebat, ut et aliae ex ea sint confectae;
+nisi quod non aliae, sed ipsae ex semetipsis: siquidem
+non capit diversas fuisse quae iisdem nominibus
+eduntur, quo jam operatio divina otiosa videri
+possit, si quae erant fecit: cum generosior esset
+<pb n="0228A"/>,
+quae non erant facta, si fierent. Igitur ut concludam,
+aut materiam tunc significavit Moyses
+cum scribit: <hi>Et tenebrae super abyssum, et spiritus Dei
+super aquas ferebatur:</hi> aut cum hae species alibi postea
+demonstrantur factae a Deo, debuerunt aeque demonstrari
+ex materia, quam Moyses praemiserat, factae:
+aut si species istas, et non materiam significavit
+Moyses, ubi materia demonstrata sit
+quaero.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIII.</head>
+<p>Sed dum illam Hermogenes inter colores suos invenit
+(inter Scripturas enim Dei invenire non potuit,
+satis est quod omnia et facta a Deo constat,
+et ex materia non constat: quae etiam si fuisset, ipsam
+quoque a Deo factam credidissemus, quia nihil
+<pb n="0228B"/>
+innatum praeter Deum praescribentes, obtineremus.
+In hunc usque articulum locus est retractatui, donec ad
+Scripturas provocata deficiat, exhibitio materiae. Expedita
+summa est: nihil invenio factum nihil ex nihilo, quia
+quod factum invenio, non fuisse cognosco. Etiamsi quid
+ex aliquo factum est, ex facto habet censum, ut ex
+terra herba, et fructus, et pecudes, et figuratio hominis
+ipsius, ut ex aquis natatiles et volatiles animae. Hujusmodi
+origines rerum ex his prolatarum, potero
+materias appellare; sed factas a Deo et ipsas.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIV.</head>
+<p>Caeterum, omne ex nihilo constitisse, illa postremo
+divina dispositio suadebit, quae omnia in nihilum
+redactura est. Si quidem et <hi>coelum convolvetur ut liber <note>(Is. XXXIV, 4)</note>
+            </hi>,
+imo <hi>nusquam fiet cum ipsa
+<pb n="0228C"/>
+terra, cum qua primordio factum est <note>(Matth. XXIV,
+21, 35)</note>
+            </hi>. <hi>Coelum et terra praeteribunt,</hi> inquit. <hi>Coelum
+primum, et terra prima abierunt, et locus non est inventus
+illis <note>(Apocal. XXI, 1)</note>
+            </hi>, quia scilicet quod et finit,
+locum amittit. Sic et David, <hi>Opera manuum tuarum
+<pb n="0229A"/>
+coeli et ipsi peribunt <note>(Ps. CI, 26, 27)</note>
+            </hi>. Nam etsi <hi>mutabit 
+ illos velut opertorium, et mutabuntur;</hi> sed mutari,
+perire est pristino statui, quem dum mutantur,
+amittunt. Et <hi>stellae quidem de coelo ruent, sicut 
+ fici arbor, cum valido commota vento, acerba
+sua amittit <note>(Apoc. VI, 13)</note>
+            </hi>. <hi>Montes vero tamquam
+cera liquescent a conspectu Domini <note>(Ps. XCVII, 5)</note>
+            </hi>:
+cum <hi>surrexerit</hi> scilicet <hi>confringere terram <note>(Is. II,
+19)</note>
+            </hi>. Sed et <hi>paludes,</hi> inquit, <hi>arefaciam; et quaerent
+aquam, nec invenient <note>(Is. XCI, 17; XCII, 15)</note>
+            </hi>: <hi>etiam
+mare hactenus</hi> . Quae omnia etsi alter putaverit
+spiritaliter interpretanda, non tamen poterit auferre
+veritatem ita futurorum, quomodo scripta sunt. Si
+quae enim figurae sunt, ex rebus consistentibus fiant
+necesse est, non ex vacantibus: quia nihil potest
+<pb n="0229B"/>
+alii similitudinem de suo praestare, nisi sit ipsum
+quod tali similitudine praestet. Revertor igitur ad
+caussam, definientem omnia ex nihilo edita, in nihilum
+perventura. Ex aeterno enim, id est ex materia,
+nihil Deus interibile fecisset, nec ex majoribus minora
+condidisset, cui magis congruat ex minoribus majora
+producere, id est ex interibili aeternum, quod et
+carni nostrae pollicetur, cujus virtutis et potestatis
+suae hunc jam arrhabonem voluit in nobis collocasse,
+ut credamus etiam illum universitatem ex nihilo
+velut emortuam, quae scilicet non erat, in
+hoc ut esset, suscitasse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXV.</head>
+<p>De caetero vero statu materiae, etsi non est retractandum,
+prius enim erat ut eam esse constaret, tamen
+ac si constiterit, persequendus est ordo: quo
+<pb n="0229C"/>
+magis eam non esse constet, cujus nec reliquus status
+consistat, simul ut contrarietates suas agnoscat
+Hermogenes. Prima, inquit, facie videtur nobis incorporalis
+esse materia: exquisita autem ratione
+recta, invenitur neque corporalis, neque incorporalis.
+Quae est ista ratio recta, quae nihil recti renuntiat,
+id est nihil certi? Nisi fallor enim, omnis res aut
+<pb n="0230A"/>
+corporalis aut incorporalis sit necesse est (ut concedam
+interim esse aliquid incorporale de substantiis
+dumtaxat, cum ipsa substantia corpus sit rei cujusque)
+certe post corporale et incorporale nihil tertium.
+Age nunc sit et tertium, quod illa recta ratio
+Hermogeniana compererit, quae neque corporalem
+neque incorporalem materiam facit: ubi est? quale
+est? quid vocatur? quid describitur? quid intelligitur?
+Tantum hoc ratio renuntiavit, nec corporalem
+materiam nec incorporalem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVI.</head>
+<p>Sed ecce contrarium subjicit, aut alia fortasse ratio
+ei occurrit, ex parte corporalem renuntians materiam,
+et ex parte incorporalem. Jam ergo ne neutrum
+sit, utrumque materia censenda est? Erit enim
+<pb n="0230B"/>
+corporalis et incorporalis adversus renuntiationem
+rectae rationis illius, plane rationem non reddentis
+sententiae suae, sicut nec alia reddit. Corporale
+enim materiae vult esse, de quo corpora edantur: incorporale
+vero, inconditum motum ejus. Si enim, ait,
+corpus tantummodo esset, nihil ei incorporale appareret,
+id est motus. Si vero in totum incorporalis fuisset,
+nullum corpus ex ea fieret. Quanto haec rectior
+ratio! nisi quod si tam rectas lineas ducis, Hermogenes,
+quam ratio ista, pictor te bardior non est.
+Quis enim tibi concedit motum in secundam partem
+substantiae deputare? cum substantiva res non sit,
+quia nec corporalis; sed accidens si forte, substantiae
+et corporis, ut actus, et pulsus, ut lapsus, ut casus,
+ita et motus. Nam sive a semetipso quid movetur,
+actus ejus est motus, certe pars substantiae non est
+<pb n="0230C"/>
+sicut tu motum substantiam facis materiae incorporalem.
+Omnia denique moventur, aut a semetipsis, ut
+animalia; aut ab aliis, ut inanimalia: tamen
+nec hominem, nec lapidem et corporalem et incorporalem
+dicemus, quia et corpus habeat et motum,
+sed unam omnibus formam solius corporalitatis, quae
+substantiae res est: si qua incorporalia eis adsunt,
+<pb n="0231A"/>
+aut actus, aut passiones, aut officia, aut libidines
+eorum, non portiones deputamus. Quo ergo
+facit, portionem materiae in motum disponere, qui
+non ad substantiam pertinet, sed ad substantiae habitum?
+Quid enim si immobilem placuisset tibi inducere
+materiam, numquid immobilitas secunda pars
+formae videretur? Sic itaque nec motus: sed de
+motu et alibi licebit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVII.</head>
+<p>Nunc enim video te ad aliam rursus rationem
+reverti, quae tibi nihil certi renuntiare consuevit.
+Nam sicut nec corporalem nec incorporalem infers
+ materiam, ita nec bonam nec malam allegas: 
+et proinde superargumentans:  « Si enim,
+<pb n="0231B"/>
+inquis, esset bona quae semper hoc fuerat, non desideraret
+compositionem Dei: si esset natura mala,
+non accepisset translationem in melius: nec quicquam
+compositionis suae applicuisset illi Deus
+tali natura: in vacuum enim laborasset. » 
+Verba haec tua sunt: quorum te et alibi meminisse
+oportuerat, ne quid his contrarium inferres.
+Sed quoniam de mali et boni ambiguitate super materiam
+in praeteritis aliquid tractavimus, nunc ad
+praesentem et solam propositionem et argumentationem
+tuam respondebo. Nec dicam, et hic te certum
+aliquid debuisse pronuntiasse aut bonam, aut malam,
+aut tertium aliquid: sed de his quod
+tibi libuit pronuntiasse, custodisse. Rescindis enim
+quod pronuntiasti nec bonam nec malam: quia cum
+<pb n="0231C"/>
+dicis: <hi>Si esset bona, non desideraret componi a Deo,</hi> 
+malam portendis: et cum apponis: <hi>Si esset mala natura,
+non admitteret in melius translationem,</hi> bonam
+subostendis: atque ita et boni et mali affinem
+constituisti, quam nec bonam nec malam pronuntiasti.
+Ut autem argumentationem, qua putasti
+te propositionem tuam confirmaturum, retundam,
+oppono etiam illud: Si bona fuisset materia
+semper, quare non desiderasset in melius reformari?
+<pb n="0232A"/>
+Quod bonum, non desiderat, aut non optat, aut non
+capit profectum? ut fiat de bono melius. Aeque, si
+mala natura fuisset, quare non potuerit a Deo converti,
+ut a potentiore, ut ab eo qui <hi>lapidum quoque
+naturam convertere valeat in filios Abrahae <note>(Matth., IV)</note>
+            </hi>?
+Nempe ergo non tantum comparas Deum materiae,
+sed et subjicis, a quo natura materiae devinci et edomari
+ in melius non potuisset. Sed et quam hic
+non vis natura malam, alibi te confessum negabis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVIII.</head>
+<p>De situ materiae id tracto, quod et de motu,
+ut perversitatem tuam traducat. Subjacentem facis
+Deo materiam, et utique locum illi qui sit infra
+Deum. In loco ergo materia. Si in loco, ergo intra locum:
+si intra locum, ergo determinatur a loco, intra
+<pb n="0232B"/>
+quem est: si determinatur, habet lineam extremam,
+quam, quantum proprie pictor, agnoscis finem esse
+omni rei, cujus linea extrema est. Non ergo erit infinita
+materia, quae dum in loco est, a loco determinatur,
+et dum determinatur ab illo, extrema eum
+linea patitur. At tu infinitam facis, dicens: Infinita est
+autem, eo quod semper est. Et si quis discipulorum
+tuorum voluerit argumentari, quasi infinitatem
+aevo, non modo corporis intelligi velis: atquin
+corporaliter infinitam, corporaliter immensam
+et incircumscriptam, sequentia ostendunt. Unde, inquis,
+nec tota fabricatur, sed partes ejus. Adeo corpore
+infinita, non tempore est. Et obduceris, corpore
+eam infinitam faciens, cum locum ei adscribens,
+intra locum et extremam loci lineam includis. Sed
+<pb n="0232C"/>
+tamen, cur non totam eam formaverit Deus, non scio
+nisi qua aut invalidus, aut invidus. Itaque dimidium
+ejus quae non tota formata sit quaero, ut qualis
+tota fuerit agnoscam. Debuerat enim Deus ut exemplarium
+ antiquitatis ad gloriam operis palam
+fecisse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIX.</head>
+<p>Sit nunc definitiva, sicut rectius tibi videtur, per demutationes
+<pb n="0233A"/>
+suas et translationes: sit et comprehensibilis,
+ut quae fabricatur, inquis, a Deo, quia et convertibilis,
+et demutabilis, et dispartibilis. Demutationes
+enim ejus, inquis, dispartibilem eam ostendunt.
+Et hic a lineis tuis excidisti, quibus circa personam
+Dei usus es, praescribens Deum illam non
+ex semetipso fecisse, quia in partes venire non posset
+qui sit aeternus et manens in aevum, ac per hoc
+immutabilis et indivisibilis. Si et materia eadem aeternitate
+censetur, neque initium habens neque finem,
+eadem ratione non poterit pati dispertitionem et demutationem,
+qua nec Deus. In aeternitatis consortio
+posita, participet cum illo necesse est et
+vires, et leges et conditiones aeternitatis. Aeque
+cum dicis: Partes autem ejus omnia simul ex omnibus
+<pb n="0233B"/>
+habent, ut ex partibus totum dignoscatur: utique
+eas partes intelligi vis, quae ex illa prolatae sunt, quae
+hodie videntur a nobis. Quomodo ergo omnia ex
+omnibus habent, utique ex pristinis, quando quae hodie
+videntur, aliter habeant quam pristina fuerunt?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XL.</head>
+<p>Dicis in melius reformatam materiam, utique
+de deterioribus: et vis meliora deteriorum exemplarium
+ferre. Confusa res erat, nunc vero composita
+est: et vis ex compositis incomposita praeberi. Nulla
+res speculum alterius rei, id est non coaequalis.
+Nemo se apud tonsorem pro homine mulum inspexit,
+nisi si qui putat in hac exstructione mundi,
+dispositae jam et comptae, informem et incultam
+materiam respondere. Quid hodie informe in mundo,
+<pb n="0233C"/>
+quid retro speciatum in materia, ut speculum sit
+mundus materiae? Cum ornamenti nomine sit penes
+Graecos <hi>mundus</hi>, quomodo inornatae materiae imaginem
+<pb n="0234A"/>
+refert, ut dicas totum ejus partibus cognosci?
+Certe ex illo toto erit etiam hoc, quod non
+venit in deformationem. Et supra edidisti non totam
+eam fabricatum. Igitur vel hoc rude et confusum
+et incompositum non potest in expolitis
+et distinctis et compositis recognosci, quae nec partes
+materiae appellari convenit, cum a forma ejus ex mutatione
+divisa recesserunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLI.</head>
+<p>Revertor ad motum, ut ubique te lubricum ostendam.
+Inconditus, et confusus, et turbulentus fuit materiae
+motus. Sic enim et ollae undique ebullientis similitudinem
+apponis. Et quomodo alibi alius a te
+adfirmatur? cum enim vis materiam nec bonam nec
+malam inducere. Igitur, subjacens materia aequalis momenti
+<pb n="0234B"/>
+habens motum, neque ad bonum, neque ad
+malum plurimum vergit. Si aequalis momenti, jam
+non turbulentus, nec cacabacius, sed compositus
+et temperatus; scilicet, qui inter bonum et
+malum suo arbitrio agitatus, in neutram tamen partem
+pronus et praeceps, mediae, quod aiunt, aginae
+  aequilibrato impetu ferebatur. Haec, inquies,
+non est, haec turbulentia et passivitas non
+est; sed moderatio, et modestia, et justitia motationis
+  neutram in partem inclinantis.
+Plane, si huc et illuc, aut in alterum magis proclinaret,
+tunc inconcinnitatis, et inaequalitatis, et turbulentiae
+denotari mereretur. Porro, si neque ad bonum,
+neque ad malum pronior erat motus, utique inter bonum
+et malum agebatur: ut ex hoc quoque materiam
+<pb n="0234C"/>
+determinabilem adpareat, cujus motus nec
+malo nec bono pronus, eo quod in neutrum vergebat,
+intra utrumque ab utroque pendebat,
+<pb n="0235A"/>
+et hoc nomine ab utroque determinabatur. Sed et
+bonum et malum in loco facis, cum dicis motum materiae
+in neutrum eorum fuisse propensum: materia
+enim quae in loco erat, neque huc neque illuc devergens,
+in loca non devergebat in quibus erat bonum
+et malum. Dans autem locum bono et malo, corporalia
+ea facis, faciendo localia; quia quae locum habent,
+prius est ut corporalia sint. Denique incorporalia
+proprium locum non haberent, nisi in corpore,
+cum corpori accidunt. Ad bonum autem et malum
+non devergente materia, ut aut corporalia aut localia
+non devergebat. Bonum ergo et malum, erras, si substantias
+esse vis. Substantias enim facis quibus loca
+assignas. Loca autem assignas, cum materiae motum
+ab utraque regione suspendis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLII.</head>
+
+<pb n="0235B"/>
+<p>Dispersisti omnia, ne de proximo quam contraria
+sibi sint relucerent. At ego colligam singula, et conferam.
+Inconditum adseveras motum materiae, eamque
+adjicis sectari informitatem: dehinc alibi, desiderare
+componi a Deo. Desiderat formationem quae
+sectatur informitatem, aut sectatur informitatem
+quae desiderat formationem? Non vis videri Deum
+aequari materiae, et subjicis habere illam cum
+Deo communionem. Impossibile enim, inquis, non
+habentem illam commune aliquid cum Deo, ornari
+eam ab ipso. Atquin, si commune aliquid habebat
+cum Deo, non desiderabat exornari ab ipso, pars
+scilicet Dei per communionem. Aut et Deus poterat
+ornari a materia, habendo cum illa aliquid et ipse
+<pb n="0235C"/>
+commune; et jam in hoc necessitati subjicis Deum, si
+fuit aliquid in materia propter quod eam formaret.
+Commune autem inter illos facis, quod a semetipsis
+ et semper moventur. Quid minus materiae
+quam Deo adscribis? Totum consortium divinitatis
+hoc erit, libertas et aeternitas motus. Sed Deus composite,
+materia incondite moventur. Tamen divinum
+proinde, motu proinde libero et aeterno. Atquin plus
+materiae das, cui licuit sic moveri quomodo Deo non
+licuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLIII.</head>
+<p>De motu et illud notaverim. Nam, secundum ollae
+similitudinem, sic erat, inquis, materiae motus,
+<pb n="0236A"/>
+antequam disponeretur, concretus, inquietus, inapprehensibilis,
+prae nimietate certaminis. Dehinc subjicis:
+Stetit autem in Dei compositionem, et inapprehensibilem
+habuit conditum motum, prae tarditate
+inconditi motus. Supra certamen motui adscribis,
+hic tarditatem. Nam de natura materiae quoties
+cadas, accipe. Supra dicis: Si autem esset
+materia natura mala, non accepisset translationem
+in melius, nec Deus aliquid compositionis accommodasset
+illi; in vacuum enim laborasset. Finisti igitur
+duas sententias, nec materiam natura malam, nec naturam
+ejus a Deo potuisse converti. Horum immemor,
+postea infers: At ubi accepit compositionem a
+Deo et ornata est, cessavit a natura. Si in bonum
+reformata est, utique de malo reformata est; Et si
+<pb n="0236B"/>
+per compositionem Dei cessavit a natura mali, natura
+cessavit ergo, et mala fuit natura ante compositionem,
+et desinere potuit a natura post reformationem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLIV.</head>
+<p>Sed et qualiter operatum facias Deum, sequitur ut
+ostendam. Plane a philosophis recedis, sed tamen et
+a prophetis. Stoici enim volunt Deum sic per materiam
+decucurrisse, quomodo mel per favos. At tu:
+Non, inquis, pertransiens illam facit mundum, sed
+solummodo apparens et appropinquans ei, sicut facit
+qui decor solummodo apparens, et magnes lapis
+solummodo appropinquans. Quid simile Deus fabricans
+mundum, et decor vulnerans animum, aut
+magnes adtrahens ferrum? Nam etsi apparuit Deus
+<pb n="0236C"/>
+materiae, sed non vulneravit illam, quod decor animam:
+et si adpropinquavit, sed non cohaesit illi,
+quod magnes ferro. Puta nunc exempla tua competere.
+Certe, si apparendo et appropinquando
+materiae, fecit ex illa Deus mundum, utique ex
+quo apparuit fecit, et ex quo appropinquavit.
+Ergo quando non fecerat retro, nec apparuerat
+illi, nec adpropinquaverat. Et cui credibile est,
+Deum non apparuisse materiae? vel qua consubstantiali
+suae per aeternitatem? ab ea longe fuisse quem
+credimus ubique esse, et ubique apparere? cui
+etiam inanimalia et incorporalia laudes canunt
+apud Danielem <note>(Dan., III)</note>. Quantus hic locus, in
+<pb n="0237A"/>
+quo Deus a materia tantum distabat, ut neque adpareret
+neque adpropinquaret ante mundi molitionem?
+Credo, peregrinatus est ad illam de longinquo,
+cum primum ei voluit adparere et adpropinquare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XLV.</head>
+<p>At enim prophetae et apostoli non ita tradunt
+mundum a Deo factum, apparente solummodo et appropinquante
+materiae, qui nec materiam ullam nominaverunt,
+sed primo Sophiam conditam <hi>initium viarum in opera ipsius 
+ <note>(Prov., VIII, 22)</note>
+            </hi>: dehinc et <hi>sermonem</hi> 
+ prolatum, <hi>per quem omnia facta sunt, et
+sine quo factum est nihil <note>(Joan., I, 3)</note>
+            </hi>. Denique <hi>sermone
+ejus coeli confirmati sunt, et spiritu ipsius universae
+virtutes eorum <note>(Ps. XXXIII, 6)</note>
+            </hi>. Hic est <hi>Dei dextera et manus ambae per quas operatus est ea
+<pb n="0237B"/>
+quae 
+ molitus est <note>(Is., XLVIII, 13)</note>
+            </hi>. <hi>Opera</hi> enim <hi>manuum tuarum,</hi> 
+ inquit, <hi>coeli <note>(Ps. CII, 26)</note>
+            </hi>; <hi>per
+quas et mensus est terram, et palmo coelum <note>(Is.
+XL, 12)</note>
+            </hi>. Noli ita Deo adulari, ut velis illum
+solo visu et solo accessu tot ac tantas substantias
+protulisse, et non propriis viribus instituisse. Sic
+enim et Jeremias commendat; <hi>Deus faciens terram
+in valentia sua, parans orbem intelligentia sua, et suo
+sensu extendit coelum <note>(Jerem., LI, 15, Ps. LXIV, 7)</note>
+            </hi>.
+Hae sunt vires ejus, quibus enixus, totum hoc condidit.
+Major est gloria ejus, si laboravit. Denique <hi>septima die
+requievit ab operibus <note>(Gen. II, 2)</note>
+            </hi>. Utrumque suo more.
+Aut si adparens solummodo et adpropinquans fecit
+hunc mundum, numquid cum facere desiit, rursus
+<pb n="0238A"/>
+adparere et adpropinquare cessavit? Atquin magis
+apparere coepit, et ubique conveniri Deus, ex quo
+factus est mundus. Vides ergo quemadmodum operatione
+Dei universa consistunt, <hi>valentia</hi> facientis
+terram, <hi>intelligentia</hi> parantis orbem, et <hi>sensu</hi> 
+extendentis coelum: non adparentis solummodo, nec
+adpropinquantis, sed adhibentis tantos animi sui nisus,
+sophiam, valentiam, sensum, sermonem, spiritum,
+virtutem: quae illi non erant necessaria,
+si adparendo tantummodo et adpropinquando
+profectus fuisset. Haec autem sunt <hi>invisibilia
+ejus,</hi> quae secundum apostolum <hi>ab institutione
+mundi</hi> de factis ejus <hi>conspiciuntur <note>(Rom., II, 20)</note>
+            </hi>,
+non materiae nescio quae, sed
+sensualia ipsius. <hi>Quis enim cognovit sensum Domini?</hi> 
+<pb n="0238B"/>
+De quo exclamat: <hi>O profundum divitiarum et sophiae,
+ut inventibilia judicia ejus, et ininvestigabiles
+viae ejus! <note>(Rom. XI, 33)</note>
+            </hi>. Quid haec magis sapiunt,
+quam ut ex nihilo omnia facta sint? quae nec invenire
+nec investigari nisi a solo Deo possent; alioqui
+investigabilia, si ex materia sunt investigata et inventa.
+Igitur in quantum constitit materiam nullam
+fuisse, ex hoc etiam quod nec talem competat fuisse
+qualis inducitur, in tantum probatur omnia a
+Deo ex nihilo facta, nisi quod Hermogenes cumdem
+statum describendo materiae, quo est ipse, inconditum,
+confusum, turbulentum, ancipitis et praecipitis
+et fervidi motus, documentum artis suae
+dum ostendit, ipse se pinxit.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,2221 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Joseph Patriarcha</title>
+              <author ref="http://viaf.org/viaf/100227669">Ambrosius Mediolanensis<date>340-397</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 14</title>
+           <idno>AmbMed.DeJoPa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De Joseph Patriarcha</head>
+
+<pb n="0641"/>
+<emph>483</emph> 
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p divs_removed="true"> <hi>Tractatus de Abraham, Isaac, et Jacob, cur sancti Joseph
+sequatur historia. Hic ille tamquam speculum
+castitatis proponitur; ubi etiam de parentum amore,
+ac fratrum invidentia adversus eum, nec non de ejusdem
+oblivione injuriarum paucis agitur.</hi> 
+<pb n="0641A"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ Sanctorum vita caeteris norma vivendi est. Ideoque
+digestam plenius accipimus seriem Scripturarum;
+ut dum Abraham, Isaac, et Jacob, caeterosque
+justos legendo cognoscimus, velut quemdam nobis innocentiae
+tramitem virtute eorum reseratum enitentibus
+vestigiis persequamur. De quibus mihi cum
+frequens tractatus fuerit, hodie sancti Joseph historia
+occurrit. In quo cum plurima fuerint genera
+virtutum; tum praecipue insigne effulsit castimoniae.
+Justum est igitur ut cum in Abraham didiceritis impigram
+fidei devotionem, in Isaac sincerae mentis
+puritatem, in Jacob singularem animi laborumque
+patientiam; ex illa generalitate virtutum in ipsas
+species disciplinarum intendatis animum. Nam licet
+illa sint diffusiora; tamen ista expressiora sunt, et
+<pb n="0642A"/>
+quae eo facilius mentem penetrent, quo magis circumscripta
+ac determinata sunt.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Sit igitur nobis propositus sanctus Joseph,
+tamquam speculum castitatis. In ejus enim moribus,
+in ejus actibus lucet pudicitia, et quidam splendet
+castimoniae comes nitor gratiae. Unde etiam a parentibus
+plus quam caeteri filii diligebatur. Sed ea res
+invidiae fuit, quod silentio praetereundum non fuit. <emph>484</emph>
+</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Hinc ergo argumentum totius historiae processit;
+simul ut cognoscamus perfectum virum non
+moveri uliscendi doloris injuria, nec malorum
+rependere vicem. Unde et David ait: <hi>Si reddidi retribuentibus 
+mihi mala <note>(Psal. VII, 5)</note>
+            </hi>. Quid autem esset
+quo praeferri Joseph mereretur caeteris, si aut
+laedentes laesisset, aut diligentes dilexisset? Hoc
+enim plerique faciunt. Sed illud mirabile, si diligas
+inimicum tuum, quod Salvator docet <note>(Matth. V, 44)</note>.
+Jure ergo mirandus, qui hoc fecit ante Evangelium;
+ut laesus parceret, appetitus ignosceret, venditus
+non referret injuriam, sed gratiam pro contumelia
+solveret; quod post Evangelium omnes didicimus, et
+servare non possumus.
+</p>
+          </div3>
+<div3>
+            <head>4. </head>
+<p>
+              <pb n="0643A"/>Discamus ergo et sanctorum invidiam; ut imitemur
+patientiam: et cognoscamus illos non naturae
+praestantioris fuisse, sed observationis; nec vitia
+nescisse, sed emendasse. Quod si invidia etiam
+sanctos adussit, quanto magis cavendum est ne inflammet
+peccatores?</p>
+          </div3>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Aequalem esse debere parentum affectum, et filiorum
+gratiam. Excusatur tamen B. Jacob, ut qui Joseph
+pluribus virtutibus ornatum aliis praetulerit; immo
+etiam prophetiae gratia jam tunc praeditum, uti somnia
+ejus, quae hic relata exponuntur, declarant.</hi> </p>
+<div3>
+            <head>5.</head>
+            <p>
+ Instruimur igitur qualis esse debeat affectus parentum,
+filiorumque gratia. Amare liberos dulce;
+<pb n="0643B"/>
+et impensius amare praedulce: sed frequenter amor
+ipse patrius, nisi moderationem teneat, nocet liberis;
+si aut nimia indulgentia dilectum resolvat,
+aut praelatione unius caeteros ab affectu germanitatis
+avertat. Plus acquiritur filio, cui fratrum amor acquiritur.
+Haec <emph>485</emph> praeclarior munificentia patrum, haec
+ditior haereditas filiorum. Jungat liberos aequalis gratia,
+quos junxit aequalis natura. Lucrum pietas nescit
+pecuniae, in quo pietatis dispendium est. Quid
+miraris si propter fundum aut domum oriuntur inter
+fratres jurgia, quando propter tunicam inter Jacob
+sancti filios exarsit invidia?</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Quid ergo? Reprehendendus Jacob quia praeferebat
+unum caeteris? Sed nec libertatem possumus
+auferre parentibus; ne eos plus diligant quos plus
+<pb n="0643C"/>
+credant mereri: nec filiis resecare debemus studium
+plus placendi. Denique et Jacob illum plus amabat,
+in quo majora virtutum insignia praevidebat; ut non
+tam filium pater praetulisse videatur, quam propheta
+mysterium: meritoque variam tunicam fecit ei, quo
+significaret eum diversarum virtutum amictu fratribus
+praeferendum.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Denique in puero adhuc refulsit divina gratia.
+Siquidem somniavit quod cum alligasset, ut sibi videbatur
+per visum, manipulos cum fratribus suis,
+surrexerit manipulus ejus, et steterit erectus: conversi
+autem fratrum manipuli, adoraverint manipulum
+suum <note>(Gen. XXXVII, 7)</note>. In quo utique futura
+resurrectio Domini Jesu revelata est, quem et Hierosolymis
+cum vidissent, undecim adoravere discipuli,
+<pb n="0643D"/>
+et omnes sancti cum resurrexerint, adorabunt,
+fructus bonorum operum praeferentes, sicut
+scriptum est: <hi>Venientes autem venient cum exsultatione,
+tollentes manipulos suos <note>(Ps. CXXV, 6)</note>
+            </hi>. Unde
+fratres, licet somnii fidem per invidiam derogarent,
+interpretationem tamen ejus propriis sermonibus
+exprimentes, responderunt ei: <hi>Numquid regnando
+regnaturus es nobis, aut dominando dominaturus es
+nobis <note>(Gen. XXXVII, 8)</note>
+            </hi>? Regem enim venturum visio
+<pb n="0644A"/>
+illa significabat, quem omnis caro generis humani
+inflexo adoraret genu.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Vidit autem aliud somnium, et narravit illud
+patri suo et fratribus suis, eo quod sol et luna et
+undecim stellae adorarent eum. Unde <hi>objurgavit illum
+pater ejus dicens: Quid ergo erit hoc visum quod
+somniasti? Numquid venientes ego et mater tua et fratres
+tui adorabimus te super terram <note>(Ibid., 10)</note>
+            </hi>? Quis
+est ille quem parentes et fratres adoraverunt super
+terram, nisi Christus Jesus, quando eum Joseph et
+mater cum discipulis adorabant, Deum verum in
+illo corpore confitentes, de quo solo dictum est: <hi>Laudate eum, sol et luna; laudate eum, omnes stellae et
+lumen 
+ <note>(Ps. CXLVIII, 3)</note>
+            </hi>? Objurgatio autem patris quid
+significat, nisi duritiam populi Israel, ex quibus
+<pb n="0644B"/>
+Christus secundum carnem, quem hodieque Deum
+esse non credunt, nec volunt adorare quasi Dominum,
+quia ex se natum cognoscunt? Audiunt itaque
+responsa ejus, sed non intelligunt: legunt ipsi quod
+eum sol et luna laudant, et nolunt credere de Christo
+Jesu dictum esse. Itaque Jacob typo fallitur alieno:
+sed suo amore non fallitur. Pietas in eo paterna non
+errat: sed erraturae plebis affectus exprimitur.
+<emph>486</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Quod supra Jacob dictus sit Josephum objurgasse, id
+non fecisse ob incredulitatem: quando futurae Incarnationis
+praescius eumdem ad fratres misit. Joseph
+postquam erravit in agro, venit in Dothaim. Eum
+fratres e longe videntes interimere cogitant: sed
+mutato consilio vendunt Ismaelitis. Et haec, itemque
+tunicae cruentatio, et lacus ariditas, mysterio passionis
+adaptantur.</hi> 
+<pb n="0644C"/>
+          </p>
+<div3>
+            <head>9.</head>
+            <p>
+ Non ergo tanto somnio Patriarcha non credidit,
+qui utrumque pariter gemino prophetabat oraculo;
+ut et personam justi repraesentaret et populi,
+quod Dei Filius venturus esset in terras, qui et diligeretur
+a justis, et negaretur a perfidis. Videbat igitur
+futurae Incarnationis mysteria, qui filium mittebat
+ad fratres <note>(Gen. XXXVII, 14)</note>; ut videret si
+recte sunt oves. Quas oves Deus jam tunc in illo
+Patriarchae studio requirebat, nisi eas de quibus
+ipse Dominus Jesus in Evangelio dixit: <hi>Non veni
+nisi ad oves perditas domus Israel <note>(Matth. XV, 24)</note>
+            </hi>? <hi>Et misit,</hi> 
+ inquit, <hi>in Sichem <note>(Gen. XXXVII, 13)</note>
+            </hi>, quod
+<pb n="0644D"/>
+interpretatione dicitur humerus, sive dorsum, hoc
+est, ad eos qui non converterentur ad Dominum,
+sed fugientes se a facie ejus averterent; quod est
+proprie peccatoris. Exiit Cain a facie Dei. Et Propheta
+dicit: <hi>Pones eos dorsum <note>(Ps. XX, 13)</note>
+            </hi>. Justus
+autem non se avertit a Domino, sed occurrit dicens: <hi>Oculi mei semper ad Dominum 
+ <note>(Ps. XXIV, 15)</note>
+            </hi>. Et
+Esaias dicenti Domino: <hi>Quem mittam <note>(Esai. VI, 8)</note>
+            </hi>?
+sponte se obtulit dicens: <hi>Ecce ego.</hi> Et Simeon exspectavit
+<pb n="0645A"/>
+ut videret Christum Domini, et posteaquam
+vidit, quoniam remissorem peccatorum, et totius
+mundi viderat redemptorem, quasi levatus a
+peccato, poposcit usu carnis hujus absolvi, dicens: <hi>Nunc, Domine, dimitte servum tuum in pace; quoniam
+viderunt oculi mei salutare tuum 
+ <note>(Luc. II, 30 et 31)</note>
+            </hi>.
+Et Zachaeus hinc primum suae praerogativam commendationis
+invenit, quod in arborem ut Christum
+videret, ascendit. Ergo Joseph a patre missus est
+ad fratres, ab illo magis Patre, qui proprio Filio non
+pepercit, sed pro nobis omnibus tradidit illum: ab
+illo Patre, de quo scriptum est: <hi>Deus Filium suum
+mittens in similitudinem carnis peccati <note>(Rom. VIII, 3)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Et errabat Joseph, quia fratres suos invenire
+non poterat <note>(Gen. XXXVII, 15)</note>. Non immerito errabat,
+<pb n="0645B"/>
+qui quaerebat errantes; eos enim agnoscit Dominus
+qui sunt ipsius. Denique et Jesus fatigatus ex
+itinere sedebat supra puteum. Fatigabatur, quia non
+inveniebat Dei populum quem quaerebat; exierat
+namque a facie Domini. Qui enim culpam sequitur,
+exit a Christo. Peccator exit, justus intrat. Denique
+Adam se peccator abscondit; justus autem dicit: <hi>Intret oratio mea in conspectu tuo 
+ <note>(Psal. LXXXVII, 3)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Invenit autem Joseph fratres suos in Dothaim,
+quod significat defectionem. Ubi est enim nisi in
+defectione qui Deum deserit? Nec mirum si deficiebant,
+qui non audiebant dicentem: <hi>Venite ad me
+omnes qui laboratis, et onerati estis, et ego vos reficiam <note>(Matth. XI, 28)</note>
+            </hi>.
+Venit igitur Joseph in Dothaim: <hi>Et praeviderunt eum de longe venientem, antequam
+<pb n="0645C"/>
+appropiaret ad illos, et insaeviebant, ut occiderent
+illum 
+ <note>(Gen. XXXVII, 18)</note>
+            </hi>. Merito longe erant,
+qui erant in defectione, et ideo insaeviebant, quia
+non appropiaverat iis Christus. Nam si appropiasset
+his typus <emph>487</emph> Christi, fratrem utique dilexissent;
+sed prope esse non poterant, qui parricidium cogitabant. <hi>Ecce,</hi> 
+ inquiunt, <hi>somniator ille venit: nunc
+ergo venite, occidamus eum <note>(Ibid., 19)</note>
+            </hi>. Nonne haec
+verba dicebant, qui de parricidali sacrilegio cogitabant?
+Sicut de ipsis Salomon ait: <hi>Tollamus justum,
+quia inutilis est nobis <note>(Sap. II, 12)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Et addiderunt in Genesi: <hi>Et videbimus quid
+proderunt somnia illius <note>(Gen. XXXVII, 20)</note>
+            </hi>. Hoc scriptum
+est de Joseph, completum est de Christo, quando
+Judaei in ejus passione dixerunt: <hi>Si rex Israel est,
+<pb n="0645D"/>
+descendat nunc de cruce, et credimus ei. Confidit in
+Deum, liberet nunc eum, si vult <note>(Matth. XXVII, 42)</note>
+            </hi>.
+Numquid et ipsi fratres tam impii, ut fratrem occiderent?
+<pb n="0646A"/>
+Et unde tantorum merita patriarcharum
+ut Lex Tribus totius plebis eorum vocabulis designaret?
+Quomodo conveniunt pietatis nomina, et sceleris
+insignia? Sic etiam isti typo populi, non animi
+sui vitio laborabant. Inde omnis invidia, inde parricidii
+meditatio: invidia per figuram, pietas per affectum.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Denique Ruben et Judas germanitatis pia jura
+servantes, de manibus caeterorum eum liberare cupiebant,
+meritoque Judas paterna benedictione praefertur,
+cum ei dicitur: <hi>Adorabunt te filii patris tui.
+Catulus Leonis Juda, et ipse erit exspectatio gentium <note>(Gen. XLIX, 8 et 9)</note>
+            </hi>.
+Quod utique soli convenit Christo,
+cui repositum fuit ut adoraretur a fratribus, et
+exspectaretur a gentibus, lavaret in vino stolam
+<pb n="0646B"/>
+suam proprii corporis passione, quia carnem suam
+nulla peccati labe maculavit. Aser quoque non utique
+sibi convenire credebat. Aser pinguis panis ejus,
+et ipse Aser cum principibus. Quid vero ipse Joseph,
+cui dictum est: <hi>Filius ampliandus meus Joseph, filius
+ampliandus meus: zelatus filius meus, filius meus adolescentior,
+ad me revertere <note>(Ibid., 22)</note>
+            </hi>? In quem consilium
+conferentes maledicebant, in quo benedictio
+praevaluit super benedictionibus montium manentium,
+et desideriis collium aeternorum. Quem significari
+in se intelligebant, nisi illum qui omnium merita
+supereminens, supra omnium desideria sanctorum
+immensae teneret apicem potestatis, quem voto
+nullus aequaret? Compensatur ergo in patriarchis invidia
+per gratiam, qui et excusantur a culpa, et
+<pb n="0646C"/>
+revelationis munere consecrantur. Non enim tam
+culpabile est dixisse quae plebis sunt, quam beatum
+vidisse quae Christi sunt. Subierunt personam peccatoris
+populi, ut acciperent gratiam Domini redemptoris.
+Certe culpam abolevit gratia, gratiam culpa
+non minuit.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Et ut cognoscamus omne hoc de populo et de
+Domino Jesu mysterium esse: <hi>Venite,</hi> inquit, <hi>vendamus
+Joseph Ismaelitis <note>(Gen. XXXVII, 27)</note>
+            </hi>. Quid interpretationis
+habet nomen Joseph, nisi quod divinam
+gratiam <emph>488</emph> significet, et expressionem Dei
+summi? Quis igitur venditur, nisi ille <hi>qui cum in
+forma Dei esset, non rapinam arbitratus est esse se
+aequalem Deo: sed semet ipsum exinanivit, formam
+servi accipiens <note>(Philip. II, 6 et 7)</note>
+            </hi>? Neque enim nos
+<pb n="0646D"/>
+eum emissemus, nisi vendidissent eum. Quem sui
+male vendiderunt, alieni pejus emerunt. Vendiderunt
+negotiatoribus bonum odorem, emerunt a
+<pb n="0647A"/>
+proditoribus. Vendidit eum Judas, emerunt Ismaelitae,
+qui significantur Latina interpretatione, odio
+habentes Deum suum. Ideo alibi viginti, alibi viginti
+et quinque aureis, alibi triginta invenimus emptum
+Joseph; quia non omnibus unius aestimatione pretii
+valet Christus. Aliis minus, aliis amplius. Fides
+ementis, incrementum est mercis: religiosiori pretiosior
+est Deus, peccatori pretiosior est redemptor.
+Pluris et illi valet qui plus habet gratiae: sed etiam
+cui multa donata sunt, pluris valet; quia cui plus
+remissum est, plus diligit, sicut ipse Dominus in
+Evangelio pronuntiavit de illa muliere quae super
+ejus pedes effudit unguentum, et lacrymis lavit, et
+capillis suis tersit, et osculis siccavit, de qua ait ad
+Simonem: <hi>Propter quod dico tibi: Remissa sunt ei
+<pb n="0647B"/>
+peccata multa, quoniam dilexit multum. Cui autem
+minus dimittitur, minus diligit <note>(Luc. VII, 47)</note>
+            </hi>. Interdum
+diversitates pretii non solum quantitatis habent,
+sed etiam numeri expressionem; sicut habes
+de unguento quod ad sepeliendum se Dominus fusum
+esse memoravit, sicut scriptum est dicente Juda: <hi>Potuit hoc venumdari denariis trecentis 
+ <note>(Marc. XIV, 5)</note>
+            </hi>.
+Quo numero non quantitatis, sed significatio crucis
+videtur expressa. Ita hic quoque diversitas vel viginti
+vel triginta aureorum vel argenteorum, habet
+vel geminatae vel triplicatae perfectionis indicium.
+Nam viginti quinque aurei, jubilaei qui est remissionis
+numerus, significant pretiosissimam portionem.
+Hic quoque, ut Dominicae passionis figuram
+advertas, ait Judas patriarcha: <hi>Tradamus Joseph
+<pb n="0647C"/>
+Ismaelitis: at manus nostrae non sint injectae super
+eum <note>(Gen. XXXVII, 27)</note>
+            </hi>. Et bene superius dixerat: <hi>Manus autem nolite inferre illi 
+ <note>(Ibid., 22)</note>
+            </hi>. Quod Judaei
+in Domini passione dixerunt: <hi>Nobis non licet
+interficere quemquam <note>(Joan. XVIII, 32)</note>
+            </hi>; ut sermo Jesu
+impleretur, significans qua morte moriturus esset.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Jam tunc ergo crucis futurae praefigurabatur
+insigne; simul et quod exutus est tunica <note>(Gen. XXXVII,
+23)</note>, id est, carne quam assumpsit exutus est, decora
+diversitate virtutum. Ergo tunica ejus, id est, caro,
+non divinitas cruentata est: et indumentum ei carnis,
+non immortalitatem vitae auferre potuerunt. Hanc
+tunicam Judaicae bestiae cruentaverunt, illae de quibus
+dicit: <hi>Ecce ego mitto vos sicut agnos inter lupos <note>(Luc. X, 3)</note>
+            </hi>.
+<pb n="0647D"/>
+</p>
+          </div3>
+<div3>
+            <head>16. </head>
+            <p>
+Quod autem lacus siccus erat <note>(Gen. XXXVII,
+24)</note>, quid mirum si Judaeorum lacus aquam non habet,
+qui dereliquerunt <emph>489</emph> fontem aquae vivae, et
+fecerunt sibi lacus contritos? Et ut scias verum hoc
+esse mysterium, ipse de se Dominus ait: <hi>Posuerunt
+me in lacu inferiori, in tenebris, et in umbra mortis <note>(Psal. LXXXVII, 7)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Illi igitur emunt Christum qui bonos odores
+<pb n="0648A"/>
+deferunt, thymiama quo adolent altaria piae mentis.
+Unde et David graece hoc modo ait: <foreign xml:lang="greek">Κατευθυνθήτω ἡ
+προσευχή μου ὡς θυμίαμα ἐνώπιόν σου</foreign> <note>(Ps. CXL, 2)</note>.
+Resinam quoque qua marmora confracta sociantur,
+est resina spiritalis quae fracturas animae tuae solidet,
+et divulsa connectat, resoluta constringat. Haec
+enim spiritalis resina corroborat, et quaedam comminuta
+animae membra componit, ut sine offensione
+socientur. Denique Jeremias hanc quaerit resinam,
+ut Babyloniam curet sanare, si possit, dicens: <hi>Accipite
+resinam corruptioni ejus, si quo modo sanabitur.
+Curavimus Babyloniam, et sanata non est <note>(Jer. LI, 8
+et 9)</note>
+            </hi>. Non est sanata Synagoga, quia resina ista migravit
+ad Ecclesiam. Ideo ex Galaad veniebant negotiatores,
+hoc est, de possessione vel incolatu testimonii,
+<pb n="0648B"/>
+merces suas ad Ecclesiam transferentes,
+ut gentium peccata resina ista curaret. De quibus dicitur: <hi>Convalescite, manus demissae, et genua dissoluta <note>(Esa. XXXV, 3)</note>
+            </hi>.
+Fides sincera resina est. Hanc
+adhibebat Petrus, cum diceret claudo: <hi>In nomine
+Jesu Christi Nazareni surge et ambula <note>(Act. III, 6)</note>
+            </hi>;
+meritoque surrexit, et ambulavit. Hanc habebat cum
+diceret paralytico: <hi>Aenea, sanet te Dominus Jesus
+Christus: surge et sterne tibi. Et surrexit, et stravit sibi <note>(Act. IX, 34)</note>
+            </hi>.
+Hanc habebat, cum diceret mortuae: <hi>Surge in nomine Domini nostri Jesu Christi. Et defuncta
+surrexit 
+ <note>(Ibid., 4)</note>
+            </hi>. Hujus resinae temperamento lapides
+illi de quibus potens est Dominus resuscitare filios
+Abrahae, compaginantur. Hujus resinae medicamento
+claudus erigitur, paralyticus reformatur, mortua resuscitatur.
+<pb n="0648C"/>
+</p>
+          </div3>
+<div3>
+            <head>18. </head>
+            <p>
+Illud quoque quod haedi sanguine resperserunt
+tunicam ejus <note>(Gen. XXXVII, 32)</note>, videtur significare
+quoniam falsis testimoniis appetentes, in invidiam
+deduxere peccati omnium peccata donantem.
+Nobis agnus est, illis haedus. Nobis agnus Dei occisus
+est, quibus abstulit peccatum mundi: illis haedus,
+quorum acervavit errores, delicta cumulavit.
+Ideoque ait: <hi>Implete mensuram patrum vestrorum <note>(Matth. XXIII, 32)</note>
+            </hi>.
+Meritoque Jacob posteritatis suae
+deplorans dispendia, quasi pater filium flebat amissum,
+quasi propheta lugebat interitum Judaeorum.
+Denique scidit etiam vestimenta sua: quod in passione
+Domini factum legimus <note>(Matth. XXVI, 65)</note> a
+principe sacerdotum, in quo esset non privata persona,
+<pb n="0648D"/>
+sed publici munus officii. Et velum templi
+scissum est <note>(Matth. XXVII, 51)</note>; ut profanata mysteria,
+nudatum populum salutaribus indumentis, divisum
+regnum talibus manifestaretur insignibus destruendum;
+quia omne regnum divisum facile destruetur.
+Et vere divisum, quando hoc quod erat
+Christi, coepit esse etiam diaboli. Neque enim poterant
+indivisi manere, qui a Patre Filium separabant.
+<emph>490</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Joseph ducitur in Aegyptum, atque a praeposito coquorum
+emitur, in quo Christi sua servitute nos liberantis
+figura est. In eodem ostenditur in ipsa captivitate
+libertatem posse retineri: nec non in libertate
+reperiri captivitatem. Denique omnibus in exemplum
+Joseph proponitur.</hi> 
+<pb n="0649A"/>
+          </p>
+<div3>
+            <head>19.</head>
+            <p>
+ Venditus est ergo Joseph, ductus in Aegyptum,
+emptus a praeposito coquorum. Non otiosa persona
+quae cruda ciborum coqueret, ut epularentur
+animi fidei suavitate. Nullus enim cibus scientia et
+doctrina dulcior. Erat ante in Aegypto cruda perfidia,
+quam nullus divinae cognitionis ardor, et verae
+scientiae cupiditas nulla molliverat, non eloquia Domini
+ignita decoxerant. Venditus est autem Joseph
+<pb n="0649B"/>
+in Aegypto, quia Christus venturus erat ad eos quibus
+dictum est: <hi>Peccatis vestris venditi estis <note>(Esa. L,
+1)</note>
+            </hi>. Et ideo suo sanguine redemit, quos propria peccata
+vendiderant. Sed venditus Christus conditionis
+susceptione, non culpae, peccati pretio tenetur; quia
+peccatum ipse non fecit. Pretio igitur nostrum debitum,
+non sua aera contraxit, chirographum sustulit,
+feneratorem removit, exuit debitorem: unus exsolvit
+quod ab omnibus debebatur. Non licebat nobis
+exire servitio. Suscepit hoc ille pro nobis, ut servitutem
+mundi repelleret, libertatem paradisi restitueret,
+gratiam novam consortii sui honore donaret. Hoc
+de mysterio.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Caeterum quod ad moralem pertinet locum,
+quia omnes vult salvos fieri Dominus Deus noster,
+<pb n="0649C"/>
+dedit per Joseph etiam iis qui sunt in servitute solatium:
+attribuit magisterium; ut discerent etiam in
+ultima conditione posse mores esse superiores, nec
+ullum statum immunem esse virtutis, si animus se
+uniuscujusque cognoscat; carnem servituti subditam
+esse, non mentem; multosque servulos
+esse dominis liberiores, si in servitute positi a servilibus
+putent operibus abstinendum. Servile est
+omne peccatum, libera est innocentia. Unde et Dominus
+ait: <hi>Omnis qui facit peccatum, servus est peccati <note>(Rom. VI, 16)</note>
+            </hi>.
+Quomodo enim non servus omnis
+avarus, qui pro exigno pecuniae lucello se ipsum
+auctionatur? Timet omnia, ne congesta amittat,
+qui non utenda congessit, majore periculo servaturus
+quo majora quaesivit. Quomodo non mendicus,
+<pb n="0649D"/>
+cui sunt parva quae possidet? Nam etsi mihi dives
+videatur, sibi eget: nec testimoniis sua vota solatur,
+<pb n="0650A"/>
+qui quod optat nescit credere. Quomodo autem non
+et ille servus, qui subditus est libidini? Primum suis
+ardet incendiis, et pectoris sui facibus exuritur.
+Quibus recte dicit propheta: <hi>Ambulate in lumine
+ignis vestri, et in flamma quam accendistis <note>(Esai. L, 11)</note>
+            </hi>.
+Suscipit omnes metus, insidiatur somno singulorum:
+ut unius cupiditate potiatur, fit servus omnium. Servit
+igitur hanc miseram quidem servitutem, qui <emph>491</emph> 
+ipse sibi dominos facit, ipse vult habere quos timeat.
+Nihil enim tam speciale servitutis est, quam semper
+timere. Ille vero in quavis conditione servitii semper
+liber, qui mundi amore non capitur, avaritiae vinculis
+non tenetur, metu criminis non alligatur, qui
+securus spectat praesentia, quem futura non terrent.
+Nonne videtur tibi iste in servitute dominari: ille
+<pb n="0650B"/>
+autem in libertate servire? Serviebat Joseph, regnabat
+Pharao: beatior hujus servitus, quam regnum
+illius. Denique tota Aegyptus collapsa esset fame,
+nisi regnum suum consilio servuli subdidisset.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Habent igitur unde glorientur originis servuli,
+servivit et Joseph. Habent unde se consolentur qui
+ex libertate in servitutem aliqua necessitate venerunt.
+Habent quod imitentur, ut discant conditionem se
+mutare posse, non mores: esse et in vernaculis libertatem,
+et in servitute constantiam. Habent etiam
+domini quod per servulos bonos sperent. Abraham
+filio per vernaculum invenit uxorem. Benedixit Dominus
+domum Aegyptii propter Joseph, et facta est
+benedictio Domini in toto censu ejus, et in domo et
+in agris. <hi>Et convertit,</hi> inquit, <hi>omnia quaecumque
+illi
+<pb n="0650C"/>
+erant, in manus Joseph <note>(Gen. XXXIX, 4)</note>
+            </hi>. Advertimus
+quod ea quae domini gubernare non poterant,
+servuli gubernarunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Josephi ob pulchritudinem, sed magis ob pudicitiam
+commendatio. Is nulla sua culpa adamatus a domina,
+ac de stupro compellatus, eam repellit, rejectisque
+vestibus ornatior fugit: illa vero dum eas retinet,
+atque insontem criminatur, ignominiam suam
+nudat. Tamen mittitur Joseph in carcerem: at ibi
+divino praesidio non destituitur.</hi> </p>
+<div3>
+            <head>22.</head>
+            <p>
+ Sed quid de privata domo dispositionis ejus
+servuli astruam, qui rexit imperium? Plus tamen
+est quod ipse ante se rexit; et cum esset decorus
+<pb n="0650D"/>
+aspectu, et speciosus facie valde, venustatem sui
+vultus ad alienam non derivavit injuriam, sed ad
+<pb n="0651A"/>
+suam servavit gratiam: hoc se pulchriorem ratus,
+si non dispendio castitatis, sed cultu pudoris speciosior
+probaretur. Illum esse verum decorem, qui
+non alienos oculos caperet, nec fragiles mentes vulneraret,
+sed judicia acquireret universorum, fraudi
+nullis futurus, laudi sibi. Jam si qua petulantibus
+aspexit oculis, illius crimen solius est quae male vidit,
+non hujus qui male se nollet videri; nec in eo
+quod visus est, culpa est. Non erat in potestate servuli
+ut non videretur: maritus debuit cavere oculos
+uxoris. Si ille nihil timebat de conjuge, arbitrabatur
+iste testimonium esse castimoniae, non remissionem
+incuriae. Discant tamen viri cavere etiam
+oculos feminarum. Adamantur enim et qui nolunt
+amari. Denique adamatus est Joseph, qui amantem
+contemneret. Et bene excusavit eum Scriptura dicens:
+<pb n="0651B"/> <hi>Immisit oculos uxor domini ejus in Joseph <note>(Gen. XXXIX, 7)</note>
+            </hi>,
+hoc est, non ipse <emph>492</emph> se ostentavit,
+nec cepit incautam: sed illa retia sua misit, et indagine
+sui capta est. Laqueos suos sparsit, et suis haesit vinculis.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Dixit autem illi: <hi>Dormi mecum <note>(Ibid.)</note>
+            </hi>. Prima
+adulterae oculorum tela sunt, secunda verborum.
+Sed qui non capitur oculis, potest verbis resistere.
+Suppetit defensio, ubi adhuc liber affectus est. Ideo
+scriptum est quia ille noluit <note>(Ibid., 8)</note>. Primum igitur
+congressione mentis superavit, tamquam scuto animi
+irruentem repellens: deinde sermonem tamquam
+hastam vibravit, ut se illa revocaret. <hi>Et dixit uxori
+domini sui <note>(Ibid.)</note>
+            </hi>. Recte uxor domini, non ipsa domina
+dicitur quae non potuit extorquere quod voluit imperare.
+<pb n="0651C"/>
+Nam quomodo domina, quae dominandi non habebat
+effectum, quae disciplinam dominae non tenebat,
+quae servulis libidinis incentiva praestabat? Ille dominus
+qui amantis non excepit faces, qui lenocinantis
+vincla non sensit, quem nulla mortis formido
+perterruit, qui maluit liber criminis mori, quam
+potentiae criminosae eligere consortium. Ille liber,
+qui turpe credidit vicem gratiae non referre. Denique
+non ut meticulosus excusat, nec tamquam periculi
+timidus cavet: sed tamquam beneficii herilis et
+innocentiae suae debitor fugit crimen ingrati, peccatique
+labem et culpae contagium quasi justus horrescit.
+Tertium spiculum adultera interpellandi assiduitate
+vibrabat: sed Joseph non audiebat eam. Habes
+post prima verba quid caveas. Non solum lubrica,
+<pb n="0651D"/>
+sed etiam procax, importuna, petulans est libido,
+nec habet quod vereatur adultera. Quae dispendia
+pudoris prima non doluit, insidiatur ut capiat.</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Denique officii sui et commissi muneris ingressum
+gratia, remotis arbitris ac domesticis <note>(Ibid.,
+11)</note>, apprehendit eum dicens: <hi>Dormi mecum.</hi> Excusatur
+Joseph Scripturae testimonio, quia commissum
+a Domino nequibat deserere obsequium. Non enim
+<pb n="0652A"/>
+satis est quod securus sui, domus interiora, quasi qui
+capi non posset, ingressus est: justus debuit providere
+ne furenti copiam daret, et ejus illa peccato
+periret: sed qui adversari sibi domini sui videbat
+uxorem, neglecti officii etiam a domino cavere debebat
+offensam: simul adhuc sermonis, non comprehensionis
+putabat audaciam.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Excusatur quod ingressus est: praedicatur
+quod elapsus est, nec pluris fecit vestimenta corporis,
+quam animi castimoniam. Reliquit tamquam
+non sua, quae adultera suis manibus detinebat:
+et aliena judicavit, quae tactu impudicae potuerant
+comprehendi. Magnus tamen vir, qui venditus
+servile nescivit ingenium, adamatus non redamavit,
+rogatus non acquievit, comprehensus aufugit. Qui
+<pb n="0652B"/>
+cum ab uxore domini conveniretur, teneri veste potuit,
+animo capi non potuit: ac ne ipsa quidem verba
+diu passus, contagium judicavit si diutius moraretur;
+ne per manus adulterae libidinis incentiva transirent.
+Itaque vestem exuit, crimen excussit, et relictis quibus
+tenebatur, exuviis, spoliatus quidem, sed non
+nudus aufugit, qui erat tectior indumento <emph>493</emph> pudoris.
+Non est enim nudus, nisi quem culpa nudaverit.
+Denique in superioribus habemus quod Adam,
+posteaquam Dei mandata praevaricatione deseruit, et
+peccati gravis aera contraxit, nudus erat. Unde et
+ipse ait: <hi>Vocem tuam audivi in Paradiso, et timui,
+quia nudus sum, et abscondi me <note>(Gen. III, 10)</note>
+            </hi>. Intellexit
+enim se esse nudum, qui infulas divinae protectionis
+amiserat. Et ideo latebat, quia vestem fidei
+<pb n="0652C"/>
+non habebat, quam utique praevaricando deposuit.
+Magnam rem vides. Ille nudus erat qui tunicam non
+amisit: iste nudus non erat, qui vestimentis se exuit,
+quae in manibus adulterae dereliquit. Eadem Scriptura
+illum nudum assernit, hunc abnuit. Et ideo iste
+exspoliavit se potius quam nudavit, qui incorrupta
+virtutum vestimenta servabat, exspolians se veterem
+hominem cum actibus ejus; ut indueret novum, qui
+secundum imaginem creatoris in agnitione renovatur.
+Ille autem nudus remansit, qui se iterum vestire
+non potuit, singulari spolio virtutis exutus. Unde
+pelliceam accepit tunicam; quia peccator habere
+non poterat spiritalem. Reliquit igitur vestimenta
+Joseph, et nudavit adulterae inverecundiam, quae
+postea latere non potuit.
+<pb n="0652D"/>
+</p>
+          </div3>
+<div3>
+            <head>26. </head>
+            <p>
+Denique exivit foras, et ipsa adulterii sui tentamenta
+vulgavit, exaltans vocem suam; eo quod
+relictis vestibus, Hebraeus aufugerat. Ipsa igitur
+quod celare debuerat, prodebat; ut composito crimine
+laederet innocentem. Justus autem accusare
+non novit; et ideo impune hoc impudica faciebat.
+Illam igitur vere exutam dixerim, etiam aliena vestimenta
+servantem, quae omnia amiserat velamina
+castitatis: illum satis ornatum, satis defensum, cujus
+<pb n="0653A"/>
+vox non audiebatur, et innocentia loquebatur.
+Sic Susanna postea dum tacet in judicio, melius locuta
+est oraculo; et ideo prophetae meruit defensionem,
+quae propriae vocis non quaesivit auxilium. Illum
+ergo beatiorem dixerim, cum in carcerem mitteretur;
+quia subibat pro castitate martyrium. Bonum
+enim munus pudicitia; sed minoris meriti cum
+periculum non habet: ubi vero etiam salutis periculo
+defenditur, ibi plenius coronatur.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ In audita causa, inexplorata fide veri, tamquam
+reus criminis in carcerem Joseph mittitur:
+sed eum Dominus nec in carcere deserebat. Non turbentur
+innocentes, cum falsis criminibus appetuntur;
+cum oppressa justitia truduntur in carcerem.
+Visitat Deus et in carcere suos; et ideo ibi est plus
+<pb n="0653B"/>
+auxilii, ubi est plus periculi. Sed quid mirum si visitat
+Christus in carcere positos, qui se ipsum in
+suis in carcere inclusum esse memoravit, sicut habes
+scriptum: <hi>In carcere eram, et non venistis ad me <note>(Matth. XXV, 43)</note>
+            </hi>?
+Quo non penetrat divina misericordia?
+Invenit Joseph hujusmodi gratiam, ut <emph>494</emph> 
+qui fuerat clausus in carcere, ipse potius carceris
+claustra servaret, concederet munere clavicularius,
+inclusos omnes potestati ejus committeret. Itaque
+Joseph non solum carcerem non sentiebat, sed etiam
+alios quoque carceris levabat aerumna.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Post brevem invectivam in mulierem, ad spadones hujus
+etiam auctores injuriae transit; et demonstrato
+quam fragilis sit eorum status, alterius somnium
+ejusque expositionem refert. Hinc saeculi potentiam
+somnii similem esse ostendit. Deinde mystice laudato
+Hebraeo interprete, invehitur in eunuchum beneficii
+immemorem. Demum tacite Calligonum perstringens,
+pauca de regiorum ministrorum statu ac fragilitate
+subjungit.</hi> 
+<pb n="0653C"/>
+          </p>
+<div3>
+            <head>28.</head>
+            <p>
+ Hujus igitur injuriae auctor mulier et spadones
+sunt; sed mulier Aegyptiorum, quae procaces
+cum viris solita miscere sermones, lacessere verecundos,
+refugientes insequi, pudentes perurgere,
+cum vitia sua non posset defendere, innoxios criminabatur,
+perfidiam admiscens perfidiae, aliena tenens,
+<pb n="0654A"/>
+et alios ipsa condemnans, modum nullum ponens
+furori. Quae enim causa crudelitatis, nisi quod
+cupiditatibus suis obsisti videbat, et desideria sua
+vetita assensione fraudari? En propter quod aperiatur
+carcer, ut suscipiat innocentes: solvantur catenae
+reis, ut imponantur fidelibus: dimittantur veritatis
+adulteri, ut includatur qui fidei adulterium
+recusavit.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ De istis vero spadonibus quid dicam? qui
+exemplo debent esse spadonibus caeteris, quod status
+eorum fragilis ac tenuis, et in voluntate regia
+spes omnis, quibus levis offensa summum periculum
+sit: secundae autem res vile ministerium. Gloriabatur
+alter quod esset vini praepositus, alter quod
+esset pistorum. Uterque offendit, missique in carcerem,
+<pb n="0654B"/>
+et commendati sancto Joseph ab ipso carceris
+claviculario, cum essent illic dies complures, viderunt
+somnium; et cum reviseret eos Joseph, tristes
+turbatosque animi offendit; quia turbabantur somnio,
+cujus interpretem non invenirent: <hi>Nonne per Deum,</hi> 
+inquit, <hi>interpretatio somnii est? Narrate ergo mihi. Et
+narravit praepositus vini somnium suum. Erat vitis in
+conspectu meo: in vite autem tres radices; et ipsa flores ferens germinavit maturos botryones uvarum: et
+calix Pharao in manu mea. Et sumpsi eam, et expressi
+eam in calicem, et dedi calicem in manus Pharao. Et
+dixit illi Joseph: Haec interpretatio ejus: Tres radices,
+tres dies sunt. Adhuc triduo, et in mentem habebit
+Pharao principatum tuum, et restituet te super officium
+tuum pristinum, et dabis calicem in manus Pharao.
+<pb n="0654C"/>
+Sed memor esto per temetipsum, cum tibi bene</hi> 
+ <emph>495</emph> <hi>erit, et facies in me misericordiam, et memor eris mei
+ad Pharaonem, et educes me de carcere isto; quia furto involatus sum de terra Hebraeorum, et hic
+nihil male feci, sed miserunt me in lacum carceris
+hujus.</hi> </p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Alterius somnium non libet dicere. Meministis
+certe verborum meorum, quod etiam tunc refugerim
+ejus interpretationem in eo, cujus exitum refugio,
+mortem perhorresco. De isto prius dicamus, qui si
+beatus videbatur, cum esset vini praepositus; et hunc
+summum credebat apicem omnis potentiae, quod regi
+calicem dabat. Haec gloria illius, haec magnificentia
+<pb n="0655A"/>
+in hoc saeculo: hac defraudatus dolebat; huic redditus
+gratulabatur. Sed hoc somnium est, et omnis
+potentia saeculi somnium, non veritas est. Denique
+per somnium vidit reddi sibi principatum suum. Et
+Esaias dicit ita esse hujusmodi homines, qui in hoc
+saeculo delectantur secundis rebus, sicut qui in somnis
+manducat et bibit, videtur sibi cibo aut potu, dum
+dormit, repleri: sed cum evigilaverit, incipit esurire
+amplius; et tunc intelligit quam inanis ille cibus et
+potus fuerit somniantis: sic qui dormit in hoc saeculo,
+nec oculos aperit ad mysteria divina, quamdiu
+somno gravatur corporis, putat alicujus momenti
+esse hanc saecularem potentiam, quasi in somnis
+eam videt: ubi evigilaverit, deprehendit quam inanis
+hujus saeculi voluptas sit <note>(Esai. XXIX, 8)</note>.
+<pb n="0655B"/>
+</p>
+          </div3>
+<div3>
+            <head>31. </head>
+            <p>
+Considera nunc illum verum Hebraeum, illum
+non somnii, sed veritatis et praeclarae visionis
+interpretem, qui de divinitatis illa plenitudine, a libertate
+coelestis gratiae in hunc corporeum carcerem
+venerit, quem non potuit saeculi hujus illecebra mutare,
+non ulla corruptela mundanae voluptatis evertere,
+qui tentatus non decidit, appetitus non appetivit,
+postremo adulterina quadam Synagogae manu
+veste corporis apprehensus, carnem exuit, liber
+mortis ascendit. Calumniata est meretrix, ubi eum
+tenere non potuit, quem carcer non terruit, non inferna
+tenuerunt: quin etiam quo veluti puniendus
+descenderat, inde alios liberavit: ubi ipsi stringebantur
+mortis vincula, ibi laxavit ipse vincula mortuorum.
+</p>
+          </div3>
+<div3>
+            <head>32. </head>
+<p>
+              <pb n="0655C"/>Considera ergo istum Hebraeum dicentem illi
+praeposito spadonum, qui contraxerat offensam regiam,
+quem restituerat muneri suo: <hi>Memor esto per
+temetipsum, cum tibi bene erit: et facies in me misericordiam,
+et memor eris mei.</hi> Ideo secundo repetivit,
+quia sciebat non recordaturum quid evasisset injuriae,
+cum potentiam recepisset. Ideo secundo admonuit,
+quia secundo liberavit; ut si prioris beneficii
+eum memoria non teneret, vel posterioris subiret,
+non despiceret auctorem salutis suae, non perfida
+praevaricatione violaret. Sed quod pejus est, cito
+beneficii irrepit <emph>496</emph> oblivio secundis rebus. Redditus
+officio suo non est memor factus interpretis,
+sed oblitus est eum. Sed etsi ille obliviscebatur,
+Christus non obliviscebatur: sed loquebatur ei, et
+<pb n="0655D"/>
+per servulum loquebatur dicens ad eum: <hi>Memor
+esto per temetipsum,</hi> hoc est, vel officii tui contemplatione
+quid audieris recordare. Sed etsi nunc
+oblitus es, memor eris mei; ut evadas periculum,
+<pb n="0656A"/>
+qui oblitus es beneficium. Tamen elatus potentia
+non recordabatur. Et quanta haec potentia, ubi vini
+ministerium! En unde omnis jactantia; quia erat
+spadonum praepositus, qui vinum poculis regiis ministrabant.</p>
+          </div3>
+<div3>
+            <head>33.</head>
+            <p>
+ <hi>Et factum est,</hi> inquit, <hi>post biennium <note>(Gen. XLI,
+1)</note>
+            </hi>. Mentior de hoc nostri spadonis tempore, nisi et
+dies convenit; quia post biennium recepit officium,
+nec recordatus est, sed admonitus. Cognovit enim
+quod etiam regnum ipsum in hoc saeculo esset somnium,
+qui suo somnio non credidit: didicit etiam
+regnum esse somnia, nec ipsorum potestates esse
+perpetuas. Sed cito hunc locum praetereat dolor, ne
+ipsa commemoratione crudescat: ne ipsius quidem
+sermonis mei meminisse delectat, quem tunc temporis
+<pb n="0656B"/>
+vel effuderit dolor, vel extorserit Ecclesiae
+contumelia.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Admonitus ergo sui per somnium regis ait: <hi>Peccatum meum recordor 
+ <note>(Ibid., 9)</note>
+            </hi>. Sera quidem ista
+est, sed utinam vera confessio! Post peccatum fateris,
+quod ante peccatum cavere debueras. Quam
+cito oblitus fueras: <hi>Memor esto mei.</hi> Scis nempe
+tunc temporis hunc fuisse sermonem: sed obtusas
+aures habebas fastu potentiae, et vini ebrius non audiebas
+verba sobrietatis. Vel nunc memento mei,
+qui peccatum sero fateris. Qui rogas servulum
+Christi, cur Dominum negas? Inebriare jam non
+vino, sed Spiritu sancto. Recordare quid passus sit,
+cum quo dormisti somnum tuum, et somniasti somnium.
+Et ipse praepositus erat, et praepositus epularum
+<pb n="0656C"/>
+regis, quae ad opus pistorium pertinebant. Sublimem
+se esse credebat, quia in potestate habebat
+panem regium: nesciebat multos anfractus esse hujus
+potentiae. Minabatur aliis, ipse mox supplicio dedendus
+extremo; nec audivit eum, qui licet servulus
+Domini, tamen loquebatur oraculum: quod ipsius
+jussu regis, de quo sibi plurimum blandiebatur, caput
+amissurus esset, esca avibus derelinquendus.
+Vel hoc te exemplum revocare debebat, ut perfidiae
+non crederes.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Sunt et alia exempla de fastu et fragilitate
+ministrorum regalium, quae posterioris temporis
+historia habet. Et Doech praepositus erat, et praepositus
+regis animalium ad disciplinam mulorum,
+hoc est, spadonum animalium. Hic quoque sacerdotem
+<pb n="0656D"/>
+Domini detulit, et fraude regem commovit in
+sacerdotis periculum, et hic <emph>497</emph> Syrus erat. Num
+mentior, quando et patria, et facta conveniunt?
+Aman quoque cubiculo regis et ipse praepositus, dum
+<pb n="0657A"/>
+invadere ecclesias Domini improba temeritate contendit,
+populumque fidelem spoliare ac persequi,
+gravibus sacrilegia suppliciis expendit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Educto Joseph de carcere regis somnium proponitur,
+a quo et explicatur. Hoc Ambrosius tum rebus sui
+temporis, tum praesenti et futuro saeculo accommodat.
+Postea Josephi praemia, conjugium, liberos,
+frumenti distributionem mystice de Christo interpretatur;
+ac tandem nos ad emendum spiritalia alimenta
+hortatur.</hi> </p>
+<div3>
+            <head>36.</head>
+            <p>
+ Sed revertamur ad istum vini praepositum,
+qui quasi multo ebrius mero beneficii auctorem
+oblitus est diu: aliquando tamen, ut regi provideret
+<pb n="0657B"/>
+interpretem, non quasi gratus, sed quasi callidus
+intimavit seriem rei gestae. Quo cognito, rex quoque
+eum jussit accersiri, erutumque de carcere interrogavit,
+si posset interpretari sibi somnium. Cujus
+explanatione delectatus, removit injuriam, honorem
+detulit. Itaque videte si non praesentibus et ista
+conveniunt. Injuria illata est prius quam cognosceretur
+a rege: gratia relata, ubi regi est cognitus.
+Ita rex vacat culpa; quia et id quod excepit vir
+sanctus injuriae, alienum fuit: et id quod recepit
+gratiae, regis est proprium.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Somnium autem ejus, et interpretatio hujusmodi
+est: <hi>Quaecumque,</hi> inquit, <hi>facit Deus, ostendit
+Pharao. Septem vaccae bonae, septem anni sunt; et
+septem spicae bonae, septem anni sunt. Somnium Pharao
+<pb n="0657C"/>
+unum est. Et septem vaccae macrae, quae post illas
+ascendebant, septem anni sunt; et septem spicae macrae,
+et a vento corruptae, septem anni sunt. Erit septem
+annis fames. Verbum autem quod dixi: Quaecumque
+facit Deus, ostendit Pharao. Ecce septem anni veniunt
+ubertatis magnae in totam terram Aegypti. Veniet
+autem septem annis fames post haec, et obliviscentur
+ubertatem in tota Aegypto: et consumet fames
+totam terram, et non agnoscetur urbertas terrae a fame
+quae futura est post haec. Valida enim nimium. Quod
+autem iteravit somnium Pharao bis; quia verum erit
+verbum a Deo, et festinabit Deus facere illud. <note>(Gen.
+XLI, 25 et seq.)</note>
+            </hi> </p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Vetus somnium, res recentes. Posterioribus
+priora consumpta sunt: et ubi erat ante ubertatis
+<pb n="0657D"/>
+copia, ibi rerum omnium facta est indigentia. Quod
+si quis hujusmodi regi consilium dedisset, ut aliquid
+de superiori ubertate posteriori principatus sui servaret
+aetati, reliquo quoque tempori larga donandi
+affluentia redundasset. Sed immodica aevi superioris
+effusio etiam posteriora destituit, et homines diripientes
+universa, aliquem Joseph adhibere nolebant.
+<pb n="0658A"/>
+Etsi non ego Joseph (quis enim istud) clamabam
+tamen vaccas illas pingues non solum lasciviam, sed
+etiam incuriam divinae significare reverentiae (de
+perfidis enim dictum est: <hi>Tauri pingues obsederunt
+me <note>(Ps. XXI, 13)</note>
+            </hi>: et de Judaeorum populo scriptum
+est <note>(Deut. XXXII, 15)</note>: <hi>Impinguatus,</hi> <emph>498</emph> <hi>et
+obesus factus, et dilatatus est, et dereliquit eum qui
+fecit eum</hi> ), et ideo somnium illud redundantiae saecularis
+perpetuum esse non posse: fore tempus quo
+his fames dura succederet.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Nec tamen hoc somnium uni aut duobus demonstratum
+arbitror, sed omnibus propositum; eo
+quod septem anni istius mundi pingues, et saeculari
+ubertate opimi, absorbeantur ab illis saeculis
+quae futura sunt, in quibus perpetua quies, et legis
+<pb n="0658B"/>
+observantia spiritalis, quam Ephraem illa tribus
+patrum Deo fructuosa custodit. Bona vacca, non illa
+corporeo distenta ubere, sed abundans spiritalis
+lactis et gratiae, super cujus decorem cervicis Deus
+sedere se dicit, ut scriptum est: <hi>Ephraem vacca docta
+diligere victoriam. Ego autem transivi super decorem
+cervicis ejus <note>(Ose. X, 11)</note>
+            </hi>. Non ergo impinguet caput
+nostrum oleum peccatoris, nec falsi fructus delectare
+nos debent, ne dicatur et de nobis: <hi>Seminastis
+impietatem, et iniquitates ejus vindemiastis. Manducasti
+fructum falsum, quia sperasti in curribus tuis <note>(Ibid., 13)</note>
+            </hi>.
+Nec me movet quod habet spicas macras,
+et vento corruptas; quia et David tunc melior
+erat, quando sicut aranea tabescebat: et spiritus
+contribulatus sacrificium Dei est; et illi praestantiores
+<pb n="0658C"/>
+evadunt, quos in hoc saeculo gravibus injuriis
+spiritus malignus exercuit.</p>
+          </div3>
+<div3>
+            <head>40.</head>
+            <p>
+ Unde magis mystica meruisse praemia Joseph
+arbitror, quia de mysticis est locutus. Quid enim
+sibi vult annulus digito ejus insertus, nisi ut intelligamus
+pontificatum ei fidei esse delatum, ut alios
+ipse signaret? Quid stola, quae amictus est sapientiae,
+nisi tributum ei ab illo rege coelesti, prudentiae principatum?
+Torques aureus intellectum bonum videtur
+exprimere. Currus quoque significat fastigium sublime
+meritorum. Quis autem est qui ex gentibus
+accepit uxorem, nisi qui Ecclesiam ex nationibus
+sibi congregavit, et suscepit ex ea filium Manassen,
+per quem oblitus est omnes dolores suos quos habuit
+de sacrilegiis Judaeorum? Suscepit alium quoque
+<pb n="0658D"/>
+filium Ephraem, per cujus profectum claruit quod
+suscepta in carne humilitas et divinitatem non humiliavit,
+et gloriam cumulavit.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Denique quicumque famem patiebantur, ad
+Joseph mittebantur. Qui sunt isti, nisi de quibus
+dictum est: <hi>Convertentur ad vesperam, et famem patientur
+ut canes <note>(Psal. LVIII, 7)</note>
+            </hi>? Erat autem fames
+<pb n="0659A"/>
+non unius loci, sed totius terrae; quia non erat qui
+faceret bonitatem. Ideo Dominus Jesus jejunia mundana
+miseratus aperuit horrea sua, et mysteriorum
+coelestium thesauros scientiae sapientiaeque patefecit
+absconditos; ut nulli alimenta deessent. Dixit enim
+Sapientia: <hi>Venite, edite panes meos <note>(Prov. IX, 5)</note>
+            </hi>. Et
+ideo ab illo solo dicitur: <hi>Dominus pascit me, et nihil
+mihi deerit <note>(Psal. XXII, 1)</note>
+            </hi>, qui saturatur a Christo.
+Aperuit ergo horrea sua Christus, et vendebat, non
+aera pecuniae, sed fidei pretium, et devotionis stipendium
+quaerens. Vendebat autem non paucis in Judaea:
+sed vendebat omnibus, ut ab universis nationibus
+crederetur. <emph>499</emph>
+</p>
+          </div3>
+<div3>
+            <head>42.</head>
+            <p>
+ <hi>Et omnes regiones venerunt in Aegyptum
+ad Joseph emere <note>(Gen. XLI, 5 et 7)</note>
+            </hi>; obtinuerat enim fames.
+<pb n="0659B"/>
+Omnes enim esuriunt, quos non paverit Christus.
+Emamus ergo alimenta, quibus famem possimus
+repellere. Nemo paupertatis suae contemplatione revocetur,
+nemo vereatur qui argentum non habet.
+Non quaerit Christus argentum, sed fidem quae argento
+pretiosior est. Denique emit eam Petrus, qui
+non habebat argentum. <hi>Argentum,</hi> inquit, <hi>et aurum
+non habeo: sed quod habeo, do tibi. In nomine Jesu
+Christi surge, et ambula <note>(Act. III, 6)</note>
+            </hi>. Et propheta
+Esaias dicit: <hi>Qui sititis, ite ad aquam; et quicumque
+non habetis argentum, ite, emite, et bibite, et manducate:
+emite sine argento et pretio vinum, et adipem <note>(Esai.
+LV, 1)</note>
+            </hi>. Neque enim pretium quaesivit a nobis, qui pro
+nobis sanguinis sui pretium solvit; quia non auro et
+argento, sed pretioso nos redemit sanguine. Ergo id
+<pb n="0659C"/>
+pretium debes quo emptus es; et si ille non semper
+exigat, tu tamen debes. Eme igitur tibi Christum
+non eo quod pauci habent, sed eo quod omnes
+habent. Omnes habent per naturam, pauci offerunt
+per timorem. Suum est quod a te Christus reposcit.
+Ipse vitam omnibus dedit, ipse pro omnibus
+mortem suam obtulit. Solve pro auctore, quod soluturus
+es lege. Non mediocris iste contractus est. Non
+omnes eum facile vident. Denique illae virgines in
+Evangelio <note>(Matth. XXV, 9 et seq.)</note> quas veniens
+sponsus exclusit, ideo foris relictae sunt, quia venale
+oleum non emerunt. Unde dicitur eis: <hi>Ite potius ad
+vendentes, et emite vobis.</hi> Et negotiator non immerito
+praedicatur, qui vendidit omnia sua, et emit margaritam <note>(Matth. XIII, 46)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Exhortatio Jacob ad filios, ut in Aegyptum ad escas
+coemendas sese conferant, quid significet; quid item
+decem eorum, relicto domi Benjamin, profectio?</hi> 
+<pb n="0659D"/>
+          </p>
+<div3>
+            <head>43.</head>
+            <p>
+ <hi>Et Jacob dixit filiis suis: Quare pigri estis?
+Ecce audivi quia frumentum est in Aegypto: descendite
+illo, et emite nobis escas <note>(Gen. XLII, 1 et 2)</note>
+            </hi>: Non
+semel hoc Jacob dixit, quotidie omnibus filiis suis
+<pb n="0660A"/>
+dicit, qui serius veniunt ad gratiam Christi: <hi>Quare
+pigri estis? Ecce audivi quia frumentum est in Aegypto.</hi> 
+Ex hoc frumento granum est quod resurgit. Qui igitur
+famem sustinet, suae segnitiae debet ascribere. <hi>Ecce audivi,</hi> 
+ inquit, <hi>quia frumentum est in Aegypto.</hi> 
+Citius utique juniores aliquid quam seniores consuerunt
+audire, dum foris positi multa circumeunt. Sed
+hanc negotiationem prius senex audit, sed ille senex
+in quo est fidei longaeva canities. Prior senex intelligit,
+sed ille senex in quo est venerabilis senectus,
+et aetas senectutis vita immaculata.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Nec omnes hanc negotiationem suscipiunt,
+nisi filii Jacob, et ipsi prevectioris aetatis. Ideo decem
+pergunt, non pergit junior. Non misit eum
+pater: <hi>Ne contingat,</hi> inquit, <hi>eum infirmitas</hi> <emph>500</emph> 
+<pb n="0660B"/> <note>(Ibid., 3 et 4)</note>.
+Adhuc obnoxius erat infirmitati Benjamin
+junior. Patriarcha quidem legitur Benjamin,
+sed ille ex tribu Benjamin Paulus praefigurabatur.
+Merito Jacob de ejus infirmitate dubitabat. Denique
+infirmatus est, ut sanaretur: caecitatem passus est,
+sed haec infirmitas ad salutem. Denique illa caecitas
+lucem attulit.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Accepimus historiam, cognoscamus mysterium.
+Sine Benjamin patriarchae primo perrexerunt:
+sine Paulo apostoli. Uterque non primus advenit,
+sed accersitus a primis uberiorem mercedem priorum
+suo fecit adventu. <hi>Est,</hi> inquit, <hi>frumentum in Aegypto,</hi> 
+hoc est, ubi major fames, ibi major ubertas est. Magnum
+frumentum in Aegypto. Denique et Deus Pater
+dicit: <hi>Ex Aegypto vocavi Filium meum <note>(Ose., XI, 1)</note>
+            </hi>.
+<pb n="0660C"/>
+Ex isto grano illa fecunditas. Neque enim messis
+esse potuisset, nisi Aegyptii granum ante sevissent.
+Est ergo frumentum quod nemo ante esse credebat.
+in hoc frumento negotiantur patriarchae. Et illi quidem
+argentum detulerunt: sed bonus Joseph frumentum
+dedit, argentum reddidit. Non enim pecunia
+emitur Christus, sed gratia. Pretium tuum fides est.
+Haec emuntur divina mysteria. Portat autem frumentum
+hoc asinus ille ante immundus in lege; sed jam
+mundus in gratia.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Invalescente fame filii Jacob redeunt in Aegyptum,
+ducto secum Benjamin ac muneribus delatis. Joseph
+comiter fratres alloquitur, qui ad convivium invitati,
+suspicantur sibi parari calumniam. Iidem a Majore
+domus confirmantur. Quae omnia de Pauli vocatione
+ac praedicatione, nec non Judaeorum infidelitate
+exponuntur.</hi> 
+<pb n="0660D"/>
+          </p>
+<div3>
+            <head>46.</head>
+            <p>
+ Tenebatur tamen Benjamin junior, et patrio
+adhuc adhaerebat affectu. Tenebant eum legis vincula,
+mos paternus. Fames invalescebat, quia sero
+veniebat. Intercedunt pro eo duo, Ruben et Judas
+<pb n="0661A"/> <note>(Gen., XLIII, 1 et seq.)</note>,
+hoc est, humilitas atque confessio.
+His vadibus apud patrem utitur, his committitur,
+quorum unus primitivus, alius resuscitatus.
+Lex primitivi, Evangelium resuscitati. His deducitur
+Benjamin junior, et bonis odoribus comitatus
+advenit portans secum resinam, qua lapides marmorum
+connectuntur; eo quod praedicatione propria
+tamquam spiritali resina vivos lapides etiam ipse
+connecteret: portans etiam mel, quo noxia vulneris
+interius exeduntur sine aliqua acerbitate sectionis.
+Talis enim Pauli praedicatio, ut putrem aboleret affectum,
+corruptumque evacuaret humorem disputationis
+suae aculeo, urere magis aegrae mentis viscera
+cupiens, quam secare. Incensum orationis, et
+casiam, et guttam sepulturae insignia esse David propheta
+<pb n="0661B"/>
+nos docuit dicens: <hi>Myrrha et gutta et casia a
+vestimentis tuis <note>(Ps. XLIV, 9)</note>
+            </hi>. Venit enim <emph>501</emph> Paulus
+crucem Domini praedicare, ilicem semper virentem,
+et nuces quarum testa durior, fructus tenerior:
+meritoque virga sacerdotalis Aaron nucina, et Hieremiae
+baculus hujusmodi. Argentum quoque duplex,
+non otiosa munera esse quis dubitet; cum et Patriarchae
+vita, et Apostoli sermo semper virescat in pectoribus
+singulorum; et eloquium sanctorum, sicut
+argentum igne examinatum, praecepti salubris fulgore
+resplendeat? Nec immerito duplex argentum referunt
+in quibus Pauli praefigurabatur adventus, qui
+laborantes presbyteros in verbo atque doctrina duplici
+honore donabat.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ <hi>Vidit autem illos Joseph, et Benjamin fratrem
+<pb n="0661C"/>
+suum ex eadem matre <note>(Genes. XLIII, 29)</note>
+            </hi>. Jam videntur
+Hebraei, et videntur a Christo qui verus Joseph
+est, quando cum Pauli veniunt typo: et loquitur illis
+mitia atque mansueta, ut pariter cibum sumant.
+Supra autem quia sine Benjamin venerunt, agnoscebat
+quidem eos: sed ab his se avertebat, ut scriptum
+est: <hi>Et loquebatur his dura <note>(Gen. XLII, 7)</note>
+            </hi>,
+quia ipsi non agnoscebant eum, a quo agnoscebantur.
+Pauli igitur merito profecerunt, quem Dominus
+Jesus tamquam juniorem fratrem ex eadem matre
+generatum amplius caeteris fratribus diligebat. Advertant
+Judaei quem Dominum negaverunt, qui
+etiam crucifixus, ex synagoga tamen eorum tamquam
+ex eadem ortus parente plus eos diligit, si
+vel sero cognoscant suae salutis auctorem. Sed propriorum
+conscii delictorum, non credunt tantam
+<pb n="0661D"/>
+Christi esse misericordiam, ut donet peccatum, remittat
+injuriam. Ideoque praefigurabantur in patriarchis
+quales essent futuri. Invitabantur ad gratiam,
+<pb n="0662A"/>
+ad salutaris mensae vocabantur convivium; et calumniam
+sibi parari, insidias fieri suspicabantur.</p>
+          </div3>
+<div3>
+            <head>48.</head>
+            <p>
+ Et coeperunt ad hominem, qui erat supra domum
+in janua domus causam suam agere velle <note>(Gen.
+XLIII, 19)</note>. Adhuc dubitant introire, et ex operibus
+suis malunt justificari, qui causam suam volunt
+astruere, quam gratiam accipere, et ideo in portis
+redarguuntur. Qui autem fructum uteri virginalis exspectat,
+et haereditatem Domini, filii mercem negotiatur,
+non erubescet in porta: sed in exitu vitae
+hujus repellit inimicum; ne ad altiora properanti
+conscius culpae gravioris obsistat.</p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Unde mystice illis respondit major domus.
+Et is qui sit intellige, cum legeris Moysen fidelem in
+tota domo ejus. Majores enim domus, Moyses, Petrus
+<pb n="0662B"/>
+et Paulus, et caeteri sancti sunt: Christus autem
+solus est dominus. Scriptum est: quia Moyses
+fidelis in tota domo ejus tamquam famulus in testimonium
+eorum quae dicta essent <note>(Hebr. III, 5)</note>:
+Christus autem tamquam filius in domo sua, quae
+domus nos sumus, si libertatem et gloriam spei tenuerimus <note>(Ibid., 6)</note>.</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ Hic ergo major domus respondit illis: <hi>Propitius
+sit vobis Deus, nolite timere; Deus enim vester, et
+Deus patrum vestrorum dedit vobis thesauros in</hi> <emph>502</emph> <hi>sacculis vestris: at argentum vestrum probum, acceptum
+habeo 
+ <note>(Gen. XLIII, 23)</note>
+            </hi>. Illi enim dixerant: <hi>Argentum
+uniuscujusque in sacculis nostris invenimus, ad pondus
+argentum nostrum retulimus <note>(Ibid., 21)</note>
+            </hi>. O magna mysteria,
+et evidenter expressa! Hoc est dicere: Cur
+<pb n="0662C"/>
+inflamini? Cur argentum vos habere vestrum in sacculis
+saepius usurpatis? Quid enim habetis quod non
+accepistis? Si autem accepistis, quid gloriamini, quasi
+non acceperitis? Jam saturati estis, divites facti estis,
+quia argentum habere vos creditis: sed argentum
+vobis Deus patrum vestrorum dedit. Ille Deus vester,
+ille patrum vestrorum Deus est, quem negastis. Sed
+ignoscit, sed indulget, sed recipit si revertamini.
+Ipse est qui vestrum non quaerit argentum, suum
+donat. Ipse vobis dedit argentum in sacculis vestris.
+Jam sacculi vestri argentum habent, qui lutum habebant;
+et ideo vester est qui dicit: <hi>Conscidisti saccum
+meum, et induisti me laetitia <note>(Ps. XXIX, 12)</note>
+            </hi>. Laetitiae
+munus est Christus, ipse est argentum vestrum,
+ipse pretium vestrum. Non exigit a vobis Dominus
+Jesus frumenti sui pretium, non quaerit vestri pondus
+<pb n="0662D"/>
+argenti. Argentum vestrum reprobum est, argentum
+sacculi non est bonum.</p>
+          </div3>
+<div3>
+            <head>51.</head>
+            <p>
+ <hi>Argentum vestrum probum, acceptum habeo</hi> 
+<pb n="0663A"/> <hi>Gen. XLIII, 23)</hi>;
+hoc est, non est illud materiale argentum
+vestrum: sed spiritale argentum vestrum, hoc
+est probum, quod fida devotione quasi Jacob filii detulistis,
+quod sine damno datur, et sine ullo dispendio
+annumeratur: quandoquidem tali pretio detrimentum
+mortis excluditur, lucrum vitae acquiritur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Paucis de</hi> meridie <hi>praemissis, paratorum munerum illatio,
+convivii instauratio et humanissimus Josephi
+cum fratribus congressus referuntur. Hic fratrem
+Benjamin videns, deque eo sciscitatus, illi benedixit,
+atque ad occultandas lacrymas cum recessisset, mox
+lota facie revertitur. Quibus adjungitur moralis et
+mystica interpretatio.</hi> </p>
+<div3>
+            <head>52. </head>
+<p>
+              <pb n="0663B"/> <hi>Paraverunt autem munera, donec introiret Joseph
+meridie <note>(Ibid., 25)</note>
+              </hi>. Acceleravit meridie fides
+Pauli. Ante caecus erat, postea coepit videre lumen
+justitiae; quoniam qui revelat ad Dominum viam suam,
+et sperat in eum, Dominus quoque educet tamquam
+lumen justitiam ejus, et judicium ejus sicut meridiem.
+Et Abrahae quando Deus apparuit ad ilicem
+Mambre, meridies erat, cui de praesentia Domini
+lux aeterna fulgebat. Meridies est quando Joseph verus
+in domum suam intrat, ut prandeat. Tunc enim
+plus dies lucet, quando sacramenta celebramus.</p>
+          </div3>
+<div3>
+            <head>53.</head>
+            <p>
+ <hi>Et intulerunt ei,</hi> inquit, <hi>munera <note>(Ibid., 26 et
+seq.)</note>
+            </hi>. Nos munera inferimus, ille instaurat convivium.
+Ille dicit: <hi>Apponite panes,</hi> quos soli Hebraei
+sumunt, Aegyptii manducare non possunt. Sed ante
+<pb n="0663C"/>
+convivium quanta dignatio! Quam usus istius et
+sedulitatis et gratiae morale magisterium! Adhuc <emph>503</emph> 
+ de calumnia quam sibi a Joseph fieri putabant,
+fratres suspecti erant: ille invitabat ad prandium,
+horum nutabat affectus: illius perseverat gratia:
+primus appellat, primus interrogat: <hi>Quomodo habetis?</hi> </p>
+          </div3>
+<div3>
+            <head>54.</head>
+            <p>
+ Et iterum ait: <hi>Recte est pater vester senior?</hi> 
+Superioris est inferiorem ad colloquium provocare,
+dare sermonis fiduciam, quaerere non solum de ipsis,
+sed etiam de parentibus.</p>
+          </div3>
+<div3>
+            <head>55.</head>
+            <p>
+ Respondent illi: <hi>Recte est puer tuus, pater
+noster.</hi> Ille seniorem dixit, ut honoraret: illi puerum
+nominaverunt, ut deferrent humilitatis obsequium;
+quod senectus honoratae sit dignitatis, pueritia autem
+<pb n="0663D"/>
+subjecta videatur, et propior verecundiae, quam superbiae.
+<pb n="0664A"/>
+</p>
+          </div3>
+<div3>
+            <head>56. </head>
+            <p>
+ <hi>Respiciens autem oculis vidit Benjamin fratrem
+suum ex eadem matre <note>(Ibid., 29)</note>
+            </hi>. Morale est, ut
+quos diligimus, eos videamus prae caeteris; et quos
+animi intentio tenet priores, eos obtutus offendat
+oculorum. Siquidem plerumque circa alia mentis
+occupatione districti, quos habemus ante oculos,
+non videmus: ita duce animo dirigitur noster aspectus.
+Vidit igitur Benjamin fratrem suum sanctus Joseph,
+quem tenebat animo, quem oculis requirebat:
+quo absente, fratres pene non viderat, quia videre
+nihil proderat: nec solum vidisse contentus, quasi
+nesciret interrogavit: <hi>Hic frater vester est adolescentior?</hi> 
+Consuetudo et gratia charitatis est, ut
+dilectos nobis non solum oculis, sed etiam sermone
+teneamus. Agnoverat Joseph dilectum suum: sed
+<pb n="0664B"/>
+ideo interrogabat, ut quem tenebat animus, vox sonaret.</p>
+          </div3>
+<div3>
+            <head>57.</head>
+            <p>
+ Denique non exspectavit ut responderetur:
+sed continuo benedixit eum, et turbatus est desiderii
+sui fructu. <hi>Torquebantur autem viscera ejus <note>(Ibid.,
+30)</note>
+            </hi>; quia complectendi ejus quem desideraverat,
+libertas differebatur. Denique, <hi>Ingressus in promptuarium
+ploravit, et lavit faciem suam, et continuit
+se <note>(Ibid., 30)</note>
+            </hi>. Grandis amoris aculei cito corda
+compungunt, nisi desiderii frena laxentur. Vincebatur
+affectu Joseph, differebatur consilio: ratio
+cum amore certabat. Flevit, ut amoris pii aestus lacrymis
+temperaret. Haec moraliter.</p>
+          </div3>
+<div3>
+            <head>58.</head>
+            <p>
+ Mystice autem. Vidit Dominus Jesus Paulum,
+oculi enim Domini super justos, et dixit: <hi>Hic frater
+<pb n="0664C"/>
+vester est adolescentior <note>(Ibid., 29)</note>
+            </hi>? Adhuc adolescentior
+dicitur, qui nondum maturam canae fidei
+gerebat aetatem, nondum in virum perfectum excreverat, <hi>in illam,</hi> 
+ sicut ipse ait, <hi>mensuram aetatis plenitudinis
+Christi <note>(Ephes. IV, 13)</note>
+            </hi>. Denique adolescens
+legitur tantum ibi <note>(Act. VII, 57)</note>, ubi lapidantium
+Stephanum vestimenta servabat. Et ideo Philemonem
+non adolescentiae suae, sed senectutis similem
+esse cupiebat, ut scripsit: <hi>Magis obsecro, cum
+sis talis ut Paulus senex <note>(Philem. 9)</note>
+            </hi>. Ideo adolescentiores
+viduas praedicat declinandas <note>(I Tim.
+V, 11)</note>, non propter aetatem, sed propter quamdam
+pubescentium delictorum lasciviam, <emph>504</emph> 
+immaturitatemque virtutis. Caeterum major in juvene,
+quam in sene laus castitatis est. Puto autem
+<pb n="0664D"/>
+quod a vero non sit alienum illud, si intelligamus
+quia cum hoc Paulus haberet, et horreret correptus,
+<pb n="0665A"/>
+quod caecitas accidisset ei, inciperet
+tamen appropinquare dicendo: <hi>Domine, quid me
+vis facere <note>(Act. IX, 6)</note>
+            </hi>; ideo adolescentior dicebatur
+a Christo, ut qui vocabatur a gratia, excusaretur
+a culpa, quod ea lubricae fuisset aetatis. Denique vidit
+eum Christus, ubi lux circumfulsit eum. Et quia
+adolescentes magis metu, quam ratione revocantur
+a vitio, adhibuit stimulum, et miseratus admonuit,
+ne adversus stimulum calcitraret.</p>
+          </div3>
+<div3>
+            <head>59.</head>
+            <p>
+ Turbatus est autem, sicut habes in Evangelio <note>(Joan. XI, 33)</note>,
+quia turbavit se spiritu, cum Lazarum
+resuscitaret; et ibi flevit, ut prius lacrymis suis
+mortui delicta lavaret. Sed intra se flevit, et lavit
+faciem suam. Caecitas Pauli, fletus est Christi: lavat
+faciem suam, ubi lumen ei reparatur amissum. Lavat
+<pb n="0665B"/>
+faciem suam Christus, ubi baptizatus est Paulus, per
+quem Dominus Jesus a pluribus videretur. Et ideo
+in convivio pars ejus quintupliciter major effecta est,
+quod haberet superioribus anteferri, non solum
+mentis prudentia, sed etiam militia corporis, et gratia
+castitatis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p> <hi>Inebriantur omnes fratres cum sancto Joseph; at solius
+Benjamini sacco inseritur scyphus. Inspiciuntur
+ordine omnium sacci, et tandem vas illud invenitur,
+atque istorum mysteria eruuntur; ubi praecipue
+de donis divinis, ac de Pauli vocatione disputatur.</hi> </p>
+<div3>
+            <head>60.</head>
+            <p>
+ <hi>Biberunt autem, et inebriati sunt pariter cum
+eo <note>(Gen., XLIII, 34)</note>
+            </hi>. A principio fidei major Paulo
+<pb n="0665C"/>
+praerogativa defertur, de quo dictum est ad Ananiam: <hi>Vade quoniam vas electionis est mihi, ad sufferendum
+nomen meum coram gentibus 
+ <note>(Act., IX, 15)</note>
+            </hi>. A principio
+inebriatur ebrietate, sed sobria; ut et ipse cum
+sanctis diceret: <hi>Et poculum tuum inebrians, quam
+praeclarum est <note>(Psal. XXII, 5)</note>
+            </hi>!</p>
+          </div3>
+<div3>
+            <head>61.</head>
+            <p>
+ Et scyphus argenteus soli ejus sacco inseritur <note>(Gen. XLIV, 2)</note>.
+Nesciebat hoc Benjamin: fallebatur
+Paulus, sed vocabatur. Mittitur post eum
+mane. Nox enim praecesserat caecitatis, dies fidei appropinquabat.</p>
+          </div3>
+<div3>
+            <head>62.</head>
+            <p>
+ Per ordinem singulorum prius inspiciuntur
+sacculi <note>(Ibid. 12 et seq.)</note>. Docet te moralitatem Scriptura
+divina. Per ordinem ante discubuerunt in
+convivio contra eum, primitivus secundum aetatem
+<pb n="0665D"/> <note>(Gen. XLIII, 33)</note>.
+Vides quod seniori locus ille sit
+deferendus. Per ordinem iterum requiruntur sacculi
+singulorum, ut scias electum Paulum coelesti esse
+judicio. Discussit caeteros, hunc praetulit. In nullius
+alterius <emph>505</emph> sacco scyphus argenteus inventus
+est, nisi istius. Quid sibi vult quod insertus est
+sacculo? Joseph quidem inebriavit ut falleret: scyphum
+misit ut fratrem quem diligebat, pia fraude
+revocaret: sed refulgent mysteria divina.
+<pb n="0666A"/>
+</p>
+          </div3>
+<div3>
+            <head>63. </head>
+            <p>
+Hoc invenit in nobis Christus argentum, quod
+ipse donaverit. Habemus naturae argentum, habemus
+et gratiae. Natura opus est creatoris: gratia munus
+est redemptoris. Et si non possumus videre
+dona Christi; ille tamen donat, et operatur occulte,
+et donat omnibus: sed servare paucorum est, et non
+amittere. Non omnibus tamen donat omnia. Triticum
+multis datur, scyphus uni, qui prophetico et sacerdotali
+donatur munere. Non enim omnes, sed Propheta
+dicit: <hi>Calicem salutaris accipiam, et nomen Domini
+invocabo <note>(Ps. CXV, 13)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>64.</head>
+            <p>
+ In corpore igitur Pauli jam doctrinae coelestis
+alloquium refulgebat, cum esset eruditus in lege.
+Sed quia adhuc justitiae Dei subjectus non erat, intra
+saccum erat scyphus, doctrina intra legem, lucerna
+<pb n="0666B"/>
+intra modium. Missus tamen est Ananias, qui benedictionem
+daret, manum imponeret, saccum solveret:
+sacco soluto, reluxit argentum, et decidentibus
+squammis velut quibusdam sacci vinculis, statim vidit <note>(Act. IX, 17)</note>.
+Vinculum ejus perfidia erat: absolutio
+ejus fides facta est. Et ideo tamquam solutus
+sacco, hoc est, deposito legis velamine quod positum
+est supra cor Judaeorum, conversus ad Dominum,
+liber a nexu, adeptus gratiam libertatis ait: <hi>Nos
+itaque revelata facie gloriam Dei speculantes, ad eamdem
+imaginem reformamur <note>(II Cor. III, 18)</note>
+            </hi>. Soluto
+enim calceamento legis, nudo vestigio liberi sermonis
+Evangelium praedicabat. Tenebant eum Judaei,
+et impedire cupiebant: sed ubi in ejus sacco argentum
+resplenduit, sciderunt vestimenta sua, et reversi
+<pb n="0666C"/>
+sunt retro. Libera enim pro Christo Pauli praedicatio
+nudavit populum Judaeorum, et omnem eorum
+rescidit gratiam.</p>
+          </div3>
+<div3>
+            <head>65.</head>
+            <p>
+ Ideoque retro regressi sunt, qui ante se videre
+non poterant <note>(Gen. XLIV, 13)</note>. Retro redeunt, qui
+Christum amittunt. Denique et in Evangelio <note>(Joan.
+XVIII, 6)</note> cum corriperent ad mortem Dominum Jesum,
+redeuntes retro ceciderunt in terram. Merito
+retro revertebantur, qui in terrenam labem ab illa
+coelesti gratia recidebant. Nolebant igitur moraliter
+redire sine fratre, mystice sine Paulo reverti: quo
+amisso, asserebant in moerorem deducendam parentis
+populi senectutem.</p>
+          </div3>
+<div3>
+            <head>66.</head>
+            <p>
+ Et ideo Judas apud Joseph remanere cupiebat <note>(Gen. XLIV, 18 et seq.)</note>,
+ne videret mala quae invenirent
+<pb n="0666D"/>
+patrem suum, hoc est, jam praevidebat, et cavere
+cupiebat mala quae ventura erant populo Judaeorum.
+Sed cum adhuc haec ipsa non esset in typo
+illo principum populi Judaeorum libera praedicatio,
+flevit Joseph, hoc est, in illo ploravit Jesus.
+<emph>506</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Joseph fratribus se ipse manifestans, ac eos ad accedendum
+invitans, atque etiam excusans, quem adversus
+Judaeos adhibiturus erat Christus agendi modum
+exprimit. Ibi elegantissima verborum utriusque instituitur
+comparatio; et post illam Benjamini complexus
+a Joseph de Paulo obiter explicatur.</hi> 
+<pb n="0667A"/>
+          </p>
+<div3>
+            <head>67.</head>
+            <p>
+ Et jussit omnes recedere, ut cognosceretur
+a fratribus. Non venerat enim, sicut ipse ait,
+nisi ad oves quae perierunt domus Israel. <hi>Et emittens
+vocem cum fletu, ego sum, inquit, Joseph; adhuc pater
+meus vivit <note>(Gen. XLV, 2 et 3)</note>
+            </hi>? Hoc est, expandit manus
+suas ad populum non credentem et contradicentem:
+non legatum neque nuntium quaerens, sed ipse
+Dominus salvum facere volens populum suum: <hi>Ipse
+qui loquebar, ecce adsum,</hi> inquit <note>(Esai. LII, 6)</note>. Et: <hi>Palam factus non quaerentibus me, appareo iis qui me
+non interrogabant 
+ <note>(Esai. LXV, 1)</note>
+            </hi>. Quid igitur aliud
+<pb n="0667B"/>
+tunc clamavit, nisi: <hi>Ego sum Jesus <note>(Joan. XVIII, 5)</note>
+            </hi>,
+cum principibus Judaeorum interrogantibus: <hi>Tu es filius
+Dei?</hi> responderet: <hi>Vos dicitis quia ego sum;</hi> cum
+Pilato diceret: <hi>Tu dicis quia rex sum; ego in hoc natus
+sum, ut testimonium perhibeam veritati <note>(Ibid., 37)</note>
+            </hi>;
+cum principi sacerdotum dicenti: <hi>Adjuro te per Deum
+vivum, ut dicas nobis si tu es Christus filius Dei,</hi> referret: <hi>Tu dixisti. Amen dico vobis, amodo videbitis filium
+hominis sedentem ad dexteram virtutis Dei, et
+venientem cum nubibus coeli 
+ <note>(Matth. XXVI, 63 et 64)</note>
+            </hi>.
+Hoc est ergo quod ait: <hi>Ego sum Joseph,</hi> ego sum divinae
+potentiae. <hi>Adhuc pater meus vivit?</hi> Hoc est, ego
+patrem non nego, ego fratres agnosco, si aut vos
+fratrem, aut pater filium recognoscat. Adhuc ergo
+populus meus vivit, de cujus populi familia fratrem
+<pb n="0667C"/>
+mihi elegi?</p>
+          </div3>
+<div3>
+            <head>68.</head>
+            <p>
+ <hi>Accedite ad me <note>(Gen. XLV, 4)</note>
+            </hi>; quia ego ad vos
+appropinquavi, et eo usque appropinquavi, ut per carnis
+susceptionem facerem me vestrae consortem naturae.
+Nolite vel participem fugere vestrae societatis,
+si non agnoscitis auctorem salutis.</p>
+          </div3>
+<div3>
+            <head>69.</head>
+            <p>
+ <hi>Et accesserunt,</hi> inquit, <hi>ad illum, et dixit: Ego
+sum Joseph frater vester, quem vos tradidistis in
+Aegyptum. Nunc ergo nolite moesti esse, neque vobis
+durum videatur, quoniam huc me vendidistis. Ad vitam
+enim vestram misit me Deus ante vos <note>(Ibid., 4 et 5)</note>
+            </hi>.
+Quam fraterna pietas, quam dulcis germanitas! ut
+etiam parricidale excusaret admissum, dicens divinae
+illud providentiae fuisse, non impietatis humanae:
+quandoquidem non ab hominibus oblatus ad mortem,
+<pb n="0667D"/>
+sed a Domino missus sit ad vitam. Quid aliud
+habet illa Domini nostri Jesu Christi, qui fratres
+omnes pietate superavit, in cruce positi intercessio
+pro plebe dicentis: <hi>Pater, dimitte illis; non enim sciunt
+quid faciunt <note>(Luc. XXIII, 34)</note>
+            </hi>? Quid aliud illa appellatio
+sanctitatis in medio discipulorum dicentis: <hi>Pax
+vobis: ego sum, nolite timere <note>(Luc. XXIV, 36)</note>
+            </hi>? Et cum
+conturbati et conterriti existimarent se spiritum videre,
+iterum dixit ad illos: <hi>Quid turbati estis, et quare
+cogitationes ascendunt in corda vestra? Videte, ecce
+manus meas, et pedes meos, quia ego sum ipse. Palpate,
+et videte, quia spiritus carnem et ossa non habet,
+<pb n="0668A"/>
+sicut me videtis habere <note>(Ibid., 38 et 39)</note>
+            </hi>. Haec ergo jam <emph>507</emph> 
+ tunc futura posterioribus temporibus mysteria
+revelata sunt.</p>
+          </div3>
+<div3>
+            <head>70.</head>
+            <p>
+ Denique haec ipsis exprimuntur sermonibus;
+ut ipsum esse intelligamus, et qui ante in Joseph, et
+postea in suo locutus est corpore; quandoquidem nec
+verba mutavit. Ait enim tunc: <hi>Nolite moesti esse.</hi> Et
+infra: <hi>Ascendite ad patrem meum, et dicite illi: Haec
+dicit filius tuus Joseph: Fecit me Deus dominum totius
+terrae Aegypti.</hi> Et in Evangelio ait: <hi>Nolite timere. Ite,
+nuntiate fratribus meis ut eant in Galilaeam, et ibi me
+videbunt <note>(Matth. XXVIII, 10)</note>
+            </hi>. Et infra ait: <hi>Data est
+mihi omnis potestas in coelo et in terra <note>(Ibid., 18)</note>
+            </hi>, hoc
+est dicere: divinae hoc fuit dispositionis ut acciperem
+potestatem, non acerbitatis humanae. Non objicit scelus,
+<pb n="0668B"/>
+qui enumerat praemium.</p>
+          </div3>
+<div3>
+            <head>71.</head>
+            <p>
+ Quod autem habetur in Genesi: <hi>Ad vitam
+enim vestram misit me Deus ante vos,</hi> reddit in Evanlio
+dicens: <hi>Docete omnes gentes, baptizantes eos in
+nomine Patris, et Filii, et Spiritus sancti <note>(Ibid., 19)</note>
+            </hi>.
+Haec enim est merces et vita sanctorum, quod etiam
+alios redemerunt.</p>
+          </div3>
+<div3>
+            <head>72.</head>
+            <p>
+ Illud quoque adverte, non otiose scriptum in
+Genesi: <hi>Et eris prope me, tu et filii tui, et filii filiorum
+tuorum <note>(Gen. XLV, 10)</note>
+            </hi>. Hoc est enim quod dixit in
+Evangelio: <hi>Ecce ego vobiscum sum omnibus diebus
+usque ad consummationem saeculi <note>(Matth. XXVIII, 20)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>73.</head>
+            <p>
+ Quam evidens quoque illud mysterium, quod
+veluti completo omni mandato, fratrem suum Benjamin
+complectitur Joseph, et cecidit super collum
+<pb n="0668C"/>
+ejus <note>(Gen. XLV, 14)</note>, sicut etiam completo Evangelio
+Christus Paulum amplectitur quibusdam misericordiae
+suae brachiis <note>(Act. IX, 4 et seq.)</note>; ut interna opinione
+curvatum, velut a collo in coelum erigat. Unde
+et ille erectus a Christo ait: <hi>Nostra autem conversatio
+in coelis est <note>(Philip. III, 20)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>Inventos a Joseph fratres gaudet Pharao, cujus erga
+eosdem humanitas explicatur. Quid munera, quae Joseph
+fratribus et praecipue Benjamin confert, atque
+ad patrem destinat, significent? Quid etiam quod illos
+discedentes ad pacem exhortatur? Quae reditus
+ipsorum in terram Chanaam, et patris ubi audivit
+filium vivere, admiratio consequitur.</hi> 
+<pb n="0668D"/>
+          </p>
+<div3>
+            <head>74.</head>
+            <p>
+ Et gavisus est Pharao, quod Joseph agnovisset
+fratres suos <note>(Gen. XLV, 16 et seq.)</note>. Unde et vulgata
+est vox in domo Pharao. Et hortatus est sanctum
+Joseph, ut fratres suos invitet, ut veniant cum
+patre: et mandat impleri eorum sarcinas tritico, et
+vehicula dari. Unde haec humanitas barbaro, nisi illud
+ostenderetur magnum mysterium, quod jam non
+invidet Ecclesia, cum redimuntur Judaei, et populus
+Christianus hac adjunctione laetatur, et quibus potest
+subsidiis juvat, et mittit evangelizantes regnum Dei,
+<pb n="0669A"/>
+quo maturius evocentur? Quibus dantur binae stolae <note>(Gen., XLV, 22)</note>.</p>
+          </div3>
+<div3>
+            <head>75.</head>
+            <p>
+ Et allegat Paulum, cum ejus dicta depromit,
+cui trecenti aurei, et quinque stolae <note>(Ibid., 23)</note> 
+diversi coloris conferuntur a Christo. Trecentos aureos
+habet, qui crucem praedicat Christi. Ideoque <emph>508</emph> 
+ait: <hi>Neque enim judicavi me scire aliquid inter vos,
+nisi Christum Jesum, et hunc crucifixum <note>(I Cor. II, 2)</note>
+            </hi>.
+Et bene aureos accipit, quia non in suasoriis humanae
+sapientiae verbis, sed in ostensione spiritus praedicabat.
+Quinque autem stolas accipit, vel sapientiae multiplices
+disciplinas, vel quod nullis sensuum corporalium
+captus illecebris, ubi aliis periculum, illic teneret
+victoriam; qui omnes voluptates carnis singulari
+continentia et virtute superaret, cujus ingenium
+<pb n="0669B"/>
+studiumque nulla corporis hebetaret infirmitas, qui
+cum esset in corpore, corpus se habere nesciret. Denique
+raptus in paradisum, sive in corpore, sive
+extra corpus nesciens, audivit verba ineffabilia,
+quae loqui homini non liceret: qui postremo nihil
+terrenum oleret in terris, sicut ipse docet dicens: <hi>Quia Christi bonus odor sumus Deo in iis qui salvi
+fiunt 
+ <note>(II Cor. II, 15)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>76.</head>
+            <p>
+ Praecellit igitur Paulus, et ejus exuberat portio:
+sed tamen habent et alii praedicatores gratiam
+suam. Binas stolas accipiunt. Quas illas? Utique de
+quibus dubitare non debes, quia legisti de Sapientia
+dictum: <hi>Binas vestes fecit viro suo <note>(Prov. XXXI, 22)</note>
+            </hi>.
+ Una est mystica, moralis altera. Sed non omnes
+apostoli, non omnes prophetae, non omnes pastores,
+<pb n="0669C"/>
+non omnes virtutes, non omnes habent gratiam curationum,
+non omnes linguis loquuntur. Ubi diversa
+merita, praemia diversa.</p>
+          </div3>
+<div3>
+            <head>77.</head>
+            <p>
+ Et praemittuntur patri munera <note>(Gen. XLV, 23)</note>.
+Filius honorat patrem. Christus populum suum invitat
+promissis, invitat muneribus. Portant haec munera
+asini illi inutiles, et laboriosi ante, nunc utiles:
+portant in typo Christi munera, portaturi in Evangelio
+munerum largitorem.</p>
+          </div3>
+<div3>
+            <head>78.</head>
+            <p>
+ <hi>Dimisit autem fratres suos, et abierunt. Et dixit
+illis Joseph: Nolite irasci in via <note>(Ib., 24)</note>
+            </hi>. Quam bene
+docet ab iracundia praecavendum, quod ea possit
+etiam amantes sui separare germanos: et maxime in
+via fugiendam esse discordiam, ubi ipse viandi comitatus
+debet inviolabilis gratiae habere consortium.
+<pb n="0669D"/>
+Quid autem aliud ait Dominus noster Jesus ex hoc
+corpore recessurus, cum discipulos dimitteret suos,
+nisi ne irascerentur in via, dicens: <hi>Pacem relinquo
+vobis, pacem meam do vobis <note>(Joan. XIV, 27)</note>
+            </hi>? Ubi enim
+pax est, iracundia locum non habet, ablegatur discordia,
+fugatur dissensio. Hoc est ergo quod ait: <hi>Pacem
+meam do vobis;</hi> id est, <hi>Nolite irasci in via.</hi> Et vide
+ne in hac via dicat, hoc est, in hoc cursu totius vitae
+<pb n="0670A"/>
+indignationem cavendam, quod ira saepe <note>(11, quaest.
+3, Ira saepe)</note> etiam innocentes in crimen adducat:
+quia dum justo amplius irascimur, et volumus alienum
+coercere peccatum, graviora peccata committimus.
+Ideo Apostolus: <hi>Non vos ipsos,</hi> inquit, <hi>vindicantes,
+charissimi: sed date locum irae <note>(Rom. XII, 19)</note>
+            </hi>,
+hoc est, declinemus eam, ne nos illa corripiat. Unde
+Dominus Jesus dimittens ad evangelizandum discipulos,
+misit eos sine auro, sine argento, sine pecunia,
+sine pera, sine virga, id est, ut et incentiva litis, et
+instrumenta eriperet ultionis.</p>
+          </div3>
+<div3>
+            <head>79.</head>
+            <p>
+ <hi>Et ascenderunt,</hi> inquit, <hi>de Aegypto, et venerunt</hi> <emph>509</emph> 
+ <hi>in terram Chanaam ad Jacob patrem suum; et
+nuntiaverunt illi dicentes: Quia Joseph filius tuus vivit
+et ipse est princeps totius terrae Aegypti <note>(Gen. XLV, 25)</note>
+            </hi>.
+<pb n="0670B"/>
+Quae est terra Chanaam? Quae nutabat. Quid igitur
+tam evidens, quam apostolorum tempora designari?
+Qui ingressi Judaeorum synagogas nutantes, Domini
+Jesu potentiam praedicabant, sicut habemus in Actibus
+apostolorum, dicente Petro: <hi>Hunc ergo Jesum
+resuscitavit Deus, cujus nos testes sumus. Dextera igitur
+Dei exaltatus, repromissione Spiritus sancti accepta
+a Patre, effudit hoc donum quod vos videtis <note>(Act.II,
+32 et 33)</note>
+            </hi>. Advertimus certe quomodo et vivere eum,
+et terrae totius principem dicat, qui aperiens horrea
+sua, spiritalis gratiae donet omnibus ubertatem. Haec
+dicebant apostoli <note>(Act. V, 18)</note>, sed Judaei non credebant:
+sed injiciebant manus in eos, sed trudebant in
+custodiam praedicatores salutis.</p>
+          </div3>
+<div3>
+            <head>80.</head>
+            <p>
+ Unde et de Jacob scriptum est: <hi>Expavit mente</hi> 
+<pb n="0670C"/> <note>(Gen. XLV, 26)</note>;
+non enim credebat eis. Expavit
+affectu plebis incredulae, sed posteaquam Christi
+gesta cognovit, tantis beneficiis et operibus delinitus
+resumpsit spiritum dicens: <hi>Magnum mihi est, si adhuc
+filius meus Joseph vivit: ibo, et videbo illum prius
+quam moriar <note>(Ibid., 28)</note>
+            </hi>. Primum et maximum fidei
+fundamentum, in resurrectionem Christi credere.
+Quicumque enim crediderit resuscitatum, festinus
+requirit, devotus accedit, et intima Deum mente veneratur.
+Credit enim quod ipse non moriatur, si
+credat in resurrectionis auctorem.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p> <hi>Israel elevans se venit ad puteum juramenti, ubi et
+sacrificat. Hunc Deus promissis consolatur, eique
+spondet fore ut ejus oculi manu Josephi claudantur.
+Ingrediuntur in Aegyptum septuaginta quinque animae,
+ac demum filios ad se convocat Israel: et horum
+omnium quae mysteria?</hi> 
+<pb n="0670D"/>
+          </p>
+<div3>
+            <head>81.</head>
+            <p>
+ <hi>Et elevans se Israel, venit ad puteum juramenti,
+immolavitque hostiam Deo patris sui Isaac <note>(Gen.
+XLVI, 1)</note>
+            </hi>. Merito elevatur qui festinat ad Christum.
+Fides praecedit devotionem. Prius se elevavit, postea
+<pb n="0671A"/>
+immolavit. Ille enim bene immolat, qui cognitionem
+divinitatis investigaverit.</p>
+          </div3>
+<div3>
+            <head>82.</head>
+            <p>
+ <hi>Dixit autem Deus ad Israel in visu nocte dicens:
+Jacob, Jacob. Qui dixit: Quid est? Et Dominus ait:
+Ego sum Deus patrum tuorum, noli timere, descende
+in Aegyptum; in gentem enim magnam faciam te ibi.
+Ego descendam tecum in Aegyptum, et ego deducam te in
+perpetuum <note>(Gen., XLVI, 2 et seq.)</note>
+            </hi>. Quemadmodum quae
+ipsi legunt, non intelligunt; et Moysen quem laudant,
+abnegant, cum ejus scriptis credere nolunt. Quid
+evidentius quam quod hoc loco invitantur, ut ad
+sanctam Ecclesiam Dei transeant, et qui ante intra
+Judeae terminos coarctabantur <emph>510</emph> angustos, ad populum
+Dei migrent, qui ex toto orbe, ex omnibus nationibus
+et populis congregatus in magnam factus est
+<pb n="0671B"/>
+gentem? Denique in omnem terram exivit sonus
+eorum. Vocatur ergo a filiis suis Jacob, id est, a
+Petro, Paulo, Johanne, populus Judaeorum invitatur
+ad gratiam.</p>
+          </div3>
+<div3>
+            <head>83.</head>
+            <p>
+ Ipse quoque Deus noster proprio eum hortatur
+oraculo, spondet ei profectum fidei muneris sui
+fructum dicens ei: <hi>Joseph mittet manum super oculos
+tuos <note>(Gen. XLVI, 4)</note>
+            </hi>. Non utique sanctus Patriarcha
+sollicitus erat a quo ei oculi clauderentur; licet
+etiam intellectu simplici moralis exprimatur affectus.
+Nam si eos quos diligimus, cupimus frequenter amplecti,
+quanto magis recessuri ex hoc corpore, ipso
+charorum pignorum tactu delectamur extremo, et hoc
+mulcemur viatico? Tamen mystice licet nobis intelligere
+quod postea cogniturus Deum sit populus Judaeorum.
+<pb n="0671C"/>
+Hoc est enim mysterium, quod verus Joseph
+immittet manus super oculos ejus; ut qui non
+videbat ante, jam videat. Veni ad Evangelium
+<pb n="0672A"/> <note>(Joan. IX, 6)</note>,
+lege quemadmodum caecus ille sanatus
+sit, cui Jesus manum imposuit, et ejus abstulit caecitatem.
+Non enim morituris Christus manum imponit,
+sed victuris: aut si morituris, recte; quia prius morimur,
+ut reviviscamus. Non enim possumus Deo
+vivere, nisi peccato ante moriamur.</p>
+          </div3>
+<div3>
+            <head>84.</head>
+            <p>
+ Descendunt igitur in Aegyptum septuaginta
+quinque animae, sicut scriptum est, et hoc mysticae
+numero remissionis; quia post tantam duritiam, post
+tanta peccata haberentur indigni, nisi donaretur his
+remissio peccatorum. Occurrit illi Judas, hoc est,
+confessio erroris. Hunc sui venturus Judaeorum populus
+praenuntium mittit. Ideo et Joseph verus, id
+est, arbiter et interpres divinitatis occurrit; quia
+praecedit jam confessio, quos antea perfidia possidebat.
+<pb n="0672B"/>
+Interpres enim divinitatis est Christus; quia
+Deum nemo vidit umquam; nisi unigenitus Filius
+qui est in sinu Patris, ipse enarravit. Hic senilis jam
+aetatis, et fessum suscipiet ultimis temporibus populum
+Judaeorum, non secundum illius merita, sed
+secundum electionem gratiae: et imponet manus
+super oculos ejus, ut caecitatem auferat. Cujus ideo
+distulit sanitatem, ut postremus crederet, qui ante
+non putavit esse credendum, et praerogativam superioris
+electionis amitteret. Unde et Apostolus ait: <hi>Quia caecitas ex parte contigit in Israel, donec plenitudo
+gentium intraret, et sic omnis Israel salvus fieret <note>(Rom. XI, 25)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>85.</head>
+            <p>
+ Gesta igitur patriarcharum, futurorum mysteria
+sunt. Denique ipse Jacob sic ait ad filios suos:
+<pb n="0672C"/> <hi>Congregamini, ut annuntiem vobis quae occursura sunt
+vobis in novissimis diebus. Congregamini, et audite
+Israel patrem vestrum 
+ <note>(Gen. XLIX, 1 et 2)</note>
+            </hi>.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

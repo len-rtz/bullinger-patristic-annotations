@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11995" type="Brief" source="HBBW-14" n="1948">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] an Heinrich Bullinger, 29. Juli [1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/11995</idno>
+				<idno subtype="url" resp="irg">http://teoirgsed.uzh.ch/SedWEB.cgi?fld_418=1948</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b17" n="1948" type="transcription">S. 319</bibl>
+				<bibl source="b17" n="1948" type="regest">S. 319</bibl>
+				<bibl source="b17" n="1948" type="footnotes"/>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 357,653</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 357a,653</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">Findet sich mit der Verzögerung ihrer Pläne ab und interpretiert diese als göttlichen Willen; lasst uns Gott vertrauen. Übersendet einen Brief von <persName ref="p8417" cert="high">[Wolfgang] Musculus</persName>, <persName ref="p495" cert="high">Bullinger</persName> kann seine Antwort an <persName ref="p8055" cert="high">Blarer</persName> senden. Grüße; wird an <persName ref="p8011" cert="high">[Rudolf] Gwalther</persName> schreiben. Hat das Geld empfangen.</p>
+						</summary>
+						<msItem>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Zusammenfassende__Übersetzung">
+								<title>Blarer BW II, S. 276, Nr. 1106</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 14, Nr. 1948, S. 319</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p8055" cert="low"/>
+					<placeName ref="l257" cert="low"/>
+					<date when="1544-07-29" cert="low"/>
+					<rs type="title">Ambrosius [Blarer]</rs>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="finished">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11995!Autograph!00%20E_II_357__fol__653_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">11995/Autograph/00 E_II_357__fol__653_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11995!Autograph!01%20E_II_357__fol__653_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">11995/Autograph/01 E_II_357__fol__653_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la">S.</s>
+					<s n="2" xml:lang="la">Non est, quo[d literis tu?] is<note xml:id="fna" type="footnote" n="a"><hi>Ein Stück des Textes wurde herausgeschnitten.</hi></note> respondeam,<note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullingers</persName> Brief ist nicht erhalten.</note> nisi quod boni consulo, quicquid iniectum est remorarum huic, quod nosti, instituto, mi venerande pariter et charissime frater, neque dubito, quin singulari cęlestis patris consilio<pb type="edition" next="320"/> factum sit, quod non potuit successus aliquis esse tot annorum in hac re conatuum<note xml:id="fn2" type="footnote" n="2"><persName ref="p8055">Blarer</persName> bezieht sich wahrscheinlich auf den möglichen Anschluss von <placeName ref="l257">Konstanz</placeName> an die <placeName ref="l862">Eidgenossenschaft</placeName>; s. zuletzt oben <ref target="file11966">Nr. 1919</ref>, 18-45.</note>.</s>
+					<s n="3" xml:lang="la">Olim, tamen, puto utrinque videbimus consilii huius non obscuram rationem.</s>
+					<s n="4" xml:lang="la">Valde me solatur in istis dubiis temporibus, quod non certa solum, sed optima quoque de nobis constituit, qui solus rerum, velit nolit mundus<note xml:id="fn3" type="footnote" n="3"><persName ref="p18986">Hieronymus</persName>, Epistulae, 45, 7.</note>, potitur; illi nos, quam feliciter possumus, tam etiam, quanti quanti sumus, permittamus.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" ana="salute">Bene vale, mi <persName ref="p495">Bullingere</persName>, nosque sanctissima pertinacia perpetuo ama, Christo nos et nostros piis votis diligenter commendans.</s>
+					<s n="6" xml:lang="la">Mitto <persName ref="p8417">Musculi</persName> literas<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file11990">Nr. 1943</ref>.</note>; ad quem si quid forte rescribere volueris, mitte<note xml:id="fn5" type="footnote" n="5">Auf <persName ref="p495">Bullingers</persName> (verschollene) Antwort antwortete <persName ref="p8417">Musculus</persName> am 19. September 1544, unten <ref target="file12038">Nr. 1991</ref>.</note>.</s>
+					<s n="7" xml:lang="la" ana="salute">Saluta omnes fratres et amicos cum tota tua domo.</s>
+					<s n="8" xml:lang="la">Commenda nos optimo consuli <persName ref="p2816">Röstio</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p2816">Diethelm Röist</persName>.</note>.</s>
+					<s n="9" xml:lang="la" ana="salute"><persName ref="p8011">Gvalthero</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p8011">Rudolf Gwalther</persName>.</note> scribam, ubi primum vacabit;<note xml:id="fn8" type="footnote" n="8">Der nächste erhaltene Brief <persName ref="p8055">Blarers</persName> an <persName ref="p8011">Gwalther</persName> datiert vom 8. Oktober (<persName ref="p8055">Blarer</persName> BW II 305f, <ref target="file11175">Nr. 1132</ref>).</note> tu hominem mea vice amantissime saluta.</s>
+					<s n="10" xml:lang="la" ana="farewell">Iterum vale.</s>
+					<s n="11" xml:lang="la">29. iulii<note xml:id="fnb" type="footnote" n="b"><hi>Darunter von Traugott Schieß' Hand:</hi> 1544.</note>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la">Pecuniam accepi<note xml:id="fn9" type="footnote" n="9">Möglicherweise handelt es sich um die Bezahlung eines Boten.</note>.</s>
+					<s n="13" xml:lang="la">Tuus <persName ref="p8055">Ambr.</persName></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="14" xml:lang="la">Praestantissimo pietate et eruditione viro d. <persName ref="p495">Heinricho Bullingero</persName>, amico modis omnibus summo.</s>
+					<s n="15" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

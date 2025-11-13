@@ -1,0 +1,2693 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Adversus Valentinianos</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.AdvVal</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  <note>XML corrections by Jan Ctibor in 2023: isolated heads moved to corresponding divs</note>
+      </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Prooemium.</head>
+<p>
+          <pb n="0523D"/> <hi>Haeresim Valentini erupisse sub Antonio Pio, imperium
+adepto anno 138, affirmant Tertullianus <note>(De Praescript.,
+cap. 30)</note> ac Theodoretus <note>(De Haeretic. fab.,
+lib. I)</note>
+          </hi>. <hi>Fuit autem Valentinus Phraebonites patria,
+ex maritima Aegypti ora, platonicae sectator philosophiae,
+imbutus Graecorum artibus, ac figmentis,
+atque, ut sui jactabant </hi>
+          <note>(Apud Orig. in Dial. 
+adv. Marcion.)</note>, <hi>auditor Theodadis, discipuli Pauli
+apostoli. Natum Valentinum censet Massuetus (Dissert.
+<pb n="0524D"/>
+in Iren., num. 7) anno Christi 85, denatum
+vero 158. Scripsisse fertur Valentinus psalmos nonnullos,
+epistolas item a Clemente Alexandr. in</hi> II <hi>et</hi> 
+ III Stromatum <hi>libris laudatas, quarum epistolarum
+una inscribitur ad Agathopodem diaconum anthiochenum,
+ut opinantur Grabius et Caveus. Edidit
+Valentinus etiam homilias atque opus inscriptum:</hi> <foreign xml:lang="greek">Πόθεν τὰ κακὰ,</foreign>
+ <hi>id est,</hi> Unde mala, <hi>cujus operis fragmenta
+exstant apud laudatum Clementem, lib.</hi> VI, <hi>et
+<pb n="0525A"/>
+Epiphanium, haeres.</hi> XXXI. <hi>Evangelium scripsisse
+proprium nemo nisi auctor novem posteriorum capitum
+libri</hi> de Praescriptione <hi>refert. Ab Ecclesia
+catholica defecit, quoniam episcopatum, cujus ardebat
+desiderio, consequi non valuit, uti adversus eumdem
+Valentinum, cap.</hi> IV, <hi>tradit Tertulllianus. Relicta
+Alexandria Valentinus Romam venit, sedente Hygino,
+ibique commoratus est usque ad Anicetum. Praeter
+D. Irenaeum, Tertullianum, Epiphanium ac Theodoretum,
+plura de Valentinianis scribunt Massuetus <note>(Dissert. ead., ibid.)</note>
+          </hi>,
+ <hi>Natalis Alexander <note>(in Hist.
+Eccles. Saecul. II, cap. 2, art 6)</note>
+          </hi>, <hi>Beausobre <note>(in
+Hist. Manichaeorum, part. II, lib. V)</note>
+          </hi>, <hi>Semlerus
+<note>(L. Band der Polemik der Baumgartens)</note>, nec non
+Valcheus (Kezergeschichte, I, Band)</hi>, <hi>et Ittig. (Diss.
+<pb n="0525B"/>
+de haeresiarchis, sect. II, cap. 5, et ejusdem Dissert.
+appendice ad sect. II, cap. 5)</hi>. <hi>Ac demum recentius
+Matter <note>(Hist. du Gnosticisme, t. II)</note>
+          </hi>. <hi>Etsi vero
+fabulosa Valentini haeresis sola descriptione sui appareat
+absurdissima, fuere tamen nonnulli qui ipsum
+Valentinum orthodoxum existimarunt, ut abbas
+Faydit, qui edidit Dilucidationem doctrinae priorum
+saeculorum; multaque ad Valentini systema emoliendum
+Manichaeorum historiae inseruit etiam Beausobre <note>(Lumper, Histor. theolog. critica de Vita,
+Scriptis atq. Doctr. SS. Patrum, part. III, sect. IV,
+cap. 3, Dissert. praev. art. 1)</note>
+          </hi>.</p>
+<p> <hi>Porro certo certius est Tertullianum, dum suum
+adversus Valentianianos librum elucubravit, eam prae
+oculis habuisse sancti Irenaei, episcopi Lugdun.,
+<pb n="0525C"/>
+librorum adversus haereses interpetationem latinam,
+veterem et vulgatam, quam, ad usque tempora nostra
+servatam, Irenaeo ipso vel adhuc in vivis superstite, vel
+nuper erepto, editam fuisse constat. Quisquis Irenaeum
+latinum cum Tertulliano contulerit, in promptu deprehendet
+hunc adeo vestigia illius premere, adeo
+verbis ipsis, verborumque figuris et ordini adhaerere,
+ut id unum sibi proposuisse videatur eadem paucioribus
+contrahere; iisdem saepe servatis verbis, immixtis
+tamen pro more dicteriis quadam afri ingenii procacitate
+propalatis <note>(Conf. Iren., lib. I, cap. 11, num. 3,
+cum Tertull., cap. 23, et Iren., num. 5, cum Tertull.,
+cap. 25, etc. Vide Massueti dissertation. II, in Iren.
+lib., num. 55, p. 89, 90)</note>
+          </hi>.</p>
+<p> <hi>Haec plurima hinc et inde loca similia sedulo colligenda,
+<pb n="0525D"/>
+ac ut facilius ea lector conferre queat, in
+notis adponenda curavimus. Nec jam, ni fallor, nemini
+ambiguum erit praeivisse Tertulliano Irenaeum, ac
+proinde perperam ea in dubium revocasse, et inter
+<pb n="0526A"/>
+spuria repudiasse Johann. Salomom. Semlerum,
+vivum, si quis unquam, ad omnia fere venerandae antiquitatis
+monumenta ex auctoritate sua dejicienda
+profecto natum; hic enim in</hi> Historica Isagoge ad
+Baumgartenii Polemicam <note>(Vol. II, p. 131)</note>, <hi>in</hi> Prolusione
+de cavenda molesta sedulitate sacra ad
+corrigendas quasdam Irenaei et Tertulliani sententias <note>(Edit. Halae., 1772)</note>,
+ <hi>et in</hi> Dissertatioe de
+varia et incerta indole horum librorum <hi>Tertulliano
+Halensi adjecta <note>(Vol. V, p. 245-290, ed. Halae Magdeburg.,
+1828)</note>
+          </hi>, <hi>fidem Irenaei minuere ejusque libros
+in suspicionem</hi> <foreign xml:lang="greek">νοθείας</foreign> <hi>adducere tentavit; ut defensionem
+illorum suscepit celeberr. Valchius, theologus
+gottingensis, in novis commentariis Societatis
+Regiae Scientiarum Gottingensis (T. V, part. 100,
+<pb n="0526B"/>
+ann. 1774-1775; Lumper., lib. cit., cap, II, art. 1,
+p. 218.)</hi> EDD.</p>
+<p> <hi>Caeterum Tertulliani esse librum hunc adversus Valentinianos
+vel inde constat, quod cap.</hi> XVI, <hi>nominatim
+libri adversus Hermogenem meminerit, quem
+ejus esse constat. Et vero scripsisse illum adversus
+Valentinianos luculenti sunt testes B. Optatus Milevitanus,
+lib.</hi> I, <hi>adversus Parmenian. Donatistam, et
+Vincentius Lirinensis, lib. de Prophan. haeres. novitate.
+Visus fuit etiam jam olim MS. a Trithemio
+et Politiano, et inter primos a Rhenano editus primum
+scholiis, deinde et annotationibus ita illustratus,
+ut nusquam diligentior fuerit. Non contemnendam
+tamen esse nostram postremam hanc recognitionem,
+idque ex B. Irenaei, lib.</hi> I, <hi>cap. 1, et aliquot
+<pb n="0526C"/>
+sequentibus, eoque tam graeco apud Epiphanium,
+quam latino juxta versiones varias, et tribus Vatic.
+MS. exemplaribus, colliget facile lector, ex iis quas
+majoris adhuc lucis gratia adjecimus annotationibus,
+Argumento, imo et Catalogo Aeonum ac situs ipsorum
+delineatione apertioribus.</hi> PAMELIUS.</p>
+<p> <hi>Opportunior sane se dabit occasio de immensa farragine</hi> <foreign xml:lang="greek">ΓΝΩΣΕΩΣ</foreign> <hi>in genere ac de arduo themate Valentiniano
+in specie uberius disserendi, ubi de praestantissimis
+Irenaei adversus haereses libris dicendum
+erit. Nobis igitur, pro more, moduloque nostro, sufficiat
+haec pauca, prooemii instar, praelibasse, pauculaque
+addere hinc inde desumpta, sive ex Pamelio,
+sive ex Massueto, addere, quibus, antequam librum
+hunc, obscurum sane et intellectu impervium, aggrediamur,
+<pb n="0526D"/>
+lectori, praeluceat tum interpretatio nominum
+Aeonum Valentini, tum syntagma gnoseos ex ejusdem
+hypothesi concinnatum.</hi> EDD.</p>
+</div1>
+
+<div1>
+        <head>NOMINA AEONUM ET DEORUM VALENTINI, IMO CRIMINUM POTIUS QUAM NUMINUM, ALIORUMQUE EODEM PERTINENTIUM.<note>(EX EDIT. PAMELII.)</note>
+        </head>
+
+<pb n="0525"/>
+<p>
+          <pb n="0525D"/>De his nominibus infra, c. 6, sic Tertullianus: <hi>Quorumdam</hi> (inquit) <hi>de graeco interpretatio non occurrit,
+quorumdam nec de sexu genera conveniunt, quorumdam usitatior in graeco notitia est. Itaque plurimum graeco ponemus,
+significantiae per paginarum limites aderunt; nec latinis quidem deerunt graeca, sed in lineis desuper notabuntur.</hi> </p>
+<p>
+          <pb n="0527"/>Hactenus ille. Quod tamen cum in MS. codicibus neque Rhenanus, neque ego factum invenerimus,
+expediebat ad intellectum majorem, hunc Nominum Catalogum praefigere. Quem nunc et locupletavi, et in ordinem
+congruum redegi, adjecto majoris explicationis gratia capitum numero, ubi de singulis ipsorum agitur.
+Annotavi etiam quae hic aut alibi Tertulliano usitata, quae Irenaeo Latino lib. I adv. haeres., c. I, quae denique
+Epiphanio Graeco haeres. XXXI, aut ejus Interpreti Latino; e quibus etiam nomina aliquot castigata sunt. PAM.
+</p>
+      </div1>
+
+<div1>
+        <head>GENERALIA NOMINA, AD PRODUCTIONEM, CONJUGIA, ET NUMERUM AEONUM PERTINENTIA, EX CAP. VII, VIII, XII, XXIII, XXX ET XXXI.</head>
+<table>
+<row>
+            <cell>
+              <emph>SERIES
+NOMINUM LATINA.</emph>
+            </cell>
+            <cell>
+              <emph>SERIES
+NOMINUM GRAECA.</emph>
+            </cell>
+            <cell>
+              <emph>NOMINUM
+INTERPRETATIO.</emph>
+            </cell>
+          </row>
+<row>
+            <cell>Aeôn, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">αἰὼν,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Saeculum, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Aeônes.</cell>
+            <cell> <foreign xml:lang="greek">αἰῶνες.</foreign>
+            </cell>
+            <cell>Saecula.</cell>
+          </row>
+<row>
+            <cell>Syzygia.</cell>
+            <cell> <foreign xml:lang="greek">συζύγια</foreign>
+            </cell>
+            <cell>Conjugatio, <hi>Tertull.</hi> 
+Copulatio, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Nymphôn.</cell>
+            <cell> <foreign xml:lang="greek">νυμφὼν.</foreign>
+            </cell>
+            <cell>Nuptiarum domus.
+Thalamus.</cell>
+          </row>
+<row>
+            <cell>Probolê</cell>
+            <cell> <foreign xml:lang="greek">προβολὴ</foreign>
+            </cell>
+            <cell>Emissio, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Ogdoas.</cell>
+            <cell> <foreign xml:lang="greek">ὀγδοὰς.</foreign>
+            </cell>
+            <cell>Octonarius, <hi>Tertull.</hi> 
+Octonarius. <hi>Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Tetras, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">τετρὰς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Quaternarius, <hi>Int. Epiph.</hi> 
+Quadriga, <hi>Tertull.</hi> 
+Quaternatio, <hi>Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Decas.</cell>
+            <cell> <foreign xml:lang="greek">δεκὰς</foreign>
+            </cell>
+            <cell>Denarius.</cell>
+          </row>
+<row>
+            <cell>Dôdecas</cell>
+            <cell> <foreign xml:lang="greek">δωδεκὰς</foreign>
+            </cell>
+            <cell>Duodenarius.</cell>
+          </row>
+<row>
+            <cell>Triacontas.</cell>
+            <cell> <foreign xml:lang="greek">τριακοντὰς.</foreign>
+            </cell>
+            <cell>Tricenarius.</cell>
+          </row>
+<row>
+            <cell>Ectrôma</cell>
+            <cell> <foreign xml:lang="greek">ἔκτρωμα</foreign>
+            </cell>
+            <cell>Partus abortivus.</cell>
+          </row>
+</table>
+
+</div1>
+
+
+
+<div1>
+        <head>XXX. AEONUM NOMINA.</head>
+        <head>OGDOAS, SEU QUADRIGA DUPLEX, AEONUM. CAP. VII.</head>
+<table>
+<row>
+            <cell>I. Bythos, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">βῦθος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Profundum, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Aeôn telios</cell>
+            <cell> <foreign xml:lang="greek">αἰὼν τέλειος</foreign>
+            </cell>
+            <cell>Saeculum perfectum.
+Aeon perfectus, <hi>Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Archê.</cell>
+            <cell> <foreign xml:lang="greek">ἡ ἀρχὴ</foreign>
+            </cell>
+            <cell>Initium, <hi>Iren.</hi> 
+Principium.</cell>
+          </row>
+<row>
+            <cell>Proarchê.</cell>
+            <cell> <foreign xml:lang="greek">προαρχὴ,</foreign> <hi>Iren.</hi> </cell>
+            <cell>Prior principio.</cell>
+          </row>
+<row>
+            <cell>Propatôr.</cell>
+            <cell> <foreign xml:lang="greek">προπάτωρ,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Primus Pater, <hi>Tertull.</hi> 
+Immensus Pater, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Pater.</cell>
+            <cell> <foreign xml:lang="greek">πατὴρ.</foreign>
+            </cell>
+            <cell>Pater.</cell>
+          </row>
+<row>
+            <cell>Pater pantôn.</cell>
+            <cell> <foreign xml:lang="greek">πατὴρ πάντων</foreign>
+            </cell>
+            <cell>Pater omnium.</cell>
+          </row>
+<row>
+            <cell>Proôn.</cell>
+            <cell> <foreign xml:lang="greek">προὼν.</foreign>
+            </cell>
+            <cell>Praeexistens.
+Qui ante fuit, <hi>Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Autopatôr, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">οὐτοπάτωρ</foreign>
+            </cell>
+            <cell>Ipse per se pater.</cell>
+          </row>
+<row>
+            <cell>Anarchos, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄναρχος</foreign>
+            </cell>
+            <cell>Carens principio.</cell>
+          </row>
+<row>
+            <cell>Risa, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ῥίζα</foreign>
+            </cell>
+            <cell>Radix.</cell>
+          </row>
+<row>
+            <cell>II. Sigê, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">σιγὴ,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Silentium, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Ennoea</cell>
+            <cell> <foreign xml:lang="greek">ἔννοια.</foreign>
+            </cell>
+            <cell>Intelligentia.
+Cogitatio.</cell>
+          </row>
+<row>
+            <cell>Charis.</cell>
+            <cell> <foreign xml:lang="greek">χάρις.</foreign>
+            </cell>
+            <cell>Gratia.</cell>
+          </row>
+<row>
+            <cell>Mater.</cell>
+            <cell> <foreign xml:lang="greek">μητὴρ.</foreign>
+            </cell>
+            <cell>Mater.</cell>
+          </row>
+<row>
+            <cell>III. Nus.</cell>
+            <cell> <foreign xml:lang="greek">νοῦς.</foreign>
+            </cell>
+            <cell>Mens.</cell>
+          </row>
+<row>
+            <cell>Monogenes</cell>
+            <cell> <foreign xml:lang="greek">μονογενὴς.</foreign>
+            </cell>
+            <cell>Unigenitus.</cell>
+          </row>
+<row>
+            <cell>Protogenes, <hi>Tertull.</hi> </cell>
+            <cell> <foreign xml:lang="greek">προτογενὴς.</foreign>
+            </cell>
+            <cell>Prior genitus, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Pater, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">πατὴρ.</foreign>
+            </cell>
+            <cell>Pater.</cell>
+          </row>
+<row>
+            <cell>Archê tôn pantôn.</cell>
+            <cell> <foreign xml:lang="greek">ἀρχὴ τῶν πάντων.</foreign>
+            </cell>
+            <cell>Initium omnium.</cell>
+          </row>
+<row>
+            <cell>IV. Alêtheia.</cell>
+            <cell> <foreign xml:lang="greek">ἀληθεια</foreign>
+            </cell>
+            <cell>Veritas.</cell>
+          </row>
+<row>
+            <cell>V. Logos, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">λόγος.</foreign>
+            </cell>
+            <cell>Sermo, <hi>Tertull.</hi> 
+Verbum.</cell>
+          </row>
+<row>
+            <cell>VI. Zoê, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ζωὴ</foreign>
+            </cell>
+            <cell>Vita, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>VII. Anthrôpos, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄνθρωπος</foreign>
+            </cell>
+            <cell>Homo, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>VIII. Ecclesia, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἐκκλησία</foreign>
+            </cell>
+            <cell>Ecclesia, <hi>Tertull. Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>DECAS AEONUM. CAP. VIII.</head>
+<table>
+<row>
+<cell>IX. Bythios, <hi>Tert. Iren.</hi> </cell>
+<cell> <foreign xml:lang="greek">βύθιος,</foreign> <hi>Epiph.</hi> </cell>
+<cell>Profundus, <hi>Int. Epiph.</hi> </cell>
+</row>
+<row>
+<cell>X. Mixis</cell>
+<cell> <foreign xml:lang="greek">μίξις</foreign>
+            </cell>
+<cell>Mixtio.</cell>
+</row>
+<row>
+<cell>XI. Agêratos.</cell>
+<cell> <foreign xml:lang="greek">ἀγήρατος</foreign>
+            </cell>
+<cell>Non senescens.</cell>
+</row>
+<row>
+<cell>XII. Henôsis</cell>
+<cell> <foreign xml:lang="greek">ἕνωσις</foreign>
+            </cell>
+<cell>Unio.</cell>
+</row>
+<row>
+<cell>XIII. Autophyes</cell>
+<cell> <foreign xml:lang="greek">αὐτοφυὴς</foreign>
+            </cell>
+<cell>Per se naturalis.</cell>
+</row>
+<row>
+<cell>XIV. Hêdonê</cell>
+<cell> <foreign xml:lang="greek">ἡδονὴ.</foreign>
+            </cell>
+<cell>Voluptas.</cell>
+</row>
+<row>
+<cell>XV. Akinetos.</cell>
+<cell> <foreign xml:lang="greek">ἀνίνητος</foreign>
+            </cell>
+<cell>Immobilis.</cell>
+</row>
+<row>
+<cell>XVI. Syncrasis, <hi>Tertull.</hi> </cell>
+<cell> <foreign xml:lang="greek">σύγκρασις.</foreign>
+            </cell>
+<cell>Commixtio.</cell>
+</row>
+<row>
+<cell>Homosyncrasis, <hi>Iren.</hi> </cell>
+<cell> <foreign xml:lang="greek">ὅμοσύγκρασις</foreign>
+            </cell>
+<cell>Similis commixtio.</cell>
+</row>
+<row>
+<cell>XVII. Monogenes</cell>
+<cell> <foreign xml:lang="greek">μονογενὴς.</foreign>
+            </cell>
+<cell>Unigenitus.</cell>
+</row>
+</table>
+<table>
+<pb n="0529"/>
+</table>
+<table>
+<row>
+            <cell>XVIII. Macaria</cell>
+            <cell> <foreign xml:lang="greek">μακαρία</foreign>
+            </cell>
+            <cell>Fortunata, <hi>Tertull.</hi> 
+Felicitas, <hi>Int. Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>DODECAS AEONUM, EODEM. CAP. VIII.</head>
+<table>
+<row>
+            <cell>XIX. Paracletus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">παράκλητος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Paracletus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>XX. Pistis.</cell>
+            <cell> <foreign xml:lang="greek">πίστις.</foreign>
+            </cell>
+            <cell>Fides.</cell>
+          </row>
+<row>
+            <cell>XXI. Patricos</cell>
+            <cell> <foreign xml:lang="greek">πατρικός</foreign>
+            </cell>
+            <cell>Paternus.</cell>
+          </row>
+<row>
+            <cell>XXII. Elpis</cell>
+            <cell> <foreign xml:lang="greek">ἐλπὶς</foreign>
+            </cell>
+            <cell>Spes.</cell>
+          </row>
+<row>
+            <cell>XXIII. Mêtricos</cell>
+            <cell> <foreign xml:lang="greek">μητρικὸς</foreign>
+            </cell>
+            <cell>Maternus.</cell>
+          </row>
+<row>
+            <cell>XXIV. Agapê.</cell>
+            <cell> <foreign xml:lang="greek">ἀγάπη</foreign>
+            </cell>
+            <cell>Caritas.</cell>
+          </row>
+<row>
+            <cell>XXV. Ainos.</cell>
+            <cell> <foreign xml:lang="greek">αἶνος</foreign>
+            </cell>
+            <cell>Laus.</cell>
+          </row>
+<row>
+            <cell>Ainus, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἀεινοὺς.</foreign>
+            </cell>
+            <cell>Semper mens.</cell>
+          </row>
+<row>
+            <cell>XXVI. Synesis</cell>
+            <cell> <foreign xml:lang="greek">σύνεσις.</foreign>
+            </cell>
+            <cell>Intelligentia.</cell>
+          </row>
+<row>
+            <cell>Phronesis, <hi>Billio.</hi> </cell>
+            <cell> <foreign xml:lang="greek">φρόνησις,</foreign> <hi>Bill.</hi> </cell>
+            <cell>Prudentia, <hi>Bill.</hi> </cell>
+          </row>
+<row>
+            <cell>XXVII. Ecclesiasticus</cell>
+            <cell> <foreign xml:lang="greek">ἐκκλησιαστικὸς</foreign>
+            </cell>
+            <cell>Ecclesiasticus.</cell>
+          </row>
+<row>
+            <cell>XXVIII. Macariotes</cell>
+            <cell> <foreign xml:lang="greek">μακαριότης.</foreign>
+            </cell>
+            <cell>Beatitudo.</cell>
+          </row>
+<row>
+            <cell>Teletus, <hi>Tert.</hi> </cell>
+            <cell> <foreign xml:lang="greek">τελετὸς.</foreign>
+            </cell>
+            <cell>Perfectus, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>XXIX. Philetus, <hi>Tert.</hi> </cell>
+            <cell> <foreign xml:lang="greek">φιλητὸς.</foreign>
+            </cell>
+            <cell>Amabilis, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Theletus, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">θελητὸς,</foreign> <hi>Iren.</hi> </cell>
+            <cell>Voluntas, <hi>Int. Epiph.</hi> 
+Voluntarius, <hi>Int. Theod.</hi> </cell>
+          </row>
+<row>
+            <cell>XXX. Sophia.</cell>
+            <cell> <foreign xml:lang="greek">σοφία</foreign>
+            </cell>
+            <cell>Sapientia.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>CUSTODIS PLEROMATIS HORI EX BYTHO SOLO PRODUCTI NOMINA, CAP. IX ET X.</head>
+<table>
+<row>
+            <cell>Horos, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ὅρος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Terminus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Stauros, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">σταυρὸς</foreign>
+            </cell>
+            <cell>Crux, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Lytrotes</cell>
+            <cell> <foreign xml:lang="greek">λυτρωτὴς</foreign>
+            </cell>
+            <cell>Redemptor.</cell>
+          </row>
+<row>
+            <cell>Carpistes.</cell>
+            <cell> <foreign xml:lang="greek">καρπιστὴς.</foreign>
+            </cell>
+            <cell>Traductor.</cell>
+          </row>
+<row>
+            <cell>Metagogens.</cell>
+            <cell> <foreign xml:lang="greek">μεταγωγεὺς.</foreign>
+            </cell>
+            <cell>Circumductor, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Horothetês.</cell>
+            <cell> <foreign xml:lang="greek">ὁροθέτης</foreign>
+            </cell>
+            <cell>Finitor, <hi>seu</hi> 
+Finium designator.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>ECTROMATIS, SIVE ABORTIVI FOETUS NOMINA, CAP. IX-XIV ET XXI.</head>
+<table>
+<row>
+            <cell>Enthymesis, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἐνθύμησις,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Animatio, <hi>Tertull.</hi> 
+Cogitatio, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Achamoth, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἀχσμὼθ,</foreign> <hi>Epiph.</hi> </cell>
+            <cell> Sapientia.</cell>
+          </row>
+<row>
+            <cell>Sophia.</cell>
+            <cell> <foreign xml:lang="greek">σοφία</foreign>
+            </cell>
+            <cell>Sapientia.</cell>
+          </row>
+<row>
+            <cell>Ogdoas.</cell>
+            <cell> <foreign xml:lang="greek">ὀγδοὰς.</foreign>
+            </cell>
+            <cell>Octonarius.</cell>
+          </row>
+<row>
+            <cell>Gè.</cell>
+            <cell> <foreign xml:lang="greek">ἡ γῆ.</foreign>
+            </cell>
+            <cell>Terra.</cell>
+          </row>
+<row>
+            <cell>Mater.</cell>
+            <cell> <foreign xml:lang="greek">μητὴρ.</foreign>
+            </cell>
+            <cell>Mater.</cell>
+          </row>
+<row>
+            <cell>Pneuma hagion.</cell>
+            <cell> <foreign xml:lang="greek">πνεῦμα ἅγιον.</foreign>
+            </cell>
+            <cell>Spiritus sanctus.</cell>
+          </row>
+<row>
+            <cell>Hierusalem, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἱερουσαλὴμ,</foreign>
+            </cell>
+            <cell>Hierusalem.</cell>
+          </row>
+<row>
+            <cell>Kyrios.</cell>
+            <cell> <foreign xml:lang="greek">κύριος.</foreign>
+            </cell>
+            <cell>Dominus.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>NOVORUM EX PRIMO MONOGENE DUORUM AEONUM NOMINA, CAP. XI.</head>
+<table>
+<row>
+            <cell>Christus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">χριστὸς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Christus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Pneuma hagion.</cell>
+            <cell> <foreign xml:lang="greek">πνεῦμα ἅγιον.</foreign>
+            </cell>
+            <cell>Spiritus sanctus.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>AEONIS EX OMNIBUS AEONIBUS CONCINNATI NOMINA. CAP. XII.</head>
+<table>
+<row>
+            <cell>Iesus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἰησοῦς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Iesus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Sô êr</cell>
+            <cell> <foreign xml:lang="greek">σωτὴρ.</foreign>
+            </cell>
+            <cell>Salvator.</cell>
+          </row>
+<row>
+            <cell>Christus</cell>
+            <cell> <foreign xml:lang="greek">χριστὸς.</foreign>
+            </cell>
+            <cell>Christus.</cell>
+          </row>
+<row>
+            <cell>Logos.</cell>
+            <cell> <foreign xml:lang="greek">λόγος</foreign>
+            </cell>
+            <cell>Verbum.</cell>
+          </row>
+<row>
+            <cell>Paracletus.</cell>
+            <cell> <foreign xml:lang="greek">παράκλητος</foreign>
+            </cell>
+            <cell>Paracletus.</cell>
+          </row>
+<row>
+            <cell>Problema, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">πρόβλημα.</foreign>
+            </cell>
+            <cell>Problema.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>ANGELORUM EX IISDEM PRODUCTORUM NOMINA, EODEM CAP. XII.</head>
+<table>
+<row>
+            <cell>Angeli, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄγγελοι,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Angeli, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Doryphori, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">δορυφόροι.</foreign>
+            </cell>
+            <cell>Satellites.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>TRINITATIS GENERUM EX ACHAMOTH NOMINA, CAP. XVII AC XVIII.</head>
+<table>
+<row>
+            <cell>Hylicum, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ὑλικὸν,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Materiale, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Psychicum.</cell>
+            <cell> <foreign xml:lang="greek">ψυχικὸν</foreign>
+            </cell>
+            <cell>Animale.</cell>
+          </row>
+<row>
+            <cell>Pneumaticum.</cell>
+            <cell> <foreign xml:lang="greek">πνευματικὸν</foreign>
+            </cell>
+            <cell>Spiritale.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>DEMIURGI EX ACHAMOTH ET ANIMALI SUBSTANTIA NOMINA, CAP. XVIII, XIX ET XX.</head>
+<table>
+<row>
+            <cell>Demiurgus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">δημιουργὸς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Opifex, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Mêtropatôr</cell>
+            <cell> <foreign xml:lang="greek">μητροπάτωρ</foreign>
+            </cell>
+            <cell>Mater et pater.</cell>
+          </row>
+<row>
+            <cell>Apatôr.</cell>
+            <cell> <foreign xml:lang="greek">ἀπάτωρ</foreign>
+            </cell>
+            <cell>Sine patre.</cell>
+          </row>
+<row>
+            <cell>Pater</cell>
+            <cell> <foreign xml:lang="greek">πατὴρ.</foreign>
+            </cell>
+            <cell>Pater.</cell>
+          </row>
+<row>
+            <cell>Basileus</cell>
+            <cell> <foreign xml:lang="greek">βασιλεύς</foreign>
+            </cell>
+            <cell>Rex.</cell>
+          </row>
+<row>
+            <cell>Hebdomas.</cell>
+            <cell> <foreign xml:lang="greek">ἑβδομὰς</foreign>
+            </cell>
+            <cell>Septenarius.</cell>
+          </row>
+<row>
+            <cell>Archangelus, <hi>Tertull.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἀρχάγγελος,</foreign> <hi>Tertull.</hi> </cell>
+            <cell>Archangelus, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Angelus, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄγγελος.</foreign>
+            </cell>
+            <cell>Angelus. <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Pantocratôr, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">παντοκράτωρ</foreign>
+            </cell>
+            <cell>Omnipotens.</cell>
+          </row>
+<row>
+            <cell>Ctistês.</cell>
+            <cell> <foreign xml:lang="greek">κτιστὴς.</foreign>
+            </cell>
+            <cell>Creator.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>CHRISTI FILII DEMIURGI NOMINA, CAP. XXVI ET XXVII.</head>
+<table>
+</table>
+<table>
+<pb n="0531"/>
+</table>
+<table>
+<row>
+            <cell>Christus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">χριστὸς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Christus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Iesus, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἰησοῦς.</foreign>
+            </cell>
+            <cell>Iesus.</cell>
+          </row>
+<row>
+            <cell>Sôtêr</cell>
+            <cell> <foreign xml:lang="greek">σωτὴρ.</foreign>
+            </cell>
+            <cell>Salvator.</cell>
+          </row>
+<row>
+            <cell>Phôs</cell>
+            <cell> <foreign xml:lang="greek">φῶς.</foreign>
+            </cell>
+            <cell>Lux.</cell>
+          </row>
+<row>
+            <cell>Logos.</cell>
+            <cell> <foreign xml:lang="greek">λόγος</foreign>
+            </cell>
+            <cell>Verbum.</cell>
+          </row>
+<row>
+            <cell>Nus.</cell>
+            <cell> <foreign xml:lang="greek">νοῦς</foreign>
+            </cell>
+            <cell>Mens.</cell>
+          </row>
+</table>
+
+</div1>
+
+
+
+<div1>
+        <head>ARCIUM QUIBUS SINGULI AEONES COLLOCATI SUNT, NOMINA, CAP. XXIII, XXIV, XXV.</head>
+        <head>TRICENARII ALIORUMQUE ALIQUOT AEONUM SEDIS NOMINA.</head>
+<table>
+<row>
+            <cell>Plêroma, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">πλήρωμα,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Universitas, <hi>Tertull.</hi> 
+Plenitudo, <hi>Tertull. Iren.</hi> 
+Complementum, <hi>Int. Epiph.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>ACHAMOTH LOCUS.</head>
+<table>
+<row>
+            <cell>Cenôma, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">κένωμα,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Vacuum, <hi>Iren. Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Mesotêtos topos, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">μεσότητος τόπος.</foreign>
+            </cell>
+            <cell>Locus mediatis.
+Regio mediatis.</cell>
+          </row>
+<row>
+            <cell>Tabulatum.</cell>
+            <cell>medium, <hi>Tertull.</hi> 
+secundum, <hi>Tertull.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>DEMIURGI LOCUS SUPER SEPTEMPLICI COELO.</head>
+<table>
+<row>
+            <cell>Sabbatum, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">σάββατον,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Sabbatum. <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Solium Demiurgi, <hi>Tertull.</hi> </cell>
+            <cell> <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Topos ouranios, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">οὔράνιος τόπος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Subcoelestis locus, <hi>Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>DIABOLI ET HOMINIS LOCUS.</head>
+<table>
+<row>
+            <cell> <foreign xml:lang="greek">Κόσμος,</foreign> <hi>Tertull</hi> </cell>
+            <cell> <foreign xml:lang="greek">κόσμος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Mundus, <hi>Tertull. Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+
+
+<div1>
+        <head>CREATURARUM A DEMIURGO ET ACHAMOTH CONDITARUM NOMINA, CAP. XX, XXII XXV.</head>
+        <head>SPIRITUALIUM.</head>
+<table>
+<row>
+            <cell>Hebdomas ouranôn, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἑβδομὰς οὐρανῶν.</foreign>
+            </cell>
+            <cell>Caelorum septemplex scena, <hi>Tertull.</hi> 
+septenarius, <hi>Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Ourani, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">οὐρανοὶ,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Coeli, <hi>Tert. Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Angeli, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄγγελοι.</foreign>
+            </cell>
+            <cell>Angeli, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Paradisus.</cell>
+            <cell> <foreign xml:lang="greek">παράδεισος.</foreign>
+            </cell>
+            <cell>Paradisus.</cell>
+          </row>
+<row>
+            <cell>Angelus</cell>
+            <cell> <foreign xml:lang="greek">ἄγγελος.</foreign>
+            </cell>
+            <cell>Angelus.</cell>
+          </row>
+<row>
+            <cell>Archangelus quartus, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Diabolus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">διάβολος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Diabolus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Cosmocratôr.</cell>
+            <cell> <foreign xml:lang="greek">κοσμοκράτωρ</foreign>
+            </cell>
+            <cell>Mundi dominus.
+Munditenens, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Daemonia</cell>
+            <cell> <foreign xml:lang="greek">δαιμόνια</foreign>
+            </cell>
+            <cell>Daemonia.</cell>
+          </row>
+<row>
+            <cell>Pneumatica ponêrias</cell>
+            <cell> <foreign xml:lang="greek">πνευματικὰ πονηρίας</foreign>
+            </cell>
+            <cell>Spiritalia nequitiae, <hi>Tert. Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>MATERIALIUM.</head>
+<table>
+<row>
+            <cell>Hylê, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ὕλη,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Materia, <hi>Tertull. Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Cosmos, <hi>Tertull.</hi> </cell>
+            <cell> <foreign xml:lang="greek">κόσμως.</foreign>
+            </cell>
+            <cell>Mundus.</cell>
+          </row>
+<row>
+            <cell>Stoichia, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">στοιχεῖα</foreign>
+            </cell>
+            <cell>Elementa.</cell>
+          </row>
+<row>
+            <cell>Pyr.</cell>
+            <cell> <foreign xml:lang="greek">πῦρ.</foreign>
+            </cell>
+            <cell>Ignis.</cell>
+          </row>
+<row>
+            <cell>Aër.</cell>
+            <cell> <foreign xml:lang="greek">ἀὴρ.</foreign>
+            </cell>
+            <cell>Aër.</cell>
+          </row>
+<row>
+            <cell>Hydor</cell>
+            <cell> <foreign xml:lang="greek">ὕδωρ</foreign>
+            </cell>
+            <cell>Aqua.</cell>
+          </row>
+<row>
+            <cell>Gê</cell>
+            <cell> <foreign xml:lang="greek">γῆ.</foreign>
+            </cell>
+            <cell>Terra.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>ANIMALIUM.</head>
+<table>
+<row>
+            <cell>Anthrôpos, <hi>Epiph.</hi> </cell>
+            <cell> <foreign xml:lang="greek">ἄνθρωπος,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Homo, <hi>Tertull. Iren.</hi> </cell>
+          </row>
+<row>
+            <cell>Zôa.</cell>
+            <cell> <foreign xml:lang="greek">ζῶα.</foreign>
+            </cell>
+            <cell>Animantia.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>TRINITATIS, SIVE TRIUM GENERUM HOMINIS NOMINA, CAP. XXVI.</head>
+<table>
+<row>
+            <cell>Choicus, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">χοϊκὸς,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Terreus, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Psychicus.</cell>
+            <cell> <foreign xml:lang="greek">ψυχικὸς.</foreign>
+            </cell>
+            <cell>Animalis.</cell>
+          </row>
+<row>
+            <cell>Pneumaticus.</cell>
+            <cell> <foreign xml:lang="greek">πνευματικὸς</foreign>
+            </cell>
+            <cell>Spiritalis, <hi>Tertull. Iren.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>ALTERIUS BYTHI CONJUGIS SECUNDUM QUOSDAM NOMEN, CAP. XXXIII.</head>
+<table>
+<row>
+            <cell>Telêsis, <hi>Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">θέλησις,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Voluntas, <hi>Tertull.</hi> </cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>OGDOADIS ALTERIUS SECUNDUM QUOSDAM BYTHO ANTERIORIS NOMINA, CAP. XXXV.</head>
+<table>
+<row>
+            <cell>Proarchè, <hi>Tertull. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">προαρχὴ,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Prior principio, <hi>Int. Epiph.</hi> </cell>
+          </row>
+<row>
+            <cell>Anennoêtos</cell>
+            <cell> <foreign xml:lang="greek">ἀνεννόητος.</foreign>
+            </cell>
+            <cell>Incogitabilis.</cell>
+          </row>
+<row>
+            <cell>Arrhêtos</cell>
+            <cell> <foreign xml:lang="greek">ἄῤῥητος</foreign>
+            </cell>
+            <cell>Inenarrabilis.
+Arcanus.</cell>
+          </row>
+<row>
+            <cell>Aoratos.</cell>
+            <cell> <foreign xml:lang="greek">ἀόρατος.</foreign>
+            </cell>
+            <cell>Invisibilis.</cell>
+          </row>
+<row>
+            <cell>Archê</cell>
+            <cell> <foreign xml:lang="greek">ἀρχῆ</foreign>
+            </cell>
+            <cell>Principium.</cell>
+          </row>
+<row>
+            <cell>Acatalêptos</cell>
+            <cell> <foreign xml:lang="greek">ἀκατάληπτος.</foreign>
+            </cell>
+            <cell>Incomprehensibilis.</cell>
+          </row>
+<row>
+            <cell>Anonomastos.</cell>
+            <cell> <foreign xml:lang="greek">ἀνονόμαστος</foreign>
+            </cell>
+            <cell>Innominatus.</cell>
+          </row>
+<row>
+            <cell>Agenrêtos.</cell>
+            <cell> <foreign xml:lang="greek">ἀγέννητος.</foreign>
+            </cell>
+            <cell>Ingenitus.</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head>TETRAS AEONUM, QUOS ALII OMNIUM AEONUM PARENTIS FACIUNT NOMINA, XXXVII.</head>
+<table>
+<row>
+            <cell>Monorês, <hi>Tert. Iren.</hi> </cell>
+            <cell> <foreign xml:lang="greek">μονότης,</foreign> <hi>Epiph.</hi> </cell>
+            <cell>Singularitas, <hi>Tertull.</hi> </cell>
+          </row>
+<row>
+            <cell>Henotês</cell>
+            <cell> <foreign xml:lang="greek">ἑνότης.</foreign>
+            </cell>
+            <cell>Unitas.</cell>
+          </row>
+<row>
+            <cell>Monas.</cell>
+            <cell> <foreign xml:lang="greek">μονὰς.</foreign>
+            </cell>
+            <cell>Solitas.</cell>
+          </row>
+<row>
+            <cell>Hen.</cell>
+            <cell> <foreign xml:lang="greek">ἕν</foreign>
+            </cell>
+            <cell>Unum.</cell>
+          </row>
+</table>
+
+</div1>
+
+
+
+<div1>
+        <head>SCHEMA GNOSTICUM EX VALENTINI EJUSQUE DISCIPULORUM FABULIS.</head>
+        <pb n="0533"/>
+        <head>Argumentum.</head>
+
+<pb n="0535"/>
+<p>
+          <pb n="0535A"/> <hi>Adversus Valentinianos haereticos scripturus Tertullianus,
+differens congressionem, solam profitetur errorum,
+seu potius fabularum, cum risu narrationem.</hi> </p>
+<p> <hi>Imprimis autem narrat, quod Valentiniani, frequentissimum
+sane inter haereticos collegium, nihil magis
+curent, quam occultare quod praedicant.</hi> Cap. I.</p>
+<p> <hi>Deinde cum illi simplices nuncuparent Catholicos, Scripturis
+simplicitatem probari docet.</hi> Cap. II.</p>
+<p> <hi>Quantumvis interim se abscondant (cum veritas e contrario
+non erubescat) scire tamen simplices Christianos
+omnes eorum fabulas et genealogias, quas damnat
+Apostolus, indeterminatas, quas proinde solummodo
+demonstrare, destruere sit.</hi> Cap. III.</p>
+<p> <hi>Notam etiam esse Valentinianorum originem a Valentino;
+<pb n="0535B"/>
+licet ab eo abscesserint Ptolomaeus, Heracleon,
+Secundus, Magus Marcus, ac Theotinus, ita ut nusquam
+jam Valentinus, et tamen Valentiniani ab illo;
+cum solas integras ejus regulas custodiret Antiochiae
+Axionicus quidam.</hi> Cap. IV.</p>
+<p> <hi>Sibi interim cum Archetypis esse disceptationem, idque
+non confictis materiis, utpote quas ipsius haeresiarchae
+contemporales instructissimis voluminibus prodiderint
+et retulerint, Justinus martyr, Miltiades, Irenaeus,
+et quidam Proculus.</hi> Cap. V.</p>
+<p> <hi>Deinde verbis partim initio hujus Argumenti adductis,
+partim illi infra subjectis, demonstrationem solam
+arcani ipsorum promittens, methodum indicat qua uti
+statuit.</hi> Cap. VI.</p>
+<p> <hi>Porro a prima ogdoade Aeonum Valentinianorum sive
+<pb n="0535C"/>
+tetrade duplici, auspicatur, in qua ex Bytho ac Sige
+orti Nus et Veritas, Sermonem et Vitam procrearint,
+e quibus homo et Ecclesia.</hi> Cap. VII.</p>
+<p> <hi>Inde ex secunda illa tetrade, Sermonem et Vitam decuriam
+Aeonum simul fudisse, hominem et Ecclesiam
+duodenarium numerum, quo sic impleretur tricenariae
+divinitatis Pleroma seu plenitudo.</hi> Cap. VIII.</p>
+<p> <hi>Jam vero foecunditate tota deficiente, a novissimo Aeone
+Sophia confirmata ab Horo ne dissolveretur, ex vi
+passionis, nulla opera conjugii, abortivum foetum Enthymesin
+expositam esse.</hi> Cap. IX.</p>
+<p> <hi>Tota interim propinquitate supplicante Sophiam conjugi
+suo Teleto restitutam, Enthymesin vero extra Pleroma
+relegatam.</hi> Cap. X.</p>
+<p> <hi>Ne qua igitur ejusmodi rursus concussio contingeret,
+<pb n="0535D"/>
+Nun illum novam edidisse copulationem, Christum et
+Spiritum Sanctum.</hi> Cap. XI.</p>
+<p> <hi>Deinde ex omnibus simul Aeonibus compactum esse perfectum
+Pleromatis fructum Jesum, quem et Soterem,
+et Christum, et Sermonem nuncupant; et satellites
+ejus angelos.</hi> Cap. XII.</p>
+<p> <hi>Atque hactenus (inquit ludens auctor) prima tragoediae
+scena; alia jam extra Pleroma cothurnatio.</hi> Cap. XIII.</p>
+<p> <hi>Nam Euthymesin, sive jam novo et interpretabili nomine
+<pb n="0536A"/>
+Achamoth, in inane illud Epicuri explosam,
+quamquam a Christo non sine Spiritu Sancto e superioribus
+misso jam formatam; quia tamen ad lumen
+illud Pleromatis non potuit attingere, ab Horo custodiente
+extremam ejus lineam exclusa, afflictam moerore,
+metu, consternatione, ignorantia.</hi> Cap. XIV.</p>
+<p> <hi>Atque ex his originem traxisse materiam, quam Pythagorici,
+Stoici et Plato ipse innatam volunt, et elementa
+ipsa.</hi> Cap. XV.</p>
+<p> <hi>Conversam inde ad preces, cum ad se missus esset Paracletus
+Soter Jesus, eam denuo confirmatam,
+et ab omnibus injuriis passionis expumicatam,
+ex conversione illa animales corpulentias produxisse.</hi> Cap. XVI.</p>
+<p> <hi>Prae gaudio abhinc ex contemplatione illa Soteris et
+<pb n="0536B"/>
+angelicorum qui una venerant luminum, spiritales
+produxisse, et sic factam trinitatem generum.</hi> Cap. XVII.</p>
+<p> <hi>Ex animali autem substantia productum deinde Demiurgum,
+Deum hunc nostrum, regem universorum.</hi> Cap. XVIII.</p>
+<p> <hi>Quamquam hac de re inter eos non conveniat.</hi> Cap. XIX.</p>
+<p> <hi>Porro a Demiurgo, extra Pleromatis limites constituto,
+hunc mundum conditum ex animalibus et materialibus
+substantiis, ex incorporalibus vero septemplicem
+coelorum scenam.</hi> Cap. XX.</p>
+<p> <hi>Quibus interdum interserit varia Achamoth sive Sophiae
+secundae nomina.</hi> Cap. XXI.</p>
+<p> <hi>Quid? quod et diabolum opus Demiurgi faciant,</hi> Munditenentem
+<pb n="0536C"/> <hi>appellantes.</hi> 
+ Cap. XXII.</p>
+<p> <hi>Inde singularum potestatum situm interserens, etiam
+ignem his omnibus corporibus et elementis inflabellatum
+addit.</hi> Cap. XXIII.</p>
+<p> <hi>Demiurgum post haec ad hominem manus contulisse, et
+carnem ei creasse, non limo terrae, sed materia illa
+philosophica.</hi> Cap. XXIV.</p>
+<p> <hi>Cui cum animam Demiurgus mox de afflatu suo communicaret,
+etiam ab Achamoth pariter in illum derivatum
+semen spiritale, quod nuncupabant Ecclesiam.</hi> Cap. XXV.</p>
+<p> <hi>Hinc tria hominum genera describit, sive trinitatem hominis,
+et quem exitum sortiantur.</hi> Caput XXVI.</p>
+<p> <hi>Emisisse etiam Demiurgum Christum Filium suum naturalem
+per virginem, non ex virgine editum; et super
+<pb n="0536D"/>
+hunc devolasse Soterem in specie columbae, eumque
+mansisse in Christo impassibilem, passum vero animalem
+Christum.</hi> Cap. XXVII.</p>
+<p> <hi>Animas quoque meliores allegi in prophetas, sacerdotes
+ac reges.</hi> Cap. XXVIII.</p>
+<p> <hi>Hominum vero tria genera ab eis constitui: choicum,
+animale, spiritale.</hi> Cap. XXIX.</p>
+<p> <hi>Spiritalibus autem (quos se esse jactitant) operationes non
+necessarias, sed nobis utpote psychicis, id est animalibus
+<pb n="0537A"/>
+hominibus, martyrii quoque necessitatem
+sic eludentes.</hi> Cap. XXX.</p>
+<p> <hi>Et vero in consummatione ita dispensari mercedem, ut
+Achamoth de medio tabulato in Pleroma transferatur,
+excepta a Sotere compactitio illo sponso, et Demiurgum
+de hebdomade sua coelesti in vacuum matris
+locum.</hi> Cap. XXXI.</p>
+<p> <hi>Humanam vero gentem in exitus tales ituram: choicae quidem
+et materialis notae animas interituras; psychicorum
+vero justorum animas (id est nostras) in medietatis
+illius receptacula transmitti; spiritalium denique,
+ipsorum nempe, ad Pleromatis palatium traductas,
+in sponsas angelorum assumi.</hi> Cap. XXXII.</p>
+<p> <hi>Ab Valentino vero in hoc dissentire emendatores Ptolomaei,
+quod Bytho duas affingant conjuges, Cogitationem
+<pb n="0537B"/>
+et Voluntatem, atque ex Cogitatione ortam Veritatem,
+ex Voluntate Monogenem.</hi> Cap. XXXIII.</p>
+<p> <hi>Alios etiam qui aut nullum sexum Bytho deputant, aut
+hermaphroditum faciunt.</hi> Cap. XXXIV.</p>
+<p> <hi>Esse item qui Bytho non principatum, sed postumatum
+defendat, post ogdoadem primam ex tetrade quidem
+et ipsam, sed aliis nominibus derivatam.</hi> Cap. XXXV.</p>
+<p>
+          <pb n="0538A"/> <hi>Quosdam qui ex patre Bytho, et Ennaea matre, integram
+ogdoadem illam uno partu exclusam.</hi> Cap. XXXVI.</p>
+<p> <hi>Item alium quemdam qui Monoteta et Henoteta parentes
+primos faciat, ex quibus Monas et Unio, et ex
+illis reliquos Aeonas.</hi> Cap. XXXVII.</p>
+<p> <hi>Humaniorem denique secundum, qui tetradas duas dividens
+in dextram et sinistram, lumen et tenebras,
+tantum defectricem illam virtutem, Achamoth nempe,
+vult non ab aliquo Aeonum deduci.</hi> Cap. XXXVIII.</p>
+<p> <hi>Postremo majorem esse de ipso Jesu diversitatem, cum
+Valentinus ex omnium Aeonum flosculis, alii ex
+solis decem, aut solis duodecim, alii a Christo et Spiritu
+Sancto tantum, alii aliunde eum confictum contendant.
+Atque ita doctrinas Valentinianorum in sylvas
+<pb n="0538B"/>
+jam exolevisse Gnosticorum.</hi> Cap. XXXIX.
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p> Valentiniani, frequentissimum plane collegium
+inter haereticos, quia plurimum ex apostatis
+veritatis, et ad fabulas facile est, et disciplina non
+<pb n="0539A"/>
+terretur, nihil magis curant, quam occultare, quod
+praedicant: si tamen praedicant, qui occultant.
+Custodiae officium, conscientiae officium est. Confusio
+ praedicatur, dum religio adseveratur.
+Nam et illa Eleusinia (haeresis et ipsa atticae
+<pb n="0540A"/>
+superstitionis) quod tacent, pudor est. Idcirco
+et aditum prius cruciant. Diutius initiant,
+quam consignant , cum et ante portas
+ quinquennium instituunt; ut opinionem
+suspendio cognitionis aedificent: atque ita tantam majestatem
+<pb n="0541A"/>
+exhibere videantur, quantam praestruxerunt
+cupiditatem. Sequitur jam silentii officium; adtente
+custoditur quod tarde invenitur. Caeterum tota in
+<pb n="0542A"/>
+adytis divinitas, tot siparia  portarum,
+totum signaculum linguae, simulacrum membri virilis
+ revelatur. Sed naturae venerandum nomen
+<pb n="0543A"/>
+allegorica dispositio praetendens, patrocinio coactae
+figurae sacrilegium obscurat, et convicium falsi
+simulacris excusat. Proinde quos nunc destinamus
+haereticos, sanctis nominibus et titulis et argumentis
+verae religionis, vanissima atque turpissima
+figmenta configurantes, facili caritati, ex divinae
+copiae occasione, quia de multis multa succedere
+est: Eleusinia Valentiniana fecerunt lenocinia,
+sancta silentio magno, sola taciturnitate coelestia.
+Si bona fide quaeras, concreto vultu, suspenso
+supercilio, <hi>Altum est,</hi> aiunt. Si subtiliter tentes,
+per ambiguitates bilingues communem fidem adfirmant.
+Si scire te subostendas, negant quidquid
+agnoscunt. Si cominus, certes tuam simplicitatem
+sua caede dispergunt: Ne discipulis quidem
+<pb n="0543B"/>
+propriis ante committunt, quam suos fecerint. Habent
+artificium, quo prius persuadeant quam edoceant.
+Veritas autem docendo persuadet, non suadendo
+docet.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p>Ideoque simplices notamur apud illos, ut hoc tantum,
+non etiam sapientes: quasi statim deficere cogatur
+<pb n="0544A"/>
+ a simplicitate sapientia, Domino utramque
+jungente: <hi>Estote prudentes ut serpentes, et simplices
+ut columbae <note>(Matth., X, 10)</note>
+            </hi>. Aut si nos propterea insipientes,
+quia simplices; num ergo et illi propterea
+non simplices, quia sapientes? Nocentissimi
+autem qui non simplices, sicut stultissimi qui
+non sapientes. Et tamen malim in eam partem meliori
+sumi vitio, si forte praestat minus sapere
+quam pejus, errare quam fallere. Porro, <hi>facies Dei
+spectat 
+ in simplicitate quaerentes <note>(Sap. I)</note>
+            </hi>, ut
+docet ipsa Sophia, non quidem Valentini, sed Salomonis.
+Deinde infantes testimonium Christi sanguine
+litaverunt. Pueros vocem qui crucem clamant?
+nec pueri erant, nec infantes, id est, simplices non
+erant. Repuerascere nos et Apostolus jubet secundum
+<pb n="0544B"/>
+Deum <note>(I Cor., XIV, 20)</note>, ut malitia infantes per simplicitatem
+ita demum sapientes sensibus; simul
+dedi in sapientiae ordinem de simplicitate manantis.
+In summa Christum columba demonstrare
+solita est, serpens vero tentare. Illa et a primordio
+divinae pacis praeco; ille a primordio divinae imaginis
+praedo. Ita facilius simplicitas sola Deum, et agnoscere
+<pb n="0545A"/>
+poterit, et ostendere; prudentia sola concutere potius
+et prodere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p>Abscondat itaque se serpens quantum potest, totamque
+prudentiam in latebrarum ambagibus torqueat,
+alte habitet, in caeca detrudatur, per anfractus
+seriem suam evolvat, tortuose procedat, nec semel
+totus, lucifuga bestia. Nostrae columbae etiam domus
+simplex, in editis semper et apertis et ad lucem.
+Amat figura Spiritus Sancti Orientem ,
+Christi figuram. Nihil veritas erubescit, nisi solummodo
+abscondi: quia nec pudebit illum aures ei dedere,
+eum Deum recognoscere, quem jam illi natura
+commisit, quem quotidie in operibus omnibus sentit,
+hoc solo minus notum, quod unicum non putavit, quod
+<pb n="0545B"/>
+in numero nominavit, quod in aliis adoravit.
+Alioquin a turba eorum et aliam frequentiam suadere,
+a domestico principatu ad incognitum transmovere, a
+manifesto ad occultum retorquere, de limine fidem
+ offendere est. Jam si et in totam fabulam
+initietur, nonne tale aliquid dabitur te in infantia inter
+somni difficultates a nutricula audisse, Lamiae turres,
+et pectines solis? Sed qui ex alia conscientia
+venerit fidei, si statim inveniat tot nomina Aeonum,
+tot conjugia, tot genimina, tot exitus, tot eventus,
+felicitates, infelicitates, dispersae atque concisae divinitatis,
+dubitabitne ibidem pronuntiare has esse
+fabulas et genealogias indeterminatas, quas Apostoli
+spiritus, bis jam tunc pullulantibus seminibus haereticis,
+damnare praevenit? Merito itaque non simplices,
+<pb n="0546A"/>
+merito tantummodo prudentes, qui talia neque facile
+producunt, neque exerte defendunt, sed nec
+omnes quos edocent, perdocent; utique astute, ut pudenda:
+caeterum inhumane, si honesta. Et tamen simplices
+nos, omnia scimus. Denique hunc primum
+cuneum congressionis armavimus, detectorem
+et designatorem totius conscientiae illorum, primamque
+hanc victoriam auspicamur: quia quod tanto
+impendio absconditur, etiam solummodo demonstrare,
+destruere est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p>Novimus, inquam, optime originem quoque ipsorum,
+et scimus, cur Valentinianos appellemus,
+licet non esse videantur. Abscesserunt enim a conditore,
+sed minime origo deletur; et si forte mutantur,
+<pb n="0546B"/>
+testatio est ipsa mutatio. Speraverat episcopatum
+Valentinus, quia et ingenio poterat et eloquio.
+Sed alium ex martyrii praerogativa loci potitum indignatus,
+de Ecclesia authenticae regulae abrupit,
+ut solent animi pro prioratu exciti praesumptione
+ultionis accendi, ad expugnandam conversus veritatem:
+et cujusdam veteris opinionis semen nactus,
+Colarbaso viam deliniavit. Eam postmodum Ptolomaeus
+instravit, nominibus et numeris Aeonum distinctis
+in personales substantias, sed extra Deum determinatas,
+quas Valentinus in ipsa summa divinitatis,
+ut sensus, et adfectus et motus incluserat. Deduxit
+et Heracleon inde tramites quosdam, et Secundus,
+et magus Marcus . Multum circa imagines Legis
+Theotimus operatus est. Ita nusquam jam Valentinus;
+<pb n="0547A"/>
+et tamen Valentiniani, qui per Valentinum.
+Solus ad hodiernum Antiochiae Axionicus memoriam
+Valentini integra custodia regularum ejus
+consolatur: Alioquin tantum se huic haeresi suadere
+permissum est, quantum lupae foeminae formam
+quotidie supparare solemne est. Quidni? cum
+spiritale illud semen suum sic in unoquoque recenseant.
+Si aliquid novi adstruxerint, revelationem statim
+appellant praesumptionem, et charisma ingenium;
+nec unitatem, sed diversitatem. Ideoque prospicimus,
+seposita illa solemni dissimulatione sua, plerosque dividi
+quibusdam articulis, etiam bona fide dicturos; <hi>Hoc ita non est;</hi> 
+ et, <hi>Hoc aliter accipio;</hi> et, <hi>Hoc non
+<pb n="0548A"/>
+agnosco.</hi> Varietate enim innovatur regularum facies;
+habet etiam colores ignorantiarum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p>Mihi autem cum archetypis erit limes principalium
+magistrorum, non cum affectatis ducibus
+passivorum discipulorum. Nec undique dicemur
+ipsi nobis finxisse materias, quas tot jam viri
+sanctitate et praestantia insignes, nec solum nostri
+antecessores, sed ipsorum haeresiarcharum contemporales,
+instructissimis voluminibus, et prodiderunt,
+et retuderunt: ut Justinus philosophus et martyr,
+ut Miltiades Ecclesiarum sophista, ut Irenaeus
+omnium doctrinarum curiosissimus explorator, ut
+<pb n="0549A"/>
+Proculus noster, virginis senectae, et christianae
+eloquentiae dignitas: quos in omni opere fidei, quemadmodum
+in isto, optaverim assequi. Aut si in totum
+haereses non sunt, ut qui eas pellunt, finxisse credantur,
+mentietur Apostolus praedicator illarum <note>(I Cor., II, 19)</note>.
+Porro si sunt, non aliae erunt quam
+quae retractantur. Nemo tam otiosus fertur stylo, ut
+materias habens, fingat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p>Igitur hoc libello, quo demonstrationem solum
+promittimus illius arcani, ne quem ex nominibus
+tam peregrinis, et coactis, et compactis, et ambiguis,
+caligo suffundat, quomodo eis usuri simus, prius demandabo.
+Quorumdam enim de graeco interpretatio
+non occurrit ad expeditam proinde nominis formam,
+<pb n="0549B"/>
+quorumdam nec de sexu genera conveniunt, quorumdam
+usitatior in graeco notitia est. Itaque plurimum
+graeca ponemus; significantiae per paginarum limites
+aderunt, nec latinis quidem deerunt graeca, sed in
+lineis desuper notabuntur, ut signum hoc sit personalium
+nominum, propter ambiguitates eorum quae
+cum alia significatione communicant. Quamquam autem
+distulerim congressionem, solam interim professus
+narrationem, sicubi tamen indignitas meruerit
+suggillari, non erit delibatione transpunctoria expugnatio
+<pb n="0550A"/>.
+Congressionis lusionem deputa, Lector,
+ante pugnam. Ostendam, sed non imprimam
+vulnera. Si et ridebitur alicubi, materiis ipsis satisfiet:
+multa sunt sic indigna revinci, ne gravitate
+adorentur. Vanitati proprie festivitas cedit. Congruit
+et veritati ridere, quia laetans; de aemulis suis
+ludere, quia secura est. Curandum plane ne risus
+ejus rideatur, si fuerit indignus. Caeterum ubicumque
+dignus risus, officium est. Denique hoc modo incipiam.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p>Primus omnium Ennius poeta romanus, <hi>Coenacula
+maxima coeli</hi> simpliciter pronuntiavit, de lati situs nomine,
+vel quia Jovem illic epulantem legerat apud
+Homerum. Sed haeretici quantas supernitates supernitatum,
+<pb n="0550B"/>
+et quantas sublimitates sublimitatum in habitaculum
+dei sui cujusque suspenderint, extulerint, expanderint,
+mirum est. Etiam creatori nostro Enniana
+coenacula in aedicularum disposita sunt forma, aliis
+atque aliis pergulis superstructis, et unicuique deo per
+totidem scalas distributis, quot haereses fuerint. Meritorium
+factus est mundus. Insulam Feliculam  credas
+tanta tabulata coelorum; nescio ubi. Illic enim
+Valentinianorum Deus ad summas tegulas habitat.
+Hunc substantialiter quidem <foreign xml:lang="greek">ΑΙΩΝΑ ΤΕΛΕΙΟΝ</foreign> appellant,
+<pb n="0551A"/>
+personaliter vero <foreign xml:lang="greek">ΠΡΟΑΡΧΗΝ</foreign> et <foreign xml:lang="greek">ΤΗΝ
+ΑΡΧΗΝ,</foreign> etiam Bython; quod in sublimibus
+habitanti minime congruebat. Innatum, immensum,
+infinitum, invisibilem, aeternumque definiunt: quasi
+statim probent esse, si talem definiant qualem scimus
+esse debere, ut sic et ante omnia fuisse dicatur.
+Sed ut sit expostulo: nec aliud magis in hujusmodi
+denoto, quam quod post omnia inveniuntur,
+qui ante omnia fuisse dicuntur, et quidem non
+sua. Sit itaque Bythos iste infinitis retro aevis in
+maxima et altissima quiete, in otio plurimo, placidae
+et, ut ita dixerim, stupentis divinitatis, qualem jussit
+Epicurus. Et tamen quem solum volunt, dant ei
+secundam in ipso et cum ipso personam, Ennoean,
+quam et Charin et Sigen insuper nominant. Et forte
+<pb n="0551B"/>
+accedunt in illa commendatissima quiete, monere
+eum de proferendo tandem initio rerum a semetipso.
+Hoc vice seminis in Siges suae, veluti genitalibus
+vulvae locis, collocat. Suscipit illa statim, et praegnans
+efficitur, et parit utique silentio Sige, et quem parit
+Nus est, simillimum patri et parem per omnia. Denique
+solus hic capere sufficit immensam illam et incomprehensibilem
+magnitudinem patris. Ita et ipse
+<pb n="0552A"/>
+Pater dicitur, et initium omnium, et proprie Monogenes.
+Atquin non proprie, siquidem non solus agnoscitur.
+Nam cum illo processit et foemina, Veritas,
+Monogenes, quia prior genitus, quanto
+congruentius Protogenes vocaretur! Ergo Bythos et
+Sige, Nus et veritas, prima quadriga defenditur
+Valentinianae factionis, matrix et origo cunctorum.
+Namque ibidem Nus simul ac cepit prolationis
+suae officium, emittit et ipse ex semetipso Sermonem
+et Vitam, quae si retro non erat, utique nec in Bytho.
+Et quale est, ut in Deo vita non fuerit! Sed et haec
+soboles, ad initium universitatis, et formationem
+Pleromatis totius emissa, facit fructum, Hominem et
+Ecclesiam procreat. Habes Ogdoadem, Tetradem duplicem,
+ ex conjugationibus masculorum et
+<pb n="0552B"/>
+foeminarum; cellas, ut ita dixerim, primordialium
+Aeonum: fraterna connubia valentinianorum deorum:
+census omnis sanctitatis et majestatis haereticae:
+nescio criminum an numinum turbam, certe
+fontem reliquae foecunditatis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p>Ecce enim secunda Tetras, Sermo et Vita, Homo
+et Ecclesia, quod in Patris gloriam fruticasset. Hinc
+<pb n="0553A"/>
+numero gestientes et ipsi tale quid Patri de suo
+offerre, alios ebulliunt fetus, proinde conjugaleis,
+per copulam utriusque naturae: Hac Sermo et Vita
+decuriam Aeonum simul fundunt: illac Homo et Ecclesia
+duos amplius, aequiparando parentibus, quia
+et ipsi duo cum illis decem tot efficiunt, quot ipsi
+procreaverunt. Reddo nunc nomina, quos decuriam
+dixi: Bythos et Mixis: Ageratos et Henosis: Autophyes
+ et Hedone: Acinetos et Syncrasis: Nonogenes
+et Macaria. Contra, duodenarius numerus hi
+erunt: Paracletus et Pistis: Patricos et Elpis: Metricos
+et Agape: Ainus et Synesis: Ecclesiasticus et
+Macariotes: Theletus et Sophia. Cogor hic, quid ista
+nomina desiderent, proferre de pari exemplo. In
+scholis carthaginiensibus fuit quidam frigidissimus
+<pb n="0553B"/>
+ rhetor latinus, Phosphorus nomine:
+<pb n="0554A"/>
+cum virum fortem peroraret: <hi>Venio,</hi> inquit, <hi>ad vos
+optimi cives, de praelio, cum victoria mea, cum felicitate
+vestra, ampliatus, gloriosus, fortunatus, maximus,
+triumphalis.</hi> Et scholastici statim Familiae
+Phosphori: <foreign xml:lang="greek">Φεῦ</foreign>! Audisti Fortunatam, et
+Hedonem, et Acinetum, et Theletum, acclama: Familiae
+Ptolomaei <foreign xml:lang="greek">Φεῦ.</foreign> Hoc erit Pleroma illud arcanum,
+divinitatis tricenariae plenitudo. Videamus
+quae sint istorum privilegia numerorum, quaternarii,
+et octonarii, et duodenarii. Interim, in tricenario
+fecunditas tota deficit; castrata est vis et potestas
+et libido genitalis Aeonum. Quasi non et humerorum
+tanta adhuc coagula superessent, et nulla
+alia de paedagogio nomina. Quare enim non et
+quinquaginta et centum procreantur? quare non et
+<pb n="0554B"/>
+stercolae et syntrophi nominantur?</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+
+<pb n="0555A"/>
+<p>Sed et hoc exceptio personarum est, quod solus
+ille Nus ex omnibus immensi patris fruitur notione,
+gaudens et exultans, illis utique moerentibus.
+Plane Nus, quantum in ipso fuit, et voluerat et
+tentaverat caeteris quoque communicare quae norat,
+quantus et quam incomprehensibilis pater: sed intercessit
+mater Sige, illa scilicet, quae et ipsis
+haereticis suis tacere praescribit: etsi de patris nutu
+aiunt factum, volentis omnes in desiderium sui
+accendi. Itaque dum macerantur intra semetipsos,
+dum tacita cupidine cognoscendi patrem uruntur,
+pene scelus factum est. Namque ex illis duodecim
+Aeonibus, quos Homo et Ecclesia ediderant novissima
+natu Aeon (viderit soloecismus). Sophia
+<pb n="0555B"/>
+enim nomen est, incontinentia sui, sine conjugis
+Phileti societate prorumpit in patrem inquirere,
+et genus contrahit vitii, quod exorsum quidem
+<pb n="0556A"/>
+fuerat in illis aliis qui circa Nun, in hunc autem, id
+est in Sophiam derivarat, ut solent vitia in corpore
+alibi connata, in aliud membrum perniciem
+suam efflare. Sed enim sub praetexto dilectionis
+in patrem, aemulatio superabat in Nun
+solum de patre gaudentem. Ut vero impossibilia contendens
+Sophia frustrarat, et vincitur difficultate,
+ et extenditur affectione, modico abfuit prae
+vi dulcedinis et laboris devorari, et in reliquam
+substantiam dissolvi, nec alias quam pereundo
+cessasset, nisi bono fato in Horon incursasset,
+(quaedam et huic vis est, fundamentum, universitatis
+illius extrinsecus custos) quem et Crucem
+appellant, et Lytroten, et Carpisten. Ita Sophia periculo
+exempta, et tarde persuasa, declinata
+<pb n="0556B"/>
+investigatione patris conquievit, et totam Enthymesin,
+id est, animationem cum Passione quae insuper
+acciderat, exposuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X.</head>
+
+<pb n="0557A"/>
+<p>Sed quidam exitum Sophiae, et restitutionem, aliter
+somniaverunt. Post irritos conatus et spei dejectionem,
+deformatam eam pallore credo, et macie et incuria
+formae, uti quae patrem non minus denegatum
+dolebat quam amissum. Dehinc illo moerore ex semetipsa
+sola, nulla opera conjugii concepit, et procreat
+foeminam. Miraris haec? Et gallina sortita est de
+suo parere. Sed et vultures foeminas tantum aiunt:
+et tamen sine masculo mater. Primo quidem
+contristari propter inconsummationem generatinis:
+metuere postremo ne finis quoque insisteret: haerere
+de ratione casus: curare de occultatione. Remedia
+nusquam. Ubi enim jam tragoediae et comoediae,
+a quibus forma mutuaretur exponendi, quod citra pudorem
+<pb n="0557B"/>
+ erat natum? Dum in malis res est, suspicit,
+convertit ad patrem, sed incassum enisa, et
+vires deserebant, in preces succidit. Tota etiam
+<pb n="0558A"/>
+propinquitas pro ea supplicat, vel maxime Nus
+quidni? caussa mali tanti. Nullus tamen Sophiae exitus
+vacuit, omnes aerumnae ejus operantur. Siquidem
+et illa tunc conflictatio in Materiae originem pervenit,
+ignorantia, pavor, moeror, substantiae fiunt.
+Ibi demum pater aliquando motus, per Monogeneu
+Nun, quem supra diximus Horon, in haec promit
+in imagine sua foemina mare, quia de patris
+sexu ita variant. Adjiciunt autem, Horon, etiam
+Metagogea (id est circumductorem) vocari, et
+Horotheten. Hujus praedicant opera, et repressam ab
+illicitis, et purgatam a malis, et deinceps confirmatam
+Sophiam, et conjugio restitutam, et ipsam quidem
+in Pleromatis censu remansisse. Euthymesin
+vero ejus et illam appendicem Passionem ab Horo
+<pb n="0558B"/>
+relegatam et crucifixam, et extra eum factam,
+Malum, quod aiunt, foras: spiritalem tamen substantiam
+illam, ut naturalem quemdam impetum Aeonis,
+<pb n="0559A"/>
+sed informem et inspeciatam, quatenus nihil
+apprehendisset: ideoque fructum infirmum, et foeminam
+pronuntiatam.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p>Igitur post Enthymesin extorrem, et matrem ejus
+Sophiam conjugi reducem, ille iterum Monogenes,
+ille Nus, otiosus plane de patris cura atque prospectu,
+ solidandis rebus, et Pleromati muniendo,
+jamque figendo, ne qua ejusmodi rursus concussio
+incuteret, novam excludit copulationem, Christum
+et Spiritum Sanctum: turpissimum par duorum
+masculorum: aut foemina erit Spiritus Sanctus: et
+vulneratur a foemina masculus. Numen his datur
+unum, procurare concinnationem Aeonum. Et ab
+ejus officii societate, duae scholae protinus, duae cathedrae,
+<pb n="0560A"/>
+inauguratio quaedam dividendae doctrinae
+Valentini. Christi erat inducere Aeonas naturam
+conjugiorum (vides quam rem plane, et
+innati conjectationem, et idoneos efficere generandi
+in se agnitionem patris, quod capere eum non sit
+neque comprehendere, non visu denique; non auditu
+compotiri ejus, nisi per Monogenen. Et tamen
+tolerabo quod ita discunt patrem nosse ne nossent.
+Illam magis doctrinae denotabo perversitatem,
+quod docebantur incomprehensibile quidem
+patris, caussam esse perpetuitatis ipsorum: comprehensibile
+vero ejus, generationis illorum et formationis
+esse Rationem. Hac enim dispositione illud opinor
+insinuatur, expedire Deum non apprehendi:
+siquidem inapprehensibile ejus, perpetuitatis est
+<pb n="0561A"/>
+caussa: apprehensibile autem, non perpetuitatis, sed
+nativitatis et formationis, egentium perpetuitatis.
+Filium autem constituunt apprehensibilem patris.
+Quomodo tamen apprehendatur, tum prolatus Christus
+edocuit. Spiritus vero Sancti propria, ut de doctrinae
+studio omnes peraequati, gratiarum actionem
+prosequi nossent, et veram inducerentur quietem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p>Itaque omnes forma et sapientia peraequantur,
+facti omnes quod unusquisque: nemo aliud, quia
+alteri omnes. Refunduntur in Nus, in Sermones,
+in Homines, in Philetos. Aeque
+foeminae in Sigas, in Zoas, in Ecclesias, in Fortunatas: 
+ut Ovidius Metamorphoseis suas delevisset,
+si hodie majorem cognovisset. Exinde refecti sunt, et
+<pb n="0561B"/>
+constabiliti sunt, et in requiem ex veritate compositi,
+magno cum gaudii fructu hymnis patrem concinunt.
+Diffundebatur et ipse laetitia, utique bene
+cantantibus filiis et nepotibus. Quidni diffunderetur
+omni jocunditate, Pleromate liberato? Quis nauclerus
+<pb n="0562A"/>
+non etiam cum dedecore laetatur? Videmus
+quotidie nauticorum lascivias gaudiorum. Itaque ut
+nautae ad symbolam semper exultant; tale
+aliquid et Aeones; unum jam omnes, etiam forma,
+nedum sententia; convenientibus ipsis quoque novis
+fratribus et magistris Christo et Spiritu Sancto,
+quod optimum atque pulcherrimum unusquisque
+florebat, conferunt in medium. Vane opinor. Si enim
+unum erant omnes ex supradicta peraequatione, vacabat
+symbolae ratio, quae ferme ex varietatis gratia
+constat. Unum omnes bonum conferebant, quod
+omnes erant. De modo forsitan fuerit ratio, aut de
+forma ipsius jam peraequationis. Igitur ex aere
+collatitio, quod aiunt, in honorem et gloriam
+patris, pulcherrimum Pleromatis sidus fructumque
+<pb n="0562B"/>
+perfectum compingunt, Jesum. Eum cognominant
+Soterem, et Christum, et Sermonem, de patruitis.
+Et Omnia jam, ut ex omnium defloratione
+constructum, Graculum Aesopi, Pandoram Hesiodi,
+Acci Patinam, Nestoris Cocetum, Miscellaneam
+<pb n="0563A"/>
+Ptolomaei. Quam propius fuit de aliquibus Atticis
+curis Pancarpon, vocari, a tam otiosis
+auctoribus nominum? Ut autem tantum siggillarium
+extrinsecus quoque inornarent, satellites ei angelos
+proferunt: par genus. Si inter se, potest fieri:
+si vero Soteri consubstantivos (ambigue enim positum
+inveni), quae erit eminentia ejus inter satellites
+coaequales?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p>Continet hic igitur ordo primam processionem pariter
+et nascentium, et nubentium, et generantium
+Aeonum: Sophiae ex desiderio patris, periculosissimum
+casum, Hori opportunissimum auxilium, Enthymeseos
+et conjunctae Passionis expiatum, Christi
+et Spiritus Sancti paedagogatum, Aeonum tutelarem
+<pb n="0563B"/>
+reformatum, Soteris pavoninum ornatum, angelorum
+comparatitium antistatum. Quod superest, inquis,
+vos valete et plaudite. Imo quod superest,
+inquam, vos audite et projicite. Caeterum, haec intra
+coetum Pleromatis decucurrisse dicuntur; prima tragoediae
+scena. Alia autem trans si parium cothurnatio
+est, extra Pleroma dico: et tamen si talis sub sinu
+patris intra ambitum Hori custodis, qualis extra jam
+in libero, ubi Deus non erat?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+
+<pb n="0564A"/>
+<p>Namque Enthymesi, sive jam Achamoth (quod
+abhinc scriptum, hoc solo ininterpretabili nomine)
+ut cum vitio individuae Passionis explosa est
+in loca luminis aliena, quod Pleromatis res est, in
+vacuum atque inane illud Epicuri, miserabilis etiam
+de loco est. Certe ne forma nec facies ulla, defectiva
+ scilicet et abortiva genitura. Dum ita
+rerum habet, flectitur a superioribus Christus,
+deducitur per Horon, aborsum ut illud informet de
+suis viribus solius substantiae non etiam scientiae
+forma. Et tamen cum aliquo peculio relinquitur
+interim odor incorruptibilitatis, quo compos casus
+sui, potiorum desiderio suppararetur. Hac misericordia
+functus non sine Spiritus Sancti societate, recurrit
+<pb n="0564B"/>
+Christus in Pleroma. Usus est rerum, ex liberalitatibus
+quoque nomina accedere. Enthymesis de
+actu fuit: Achamoth unde, adhuc quaeritur; Sophia
+de Patre manat; Spiritus Sanctus ex angelo
+apud Christum, a quo derelicta statim senserat
+ desiderium. Itaque prosiluit et ipsa lumen ejus
+inquirere; quem si omnino non noverat, ut invisibiliter
+operatum, quomodo lumen ejus ignotum cum
+ipso requirebat? Tamen tentavit, et fortasse apprehendisset,
+<pb n="0565A"/>
+si non idem Horos, qui matri ejus tam
+prospere venerat, nunc tam importune filiae occurrisset,
+ut etiam inclamarit in eam, JAO, quasi
+ <hi>Porro Quirites,</hi> aut, <hi>Fidem Caesaris,</hi> inde invenitur <hi>Jao</hi> 
+ in Scripturis. Ita depulsa quominus pergere,
+nec habens supervolare Crucem, id est Horon,
+quia nullum Catulli Laureolum fuerit exercitata, ut
+destituta Passioni illi suae in trica multiplici atque perplexa
+<pb n="0566A"/>,
+omni genere ejus coepit affligi: moerore,
+quod non perpetrasset incoeptum: metu, ne sicut
+luce, ita et vita orbaretur; consternatione, tum
+ignorantia. Nec ut mater ejus. Illa enim Aeon: at
+haec pro conditione deterius: insurgente adhuc et
+alio fluctu conversionis scilicet in Christum, a quo
+vivificata fuerat, et in hanc ipsam conversionem temperata
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+
+<pb n="0567A"/>
+<p>Age nunc discant Pythagorici, agnoscant Stoici,
+Plato ipse, unde materia, quam innatam volunt, et
+originem, et substantiam traxerit in omnem hanc
+struem mundi, quod nec Mercurius ille Trismegistus
+magister omnium Physicorum recogitavit. Audisti
+Conversionem, genus aliud Passionis; ex hac omnis
+anima hujus mundi dicitur constitisse, etiam ipsius
+Demiurgi, id est Dei nostri. Audisti moerorem et
+timorem; ex his initiata sunt caetera. Nam ex lacrymis
+<pb n="0568A"/>
+ejus universa aquarum natura manavit. Hic aestimandum,
+quem exitum duxerit, quantis lacrymarum generibus
+inundarit. Habuit et falsas, habuit et amaras,
+et dulces, et calidas, et frigidas guttas, et bituminosas,
+et ferruginantes, et sulphurantes, utique et
+venenatas, ut et Nonacris inde sudaverit quae Alexandrum
+occidit, et Lyncestarum inde defluxerit quae
+ebrios efficit, et Salmacis inde se solverit quae
+masculos molles. Coelestes imbres pipiavit
+Achamoth (e): et nos in cisternis etiam alienos luctus et
+<pb n="0569A"/>
+lacrymas servare curamus. Proinde ex consternatione
+et pavore corporalia elementa ducta sunt. Et tamen
+in tanta circumstantia solitudinis, in tanto circumsepto
+ destitutionis, ridebat interim, qua conspecti
+Christi recordans, eo de gaudio risus lumen effulsit.
+Cujus hoc providentiae beneficium, quale illam
+ridere cogebat, idcirco ne semper nos in tenebris
+moraremur? Nec obstupescas, qui laetitia ejus tam
+splendidum elementum radiaverit mundo, cum moestitia
+quoque ejus tam necessarium instrumentum defluxerit
+ saeculo? O risum illuminatorem! o fletum
+rigatorem! Et tamen poterat remedio jam agere cum
+illius loci horrore. Omnem enim obscuritatem ejus
+discussisset, quoties ridere voluisset, vel ne cogeretur
+desertores suos applicare .</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+
+<pb n="0569B"/>
+<p>Convertitur enim ad preces et ipsa more materno.
+Sed Christus, quem jam pigebat rursus extra Pleroma
+proficisci, vicarium praefecit Paracletum.
+Soterem (hic erit Jesus, largito ei patre universorum
+Aeonum summam potestatem, subjiciendis eis
+<pb n="0570A"/>
+omnibus; uti in ipso secundum Apostolum omnia conderentur)
+ ad eam emittit  cum officio atque
+comitatu coaetaneorum angelorum; credas et cum
+duodecim fascibus. Ibi demum adventu pompatico
+ejus concussa Achamoth, protinus velamentum sibi
+obduxit, ex officio primo venerationis et verecundiae:
+dehinc contemplatur eum, fructiferumque suggestum.
+Quibus inde conceperat viribus occurrit illi, <foreign xml:lang="greek">Κύριε. Χαῖρε.</foreign>
+ Hic opinor susceptam ille confirmat,
+atque conformat agnitione jam, et ab omnibus
+ injuriis Passionis expumicat, non eadem
+negligentia in exterminium discretis, quae acciderat
+in casibus matris. Sedenim exercitata vitia, et
+usu viriosa confudit: atque ita massaliter solidata,
+defixit seorsum in materiae corporalem
+<pb n="0570B"/>
+paraturam, commutans ex incorporali passione indita
+habilitatem atque naturam, qua pervenire mox
+posset in aemulas aequiparantias corpulentiarum, ut
+duplex substantiarum conditio ordinaretur: de vitiis,
+pessima; de conversione, passionalis. Haec erit materia
+quae nos commisit cum Hermogene, caeterisque
+<pb n="0571A"/>
+qui Deum ex materia, non ex nihilo operatum cuncta,
+praesumunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<p>Ab hinc Achamoth expedita tandem de malis omnibus,
+ecce jam proficit, et in opera majora frugescit.
+Prae gaudio enim tanti ex infelicitate successus concalefacta,
+simulque contemplatione ipsa angelicorum
+luminum, ut ita dixerim, subfermentata, pudet, sed
+aliter exprimere non est, quodammodo subavit
+intra se ipsa in illos, et conceptu statim intumuit spiritali,
+ad imaginem ipsam, quam vis laetantis et
+laetitia prurientis intentionis imbiberat, et sibi intimarat.
+Peperit denique, et facta exinde trinitas
+generum est, ex trinitate caussarum. Unum materiale,
+quod ex passione: aliud animale, quod ex
+<pb n="0572A"/>
+conversione: tertium spiritale, quod ex imaginatione
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p>Hac auctoritate trium scilicet liberorum agendis
+rebus exercitior facta, formare singula genera
+constituit. Sed spiritale quidem non ita potuit attingere,
+ut et ipsa spiritalis. Fere enim paria et consubstantiva,
+in alterutrum valere societas naturae
+negavit. Eo animo, unum ad animale convertit;
+prolatis Soteris disciplinis. Et primum (quod cum
+magno horrore blasphemiae et pronuntiandum, et
+legendum est et audiendum) Deum fingit hunc
+nostrum et omnium, praeter haereticorum, patrem,
+et Demiurgum, et regem universorum quae post
+illum. Ab illo enim omnia, si tamen ab illo, et non
+<pb n="0573A"/>
+ab ipsa potius Achamoth, a qua occulto nihil sentiens
+ejus, et velut sigillario extrinsecus ductu, in
+omnem operationem movebatur. Denique ex hac personarum
+in operibus ambiguitate, nomen illi Metropatoris
+miscuerunt, distinctis appellationibus caeteris
+secundum status et situs operum: ut animalium quidem
+substantiarum quas ad dexteram commendant,
+patrem nuncupent: materialium vero quas ad
+laevam delegant, Demiurgum nominent: Regem autem
+communiter in universitatem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p>Sed nec nominum proprietas competit proprietati
+operum, de quibus nomina omnia, cum deberet illa
+haec omnia vocitari, a qua res agebantur, nisi quod
+jam nec ab illa. Cum enim dicant Achamoth in honorem
+<pb n="0573B"/>
+Aeonum imagines commentatam, rursus hoc in
+Soterem auctorem detorquent, qui per illam sit operatus:
+ut ipsam quidem, imaginem patris invisibilis
+et incogniti daret; incognitam scilicet et invisibilem
+Demiurgo, eumdem autem Demiurgum Nun filium
+effingeret, Archangeli vero Demiurgi opus, reliquos
+Aeonas exprimerent. Cum imagines audio tantas trium,
+quaero, non vis nunc ut imagines rideam perversissimi
+<pb n="0574A"/>
+pictoris illorum? Foeminam Achamoth, imaginem patris?
+et ignarum matris Demiurgum, multo magis
+patris? Imaginem Nus ignorantis patrem? et angelos
+famulos simulacra dominorum? Hoc est
+mulum de asino pingere, et Ptolomaeum describere
+de Valentino.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p>Igitur Demiurgus extra Pleromatis limites constitutus,
+in ignominiosa aeterni exilii vastitate novam
+provinciam condidit, hunc mundum: repurgata confusione,
+et distincta diversitate duplicis substantiae
+illius, de strue animalium et materiarum. Ex
+incorporalibus corpora aedificat, gravia, levia, sublimantia
+atque vergentia, coelestia atque terrena; tum
+ipsam coelorum semptemplicem scenam solio desuper
+<pb n="0574B"/>
+suo finit; unde et sabbatum dictum, ab hebdomade
+sedis suae; et Ogdoas mater Achamoth, ab argumento
+Ogdoadis primogenitalis. Coelos autem noeros
+deputant, et interdum angelos eos faciunt, sicut et
+ipsum Demiurgum: sicut et Paradisum, archangelum
+quartum, quoniam et hunc supra coelum tertium
+pangunt, ex cujus virtute sumpserit Adam, diversatus
+illic inter nubeculas et arbusculas. Satis
+<pb n="0575A"/>
+meminerat Ptolomaeus puerilium dicibulorum, in mari
+poma nasci, et in arbore pisces: sic et in coelestibus
+nuceta praesumpsit. Operatur Demiurgus ignorans,
+et ideo fortasse non scit arbores in sola terra institui
+oportere. Plane mater sciebat. Quidni suggerebat?
+quae et effectum suum ministrabat. Sed tantum fastigium
+filio extruens per ea opera quae illum et patrem,
+et deum, et regem, ante Valentinianorum ingenia
+testantur, cur sibi quoque ista noluit esse nota, postea
+quaeram.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<p>Interim tenendum, Sophiam cognominari et Terram
+et Matrem, quasi Matrem terram, et quod magis
+rideas, etiam Spiritum Sanctum. Ita omnem illi honorem
+contulerunt foeminae, puto et barbam, ne
+dixerim caetera. Alioquin Demiurgus adeo rerum non
+<pb n="0575B"/>
+erat compos, de animalibus scilicet censu invaletudinis
+<pb n="0576A"/>
+spiritalia accedere, ut se solum, ratus, concionaretur: <hi>Ego Deus, et absque me non est 
+ <note>(Esa. XLV,
+6)</note>
+            </hi>: certe tamen non fuisse se retro sciebat. Ergo et
+factum intelligebat, et factitatorem facti esse quemcumque.
+Quomodo ergo solus sibi videbatur, etsi non
+certus, saltem suspectus de aliquo factitatore?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p>Tolerabilior infamia est apud illos in diabolum, vel
+quia origo sordidior capit; ex nequitia enim moeroris
+illius deputatur, ex qua angelorum et daemonum
+et omnium spiritalium malitiarum genituras notant
+Et tamen diabolum quoque opus demiurgi affirmant,
+et <hi>munditenentem</hi> appellant, et superiorum magis
+gnarum defendunt, ut spiritalem natura, quam demiurgum,
+ut animalem. Meretur ab illis praelationem,
+<pb n="0576B"/>
+cui omnes haereses procurantur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+
+<pb n="0577A"/>
+<p>Singularium autem potestatum arces his finibus
+collocant. In summis summitatibus praesidet tricenarius
+Pleroma, Horo signante lineam extremam. Inferius
+illum metatur medietatem Achamoth, filium
+calcans: subest enim demiurgus in hebdomade sua,
+magis diabolus, in isto nobiscum communi mundo
+coelementato et concorporificato, ut supra editum est,
+ex Sophiae utilissimis casibus, qua nec aerem haberet
+reciprocandi spiritus spatium, teneram omnium corporum
+vestem, colorum omnium indicem, organum
+temporum, si non et istum Sophiae moestitia colasset;
+sicut animalia metus, sicut conversio
+ejus, ipsum demiurgum. His omnibus elementis
+atque corporibus ignis inflabellatus est: cujus
+<pb n="0577B"/>
+originalem Sophiae passionem, quia nondum ediderunt,
+ego interim argumentabor motiunculis ejus excussum.
+Credas enim illam in tantis vexationibus
+etiam fabricitasse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+<p>Cum talia de Deo vel de deis, qualia de homine
+figmenta! Molitus enim mundum demiurgus, ad
+hominem manus confert, et substantiam non ei capit,
+non ex ista, inquiunt, arida quam nos unicam novimus
+terram quasi non etsi arida postmodum,
+adhuc tamen tunc aquis ante segregatis, superstite
+limo siccaverit, sed ex invisibili corpore materiae
+illius, scilicet philosophicae, de fluxili et fusili
+ejus: quod unde fuerit, haud queo aestimare, quia
+<pb n="0578A"/>
+nusquam est. Si enim fusile et fluxile liquoris est qualitas,
+liquor autem omnis de Sophiae fletibus fluxit
+sequitur ut limum ex pituitis et gramis Sophiae
+constitisse credamus, quae lacrymarum proinde sunt
+faeces, sicut aquarum quod desidet, limus est. Figulat
+ita hominem demiurgus, et de afflatu suo animat:
+sic erit et choicus et animalis, ad imaginem et similitudinem
+factus: quadruplex res: ut imago quidem
+choicus deputetur, materialis scilicet; etsi non
+ex materia demiurgus: similitudo autem animalis;
+hoc enim et demiurgus. Habes duos. Interim carnalem
+superficiem postea aiunt choico supertextam, et
+hanc esse pelliceam tunicam obnoxiam sensui
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<p>
+            <pb n="0578B"/>Inerat autem in Achamoth ex substantia Sophiae
+matris, peculium quoddam seminis spiritalis: sicut
+et ipsa Achamoth in filio demiurgo sequestraverat, ne
+hoc quidem gnaro. Accipe industriam clandestinae
+providentiae hujus. Ad hoc enim et deposuerat et occultaverat,
+ut cum demiurgus animam mox de suo
+adflatu in Adam communicaret, pariter et semen illud
+spiritale quasi per canalem derivaretur in choicum:
+atque ita foeturatum in corpore materiali,
+velut in utero, et adultum illic, idoneum inveniretur
+ suscipiendo quandoque Sermoni perfecto. Ita
+que cum demiurgus traducem animae suae committit
+ in Adam, latuit homo spiritalis flatu
+insertus, et pariter corpori inductus, quia non magis
+<pb n="0579A"/>
+semen noverat matris demiurgus, quam ipsam. Hoc
+semen Ecclesiam dicunt, Ecclesiae supernae speculum,
+et hominis censum: proinde eum ab
+Achamoth deputantes, quemadmodum animalem a
+demiurgo: choicum, substantia <foreign xml:lang="greek">αῤχῆς</foreign>: carnem, materia.
+Habes novum, id est quadruplum Geryonem
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<p>Sic et exitum singulis dividunt. Materiali quidem,
+id est carnali, quem et sinistrum vocant, indubitatum
+interitum; animali vero, quem et dextrum
+appellant, dubitatum eventum, utpote inter materialem
+spiritalemque nutanti, et illac debito qua plurimum
+adnuerit. Caeterum spiritalem emitti in animalis
+<pb n="0579B"/>
+comparationem, et erudiri cum eo et exerceri in
+conversationibus possit. Indiguisse enim animalem
+<pb n="0580A"/>
+etiam sensibilium disciplinarum; in hoc et paraturam
+mundi prospectam; in hoc et Soterem animalem
+ in mundo repraesentatum, in salutem scilicet
+animalis. Alia adhuc compositione monstruosum,
+volunt illum proficias earum substantiarum
+induisse, quarum summam saluti esset redacturus;
+ut spiritalem quidem susceperit ab Achamoth, animalem
+vero, quem mox a demiurgo induit, Christum:
+caeterum corporalem, ex animali substantia,
+sed miro et inenarrabili rationis ingenio constructum,
+administrationis caussa vim contulisse,
+quo congressui, et conspectui, et contactui,
+et defunctui ingratis subjaceret.
+Materiale autem nihil in illo fuisse, utpote salutis
+alienum, quasi aliis? fuerit necessarius, quam egentibus
+<pb n="0580B"/>
+salute. Et totum hoc, ut carnis nostrae habitum
+alienando a Christo, a spe etiam salutis expellant.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+
+<pb n="0581A"/>
+<p>Nunc reddo de Christo: in quem tanta licentia
+Jesum inserunt quidam, quanta spiritale semen animoli
+cum inflatu infulciunt, fartilia nescio quae commenti,
+et hominum et deorum suorum. Esse enim
+Demiurgo suum Christum filium naturalem. Denique
+animalem prolatum ab ipso, promulgatum Prophetis;
+in Praepositionum quaestionibus positum, id est per
+virginem, non ex virgine editum quia delatus in virginem
+transmeatorio potius quam generatorio more
+processerit; per ipsam, non ex ipsa; non matrem
+eam, sed viam passus. Super hunc itaque Christum
+ devolasse tunc in baptismatis sacramento Soterem
+ per effigiem columbae. Fuisse autem et in
+Christo etiam ex Achamoth spiritalis seminis condimentum,
+<pb n="0581B"/>
+ne marcesceret scilicet reliqua farsura.
+Nam in figuram principalis Tetradis, quatuor eum
+substantiis stipant, spiritali Achamothiana, animali
+Demiurgina, corporali inenarrativa, et illa sotericiana,
+<pb n="0582A"/>
+id est columbina. Et Soter quidem permansit
+in Christo, impassibilis, inlaesibilis, inapprehensibilis.
+Denique cum ad apprehensiones venitur,
+discessit ab illo in cognitione Pilati. Proinde nec matris
+semen admisit injurias, aeque insubditivum, et
+ne ipsi quidem Demiurgo compertum. Patitur
+vero animalis et carneus Christus, in deliniationem
+ superioris Christi, qui ad Achamoth formandam
+substantivali non agnitionali forma, Cruci,
+id est Horo fuerat innixus. Ita omnia in imagines
+urgent, plane et ipsi imaginarii Christiani.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<p>Interea Demiurgus omnium adhuc nescius, etsi aliquid
+et ipse per Prophetas concionabitur, ne hujus
+quidem operis sui intelligens (dividunt enim et prophetiale
+<pb n="0582B"/>
+ patrocinium in Achamoth, in semen,
+in Demiurgum): ubi adveutum Soteris accepit,
+ propere et ovanter accurrit, cum omnibus viribus
+suis, Centurio de Evangelio. Et de omnibus inluminatus,
+<pb n="0583A"/>
+ab illo etiam spem suam discit, quod successurus
+sit in locum matris. Ita exinde securus,
+dispensationem mundi hujus, vel maxime Ecclesiae
+protegendae nomine, quanto tempore oportuerit,
+insequitur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIX.</head>
+<p>Colligam nunc ex disperso, ad concludendum, quae
+de totius generis humani dispositione disserant. Triformem
+naturam primordio professi, et tamen inunitatem
+ in Adam inde jam dividunt per singulares generum
+proprietates, nacti occasionem distinctionis hujusmodi
+ex posteritate ipsius Adae, moralibus quoque
+differentiis tripartitae. Cain, Abel, et Seth, fontes
+quodammodo generis humani, in totidem derivant argumenta,
+naturae atque essentiae. Choicum,
+<pb n="0583B"/>
+ saluti degeneratum, ad Cain redigunt: Animale,
+ mediae spei deliberatum, ad Abel componunt:
+Spiritale, certae saluti praejudicatum, in Seth recondunt,
+Sic et animas ipsas duplici proprietate discernunt,
+<pb n="0584A"/>
+bonas et malas: secundum choicum statum ex
+Cain, et animalem ex Abel, spiritalem ex Seth.
+De obvenientia superducunt jam non naturam, sed
+indulgentiam, ut quos Achamoth in superioribus
+ in animas bonas depluat, id est animali censui
+inscriptas. Choicum enim genus, id est malas
+animas nunquam capere salutaria. Immutabilem
+enim et irreformabilem naturam pronuntiaverunt.
+Id ergo granum seminis spiritalis modicum et
+parvulum jactu, sed eruditu hujus fides augetur
+atque provehitur, ceu supra diximus: animaeque
+hoc ipso ita caeteris praevertunt, ut Demiurgus
+tunc ignorans magni eas fecerit. Ex earum ergo
+laterculo, et in reges, et in sacerdotes allegere consueverat:
+quae nunc quoque si plenam atque perfectam
+<pb n="0584B"/>
+notitiam apprehenderint istarum naeniarum,
+naturificatae jam spiritalis conditionis germanitate,
+certam obtinebunt salutem, imo omnimodo debitam
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXX.</head>
+
+<pb n="0585A"/>
+<p>Ideoque nec operationes necessarias sibi existimant,
+nec ulla disciplinae munia observant; martyrii
+quoque eludentes necessitatem qua volunt interpretatione.
+Hanc enim regulam animali semini praestitutam,
+ut salutem quam non de privilegio status possidemus,
+de suffragio actus elaboremus. Nobis enim
+inscriptura hujus seminis, qui imperfectae essentiae
+sumus, quia amoribus Phileti, et utique abortui
+deputamur, quod mater illorum. Sed nobis quidem
+vae, si excesserimus in aliquo disciplinae jugum: si
+obtorpuerimus in operibus sanctitatis atque justitiae:
+ si confitendum alibi, nescio ubi, et non sub potestatibus
+istius saeculi, apud tribunalia praesidum
+optaverimus. Illi vero et de passivitate vitae,
+<pb n="0585B"/>
+et diligentia delictorum, generositatem suam vindicent,
+blandiente suis Achamoth, quoniam et ipsa
+delinquendo profecit. Nam et honorandorum
+conjugiorum supernorum gratia dicitur apud illos,
+meditandum atque celebrandum semper sacramentum,
+<pb n="0586A"/>
+comiti, id est foeminae adhaerendo; alioquin degenerem,
+nec legitimum veritatis, qui diversatus in mundo non
+amaverit foeminam, nec se ei junxerit. Et quid facient
+spadones, quos videmus apud illos?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXI.</head>
+<p>Superest de consummatione, et dispensatione mercedis.
+Ubi totam messem Achamoth seminis
+sui presserit, dein colligere in horreum coeperit, vel
+cum ad molas delatum, et defarinatum, in conspersionis
+alvearia absconderit, donec totum confermentetur,
+tunc consummatio urgebit. Igitur
+in primis ipsa Achamoth, de regione medietatis, de
+tabulato secundo in summum transfertur, restituta
+Pleromati: et statim excipit compactitius
+ille Soter, sponsus scilicet: ambo conjugium novum.
+<pb n="0586B"/>
+Et hic erit in scripturis sponsus et sponsa,
+et sponsale Pleroma. Credas enim, ubi de loco in
+locum transmigratur, leges quoque Julias intervenire,
+ sicut et coenam. Et Demiurgus tunc
+de hebdomade sub coelesti in superiora mutabit,
+<pb n="0587A"/>
+in vacuum jam coenaculum matris, sciens jam
+nec videns illam. Nam si ita erat, semper
+ignorare maluisset.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXII.</head>
+<p>Humana vero gens in hoc exitus ibit;
+choicae et materialis notae, in totum interitum:
+quia omnis caro foenum, et anima mortalis
+apud illos, nisi quae salutem fide invenerit. Justorum
+animae, id est nostrae, ad Demiurgum in medietatis
+receptacula, transmittentur. Agimus gratias, contenti
+crimus cum Deo nostro deputari, quo ascensus.
+Nihil animale in Pleromatis palatium admittitur, nisi
+spiritale examen Valentini. Illic itaque primo despoliantur
+homines ipsi, id est interiores. Despoliari
+<pb n="0587B"/>
+autem est, deponere animas, quibus induti videbantur,
+easque Demiurgo suo reddent, quas ab eo avertant.
+Ipsi autem spiritus in totum fient intellectuales,
+neque detentui, neque conspectui obnoxii:
+atque ita invisibiliter in Pleroma recipientur. Furtim,
+si ita est, quid deinde? Angelis distribuentur satellitibus
+Soteris. In filios putas? Non. Sed in apparitores?
+<pb n="0588A"/>
+Ne istud quidem. Sed in imagines? Utinam vel
+hoc. In quid ergo, si non pudet dicere? In sponsas.
+Tunc illi Sabinas raptas inter se de matrimoniis
+plaudent. Haec erit Spiritalium merces, hoc
+praemium credendi. Fabulae tales utiles, ut Marcus,
+aut Caius in hanc carnem barbatus, et haec
+omnia; severus maritus, pater, avus, proavus,
+certe quod sufficit masculus, in Nymphone
+Pleromatis ab angelo, tacendo jam dixi et forsitan
+parias aliquem Onesimum Aeonem. His nuptiis recte
+deducendis, pro face et flammeo, tunc credo ille
+ignis arcanus erumpet, et universam substantiam depopulatus;
+ipse quoque decineratis omnibus in nihilum
+finietur; et nulla jam fabula. Sed nae ego temerarius,
+qui tantum sacramentum etiam inludendo
+<pb n="0588B"/>
+prodiderim. Verendum mihi est, ne Achamoth, quae
+se nec filio agnitam voluit, insaniat; ne Philetus
+irascatur, ne Fortuna acerbetur. Et tamen homo
+sum Demiurgi, illuc habeo devertere, ubi post excessum
+ omnino non obnubitur: ubi superindui
+potius quam despoliari: ubi etsi despolior
+sexui meo, deputor angelis; non angelus, non
+<pb n="0589A"/>
+angela. Nemo mihi quicquam faciet, quem et
+tunc masculum invenient.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIII.</head>
+<p>Producam denique velut epicitharisma post fabulam
+tantam, etiam illa quae ne ordini obstreperent,
+et lectoris intentionem interjectione dispargerent,
+hunc malui in locum distulisse, aliter atque aliter
+commendata ab emendatoribus Ptolomaei. Extiterunt
+enim de schola ipsius discipuli super magistrum,
+qui duplex conjugium Bytho suo adfingerent,
+Cogitationem et Voluntatem. Una enim satis non
+erat Cogitatio, qua nihil producere potuisset, ex
+duabus facillimo prolatu. Primum conjugium,
+Monogenem et Veritatem; ad imaginem quidem
+Cogitationis, foeminam Veritatem; ad imaginem
+<pb n="0589B"/>
+Voluntatis, marem Monogenem. Voluntatis enim vis,
+uti quae effectum praestat Cogitationi, maris
+obtinet censum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIV.</head>
+<p>Pudiciores alii honorem divinitatis recordati, ut
+etiam unius conjugii dedecus ab eo avellerent, maluerunt
+nullum Bytho sexum deputare: et fortasse
+<pb n="0590A"/>
+Hoc Deum, non Hic Deus, neutro genere
+pronuntiant. Alii contra magis, et masculum et foeminam
+dicunt, ne apud solos Lunenses Hermaproditum
+existimet Annalium commentator Fenestella.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXV.</head>
+<p>Sunt qui nec principatum Bytho defendant, sed
+postumatum; Ogdoadem ante omnia praemittentes, ex
+Tetrade quidem et ipsam, sed et aliis nominibus
+derivatam. Primo enim constituunt Proarche, secundo
+Anennoeton, tertio Arrheton, quarto Aoraton.
+Ex Proarche itaque processisse primo et quinto
+loco Archen: ex Anennoeto, secundo et sexto loco
+Acatalepton: ex Arrheto tertio et septimo loco
+Anonomaston: ex invisibili, quarto et octavo loco
+<pb n="0590B"/>
+Agenneton. Hoc quae ratio disponat, ut singula binis
+locis, et quidem tam intercisis, nascantur, malo
+ignorare quam discere. Quid enim recti habent, quae
+tam perversae proferuntur?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVI.</head>
+<p>Quanto meliores qui totum hoc taedium de medio
+amoliti, nullum Aeonem voluerunt alium ex alio per
+ gradus revera Gemonios structum, sed mappa
+<pb n="0591A"/>
+(quod aiunt) missa, semel octojugem istam ex Patre
+et Ennoea ejus exclusam. Ex ipso denique ejus
+motu nomina gerunt. Cum, inquiunt, cogitavit proferre,
+hoc Pater dictus est. Cum protulit, quia vera
+protulit, hic Veritas appellata est. Cum semetipsum
+voluit probari, hoc homo pronuntiatus est. Quos autem
+praecogitavit cum protulit, tunc Ecclesia nuncupata
+est. Sonuit homo sermonem, et hic est primogenitus
+filius: et sermoni accessit vita, et Ogdoas
+prima conclusa est. Sed hoc taedium non pusillum
+.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVII.</head>
+<p>Accipe alia ingenia Currucae Enniani, insignioris
+ apud eos magistri, qui et pontificali
+sua auctoritate in hunc modum censuit. Est, inquit,
+<pb n="0591B"/>
+ante omnia Proarche, inexcogitabile, et inenarrabile,
+et innominabile, quod ego nomino Monoteta.
+<pb n="0592A"/>
+Cum hac erat alia virtus, quam et ipsam appello Henoteta.
+Monotes et Henotes, id est Solitas et Unitas,
+cum unum essent, protulerunt non proferentes initium
+omnium intellectuale, innascibile, invisibile,
+quod sermo Monada vocavit. Huic adest consubstantiva
+virtus, quam appellat Unio. Hae igitur virtutes
+Solitas, Singularitas, Unitas, Unio, caeteras
+prolationes Aeonum propagarunt. O differentia! Mutetur
+Unio et Unitas, Singularitas et suum Solitas,
+ quamquam designaveris, unum est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXVIII.</head>
+<p>Humanior jam Secundus, ut brevior, Ogdoadem
+in duas Tetradas dividens, in dextram et sinistram,
+in lumen et tenebras; tantum quod desultricem et
+defectricem illam virtutem non vult ab aliquo deducere
+<pb n="0592B"/>
+triginta Aeonum, sed a fructibus de substantia
+eorum venientibus .</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXIX.</head>
+
+<pb n="0593A"/>
+<p>De ipso jam Domino Jesu, quanta diversitas
+scinditur? Hi ex omnium Aeonum flosculis eum
+construunt, illi ex solis decem constitisse contendunt,
+quos Sermo et Vita protulerunt; inde et in ipsum
+Sermonis et Vitae concurrerunt oculi: isti
+ex duodecim potius, ex Hominis et Ecclesiae
+foetu: ideoque Filium hominis aiunt pronuntiatum;
+alii a Christo et Spiritu Sancto constabiliendae
+<pb n="0594A"/>
+universitati provisis, confictum: et jure,
+paternae appellationis haeredem. Sunt qui filium hominis
+aliunde conceperint dicendum: quamquam ipsum
+Patrem pro magno nominis sacramento Homines
+appellasse praesumpserint, ut quid amplius speres
+de ejus Dei fide cui nunc adaequaris? Talia ingenia superfruticant
+apud illos ex materni seminis redundantia.
+Atque ita inolescentes doctrinae Valentinianorum,
+in silvas jam exoleverunt Gnosticorum.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

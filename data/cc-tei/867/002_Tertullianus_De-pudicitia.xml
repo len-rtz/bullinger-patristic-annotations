@@ -1,0 +1,2514 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De pudicitia</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 2</title>
+           <idno>Tertul.DePud</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>ARGUMENTUM.</head>
+<div3>
+          <head>I. </head>
+<p>
+            <pb n="0979A"/> <hi>Pudicitiae amore Tertullianus in haeresim lapsus, libro
+hoc errorem Montani prosecutus de non recipiendis
+poenitentibus, saltem moechis et fornicatoribus;
+laude pudicitiae praemissa, idipsum hujus libri
+argumentum paucis indicat (fassus, se retro, nempe
+cum librum de Poenitentia scriberet, alterius fuisse
+sententiae); maxime cum culmen criminum teneant
+moechia et fornicatio.</hi> </p>
+        </div3>
+<div3>
+          <head>II.</head>
+          <p>
+ <hi>Atque imprimis, Scripturis Scripturas opponens, inde
+colligere nititur, delicta quaedam esse remissibilia,
+alia irremissibilia.</hi> </p>
+        </div3>
+<div3>
+          <head>III.</head>
+          <p>
+ <hi>Non tamen propterea negligendam prorsus delictorum
+quorumdam poenitentiam.</hi> </p>
+        </div3>
+<div3>
+          <head>IV.</head>
+          <p>
+ <hi>Jam vero postquam docuit, moechiae et fornicationis
+nomine se comprehendere omnia libidinum delicta,</hi> 
+<pb n="0979B"/>
+</p>
+        </div3>
+<div3>
+          <head>V. </head>
+          <p>
+ <hi>Moechiam idololatriae et homicidio comparari, ex
+Scripturis ostendit.</hi> </p>
+        </div3>
+<div3>
+          <head>VI.</head>
+          <p>
+ <hi>Etsi vero in veteri Testamento exstent exempla
+veniae pro moechis, inveniri etiam judicii; et aliam
+esse novi Testamenti rationem.</hi> </p>
+        </div3>
+<div3>
+          <head>VII.</head>
+          <p>
+ <hi>Deinceps late disputat de parabola ovis et drachmae
+perditae.</hi> </p>
+        </div3>
+<div3>
+          <head>VIII.</head>
+          <p>
+ IX. <hi>Item de duorum filiorum parabola.</hi> </p>
+        </div3>
+<div3>
+          <head>X.</head>
+          <p>
+ <hi>Poenitentiam enim etiam ethnicis competere.</hi> </p>
+        </div3>
+<div3>
+          <head>XI.</head>
+          <p>
+ <hi>Exinde et facta Domini peccatoribus edita describit.</hi> </p>
+        </div3>
+<div3>
+          <head>XII.</head>
+          <p>
+ <hi>Certe ab Apostolis cum idololatria et homicidio
+fornicationem interdici.</hi> </p>
+        </div3>
+<div3>
+          <head>XIII.</head>
+          <p>
+ XIV. <hi>Porro et veniam fornicatori corinthio ab
+Apostolo concessam examinat.</hi> </p>
+        </div3>
+<div3>
+          <head>XV.</head>
+          <p>
+ XVI. <hi>Afferens tam secundae quam prioris ad Corinthios
+<pb n="0979C"/>
+Epistolae locos adversus fornicatores.</hi> </p>
+        </div3>
+<div3>
+          <head>XVII.</head>
+          <p>
+ <hi>Item et similes aliarum apostoli Pauli Epistolarum
+sententias.</hi> </p>
+        </div3>
+<div3>
+          <head>XVIII.</head>
+          <p>
+ <hi>Etiam tales, tum illius, tum veteris Testamenti,
+quae communionem ecclesiasticam moechis adimunt.</hi> </p>
+        </div3>
+<div3>
+          <head>XIX.</head>
+          <p>
+ <hi>Similes quoque locos, ex Joannis apostoli et Apocalypsi,
+et Epistola.</hi> </p>
+        </div3>
+<div3>
+          <head>XX.</head>
+          <p>
+ <hi>Ex Epistola deinde ad Hebraeos olim (sententia
+<pb n="0980A"/>
+ipsius) Barnabae titulo, et Levitico, quasdam Scripturas
+affert, quamquam frustra pro suo instituto.</hi> </p>
+        </div3>
+<div3>
+          <head>XXI.</head>
+          <p>
+ <hi>Atqui, non negans Apostolis competisse potestatem
+remittendi peccata, et proinde etiam Ecclesiae, id
+suae Ecclesiae spirituali frustra arrogat.</hi> </p>
+        </div3>
+<div3>
+          <head>XXII.</head>
+          <p>
+ <hi>Denique agit contra veniam criminum et pacem,
+quam martyres quidam moechis donabant, negatoribus
+negabant.</hi> PAM.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+<p>Pudicitia flos morum, honor corporum, decor
+sexuum, integritas sanguinis, fides generis, fundamentum
+sanctitatis, praejudicium omnis bonae mentis;
+quamquam rara, nec facile perfecta, vixque
+perpetua; tamen aliquatenus in saeculo morabitur,
+si natura praestruxerit, si disciplina persuaserit,
+<pb n="0980B"/>
+censura compresserit. Siquidem omne animi
+bonum aut nascitur, aut eruditur, aut cogitur.
+Sed ut mala magis vincunt, quod ultimorum temporum
+ratio est; bona jam nec nasci licet,
+ita corrupta sunt semina: nec erudiri, ita deserta
+sunt studia; nec cogi, ita exarmata sunt jura. Denique,
+de qua incipimus, cousque jam exolevit, ut non
+ejuratio, sed moderatio libidinum pudicitia credatur;
+isque satis castus habeatur, qui minus castus fuerit.
+Sed viderit saeculi pudicitia cum saeculo ipso,
+cum suo ingenio si nascebatur, cum suo studio si
+erudiebatur, cum suo servitio si cogebatur; nisi quod
+infelicior etiam, si stetisset, ut infuctuosa, quae non
+apud Deum egisset. Malim nullum bonum, quam vanum.
+Quid prodest esse, quod esse non prodest?
+<pb n="0980C"/>
+Nostrorum bonorum status jam exigitur, christianae
+pudicitiae ratio concutitur: quae omnia de coelo
+trahit, et naturam per lavacrum regenerationis, et
+disciplinam per instrumentum praedicationis, et censuram
+per judicia ex utroque Testamento, et coacta
+constantius ex metu et voto aeterni ignis et regni.
+Adversus hanc nonne dissimulare potuissem?
+Audio etiam edictum esse propositum, et quidem peremptorium,
+<pb n="0981A"/>
+Pontifex scilicet maximus, quod
+est Episcopus Episcoporum, edicit:  « Ego et moechia
+et fornicationis delicta, poenitentia functis dimitto. » 
+O edictum, cui adscribi non poterit, Bonum
+factum! Et ubi proponetur liberalitas ista?
+Ibidem, opinor, in ipsis libidinum januis, sub ipsis
+libidinum titulis. Illic ejusmodi poenitentia promulganda
+est, ubi delinquentia ipsa versabitur; illic legenda
+est venia, quo cum spe ejus intrabitur. Sed
+hoc in Ecclesia legitur, et in Ecclesia pronuntiatur,
+et virgo est? Absit, absit a sponsa Christi tale praeconium.
+Illa quae vera est, quae pudica, quae sancta,
+carebit etiam aurium maculis. Non habet quibus hoc
+repromittat; et si habuerit, non repromittit: quoniam
+et terrenum Dei templum citius <hi>spelunca latronum,</hi> 
+<pb n="0981B"/> <note>(Matth. XXI, 13)</note>,
+appellari potuit a Domino, quam
+moechorum et fornicatorum. Erit igitur et hic <hi>adversus
+Psychicos</hi> titulus, adversus meae quoque sententiae
+retro penes illos societatem, quo magis hoc
+mihi in notam levitatis objectent. Nunquam societatis
+repudium delicti praejudicium est, quasi non facilius
+<pb n="0982A"/>
+sit errare cum pluribus, quando veritas cum
+paucis ametur. Atenim me non magis dedecorabit
+utilis levitas, quam ornarit nocens. Non suffundor
+errore quo carui, quia caruisse delector, quia meliorem
+me et pudiciorem recognosco. Nemo proficiens
+erubescit. Habet et in Christo scientia aetates suas,
+per quas devolutus est et Apostolus. <hi>Cum parvulus,</hi> 
+inquit, <hi>essem, tanquam parvulus loquebar, tanquam
+parvulus sapiebam: at ubi vir sum factus, ea quae parvuli
+fuerant, evacuavi <note>(I Cor. XIII, 11)</note>
+          </hi>. Adeo divertit
+a sententiis pristinis, nec idcirco deliquit, quod <hi>aemulator
+factus est,</hi> non <hi>paternarum traditionum <note>(Gal. I, 14)</note>
+          </hi>,
+sed christianarum; optans etiam ut praeciderentur
+qui circumcisionem detinendam suadebant <note>(Gal. V,
+11, 12)</note>. Atque utinam et isti qui meram et veram integritatem
+<pb n="0982B"/>
+carnis obtruncant, amputantes non summam
+superficiem, sed intimam effigiem pudoris ipsius,
+cum moechis et fornicatoribus veniam pollicentur
+adversus principalem christiani nominis disciplinam,
+quam ipsum quoque saeculum usque adeo testatur,
+ut, si quando, eam in foeminis nostris inquinamentis
+<pb n="0983A"/>
+potius carnis quam tormentis punire contendat, id
+volens eripere quod vitae anteponant! Sed jam haec
+gloria extinguitur, et quidem per eos quos tanto constantius
+oportuerat ejusmodi maculis nullam subscribere
+veniam, quanto propterea quotiens volunt, nubunt,
+ne moechiae et fornicationi succidere cogantur:
+quoniam <hi>melius est nubere quam uri <note>(I Cor. VII, 9)</note>
+          </hi>.
+Nimirum, propter continentiam incontinentia necessaria
+est, incendium ignibus exstinguetur. Cur ergo et
+crimina postmodum indulgent poenitentiae nomine, quorum
+remedia praestituunt multinubentiae jure? Nam et
+remedia vacabunt, cum crimina indulgentur; et crimina
+manebunt, si remedia vacabunt. Itaque utrobique de sollicitudine
+et negligentia ludunt, praecavendo vanissime
+quibus parcunt, et parcendo ineptissime quibus praecaverunt;
+<pb n="0983B"/>
+cum aut praecavendum non sit, ubi parcitur;
+aut parcendum non sit, ubi praecavetur. Praecavent
+enim, quasi nolint admitti tale quid; indulgent
+autem, quasi velint admitti; quando si admitti nolint,
+non debeant indulgere; si indulgere velint, non debeant
+praecavere. Nec enim moechia et fornicatio de
+modicis et de maximis delictis deputabuntur,
+ut utrumque competat, et sollicitudo quae praecavet,
+et securitas quae indulget. Sed cum ea sint quae culmen
+criminum teneant, non capit et indulgeri quasi
+modica, et praecaveri quasi maxima. Nobis autem
+maxima aut summa sic quoque praecaventur, dum
+nec secundas quidem post fidem nuptias permittitur
+nosse, nuptialibus et dotalibus si forte tabulis a moechiae
+et fornicationis opere diversas. Et ideo durissime
+<pb n="0983C"/>
+nos infamantes Paracletum disciplinae enormitate digamos
+foris sistimus, eumdem limitem liminis moechis
+quoque et fornicatoribus figimus, jejunas pacis
+lacrymas profusuris, nec amplius ab Ecclesia quam
+publicationem dedecoris relaturis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>Caeterum, Deus, inquiunt, bonus et optimus, <hi>et
+misericors et miserator <note>(Psal. CXI, 4)</note>
+          </hi>, <hi>et misericordiae
+plurimus (Joel II, 13)</hi>, quam omni sacrificio anteponit <note>(I Reg. XV, 22; Ose. VI, 6; Matth. IX, 13, XII, 7)</note> 
+;
+<pb n="0983D"/>
+non tanti ducens <hi>peccatoris mortem, quam poenitentiam <note>(Ezech. XVIII, 23, 32, XXIII, 11)</note>
+          </hi>,
+ <hi>salvificator omnium hominum, et maxime fidelium 
+ <note>(I Tim. IV, 10)</note>
+          </hi>.
+Itaque et filios Dei misericordes et pacificos esse oportebit <note>(Matth. V, 9, 7)</note>,
+ <hi>donantes invicem, sicut et Christus
+donavit nobis <note>(Coloss. III, 13)</note>
+          </hi>; non judicantes, ne
+judicemur <note>(Matth. VII, 1)</note>. <hi>Domino</hi> enim <hi>suo stat quis
+<pb n="0984A"/>
+vel cadit: tu quis es, ut servum judices alienum? <note>(Rom.
+XIV, 4)</note>
+          </hi>. <hi>Dimitte, et dimittetur tibi <note>(Luc. VI, 37)</note>
+          </hi> Talia
+et tanta futilia eorum quibus et Deo adulantur,
+et sibi lenocinantur, effoeminantia magis quam vigorantia
+disciplinam, quantis et nos et contrariis possumus
+repercutere, quae et Dei severitatem intentent,
+et nostram constantiam provocent? Quia, etsi bonus
+natura Deus, tamen et justus <note>(Psal. VII, 12)</note>. Ex causa
+enim, sicut sanare novit, ita et caedere <note>(Deut. XXXII,
+39)</note>; faciens pacem, sed et condens mala <note>(Is. XLV, 7)</note>,
+poenitentiam malens <note>(Ezech. XVIII, 23, 32)</note>, sed et
+Hieremiae mandans, ne pro populo peccatore deprecaretur: <hi>Quoniam si jejunaverint,</hi> 
+ inquit, <hi>non exaudiam
+obsecrationem eorum;</hi> et rursus: <hi>Et tu ne adoraveris
+pro populo, et ne postulaveris pro his in prece et
+<pb n="0984B"/>
+oratione, quoniam non exaudiam in tempore quo invocaverint
+me, in tempore afflictionis suae <note>(Jer. VII, 16,
+XI, 14, XIV, 11, 12)</note>
+          </hi>. Et adhuc supra, idem misericordiae
+praelator quam sacrificii: <hi>Et tu ne adoraveris
+pro populo isto;</hi> et, <hi>Ne postulaveris misericordiam consequi
+eos.</hi> Et, <hi>Ne accesseris pro his ad me, quoniam
+non exaudiam utique misericordiam postulantes <note>(Ibid.)</note>
+          </hi>,
+utique ex poenitentia flentes et jejunantes, et adflictationem
+suam offerentes Deo. <hi>Deus enim zelotes <note>(Exod.
+X, 5, XXXIV, 14)</note>
+          </hi>, et qui naso non deridetur <note>(Galat. VI, 7)</note>,
+adulantiam scilicet boni ati ejus. Et qui
+licet patiens <note>(Psal. VII, 12)</note>, tamen per Esaiam comminetur
+patientiae finem: <hi>Tacui, numquid et semper
+tacebo, et sustinebo? quievi, velut parturiens; exsurgam,
+et arescere faciam <note>(Isa. XLII, 14, 15)</note>
+          </hi>. <hi>Ignis</hi> enim <hi>praecedet
+<pb n="0984C"/>
+ante faciem ipsius, et exuret inimicos ejus <note>(Psal.
+XCVI, 3)</note>
+          </hi>, non solum corpus, verum et animas occidens
+in gehennam <note>(Matth. X, 28)</note>. Caeterum, judicantibus
+quomodo Dominus comminetur, ipse demonstrat: <hi>Quo enim judicio judicaveritis, judicabitur de
+vobis 
+ <note>(Matth. VII, 2)</note>
+          </hi>. Ita non prohibuit judicare, sed
+docuit. Unde et Apostolus judicat, et quidem in causa
+fornicationis, dedendum <hi>ejusmodi hominem Satanae in
+interitum carnis <note>(I Cor. V, 5)</note>
+          </hi>, increpans etiam quod
+fratres non apud sanctos judicarentur <hi>(I Cor. VI, 1,
+<pb n="0984D"/>
+sqq.)</hi>. Adjiciens enim inquit: <hi>Ut quid mihi eos qui foris
+sunt, judicare? <note>(I Cor. V, 12.)</note>
+          </hi> Dimittis autem, ut dimittatur
+tibi a Deo <note>(Luc. VI, 37)</note>. Delicta mundantur,
+quae quis in fratrem, non Deum admiserit. Debitoribus
+denique dimissuros nos in oratione profitemur <note>(Matth. VI, 12)</note>.
+Sed non decet ultra de auctoritate
+Scripturarum ejusmodi funem contentiosum alterno
+<pb n="0985A"/>
+ductu in diversa distendere, ut haec restringere fraenos
+disciplinae, illa laxare videantur, quasi incertae, et
+poenitentiae subsidium illa prosternere per lenitatem,
+haec negare per austeritatem. Porro et auctoritas
+Scripturae in suis terminis stabit sine alterutra oppositione,
+si et poenitentiae subsidium suis conditionibus
+determinatur sine passiva concessione, et ipsae prius
+causae ejus distinguantur sine confusa propositione.
+Causa poenitentiae delicta condicimus. Haec dividimus in
+duos exitus: alia erunt remissibilia, alia irremissibilia;
+secundum quod nemini dubium est, alia castigationem
+mereri, alia damnationem. Omne delictum aut venia expungit,
+aut poena: venia, ex castigatione; poena, ex damtione.
+De ista differentia jam et quasdam praemisimus
+altercationes Scripturarum, hinc retinentium, hinc
+<pb n="0985B"/>
+dimittentium delicta. Sed et Joannes docebit: <hi>Si quis
+scit fratrem suum delinquere delictum non ad mortem,
+postulabit, et dabitur vita ei <note>(I Joh. V, 16)</note>
+          </hi>; quia non
+ad mortem delinquit: hoc erit remissibile. <hi>Est delictum
+ad mortem: non pro illo dico ut quis postulet <note>(Ibid.)</note>
+          </hi>:
+hoc erit irremissibile. Ita, ubi est conditio vel
+ratio postulationis, illic etiam remissionis: ubi nec
+postulationis, ibi aeque nec remissionis. Secundum
+hanc differentiam delictorum, poenitentiae quoque
+conditio discriminatur. Alia erit quae veniam consequi
+possit, in delicto scilicet remissibili; alia quae
+consequi nullo modo possit, in delicto scilicet irremissibili.
+Et superest specialiter de moechiae et fornicationis
+statu examinare, in quam delictorum partem
+debeant redigi.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+
+<pb n="0985C"/>
+<p>Sed prius decidam intercedentem ex diverso responsionem
+ad eam poenitentiae speciem, quam cummaxime
+ definimus venia carere. Si enim, inquiunt,
+aliqua poenitentia caret venia, jam nec in totum agenda
+tibi est. Nihil enim agendum est frustra. Porro frustra
+agetur poenitentia, si caret venia. Omnis autem poenitentia
+<pb n="0986A"/>
+agenda est. Ergo omnis veniam consequatur,
+ne frustra agatur; quia non erit agenda, si frustra
+agitur. Porro, frustra agetur, si venia carebit. Merito
+ utique ita opponunt, quoniam hujus quoque
+poenitentiae fructum, id est veniam, in sua potestate
+usurpaverunt. Quantum enim ad illos a quibus
+pacem humanam consequitur; quantum autem
+ad nos, qui solum Dominum meminimus delicta concedere
+ et utique mortalia, non frustra agetur. Ad
+Dominum enim remissa et illi exinde prostrata, hoc
+ipso magis operabitur veniam, quod eam a solo Deo
+exorat, quod delicto suo humanam pacem sufficere
+non credit, quod Ecclesiae mavult erubescere
+quam communicare. Adsistit enim pro foribus ejus,
+et de notae suae exemplo caeteros admonet, et lacrymas
+<pb n="0986B"/>
+fratrum sibi quoque advocat, et redit plus utique
+ negotiata, compassionem scilicet quam
+communicationem. Et si pacem hic non metit,
+apud Dominum seminat: nec amittit, sed praeparat
+fructum: non vacabit ab emolumento, si non vacaverit
+ab officio. Ita nec poenitentia hujusmodi vana,
+nec disciplina ejusmodi dura est. Deum ambae honorant;
+illa nihil sibi blandiendo facilius impetrabit,
+ista nihil sibi adsumendo plenius adjuvabit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Possumus igitur, demandata poenitentiae distinctione,
+ad ipsorum jam delictorum regredi censum,
+an ea sint quae veniam ab omnibus consequi possint.
+In primis, quod moechiam et fornicationem nominamus,
+usus expostulat: habet et fides quorumdam
+<pb n="0986C"/>
+nominum familiaritatem; ita in omni opusculo
+usum custodimus. Caeterum, si adulterium et si
+stuprum dixero, unum erit contaminatae carnis
+elogium. Nec enim interest nuptam alienam an viduam
+quis incurset, dum non suam foeminam:
+sicut nec locis refert, in cubiculis an in curribus
+pudicitia trucidetur. Omne homicidium extra sylvam
+<pb n="0987A"/>
+latrocinium est: ita et ubicumque, vel in quamcumque
+semetipsum adulterat et stuprat. qui aliter quam
+nuptiis utitur. Ideo penes nos occultae quoque conjunctiones,
+id est non prius apud Ecclesiam professae
+ juxta moechiam et fornicationem judicari periclitantur.
+Nec inde consertae obtentu matrimonii
+crimen eludant. Reliquas autem libidinum furias
+impias et in corpora et in sexus ultra jura naturae
+non modo limine, verum omni Ecclesiae tecto submovemus;
+quia non sunt delicta, sed monstra.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Ergo moechia, quod etiam fornicationis est res,
+secundum opus criminis quanti aestimanda sit sceleris
+ prima lex Dei praesto est. Siquidem post interdictam
+<pb n="0987B"/>
+alienorum deorum superstitionem, ipsorumque
+idolorum fabricationem; post commendatam
+sabbati venerationem; post imperatam in parentes
+secundam a Deo religionem, nullum aliud in talibus
+titulis firmandis monendisque substruxit praeceptum,
+quam: <hi>Non moechaberis <note>(Exod. XX, 14)</note>
+          </hi>. Post
+spiritalem enim castitatem sanctitatemque, corporalis
+sequebatur integritas. Et hanc itaque munivit, hostem
+statim ejus prohibendo moechiam. Quale delictum
+jam intellige, cujus cohibitionem post idololatriae
+ordinavit. Nihil secundum longinquat a primo; nihil
+tam proximum primo, quam secundum: quod fit ex
+primo aliud, quodammodo primum est. Itaque moechia
+adfinis idololatriae; nam et idololatria moechiae
+nomine et fornicationis saepe populo exprobrata
+<pb n="0987C"/> <note>(Jer. III, 1, sq.; Ezech. XVI, 15, sq)</note>,
+etiam sorte
+conjungetur illi, sicut et serie; etiam damnatione cohaerebit
+illi, sicut et dispositione. Eo amplius praemittens:
+<pb n="0988A"/> <hi>Non moechaberis;</hi> 
+ adjungit: <hi>Non occides:</hi> oneravit
+utique moechiam, quam homicidio anteponit.
+In prima itaque fronte sanctissimae legis, in primis
+titulis coelestis edicti, principalium utique delictorum
+proscriptione signata, de loco modum, de
+ordine statum, de confinio meritum cujusque dignoscas.
+Est et mali dignitas, quod in summo aut in medio
+pessimorum collocatur. Pompam quamdam atque
+suggestum adspicio moechiae, hinc ducatum idololatriae
+antecedentis, hinc comitatum homicidii insequentis.
+Inter duos apices facinorum eminentissimos
+sine dubio digna consedit, et per medium eorum,
+quasi vacantem locum pari criminis auctoritate complevit.
+Quis eam talibus lateribus inclusam, talibus
+<pb n="0988B"/>
+costis circumfultam, a cohaerentium corpore divellet
+de vicinorum criminum nexu, de propinquorum scelerum
+complexu, ut solam eam secernat ad poenitentiae
+fructum? Nonne hinc idololatria, inde homicidium,
+detinebunt? et si qua vox fuerit, reclamabunt:
+Noster hic cuneus est, nostra compago?
+Ab idololatria metamur, illa distinguente conjungimur,
+illi de medio emicanti adunamur; concorporavit
+nos Scriptura divina, literae ipsae glutina
+nostra sunt, jam nec ipsa sine nobis potest. Ego quidem
+Idololatria saepissime moechiae occasionem subministro.
+Sciunt luci mei et mei montes, et vivae
+aquae, ipsaque in urbibus templa, quantum evertendae
+pudicitiae procuremus. Ego quoque Homicidium
+nonnunquam moechiae elaboro. Ut tragoedias omittam
+<pb n="0988C"/>
+ sciunt hodie venenarii, sciunt magi, quot
+pellicatus ulciscar quot rivalitates defendam, quot
+custodes, quot delatores, quot conscios auferam.
+<pb n="0989A"/>
+Sciunt etiam obstetrices, quot adulteri conceptus
+trucidentur. Etiam apud Christianos non est moechia
+sine nobis: ibidem sunt idololatriae, ubi immundi
+spiritus res est; ibidem est et homicidium, ubi homo,
+cum inquinatur, occiditur. Igitur, aut nec illis, aut
+etiam nobis poenitentiae subsidia convenient. Aut
+detinemus eam, aut sequimur. Haec ipsae res loquuntur.
+Si res voce deficiunt, adsistit idololatres, adsistit
+homicida, in medio eorum adsistit et moechus, pariter
+de poenitentiae officio sedent, in sacco et cinere inhorrescunt,
+eodem flatu gemiscunt, eisdem precibus
+ambiunt, eisdem genibus exorant, eamdem invocant
+matrem. Quid agis, mollissima et humanissima
+disciplina? aut omnibus eis hoc esse debebis: <hi>beati</hi> 
+enim <hi>pacifici <note>(Matth. V, 6)</note>
+          </hi>; aut, si non omnibus,
+<pb n="0989B"/>
+nostra esse. Idololatram quidem et homicidam
+semel damnas, moechum vero de medio excipis, idololatriae
+successorem, homicidae antecessorem, utriusque
+collegam? Personae acceptatio est, miserabiliores
+poenitentias reliquisti.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>Plane, si ostendas de quibus patrociniis exemplorum,
+praeceptorumque coelestium, soli moechiae, et in
+ea fornicationi quoque, januam poenitentiae expandas,
+ad hanc jam lineam dimicabit nostra congressio.
+Praescribam tamen tibi formam necesse est, ne ad
+vetera manum emittas, ne in terga respicias. <hi>Vetera</hi> 
+enim <hi>transierunt,</hi> secundum Esaiam <note>(Isa. XLIII, 18,
+19)</note>, et <hi>nova est jam novatio</hi> secundum Hieremiam <note>(Jer. IV, 3)</note>;
+et <hi>obliti posteriorum, in priora porrigimur,</hi> 
+<pb n="0989C"/>
+secundum Apostolum <note>(Philip. III, 13)</note>; et <hi>Lex
+et Prophetae usque ad Joannem,</hi> secundum Dominum <note>(Matth. XI, 13)</note>:
+nam, et si cum maxime a lege
+coepimus demonstrando moechiam, merito ab eo
+statu legis, quem Christus non dissolvit, sed implevit <note>(Matth. V, 17)</note>.
+Onera enim legis usque ad Joannem,
+non remedia; operum juga rejecta sunt, non
+disciplinarum: libertas in Christo non fecit innocentiae
+injuriam. Manet lex tota pietatis, sanctitatis,
+humanitatis, veritatis, castitatis, justitiae, misericordiae,
+benevolentiae, pudicitiae. In qua lege <hi>beatus
+vir qui meditabitur die ac nocte <note>(Psal. I, 1)</note>
+          </hi>. De qua
+idem David rursus: <hi>Lex Domini invituperabilis, convertens
+animas; jura Domini directa, oblectantia corda;
+praeceptum Domini longe lucens, inluminans oculos</hi> 
+<pb n="0989D"/> <note>(Psal. XVIII, 8 et sqq.)</note>.
+Sic et Apostolus: <hi>Itaque lex
+quidem sancta est, et praeceptum sanctum et optimum;</hi> 
+<pb n="0990A"/> <note>(Rom. VIII, 12)</note>,
+utique, <hi>Non moechaberis <note>(Ex. XX, 14)</note>
+          </hi>.
+Sed et supra, <hi>Legem ergo evacuamus per fidem? Absit,
+sed legem sistimus <note>(Rom. III, 31)</note>
+          </hi>, scilicet in his quae et
+nunc novo Testamento interdicta etiam cumulatiore
+praecepto prohibentur. Pro <hi>Non moechaberis: Qui viderit
+ad concupiscentiam, jam maechatus est in corde
+suo <note>(Matth. V, 27, 28)</note>
+          </hi>; et pro <hi>Non occides: Qui dixerit
+fratri suo racha, reus erit gehennae <note>(Id. XXII)</note>
+          </hi>.
+Quaere an salva sit lex non moechandi, cui accessit
+nec concupiscendi. Caeterum, si qua vobis exempla
+in sinum plaudent, non opponentur huic quam defendimus
+disciplinae. Frustra enim lex suprastructa
+est, origines quoque delictorum, id est concupiscentias
+et voluntates, non minus quam facta condemnans,
+si ideo hodie concedetur moechiae venia, quia
+<pb n="0990B"/>
+et aliquando concessa est. Cur emolumento hodie
+pleniore disciplina coercetur, nisi ut majore forsitan
+lenocinio tuo indulgeatur? Dabis ergo et idololatriae
+et omni apostatae veniam, quia et populum
+ipsum totiens reum istorum, totiens invenimus retro
+restitutum <note>(Judic. III, sqq.)</note>. Communicabis et homicidae;
+quia et Nabothae sanguinem Achab deprecatione
+delevit <note>(III Reg. XXI, 29)</note>; David Uriae caedem,
+tum caussam ejus moechiam confessione purgavit <note>(II Reg. XII, 13)</note>.
+Jam et incesta donabis, propter
+Loth <note>(Gen. XIX, 33, 35)</note>; et fornicationes cum
+incesto, propter Judam <note>(Gen. XXXVIII, 18)</note>, et turpes
+de prostitutione nuptias, propter Osee <note>(Ose. I, 2, 3)</note>,
+et non tantum frequentatas, verum et semel plures
+propter patres nostros <note>(Gen. XVI, 3, 4; XXIX, XXX)</note>.
+<pb n="0990C"/>
+Utique enim dignum est peraequari nunc quoque gratiam
+circa omnia retro indulta, si de pristino aliquo
+exemplo venia moechiae vindicatur. Habemus quidem
+et nos ejusdem vetustatis exempla pro sententia nostra,
+non modo non indulti, verum etiam repraesentati
+judicii fornicationis <note>(Gen. XIX, 24, 28)</note>. Et utique
+sufficit tantum numerum viginti quatuor millium populi
+fornicantis in filias Moab una plaga ruisse <note>(Num. XXV,
+1, sqq.)</note>. Sed malo in gloriam Christi a Christo deducere
+disciplinam. Habuerint pristina tempora omnis
+impudicitiae, si volunt Psychici, etiam potestatem;
+luserit ante Christum caro, imo perierit antequam a
+Domino suo requisita est; nondum erat digna dono
+salutis, nondum apta officio sanctitatis. Adhuc in
+Adam deputabatur cum suo vitio, facile quod
+<pb n="0990D"/>
+speciosum viderat concupiscens, et ad inferiora
+respiciens, et de ficulneis foliis pruriginem
+<pb n="0991A"/>
+retinens. Inhaerebat usquequaque libidinis virus,
+et jactae sordes non ablui idoneae, quod
+nec ipsae adhuc aquae laverant. At ubi sermo Dei descendit
+in carnem, ne nuptiis quidem resignatam,
+et <hi>Sermo caro factus est <note>(Jo., I, 14)</note>
+          </hi>, ne nuptiis quidem
+resignanda; quae ad lignum, non incontinentiae,
+sed tolerantiae accederet; quae non dulce aliquid, sed
+amarum aliquid inde gustaret; quae non ad inferos,
+sed ad coelum pertineret; quae non lasciviae frondibus,
+sed sanctimoniae floribus praecingeretur; quae
+munditias suas aquis traderet; exinde caro quaecumque
+in Christo reliquas sordes pristinas solvit,
+alia jam res est, nova emergit jam, non ex seminis
+imo, non ex concupiscentiae fimo, sed ex aqua pura
+et spiritu mundo. Quid itaque illam de pristino excusas?
+<pb n="0991B"/>
+Non <hi>corpus Christi,</hi> non <hi>membra Christi,</hi> non <hi>templum Dei</hi> 
+ vocabatur <note>(I Cor., XII, 27; VI, 15, 19;
+II Cor., VI, 16)</note>, cum veniam moechiae consequebatur.
+Itaque, si exinde quo statum vertit, et in Christum
+tincta induit Christum <note>(Gal., III, 27)</note>, et magno redempta
+est <note>(I Cor., VI, 20)</note>, sanguine scilicet Domini
+et Agni <note>(I Petr., I, 19)</note>, tenes aliquod exemplum,
+sive praeceptum, sive formam, sive sententiam indultae
+sive indulgendae fornicationis atque moechiae; habes
+etiam temporis a nobis definitionem, ex quo deputetur
+aetas quaestionis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>A parabolis licebit incipias, ubi est ovis perdita a
+Domino requisita, et humeris ejus revecta <note>(Luc. XV,
+4 et seqq.)</note>. Procedant ipsae picturae calicum vestrorum,
+<pb n="0991C"/>
+si vel in iis perlucebit interpretatio pecudis
+illius, utrumne christiano an ethnico peccatori de
+restitutione conliniet. Praescribimus enim ex naturae
+disciplina, ex lege auris et linguae, ex mentis sanitate
+ea semper responderi, quae provocantur, id est
+<pb n="0992A"/>
+ad ea quae provocant. Provocabat, ut opinor, quod
+Pharisaei publicanos et peccatores ethnicos admittentem
+Dominum, et cum illis de victu communicantem
+indignati mussitabant <note>(Matth., IX, 11)</note>. Ad hoc Dominus
+pecudis perditae restitutionem cui alii configurasse
+credendus est, quam ethnico perdito, de
+quo agebatur; non de christiano, qui adhuc nemo?
+aut quale est, ut Dominus quasi cavillator responsionis,
+omissa specie praesenti quam repercutere deberet,
+de futura laboret? Sed ovis proprie Christianus,
+et grex Domini Ecclesiae populus, et pastor bonus
+Christus <note>(Jo., X, 11, 14 et seqq.)</note>: et ideo
+christianus in ove intelligendus, qui ab
+Ecclesiae grege erraverit. Ergo nihil ad Pharisaeorum
+mussitationem reapondisse vis Dominum, sed ad tuam
+<pb n="0992B"/>
+praesumptionem. Et tamen ita eam vindicare debebis
+ut neges in ethnicum competere, quae in christianum
+existimas convenire. Dic mihi, nonne omne hominum
+genus unus Dei grex est? nonne universarum gentium
+idem Deus et Dominus et pastor est? quis magis perit
+a Deo, quam ethnicus quamdiu errat? quis magis requiritur
+a Deo, quam ethnicus, quando revocatur a Christo?
+Denique, antecedit hic ordo in ethnicis, siquidem
+non aliter christiani ex ethnicis fiunt, nisi prius perditi,
+et a Deo requisiti, et a Christo reportati. Ita etiam hunc
+ordinem servari oportet, ut in eos tale aliquid interpretemur,
+in quibus prius est. At tu, opinor, hoc velles,
+ut ovem non de grege perditam faceret, sed de arca
+vel de armario. Sic etsi ethnicorum reliquum numerum
+justum ait, non ideo Christianos esse ostendit
+<pb n="0992C"/>
+cum Judaeis agens, et illos cum maxime obtundens,
+quod indignarentur spei ethnicorum <note>(Matth., XXI,
+43)</note>; sed ut exprimeret adversus livorem Pharisaeorum
+suam gratiam et benevolentiam etiam circa
+unum ethnicorum, praeposuit unius peccatoris salutem
+<pb n="0993A"/>
+ex poenitentia, quam illorum ex justitia. Aut
+numquid non justi Judaei, et quibus poenitentia opus
+non esset, habentes gubernacula disciplinae et timoris
+instrumenta Legem et Prophetas? Posuit igitur illos
+in parabola, et si non quales erant, sed quales esse
+debuerant, quo magis suffunderentur, aliis et non sibi
+poenitentiam audientes necessariam. Proinde in
+drachmae parabola, ut ex eadem materia provocata,
+aeque ethnicum drachmani interpretamur;
+etsi in domo amissam, quasi in Ecclesia; etsi ad lucernae
+lumen repertam, quasi ad Dei verbum. Atquin
+totus hic mundus una omnium domus est, in quo magis
+in ethnico gratia Dei inlucet, qui in tenebris invenitur,
+quam christiano, qui jam in Dei luce est. Denique,
+et ovi et drachmae unus error adscribitur. Nam
+<pb n="0993B"/>
+si jam in christianum peccatorem defingerentur, post
+fidem perditam et iterata amissio eorum et restitutio
+notaretur. Decedam nunc paulisper de gradu isto,
+quo magis eum etiam decedendo commendem, cum
+sic quoque obduxero diversae partis praesumptionem.
+Condico christianum jam peccatorem in parabola
+utraque portendi, non tamen ideo eum affirmandum;
+qui de facinore moechiae et fornicationis restitui per
+poenitentiam possit. Licet enim periisse dicatur, erit
+et de perditionis genere retractare; quia et ovis non
+moriendo, sed errando, et drachma non intereundo,
+sed latitando perierunt. Ita, licet dici perisse quod
+salvum est. Perit igitur et fidelis elapsus in spectaculum
+quadrigarii furoris, et gladiatorii cruoris, et
+scenicae foeditatis, et xysticae vanitatis, in lusus, in
+<pb n="0993C"/>
+convivia saecularis solemnitatis, in officium, in ministerium
+alienae idololatriae aliquas artes adhibuit
+curiositatis; in verbum ancipitis negationis aut
+blasphemiae impegit, ob tale quid extra gregem datus
+est, vel et ipse forte ira, tumore, aemulatione, quod
+denique saepe fit, dedignatione castigationis abrupit,
+debet requiri atque revocari. Quod potest recuperari,
+non aperit, nisi foris perseveraverit. Bene interpretaberis
+parabolam, viventem adhuc revocans peccatorum.
+Moechum vero et fornicatorem, quis non
+<pb n="0994A"/>
+mortuum statim admisso pronuntiavit? Quo ore mortuum
+restitues in gregem ex parabolae ejus auctoritate,
+quae non mortuum pecus revocat? Denique, si
+meministi prophetarum, cum pastores increpantur,
+puto Ezechielis est vox: <hi>Pastores, ecce lac devoratis
+et lanis vestimini; quod forte est, occidistis; quod infirmum
+est, non curastis; quod comminutum est, non ligastis;
+quod expulsum est, non convertistis; quod periit,
+non requisistis <note>(Ezech., XXXIV, 2, 3)</note>
+          </hi>. Numquid et de
+mortuo exprobrat, quod non et illud in gregem reficere
+curaverint? Plane ingerit quod perire oves fecerint,
+et a bestiis agri comedi. Neque possunt nec perire in
+mortem, nec comedi, si relinquantur, ut non perditae in
+mortem et comestae resumantur. Juxta drachmae quoque
+exemplum; etiam intra domum Dei Ecclesiam, licet esse
+<pb n="0994B"/>
+aliqua delicta pro ipsius drachmae modulo ac pondere
+mediocria, quae ibidem delitescentia mox ibidem et reperta,
+statim ibidem cum gaudio emendationis transigantur.
+Moechiae vero et fornicatiouis non drachma,
+sed talentum, quibus exquirendis, non lucernae
+spiculi lumine, sed totius solis lancea opus
+est. Simul apparuit, statim homo de Ecclesia expellitur,
+nec illic manet, nec gaudium confert repertrici
+Ecclesiae, sed luctum; nec congratulationem advocat
+vicinarum, sed contristationem proximarum fraternitatum.
+Commissa itaque etiam hac nostra cum illorum
+interpretatione, eo magis in ethnicum spectabunt
+et ovis et drachmae argumenta, quanto nec in
+ejus delicti christianum competere possunt, propter
+quod in christianum de diversa parte coguntur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+
+<pb n="0994C"/>
+<p>Sed enim plerosque interpretes parabolarum idem
+exitus decipit, quem in vestibus purpura oculandis
+saepissime evenire est; cum putaveris recte conciliasse
+temperamenta colorum, et credideris comparationes
+eorum inter se animasse, erudito mox
+utroque corpore, et luminibus expressis, errorem
+omnem traducta diversitas evomet. Eadem itaque
+caligine circa filiorum quoque duorum parabolam <note>(Luc. XV, 11 et seqq.)</note>,
+quibusdam ad praesens
+<pb n="0995A"/>
+concolorantibus figuris, a vero lumine exorbitant
+ejus comparationis quam parabolae materia praetexit.
+Duos enim populos in duobus filiis collocant, Judaicum
+majorem, Christianum minorem. Nec enim
+possunt exinde Christianum peccatorem in filio minore
+disponere veniam consecuturum, nisi in majore
+judaicum expresserint. Porro, si Judaicum ostendero
+deficere a comparatione filii majoris, consequenter
+utique nec Christianus admittetur ad configurationem
+filii minoris. Licet enim filius audiat et Judaeus,
+et major, quia prior in adoptione <note>(Rom., IX, 29)</note>; licet
+et Christiano reconciliationem Dei Patris invideat,
+quod vel maxime diversa pars carpit, sed non
+erit Judaei dictum ad Patrem: <hi>Ecce quot annis tibi
+servio, et praeceptum tuum nunquam praeterivi (Luc.
+<pb n="0995B"/>
+XV, 29)</hi>. Quando enim non transgressor legis Judaeus,
+aure audiens, et non audiens; odio habens traducentem
+in portis, et aspernamento sermonem
+sanctum? Sic nec patris ad Judaeum erit vox: <hi>Tu semper mecum es, et omnia mea tua sunt 
+ <note>(Luc. XV,
+31)</note>
+          </hi>. Judaei enim apostatae filii pronuntiantur; generati
+quidem, et in altum elati, sed qui non computaverint
+Dominum, et qui dereliquerint Dominum, et in iram
+provocaverint Sanctum Israelis <note>(Isa., I, 2, 4)</note>.
+Omnia plane Judaeo concessa dicemus, cui etiam
+conditio gratior quaeque de gula erepta est, nedum
+ipsa terra paternae promissionis. Atque adeo non minus
+hodie Judaeus, quam minor filius prodacta substantia
+Dei in aliena regione mendicat, serviens usque
+adhuc principibus ejus, id est saeculi hujus. Quaerant
+<pb n="0995C"/>
+igitur alium Christiani suum fratrem; Judaeum enim
+<pb n="0996A"/>
+parabola non recepit. Multo aptius Christianum majori,
+et Judaeum minori filio adaequassent, secundum
+fidei comparationem, si ordo utriusque populi ab utero
+Rebeccae designatus <note>(Gen. XXV, 22 seqq.)</note> permitteret
+demutationem, nisi quod et clausula refragaretur.
+Christianum enim de restitutione Judaei gaudere, et
+non dolere conveniet; siquidem tota spes nostra cum
+reliqua Israelis exspectatione conjuncta est <note>(Rom. XI)</note>.
+Ita etsi quaedam faciant, sed aliis contra sapientibus
+interimitur exemplorum peraequatio. Quamquam et
+si omnia ad speculum respondere possint, unum sit
+praecipuum periculum interpretationum, ne aliorsum
+temperetur felicitas comparationum, quam quo parabolae
+cujusque materia mandavit. Meminimus enim
+et histriones cum allegoricos gestus adcommodant
+<pb n="0996B"/>
+canticis, alia longe a praesenti et fabula et scena
+et persona, et tamen congruentissime exprimentes.
+Sed viderit ingenium extraordinarium. Nihil
+enim ad Andromacham. Sic et haeretici easdem
+parabolas quo volunt tribuunt, non quo debent
+aptissime excludunt. Quare aptissime? Quoniam a
+primordio secundum occasiones parabolarum, ipsas
+materias confinxerunt doctrinarum: vacavit
+scilicet illis solutis a regula veritatis ea conquirere
+atque componere, quorum parabolae videntur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Nos autem, quia non ex parabolis materias commentamur,
+sed ex materiis parabolas interpretamur,
+nec valde laboramus omnia in expositione torquere,
+dum contraria quaeque caveamus. Quare centum
+<pb n="0996C"/>
+oves <note>(Luc. XV, 4)</note>? et quid utique decem drachmae?
+<pb n="0997A"/>
+et quae illae scopae <note>(Ibid. 8)</note>? Necesse erat, qui unius
+peccatoris salutem gratissimam Deo volebat exprimere,
+aliquam numeri quantitatem nominaret, de quo
+unum quidem perisse describeret; necesse erat ut
+habitus requirentis drachmam in domo, tam scoparum
+quam lucernae adminiculo adcommodaretur. Hujusmodi
+enim curiositates et suspecta faciunt quaedam,
+et coactarum expositionum subtilitate plerumque deducunt
+a veritate. Sunt autem quae et simpliciter
+posita sunt ad struendam et disponendam et texendam
+parabolam, ut illuc perducantur cui exemplum
+procuratur. Et duo utique filii illuc spectabunt, quo
+et drachma et ovis. Quibus enim cohaerent, eamdem
+habent caussam, eamdemque utique mussitationem
+Pharisaeorum erga commercium Domini ethnicorum:
+<pb n="0997B"/>
+aut, si quis dubitat ethnicos fuisse publicanos apud Judaeam,
+usurpatam jam pridem Pompeii manu atque
+Luculli <note>(Deut. XXIII, 19)</note>, legat Deuteronomium: <hi>Non erit vectigal pendens ex filiis Israel.</hi> 
+ Nec
+tam execrabile esset nomen publicanorum apud Dominum,
+nisi extraneum vendentium ipsius coeli et
+terrae et maris transitus. Peccatores autem cum adjungit
+publicanis <note>(Luc. XV, 2)</note>, non statim Judaeos
+ostendit, etsi aliqui fuisse potuerunt. Sed uum genus
+ethnicorum alios ex officio peccatores, id est publicanos,
+alios ex natura, id est non publicanos pariter
+ponendo distinxit. Caeterum, nec denotaretur cum
+Judaeis communicans victum, sed cum ethnicis,
+quorum mensam judaica disciplina depellit. Nunc de
+filio prodigo id prius considerandum est quod utilius:
+<pb n="0997C"/>
+non enim admittetur exemplorum adaequatio, licet
+imagini congruentissima, si fuerit saluti nocentissima.
+Totum autem statum salutis, in tenore disciplinae
+constitutum, subverti videmus ea interpretatione quae
+ex diverso affectatur. Nam, si christianus est qui acceptam
+a Deo patre substantiam, utique baptismatis,
+utique Spiritus Sancti, et exinde spei aeternae, longe
+evagatus a patre prodigit ethnice vivens, si exutus
+bonis mentis etiam principi saeculi (cui alii quam
+diabolo?) servitium suum tradidit, et ab eo porcis
+alendis, immundis scilicet spiritibus curandis, praepositus,
+resipuit ad patrem reverti; jam non moechi et
+fornicarii, sed idololatrae et blasphemi et negatores, et
+omne apostatarum genus, hac parabola patri satisfacient.
+Et elisa est verissime hoc magis modo tota
+<pb n="0997D"/>
+substantia sacramenti. Quis enim timebit prodigere
+quod habebit postea recuperari? quis curabit
+perpetuo conservare quod non perpetuo poterit amittere?
+Securitas delicti etiam libido est ejus. Recuperabit
+igitur et apostata vestem priorem, indumentum
+<pb n="0998A"/>
+Spiritus Sancti, et annulum denuo signaculum lavacri,
+et rursus illi mactabitur Christus <note>(Luc. XV, 22, 23)</note>,
+et recumbet eo in throno de quo indigne vestiti a tortoribus
+solent tolli, et abjici in tenebras <note>(Matth. XXII,
+12, 13)</note>, nedum spoliati. Plus est igitur, si nec expedit
+in Christianum convenire ordinem filii prodigi.
+Quod si nec in Judaeum integre filii imago concurrit,
+ad propositum Domini simpliciter interpretatio gubernabitur.
+Venerat Dominus utique, ut quod perierat,
+salvum faceret, medicus languentibus magis quam
+sanis necessarius <note>(Matth. XVIII, 11, IX, 12; Luc.
+XXIX, 10, V, 31)</note>. Hoc et in parabolis figurabat, et in
+sententiis praedicabat. Quis perit hominum? quis labat
+de valetudine, nisi qui Deum nescit? quis salvus
+ac sanus, nisi qui Deum novit? Has duas species de
+<pb n="0998B"/>
+genere fraternas haec quoque signabit parabola. Vide
+an habeat ethnicus substantiam in Deo Patre census
+et sapientiae et naturalis agnitionis in Deum; per
+quam et Apostolus notat in sapientia Dei non cognovisse
+mundum per sapientiam Deum <note>(I Cor. I, 21)</note>,
+quam utique a Deo acceperat. Hanc itaque prodegit
+longe a Domino moribus factus inter errores et illecebras
+et libidines saeculi, ubi fame veritatis compulsus,
+tradidit se principi hujus aevi. Ille eum praefecit porcis
+(ut familiare id daemonum pecus pasceret), ubi nec
+ille compos esset vitalis escae, simulque alios videret
+in opere divino abundantes pane coelesti. Recordatur
+patris Dei, satisfacto redit, vestem pristinam recipit;
+statum scilicet eum quem Adam transgressus amiserat;
+annulum quoque accipit tunc primum, quo fidei
+<pb n="0998C"/>
+pactionem interrogatus obsignat, atque ita exinde
+opimitate Dominici corporis vescitur, Eucharistia
+scilicet. Hic erit prodigus filius, qui nunquam retro
+frugi, qui statim prodigus, quod non statim Christianus.
+Hunc et Pharisaei de saeculo ad patris complexus
+revertentem, in publicanis et peccatoribus
+moerebant. Et ideo ad hoc solum majoris fratris accommodatus
+est livor; non quia innocentes et Deo
+obsequentes Judaei, sed quia invidentes nationibus
+salutem, plane quos semper apud patrem esse oportuerat.
+Et utique Judaeus ad primam statim vocationem
+Christiani gemit, non ad secundam restitutionem:
+illa enim etiam ethnicis relucet, haec vero quae
+in Ecclesiis agitur, ne Judaeis quidem nota est. Puto
+me et materiae parabolarum, et congruentiae rerum,
+<pb n="0998D"/>
+et tutelae disciplinarum accommodatiores interpretationes
+reddidisse. Caeterum, si in hoc gestit diversa
+pars ovem et drachmam, et filii luxuriam christiano
+peccatori configurare, ut moechiam et fornicationem
+poenitentia donent, aut et caetera delicta pariter capitalia
+<pb n="0999A"/>
+concedi oportebit, aut paria quoque eorum moechiam
+et fornicationem inconcessibilia servari. Sed
+plus est, quod nihil aliud argumentari licet citra id de
+quo agebatur. Denique, si aliorsum parabolas transducere
+liceret, ad martyrium potius dirigeremus
+spem illarum, quod solum omni substantia prodacta
+restituere filium poterit, et drachmam inter omnia,
+licet in stercore repertam, cum gaudio praedicabit, et
+ovem per aspera quaeque et abrupta fugitivam humeris
+ipsius Domini in gregem referet. Sed malumus in
+Scripturis minus si forte sapere, quam contra. Proinde
+sensum Domini custodire debemus atque praeceptum.
+Non est levior transgressio in interpretatione, quam
+in conversatione.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>
+          <pb n="0999B"/>Excusso igitur jugo in ethnicum disserendi parabolas
+istas, et semel dispecta vel recepta necessitate
+non aliter interpretandi quam materia propositi est,
+contendunt jam nec competere ethnicis poenitentiae
+denuntiationem, quorum delicta obnoxia ei non sint,
+ignorantiae scilicet imputanda, quam sola natura ream
+Deo faciat. Porro, nec remedia sapere, quibus pericula
+ipsa non sapiunt, illic autem poenitentiae constare
+rationem, ubi conscientia et voluntate delinquitur,
+ubi et culpa sapiat et gratia, illum lugere, illum volutari
+qui sciat et quid amiserit et quid sit recuperaturus,
+si poenitentiam Deo immolarit, utique eam magis
+filiis offerenti, quam extraneis. Num ergo et
+Jonas <note>(Jon. III, 4)</note> idcirco ethnicis Ninivitis non putabat
+poenitentiam necessariam, cum cavillaretur in
+<pb n="0999C"/>
+praedicationis officio? an potius misericordiam Dei
+providens etiam in extraneos profusam, quasi destructuram
+praeconium, verebatur? atque adeo propter
+civitatem profanam nondum Dei compotem, adhuc
+ignorantia delinquentem, pene periit prophetes? nisi
+quod exemplum passus est Dominicae passionis,
+ethnicos quoque poenitentes redempturae <note>(Luc. XIII,
+29, 30)</note>. Bene quod et Joannes Domini vias sternens,
+non minus militantibus et publicanis, quam filiis
+Abraham, poenitentiae erat praeco <note>(Luc. III, 13 seqq.)</note>.
+<pb n="1000A"/>
+Ipse Dominus Sidoniis et Tyriis praesumpsit poenitentiam,
+si virtutum documenta vidissent <note>(Matth. XI,
+21)</note>. Atquin ego illam naturalibus magis peccatoribus
+competere contendam, quam voluntariis. Magis enim
+merebitur fructum ejus qui nondum eo usus est,
+quam qui jam et abusus est; magisque sapient remedia
+prima, quam exoleta. Nimirum Dominus ingratis
+benignus magis quam ignaris, et citius reprobatis
+misericors, quam nondum probatis; ut non magis
+irascatur contumeliis clementiae suae, quam blandiatur;
+et non libentius extraneis eam impertiat, quam
+in filiis perdidit, cum gentes sic adoptaverit, dum Judaei
+de patientia ludunt. Sed hoc volunt Psychici,
+ut Deus justus judex ejus peccatoris poenitentiam
+malit quam mortem, qui mortem poenitentia maluit.
+<pb n="1000B"/>
+Quod si ita est, peccando promeremur. Age tu,
+funambule pudicitiae et castitatis, et omnis circa
+sexum sanctitatis, qui tenuissimum filium disciplina
+ejusmodi veri avia pendente vestigio ingrederis, carnem
+spiritu librans, animam fide moderans, oculum
+metu temperans. Quid itaque in gradu totus es? Perge
+sane, si potueris, si volueris, dum tam securus et
+quasi in solido es. Nam, si qua te carnis vacillatio,
+animi avocatio, oculi evagatio de tenore decusserit,
+Deus bonus est: suis, non ethnicis, sinum subjicit;
+secunda te poenitentia excipiet; eris iterum de
+moecho Christianus. Haec tu mihi, benignissime Dei
+interpres. Sed cederem tibi, si scriptura Pastoris,
+quae sola moechos amat, divino instrumento meruisset
+incidi, si non ab omni concilio Ecclesiarum etiam
+<pb n="1000C"/>
+vestrarum inter apocrypha et falsa judicaretur, adultera
+et ipsa, et inde patrona sociorum; a qua et
+alias initiaris; cui ille si forte patrocinabitur pastor,
+quem in calice depingis, prostitutorem et ipsum
+Christiani sacramenti, merito et ebrietatis idolum,
+et moechiae asilum post calicem subsecuturae, de
+quo nihil libentius bibas, quam ovem poenitentiae secundae.
+At ego ejus pastoris scripturas haurio qui non
+potest frangi: hunc mihi statim Joannes offert cum
+poenitentiae lavacro et officio dicentem: <hi>Facite dignos
+<pb n="1001A"/>
+poenitentiae fructus, et ne dixeritis: patrem habemus
+Abraham:</hi> et ne scilicet rursus blandimenta delinquentiae
+de patrum resumerent gratia: <hi>Potest enim
+Deus de lapidibus istis filios suscitare Abrahae <note>(Matt. III,
+8, 9)</note>
+          </hi>. Sic et nos sequitur, ut eos qui hactenus
+delinquant, facientes dignum poenitentiae fructum. Quid
+enim ex poenitentia maturescit, quam emendationis
+effectus? Sed etsi venia potius est poenitentiae fructus,
+hanc quoque consistere non licet sine cessatione
+delicti. Ita cessatio delicti radix est veniae, ut venia
+sit poenitentiae fructus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Exinde, quod ad Evangelium pertinet, parabolarum
+quidem discussa jam quaestio est. Si vero et factis
+aliquid tale pro peccatoribus edidit Dominus, ut
+<pb n="1001B"/>
+cum peccatrici foeminae etiam corporis sui contactum
+permittit lavanti lacrymis pedes ejus et crinibus detergenti,
+et unguento sepulturam ipsius inauguranti <note>(Luc. VII, 37, et seqq.)</note>;
+ut cum Samaritanae sexto
+jam matrimonio, non moechae, sed prostitutae <note>(Jo.
+IV, 7 et seqq.)</note>, etiam, quod nemini facile, quis esset
+ostendit, nihil ex hoc adversariis confertur, etsi jam
+Christianis veniam delictorum praestitisset. Nunc enim
+dicimus, soli Domino hoc licet, hodie potestas indulgentiae
+ejus operetur. Ad illa tamen tempora quibus
+in terris egit, hoc definimus nihil adversum nos praejudicare,
+si peccatoribus etiam Judaeis venia conferebatur.
+Christiana enim disciplina a novatione Testamenti
+et, ut praemisimus, a redemptione carnis, id
+est Domini passione censetur. Nemo perfectus ante
+<pb n="1001C"/>
+repertum ordinem fide, nemo Christianus ante Christum
+coelo resumptum, nemo sanctus ante Spiritum
+Sanctum de coelo repraesentatum ipsius disciplinae determinatorem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Itaque isti qui alium Paracletum in Apostolis et per Apostolos
+receperunt, quem nec in Prophetis proprius
+agnitum, jam nec in Apostolis possident; age nunc,
+vel de apostolico instrumento maculas doceant
+carnis post baptisma respersae, poenitentia dilui posse:
+in apostolis quoque veteris legis formam salutamus,
+circa moechiae, quanta sit, demonstrationem; ne forte
+<pb n="1002A"/>
+lenior existimetur in novitate disciplinarum, quam
+in vetustate. Cum primum intonuit Evangelium, et
+vetera concussit, ut de legis retinendae necne statu
+disceptaretur, primam hanc regulam de auctoritate
+Spiritus Sancti Apostoli emittunt ad eos qui jam ex
+nationibus allegi coeperant: <hi>Visum est,</hi> inquiunt, <hi>Spiritui Sancto et nobis, nullum amplius vobis adjicere
+pondus, quam eorum a quibus necesse est abstineri, 
+ a sacrificiis, et a fornicationibus et sanguine, a
+quibus observando recte agitis <note>(Act. XV, 28 et seqq.)</note>
+          </hi>,
+vectante vos Spiritu Sancto. Sufficit et hic
+servatum esse moechiae et fornicationi locum honoris
+sui inter idololatriam et homicidium: interdictum enim
+sanguinis multo magis humani intelligemus. Porro
+qualia videri volunt Apostoli crimina, quae sola in
+<pb n="1002B"/>
+observatione de lege pristina excerpunt, quae sola
+necessario abstinenda praescribunt? Non quod alia
+permittant, sed quod haec sola proponant utique non
+remissibilia, qui, ethnicorum caussa, caetera legis
+onera remissibilia fecerunt. Cur ergo cervicem nostram
+a tanto jugo excusant, nisi ut illis compendia
+ista disciplinae semper imponant? Cur tot vincula
+indulgent, nisi ut perpetuo ad necessariora constringant?
+Solverunt a pluribus, ut nocentioribus observandis
+obligaremur. Compensatione res acta est: lucrati
+sumus multa, ut aliqua praestemus. Compensatio
+autem revocabilis non est iisdemque revocabitur,
+iteratione moechiae utique, et sanguinis et idololatriae.
+Tota enim jam lex sumetur, si veniae conditio
+solvetur. Sed non leviter nobiscum pactus est Spiritus
+<pb n="1002C"/>
+Sanctus, etiam ultro pactus quo magis honorandus.
+Sponsionem ejus nemo dissolvit nisi ingratus. Jam nec
+recipiet quae dimisit, nec dimittet quae retinuit. Novissimi
+Testamenti semper indemutabilis status est,
+et utique recitatio decreti consiliumque illud cum saeculo
+desinet. Satis denegavit veniam corum quorum
+custodiam elegit, vindicavit quae non proinde concessit.
+Hinc est quod neque idololatriae, neque sanguini,
+pax ab Ecclesiis redditur. De qua finitione sua Apostolos
+excidisse, puto, non licet credere; aut si credere
+quidam possunt, debebunt probare.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+
+<pb n="1003A"/>
+<p>Novimus plane et hic suspiciones eorum. Revera
+enim suspicantur apostolum Paulum, in secunda ad
+Corinthios <note>(II Cor. II, 5 11)</note>, eidem fornicatori
+veniam dedisse, quem in prima dedendum Satanae in
+interitum carnis pronuntiarit <note>(I Cor. V, 3, et seqq.)</note>,
+impium patris de matrimonio haeredem; quasique
+ipsum postea stylum verterit scribens: <hi>Si quis autem
+contristavit, non me contristavit, sed ex parte, ne vos
+onerem omnes. Satis est talis increpatio quae a multis fit.
+Uti e contrario magis vos donare et advocare, ne forte
+abundantiore tristitia devoretur ejusmodi. Propter quod
+oro vos, constituatis in eum dilectionem. In hoc enim
+et scripsi, uti cognoscam probationem vestram quod in
+omnibus obauditis mihi. Si cui autem donaveritis, et
+<pb n="1003B"/>
+ego. Nam et ego si quid donavi, donavi in persona
+Christi, ne fraudemur a Satana: quoniam non ignoramus
+injectiones ejus <note>(II Cor. II, 5, 11)</note>
+          </hi>. Quid hic de fornicatore,
+quid de paterni thori contaminatore, quid de christiano
+ethnicorum impudentiam supergresso intelligitur?
+cum proinde utique speciali venia absolvisset,
+quem speciali ira damnasset. Obscurius miseretur,
+quam indignatur; apertior est in austeritate, quam in
+lenitate: atquin facilius ira quam indulgentia obliqua
+est; magis tristiora cunctantur, quam laetiora. De
+modica scilicet indulgentia agebatur; quae si forte
+nunc aestimaretur, quando maxima quaeque non soleant
+etiam sine praedicatione donari, tanto abest sine
+significatione. Et tu quidem poenitentiam moechi ad
+exorandam fraternitatem in ecclesiam inducens,
+<pb n="1003C"/>
+ conciliciatum et concineratum cum dedecore et horrore
+compositum prosternis in medium ante viduas,
+ante presbyteros, omnium lacinias invadentem, omniunt
+vestigia lambentem, omnium genua detinentem,
+inque cum hominis exitum quantis potes misericordiae
+inlecebris, bonus pastor et benedictus Papa concionaris,
+et in parabola ovis, capras tuas quaeris, tua
+ovis ne rursus de grege exiliat, quasi non exinde
+jam liceat quod nec semel licuit, caeteras etiam metu
+comples, cum maxime indulgens. Apostolus vero
+sceleratam libidinem fornicationis incesto onustam
+tam projecte ignovisset, ut nec hunc saltem habitum
+<pb n="1004A"/>
+legatum poenitentiae quem ab ipso didicisse
+deberes, ab eo exegerit, nihil de postero sit comminatus,
+nihil de caetero allocutus? Quin imo, et ultro
+obsecrat, constituerent in cum dilectionem, quasi
+satisfaciens, non quasi ignoscens: et tamen dilectionem
+audio, non communicationem. Quod et ad Thessalonicenses: <hi>Si quis autem non obaudit sermoni nostro
+per epistolam, hunc notate, nec commisceamini
+illi, ut revereatur, non quasi inimicum deputantes, sed
+quasi fratrem objurgantes 
+ <note>(II Thess. III, 14)</note>
+          </hi>. Adeo potuisset
+dicere et fornicatori dilectionem solummodo
+concessam, non et communicationem. Incesto vero
+nec dilectionem, quem scilicet auferri jussisset de medio
+ipsorum, multo magis utique de animo. Sed verebatur
+ne fraudarentur a Satana circa ejus personae
+<pb n="1004B"/>
+amissionem, quem Satanae ipse projecerat; aut ne abundantia
+moeroris devoraretur, quem in interitum carnis
+addixerat. Hic jam carnis interitum in officium
+poenitentiae interpretantur, quod videatur jejuniis et
+sordibus et incuria omni et dedita opera malae tractationis
+carnem exterminando satis Deo facere; ut ex
+hoc argumententur fornicatorem, imo incestum illum,
+non in perditionem Satanae ab Apostolo traditum, sed
+in emendationem, quasi postea veniam ob interitum,
+id est conflictationem carnis, consecuturum, igitur et
+consecutum. Plane idem apostolus Hymenaeum et
+Alexandrum Satanae tradidit, ut emendarentur non
+blasphemare, sicut Timotheo suo scribit <note>(I Tim., I,
+20)</note>. Sed et ipse datum sibi ait sudem, angelum
+Satanae, a quo colaphizaretur ne se extolleret. <hi>(II Cor.,
+<pb n="1004C"/>
+XII, 7)</hi>. Si et hoc tangunt ut traditos Satanae ab illo,
+in emendationem, non in perditionem intelligamus,
+quid simile blasphemia et incestum et anima ab his
+integra, imo non aliunde quam ex summa sanctitate
+et ex omni innocentia elata, quae in apostolo colaphis
+si forte cohibebatur, per dolorem, ut aiunt, auriculae
+vel capitis. Incestum vero atque blasphemia totos homines
+in possessionem ipsi Satanae, non angelo ejus
+tradidisse meruerunt. Et de hoc enim interest, imo
+et ad hoc plurimum refert, quod illos traditos ab Apostolo
+legimus Satanae; Apostolo vero angelum datum
+Satanae. Postremo, cum deprecatur Dominum Paulus,
+<pb n="1005A"/>
+quid audit? <hi>Satis habe gratiam meam; virtus enim in
+infirmitate perficitur <note>(II Cor., XII, 9)</note>
+          </hi>. Hoc, qui Satanae
+deduntur, audire non possunt. Hymenaei autem et
+Alexandri crimen si et in isto et in futuro aevo irremissibile
+est, blasphemia scilicet; utique Apostolus non
+ adversus terminum Domini sub spe veniae dedisset
+Satanae, jam a fidei in blasphemiam mersos. Unde et
+naufragos eos juxta fidem pronuntiavit, non habentes
+jam solatium navis Ecclesiae: illis enim venia negatur,
+qui de fide in blasphemiam impegerunt. Caeterum,
+ethnici et haeretici quotidie ex blasphemia emergunt.
+Sed etsi dixit: <hi>Tradidi eos Satanae, uti disciplinam
+acciperent non blasphemandi;</hi> de caeteris dixit qui, illis
+traditis Satanae, id est extra Ecclesiam projectis,
+crudiri haberent blasphemandum non esse. Sic igitur
+<pb n="1005B"/>
+et incestum fornicatorem non in emendationem, sed
+in perditionem tradidit Satanae, ad quem jam super
+ethnicos delinquendo transierat, ut discerent fornicandum
+non esse. Denique <hi>in interitum,</hi> inquit, <hi>carnis,</hi> 
+non, in cruciatum; ipsam substantiam damnans per
+quam exciderat, quae exinde jam perierat, baptismate
+amisso; <hi>ut spiritus,</hi> inquit, <hi>salvus sit in die Domini <note>(I Cor., V, 5)</note>
+          </hi>.
+Et de hoc enim quaeratur si spiritus
+hominis ipsius salvus erit. Ergo salvus erit
+spiritus tanto scelere pollutus, propter hoc perdita
+carne, ut salvus sit in poena. Ergo poenam sine carne
+censebit contraria interpretatio, si resurrectionem
+carnis amittimus. Superest igitur ut eum spiritum
+dixerit, qui in Ecclesia censetur, salvum, id est integrum,
+praestandum in die Domini ab immunditiarum
+<pb n="1005C"/>
+contagione, ejecto incesto fornicatore; siquidem subjungit: <hi>Non scitis quod modicum fermentum totam desipiat
+conspersionem 
+ <note>(Ibid. 6)</note>
+          </hi>? Et tamen fornicatio
+incesta non erat modicum, sed grande fermentum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+<p>Et his itaque discussis quae intercesserant, regredior
+ad secundam Corinthiorum, ut probem illud
+quoque Apostoli dictum, <hi>Sufficiat ejusmodi homini increpatio
+ista quae a multis <note>(II Cor., II, 6)</note>
+          </hi>, non in fornicatoris
+<pb n="1006A"/>
+personam convenire. Si enim dedendum Satanae
+pronuntiaverat in interitum carnis, utique
+damnaverat eum magis, quam increpaverat. Alius ergo
+erat, cui voluit sufficere increpationem; siquidem fornicator
+non increpationem de sententia ejus retulerat,
+sed damnationem. Nam et hoc ipsum dispiciendum
+tibi offero, an fuerint in Epistola prima et alii qui Apostolum
+contristaverint incondite agentes; et contristati
+sint ab illo, increpationem referentes juxta
+sensum Epistolae secundae, ex quibus in ea veniam
+aliquis potuerit adipisci. Animadvertamus autem totam
+Epistolam primam, ut ita dixerim, non atramento,
+sed felle conscriptam, tumentem, indignantem, dedignantem,
+comminantem, invidiosam, et per singulas
+caussas in quosdam quasi mancipes earum
+<pb n="1006B"/>
+figuratam. Sic enim exegerant schismata, et aemulationes,
+et dissensiones, et praesumptiones, et elationes,
+et contentiones; ut et invidia onerarentur, et
+correptione retunderentur, et superbia elimarentur,
+et austeritate deterrerentur. Et qualis invidia humilitatis
+aculeus? <hi>Deo gratias ago, quod neminem
+vestrum tinxerim, nisi Crispum et Gaium; ne qui dicat
+quod in nomine meo tinxerim <note>(I Cor., I, 14, 15)</note>
+          </hi>. <hi>Nec
+enim judicavi scire aliquid in vobis, quam Jesum Christum,
+et hunc crucifixum <note>(I Cor., II, 2)</note>
+          </hi>. <hi>Et puto, nos
+Deus apostolos novissimos elegit velut bestiarios;
+quoniam spectaculum facti sumus huic mundo, et angelis,
+et hominibus, et purgamenta hujus mundi facti
+sumus, omnium peripsema <note>(I Cor., IV, 9, 13)</note>
+          </hi>. Et: <hi>Non
+sum liber, non sum apostolus, non Christum Jesum
+<pb n="1006C"/>
+Dominum nostrum vidi <note>(I Cor., IX, 1)</note>
+          </hi>? De quali
+contra supercilio pronuntiare compulsus est: <hi>Mihi autem
+in modico est ut a vobis interroger aut ab humano die:
+neque enim conscius mihi sum <note>(I Cor., IV, 3, 4)</note>
+          </hi>: et: <hi>Gloriam meam nemo inaniet 
+ <note>(I Cor., IX, 15)</note>
+          </hi>. <hi>Non
+scitis quod angelos sumus judicaturi <note>(I Cor., VI, 8)</note>
+          </hi>?
+Caeterum libertas quam apertae objurgationis, quam
+exerta acies machaerae spiritalis? <hi>Jam ditati estis, jam
+saturati estis, jam regnatis <note>(I Cor., IV, 8)</note>
+          </hi>. Et: <hi>Si quis
+<pb n="1007A"/>
+se putat scire, nondum scit quemadmodum oporteat eum
+scire <note>(I Cor., VIII, 2)</note>
+          </hi>. Nonne et tunc in faciem alicujus
+impingens? <hi>Quis</hi> enim, inquit, <hi>te discernit? quid
+autem habes quod non accepisti? Si autem accepisti,
+quid gloriaris, quasi non acceperis <note>(I Cor., IV, 7)</note>
+          </hi>?
+Nonne et illos in os caedit? Quidam autem in conscientia
+usque nunc quasi idolothytum edunt. Sic autem
+delinquentes, percutiendo conscientias fratrum
+infirmas, in Christum delinquent. Jam vero et nominatim: <hi>Aut non habemus potestatem manducandi et
+bibendi, et mulieres circumducendi, sicut et caeteri apostoli,
+et fratres Domini et Cephas 
+ <note>(I Cor., IX, 4, 5)</note>
+          </hi>?
+Et: <hi>Si alii de potestate vestra consequuntur, non magis
+nos <note>(I Cor., X, 12)</note>
+          </hi>? Aeque et illos singulari stylo figit. <hi>Propterea qui se putat stare, videat ne cadat 
+ (I Cor.,
+<pb n="1007B"/>
+XI, 16)</hi>; et: <hi>Si quis contentiosus videtur, nos talem
+consuetudinem non habemus, neque Ecclesia Domini <note>(I Cor., XI, 16)</note>
+          </hi>.
+Tali clausula maledicto detexta: <hi>Si
+quis non amat Dominum Jesum, sit anathema, Maranatha <note>(I Cor., XVI, 22)</note>
+          </hi>,
+aliquem utique percussit. Sed
+illic magis stabo ubi Apostolus magis fervet, ubi ipse
+fornicator aliis quoque negotium fecit: <hi>Quasi non sim
+venturus ad vos, inflati sunt quidem. Veniam autem citius,
+si permiserit Dominus, et cognoscam non sermonem
+eorum qui inflati sunt, sed virtutem. Non enim in sermone
+est regnum Dei, sed in virtute. Et quid vultis veniam
+ad vos, in virga, an in spiritu lenitatis? <note>(I Cor.,
+IV, 18, 21)</note>
+          </hi>? Quid enim suberat? <hi>Auditur in vobis in
+totum fornicatio, et talis fornicatio, qualis nec in gentibus,
+ut uxorem patris sui quis habeat. Et vos inflati estis, et
+<pb n="1007C"/>
+non luxistis potius, ut auferatur de medio vestrum qui
+tale facinus admisit <note>(I Cor., V, 1, 2)</note>
+          </hi>! Pro quo lugerent?
+Utique pro mortuo. Ad quem lugerent? Utique
+ad Dominum. Quomodo ut auferatur de medio
+illorum? Non utique ut extra Ecclesiam detur; hoc
+enim non a Deo postularetur, quod erat in praesidentis
+officio, sed ut per mortem hanc quoque communem et
+propriam carnis ipsius, quae jam cadaver, quae capulum
+ esset immunditia irrecuperabili tabidosum,
+plenius de Ecclesia deberet auferri. Et ideo, quomodo
+interim potuit auferri, judicavit dedendum ejusmodi
+Satanae in interitum carnis. Maledici enim eam sequebatur,
+quae diabolo projiciebatur, ut sacramento benedictionis
+exauctoraretur, nunquam in castra Ecclesiae
+reversura. Videmus itaque hoc in loco divisam Apostoli
+<pb n="1008A"/>
+severitatem in quemdam inflatum et in quemdam
+incestum; in alterum virga, in alterum sententia armatum:
+virga quam minabatur, sententia quam
+exequebatur; illam adhuc coruscantem, hanc statim
+fulminantem, qua increpabat, quaque damnabat. Certumque
+est exinde increpitum quidem sub intentatione
+virgae tremuisse, damnatum vero sub repraesentatione
+poenae perisse: statim ille timens plagam abiit, ille
+luens poenam. Cum ad Corinthios ejusdem apostoli
+literae iterant veniam, fit plane, sed incertum
+cui, quia nec persona nec caussa proscribitur. Res cum
+sensibus conferam. Si incestus opponitur, ibidem erit
+et inflatus. Sane relatio satis habetur, cum inflatus
+increpitus est, incestus vero damnatus est: inflato
+ignoscitur, sed increpito; incesto non videtur
+<pb n="1008B"/>
+ignotum, ut damnato. Si ei ignoscebatur, cui devoratio
+ex moerore nimio timebatur, devorari adhuc increpitus
+periclitabatur, deficiens ob comminationem et
+moerens ob increpationem; damnatus vero et culpa et
+sententia, jam devoratus deputabatur, qui non moerere
+haberet, sed pati quod ante passionem moerere
+potuisset. Si idcirco ignoscebatur, ne fraudaremur
+a Satana, in eo utique detrimentum praecavebatur
+quod nondum perisset: nihil de transacto praecavetur,
+sed de adhuc salvo. Damnatus autem, et quidem in
+possessionem Satanae, jam tunc perierat Ecclesiae,
+cum tale facinus admiserat, nedum cum et ab ipsa
+ejerabatur. Quomodo vereretur fraudem pati ejus,
+quem jam et ereptum amiserat, et damnatum habere
+non potuerat? Postremo, quid judicem indulgere conveniet,
+<pb n="1008C"/>
+quod pronuntiatione deciderit? an quod interlocutione
+suspenderit? et utique eum judicem, qui
+non solet ea quae destruxit, reaedificare, ne transgressor
+habeatur. Age jam si non tot personas prima
+Epistola contristasset, si neminem increpuisset, neminem
+terruisset, si solum incestum cecidisset, si
+nullum in caussam ejus in pavorem misisset, inflatum
+consternasset; nonne melius suspicareris et fidelius
+argumentareris, aliquem potius longe alium apud Corinthios
+tunc in cadem caussa fuisse, ut increpitus et
+territus et moerore jam saucius, propterea permittente
+modulo delicti, veniam postea ceperit, quam ut eam
+incesto fornicatori interpretareris? Hoc enim legisse
+debueras, et si non in epistola, sed in ipsa Apostoli
+secta, a pudore clarius quam stylo ejus impressum;
+<pb n="1009A"/>
+ne scilicet Paulum apostolum Christi, doctorem
+nationum in fide et veritate, vas electionis,
+Ecclesiarum conditorem, censorem disciplinarum,
+tantae levitatis inficeres, ut aut damnaverit temere,
+quem mox esset absoluturus; aut temere absolverit,
+quem non temere damnasset, ob solam licet fornicationem
+simplicis impudicitiae, nedum ob incestas nuptias,
+et impiam luxuriam, et libidinem parricidalem,
+quam nec nationibus comparat, ne consuetudini deputaretur;
+quam absens judicarat, ne spatium reus lucraretur;
+quam advocata etiam Domini virtute damnaverat,
+ne humana sententia videretur. Lusit igitur
+et de suo spiritu, et de Ecclesiae angelo, et de virtute
+Domini, si quod de consilio eorum pronuntiaverat,
+rescidit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+
+<pb n="1009B"/>
+<p>Si etiam sequentia illius Epistolae ad intentationem
+Apostoli extendas, nec ipsa comparabuntur ad obliterationem
+incesti, ne et hic suffundatur Apostolus
+posteriorum incongruentia sensuum. Quale est enim
+ut cum maxime incesto fornicatori postliminium largitus
+ecclesiasticae pacis, statim ingesserit de aversatione
+immunditiarum, de amputatione macularum,
+de exhortatione sanctimoniarum, quasi nihil contrarium
+Paulo ante decreverit? Compara denique an ejus
+sit dicere: <hi>Propterea habentes ministrationem istam,
+secundum quod misericordiam consecuti sumus, non deficimus,
+sed abdicamus occulta dedecoris <note>(II Cor., IV,
+1, 2)</note>
+          </hi>; qui non dedecoris tantum, sed et sceleris manifestum
+dedamnaverit : an ejusdem sit excusare
+<pb n="1009C"/>
+aliquam impudicitiam qui inter titulos laborum suorum,
+post angustias atque pressuras, post jejunia et
+vigilias, castimoniam quoque praedicarit <note>(II Cor., VI,
+5, seqq.)</note>; an ejusdem sit recipere in communicationem
+reprobos quosque, qui scribat: <hi>Quae enim societas justitiae
+et iniquitati? quae autem communicatio luci et tenebris?
+Quae consonantia Christo et Belial; aut quae pars
+fideli cum infideli? Aut quis consensus templo Dei et
+idolis <note>(Ibid. 14-16)</note>
+          </hi>? Nonne constanter audire debebit:
+Et quomodo discernis quae supra incesti restitutione
+junxisti? illo enim concorporato rursus
+Ecclesiae, et justitia cum iniquitate sociatur, et
+tenebrae cum luce communicant, et Belial consonat
+Christo, et infidelis cum fideli sacramenta
+participat. Et viderint idola, ipse templi Dei vitiator
+<pb n="1009D"/>
+in templum Dei convenit. Nam et hic: <hi>Vos
+enim,</hi> inquit, <hi>estis templum Dei vivi; dicit enim:
+<pb n="1010A"/>
+Quia inhabitabo in vobis, et inambulabo, et ego Deus illorum,
+et illi erunt mihi populus. Propter quod discedite
+de medio eorum, separamini, et immundum ne attigeritis <note>(Ibid. 1, 17)</note>
+          </hi>.
+Hoc quoque evolvis, o Apostole,
+ut cum maxime ipse tanto immunditiarum gurgiti manum
+tradis, et adhuc superdicis: <hi>Habentes igitur promissionem
+istam, dilecti, emundemus nos ab omni inquinamento
+carnis et spiritus, perficientes castimoniam in
+Dei timore <note>(II Cor., VII, 1)</note>
+          </hi>. Oro te, qui talia
+infigit mentibus nostris, revocaverat aliquem fornicatorem
+in Ecclesiam? an ideo scribit, ne tibi nunc revocasse
+videatur? Haec, sicuti et praeteritis praescribere,
+ita et sequentibus praejudicare debebunt; in
+finem enim Epistolae dicens: <hi>Ne rursus cum venero
+humiliet me Deus, et lugeam multos eorum qui ante
+<pb n="1010B"/>
+deliquerunt, et poenitentiam non egerunt super immunditia
+quam admiserunt, fornicatione et vilitate <note>(II Cor.,
+XII, 21)</note>
+          </hi>; non utique recipiendos constituit, si poenitentiam
+inissent, quos in Ecclesia inventurus erat,
+sed fugendos et sine dubio ejiciendos, ut poenitentiam
+perderent. Et caeterum non competit eum de
+communicatione aliquid hic ostendisse, qui eam supra
+luci et tenebris, justitiae et iniquitati negarat. Sed
+ignorant Apostolum omnes isti, qui aliquid contra naturam
+atque propositum hominis ipsius, contra
+formam et regulam doctrinam ejus intelligunt ut
+sanctitatis omnis etiam ex semetipso magistrum, impuritatis
+omnis exsecratorem et expiatorem, et ubique
+talem, citius incesto, quam alicui humaniori reo
+Ecclesiam reddidisse praesumat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI.</head>
+
+<pb n="1010C"/>
+<p>Necesse est igitur usque illis Apostolum ostendi,
+quem ego et in secunda Corinthiorum talem defendam,
+qualem in omnibus literis novi, qui et in prima, primus
+omnium templum Dei dedicavit: <hi>Non scitis vos
+templum Dei esse, et in vobis Dominum habitare <note>(I Cor.,
+III, 16)</note>
+          </hi>? qui et templo sanciendo, purificandoque
+aeditualem legem scripsit: <hi>Si quis templum Dei vitiaverit,
+vitiabit illum Deus: templum enim Dei sanctum est
+quod estis vos <note>(Ibid. 17)</note>
+          </hi>. Age jam quis omnino vitiatum
+Deo redintegravit, id est <hi>traditum Satanae in
+interitum carnis,</hi> cum idcirco substruxerit: <hi>Nemo seducat
+semetipsum <note>(Ibid. 18)</note>
+          </hi>, id est, nemo praesumat
+vitiatum Deo redintegrari denuo posse; sicut rursus
+inter caetera, imo et ante caetera, moechos et fornicatores
+<pb n="1010D"/>
+et molles et masculorum concubitores negans
+regnum consecuturos, praemisit: <hi>Ne erraveritis</hi> 
+<pb n="1011A"/> <note>(I Cor., VI, 9, 10)</note>,
+scilicet si putaveritis eos consecuturos.
+Quibus autem regnum adimitur, utique nec vita
+permittitur, quae inest regno. Etiam ingerens: <hi>Sed in
+haec quidem fuistis; sed abluti estis, sed sanctificati estis in
+nomine Domini nostri Jesu Christi, et in spiritu Dei nostri <note>(Ibid. 11)</note>
+          </hi>.
+Quanto delicta ista ante lavacrum accepto
+facit, tanto post lavacrum irremissibilia constituit;
+siquidem denuo ablui non licet. Agnosce et in sequentibus
+Paulum, columnam immobilem disciplinarum: <hi>Cibi ventri, et venter cibis; Deus et hunc et illos conficit;
+corpus autem non fornicationi, sed Deo 
+ <note>(Ibid. 13)</note>
+          </hi>. <hi>Faciamus</hi> 
+enim <hi>hominem,</hi> ait Deus, <hi>ad imaginem et similitudinem
+nostram: et fecit hominem Deus ad imaginem
+et similitudinem Dei fecit illum <note>(Gen., I, 26, 27)</note>
+          </hi>. <hi>Dominus
+corpori <note>(I Cor., VI, 13)</note>
+          </hi>; <hi>et sermo</hi> enim, <hi>caro
+<pb n="1011B"/>
+factus est <note>(Jo. I, 14)</note>
+          </hi>. <hi>Deus autem et Dominum suscitavit,
+et nos suscitabit per virtutem suam <note>(I Cor., VI,
+14)</note>
+          </hi>; propter corporis scilicet nexum cum illo. Et ideo: <hi>Non scitis corpora vestra membra Christi 
+ <note>(Ibid. 15)</note>
+          </hi>?
+quia et Christus Dei templum: <hi>Evertite templum hoc,
+et ego illud in triduo resuscitabo <note>(Jo., II, 19)</note>
+          </hi>. <hi>Auferens
+membra Christi, faciam membra fornicariae? Non scitis
+quod qui adglutinatur fornicariae, unum corpus efficitur?
+Erunt enim duo in unam carnem. Qui autem adglutinatur
+Domino, unus est spiritus. Fugite fornicationem <note>(I Cor.,
+VI, 15-18)</note>
+          </hi>. Si revocabilem venia, quomodo fugiam,
+moechus denuo futurus? nihil profecero, si eam fugero;
+unum ero corpus, cui communicando adglutinabor. <hi>Omne delictum quod admiserit homo, extra corpus
+est; qui autem fornicatur, in corpus suum peccat 
+ (Ibid.
+<pb n="1011C"/>
+18)</hi>. Ac ne hoc dictum in licentia fornicationis invaderes,
+ut in rem tuam, non Domini, delicturus, aufert
+te tibi, et Christo, sicut disposuerat, adjicit: <hi>Et non
+estis vestri;</hi> statim apponens: <hi>Empti enim estis pretio,</hi> 
+sanguine scilicet Domini; <hi>glorificate et tollite Dominum
+in corpore vestro <note>(Ibid. 19, 20)</note>
+          </hi>. Hoc qui praecipit, vide
+an ignoverit ei qui dedecoravit Dominum, et qui ejecerit
+eum de corpore suo, et quidem per incestum.
+Si vis omnem notitiam Apostoli ebibere, ut intelligas
+quanta securi censurae omnem sylvam libidinum
+caedat, et eradicet, et excaudicet, ne quidquam de
+recidivo fruticare permittat, adspice illum a
+justa fruge naturae, a matrimonii dico pomo, animas
+jejunare cupientem. <hi>De quibus autem scripsistis, bonum
+est homini mulierem non contingere: sed propter fornicationem
+<pb n="1011D"/>
+unusquisque uxorem suam habeat; vir uxori,
+et uxor viro debitum reddat <note>(I Cor., VII, 1, seqq.)</note>
+          </hi>. Hujus
+boni fibulam quis illum nesciat invitum relaxasse, ut
+fornicationi obviam isset, quam si cui indulsit vel
+indulget, utique consilium remedii sui infregit, et tenebitur
+jam fraenandis continentiae conjugiis, si fornicatio,
+ob quam permittuntur, non timebitur; non enim
+<pb n="1012A"/>
+timebitur quae ignoscetur. Et tamen ignovisse se profitetur
+matrimonii usum, non imperasse: vult enim
+omnes sibi adhaerere <note>(Ibid. 7)</note>. Si autem licita ignoscuntur,
+illicita qui sperant? Innuptis quoque et viduis
+bonum esse dicit exemplo ejus perseverare; si vero
+deficerent, nubere, quia <hi>praeest nubere quam uri <note>(Ibid. 8, 9)</note>
+          </hi>.
+Quibus oro ignibus deterius est uri? concupiscentiae,
+an poenae? Atquin, si fornicatio habet
+veniam, non urit concupiscentia ejus: Apostoli autem
+magis est poenae ignibus providere. Quod si poena est
+quae urit, ergo veniam non habet fornicatio, quam
+manet poena. Interea et divortium prohibens, pro eo
+aut viduitatis perseverantiam, aut reconciliationem
+pacis dominico praecepto adversus moechiam procurat,
+quia <hi>qui dimiserit uxorem praeter caussam moechiae, facit
+<pb n="1012B"/>
+eam moechari; et qui dimissam a viro ducit, moechatur <note>(Matth., V, 32)</note>
+          </hi>.
+Quanta remedia Spiritus Sanctus instaurat,
+ne id scilicet denuo admittatur, quod ignosci
+denuo non vult! Jam si usquequaque <hi>optimum</hi> dicit <hi>homini sic esse: Junctus es uxori, ne quaesieris solutionem,</hi> 
+ut moechiae locum non des. <hi>Solutus es ab
+uxore, ne quaesieris uxorem,</hi> ut opportunitatem tibi
+serves. <hi>Quod et si duxeris uxorem, et si nupserit virgo,
+non peccat; pressuram tamen carnis habebunt hujusmodi <note>(I Cor., VII, 26 28)</note>
+          </hi>.
+Et hic <hi>parcendo</hi> permittit. Caeterum,
+tempus in collecto constituit, ut et <hi>qui habent
+uxores, sic sint tanquam non habentes <note>(Ibid. 29)</note>
+          </hi>; <hi>praeterit
+enim habitus hujus mundi <note>(Ibid. 31)</note>
+          </hi>, jam scilicet
+non desiderantis: <hi>Crescite et multiplicamini <note>(Gen., I,
+28)</note>
+          </hi>. Sic vult nos <hi>praeter sollicitudinem degere, quia innupti
+<pb n="1012C"/>
+de Domino curent, quomodo placeant Deo; nupti
+vero de mundo recogitent, quomodo placeant conjugio <note>(I Cor., VII, 32-34)</note>
+          </hi>.
+Sic melius facere pronuntiat
+virginis conservatorem, quam erogatorem <note>(Ibid. 40)</note>;
+sic et illam beatiorem decernit quae, amisso viro, fidem
+ingressa, amaverit occasionem viduitatis; sic
+haec omnia continentiae consilia ut divina commendat: <hi>Puto,</hi> 
+ inquit, <hi>et ego spiritum Dei habeo <note>(Ibid.)</note>
+          </hi>. Quis iste
+est assertor audacissimus omnis impudicitiae, moechorum
+et fornicatorum et incestorum plane fidelissimus
+advocatus, quibus honorandis suscepit hanc caussam
+adversus Spiritum Sanctum, ut falsum testimonium recitet
+de apostolo ejus? Nihil tale Paulus indulsit, qui
+totam carnis necessitatem de probis etiam titulis obliterare
+conatur. Indulget sane non adulteria, sed nuptias:
+<pb n="1012D"/>
+parcit sane matrimoniis, non stupris: tentat ne
+naturae quidem ignoscere, ne culpae blandiatur; studet
+compescere benedictionis concubitum, ne maledictionis
+excusetur. Hoc ei supererat, carnem vel a sordibus purgare;
+a maculis enim non potest. Sed est hoc solemne
+perversis et idiotis et haereticis, jam et psychicis
+universis, alicujus capituli ancipitis occasione, adversus
+<pb n="1013A"/>
+exercitum sententiarum instrumenti totius armari.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII.</head>
+<p>Provoca ad apostolicam aciem; adspice Epistolas
+ejus; omnes pro pudicitia, pro castitate, pro sanctitate
+praetendunt, omnes in luxuriae et lasciviae et libidinis
+negotia jaculantur. Quid denique et Thessalonicensibus
+scribit? <hi>Advocatio enim nostra non ex seductione,
+nec ex immunditia <note>(I Thess., II, 3)</note>
+          </hi>; et: <hi>Haec
+est voluntas Dei, sanctimonia vestra, abstinere vos a
+fornicatione, scire unumquemque vas suum possidere in
+sanctimonia et honore, non in libidine concupiscentiae,
+sicut nationes quae Deum ignorant <note>(I Thess., IV, 3-5)</note>
+          </hi>.
+Quid Galatae legunt? <hi>Manifesta sunt opera carnis.</hi> 
+<pb n="1013B"/>
+Quaenam ista? In primis posuit <hi>fornicationem,
+immunditiam, lasciviam, quae praedico vobis sicut praedixi,
+quod qui talia agunt, regnum Dei non sunt consecuturi
+haereditate <note>(Gal., V, 19)</note>
+          </hi>. Romani vero quid
+magis discunt, quam non derelinquere Dominum post
+fidem? <hi>Quid ergo dicemus? perseverabimus in
+delinquentia, ut superet gratia? Absit. Qui mortui sumus
+delinquentiae, quomodo vivemus in ea adhuc? An
+ignoratis, quod qui tincti sumus in Christo Jesu, in
+mortem ejus sumus tincti? Consepulti ergo illi sumus
+per baptismum in mortem: ut sicut Christus resurrexit
+a mortuis, ita et nos in novitate vitae incedamus. Si
+enim consepulti sumus simulacro mortis ejus, sed
+et resurrectionis erimus, hoc scientes quod vetus homo
+noster confixus est illi. Si autem mortui sumus cum
+<pb n="1013C"/>
+Christo, credimus quod et convivemus cum illo, scientes
+quod Christus suscitatus a mortuis, jam non moriatur,
+mors non jam dominetur ejus. Quod enim mortuus est
+delinquentiae, mortuus est semel, quod autem vivit, Deo
+vivit. Ita et reputate vosmetipsos mortuos quidem delinquentiae,
+viventes autem Deo per Christum Jesum <note>(Rom.,
+VI, 1-11)</note>
+          </hi>. Igitur semel Christo mortuo, nemo potest
+post Christum mortuus delinquentiae, et maxime
+tantae, reviviscere: aut si possit fornicatio et
+moechia denuo admitti, poterit et Christus denuo mori.
+Instat autem Apostolus, prohibens <hi>regnare delinquentiam
+in corpore nostro mortali <note>(Ibid., 12)</note>
+          </hi>, cujus
+infirmitatem carnis noverat. <hi>Sicut enim exhibuistis
+membra vestra famula immunditiae et iniquitati ad iniquitatem,
+ita et nunc exhibete ea famula justitiae in
+<pb n="1013D"/>
+sanctimoniam <note>(Ibid., 13)</note>
+          </hi>. Nam, etsi <hi>habitare bonum in
+carne sua <note>(Rom., VII, 18)</note>
+          </hi> negavit, sed secundum
+legem literae in qua fuit; secundum autem legem
+spiritus, cui nos adnectit, liberat ab infirmitate carnis: <hi>Lex enim,</hi> 
+ inquit, <hi>spiritus vitae manumisit te a
+<pb n="1014A"/>
+lege delinquentiae et mortis <note>(Rom., VIII, 2)</note>
+          </hi>. Licet enim
+ex parte ex Judaismo disputare videatur, sed in nos
+dirigit integritatem et plenitudinem disciplinarum,
+propter quos laborantes in lege per carnem <hi>miserit
+Deus filium suum in similitudinem carnis delinquentiae,</hi> 
+et <hi>propter delinquentiam damnaverit delinquentiam in
+carne; ut jus legis,</hi> inquit, <hi>impleretur in nobis, qui non
+secundum carnem, sed secundum spiritum incedimus.
+Qui enim secundum carnem incedunt, ea quae carnis
+sunt sapiunt; et qui secundum spiritum, ea quae sunt
+spiritus <note>(Ibid., 3-5)</note>
+          </hi>. <hi>Sensum</hi> autem <hi>carnis mortem</hi> 
+adfirmavit esse <note>(Ibid., 6)</note>. Dehinc et inimicitiam et in
+Deum, et eos qui sunt in carne, id est in sensu
+carnis, Deo placere non posse <note>(Ibid., 7)</note>. Et: <hi>Si secundum
+carnem vivitis,</hi> inquit, <hi>futurum est ut moriamini</hi> 
+<pb n="1014B"/> <note>(Ibid., 13)</note>.
+Quid autem intelligimus carnis sensum
+et carnis vitam, nisi quodcumque pudet pronuntiare?
+caetera enim carnis et Apostolus nominasset.
+Proinde et Ephesiis pristina reputans, de futuro monet: <hi>In quibus et nos conversati sumus, facientes concupiscentias
+et voluptates carnis 
+ <note>(Ephes., II, 3)</note>
+          </hi>. Notans
+denique illos qui se negassent, scilicet christianos, eo
+quod se tradidissent in operationem immunditiae omnis: <hi>Vos autem,</hi> 
+ inquit, <hi>non sic didicistis Christum <note>(Eph.,
+IV, 20.)</note>
+          </hi>. Et iterum sic dicit: <hi>Qui furabatur, jam non
+furetur <note>(Ibid., 26-28)</note>
+          </hi>. Sed et qui moechabatur hactenus,
+non moechetur; et qui fornicabatur hactenus, non
+fornicetur. Adjecisset enim et haec, si talibus veniam
+porrigere consuesset, vel porrigi omnino voluisset,
+qui nec verbo pollui volens: <hi>Omnis,</hi> inquit, <hi>sermo
+<pb n="1014C"/>
+turpis non procedat ex ore vestro <note>(Ibid., 29)</note>
+          </hi>. Item: <hi>Fornicatio autem et immunditia omnis ne nominetur
+quidem inter vos, sicut decet sanctos</hi> 
+ (tanto abest ut
+excusetur), <hi>hoc scientes quod omnis fornicator aut immundus
+non habeat Dei regnum. Nemo vos seducat inanibus
+verbis. Propter hoc venit ira Dei super filios incredulitatis <note>(Eph., V, 3-5)</note>
+          </hi>.
+Quis seducit inanibus
+verbis, nisi qui concionatur remissibilem esse moechiam?
+non intuens etiam fundamenta ejus ab Apostolo
+effossa; cum ebrietates et comessationes compescit,
+sicut et hic: <hi>Et nolite inebriari vino, in
+quo est luxuria <note>(Ibid., 18)</note>
+          </hi>. Demonstrat et Colossensibus,
+quae <hi>membra mortificent super terram,
+fornicationem, immunditiam, libidinem, concupiscentiam
+malam, et turpiloquium <note>(Coloss., III, 5)</note>
+          </hi>. Concede
+<pb n="1014D"/>
+jam tot ac talibus sententiis unum illud quod tenes:
+ pauca multis, dubia certis, obscura manifestis
+adumbrantur. Etiamsi pro certo Apostolus Corinthio
+illi fornicationem donasset, esset aliud quod
+semel contra institutum suum pro ratione temporis
+<pb n="1015A"/>
+faceret. Circumcidit Timotheum solum, et tamen
+abstulit circumcisionem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVIII.</head>
+<p>Sed haec, inquit, ad interdictionem pertinebunt
+omnis impudicitiae et addictionem omnis pudicitiae,
+salvo tamen loco veniae, quae non statim denegatur,
+si delicta damnantur, quando veniae tempus
+cum damnatione concurrat quam excludit. Sequebatur
+et hoc Psychicos sapere, et ideo reservavimus
+huic loco, quae aperte ad communicationem ecclesiasticam
+caussis ejusmodi negandam etiam antiquitus
+caussa sunt. Nam et in Proverbiis Salomon, quae <hi>Paroemias</hi> 
+ dicimus, specialiter de moecho nusquam
+expiabili: <hi>Moechus autem,</hi> inquit, <hi>per indigentiam
+sensuum perditionem animae suae acquirit, dolores et
+<pb n="1015B"/>
+dehonestationes sustinet. Ignominia autem ejus non abolebitur
+in aevum. Plena enim zeli indignatio viro non
+parcet in die judicii <note>(Prov., VI, 32-36)</note>
+          </hi>. Hoc si de
+ethnico putaveris dictum, certe de fidelibus jam audisti
+ per cassum: <hi>Excedite de medio eorum, et
+separamini, et immundum ne tetigeritis <note>(II Cor., VI,
+17)</note>
+          </hi>. Habes statim in Psalmis <hi>beatum virum qui non
+abierit in concilio impiorum, et in via peccatorum non
+steterit, et in cathedra pestilentiae non sederit <note>(Psal. I,
+1)</note>
+          </hi>. Cujus et postea vox: <hi>Non sedi cum consessu vanitatis,
+et cum inique agentibus non introibo</hi> (hoc de
+ecclesia male agentium) <hi>et cum impiis non sedebo:</hi> 
+et, <hi>lavabo cum innocentibus manus meas, et altare tuum
+circumdabo, Domine <note>(Psal. XXX, 4, 5)</note>
+          </hi>, ut solus
+plures, quoniam quidem, <hi>cum sancto sanctus eris
+<pb n="1015C"/>
+et cum electo electus eris,</hi> et <hi>cum perverso perversus
+eris <note>(Psal., XVII, 26)</note>
+          </hi>. Et alibi: <hi>Peccatori autem dicit
+Dominus: Ut quid tu exponis justificationes meas, et
+assumis testamentum meum per os tuum? Si videbas
+furem, currebas cum eo, et cum adulteris portionem
+tuam ponebas <note>(Psal. XLIX, 16, seq.)</note>
+          </hi>. Hinc igitur informatus
+et Apostolus: <hi>Scripsi,</hi> inquit, <hi>vobis in Epistola,
+non commisceri fornicatoribus, non utique fornicatoribus
+hujus mundi,</hi> et reliqua: <hi>Caeterum, oportebat vos
+exire de mundo: nunc autem scribo vobis, si qui frater
+nominatur in vobis fornicator, aut idololatra</hi> (quid
+<pb n="1016A"/>
+enim tam conjunctum?), <hi>aut fraudator</hi> (quid enim
+tam propinquum?), et caetera, <hi>cum talibus ne cibum
+quidem sumere,</hi> nedum Eucharistiam. <hi>Modicum</hi> 
+scilicet <hi>fermentum totam desipit conspersionem <note>(I Cor.,
+V, 9, seq.)</note>
+          </hi>. Item ad Timotheum: <hi>Manus nemini cito
+imponas, neque communices delictis alienis <note>(I Tim., V,
+22)</note>
+          </hi>. Item ad Ephesios: <hi>Nolite ergo participes esse
+eorum; fuistis enim aliquando tenebrae <note>(Eph., V, 7, 8)</note>
+          </hi>.
+Et adhuc pressius: <hi>Nolite communicare operibus infructuosis
+tenebrarum, imo et revincite eo: quae enim
+in occulto ab eis fiunt, turpe est edicere <note>(Ibid., 11)</note>
+          </hi>,
+Quid turpius impudicitiis? Si autem et ab otiose incedente
+fratre denuntiat subduci Thessalonicensibus <note>(II Thess., III, 6)</note>,
+quanto magis et a fornicatore?
+Haec enim consultata sunt Christi Ecclesiam diligentis,
+<pb n="1016B"/>
+qui <hi>se pro ea tradidit uti eam sanctificet, emundans
+lavacro aquae in verbo, ut sistat sibi Ecclesiam
+gloriosam, non habentem maculam aut rugam,</hi> utique
+post lavacrum, <hi>sed sit sancta et sine opprobrio <note>(Eph.,
+V, 25-27)</note>
+          </hi>, exinde scilicet sine ruga vetustatis,
+ut virgo, sine macula fornicationis, ut sponsa,
+sine probro vilitatis, ut emundata. Quid si et
+hic respondere concipias adimi quidem peccatoribus,
+vel maxime carne pollutis, communicationem, sed ad
+praesens restituendam, scilicet ex poenitentiae ambitu,
+secundum illam clementiam Dei qua mavult peccatoris
+poenitentiam quam mortem <note>(Ezech., XXXIII, 11)</note>?
+hoc enim fundamentum opinionis vestrae usquequaque
+pulsandum est. Dicimus itaque, clementiae
+divinae si ita esse competisset demonstrationem
+<pb n="1016C"/>
+sui etiam post fidem lapsis, ita Apostolus diceret: <hi>Nolite communicare operibus tenebrarum,</hi> 
+ nisi
+poenitentiam egerint; et: <hi>Cum talibus ne cibum quidem
+sumere,</hi> nisi posteaquam caligas fratrum volutando
+deterserint; et: <hi>Qui templum Dei vitiaverit, vitiabit
+illum Deus,</hi> nisi omnium focorum cineres in Ecclesia
+de capite suo excusserit: debuerat enim quae damnaverat
+proinde determinasse, quoniam usque
+et sub conditione damnasset, si temporali et conditionali,
+et non perpetua severitate damnasset. Porro,
+cum in omnibus Epistolis et post fidem talem prohibeat
+<pb n="1017A"/>
+admitti, et admissum a communicatione detrudat,
+sine spe conditionis ullius aut temporis, nostrae
+magis sententiae adsistit eam poenitentiam ostendens
+Dominum malle, quae ante fidem, quae ante baptisma
+morte peccatoris potior habeatur, semel diluendi per
+Christi gratiam, semel pro peccatis nostris morte
+functi. Nam hoc etiam in sua persona Apostolus statuit.
+Adfirmans enim Christum ad hoc <hi>venisse, ut
+peccatores salvos faceret, quorum primus ipse fuisset,</hi> 
+quid adjicit? <hi>Et misericordiam sum consecutus, quoniam
+ignorans feci incredulitate <note>(I Tim., I, 16)</note>
+          </hi>. Ita
+clementia illa Dei, malentis poenitentiam peccatoris
+quam mortem, ad ignorantes adhuc et adhuc
+incredulos spectat, quorum caussa liberandorum
+venerit Christus, non qui jam Deum norint, et
+<pb n="1017B"/>
+sacramentum didicerint fidei. Quod si clementia
+Dei ignorantibus adhuc et infidelibus competit,
+utique et poenitentia ad se clementiam invitat,
+salva illa poenitentiae specie post fidem, quae aut levioribus
+delictis veniam ab episcopo consequi poterit,
+aut majoribus et irremissibilibus a Deo solo.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX.</head>
+<p>Sed quonam usque de Paulo, quando etiam Joannes
+nescio quid diversae parti supplaudere videatur?
+quasi in Apocalypsi manifeste fornicationi posuerit
+poenitentiae auxilium, ubi ad angelum Thyatirenorum
+spiritus mandat habere se adversus eum, quod teneret <hi>mulierem 
+ Jezabel, quae se propheten dicit, et
+docet atque seducit servos meos ad fornicandum et edendum
+de idolothytis. Et largitus sum illi temporis spatium,
+<pb n="1017C"/>
+ut poenitentiam iniret, nec vult eam inire nomine
+fornicationis. Ecce dabo eam in lectum, et moechos ejus
+cum ipsa in maximam pressuram, nisi poenitentiam egerint
+operum ejus <note>(Apoc. II, 20-22)</note>
+          </hi>. Bene autem quod
+Apostolis et fidei et disciplinae regulis convenit. <hi>Sive
+enim ego,</hi> inquit, <hi>sive illi, sic praedicamus <note>(II Cor., XV,
+11)</note>
+          </hi> Totius itaque sacramenti interest nihil credere
+ab Joanne concessum, quod a Paulo sit denegatum.
+Hanc aequalitatem Spiritus Sancti qui observaverit, ab
+ipso deducetur in sensus ejus. Haereticam enim foeminam,
+quae quod didicerat a Nicolaitis docere susceperat,
+<pb n="1018A"/>
+in Ecclesiam latenter introducebat, et merito ad
+poenitentiam urgebat. Cui enim dubium est haereticum
+institutione deceptum, cognito postmodum casu
+et poenitentia expiato, et veniam consequi, et in
+Ecclesiam redigi? Unde et apud nos ut ethnico par,
+imo et super ethnicum haereticus etiam per baptisma
+veritatis utroque homine purgatus admittitur.
+Aut si certus es mulierem illam, post fidem
+vivam, in haeresin postea exspirasse, ut non quasi
+haereticae, sed quasi fideli peccatrici, veniam ex poenitentia
+vindices, sane agat poenitentiam, sed
+in finem moechiae, non tamen et restitutionem consecutura.
+Haec enim erit poenitentia, quam et nos deberi
+quidem agnoscimus multo magis, sed de venia
+Deo reservamus. Denique ea Apocalypsis in posterioribus
+<pb n="1018B"/>
+propudiosos et fornicatores, sicut timidos et incredulos
+et homicidas et veneficos et idololatras,
+qui tale quid in fide fuerint, in stagnum ignis
+sine ulla conditionali damnatione decrevit. Non enim
+de ethnicis videbitur sapere cum de fidelibus pronuntiarit: <hi>Qui vicerint, haereditate habebunt ista</hi>,
+et <hi>ero illis Deus, et illi mihi in filios;</hi> 
+ et ita subjunxerit: <hi>Timidis autem et incredulis et 
+ propudiosis et fornicatoribus
+et homicidis et veneficis et idololatris particula
+in stagno ignis et sulphuris, quod est mors secunda <note>(Apoc., XXI, 78)</note>
+          </hi>.
+Sic et rursus: <hi>Beati qui ex praeceptis
+agunt, ut in lignum vitae habeant potestatem, et in portas
+ad introeundum in sanctam civitatem. Canis, veneficus,
+fornicator, homicida, foras <note>(Apoc., XXII, 14,
+15)</note>
+          </hi>; utique qui non ex praeceptis agant: illorum est
+<pb n="1018C"/>
+enim foras dari qui intus fuerunt. Caeterum, <hi>quid
+mihi eos qui foris sunt judicare <note>(I Cor., V, 12)</note>
+          </hi>? praecesserat.
+De epistola quoque Joannis carpunt statim.
+Dictum est: <hi>Sanguis Filii ejus emundat nos ab omni
+delicto <note>(I Joan. I, 7)</note>
+          </hi>. Semper ergo et omnifariam
+delinquemus, si semper et ab omni delicto emundat
+nos ille; aut si non semper, non etiam post fidem; et
+si non ab omni delicto, non etiam a fornicatione.
+Unde autem exorsus est? Lumen praedixerat Deum, et
+tenebras non esse in illo, et mentiri nos si dicamus
+nos communionem habere cum eo, et in tenebris
+<pb n="1019A"/>
+incedamus. <hi>Si vero,</hi> inquit, <hi>in lumine incedamus, communionem
+cum eo habebimus, et sanguis Jesu Christi
+Domini nostri emundat nos ab omni delicto <note>(Ibid., 5,
+sqq.)</note>
+          </hi>. Ergo in lumine incedentes delinquimus, et in
+lumine delinquentes emundabimur? Nullo pacto. Qui
+enim delinquit, non in lumine est, sed in tenebris.
+Unde et ostendit quomodo emundabimur a delicto, in
+lumine incedentes, in quo delictum agi non potest,
+adeo sic emundari nos ait, non qua delinquamus, sed
+qua non delinquamus. Incedentes enim in lumine, tenebris
+vero non communicantes, emundati agemus,
+non deposito, sed non admisso delicto. Haec est enim
+vis Dominici sanguinis, ut quos jam delicto mundarit,
+et exinde in lumine constituerit, mundos exinde praestet,
+si in lumine incedere perseveraverint. Sed subjicit,
+<pb n="1019B"/>
+inquis: <hi>Si dicamus nos delictum non habere, seducimus
+nosmetipsos, et veritas non est in nobis. Si
+confitemur delicta nostra, fidelis et justus est ut dimittat
+ea nobis, et emundet nos ab omni injustitia <note>(Ibid., 8,
+9)</note>
+          </hi>: numquid ab immunditia? Aut si ita est, ergo et
+ab idololatria. Sed aliud in sensu est. Ecce enim et
+rursus: <hi>Si dicamus,</hi> ait, <hi>nos non deliquisse, mendacem
+facimus illum, et sermo ejus non est in nobis <note>(Ibid. 10)</note>
+          </hi>.
+Eo amplius: <hi>Filioli, haec scripsi vobis, ne delinquatis;
+et si deliqueritis, advocatum habemus apud Deum Patrem
+Jesum Christum justum, et ipse placatio est pro
+delictis nostris <note>(I Joan., II, 1, 2)</note>
+          </hi>. Secundum haec,
+inquis, et delinquere nos et veniam habere constabit.
+Quid ergo fiet, cum procedens aliud invenio? negat
+enim nos omnino delinquere, et in hoc plurimum
+<pb n="1019C"/>
+tractat, ut nihil tale concedat, proponens semel a
+Christo delicta deleta, non habitura postea veniam:
+in quo nos sensus ad admonitionem castimoniae
+demandat. <hi>Omnis,</hi> inquit, <hi>qui habet spem istam, castificat
+semetipsum, quia et ille castus est. Omnis qui facit
+delictum, et iniquitatem facit, et delictum est iniquitas.
+Et scitis quod ille manifestatus sit, ut auferat delicta;</hi> 
+utique hactenus admittenda; siquidem subjungit: <hi>Omnis qui manet in illo, non delinquit: omnis qui delinquit,
+neque vidit, neque cognovit eum. Filioli, nemo
+vos seducat: omnis qui facit justitiam, justus est, sicut
+et ille justus est. Qui facit delictum, ex diabolo est,
+quoniam diabolus a primordio delinquit. In hoc enim
+manifestatus est filius Dei, ut solvat opera diaboli.</hi> 
+ Nam
+et solvit, liberans hominem per lavacrum, donato
+<pb n="1019D"/>
+chirographo mortis. Et ideo <hi>omnis qui ex Deo nascitur,
+non facit delictum, quia semen Dei manet in illo;
+et non potest delinquere, quia ex Deo natus est. In hoc
+manifesti sunt filii Dei et filii diaboli <note>(I Joan., III, 3,
+10)</note>
+          </hi>. In quo, nisi illi non delinquendo, ex quo de Deo
+<pb n="1020A"/>
+nati sunt; isti delinquendo, quia de diabolo sunt;
+perinde atque si nunquam sint ex Deo nati? Quod si
+dicit: <hi>Qui non est justus, ex Deo non est,</hi> qui non padicus,
+quomodo rursus ex Deo fiet, qui jam esse desiit?
+Juxta est igitur ut excidisse sibi dicamus Joannem
+in prima quidem Epistola (I, 8) negantem
+nos sine delicto esse, nunc vero praescribentem non
+delinquere omnino: et illic quidem aliud de venia
+blandientem, hic vero districte negantem filios Dei
+quicumque deliquerint. Sed absit. Nam nec ipsi excidimus
+a qua digressi sumus distinctione delictorum.
+Et hic enim illam Joannes commendavit, quod sint
+quaedam delicta quotidianae incursionis, quibus omnes
+simus objecti. Cui enim non accidit, aut irasci
+inique, et ultra solis occasum; aut et manum immittere,
+<pb n="1020B"/>
+aut facile maledicere, aut temere jurare, aut
+fidem pacti destruere; aut verecundia aut necessitate
+mentiri? in negotiis, in officiis, in quaestu, in
+victu, in visu, in auditu quanta tentamur, ut si nulla
+sit venia istorum, nemini salus competat! Horum
+ergo erit venia per exoratorem Patris Christum. Sunt
+autem et contraria istis, ut graviora et exitiosa, quae
+veniam non capiant, homicidium, idololatria, fraus,
+negatio, blasphemia, utique et moechia et fornicatio,
+et si qua alia violatio templi Dei. Horum ultra
+exorator non erit Christus; haec non admittet omnino
+qui natus ex Deo fuerit, non futurus Dei filius, si admiserit.
+Ita Joanni ratio constabit diversitatis, distinctionem
+delictorum disponenti, cum delinquere
+filios Dei nunc adnuit, nunc abnuit. Prospiciebat
+<pb n="1020C"/>
+enim clausulam literarum suarum, et illi praestruebat
+hos sensus, dicturus in fine manifestius: <hi>Si quis scit
+fratrem suum delinquere delictum non ad mortem, postulabit,
+et dabit ei vitam Dominus, qui non ad mortem
+delinquit. Est enim delictum ad mortem? non de eo
+dico ut quis postulet <note>(I Joan., V, 16)</note>
+          </hi>. Meminerat et
+ipse Hieremiam prohibitum a Deo deprecari pro populo
+mortalia delinquente <note>(Hier., VII, 16, XI, 14, XIV, 11)</note>. <hi>Omnis injustitia delictum est, et est delictum ad mortem.
+Scimus autem quod omnis qui ex Deo natus sit,
+non delinquit 
+ <note>(I Joan., V, 17, 18)</note>
+          </hi>; scilicet delictum
+quod ad mortem est. Ita nihil jam superest, quam aut
+neges moechiam et fornicationem mortalia esse delicta,
+aut irremissibilia fatearis, pro quibus nec orari
+permittitur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX.</head>
+
+<pb n="1020D"/>
+<p>Disciplina igitur Apostolorum proprie quidem instruit
+ac determinat principaliter sanctitatis omnis
+erga templum Dei antistitem, et ubique de Ecclesia
+eradicantem omne sacrilegium pudicitiae, sine
+<pb n="1021A"/>
+ulla restitutionis mentione. Volo tamen ex redundantia
+ alicujus etiam comitis Apostolorum
+testimonium superducere, idoneum confirmandi de
+proximo jure disciplinam magistrorum. Exstat enim
+et Barnabae titulus ad Hebraeos, adeo satis auctoritatis
+viro, ut quem Paulus juxta se constituerit in
+abstinentiae tenore: <hi>Aut ego solus et Barnabas non habemus
+hoc operandi potestatem <note>(I Cor., IX, 6)</note>
+          </hi>? Et
+utique receptior apud Ecclesias Epistola Barnabae
+ illo apocrypho Pastore moechorum. Monens itaque
+discipulos, omissis omnibus initiis, ad perfectionem
+magis tendere, nec rursus fundamenta poenitentiae
+jacere ab operibus mortuorum: <hi>Impossibile
+est enim,</hi> inquit, <hi>eos qui semel inluminati sunt,
+et donum coeleste gustaverunt, et participaverunt Spiritum
+Sanctum, et verbum Dei dulce gustaverunt, occidente jam
+<pb n="1021B"/>
+aevo cum exciderint, rursus revocari in poenitentiam,
+refigentes cruci in semetipsos Filium Dei et dedecorantes.
+Terra enim quae bibit saepius devenientem
+in se humorem, et peperit herbam aptam his propter
+quos et colitur, benedictionem Dei consequitur:
+proferens autem spinas, reproba et maledictioni proxima,
+cujus finis in exustionem <note>(Hebr., VI, 4, 8)</note>
+          </hi>. Hoc
+qui ab Apostolis didicit et cum Apostolis docuit,
+ nunquam moecho et fornicatori secundam poenitentiam
+promissam ab Apostolis norat; optime enim legem
+interpretabatur, et figuras ejus jam in ipsa veritate
+servabat. Ad hanc denique speciem disciplinae
+de leproso cautum fuit: <hi>Si autem varietas effloruerit
+in cutem, et totam cutem texerit a capite usque ad pedes
+<pb n="1021C"/>
+per omnem conspectum, et sacerdos cum viderit, emundabit
+eum, quoniam convertit in album, mundus est.
+Qua vero die visus fuerit in ejusmodi color vivus, inquinatus
+est <note>(Levit., XIII, 12, 13)</note>
+          </hi>. Conversum enim hominem
+<pb n="1022A"/>
+de pristino carnis habitu in candorem fidei,
+quae vitium et macula aestimatur in saeculo, et totum
+novatum mundum voluit intelligi, qui jam non sit
+varius, non sit de pristino et novo adspersus. Si vero
+post abolitionem in vetustatem aliquid ex illa revixerit,
+rursum in carne ejus quod emortuum delicto
+habebatur, immundum judicari, nec expiari jam a sacerdote.
+Ita moechia de pristino recidiva et unitatem
+novi coloris, a quo fuerat exclusa, commaculans, immundabile
+est vitium. Item de domo: <hi>Si quae maculae
+et cavositates annuntiatae in parietibus sacerdoti fuissent,
+priusquam introiret ad inspiciendam eam, jubet
+auferri de domo omnia, ita immunda non futura quae
+domus essent. Dehinc introgressus sacerdos, si invenisset
+cavositates viridicantes vel rubescentes, et adspectum
+<pb n="1022B"/>
+earum humiliorem citra parietinam formam; exiret ad
+januam et secerneret domum illam septem diebus. Dehinc,
+die septima regressus, si animadvertisset diffusum
+in parietibus tactum illum, imperaret extrahi eos lapides
+in quibus lepra fuisset, et abjici extra civitatem in
+locum immundum, et sumi alios lapides politos et solidos,
+et reponi loco pristinorum, et pulvere alio inlini
+domum <note>(Levit., XIV, 34-42)</note>
+          </hi>. Oportet enim cum pervenitur
+ad summum sacerdotem Patris Christum, de
+domo hominis nostri in tempore hebdomadis auferri
+omnia impedimenta prius, ut munda sit quae remanet
+domus, caro et anima; et ubi introierit eam sermo
+Dei, et invenerit maculas ruboris et viroris, extrahi
+statim, et abjici foras sensus mortiferos et cruentos;
+nam et Apocalypsis viridi equo mortem, russeo autem
+<pb n="1022C"/>
+praeliatorem imposuit <note>(Apoc., VI, 4, 8)</note>: proque
+illis politos et in compaginem aptos et firmos substruit
+lapides, quales in Abrahae fiunt, ut ita homo
+habilis Deo sit. <hi>Quod si post recuperationem et reformationem</hi> 
+<pb n="1023A"/>
+ <hi>rursus sacerdos animadverterit in eadem
+domo de pristinis caussis aliquid et maculis</hi>, <hi>immundam
+eam pronuntiavit, et jussit deponi materias et
+lapides et omnem structuram ejus, et abjici in locum
+immundum <note>(Levit., XIV, 43-45)</note>
+          </hi>. Hic erit homo caro
+atque anima, qui post baptisma et introitum sacerdotum
+reformatus, denuo resumit scabra et maculas
+carnis, et abjicitur extra civitatem in locum immundum;
+deditus scilicet Satanae in carnis interitum <note>(I Cor., V, 4, 5)</note>;
+nec amplius reaedificatur in Ecclesia
+post ruinam. Sic et de famulae concubitu, quae
+homini esset reservata, necdum redempta, necdum liberata: <hi>Prospicietur,</hi> 
+ inquit, <hi>illi, et non morietur <note>(Levit.,
+XIX, 20)</note>
+          </hi>, quia nondum est manumissa cui servabatur.
+Nondum enim caro a Christo manumissa, cui
+<pb n="1023B"/>
+servabatur, impune contaminabatur, ita jam manumissa
+non habet veniam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXI.</head>
+<p>Haec si Apostoli magis norant, magis utique curabant.
+Sed et in hunc jam gradum decurram, excernens
+inter doctrinam Apostolorum et potestatem.
+ Disciplina hominem gubernat, potestas adsignat,
+seorsum quod potestas, spiritus autem Deus. Quid
+autem docebat? non communicandum operibus tenebrarum <note>(Ephes., V, 11)</note>.
+Observa quod jubet. Quis
+autem poterat donare delicta? hoc solius ipsius
+est. <hi>Quis enim dimittit delicta, ni solus Deus <note>(Marc., II, 7)</note>
+          </hi>?
+et utique mortalia quae in ipsum fuerint
+admissa et in templum ejus; nam tibi quae in te
+reatum habeant, etiam septuagies septies juberis indulgere
+<pb n="1024A"/>
+in persona Petri <note>(Matth., XVIII, 22)</note>. Itaque,
+si et ipsos beatos Apostolos tale aliquid indulsisse
+ constaret, cujus venia a Deo, non ab homine,
+competeret, non ex disciplina, sed ex potestate fecisse.
+Nam et mortuos suscitaverunt, quod Deus solus;
+et debiles redintegraverunt, quod nemo nisi
+Christus; imo et plagas inflixerunt, quod noluit Christus.
+Non enim decebat eum saevire, qui pati venerat.
+Percussus est Ananias et Elimas, Ananias morte,
+Elimas caecitate <note>(Act., V, 5, XIII, 11)</note>, ut hoc ipso
+probaretur Christum et haec facere potuisse. Sic
+et prophetae caedem et cum ea moechiam poenitentibus
+ignoverant, quia et severitatis documenta fecerunt.
+ Exhibe igitur et nunc mihi, apostolice, prophetica
+exempla, et agnoscam divinitatem, et
+<pb n="1024B"/>
+vindica tibi delictorum ejuscemodi remittendorum
+potestatem. Quod si disciplinae solius officia sortitus
+es, nec imperio praesidere, sed ministerio, quis aut
+quantus es indulgere? qui neque prophetam, nec
+apostolum exhibens, cares ea virtute cujus est indulgere?
+Sed habet, inquis, potestatem Ecclesia delicti
+donandi. Hoc ego magis et agnosco et dispono, qui
+ipsum Paracletum in prophetis novis habeo dicentem:
+Potest Ecclesia donare delictum, sed non faciam,
+ne et alia delinquant. Quid, si pseudopropheticus
+spiritus pronuntiavit? Atqui magis eversoris
+fuisset, et semetipsum de clementia commendare, et
+caeteros ad delinquentiam temperare. Aut si et hoc
+secundum spiritum veritatis adfectare gestivit, ergo
+spiritus veritatis potest quidem indulgere fornicatoribus
+<pb n="1025A"/>
+veniam, sed cum plurium malo non vult. De tua
+nunc sententia quaero, unde hoc jus Ecclesiae usurpes.
+Si, quia dixerit Petro Dominus: <hi>Super hanc petram
+aedificabo Ecclesiam meam; tibi dedi claves regni coelestis,</hi> 
+vel: <hi>Quaecumque alligaveris vel solveris in terra,
+erunt alligata vel soluta in coelis <note>(Matth., XVI, 18,
+19)</note>
+          </hi>; idcirco praesumis et ad te derivasse solvendi
+et alligandi potestatem, id est ad omnem Ecclesiam
+Petri propinquam; qualis' es evertens atque commutans
+manifestam Domini intentionem personaliter
+hoc Petro conferentem: <hi>Super te,</hi> inquit, <hi>aedificabo
+Ecclesiam meam;</hi> et: <hi>Dabo tibi claves,</hi> non Ecclesiae;
+et: <hi>Quaecumque solveris vel alligaveris,</hi> non
+quae solverint vel alligaverint. Sic enim et exitus docet.
+In ipso Ecclesia exstructa est, id est per ipsum,
+<pb n="1025B"/>
+ ipse clavem imbuit; vide quam: <hi>Viri Israelitae,
+auribus mandate quae dico; Jesum Nazarenum virum
+a Deo vobis destinatum <note>(Act., II, 22)</note>
+          </hi>, et reliqua. Ipse
+denique primus in Christi baptismo reseravit aditum
+coelestis regni, quo solvuntur alligata retro delicta,
+et alligantur quae non fuerint soluta, secundum veram
+salutem; et Ananiam vinxit vinculo mortis; et
+debilem pedibus absolvit vitio valetudinis <note>(Act., III,
+7)</note>. Sic et in illa disceptatione custodiendae necne legis,
+primus omnium Petrus Spiritu instinctus, et de
+nationum vocatione praefatus: <hi>Et nunc,</hi> inquit, <hi>cur
+tentatis Dominum de imponendo jugo fratribus quod
+neque nos neque patres nostri sufferre valuerunt? Sed
+<pb n="1026A"/>
+enim per gratiam Jesu credimus nos salutem consecuturos
+sicut et illi <note>(Act., XV, 10, 11)</note>
+          </hi>. Haec sententia et
+solvit quae omissa sunt legis, et alligavit quae reservata
+sunt. Adeo nihil ad delicta fidelium capitalia
+potestas solvendi et alligandi Petro emancipata. Cui
+si praeceperat Dominus etiam septuagies delinquenti
+in eum fratri indulgere <note>(Matth., XVIII, 22)</note>; utique
+nihil postea alligare, id est retinere mandasset, nisi
+forte ea quae in Dominum, non in fratrem quis admiserit;
+praejudicatur enim non dimittenda in Deum delicta,
+cum in homine admissa donantur. Quid nunc et
+ad Ecclesiam, et quidem tuam, psychice? Secundum
+enim Petri personam spiritalibus potestas ista conveniet
+aut apostolo, aut prophetae. Nam et Ecclesia
+proprie et principaliter ipse est Spiritus in
+<pb n="1026B"/>
+quo est trinitas unius divinitatis, Pater et Filius et
+Spiritus Sanctus. Illam Ecclesiam congregat, quam
+Dominus in tribus posuit. Atque ita exinde etiam numerus
+omnis qui in hanc fidem conspiraverint, Ecclesia
+ ab auctore et consecratore censetur. Et ideo
+Ecclesia quidem delicta donabit; sed Ecclesia Spiritus
+per spiritalem hominem, non ecclesia numerus
+episcoporum: Domini enim, non famuli est jus
+et arbitrium; Dei ipsius, non sacerdotis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXII.</head>
+<p>At tu jam et in martyras tuos effundis hanc potestatem,
+ ut quisque ex consensione vincula induit
+adhuc mollia, in novo custodiae nomine, statim ambiunt
+<pb n="1027A"/>
+moechi, statim adeunt fornicatores, jam preces
+circumsonant, jam lacrymae circumstagnant maculati
+cujusque; nec ulli magis aditum carceris redimunt,
+quam qui Ecclesiam perdiderunt. Violantur
+viri ac foeminae in tenebris plane ex usu libidinum
+notis, et pacem ab his quaerunt qui de sua periclitantur.
+ Alii ad metalla confugiunt, et inde communicatores
+revertuntur, ubi jam aliud martyrium necessarium
+est delictis post martyrium novis. Quis enim
+in terris et in carne sine culpa? quis martyr saeculi
+incola, denariis supplex, medico obnoxius et
+foeneratori? Puta nunc sub gladio jam capite
+librato, puta in patibulo jam corpore expanso, puta
+in stipite jam leone concesso, puta in axe, jam
+incendio adstructo, in ipsa, dico, securitate et
+<pb n="1027B"/>
+possessione martyrii, quis permittit homini donare
+quae Deo reservanda sunt? a quo ea sine excusatione
+damnata sunt; quae nec apostoli, quod sciam, martyres
+et ipsi, donabilia judicaverunt. Denique jam ad
+bestias depugnaverat Paulus Ephesi <note>(I Cor. XV, 32)</note>,
+cum interitum decernit incesto <note>(I Cor. V, 3 sqq.)</note>.
+Sufficiat martyri propria delicta purgasse. Ingrati
+vel superbi est in alios quoque spargere quod pro
+magno fuerit consecutus. Quis alienam mortem sua
+solvit, nisi solus Dei Filius? Nam et in ipsa passione
+liberavit latronem <note>(Luc. XXIII, 43)</note>. Ad hoc enim venerat,
+ut ipse a delicto purus, et omnia sanctus pro
+peccatoribus obiret. Proinde, qui illum aemularis
+donando delicta, si nihil ipse deliquisti, plane patere
+pro me: si vero peccator es, quomodo oleum faculae
+<pb n="1027C"/>
+tuae sufficere et tibi et mihi poterit? Habeo etiam
+nunc quo probem Christum. Si propterea Christus in
+martyre est, ut moechos et fornicatores martyr absolvat,
+occulta cordis edicat, ut ita delicta concedat, et
+Christus est; sic enim Dominus Jesus Christus potestatem
+<pb n="1028A"/>
+suam ostendit: <hi>Quid cogitatis nequam in cordibus
+vestris? quid</hi> enim <hi>facilius est dicere paralytico,
+Dimittuntur tibi peccata, an, Surge et ambula? Igitur, ut
+sciatis Filium hominis habere dimittendorum peccatorum
+in terris potestatem, tibi dico,</hi> paralytice, <hi>Surge et ambula <note>(Matth. IX, 4, sqq.)</note>
+          </hi>.
+Si Dominus tantum de potestatis
+suae probatione curavit, uti traduceret cogitatus
+et ita imperaret sanitatem, ne non crederetur
+posse delicta dimittere, non licet mihi eamdem potestatem
+in aliquo sine eisdem probationibus credere.
+Cum tamen moechis et fornicatoribus a martyre expostulas
+veniam, ipse confiteris ejusmodi crimina
+nonnisi proprio martyrio diluenda, qui praesumis alieno.
+Quod si est, jam et martyrium aliud erit baptisma. <hi>Habeo</hi> 
+ enim, inquit, <hi>et aliud baptisma (Luc. XII,
+<pb n="1028B"/>
+50)</hi>. Unde et ex vulnere lateris Dominici aqua et sanguis,
+utriusque lavacri paratura, manavit <note>(Joan. XIX,
+34)</note>. Debeo ergo et primo lavacro alium liberare, si
+possum secundo, ingeramusque in sinum necesse
+est. Quaecumque auctoritas, quaecumque ratio
+moecho et fornicatori pacem ecclesiasticam reddit,
+eadem debebit et homicidae et idololatrae poenitentibus
+subvenire, certe negatori, et utique illi quem in
+praelio confessionis tormentis colluctatum saevitia dejecit.
+Caeterum, indignum Deo et illius misericordia,
+qui poenitentiam peccatoris morti praevertit, ut facilius
+in Ecclesiam redeant, qui subando, quam qui dimicando
+ceciderunt. Urget nos dicere indignitas.
+Contaminata potius corpora revocabis quam cruentata?
+quae poenitentia miserabilior, titillatam prosternens
+<pb n="1028C"/>
+carnem, an vero laniatam? quae justior venia in omnibus
+caussis, quam voluntarius, an quam invitus peccator
+implorat? Nemo volens negare compellitur, nemo
+nolens fornicatur: nulla ad libidinem vis est, nisi
+ipsa; nescit quod libet cogi. Negationem porro
+<pb n="1029A"/>
+quanta compellunt ingenia carnificis et genera poenarum?
+Quis magis negavit, qui Christum vexatus, an
+qui delectatus amisit? qui cum amitteret, doluit?
+an qui cum amitteret lusit? Et tamen illae cicatrices
+christiano praelio insculptae, et utique invidiosae
+apud Christum, quia vicisse cupierunt, et sic quoque
+<pb n="1030A"/>
+gloriosae, quia non vincendo cesserunt, in quas adhuc
+et diabolus ipse suspirat, cum sua infelicitate, sed
+casta; cum poenitentia moerente, sed non erubescente
+ad Dominum de venia. Denuo dimittitur eis qui piaculariter
+negaverunt; solis illis caro infirma est.
+Atqui nulla tam fortis caro, quam quae spiritum elidit.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1890" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Pier Paolo Vergerio / Tübingen an Heinrich Bullinger / Zürich, 4. Juni 1553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/1890</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="23086" type="transcription">S. 3148</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,521 ff.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Mitto nunc proprium nuncium nec putavi exiguo huic sumptui parcendum, ut iuvaremus exulem Jesu Christi</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>F. Hubert, V's publiz. Thätigkeit 125 (vgl. 32, 128 f)</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 79,130</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p3375" cert="high"/>
+					<placeName ref="l512" cert="high"/>
+					<date when="1553-06-04" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="998">Latein</language>
+				<language ident="de" usage="2">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t2"/>
+					<category n="t11"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1890!Autograph!00%20E_II_356__S__521_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">1890/Autograph/00 E_II_356__S__521_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1890!Autograph!01%20E_II_356__S__522_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">1890/Autograph/01 E_II_356__S__522_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1890!Autograph!02%20E_II_356__fol__523_r_.tif/full/max/0/default.jpg" n="3">
+				<desc subtype="path">1890/Autograph/02 E_II_356__fol__523_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1890!Autograph!03%20E_II_356__fol__523_v_.tif/full/max/0/default.jpg" n="4">
+				<desc subtype="path">1890/Autograph/03 E_II_356__fol__523_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">Clarissime atque idem charissime mi <persName ref="p495">Bullinger</persName>i.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la">Mitto nunc proprium nuncium nec putavi exiguo huic sumptui parcendum, ut iuvaremus exulem Iesu Christi, <persName ref="p974">Molineum</persName> tuum, non ingnare mali miseris succurrere disco.</s>
+					<s n="3" xml:lang="la">Res sic se habet.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la">Quum abesset d. comes, sumpsi ego agendam causam hominis apud ducem; egi, quin et tua usus sum autoritate; nam dixi te mihi <persName ref="p974">Molineum</persName> commendasse.</s>
+					<s n="5" xml:lang="la">Benigne dux respondit; sed heri misit ad me epistolam, quam nuper ab ipso exule acceperat, qui nempe id petebat, quod iam ego pro eo petieram, et mandavit mihi, ut significem illi, <placeName ref="l512">Tubingam</placeName> ut veniat et videret, si civitatula placeat, si viri, si reliqua; nam si placeret se<note type="margin">a.R.: gestrichen?</note> illi conditionem offerre, ut hic proffiteretur ius civile.</s>
+					<s n="6" xml:lang="la">Ita itaque mihi mandavit princeps.</s>
+					<s n="7" xml:lang="la">Nunc ego, ni ipsum videar parvifacere et oblatum beneficium, putavi omnia ad te esse scribenda, ad te, inquam, cuius auspiciis res coepta est agi, ut tu fratrem illum nostrum moneas de voluntate ducis.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la">Certe nimium differebamus, si nullum nuncium misissem et voluissem egomet tibi haec nunciare coram.</s>
+					<s n="9" xml:lang="la">Scio exules solere sollicitos atque anxios esse, dum expectant, in quem portum sint navigaturi; ideo, inquam, sumptui nollui parcere ob gloriam domini.</s>
+					<s n="10" xml:lang="la">Interim scias, velim, me ad <persName ref="p19001">Lactantium</persName> meum illum <placeName ref="l167">Genevam</placeName> scripsisse, ut Molineum moneat nos causam eius agere; sed tu nichilominus omnia ordine ad ipsum exarabis.</s>
+					<s n="11" xml:lang="la">Dux multa mecum de <placeName ref="l587">Tigurinis</placeName> past[oribus]; sed ea in meum adventum reservo, quem spero fore futurum ad 15 usque dies.</s>
+					<s n="12" xml:lang="la">Verto duos libellos principis iussu.</s>
+					<s n="13" xml:lang="la">Dux <persName ref="p18250">Mauritius</persName> et <placeName ref="l1041">Brunsvicensis</placeName> mittunt subsidio episcopis 5 m peditum et longe plures equites; res est certa.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la">Oro te, frater, quaere diligenter apud hospitem <persName>Ciconiae</persName> et apud <persName>Zieglerum</persName>, num forte ullę essent literę, quae ad me pertinerent, et eas da huic nuncio ferendas ad me, quin, si <persName>Aurelius</persName> forte <placeName ref="l587">Tigurum</placeName> venisset, iube eum cum nuncio hoc ad me venire, quamquam parum spero; nam si sperarem, mitterem equum pro eo.</s>
+					<s n="15" xml:lang="la">Sed si forte, inquam, advenisset, huc ad me se recipiat nunc cum ipso nuncio, si velit, aut si nolit, abeat, quo illi libitum fuerit.</s>
+					<s n="16" xml:lang="la" ana="salute">Praeterea te oro, ut has, quas hic addam, <placeName ref="l98">Curiam</placeName> mittas; da hospiti <persName>Ciconiae</persName> et diligenter commenda.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la">Ducatum <placeName ref="l2530">Lusitanum</placeName>, quem in literis hisce invenies, mitte <placeName ref="l28">Basileam</placeName> ad <persName>Iacobum Parcum</persName> cum libello, quem etiam hic adiungam, at primo quoque tempore, at per fidum aliquem virum.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la">Iter hoc fuit omnino in nomine domini susceptum et benedictum ab eo; ita video multa foeliciter cadere; illi laus et gloria in saecula saeculorum, qui suos non deserit; fidelis enim est.</s>
+					<s n="19" xml:lang="la">Iosias meus bene habet; prodest illi mirum in modum praxis haec et se rebus ferendis probe accomodat.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Iam finem facio.</s>
+					<s n="21" xml:lang="la">Tu ad nos de rebus omnibus diligenter.</s>
+					<s n="22" xml:lang="la" ana="salute">Salutat te <persName ref="p8113">Wolmarius</persName>, hospes noster, certe vir eximius.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" ana="salute">Salvere iubeo totam familiam, totam scholam, totam ecclesiam.</s>
+					<s n="24" xml:lang="la">D. Iesus benedicat tuis laboribus.</s>
+					<s n="25" xml:lang="la">Fiat, fiat.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la"><placeName ref="l512">Tubingae</placeName> 4. iunii 1553.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la"><persName ref="p3375">Vergerius</persName>.</s>
+				</p>
+				<p>
+					<note>[Von anderer Hand:]</note>
+					<s n="28" xml:lang="la">Clarissimo viro domino <persName ref="p495">Heinricho Bullingero</persName>.</s>
+					<s n="29" xml:lang="de"><placeName ref="l587">Zürich</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

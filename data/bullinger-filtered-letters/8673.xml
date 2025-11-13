@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8673" type="Brief" source="TUSTEP" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an Tobias Egli (Iconius, Götz) / Chur, 28. September 1571</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url" resp="icl">https://www.bullinger-digital.ch/letter/8673</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="b45" n="41084" type="transcription">S. 7705/98</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 342,632</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Intermissum iam diebus aliquot scribendi officium nunc repeto; sed brevibus tecum agam</incipit>
+							<textLang>Latein</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graubünden, Korr. III, S. 260f R., Nr. 260</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName ref="p495" cert="high"/>
+					<placeName ref="l587" cert="high"/>
+					<date when="1571-09-28" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8016" cert="high"/>
+					<placeName ref="l98" cert="high"/>
+				</correspAction>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="969">Latein</language>
+				<language ident="de" usage="31">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+					<category n="t10"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<revisionDesc status="untouched">
+			<change>init</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8673!Autograph!00%20E_II_342__fol__632_r_.tif/full/max/0/default.jpg" n="1">
+				<desc subtype="path">8673/Autograph/00 E_II_342__fol__632_r_.tif</desc>
+			</graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8673!Autograph!01%20E_II_342__fol__632_v_.tif/full/max/0/default.jpg" n="2">
+				<desc subtype="path">8673/Autograph/01 E_II_342__fol__632_v_.tif</desc>
+			</graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la">S. D.</s>
+					<s n="2" xml:lang="la">Intermissum iam diebus aliquot scribendi officium nunc repeto; sed brevibus tecum agam, quod, ut antea negotiis impeditus nullas ad te literas dedi, ita negotiis nondum plene me explicavi, ut brevis esse cogar.</s>
+					<s n="3" xml:lang="la">Gener meus <persName ref="p8442">Simlerus</persName> et ego miro tenemur desiderio sciendi, quid in coetu illo, de quo ultimo scribebas et nos nostrum suggerebamus consilium, sit factum.</s>
+					<s n="4" xml:lang="la">Utinam feliciter successerint omnia!</s>
+					<s n="5" xml:lang="la">Nos hic per dei gratiam sic valemus recte satis; sed mirum in modum perseverans illa nos urit et urget omnium rerum caritas.</s>
+					<s n="6" xml:lang="la">Dubium non est, quin manus domini sit super nos, atque utinam agnosceremus omnes et clementiam dei imploraremus et emendaremur.</s>
+					<s n="7" xml:lang="la">Certe magistratus noster in urbe et agro supplicationem instituit, quam, quod felix et faustum sit, incoepimus huius mensis 25.; formam impressam* his inclusi<note type="margin">a.R.: cf. "Gmein gebätt" v. 19. sept. 1571, Simml. -S. 125, 17.</note>.</s>
+					<s n="8" xml:lang="la">Dominus misereatur nostri!</s>
+					<s n="9" xml:lang="la">D. <persName ref="p8033">Beza</persName> hac septimana literas misit datas partim 19. partim 21. huius mensis; in iis significat <placeName ref="l167">Genevae</placeName> multos mori viros bonos et nuper excessisse etiam d. <persName>Ezram Rosetum</persName>, virum certe bonum etc.</s>
+					<s n="10" xml:lang="la">Clausa est schola, dispersa omnia.</s>
+					<s n="11" xml:lang="la">Strenue ille suum tuetur locum; dominus illi adesse dignetur et ipsum servet ecclesiae suae!</s>
+					<s n="12" xml:lang="la">Addit certo d. <persName>admirallium Rupella</persName> evocatum a rege in aulam; paruisse hunc regi et exceptum a rege summo honore et summa benevolentia, summa item esse in gratia, unde <placeName>Guysiani</placeName> exciderint et ex aula in sua se contulerint.</s>
+					<s n="13" xml:lang="la">Res mira est, si dolus nullus subest; verum haec sunt opera domini.</s>
+					<s n="14" xml:lang="la">Hunc oremus, ut pacem <placeName ref="l832">Galliae</placeName> concessam firmet, turbatores constringat bonosque protegat.</s>
+					<s n="15" xml:lang="la">Turcae dicuntur dominari in <placeName ref="l2495">Dalmatia</placeName> et navibus suis in ipsum prope conspectum <placeName>Venetiarum</placeName> apparere, de quo certiora a te expecto.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la"><persName ref="p1227">Froschouerus</persName> nondum rediit <placeName ref="l157">Francfordia</placeName>; cum redierit, scribam, si quid attulerit memoratu dignum.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" ana="farewell">Vale cum tota domo tua, d. <persName ref="p8057">Campello</persName>, d. <persName ref="p6130">Pontisella</persName>, d. d. consulibus, <persName ref="p8186">Bonetto</persName>, <persName ref="p18489">Gregorio</persName> et omnibus nostris.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la"><placeName ref="l587">Tiguri</placeName> 28. septembris 1571.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la"><persName ref="p495">Bullingerus</persName> tuus.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la">Eximio Iesu Christi servo d. <persName ref="p8016">Tobiae Eglio</persName>, ecclesiae <placeName ref="l98">Curiensis</placeName> ministro fideli, fratri meo et symmystae dilecto.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de">An h[erren] <persName ref="p8016">Thobias Egli</persName>, pfarreren zuͦ Sant Martin zuͦ <placeName ref="l98">Chur</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

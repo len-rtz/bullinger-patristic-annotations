@@ -1,0 +1,2423 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Tobia</title>
+              <author ref="http://viaf.org/viaf/100227669">Ambrosius Mediolanensis<date>340-397</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1845</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 14</title>
+           <idno>AmbMed.DeTob</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De Tobia</head>
+
+<pb n="0759"/>
+<emph>591</emph> 
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p divs_removed="true"> <hi>Proponit se de Tobiae virtutibus quas historice Scriptura
+commemorat, brevius dicturum: et primo qui captivitatem,
+et in ipsa ob exhibitam sepulturam, exsilium
+tulerit, narrat. Deinde quomodo reversus ab eodem officio
+non destiterit: ubi et hoc mortuos sepeliendi munus
+praedicatur.</hi> 
+<pb n="0759A"/>
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ Lecto prophetico libro qui inscribitur Tobias,
+quamvis plene vobis virtutes sancti prophetae Scriptura
+insinuaverit, tamen compendiario mihi sermone
+de ejus meritis recensendis et operibus apud
+vos utendum arbitror; ut ea quae Scriptura
+historico more digessit latius, nos strictius comprehendamus,
+virtutum ejus genera velut quodam
+breviario colligentes.</p>
+          </div3>
+<pb n="0759B"/>
+
+<div3>
+            <head>2. </head>
+            <p>
+Fuit vir justus, misericors, hospitalis, et hoc
+<pb n="0760A"/>
+virtutum praeditus choro, subiit aerumnam captivitatis,
+quam ferebat humiliter atque patienter, communem
+magis injuriam, quam privatam dolens <note>(Tob. I,
+2 et seq.)</note>; nec sibi virtutum suffragia nihil profuisse
+deplorans, sed magis eam sibi contumeliam minorem
+peccatorum suorum pretio illatam arbitratus <note>(Tob. III, 1 et seq.)</note>.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Meruit edictum, ne quis ex filiis captivitatis
+mortuum sepulturae daret <note>(Tob. I, 22)</note>. At ille interdicto
+non revocabatur magis quam incitabatur, ne
+deserere officium pietatis, mortis metu videretur;
+erat enim misericordiae pretium, mortis poena. Talis
+flagitii deprehensus reus, vix tandem per amicum
+potuit direpto patrimonio egenus et exsul restitui suis. <emph>592</emph>
+</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Iterum in his versabatur officiis; et si quid
+alimenti foret, peregrinum cum quo cibum sumeret,
+<pb n="0760B"/>
+quaerebat. Itaque cum fessus a sepulturae revertisset
+<pb n="0761A"/>
+munere, appositis sibi edendi subsidiis, misso filio,
+quaerebat consortem convivii <note>(Tob. II, 1 et seq.)</note>. Dum
+conviva accersitur, nuntiatis insepulti corporis reliquiis,
+convivium deserebat: nec putabat pium, ut ipse
+cibum sumeret, cum in publico corpus jaceret exanime.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Hoc illi quotidianum opus, et magnum opus, et
+magnum quidem. Nam si viventes operire nudos Lex
+praecipit, quanto magis debemus operire defunctos?
+Si viantes ad longiora deducere solemus, quanto
+magis in illam aeternam domum profectos, unde
+jam non revertantur? <hi>Ego,</hi> inquit Job, <hi>super omnem
+infirmum flevi <note>(Job. XXX, 25)</note>
+            </hi>. Quis infirmior defuncto,
+de quo dicit Scriptura alibi: <hi>Super mortuum plora <note>(Eccli. XXII, 10)</note>
+            </hi>?
+Ecclesiastes autem ait: <hi>Cor sapientum
+<pb n="0761B"/>
+in domo luctus: cor autem stultorum in domo epulantium <note>(Eccle. VII, 5)</note>
+            </hi>.
+Nihil hoc officio praestantius,
+ei conferre qui tibi jam non possit reddere, vindicare
+a volatilibus, vindicare a bestiis consortem naturae.
+Ferae hanc humanitatem defunctis corporibus detulisse
+produntur, homines denegabunt!
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Qua ratione Tobias caecitatem tulerit, ne quid furti admitteretur
+caverit, et commodatam Gabelo pecuniam
+non repetierit, nisi senio fessus: denique quam abhorruerit
+a fenore malo, cum detestatione ejusdem, et
+boni commendatione.</hi> </p>
+<div3>
+            <head>6.</head>
+            <p>
+ Tam sancto fessus officio Propheta dum requiescit
+ in cubiculo suo, cadente de passerum nido albugine
+<pb n="0761C"/>
+caecitatem incidit <note>(Tob. II, 6, 10 et seq.)</note>, nec <emph>593</emph> 
+ conquestus ingemuit, nec dixit: Haec merces
+laborum meorum. Fraudari magis se doluit obsequiorum
+quam oculorum munere: nec caecitatem poenam,
+sed impedimentum putabat. Et cum victum mercede
+levaret conjugis, ne quid furtivum domum suam
+intraret cavebat: uxor hoedum pro mercede acceperat;
+at ille plus honestati quam pietati consulens,
+cui suam debebat alimoniam. Commendaverat
+proximo suo pecuniam quamdam quam toto vitae suae
+tempore in tanta indigentia non poposcit. Vix ubi
+se fessum vidit, et depositum senectute, insinuavit
+filio, non tam cupiens commendatum reposcere,
+quam sollicitus ne fraudaret haeredem.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Quod igitur commendavit pecuniam, et non
+<pb n="0762A"/>
+feneravit, justi servavit officium. Malum est enim
+fenus quo quaeruntur usurae: sed non illud fenus
+malum, de quo scriptum est: <hi>Fenera proximo tuo
+in tempore necessitatis illius <note>(Eccl. XXIX, 2)</note>
+            </hi>. Nam et
+David ait: <hi>Justus miseretur et commodat <note>(Ps. XXXVI,
+21)</note>
+            </hi>. Aliud illud fenus est jure exsecrabile, dare in
+usuram pecuniam, quod Lex prohibet <note>(Deut. XXIII,
+19)</note>. Sed Tobias hoc refugiebat, qui monebat filium,
+ne praeceptum Domini praeteriret, ut ex substantia
+sua eleemosynam faceret, non pecuniam feneraret,
+non averteret faciem suam ab ullo paupere <note>(Tob. IV,
+6 et seq.)</note>. Haec qui monet, condemnat usuras fenoris,
+ex quo multi quaestum fecerunt, et multis commodare
+pecunias negotiatio fuit. Et quidem eam prohibuerunt
+sancti.
+<pb n="0762B"/>
+</p>
+          </div3>
+<div3>
+            <head>8. </head>
+            <p>
+Quo gravius malum fenus est, eo laudabilior
+qui illud refugit. Da pecuniam si habes, prosit alii
+quae tibi otiosa est. Da quasi non recepturus, ut
+lucro cedat, si reddita fuerit. Qui non reddit pecuniam,
+reddit gratiam: si fraudaris pecunia, acquiris
+justitiam; justus est enim qui miseretur et commodat.
+Si amittitur pecunia, comparatur misericordia.
+Scriptum est enim: <hi>Qui facit misericordiam, fenerat
+proximo <note>(Eccli. XXIX, 1)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Ambrosius feneratorum inhumanitatem in pauperes, et
+eorum artes quibus illos sibi addicunt, oculis subjicit;
+ac demum in eosdem invehitur.</hi> </p>
+<div3>
+            <head>9.</head>
+            <p>
+ Multi dispendii metu non fenerant, dum fraudem
+<pb n="0762C"/>
+verentur. Et hoc est quod petentibus consueverunt
+referre. Horum unicuique dicitur: <hi>Perde
+pecuniam propter fratrem et amicum, et non abscondas
+illam sub lapide in perditionem. Pone thesaurum tuum
+in praeceptis Altissimi, et proderit tibi magis quam
+aurum <note>(Ibid., 13 et 14)</note>
+            </hi>. Sed obsurduerunt aures
+hominum ad tam salutaria praecepta, et maxime divites
+aere illo suae pecuniae aures clausas habent.
+Dum pecuniam numerant, responsa non audiunt.
+Simul ut aliquis necessitate constrictus, aut pro
+suorum redemptione sollicitus, quos captivos barbarus
+vendit, rogare coeperit, statim dives vultum
+avertit, naturam non recognoscit, humilitatem supplicis
+non miseretur, necessitatem <emph>594</emph> non sublevat,
+fragilitatem communem non considerat, stat inflexibilis,
+<pb n="0763A"/>
+resupinus, non precibus inclinatur, non lacrymis
+movetur, non ejulatibus frangitur, jurans quod
+non habeat, immo et ipse feneratorem requirat, ut
+necessitatibus subveniat suis. Quid addis duritiae et
+avaritiae tuae sacramentum? Non absolveris perjurio,
+sed ligaris.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ At ubi usurarum mentio facta fuerit, aut pignoris;
+tunc dejecto supercilio fenerator arridet, et
+quem ante sibi cognitum denegabat, eumdem tamquam
+paternam amicitiam recordatus osculo excipit,
+haereditariae pignus charitatis appellat, flere prohibet.
+Quaeremus, inquit, domi si quid nobis pecuniae est,
+frangam propter te argentum paternum quod fabrefactum
+est, plurimum damni erit: quae usurae compensabunt
+pretia emblematum? Sed pro amico
+<pb n="0763B"/>
+dispendium non reformidabo, cum reddideris, reficiam.
+Itaque antequam det, recipere festinat: et qui
+in summa subvenire se dicit, usuras exigit. Kalendis,
+inquit, usuras dabis: fenus interim, si non habueris
+unde restituas, non requiro. Ita ut semel det,
+frequenter exagitat, et semper sibi debere efficit.
+Hac arte tractat virum. Itaque prius eum chirographis
+ligat, et astringit vocis suae nexibus. Numeratur
+pecunia, addicitur libertas, absolvitur miser minore
+debito, majore ligatur.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Talia sunt vestra, divites, beneficia. Minus
+datis, et plus exigitis. Talis humanitas, ut spolietis
+etiam cum subvenitis. Fecundus vobis etiam pauper
+est ad quaestum. Usurarius est egenus, cogentibus
+vobis, habet quod reddat: quod impendat, non habet.
+<pb n="0763C"/>
+Misericordes plane viri, quem alii absolvitis,
+vobis addicitis. Usuras solvit, qui victu indiget. An
+quidquam gravius? Ille medicamentum quaerit, vos
+offertis venenum: panem implorat, gladium porrigitis:
+libertatem obsecrat, servitutem irrogatis:
+absolutionem precatur, informis laquei nodum stringitis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Qua ratione feneratores Judae et diabolo comparentur;
+et quid significetur nominibus creditoris, fenoris,
+sortis, ac debitoris?</hi> </p>
+<div3>
+            <head>12.</head>
+            <p>
+ Hanc praecipue injustitiam deplorat sanctus
+David dicens: <hi>Vidi iniquitatem et contradictionem in
+civitate; et non defecit de plateis ejus usura et dolus <note>(Ps. LIV, 11 et 12)</note>
+            </hi>.
+Itaque cum proditionem Judae
+<pb n="0763D"/>
+subjecerit, hoc praemisit, sive quod ultra sacrilegii
+invidiam, conjuratis Dominicae necis fenoris crimen
+accideret, sive quod tantum sacrilegium satis abundeque
+usura fenoris ultum iret. Mali feneratores qui
+<pb n="0764A"/>
+dederunt pecuniam ut interficerent auctorem salutis:
+mali et isti, qui dant ut interficiant innocentem. Et
+iste quoque qui pecuniam acceperit, ut proditor Judas,
+laqueo se et ipse suspendit. Ipsum quoque Judam
+hoc maledicto <emph>595</emph> putavit esse damnandum, ut
+scrutaretur fenerator ejus substantiam <note>(Ps. XVIII,
+11)</note>; quia quod proscriptio tyrannorum, aut latronum
+manus operari solet, hoc sola feneratoris nequitia
+consuevit inferre. Doctiores autem ipsum feneratori
+putant diabolum comparatum, qui res animae, et
+pretiosae mentis patrimonium fenore quodam usurariae
+iniquitatis evertit, sic sumptu capit, sic auro
+illicit, sic reatu involvit, sic caput thesauro reposcit.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Quid vobis iniquius, qui nec sic capitis solutione
+<pb n="0764B"/>
+estis contenti? Quid vobis iniquius, qui pecuniam
+datis, et vitam obligatis et patrimonium? Accipitis
+aurum argentumque pro pignore, et adhuc illum
+debitorem dicitis, qui vobis plus credidit, quam
+accepit a vobis? Vos creditores asseritis, qui amplius
+debetis: vos, inquam, dicitis creditores, qui non
+homini, sed pignori credidistis. Bene fenus appellatur
+quod datis, ita vile ac feneum est.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Sortem dicitis quod debetur. Etenim velut
+urna ferali misera sors volvitur, perituri debitoris
+luenda supplicio. Stant pallentes rei ad sortis eventum.
+Non sic trepidant de quorum damnatione sors
+ducitur: non sic dejecti ac suspensi pavitant, de
+quorum captivitate exspectatur sortis eventus. Illic
+enim unius captivitas, hic plurimorum addicitur.
+<pb n="0764C"/>
+Et fortasse ideo sors, quia in eventu sunt patrimonia
+ quae sub hac sorte volvuntur. Magnum et memorabile
+beneficium Dei. Hoc specialiter ore prophetico
+praedicatur, quod in patres contulit, quia <hi>ex usuris
+et iniquitate liberavit eos <note>(Ps. LXXI, 14)</note>
+            </hi>. Et proprie
+ait: <hi>Ex usuris liberavit eos,</hi> quia usurae inferunt servitutem.
+Quasi diceret, ex servitutis vinculo ereptos
+reddidit libertati.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Grave vocabulum debitorum. Debita peccata
+dicuntur. Debitores quoque criminosi appellantur;
+sic enim et isti sicut et illi de capite decernunt.
+Culpae tamen habent nominum suorum, ut factorum
+diversitatem. Debita quamvis diversae quantitatis,
+unum habent nomen, unum onus, unum periculum.
+Nescit ergo quid poscat infelix, qui pecuniam petit
+<pb n="0764D"/>
+mutuam: quid accipiat, ignorat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Pecunia feneratorum mari comparatur: hanc ubi quis
+accepit, statim nebulonum turbam ad se attrahit;
+ubi et de sortibus utriusque Testamenti. Consumpta
+per intemperantiam illa pecunia, miserum ad vendendam
+supellectilem fenerator adigit, aut inducias
+concedit, sed bellicis ipsis tristiores: sequitur demum
+nimis sera stultitiae poenitentia.</hi> 
+<pb n="0764D"/>
+          </p>
+<div3>
+            <head>16. </head>
+<p>
+              <pb n="0765A"/>Non novit pecunia feneratoris uno diutius loco
+stare, solita transire per plurimos. Uno teneri sacculo
+nescit, versari ac numerari expetit: usum requirit,
+ut acquirat usuram. Fluctus quidam est maris,
+non fructus. Pecunia numquam quiescit. Labitur,
+velut scopulo <emph>596</emph> illisa, ita gremium debitoris percutit,
+et continuo relabitur eo unde processit. Cum
+murmure venit, cum gemitu revertitur. Frequenter
+tamen placidum stat ventis mare, semper fenoris
+<pb n="0765B"/>
+unda jactatur. Mergit naufragos, exspuit nudos, vestitos
+exuit, insepultos relinquit. Nummum ergo petis,
+et naufragium suscipis. Hinc Charybdis circumstrepit,
+hinc Sirenae quae voluptatis specie, et canorae
+dulcedinis suavitate in vada deductos caeca, repetendae
+domus, ut ferunt fabulae, spe et cupiditate fraudabant <note>(Homer. Odyss. M.)</note>.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Statim venditores unguenti et diversarum
+specierum irruunt, velut quidam canes sagaci praedae
+vagantis odore perstricti, venatores, piscatores,
+aucupes, caupones quoque miscentes mero aquam,
+qui nobilitatem vetusti generis et patriae, et natalem
+diem vini circumsonent: circumstantes repente parasiti
+quem ante solebant spernere, salutant, deducunt,
+ad laetitiam provocant, ad sumptum incitant
+<pb n="0765C"/>
+dicentes: <hi>Venite, et fruamur bonis quae sunt, et utamur
+creatura tamquam in juventute celeriter: vino pretioso
+et unguentis nos impleamus, et non praetereat nos flos
+temporis. Coronemus nos rosis antequam marcescant,
+nullum pratum sit quod non pertranseat luxuria nostra,
+ubique relinquamus signa laetitiae, quoniam haec
+est pars, et haec est sors nostra <note>(Sap. II, 6 et seq.)</note>
+            </hi>. Et
+vere sors omnis illorum facta est: tu autem remanes
+exsors bonorum.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Non tales sortes tibi Scriptura monstravit.
+Non inter tales sortes David sanctus memorat dormiendum
+dicens: <hi>Si dormiatis inter medias sortes <note>(Psal. LXVII, 14)</note>
+            </hi>.
+Nam si in medio illarum dormisses
+sortium, id est, veteris et novi Testamenti, non te
+pecuniae cupiditas in voraginem deterrimi fenoris
+<pb n="0765D"/>
+demersisset, gratia spiritalis fidei tibi dedisset argentum,
+et in speciem auri divinae sapientiae institutione
+formasset. Etenim si nos unum testimonium
+divinae Scripturae posuimus, et luxuriosum illud
+convivium declinavimus, utique potuit et iste salvari,
+si oraculis coelestibus inhaesisset.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Revertamur tamen ad convivium, non ut ejus
+<pb n="0766A"/>
+degustemus epulas, sed cavendas aliis demonstremus.
+Oneratur mensa peregrinis et exquisitis cibis:
+adhibentur nitentes ministri, magno empti pretio,
+sumptu pascendi majori: bibitur in noctem, dies convivio
+clauditur, ebrietati deficit. Surgit ille vini plenus,
+vacuus opum, dormit in lucem, vigilans somnium
+putat. Etenim ut in somniis sibi videtur subito
+dives ex paupere, sic etiam egenus ex divite. Dum
+defluit interim pecunia, usura superfluit: tempus
+minuitur, fenus augetur: thesaurus exinanitur, sors
+accumulatur: paulatim convivae se subtrahunt, sponsores
+conveniunt: mane fenerator pulsat ad januas,
+queritur dies solutioni transiisse praescriptos, injuriis
+vigilantem adoritur, in somnis dormientem excitat.
+Non noctes quietae, non dies suavis est, non
+<pb n="0766B"/>
+sol jucundus. Detrahuntur paulatim deauratae ac
+sericae vestes, et vaeneunt dimidio minoris. Ponit
+cum lacrymis ornamenta <emph>597</emph> conjux jam tristior,
+empta charius, vendenda vilius. In auctione pueri
+constituuntur mensae ministri, et male assueti
+emptorem avertunt. Offertur pecunia creditori: Vix,
+inquit, haec solvit usuram, caput debes.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Redit exhausto patrimonio capitis reus; et
+imminuto fenore, accipit inducias tristiores bellicis,
+quasi post biduum praeliaturus. In bello enim incerta
+victoria, hic certa inopia: illic se clypeo tegit, hic
+nudus occurrit: illic lorica pectus includit, hic totus
+carcere includitur: illic manus telis onerat, armat
+sagittis, hic aere vacuas offert vinculis alligandas.
+Ducitur plerumque uterque captivus: ille habet quem
+<pb n="0766C"/>
+accuset adversum belli eventum, hic praeter se quem
+accuset, non habet. Nihil est intolerabilius hac miseria,
+quae excusari non potest. Acerbat conscientia
+pondus injuriae.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Tunc secum reputat, tunc Scripturas recordatur,
+tunc dicit: Nonne mihi scriptum est: <hi>Bibe
+aquam de tuis vasis, et de tuorum puteorum fontibus <note>(Prov. V, 15)</note>
+            </hi>.
+Quid mihi cum puteo feneratoris,
+ubi et aqua includitur <note>(Prov. XV, 17)</note>. Suaviora erant
+olera cum securitate, quam alienae epulae pastae
+cum sollicitudine. Non oportuit aliena quaerere.
+Deinde incideram debita, de meis oportuit fontibus
+remedium quaerere. Erant domi vasa minutiora:
+melius erat ministerium deesse, quam cibum: melius
+vestem venalem proponere, quam libertatem
+<pb n="0766D"/>
+addicere. Quid profuit quod publicare paupertatem
+meam verecundatus sum? Ecce alius publicavit. Ego
+nolui nutritores vendere, ecce alius adjudicat.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Sera haec consideratio. Tunc decuit metuisse
+tuis, cum acciperes aliena: tunc decuit succurrere,
+cum vulnera prima proserperent. Melius fuerat
+in principio tenuare sumptum, et necessitatem
+<pb n="0767A"/>
+debiti rei familiaris angustiis allevare, quam ut
+ad horam ditatus alienis, postea exuereris et propriis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Quanta moliantur feneratores; ut incautos adolescentes
+depraedentur.</hi> </p>
+<div3>
+            <head>23.</head>
+            <p>
+ Accusamus debitorem quod imprudentius se
+gesserit: sed tamen nihil nequius feneratoribus,
+qui aliena damna lucra sua arbitrantur; et dispendio
+suo deputant quidquid ab aliis possidetur. Aucupantur
+haeredes novos, adolescentulos divites explorant
+per suos, adjungunt se, simulantes paternam et
+avitam amicitiam, volunt domesticas eorum cognoscere
+necessitates. Si quam causam invenerint, accusant
+<pb n="0767B"/>
+verecundiam, pudorem arguunt, quod non ante
+de se speratum fuerit atque praesumptum. Sin vero
+nullos laqueos alicujus necessitatis offenderint, intexunt
+tabulas, aiunt nobile praedium esse venale,
+amplam domum: accumulant proventus fructuum,
+annuos reditus exaggerant, hortantur ut coemant.
+Similiter faciunt pretiosas vestes, et monilia nobilia
+praedicantes. Neganti se habere pecuniam, <emph>598</emph> 
+ingerunt suam dicentes: Utere ut tua: de fructibus
+emptae possessionis pretium multiplicabis, debitam
+reddes.</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Praetendunt alienos fundos adolescenti, ut
+eum suis exspolient: tendunt retia, simul ut indagine
+cincta spatia fuerit ingressus, cogunt eum in retia
+cautionum, laqueos usurarum: petunt obligari sibi
+<pb n="0767C"/>
+avitum praetorium, paternum sepulcrum: praestituitur
+dies solutioni, dissimulatur conventio, quando
+potest solutio sustineri; ubi satis securum reddiderint,
+repente ingruunt, et instant vehementius, causanti
+incumbunt dicentes: Tu possides tua praedia,
+nos nostram pecuniam non habemus: aurum dedimus,
+ lignum tenemus: tibi fructuum emolumenta
+procedunt, nobis nihil accrescit pecuniae. Otiosa causatio
+est, saltem renovetur chirographum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Quam sollicite feneratorem fugiat debitor, et cujusmodi
+sit utriusque occursus: quomodo hic dilatione
+accepta magis irretitus ad vendenda praedia adigatur:
+ac tandem omnibus destitutus et ad vincula paratus
+in desperationem incidat.</hi> 
+<pb n="0767D"/>
+          </p>
+<div3>
+            <head>25.</head>
+            <p>
+ Itaque dum primum adolescens nihil putat de
+vestibus suis, aut etiam possessionibus esse vendendum,
+ad haec facienda poscit dilationem. Usurae
+applicantur ad sortem, accumulatur centesima. Jam
+suspirare incipit, jam malum suum agnoscere. Die
+ac nocte usuram cogitat: quidquid occurrerit, feneratorem
+putat: quidquid crepuerit, vocem sibi videtur
+feneratoris audire. Si habes, cur non solvis?
+<pb n="0768A"/>
+Si non habes, cur malum malo adjungis, et de vulnere
+remedium quaeris? Cur quotidie obsidionem
+pateris feneratoris, expugnationem times? Vetus
+sententia est: <hi>Feneratoris et debitoris sibi occurrentium,
+prospectum amborum facit Dominus <note>(Prov. XXIX, 13)</note>
+            </hi>. Alter quasi canis praedam requirit, alter quasi
+fera praedonem declinat: ille quasi leo quaerit quem
+devoret, iste quasi bos juvenculus praedonis impetum
+reformidat: ille quasi accipiter unguibus olorem
+quaerit invadere, iste quasi anser aut fulica, mavult
+se vel in praerupta dejicere, vel in profunda demergere,
+quam istum humani corporis accipitrem
+sustinere. Quid quotidie fugis? Et si non occurrat fenerator,
+occurrit tibi inopia tamquam bonus cursor.
+Ambos ergo videt Dominus, feneratorem, et debitorem:
+<pb n="0768B"/>
+occurrentes sibi spectat ambos, testis alterius
+iniquitatis, alterius injuriae: illius avaritiam condemnat,
+hujus stultitiam. Ille gressus debitoris singulos
+numerat, aucupatur deflexus: iste continuo
+post columnas caput obumbrat. Nullam enim habet
+debitor auctoritatem. Ambobus in digitis usurarum
+repetitur saepius calculatio. Par cura, sed dispar
+affectus. Alter laetatur incremento fenoris, alter
+cumulo debitionis affligitur. Ille quaestus numerat,
+hic aerumnas.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Quid fugis hominem quem poteras et non timere?
+Quid fugis, aut quousque fugies? Si quis <emph>599</emph> 
+pulsaverit nocte, feneratorem putas, sub lectum illico:
+si quem subito intrare senseris, tu foras exsilis.
+Canis latrat, et cor tuum palpitat, sudor effunditur,
+<pb n="0768C"/>
+anhelitus quatit artus, quaeris quid mentiaris,
+ut feneratorem differas; et cum dilationem impetraveris,
+gaudes. Fenore tuo simulat fenerator gravari:
+sed libenter impertit, quasi venator qui feram cinxerit,
+securus est praedae. Tu oscularis caput, amplecteris
+genua, et quasi cervus sagitta toxicata ictus,
+paululum procedens, tandem victus veneno procumbis:
+aut quasi piscis qui fuscina fuerit infixus, quocumque
+fugerit vulnus vehit. Et vere piscis ille in
+esca mortem devorat, ille hamum glutit, dum cibum
+quaerit; sed tamen hamum non vidit, quem tegit
+praeda: tu hamum cernis, et glutis. Hamus tuus
+fenus est creditoris: hamum voras, sed vermis te
+semper obrodit. Ipsa est esca quae decipit. Itaque et
+tibi fenoris nec cibus usui est, et hamus vulneri. An
+<pb n="0768D"/>
+ignoras quia semel illaqueatus nodo, se magis, si
+fugiat, ipse constringit; et intra retia positus fugiendo
+magis dejicit super se retia? In plateas fugis,
+cum intra parietes tutus esse non possis. Inveniet te
+cum voluerit fenerator. Denique ubi tempus impleveris,
+sicut lupus nocte irruit, dormire non sinit,
+ exspectato die ad publicum trahit, aut tabulis venditionis
+cogit suscribere. Ut fureris pudoris dispendium,
+subscribis illico, venditurus avitum sepulcrum,
+<pb n="0769A"/>
+paternae sane ut praetexatur aliquid verecundiae:
+emitur jejunum solum, jactatur quod infecunda vendiderit,
+dispendiis oneraverit debitorem, et superioris
+temporis ascribuntur dispendiis damna praesentis.
+Mox et laudata venduntur, et inferuntur jam
+non instrumenta, sed vincula.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Tamen adhuc quaerendi fidejussores. Tribuuntur
+induciae non ut praedam libertatis inveniat,
+sed ut consortem servitutis adjungat, qui se societ
+aerumnoso. At quid juvare potest alienae calamitatis
+accessio? Jam et amici fugiunt, convivae non recognoscunt:
+ipse quoque conspectus omnium refugit,
+et ut pugil ictus varios concertantium, ita iste honestorum
+vitat occursus, et sollicitus, ubi in aliquem
+offenderit, vigilanti exit obtutu. Redit paratus ad vincula,
+<pb n="0769B"/>
+redit mortem optans, cogitans eam sibi, si moreretur,
+quietem inferre. Redit misere se ipse condemnans,
+quod alienam pecuniam non refugerit, et
+feneratoris se aere devinxerit.</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ O quantos miseros aliena fecerunt bona! Quid,
+inquit <note>(Jerem. II, 18)</note>, tibi ut bibas aquam Geon?
+Quid, inquam, tibi, ut biberes calicem feneratoris?
+Multi, inquit, mutuati ad tempus, et necessitatibus
+consuluerunt suis, et pecuniam reddiderunt. Et
+quanti se propter fenus stangulaverunt! Illos consideras,
+hos non enumeras: reminisceris evasisse
+aliquos, non reminisceris oppetisse: nummos redditos
+imputas, laqueos appetitos non computas,
+quos deformitati tam dedecorosae conventionis plerique
+verecundiores ad contumeliam, fragiliores ad
+<pb n="0769C"/>
+injuriam, expetito interitu praetulerunt, opprobrium
+vitae amplius quam mortis supplicium pertimescentes.
+<emph>600</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Liberos pro paternis debitis per summam indignitatem
+sub hasta vaenire: sed huic malo subvenire posse neminem,
+cum expleri nequeat feneratoris avaritia;
+quam in rem Scripturae locus explicatur, simulque
+ostenditur materiam praevaricationis esse fenerationem.</hi> </p>
+<div3>
+            <head>29.</head>
+            <p>
+ Vidi ego miserabile spectaculum, liberos pro
+paterno debito in auctionem deduci, et teneri calamitatis
+haeredes, qui non essent participes successionis;
+et hoc tam immane flagitium non erubescere
+<pb n="0769D"/>
+creditorem. Instat, urget, addicit. Mea, inquit, nutriti
+pecunia, pro alimonia servitium recognoscant,
+pro sumptu licitationem subeant. Agitetur hasta de
+pretiis singulorum. Non immerito hasta agitatur, ubi
+caput quaeritur: non immerito ad auctionem pervenitur,
+ubi sors poscitur. Haec est feneratoris inhumanitas,
+haec debitoris stultitia, ut filiis quibus non
+relinquit pecuniam, libertatem auferat, pro testamento
+<pb n="0770A"/>
+chirographum dimittat, pro emolumento haereditatis
+syngrapham obligationis. Quid sibi vult paterni
+in liberos scriptura maledicti, ubi nulla est impii
+offensa peccati? An potest durius aliquod esse
+maledictum, graviusque servitium? Et illa saepe
+post mortem habet defunctus compendia, quod non
+spectat miserias filiorum.</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Vendit plerumque et pater liberos auctoritate
+generationis, sed non voce pietatis: ad auctionem pudibundo
+vultu miseros trahit dicens: Solvite filii gulae
+meae sumptum, solvite paternae mensae pretium:
+vomite quod non devorastis, reddite quod non accepistis;
+hoc meliores, quod vestro pretio redimitis
+patrem, vestra servitute paternam emitis libertatem.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Esto ut aliquis qui subvenire possit, accedat.
+<pb n="0770B"/>
+Quis tantam expleat Charybdim? quis rationes feneratoris
+agnoscat? quis avaritiam satiet? quae non iste
+pretia exaggeret, cum viderit redemptores? Non enim
+suo magis lucro quam alieno detrimento pascitur.
+Vera profecto, vera est, utpote Dei, divina sententia,
+qui cum iratus esset propter impietatem populi Judaeorum,
+quod post deos abiret alienos: <hi>Cui,</hi> inquit, <hi>vendidi vos feneratori 
+ <note>(Esai. L, 1)</note>
+            </hi>? Venditur enim
+qui obligatus feneratori fuerit, et venditur non uno
+pretio, sed quotidiano: venditur non cum definitione,
+sed cum accessione diuturna. Nova usurarum
+auctio per menses singulos, nova sub quotidiana licitatione
+venditio. Qui plus obtulerit, trahit semper,
+venalis addicitur, numquam quasi venditus aestimatur.
+Magna igitur vis coelestis sententiae. Non satis
+<pb n="0770C"/>
+judicavit Dominus dicere: <hi>Cui vendidi vos;</hi> sed addidit <hi>feneratori?</hi> 
+ Offensus nihil potuit gravius invenire,
+quo vindicaret in perfidos. Derelictus expostulat,
+cur ita fugerint salutis auctorem, quasi feneratori
+eos alicui Dominus vendidisset digna poena.
+Dominum relinquentes habent servi quod amplius
+quam carceris poenas et vincula reformident: habent
+liberi quod paveant pro libertatis incuria. <emph>601</emph>
+</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Simul illud adverte, quod feneratio praevaricationis
+materia judicata sit; quod is facile recedat
+a Domino, qui feneratori se potuerit obligare. Fenus
+enim radix mendacii, causa perfidiae est. <hi>Ego,</hi> 
+inquit, <hi>vos non vendidi; sed peccatis vestris venditi estis <note>(Ibid.)</note>
+            </hi>.
+Ergo qui se feneratori obligat, ipse se
+vendit; et quod pejus est, vendit se non aere, sed
+<pb n="0770D"/>
+culpa.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Peccati feneratorem diabolum esse, qui Salvatori
+etiam divitias suas ostentarit; ei feneratorem haud
+absimilem; atque ibidem de centesima usurae, ac
+centesima ove; deque creditoris nomine quod sibi
+imponit verus exactor.</hi> </p>
+<div3>
+            <head>33.</head>
+            <p>
+ Quis iste peccati est fenerator, nisi diabolus,
+<pb n="0771A"/>
+a quo Eva mutuata peccatum obnoxiae successionis,
+usuris defeneravit omne genus humanum <note>(Vid. S.
+August. lib. I cont. Jul. Pelag., cap. 3)</note>? Denique
+quasi malus fenerator chirographum tenuit, quod
+postea Dominus suo cruore delevit. Etenim quod
+mortis erat scriptum apicibus, debuit morte dissolvi.
+Fenerator ergo diabolus. Denique ostendebat Salvatori
+divitias suas dicens: <hi>Haec omnia tibi dabo, si
+procidens adoraveris me <note>(Matth. IV, 9)</note>
+            </hi>. At vero Dominus
+aeris solutor alieni, nihil ipsi debebat, qui poterat
+dicere: <hi>Ecce venit hujus mundi princeps, et in
+me suum non invenit nihil <note>(Joan. XIV, 30)</note>
+            </hi>. Nihil
+debebat, sed solvebat pro omnibus, sicut ipse testatur
+dicens: <hi>Quae non rapui, tunc exsolvebam <note>(Psal.
+LXVIII, 5)</note>
+            </hi>.
+<pb n="0771B"/>
+</p>
+          </div3>
+<div3>
+            <head>34. </head>
+            <p>
+Quid distat malitia hujus principis mundi? Fenerator
+pecuniae caput obligat, manum tenet, sorte
+ducit. O nomen triste de dulci! Dominus ovem centesimam
+liberavit; illa centesima salutis, haec mortis
+est; et terra bona centuplum fructum reddit. Vae
+iis qui dicunt quod amarum est, dulce; et quod
+dulce, amarum! Quid amarius usura, quid dulcius
+gratia? Nonne hoc ipso sermone quo centesimam
+appellant, revocare deberent in memoriam Redemptorem,
+qui venit centesimam ovem salvare, non
+perdere?</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Quis gravior exactor est? Et hoc triste nomen.
+Denique Dominus ait: <hi>Populus meus, exactores
+vestri circumscribunt vos <note>(Esai. III, 14)</note>
+            </hi>. Et in
+Evangelio habes: <hi>Dum vadis cum adversario tuo ad
+<pb n="0771C"/>
+magistratum, da operam liberari ab illo; ne forte perducat
+te ad judicem, et judex tradat te exactori, et
+exactor mittat te in carcerem <note>(Luc. XII, 58)</note>
+            </hi>. Quis
+iste sit exactor agnosce, qui etiam novissimum quadrantem
+exigit, et idem se creditorem vocat, atque
+in hoc etiam nomine fraudem facit: ut qui veneni
+pocula melle illinit, ut sub grato odore mors lateat,
+atque illita calicis ora vim fraudis abscondant. Creditor
+praetexitur quasi fidelis; et quasi incredulus,
+ad quem fidelis oppignorat.
+<emph>602</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Feneratoris, ne debitoris cadaver ad sepulturam efferretur, prohibentis historia.</hi> </p>
+<div3>
+            <head>36.</head>
+            <p>
+ Quoties vidi a feneratoribus teneri defunctos
+<pb n="0771D"/>
+pro pignore, et negari tumulum, dum fenus exposcitur?
+Quibus ego acquievi libenter, ut suum constringerent
+debitorem, ut electo eo, fidejussor evaderet;
+hae sunt enim feneratoris leges. Dixi itaque:
+Tenete reum vestrum; et ne vobis possit elabi, domum
+ducite, claudite in cubiculo vestro, carnificibus
+<pb n="0772A"/>
+duriores; quoniam quem vos tenetis, carcer non
+suscipit, exactor absolvit; peccatorum reos post
+mortem carcer emittit, vos clauditis; legum severitate
+defunctus absolvitur, vobis tenetur. Certe hic
+sortem suam jam memoratur implesse; non invideo
+tamen, pignus vestrum reservate. Nihil interest inter
+funus et fenus, nihil inter mortem distat et sortem:
+personat, personat funebrem ululatum fenoris
+usura. Nunc vere capite minutus est quem convenitis;
+vehementioribus tamen nexibus alligate, ne
+vincula vestra non sentiat: durus et rigidus est debitor,
+et qui non jam noverit erubescere. Unum sane
+est quod non timere possitis, quia poscere non novit
+alimenta.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Jussi igitur levari corpus, et ad feneratoris
+<pb n="0772B"/>
+domum exsequiarum ordinem duci: sed etiam inde
+clausorum mugitu talia personabant. Ibi quoque funus
+esse crederes, ibi mortuos plangi putares: nec
+fallebat sententia, nisi quod plures constabat illic
+esse morituros. Victus religionis consuetudine fenerator
+(nam alibi suscipi pignora etiam ista dicuntur)
+rogat ut ad tumuli locum reliquiae deferantur;
+tunc tantum vidi humanos feneratores gravari me;
+tamen ego eorum humanitatem memorabam prospicere,
+ne postea se quererentur fraudatos esse, donec
+feretro colla subjecti, ipsi defuntcum ad sepulcra
+deducerent, graviori moerore deflentes pecuniae
+suae funus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI.</head>
+<p> <hi>Usura etiam ab aleatoribus exigitur, quorum in lusu
+varia fortuna est, sed lucrum cedit feneratori. Hujus
+in illos quanta tyrannis, et quae leges aleatorum.
+Postremo barbarorum quorumdam furor in aleam
+describitur.</hi> 
+<pb n="0772C"/>
+          </p>
+<div3>
+            <head>38.</head>
+            <p>
+ Aliud non minoris acerbitatis accipite. Observant
+isti aleatorum conventicula, et perdentis
+aerumnam commoditatem suam judicant: spondent
+pro singulis. Varios primo sors ludit eventus, ad diversos
+saepe transfertur victoria, stipendiaque ejus
+vicissim atque aerumna mutantur: omnes vincuntur
+et vincunt, fenerator solus acquirit: penes alios
+inane nomen quod vicerint, penes feneratorem solum
+fructus est, non annuus, sed momentarius; illi
+soli faciunt lucrum in omnium detrimento, illis solis
+<pb n="0772D"/>
+est usura victoriae. Videas reliquos subito egentes,
+repente divites, deinde nudos, singulis jactibus
+statum <emph>603</emph> mutantes. Versatur enim eorum vita,
+ut tessera; volvitur census in tabula, fit ludus de
+periculo, et de ludo periculum: quot propositiones,
+tot proscriptiones. Clamor plaudentium, fletus despoliatorum,
+<pb n="0773A"/>
+gemitus deplorantium. Sedet inter
+hos creditor ut tyrannus, damnans unumquemque
+sorte capitali, agitat hastas, feralem instituit de singulorum
+exuviis auctionem: alios proscriptioni addicit,
+alios servituti: non tanti occisi sub tyrannis
+sunt. Vitae igitur hanc aleam rectius dixerim, quam
+pecuniae; sub momento fertur, quod valeat in aeternum.
+Ebrietas judicat, et nullus appellat. Habet et
+alea suas leges, quas fori jura non solvant. Notatur,
+si credi potest, infamia, qui putaverit renitendum,
+et infamium sententia gravius quam censura judicialis
+inurit opprobrium; quoniam qui apud judicem
+damnantur, apud illos gloriosi sunt: qui apud illos
+damnantur, apud judicem criminosi sunt. Nobile
+constituit Moyses seniorum judicium <note>(Exod. XVIII)</note>:
+<pb n="0773B"/>
+hi tamen de levioribus judicabant; verbum grave,
+hoc est, de potioribus negotiis Moysi judicio reservare
+consueverant. Hic dicitur: Aleonum consilium
+judicavit, et plus eorum timetur potentia, quam
+leonum. Inter has feras vivis fenerator atque versaris.
+His bestiis cibum eripis, his tetrior aestimaris,
+his crudelior plus timeris.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Ferunt Chunorum populos omnibus bellum
+inferre rationibus, feneratoribus tamen esse subjectos;
+et cum sine legibus vivant, aleae solius legibus
+obedire, in procinctu ludere, tesseras simul et
+portare, et plures suis quam hostilibus jactibus
+interire: in victoria sua captivos fieri, et spolia suorum
+perpeti, quae pati ab hoste non noverint: ideo
+numquam belli studia deponere; quod victus aleae
+<pb n="0773C"/>
+ludo, cum totius praedae munus amiserit, ludendi
+subsidia requirat bellandi periculo: frequenter autem
+tanto ardore rapi, ut cum ea quae sola magni
+aestimant, victus arma tradiderit, ad unum aleae
+jactum vitam suam potestati vel victoris vel feneratoris
+addicat. Denique constituit quod quidam eorum
+et imperatori Romano cognitus in fide, pretium servitutis
+<pb n="0774A"/>
+quam sibi tali sorte superatus intulerat, suppliciis
+imperatae mortis exsolverit. Premit ergo fenerator
+etiam colla Chunorum, et eos urget in ferrum,
+premit barbaros suae terrore saevitiae.
+<emph>604</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>De feneratorum exactione, et variis vocabulis quibus
+utuntur. Eorum pecunia comparatur cum echidna
+aliisque serpentibus; ubi cur usuras Graeci</hi> <foreign xml:lang="greek">τόκους</foreign> <hi>dixerint, explicatur.</hi> </p>
+<div3>
+            <head>40.</head>
+            <p>
+ Quid enim tetrius eo qui hodie fenerat, et cras
+expetit? Et <note>(Eccli. XX, 16)</note> odibilis, inquit, homo
+hujusmodi. Oblatio quidem blanda, sed immanis
+exactio. Verum ipsa oblationis humanitas facit et
+exactionis saevitiam: protulit pecuniam, hypothecas
+<pb n="0774B"/>
+exigit, et in suis apothecis recondit. Una pecunia
+a feneratoribus datur, et quam multa a debitoribus
+exiguntur? Quanta sibi fecerunt vocabula? Nummus
+datur, fenus appellatur: sors dicitur, caput vocatur:
+aes alienum scribitur: multorum hoc capitum immane
+prodigium numerosam exactionem efficit: syngrapham
+nuncupat, chirographum nominat, hypothecas
+flagitat, pignus usurpat, fiducias vocat, obligationem
+asserit, usuras praedicat, centesimas
+laudat.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Echidna quaedam est feneratoris pecunia, quae
+tanta mala parturit. Echidna tamen fecunda poenis
+viscera trahens, partu suo rumpitur. Et morte materna
+docet sobolem non esse degenerem in matrem.
+Igitur incipiunt esse serpentes, illam morsibus suis
+<pb n="0774C"/>
+scindunt. Illic ubi nascitur venenum, primum probatur.
+Pecunia autem feneratoris omnia mala sua
+concipit, parit, nutrit, atque ipsa magis in sobole
+sua crescit, tristi prole numerosior. Non minus
+flexuosa quam serpens, atque in orbem tota se colligens,
+ut caput servet: reliquo flagellat corpore, illud
+solum producit ad vulnera: spiris ingentibus
+<pb n="0775A"/>
+quos comprehenderit, ligat, solo capite interficit:
+salvo capite, etiam si reliqua pars ejus dilapidata
+fuerit, reviviscit.</p>
+          </div3>
+<div3>
+            <head>42.</head>
+            <p>
+ Diversa quoque serpentibus sunt conveniendi
+et parturiendi tempora: pecunia fenebris a die initae
+conventionis crescentibus serpit usuris, quae parturire
+non novit; quia dolores magis ipsa in alios
+transfundit. Ibi dolores ut parturientis; unde etiam <foreign xml:lang="greek">τόκους</foreign>
+ Graeci appellaverunt usuras, eo quod dolores
+partus animae debitoris excitare videantur. Veniunt
+kalendae, parit sors centesimam: veniunt menses
+singuli, generantur usurae, malorum parentum mala
+proles. Haec est generatio viperarum. Crevit centesima,
+petitur nec solvitur, applicatur ad sortem. Fit
+maledictum <emph>605</emph> propheticum <note>(Ps. LIV, 12)</note>, dolus
+<pb n="0775B"/>
+in dolo, usura improbi seminis fetura deterior. Itaque
+non jam centesima incipit esse, sed summa, hoc
+est, non fenoris centesima, sed fenus centesimae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>Usurae etymologiam prosequens ostendit illam leporibus
+ipsis, ac plantis quibuslibet fecundiorem esse,
+feneratorisque aviditate omnem aliam superari: dein
+ad institutam usurae cum animalibus ac plantis
+comparationem redit.</hi> </p>
+<div3>
+            <head>43.</head>
+            <p>
+ Usuram quoque ab usu arbitror dictam, quod
+<pb n="0775C"/>
+ut vestes usu, ita usuris patrimonia scindantur.
+Lugubre cerae prima littera sonat. Parturit vox doloris
+est: quid tibi potest esse boni, quod a dolore
+incipit et ab obligatione? Lepores ferunt generare
+simul et educare, et continuo parturire: istis quoque
+anaglyphariis usurarum generatur et supergeneratur
+usura, enutritur ac nascitur, et nata jam parturit.
+Radices quoque arborum primo plantantur ut
+<pb n="0776A"/>
+prendant: cum prenderint, tunc virescere incipiunt,
+postea pullulare: at vero pecunia fenebris vix plantata
+jam pullulat. Semina tempore erumpunt, animalia
+tempore pariunt: <hi>Tempus enim pariendi, et
+tempus moriendi; tempus plantandi, et tempus evellendi
+plantatum; tempus occidendi, et tempus sanandi <note>(Eccle. III, 2 et 3)</note>
+            </hi>.
+Et infra: <hi>Tempus acquirendi, et
+tempus reddendi: tempus custodiendi, et tempus expellendi <note>(Ibid., 6)</note>
+            </hi>,
+ut Ecclesiastes ait: pecunia fenebris
+hodie seminatur, cras fructificat: semper parit, et
+numquam interit: semper plantatur, vix evellitur.
+Vult semper fenerator acquirere, numquam perdere:
+numquam custodire pecuniam suam, semper expellere:
+numquam sanare, semper occidere.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Et quia bonus ad omnia magister Ecclesiastes
+<pb n="0776B"/>
+ liber est Salomonis, paulisper ipsi inhaereamus: <hi>Non satiabitur oculus,</hi> 
+ inquit, <hi>videndo, et non satiabitur
+auris auditu <note>(Eccl. I, 8)</note>
+            </hi>: nec fenerator expletur
+accipiendo, nec affectus ejus quotidiano numerandi
+aeris satiatur auditu. Et iterum: <hi>Omne quod
+fuit, ipsum est quod erit <note>(Ibid., 9)</note>
+            </hi>: Crescit semper
+pecunia, otium nescit avaritia, nescit usura ferias. <hi>Omnes,</hi> 
+ inquit, <hi>torrentes vadunt in mare, et mare non
+adimpletur <note>(Ibid., 7)</note>
+            </hi>. Mare istud fenerator est;
+omnium <emph>606</emph> patrimonia tamquam fluctus absorbet,
+et ipse nescit expleri. Mari tamen plerique utuntur
+<pb n="0776C"/>
+ad quaestum, feneratore nemo utitur nisi ad dispendium:
+illic multorum commodum est, hic universorum
+naufragium.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Multa sunt animantia quae cito generare incipiunt,
+sed cito etiam generare desistunt: sors cito
+generat, et numquam desinit; immo cum exordium
+crescendi acceperit, in infinitum extendit augmentum.
+Omne deinde quod crescit, cum ad naturae suae
+<pb n="0777A"/>
+formam atque mensuram, magnitudinemque pervenerit,
+vacat incremento: sed feneratorum pecunia
+tempore semper augetur, et ultra formam maternae
+sortis excedens modum non tenet. Pleraque etiam
+animantium cum coeperint ea quae ex his orta sunt
+generare, tamquam effetis viribus usum generationis
+amittunt: sors autem fenoris cum fuerit crescentibus
+exaequata centesimis, et vetustatem sui renovat, et
+partus solitos adjunctione multiplicat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p> <hi>Usuram prohiberi lege divina, unde et sumptum est
+illud Catonis,</hi> fenerare est hominem occidere. <hi>Vestimentum pignori acceptum ante noctem reddendum
+esse; ac fenoris nomine intelligendum quidquid
+praeter sortem exigitur: post quae sequitur extorsionum
+divitibus familiarium reprehensio.</hi> 
+<pb n="0777B"/>
+          </p>
+<div3>
+            <head>46.</head>
+            <p>
+ Non novum nec perfunctorium hoc malum
+est, quod veteris atque divinae praescripto legis inhibetur.
+Populus qui despoliaverat Aegyptum, qui
+pede transierat mare, monetur a fenoris pecunia
+cavere naufragia. Et cum de aliis peccatis semel
+aut multum iterata admonitione praescripserit, de
+fenore saepius intimavit. Habes in Exodo: <hi>Quod si
+pecuniam feneraveris pupillo, orphano, pauperi, apud
+te non suffocabis eum, non impones illi usuram <note>(Exod.
+XXII, 25)</note>
+            </hi>. Ostendit quid sit suffocare, id est, usuram
+imponere; strangulat enim, et quod pejus est, animam
+laqueus creditoris: quo sermone et praedonis
+violentiam, et deformis nodum mortis expressit.
+<pb n="0777C"/> <hi>Quod si pignus acceperis vestimentum propinqui tui,
+ante solis occasum restitues illud; est enim hoc coopertorium
+ejus tantum,</hi> 
+ <emph>607</emph> <hi>hoc vestimentum turpitudinis
+ejus in quo dormiet. Quod si itaque proclamaverit ad
+me, exaudiam eum <note>(Ibid., 23)</note>
+            </hi>. Audistis, feneratores,
+quid Lex dicat, de qua dixit Dominus: <hi>Non veni
+Legem solvere, sed adimplere <note>(Matth. V, 17)</note>
+            </hi>? Quam
+Dominus non solvit, vos solvitis? Usuram, inquit,
+petere, suffocare est. Hoc quoque foris sero est dictum
+a quibusdam eorum prudentibus: Quid est,
+fenerare? Hominem, inquit <note>(Cicero, lib. II Offic.,
+in fine)</note>, occidere. Sed utique non Cato prior quam
+Moyses, qui legem accepit. Multo ille posterior.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ <hi>Si pignus acceperis vestimentum propinqui tui,
+ante solis occasum restitues illud, ne nudati appareat
+<pb n="0777D"/>
+turpitudo <note>(Exod. XXII, 26 et 27)</note>
+            </hi>. Vos vero exuitis
+atque nudatis, et non redditis. Videte ne sol occidat
+super avaritiam vestram, ne sol justitiae vobis occidat;
+quia justitiam non tenetis, aut sol iniquitatis
+super flagitia vestra condatur. Dies quoque perit invito,
+<pb n="0778A"/>
+nox irruit sicut Judae, qui cum diabolus se
+misisset in cor ejus, surrexit ad proditionem, et facta
+est nox; sol enim justitiae occiderat ei, et recubuerat
+super eum. Qui in cor ejus intravit, fecit illi tenebras,
+ut lucis non videret auctorem. Ibi miser periit in
+illo convivio in quo alii salvantur. Reddite igitur
+vestimentum debitori, in quo dormiat, et quietus sit. <hi>Si nolueritis reddere: exaudiam,</hi> 
+ inquit, <hi>eum; quia
+misericors sum <note>(Ibid.)</note>
+            </hi>. Si vos non exauditis, ego exaudiam,
+ego miserebor, ego non despiciam inopis
+precem.</p>
+          </div3>
+<div3>
+            <head>48.</head>
+            <p>
+ In Deuteronomio quoque scriptum est: <hi>Non
+exiges a fratre tuo usuram pecuniae, et usuram escarum,
+et usuram omnium rerum quascumque feneraveris
+fratri tuo. Si alienigenae credideris, usuram exiges ab
+<pb n="0778B"/>
+eo: a fratre autem tuo non exiges <note>(Deut. XXIII, 19 et
+20)</note>
+            </hi>. Vides quantum pondus in verbis sit. <hi>Noli,</hi> inquit, <hi>exigere usuram a fratre tuo,</hi> 
+ hoc est, cum quo
+habere debes omnia communia, ab eo tu usuram
+exigis? Frater tuus consors naturae, et cohaeres gratiae,
+noli ab eo exigere amplius, a quo durum est
+repetere quod dederis, nisi cum habuerit unde
+solvat.</p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Et quia plerique refugientes praecepta Legis <note>(14, quaest. 3, c. Plerique)</note>,
+cum dederint pecuniam
+negotiatoribus, non in pecunia usuras exigunt, sed
+de mercibus eorum tamquam usurarum emolumenta
+percipiunt; ideo audiant quid Lex dicat: <hi>Neque usuram,</hi> 
+inquit, <hi>escarum accipies, neque omnium rerum
+quascumque feneraveris fratri tuo.</hi> Fraus enim ista
+<pb n="0778C"/>
+et circumscriptio Legis est, non custodia. Et putas
+te pie facere, quia a negotiatore velut munus suscipis?
+Inde ille fraudem facit in mercium pretio, unde
+tibi solvit usuram. Fraudis illius tu auctor, tu particeps,
+tibi proficit quidquid ille fraudaverit. Et esca
+usura est, et vestis usura est, et quodcumque sorti
+accedit, usura est: quod velis ei nomen imponas,
+usura est. Si licitum est, cur vocabulum refugis, cur
+velamen obtexis? Si illicitum est, cur incrementum
+requiris?</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ Quod pejus est, hoc vitium plurimorum est,
+et maxime divitum, quibus hoc nomine struuntur
+cellaria. Si quis instaurandum convivium putat, ad
+negotiatorem mittit, ut absynthiati <emph>608</emph> cupellam
+sibi gratis deferat: ad cauponem dirigit, ut Picenum
+<pb n="0778D"/>
+vinum, aut Tyriacum requirat: ad lanium, ut vulvam
+sibi procuret: ad alium, ut poma sibi adornet. Itaque
+humanitatem judicant quae alieno periculo constant.
+Tu bibis, et alius diffluit lacrymis: tu epularis, et
+alios cibo tuo strangulas: tu symphonia delectaris
+<pb n="0779A"/>
+et alius miserabili deplorat ululatu: tu poma degustas,
+et alius spinam vorat. Numquid colligunt de
+spinis uvas, aut de tribulis ficus? Spina usura est,
+spina centesima est, tribulus est fenus, male urit.
+Quomodo ergo potes fructum habere de spinis? Si
+iste fructus de spinis non nascitur, ille nascetur
+aeternus. De aerumnis ditaris, de lacrymis lucrum
+quaeris, de fame aliena pasceris, de exuviis despoliatorum
+hominum cudis argentum: et judicas te divitem,
+qui stipem poscis a paupere? Sed audi quid
+dicat Salvator: <hi>Vae vobis divitibus, qui habetis consolationem
+vestram <note>(Luc. VI, 24)</note>
+            </hi>?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV.</head>
+<p> <hi>Alienigenam a quo usuras licet exigere, solum esse
+eum, quem licet occidere: fratrem vero ejusdem vel
+fidei vel juris consortem: quamlibet usuram proscribi,
+et de benedictionibus ejus qui ab illa abstinuerit,
+cum exhortatione ad misericordiam et veritatem.</hi> 
+<pb n="0779B"/>
+          </p>
+<div3>
+            <head>51.</head>
+            <p>
+ Sed forte dices quia scriptum est: <hi>Alienigenae
+fenerabis <note>(Deut. XXIII, 20)</note>
+            </hi>; et non consideras
+quid Evangelium dicat, quod est plenius. Sed hoc
+interim sequestremus, Legis ipsius verba considera: <hi>Fratri tuo,</hi> 
+ inquit, <hi>non fenerabis ad usuram: sed
+alienigenam exiges.</hi> Quis erat tunc alienigena, nisi
+Amalech, nisi Amorrhaeus, nisi hostes? Ibi, inquit,
+usuram exige. Cui merito nocere desideras, cui jure
+inferuntur arma, huic legitime indicantur usurae.
+Quem bello non potes facile vincere, de hoc cito
+potes centesima vindicare te. Ab hoc usuram exige,
+<pb n="0779C"/>
+quem non sit crimen occidere. Sine ferro dimicat qui
+usuram flagitat: sine gladio se de hoste ulciscitur,
+qui fuerit usurarius exactor inimici. Ergo ubi jus
+belli, ibi etiam jus usurae. Frater autem tuus omnis,
+fidei primum, deinde romani juris est populus: <hi>Narrabo
+nomen tuum fratribus meis, in medio Ecclesiae
+laudabo te <note>(Ps. XXI, 23)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>52.</head>
+            <p>
+ Denique etiam in Levitico praescribit Lex usuram
+a fratre non esse poscendam. Sic enim habes: <hi>Et vivet frater tuus tecum, pecuniam tuam non dabis
+illi in usuram, et in amplius recipiendum non dabis illi
+escas tuas 
+ <note>(Levit. XXV, 36)</note>
+            </hi>. Generaliter haec sententia
+Dei omne sortis exclusit augmentum. Unde et David
+et benedictum aestimavit, et dignum habitatione coelesti,
+qui pecuniam non dedit in usuram <note>(Ps. XIV, 5)</note>.
+<pb n="0779D"/>
+Si ergo qui non dedit, benedictus; sine dubio maledictus,
+qui ad usuram dedit. Cur ergo maledictionem
+potius eligis, quam benedictionem? Potestis benedicti
+esse, si velitis, potestis justi esse. Homo enim
+justus secundum Ezechiel <note>(Ezech. XVIII, 7)</note>, qui pignus
+debitori reddet, et pecuniam suam in usuram
+non dabit, et superabundantiam non accipiet, <emph>609</emph> 
+et ab injustitia avertet manum suam: <hi>Justus est iste,</hi> 
+inquit, <hi>vita vivet, dicit Dominus <note>(Ibid., 9)</note>
+            </hi>. Qui autem
+<pb n="0780A"/>
+pignus non reddidit, et in simulacra apposuit
+oculos suos, iniquitatem fecit, cum usura dedit, et
+superabundantiam accepit, hic vita non vivet. Omnes
+iniquitates istas fecit, morte morietur: sanguis ejus
+super ipsum erit. Vide quomodo feneratorem cum
+idololatra copulavit, quasi crimen aequaret. Elige
+ergo quod dulce est.</p>
+          </div3>
+<div3>
+            <head>53.</head>
+            <p>
+ Cur semper tristes, cur semper amarissimi,
+cur semper solliciti? Procedat aliquando a vobis misericordia,
+procedat veritas: obligetur mendacium,
+fraus odio sit. Docuistis perjurium: feneratorium
+sacramentum dicitur, ubi paratur perjurium. Parastis
+frequenter cum reddita fuerit pecunia, quod syngrapha
+non appareat: pejeratis postea quod non receperitis
+pecuniam. Nolite ergo semper miseri esse,
+<pb n="0780B"/>
+semper avari, semper moesti. Leones sunt, et feritatem
+suam mutant: <hi>De manducante,</hi> inquit, <hi>exivit
+esca, et de forte et tristi exivit dulce <note>(Judic. XIV, 14)</note>
+            </hi>;
+Graecus, <hi>et tristi</hi> habet; sic invenimus. Tamen de
+forti hoc intelligitur; quia leo fortis est feritate: et
+qui ferus, tristis. Et de vobis qui pecuniam et avaritiam
+devoratis, exeat misericordia; haec enim esca
+est egenorum: et de tristi exeat dulce, ut dimittatis
+ei qui non habet unde dissolvat. Quid trahitis peccata
+ut fune longo, et jugi loro vitulae? Quod fit utique,
+cum fenus producitis. Tenetis pauperem debitorem,
+ vel ibi sit aliqua gratia, ubi nulla spes commodi.
+Et hoc secundum avaritiam vestram loquor.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p> <hi>Ex Evangelico praecepto fenerandum his, a quibus
+nihil exspectetur, immo etiam inimicis: uberrimum
+fenus illius esse, qui Domino feneraverit: nec diffidendum
+ipsius paupertati quae veras largitur divitias.</hi> 
+<pb n="0780C"/>
+          </p>
+<div3>
+            <head>54.</head>
+            <p>
+ Caeterum Dominus in Evangelio talibus magis
+existimat fenerandum, a quibus redhibitio non speretur.
+Sic enim ait: <hi>Et si mutuum dederitis a quibus
+speratis recipere, quae vobis est gratia? Nam peccatores
+peccatoribus fenerant, ut recipiant; verumtamen
+amate inimicos vestros, et benefacite eis, et mutuum
+date nihil sperantes; et erit merces vestra multa in
+coelo, et eritis filii Altissimi, quia ipse benignus super
+ingratos et malos. Estote misericordes, sicut et Pater
+vester misericors est <note>(Luc., VI, 34 et seq.)</note>
+            </hi>. Advertitis
+<pb n="0780D"/>
+quod nomen a Domino fenerator acceperit, quod nomen
+etiam qui fenori vestro fuerit obligatus. <hi>Peccatores,</hi> 
+inquit, <hi>peccatoribus fenerant, ut recipiant:</hi> 
+uterque peccator, et fenerator, et debitor. Vos autem,
+inquit, amate inimicos vestros. Non discutiatis
+quid mereantur inimici, sed quid vos facere oporteat.
+Date mutuum iis a quibus non speratis vos,
+quod datum fuerit, recepturos. Nullum hic damnum
+est, sed compendium. Minimum datis, multum recipietis:
+<pb n="0781A"/>
+in terra datis, et id vobis solvetur in coelo:
+fenus amittitis, mercedem magnam habebitis: feneratores <emph>610</emph> 
+ esse desinitis, filii eritis Altissimi: eritis
+misericordes, qui vos Patris aeterni probetis haeredes.</p>
+          </div3>
+<div3>
+            <head>55.</head>
+            <p>
+ Sed feneratorum vos delectat et usurarum vocabulum.
+Id quoque non invideo. Docebo quomodo
+boni feneratores esse possitis, quomodo bonas quaeratis
+usuras. Dicit Salomon: <hi>Fenerat Domino qui
+miseretur pauperi: secundum datum autem ejus retribuet
+ei <note>(Prov. XIX, 17)</note>
+            </hi>. Ecce bonum fenus de malo
+factum est: ecce irreprehensibilis fenerator: ecce
+usura laudabilis. Nolite ergo jam invidentem me vestris
+commodis aestimare. Putatis quod hominem subtraham
+vobis debitorem? Deum provideo, Christum
+<pb n="0781B"/>
+subrogo, illum demonstro qui vos fraudare non possit.
+Fenerate ergo Domino pecuniam vestram in
+manu pauperis. Ille astringitur et tenetur: ille scribit
+quidquid egenus acceperit: Evangelium ejus cautio
+est: ille promittit pro omnibus indigentibus, ille
+dicit fidem; quid dubitatis dare? Si quis vobis dives
+hujus saeculi offeratur, qui fide promittat sua pro aliquo
+debitore, statim numeratis pecuniam: pauper
+est vobis Dominus coeli, et conditor mundi hujus;
+et adhuc deliberatis quem ditiorem quaeratis fidejussorem.</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ Sed allegatis, quia pauper est factus, cum dives
+esset. Vidistis ergo quia fides ejus dives est, fides
+ejus idonea est; pauper est factus, cum pro nobis
+solveret, et adhuc paupertas ipsa non decipit; nos
+<pb n="0781C"/>
+enim divites fecit, quos pauperes putabatis. Dicit
+enim Apostolus: <hi>Pauper factus est cum dives esset,
+ut in illius inopia vos ditaremini <note>(II Cor. VIII, 9)</note>
+            </hi>. Bona
+inopia, quae largitur divitias. Nolite ergo vos paupertatem
+timere, ut sitis divites. Date otiosam pecuniam,
+et recipietis fructuosam gratiam, et pauperum
+subvenietis necessitatibus, et vobis custodiae sollicitudo
+minuetur. Non peribit quod pauper acceperit;
+et vobis quod dederitis inopi, sine custode servabitur.
+Quod si incrementum usurarum quaeritis, in
+Lege benedictio, in Evangelio coelestis est merces:
+quid suavius benedictione; quid majus est coelo? Si
+escarum desideratur usura, ea quoque praesto est,
+sicut legimus: <hi>Is enim qui miseretur pauperis, ipse
+pascetur <note>(Prov. XXII, 9)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII.</head>
+<p> <hi>Occurritur objectioni, qua nonnulli negant generaliter
+prohibitum ne pignus retineatur, sed ad pauperum
+pignora Legem restringunt.</hi> 
+<pb n="0781D"/>
+          </p>
+<div3>
+            <head>57.</head>
+            <p>
+ Reddite ergo pignora quae tenetis, quoniam fidejussorem
+idoneum reperistis. Sed obmurmurant
+adhuc dicentes, quia licet tenere pignora, et se Lege
+<pb n="0782A"/>
+defendunt. Aiunt enim: Scriptum est in Deuteronomio: <hi>Si fuerit tibi debitum a proximo tuo quodcumque,
+non introibis in domum ipsius pignerare pignus:
+sed foris stabis, et homo apud quem est debitum tuum,
+proferet tibi foris pignus. Si autem homo ille pauper
+fuerit, non dormies in pignore ipsius; sed redditione
+reddes ei pignus ipsius ad occasum solis, et dormiet in
+vestimento suo, et benedicet te, et erit in te misericordia
+coram Domino Deo tuo <note>(Deut. XXIV, 10 et seq.)</note>
+            </hi>.
+Et alibi, inquiunt, scriptum est: <hi>Non pignerabis</hi> <emph>611</emph> <hi>molam, neque lapidem superiorem molae; quoniam hic
+pignerat 
+ <note>(Ibid., 6)</note>
+            </hi>. Et alibi: <hi>Non accipies pignus vestimenti
+viduae <note>(Ibid., 17)</note>
+            </hi>. Unde argumentantur quia
+specialia pignora sint interdicta, non omnia, id est,
+pauperis et viduae. Molam quoque et lapidem superiorem
+<pb n="0782B"/>
+molae prohibitum pignerari.</p>
+          </div3>
+<div3>
+            <head>58.</head>
+            <p>
+ Sed cum per Ezechielem prophetam ipse Dominus
+dicat <note>(Ezech. XVIII, 7)</note>, justum esse qui pignus
+reddidit, injustum qui tenuit: utique non speciale
+aliquod, sed generaliter omne pignus suadet
+esse reddendum; cum dicat Job: <hi>Conscriptionem
+quam habui adversus aliquem juramento conceptam,
+imponens coronam legebam, et si non scindens eam
+reddidi, nihil accipiens a debitore <note>(Job. XXXI, 26 et 27)</note>
+            </hi>.
+Cum Dominus nihil ab iis quibus mutuum dederimus,
+sperandum esse praecipiat <note>(Luc. VI, 34)</note>, quod
+recipere debeamus, quomodo pignus secundum Legem
+putant esse retinendum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII.</head>
+<p> <hi>Ut objicientibus nos divina lege ad fenerandum incitari
+fiat satis, inquiritur quid justus v. g. Petrus fenori
+dare valeat; ostenditurque suos illi sermones
+esse, quos feneret.</hi> 
+<pb n="0782C"/>
+          </p>
+<div3>
+            <head>59.</head>
+            <p>
+ At ne pari recrudescant modo, et dicant
+etiam se ad fenerandum incitari Legis oraculo; quia
+scriptum est: <hi>Fenerabis gentibus multis, tu autem non
+mutuaberis <note>(Deut. XXVIII, 12)</note>
+            </hi>; tempus est plenius et
+expressius disputare et docere quid fenerandum, et
+quibus Legis statuta praescribant; praecedit enim fenoris
+causa pignoris causam. <hi>Mutuabitur,</hi> inquit, <hi>peccator, et non solvet: justus autem miseretur, et
+tribuet 
+ <note>(Ps. XXXVI, 21)</note>
+            </hi>. Audis, debitor, quid debeas
+declinare: audis, creditor, quid debeas imitari. Et
+infra: <hi>Juvenis fui, et senui, et non vidi justum derelictum,
+<pb n="0782D"/>
+nec semen ejus quaerens panem. Tota die miseretur
+et fenerat <note>(Ibid., 25)</note>
+            </hi>. Unde huic justo quod tota
+die feneret? Ergo dives justus est; et quanto ditior
+unusquisque fuerit, tanto justior: qui plus habuerit
+unde feneret, ipse erit justior. Sed difficile dives intrat
+in regnum coelorum.</p>
+          </div3>
+<div3>
+            <head>60.</head>
+            <p>
+ Quid ergo feneret, dic mihi, sancte David?
+Contra me protuli testimonium, nisi mihi subvenis.
+<pb n="0783A"/>
+Petrus dicebat: <hi>Argentum et aurum non habeo <note>(Act. III. 6)</note>
+            </hi>,
+numquid non erat justus? Tu mihi ergo
+expone quid feneret. Dixisti enim: <hi>Beatus vir qui
+miseretur et commodat, disponet sermones suos in judicio <note>(Ps. CXI, 5)</note>
+            </hi>.
+Inveni quid fenerat justus. Petrus
+quoque me doceat et ipse quid feneret, qui dixit
+inopi attendenti ad se et ad Joannem: <hi>Argentum
+et aurum non habeo.</hi> Nihil ergo dabis pauperi, apostole?
+Das tamen, et plus das quam alii: das inopi,
+quod alii dare non possunt: das inopi, post quod
+egere non possit: das inopi, quod etiam divites accipere
+concupiscunt: das inopi, quod ii qui istud argentum
+et aurum habent, conferre non noverint;
+quia avaritia eos impedit: das inopi, qui eis divitibus
+facias ditiorem. Incitasti animum meum, concupisco
+<pb n="0783B"/>
+hoc donum tuum. Dicito, rogo, <emph>612</emph> quid
+des. Noli me diu suspensum reddere, cupio petere,
+si cito solvas. Sed solvisti cito: non distulisti inopem,
+non despexisti precem pauperis, non diutius
+eum desperare fecisti, non vacuus ad templum ascendisti
+dicens: <hi>Argentum et aurum non habeo.</hi> Non
+illi soli plenis manibus ascendunt, qui argentum et
+aurum habent: ascendit et pauper non vacuus: ascendit
+et ille non vacuus, quia aurum et argentum
+non habet. Audiamus quid det iste pauper: <hi>Sed quod
+habeo,</hi> inquit, <hi>do tibi. In nomine Jesu Nazareni surge
+et ambula <note>(Ibid.)</note>
+            </hi>. O optanda paupertas; o ditior
+inopia! Claudicabat, cui divites dabant: unus pauper
+dedit, et statim qui claudus erat, sanus est
+factus.
+<pb n="0783C"/>
+</p>
+          </div3>
+<div3>
+            <head>61. </head>
+            <p>
+Habet ergo justus quod feneret, habet et argentum
+quod feneret, sermones suos fenerat: hoc est justi
+argentum; eloquia enim Domini, eloquia casta, argentum
+igne examinatum, probatum terrae, purgatum septuplo.
+Hoc fenerat qui Legem accipit, qui Legem meditatur,
+qui Legem exercet: hoc feneravit Petrus, hoc feneravit
+Paulus, quibus dicitur ut ad viros nationum
+pergerent. Ad Cornelium centurionem Petro, cui dicitur: <hi>Surge, vade nihil dubitans, quoniam ego misi
+illos; et surrexit et ivit 
+ <note>(Act. X. 20)</note>
+            </hi>. Et infra dixit: <hi>Numquid aquam vetare possumus, ne baptizentur ii,
+qui Spiritum sanctum acceperunt 
+ <note>(Ibid., 47)</note>
+            </hi>? Jussitque
+eos baptizari. Hoc est Fenerabis gentibus, ut
+peccata dimittas, debita auferas: tu autem non mutuaberis.
+Mutuatur enim peccator, et non solvet
+<pb n="0783D"/>
+peccata sua; quia peccator est. Paulo dicitur <note>(Act. IX,
+15)</note>: Fenerabis gentibus qui missus est ad gentes;
+Joanni dicitur: Fenerabis gentibus; Jacobo et caeteris
+dicitur: Fenerabitis gentibus; quibus dictum
+est: <hi>Ite, baptizate gentes <note>(Matth. XXVIII, 19)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>62.</head>
+            <p>
+ Dicitur populo patrum: <hi>Si custodieris mandata
+Dei, benedictus eris, et fenerabis gentibus verbum <note>(Deut. XXVIII. 12)</note>
+            </hi>.
+Denique non de pecunia dici significant
+sequentia: <hi>Princeps eris gentibus multis:
+<pb n="0784A"/>
+tibi autem nemo dominabitur. Constituet te Dominus
+Deus tuus caput, et non in caudam, et eris tunc supra,
+et non subter, si exaudieris vocem Domini Dei tui <note>(Ibid., 13)</note>
+            </hi>.
+Et sequitur: <hi>Si autem non audieris, maledictus
+tu in civitate, et maledictus in agro <note>(Ibid., 16)</note>
+            </hi>.
+Et infra: <hi>Maledicta progenies ventris tui <note>(Ibid., 18)</note>
+            </hi>.
+Non pecunia utique benedictum facit, sed cognitio
+Dei, praedicatio verbi: si gratiam Domini feneremus,
+si indigentibus eloquia Domini conferamus, si
+observemus mandata coelestia. Et contra maledictum
+non facit, si desit pecunia quae feneretur: sed si desit
+studium, si desit observatio coelestium statutorum,
+maledictus eris.
+<emph>613</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p> <hi>Judaeos primo gentibus fenerasse, postmodum gentes
+in Christum credentes vicem illis reddidisse, quod
+pecuniam suam amisissent: ejusdem pecuniae laus,
+atque ad illam fenerandam exhortatio: et quo pacto
+in ea re Israelitis antepositae fuerint nationes.</hi> 
+<pb n="0784B"/>
+          </p>
+<div3>
+            <head>63.</head>
+            <p>
+ Denique mysterium Ecclesiae evidenter exprimitur.
+Primum enim dixit ad discipulum Legis: <hi>Si audieris Legem, et custodieris, fenerabis gentibus <note>(Deut. XV, 6)</note>
+            </hi>;
+quod factum est a patribus nostris.
+Feneravit Moyses gentibus, qui proselytos acquisivit,
+feneravit Jesus Nave, feneravit Gedeon, feneravit
+Samuel, David, Salomon, Elias, Elisaeus;
+et si quis volebat verbum cognoscere, pergebat ad
+eos: regina Austri venit audire sapientiam Salomonis.
+<pb n="0784C"/>
+</p>
+          </div3>
+<div3>
+            <head>64. </head>
+            <p>
+Ubi coepit populus Jadaeorum non custodire
+Legem, coeperunt advenae, hoc est, ex populo nationum
+qui in Dominum Jesum crediderunt, interpretationem
+Scripturarum fenerare illi vetusto populo.
+Feneravit Timotheus patre Graeco ortus verbum
+Judaeis, cum sacerdotium recepisset; feneramus
+hodieque sacerdotes in Ecclesia verbum Judaeis,
+qui de Synagoga ad Ecclesiam transierunt; feneramus
+et novam et vetustam pecuniam: etenim quam
+habuerunt, jam non habent; oculos habent, et non
+vident, aures habent, et non audiunt; pecuniam
+habent, et non habent; quia usum ejus ignorant,
+pretium ejus nesciunt, figuram ejus et formam non
+cognoverunt. Nam si cognovissent, numquam auctorem
+pecuniae denegassent dicentes: <hi>Nolumus hunc
+<pb n="0784D"/>
+regnare super nos <note>(Luc., XIX, 14)</note>
+            </hi>. Qui quidem rediens,
+accepto regno, jussit vocari servos suos quibus
+dedit pecuniam, et eos qui fenerassent pecuniam,
+praedicavit: ei autem qui pecuniam tenuit
+otiosam domini sui respondit: <hi>Sciebas quod ego homo
+austerus sum, tollo quod non posui, meto quod non
+seminavi: et quare non dedisti pecuniam meam ad
+mensam, et ego veniens cum usuris utique exegissem
+illam <note>(Ibid., 22 et 23)</note>
+            </hi>?
+</p>
+          </div3>
+<div3>
+            <head>65. </head>
+<p>
+              <pb n="0785A"/>Audistis quae pecunia boni feneratoris sit,
+quae pecunia bonas acquirat usuras, quae pecunia
+non infamet feneratorem, non opprimat debitorem,
+quam pecuniam aerugo non possit obducere, non
+penetrare tinea, quae pecunia non de terreno thesauro
+sit, sed de aeterno, quae pecunia divitem faciat
+accipientem, nec aliquid imminuat feneranti.
+Haec pecunia usuram habet: non centesimam ejus
+quod dederit portionem, sed centuplum fert fructum.
+Expande igitur sinum mentis, ut hujus pecuniae
+numeratam tibi suscipias quantitatem: intende
+cordis obtutum, ut agnoscas pecuniae hujus imaginem
+et inscriptionem: certe hanc pecuniam excute,
+tabulam supra mensam animae tuae quae stabilis virtutibus
+sit, quadratam constitue, conde in thesauro
+<pb n="0785B"/>
+pectoris tui, de quo doctus scriba depromit nova
+et vetera. Vides qualis haec pecunia sit, <emph>614</emph> quemadmodum
+creditorem, debitoremque invisa in se
+conjungat nomina. Qui invehebar in feneratores, jam
+provoco debitorem. Hujus ergo feneratores pecuniae
+vos esse desidero; ut ad vos qui mutuum sumant,
+sponte festinent: per quam non nummum,
+sed regnum possitis acquirere: per quam non maledicta
+quaeratis, sed benedictionis gratiam.</p>
+          </div3>
+<div3>
+            <head>66.</head>
+            <p>
+ Hanc pecuniam fenerat populus nationum,
+qui scivit accipere feneratum, qui scivit cernere,
+qui scivit excutere. Recusasti indiga fenoris spiritalis,
+egere coepisti. De te ergo a Dei filio dictum
+est: <hi>Mutuabitur peccator, et non solvet <note>(Ps. XXXVI,
+21)</note>
+            </hi>. Tibi dicitur <hi>Advena qui est in te, ascendet super
+<pb n="0785C"/>
+te: tu autem descendes in imum <note>(Deut. XXVIII, 43)</note>
+            </hi>.
+Nescit enim summum, qui Christum ignorat: in
+inferno semper est, qui non ascendit ad Christum:
+in summo autem populus qui verbum recipit, hic
+habet fidei patrimonium omne. De hoc dicit Lex: <hi>Hic tibi foenerabit, tu autem non fenerabis ei: hic tibi
+erit caput, tu autem eris cauda 
+ <note>(Ibid., 44)</note>
+            </hi>, hoc est,
+ille erit primus, tu ultimus et abjectus. Auferam a
+Judaea caput et caudam, initium et finem: initium
+Christum, qui interrogatus quis esset, respondit: <hi>Initium quod et loquor vobis 
+ <note>(Joan. VIII, 25)</note>
+            </hi>: finem
+quoque Christum dicit: <hi>ipse est enim finis Legis ad
+justitiam omni credenti <note>(Rom. X, 4)</note>
+            </hi>. Ergo qui non
+credit ad justitiam, nec initium, nec finem habet,
+sed ipse finis sui est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p> <hi>Praemisso pignoris, commendati, ac depositi discrimine,
+ostendit spirituale pignus esse, quod reddi
+Lege jubeatur; corporeum tamen etiam reddi oportere:
+qui verbum Dei audierit debitorem esse, nec
+ab eo pignus tollendum. De evangelicis vestimentis,
+et de tunica quam omnes jubemur induere. Bonum
+amictum esse Dei verbum; esse pignus Dominicae
+sortis, esse sapientiae vestimentum; tamdem esse verbum 
+coangustandum.</hi> 
+<pb n="0785D"/>
+          </p>
+<div3>
+            <head>67. </head>
+<p>
+              <pb n="0786A"/>Cognovimus fenus legitimum, cognoscamus
+et pignus quod Lex reddi jubet ante solis occasum.
+Quid sit istud audi dicentem Apostolum: <hi>Dedit Deus
+pignus Spiritum in cordibus nostris <note>(II Cor. I, 22)</note>
+              </hi>.
+Tripliciter autem et pignus, et commendatum, et
+depositum dicitur. Pignus dicunt quod pro mutuo
+aere susceptum est: commendatum autem et depositum
+ quod nos custodiae causa alicui commisimus.
+Unde ait Apostolus: <hi>Scio cui credidi, et certus sum,
+quia potens est commendatum meum servare in illum
+diem <note>(II Tim. I, 12)</note>
+              </hi>. Depositum quoque idem docuit
+<pb n="0786B"/>
+quod esset, dicens: <hi>Bonum depositum custodi per
+Spiritum sanctum qui habitat in nobis <note>(Ibid., 14)</note>
+              </hi>.
+Numquid Spiritus commendati auri argentique custos
+est, aut per Spiritum sanctum pecunia custoditur?
+Spiritale igitur pignus custoditur ab Spiritu, ne
+aves coeli veniant, et auferant illud de cordibus nostris.</p>
+          </div3>
+<div3>
+            <head>68.</head>
+            <p>
+ Petamus ergo, ut custodiat in nobis Christus
+hoc pignus quod ipse donavit, et depositum suum
+commendatumque conservet. Nihil enim <emph>615</emph> accepit
+a nobis, sed ipse nobis credidit quod nostrum
+non erat. Et ideo detrimento honestatis afficitur,
+qui depositum violarit alienum. Si commendatum
+hominis nulla debemus fraude violare, quanto magis
+divinum et spiritale depositum bona fide servare
+<pb n="0786C"/>
+nos congruit, ne existimationis et utilitatis gravia
+damna subeamus.</p>
+          </div3>
+<div3>
+            <head>69.</head>
+            <p>
+ Hoc igitur pignus est quod Lex prohibet pignerari,
+et violenter auferri. Sic enim habet Scriptura: <hi>Si debitum tibi fuerit a proximo tuo quodcumque,
+non introibis in domum ipsius pignerare pignus;
+et homo apud quem est debitum tuum, proferet tibi
+foras pignus. Si autem homo ille pauper fuerit, non
+dormies in pignore ipsius, sed redditione reddes ei
+pignus ipsius ad occasum solis; et dormiet in vestimento
+suo, et benedicet te, et erit in te misericordia <note>(Deut. XXIV, 10 et seq.)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>70.</head>
+            <p>
+ Dices itaque mihi: Ecce Lex auferri pignus
+prohibuit, non suscipi: pauperi autem jussit reddi,
+non omnibus. At de corporalibus quidem pignoril us
+<pb n="0786D"/>
+sanctus etiam Esdras docuit nos, quod jam, feneratores,
+adversus patrum vestrorum non possitis venire
+professionem. Nam cum juberentur qui feneraverant,
+et acceperant aliena pignora, ut restituerent
+ea, dixerunt: <hi>Reddimus, et ab ipsis nihil quaerimus <note>(Nehem. V, 12)</note>
+            </hi>.
+Boni patres, qui statuerunt pignora
+debitorum esse reddenda: boni etiam feneratores
+<pb n="0787A"/>
+qui responderunt quod et pignora redderent, et pecuniam
+non requirerent, quam dedissent. Et sententia
+vos paternae censionis his astringit, et professio
+creditorum.</p>
+          </div3>
+<div3>
+            <head>71.</head>
+            <p>
+ Est autem et aliud pignus quod Lex spiritalis
+prohibet auferri; et si datum fuerit, reddi jubet
+ante solis occasum: quod homo debitor reddit, et
+ipse protulit. Debitor est autem omnis qui audit verbum
+regni et non intelligit: venit malus, et rapit
+quod seminatum est in corde ipsius. Noli ergo introire
+in domum ejus, ut illud pignus accipias. Vae
+enim qui scandalizaverit unum de pusillis istis! Si
+sua stultitia amiserit pignus suum, tu non habebis
+delictum. Si autem pauper fuerit, redde pignus ante
+solis occasum: pignus autem vestimentum est. Si
+<pb n="0787B"/>
+sibi dives videtur, ipse se decipit, si pignus tradiderit
+suum: si autem pauper qui non habeat divitias
+spiritus, redde illi vestimentum suum ante solis occasum.</p>
+          </div3>
+<div3>
+            <head>72.</head>
+            <p>
+ Si de corporali ageretur pignore, utique magis
+per diem reddendum fuit, ne turpitudo nudi
+corporis diurno lumine proderetur; tenebrae enim
+nudum non produnt. Ac si hoc moveret quod non
+haberet pauper, quo dormiens tegi posset, utique
+aut stragulum aut amictum diceret esse reddendum.
+Nunc autem dicendo vestimentum, tunicam
+magis significat qua induimur atque vestimur. Redde
+ergo pauperi tunicam suam, ut dormiat in ea
+noctu.</p>
+          </div3>
+<div3>
+            <head>73.</head>
+            <p>
+ Nonne tibi videtur illum pauperem significare,
+<pb n="0787C"/>
+qui cum tunica una jubetur pergere, alteram
+non requirere, emissus a Christo ad Evangelium
+praedicandum <note>(Matth. X, 10)</note>? Ipse est enim pauper
+spiritu, qui dormire possit: nam satiato divitiis,
+non est qui sinat eum dormire. Dormit enim pauper
+somnum resurrectionis, quem dives dormire non
+potest, <emph>616</emph> quia divitiis et voluptatibus suffocatur.
+Dormit Christi quietem dicentis: <hi>Ego dormivi
+et quievi, et surrexi <note>(Psal. III, 6)</note>
+            </hi>. Haec est tunica illa
+desuper texta qua erat indutus Christus, quam scindere
+non potuerunt illi milites quos agnoscis. Nullus
+enim eorum vestimentum Christi scindit, sed dividit;
+sicut scriptum est: <hi>Diviserunt vestimenta mea
+sibi, et super vestem meam miserunt sortem <note>(Ps. XXI,
+19)</note>
+            </hi>. Diviserunt sibi evangelistae vestimenta ejus, et
+<pb n="0787D"/>
+super vestem ejus, hoc est, super praedicationem
+Evangelii qua vestitur hodieque Dominus Jesus, miserunt
+sortem. Illam utique sortem, quae cecidit super
+Matthiam, ut apostolorum duodecimus numero,
+excluso nomine proditoris, adjungeretur. Bene autem
+de evangelistis dictum est quia miserunt sortem;
+sors enim veluti divino pendet examine. Et
+ideo quia non potestate propria sunt locuti, neque
+omnes eadem omnia; sed plerique dixerunt diversa,
+quae alius non dixerat: sancti Spiritus gratiam
+<pb n="0788A"/>
+velut sortito illis ea tribuisse cognoscimus,
+quae loquerentur singuli de operibus Domini Jesu;
+ut ejus gesta sibi describenda pro ejus nutu dividerent.</p>
+          </div3>
+<div3>
+            <head>74.</head>
+            <p>
+ Est et illa tunica quam demonstrat Apostolus
+dicens: <hi>Induite Dominum Jesum <note>(Rom. I, 3, 14)</note>
+            </hi>.
+Haec est tunica quae inhonesta operit nostra, et in
+iis abundantiorem honestatem circumdat in Christo.
+Induimus viscera misericordiae in Christo, induimus
+crucis gloriam, quae Judaeis scandalum, Graecis
+stultitia videbatur. Illi erubescunt, qui eam erubescendam
+putant: nobis autem absit gloriari, nisi in
+cruce Domini Jesu. Haec ignobilia nostra honorem
+abundantiorem habent, quia per passionem Domini
+regnum nobis paratur aeternum; quo enim quis plus
+<pb n="0788B"/>
+peccaverit, eo plus diligit. Consepeliamur igitur domino
+Jesu, ut participes resurrectionis ejus esse
+mercamur: exspoliemus veterem hominem cum actibus
+ejus, induamus novum, in quo est remissio
+peccatorum.</p>
+          </div3>
+<div3>
+            <head>75.</head>
+            <p>
+ Bonus ergo amictus atque vestitus, verbum
+Dei. Hoc vestitu filii Noe pudenda patris operuerunt,
+accipientes super humeros vestimentum, et retrorsum
+pergentes; ne viderent virilia patris, hoc est,
+corporea quae habent pudorem quemdam generationis
+humanae: et ideo qui videre voluit, angustioris
+animi dignam mercedem recepit, ut servus fieret;
+omnis enim qui facit peccatum, servus est peccati.
+Unde ille in terrenis remansit. Hoc pauperi nemo
+tollat vestimentum; aut si tulerit, sol non occidat
+<pb n="0788C"/>
+super despoliatum: eum ante restituat, ne peccatum
+pauperis feneratori possit ascribi; et non solum suo,
+sed etiam alieno incipiat laborare peccato. Hoc pignus
+in hac saeculi nocte reddatur, hoc vestimento
+in his mundi tenebris induatur.</p>
+          </div3>
+<div3>
+            <head>76.</head>
+            <p>
+ Hoc pignus illius Dominicae sortis est, non
+illius contrariae. Legimus enim duas sortes in Levitico,
+de quibus dictum est: <hi>Unam Deo facies, alteram
+transmissori <note>(Levit. XVI, 18)</note>
+            </hi>. Transmissor sortem
+suam ad foeneratores transmittit: servi Domini
+in sorte sunt Christi. In hac sorte constitutus Aaron,
+contrariae sortis exclusit aerumnam, cum inter duas
+partes populi constitutus, mortem a defunctis serpere <emph>617</emph> 
+ in sortem vivorum sui corporis non permisit
+objectu. Hujus sortis bonum pignus est Verbi
+<pb n="0788D"/>
+amictus. Hanc vobis tunicam nemo auferat, debitores:
+hanc tunicam nulli oppigneretis, si vultis numquam
+turpitudinem sustinere, ut dormiatis inter
+cleros sicut Aaron, dormiatis inter duo Testamenta,
+ut dormiatis somnum resurrectionis, et vos reparare
+possitis. Hoc est vestimentum quod etiamsi
+oppigneraveris, recipiendum in Proverbiis sanctus
+Salomon suadet dicens: <hi>Aufer vestimentum tuum:
+praeterit enim injuriosus <note>(Prov. XXVII, 13)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>77.</head>
+            <p>
+ Sapientiae vestimentum est ex illis indumentis,
+<pb n="0789A"/>
+quae ex bysso et purpura sapientia sibi fecit: hoc est, indumentum
+fidei constat ex praedicatione coelestium, et
+Dominicae sanguine passionis: bysso aetherea figurantur,
+purpurae specie mysterium sacri sanguinis declaratur,
+quo regnum coeleste confertur. Denique vestimentum
+sapientiae significari superiora indicant; praemisit
+enim dicens: <hi>Sapiens esto, fili, ut laetetur cor tuum <note>(Prov. XXVII, 11)</note>
+            </hi>.
+Et infra duos versus ait: <hi>Imprudentes
+autem supervenientes damnum pendent <note>(Ibid., 12)</note>
+            </hi>. Aufer
+vestimentum tuum. Aufer igitur, ne damnum excipias
+imprudentiae; et ne exutum te proprio vestimento
+nequissimus ille communis fenerator agnoscens,
+confusionem tui detegere conetur opprobrii, et
+persuadeat tibi, ut te foliis tegas, et nudum te esse
+conspiciens, in Dei verearis venire conspectum.
+<pb n="0789B"/>
+</p>
+          </div3>
+<div3>
+            <head>78. </head>
+            <p>
+ <hi>Redde,</hi> inquit, <hi>proximo in tempore, coangusta
+verbum, et fideliter age cum illo; et in omni tempore
+invenies quod tibi necessarium sit <note>(Eccli. XXIX, 2 et 3)</note>
+            </hi>,
+Non amat multis innocentia se defendere. Susanna
+vocis adsertione non eguit: verbum coangustavit ad
+Dominum, et statim adipisci meruit castitatis propriae
+testimonium. Plurima presbyteri loquebantur,
+qui laborabant verborum fuco obducere veritatem,
+sed non filia Juda. Tacuit apud homines, locuta est
+Deo. Erubescenda erat in plebe ipsa defensio muliebris;
+et dum pudor defenditur, impudentia praetendebatur.
+Coangustavit verbum dicens ad Dominum: <hi>Tu
+scis quia falsa dixerunt de me <note>(Dan. XIII, 41)</note>
+            </hi>. Et Dominus
+spiritum Danielis pueri castitatis excitavit ultorem.</p>
+          </div3>
+<div3>
+            <head>79.</head>
+            <p>
+ Coangusta ergo verbum, ut redhibitio creditori,
+<pb n="0789C"/>
+non lingua respondeat. Sive mystice: Coangusta
+verbum, hoc est, consumma. Verbum enim consummans
+et brevians faciet Dominus super terram,
+hoc est, ex multis ratiociniis abbreviata tibi summa
+conveniat. Deducito quod expensis diversis est erogatum,
+ut salvum habeas quod supersit: quomodo
+Dominus de multis dispensationibus Judaeorum, ex
+multo illo ratiocinio peccatorum consummavit tandem
+atque breviavit, ut reliquiae salvae fierent per
+electionem gratiae, et servarentur ad semen, per
+quos intermortuam spem Synagogae resuscitaret.
+<emph>618</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<p> <hi>Reprehenduntur ii qui cum solvendo non sint, mutuum
+sumunt. Iidem quam abjecti, et quemadmodum ad
+condictam diem non reddentes ex amicis inimicos
+faciant; unde nulli mutuum sumendum concluditur.
+Quid per molam et lapidem supermolarem non obligandam
+intelligatur?</hi> 
+<pb n="0789D"/>
+          </p>
+<div3>
+            <head>80.</head>
+            <p>
+ Quam deforme est, ut pro beneficio ei qui te
+adjuvit, rependas molestiam! Cum istum fraudaveris
+cui debes, postea in tempore necessitatis tuae non
+invenies creditorem. Quam indignum, ut cum victum
+<pb n="0790A"/>
+tuum sustentare non queas, cum adhuc nihil debeas,
+putes quod et victum tuum possis, et debitum sustinere!
+Ante cogita unde dissolvas, et sic mutuum
+sume. Fructus, inquit, agrorum capio. Sed qui non
+abundant usui, quomodo abundabunt contracti fenoris
+incremento? Sed possessionem meam vendo. Et
+unde fructus, quibus utaris ad sumptum? Fenus
+non pecunia sua solvitur, sed augetur: numerando
+coacervatur et crescit.</p>
+          </div3>
+<div3>
+            <head>81.</head>
+            <p>
+ Deinde non cogitas humilitatem et verecundiam
+postulantis? Donec accipias, oscularis manus
+feneratoris superbi, humilias vocem tuam, ne clarior
+sonitus vocis tuae aures ejus offendat, ne plures te
+audiant deprecantem. Paupertas non habet crimen,
+nulla indigentiae infamia est: sed debere verecundum
+<pb n="0790B"/>
+est, non reddere inverecundum. Postulabis
+dilationem, cum coeperis conveniri in tempore praescriptae
+solutionis: pro pecunia afferes taedia, causaberis
+de tempore, excusationes strues; et cum totum
+promiseris, ne in universum fraudare videaris,
+vix dimidium restitues. De amico inimicum facies,
+pro honore referes contumeliam, pro benedictione
+maledictum. Quam haec opinionem laedant considera:
+quam a viro bono discrepent, recognosce.</p>
+          </div3>
+<div3>
+            <head>82.</head>
+            <p>
+ Ergo dum liber es a vinculis, ipse te revoca a
+jugo et onere servitutis. Dives es? Non sumas mutuum?
+pauper es? Non sumas mutuum. Dives es?
+Nullam pateris petendi necessitatem. Pauper es?
+Considera solvendi difficultatem. Opulentia usuris
+minuitur, paupertas usuris non levatur. Numquam
+<pb n="0790C"/>
+enim malum malo corrigitur, nec vulnus curatur
+vulnere, sed exasperatur ulcere.</p>
+          </div3>
+<div3>
+            <head>83.</head>
+            <p>
+ Hoc vide, ne dum pecuniam petis, molam
+tuam obliges, aut lapidem supermolarem. Mola est
+qua similago conficitur, qua molit similaginem una
+mulier quae assumitur, et altera quae relinquitur.
+Fortasse illa assumitur, quae semper molit verbum
+Dei, ut habeat similaginem, et spiritalem facit farinam,
+ expurgat vetus fermentum, ut sit nova conspersio,
+custodit molam suam, interpretatur Scripturas,
+servat sibi lapidem supermolarem: illa autem
+relinquitur quae oppignerat molam suam. Cum aliquid
+emoluerit perfunctorie, oppignerat lapidem qui
+est super molam. Quis iste sit lapis, quaero. Legi: <hi>Lapidem quem reprobaverunt</hi> 
+ <emph>619</emph> <hi>aedificantes, hic factus
+<pb n="0790D"/>
+est in caput anguli <note>(Ps. CXVII, 23)</note>
+            </hi>. Quare super
+molam? Quia ipse est qui molentes juvat: ipse est
+qui dicit: <hi>Scrutamini Scripturas, in quibus putatis
+vos vitam aeternam habere <note>(Joan. V, 39)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>84.</head>
+            <p>
+ Noli, fenerator, hunc lapidem supermolarem
+oppignerare, ne cadas super illum. Omnis enim qui
+ceciderit super hunc lapidem, conquassabitur: super
+quem autem ceciderit, comminuet illum. Nec viduae
+<pb n="0791A"/>
+pignus suscipias. Grave et utrumque secundum litteram,
+ut usum, instrumentumque vivendi egeno auferas,
+aut viduae pignus detrahas: sed gravius, si
+animae quae verbi vidua est, verbum teneas, et ei
+sterilitatem viduitatis indicas.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p> <hi>Quem feneratorem imitari debeamus; et quomodo Ecclesiae
+Deus plus dederit, cui et ipsa plus reddidit non
+exigenti; deque divina misericordiae ac judicii dispensatione.</hi> </p>
+<div3>
+            <head>85.</head>
+            <p>
+ Atque ut sciatis quod amanti haec affectu suadeam,
+ut sciatis quod liceat et bene fenerare, ostendam
+vobis quem feneratorem debeatis imitari, <hi>Duo,</hi> 
+inquit, <hi>erant debitores uni feneratori, unus debebat denarios
+<pb n="0791B"/>
+quingentos, alius quinquaginta. Non habentibus
+illis unde redderent, donavit utrisque. Quis ergo eum
+plus diligit? Respondens Simon pharisaeus dixit:
+Aestimo quia is cui plus donavit <note>(Luc., VII, 41 et seq.)</note>
+            </hi>.
+Et laudata est sententia ejus, dicente Domino: <hi>Recte
+judicasti.</hi> Recte judicavit pharisaeus, qui male cogitavit,
+putans quod ignoraret magis Dominus peccata
+mulieris, quam donaret. Sed laudatur ejus sententia,
+ut excusatio ei omnis adimatur.</p>
+          </div3>
+<div3>
+            <head>86.</head>
+            <p>
+ Plus remissum est Ecclesiae, quae congregata
+est ex populo nationum, quoniam plus debebat: sed
+et ipsa plus solvit non exigenti, sed donanti. Dedit
+aquam pedibus Christi, quia sua peccata mundavit:
+osculata est pedes, ferens pacis insignia: misit oleum
+in pedes ejus, misericordiam et ipsa in pauperes conferendo.
+<pb n="0791C"/>
+Isti sunt pedes Christi, in his innocentius ambulat
+Christus. Et capillis capitis sui tersit. Christo enim
+humiliatur, quicumque habet humilitatis affectum. <hi>Et ideo,</hi> 
+ inquit, <hi>dimissa sunt peccata ejus multa, quoniam
+dilexit multum <note>(Ibid., 47)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>87.</head>
+            <p>
+ Adverte quod Dominus et misericordiam quasi
+liberalis impertit, et judicium cum miseratione dispensat.
+Ante donavit per gratiam, sed quibus donaret
+sciebat. Non habet quod excuset Judaeus. Mihi
+quasi peccatori plura donavit, illi quasi ingrato minora
+concessit. Scivit tamen quod et ille quasi ingratus
+non possit quod accepisset exsolvere, et Ecclesia
+memor gratiae eo plura solveret, quo plura meruisset.
+<emph>620</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<p> <hi>Oggerentibus usurae antiquitatem reponitur etiam culpam
+antiquam esse, quam solutum Christus venerit,
+invexerit autem diabolus: huic feneratores assimilari,
+nec non etiam eos qui fidejussorem obligant, in
+quo sibi alterum parant inimicum. Quam cavendum
+sit, ne quis pro alio se obliget, aut saltem pro summa
+suis majore facultatibus!</hi> 
+<pb n="0791D"/>
+          </p>
+<div3>
+            <head>88. </head>
+<p>
+              <pb n="0792A"/>Habetis ergo quem sequamini feneratorem, si
+vultis laude donari, si vultis non esse quod reprehendatur
+a nobis. Nos enim non personae obtrectamus,
+sed avaritiae. Nec fallit dixisse aliquos, cum ante hoc
+biduum tractatus noster eorum compunxisset affectum:
+Quid sibi voluit Episcopus adversus feneratores
+tractare, quasi novum aliquid admissum sit, quasi
+id non etiam superiores fecerint, quasi non vetus sit
+fenerare? Verum est, nec ego abnuo: sed et culpa
+vetus est. Denique peccatum ab Adam: ex illo culpa,
+<pb n="0792B"/>
+ex quo et Eva: ex illo praevaricatio, ex quo et humana
+conditio. Sed ideo Christus venit, ut inveterata
+aboleret, nova conderet; et quae inveteraverat culpa,
+renovaret gratia. Ideo se passioni obtulit, ut renovaretur
+spiritu, et absolveret universos <note>(Conf. Aug.
+lib. I contr. Jul. Pelag., c. 3)</note>. Diabolus autem Evam
+decepit, ut supplantaret virum, obligaret haereditatem.</p>
+          </div3>
+<div3>
+            <head>89.</head>
+            <p>
+ Quid feneratores faciunt? Decipiunt defeneratos,
+obligant fidejussores: sed non Tobias pignus
+quaesivit, aut fidejussorem poposcit <note>(Tob. I, 17, et IV,
+22)</note>. Curandum est igitur, ut fidejussorem requiras,
+ut eum tuis nominibus astringas. Ecce paratur alter
+inimicus. Nam cum non habueris unde debitum solvas,
+ille pro te tenebitur. Inveniris in eo circumventor
+<pb n="0792C"/>
+et fallax, qui amicum deceperis. Ille nudabitur,
+ille pro te in vincula ducetur: illum graviorem exactorem
+creditore patieris qui allegat: stimula civem
+tuum quem spopondisti. Ita fiet ut ipse quoque esse
+incipias ingratus, et praetereas illud quod scriptum
+est: <hi>Gratiam repromissoris ne obliviscaris; dedit
+enim pro te animam bonam <note>(Eccli. XXIX, 20)</note>
+            </hi>. Necesse
+est dicas: Quis enim te quaerebat fidem dicere? Nam
+nisi tu fidem dixisses, ego non accepissem pecuniam.
+Adulteram accepi pecuniam, aes auro admixtum
+mihi dedit: utinam te non obtulisses! Fortasse
+creditor te subornavit, vel tu illum.</p>
+          </div3>
+<div3>
+            <head>90.</head>
+            <p>
+ Ergo cave ne alieno te obliges debito; ne hoc
+quoque vendidisse dicaris: ne si quid tibi, ut habet
+usus amicitiae, debitor dederit gratiae, te videatur
+<pb n="0792D"/>
+emisse. Aut si vis intervenire, moveris amici obsecratus
+oratis, erubescis negare; ita interveni, ut si
+debito solvendo non fuerit, de tuo noveris esse solvendum.
+<pb n="0793A"/>
+In haec paratus accede. Legisti enim: <hi>Non
+spondeas super virtutem tuam; si enim spoponderis,
+quasi restituens cogita <note>(Eccli. VIII, 16)</note>
+            </hi>. Et infra: <hi>Recipe
+proximum secundum virtutem tuam, et</hi> <emph>621</emph> <hi>attende
+tibi ne cadas <note>(Eccli. XXIX, 27)</note>
+            </hi>, id est, ne majore te
+obliges nominis quantitate quam ferre possunt et
+exsolvere tuarum copiae facultatum. Si enim quod habes
+tradas, amisisti opes, non amisisti fidem. Famae
+tuae damna non sentis, redemisti amicum sine tua
+fraude. Alibi quoque id te monent Proverbia Salomonis
+dicentis: <hi>Spondens sponde amico tuo, quemadmodum
+qui obligat se sponsorem amicorum suorum <note>(Prov. XVII, 18)</note>
+            </hi>.
+Si autem non habes, audi quid Salomon
+dicat: <hi>Noli te dare in sponsionem erubescens
+personam: si enim non habueris unde solvas, auferent
+<pb n="0793B"/>
+stramentum de sub lateribus tuis <note>(Prov. XXII, 26 et 27)</note>
+            </hi>.
+Ergo bonus fenerator acquiret gratiam, exsecratiotionem
+improbus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV.</head>
+<p> <hi>Quomodo Tobias in mercedis solutione nobis imitandus;
+quodve fenerandi genus idem nos doceat?</hi> </p>
+<div3>
+            <head>91.</head>
+            <p>
+ Sed non his tantum virtutum finibus contentus
+sanctus Tobias, mercenario quoque scivit solvendam
+esse mercedem, dimidium usque obtulit <note>(Tob.
+IV, 15)</note>; meritoque pro mercenario invenit Angelum <note>(Tob. XII, 5)</note>.
+Et tu unde scis ne forte justum aliquem
+mercede defraudes, pejus si infirmum? Vae enim
+<pb n="0794A"/>
+illi qui scandalizaverit unum de pusillis istis! Qui
+scis an in eo angelus sit? Neque <emph>622</emph> enim dubitare
+debemus quod in mercenario possit esse angelus,
+cum esse possit Christus, qui in minimo quoque esse
+consuevit.</p>
+          </div3>
+<div3>
+            <head>92.</head>
+            <p>
+ Redde ergo mercenario mercedem suam, nec
+eum laboris sui mercede defraudes; quia et tu mercenarius
+Christi es, et te conduxit ad vineam suam,
+et tibi merces reposita est coelestis. Non ergo laedas
+servum operantem in veritate, neque mercenarium
+dantem animam suam: non despicias inopem qui
+vitam suam labore exercet suo, et mercede sustentat.
+Hoc est enim interficere hominem, vitae suae ei
+debita subsidia denegare. Et tu mercenarius es in
+hac terra: da mercedem mercenario, ut et tu possis
+<pb n="0794B"/>
+dicere Domino, cum precaris: <hi>Da mercedem, Domine,
+sustinentibus te <note>(Eccli. XXXVI, 18)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>93.</head>
+            <p>
+ Tobias tibi dicit: <hi>Luxuria mater est famis <note>(Tob.
+IV, 15)</note>
+            </hi>, in quo continentiam docet. Dicit etiam: <hi>Mercedem omni homini qui penes te operatus fuerit,
+redde eadem die, et non maneat penes te merces hominis;
+et merces tua non minorabitur 
+ <note>(Ibid., 15)</note>
+            </hi>. Dicit tibi: <hi>Noli vinum bibere in ebrietatem 
+ <note>(Ibid., 16)</note>
+            </hi>. Dicit tibi: <hi>De pane tuo communica esurientibus 
+ <note>(Ibid., 17)</note>
+            </hi>. Vide
+quid te fenerare cupiat: <hi>Et de vestimentis tuis nudos
+tege: ex omnibus quae abundaverint tibi, fac eleemosynam.
+Omni tempore benedic Dominum <note>(Ibid., 18 et seq.)</note>
+            </hi>.
+In his itaque fenus aeternum est, et usura perpetua.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
