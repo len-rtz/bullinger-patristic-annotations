@@ -1,3 +1,4 @@
 data/passim/combined_input.json filter=lfs diff=lfs merge=lfs -text
 data/passim/patristic-sources.json filter=lfs diff=lfs merge=lfs -text
 data/passim/combined_normalized.json filter=lfs diff=lfs merge=lfs -text
+data/passim/combined_normalized.json.gz filter=lfs diff=lfs merge=lfs -text
