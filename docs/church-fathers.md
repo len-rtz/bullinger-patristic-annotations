@@ -18,6 +18,7 @@ The folder 'data/church-fathers' contains the data that are relevant for linking
   The manually completed list of church fathers with their GND-ID and Wikipedia article link.
 
 - **'church-fathers-gnd-cc.csv'**
+  The result of the script that loads the 'manual-church-fathers-gnd.csv', queries the Corpus Corporum database for each church father using their GND ID, extracts the corresponding CC ID
 
 
 ## Data Sources and Methodology
