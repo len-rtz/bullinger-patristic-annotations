@@ -1,7 +1,6 @@
 # Patristic Citation Extraction Script
 This script processes TEI XML letters to extract references to Church Fathers and prepare them for annotation and further lookup in scholarly resources. It identifies possible patristic citations from XML `<persName>` and `<note>` tags.
 
-
 The script 'extract-tei-citations.ipynb' performs the following tasks:
 - Loads Church Fathers metadata from CSV (`church-fathers-gnd-cc.csv`)
 - Iterates through a directory of TEI XML letters

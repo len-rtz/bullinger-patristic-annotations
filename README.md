@@ -1,5 +1,5 @@
 # bullinger-patristic-annotations
-Working files to create an annotated dataset of patristic references (Church Fathers) in Heinrich Bullinger's 16th-century correspondence
+Working files to create an annotated dataset of patristic references (Church Fathers) in Heinrich Bullinger's 16th-century correspondence.
 
 ## Overview of Result (Annotated Dataset)
 
@@ -9,8 +9,12 @@ Working files to create an annotated dataset of patristic references (Church Fat
 - **Time Period:** 
 - **Language:** Latin
 
-## Current Repository Structure
+## Methodology Creation of this Dataset
+To create this dataset, three approaches of finding prospective letters were developed and explored. The full documentation of this methodology can be found in docs/methodology. 
+
+## Repository Structure
 ```
+├── annotations/                    # final annotated dataset
 ├── data/      
 │   ├── cc-tei/                     # TEI-XML downloads from Corpus Corporum from Church Fathers tagged in Bullinger Digital
 │   ├── church-fathers/             # Datafiles that are relevant for linking the Person TEI-Tags from Bullinger Digital to e.g. Corpus Corporum
