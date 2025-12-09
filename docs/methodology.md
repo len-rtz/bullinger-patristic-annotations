@@ -47,13 +47,16 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 
 ### Annotation Workflow
 
-```flow
-st=>start: Candidate identification (TEI / PASSIM / Scholary)
-op=>operation: Context verification (open letter on bullinger-digital.ch)
-op=>operation: Look up translation (check bullinger-translations on GitHub to understand meaning)
-op=>operation: Source verification (look up footnote reference, open Corpus-Corporum XML, find referenced paragraph, if needed consult Bibliothek der Kirchenväter)
-op=>operation: Inception annotation (upload txt letter, select text, apply patristic annotation)
-e=>end
+```mermaid
+lowchart TD
+    st[Candidate identification (TEI / PASSIM / Scholary)]
+    op1[Context verification (open letter on bullinger-digital.ch)]
+    op2[Look up translation (check bullinger-translations on GitHub to understand meaning)]
+    op3[Source verification (look up footnote reference, open Corpus-Corporum XML, find referenced paragraph, if needed consult Bibliothek der Kirchenväter)]
+    op4[Inception annotation (upload txt letter, select text, apply patristic annotation)]
+    e[End]
+
+    st --> op1 --> op2 --> op3 --> op4 --> e
 ```
 
 ### Example annotated paragraph in INCEpTION
