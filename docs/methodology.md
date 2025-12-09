@@ -46,38 +46,15 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 - text in patristic writing: "Accedit verbum ad elementum, et fit Sacramentum, etiam ipsum tanquam visibile verbum." (Augustinus, In Joannis Evangelium Tractatus CXXIV, LXXX, 3)
 
 ### Annotation Workflow
-┌─────────────────────────────────────────────────────────────────┐
-│ 1. CANDIDATE IDENTIFICATION                                     │
-│    Select from: TEI Tags / PASSIM Results / Scholarly Editions │
-└─────────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────────┐
-│ 2. CONTEXT VERIFICATION                                         │
-│    • Open letter on bullinger-digital.ch                        │
-│    • Locate text passage in context                             │
-└─────────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────────┐
-│ 3. TRANSLATION CONSULTATION                                     │
-│    • Check bullinger-translations GitHub for translation        │
-│    • Understand theological/contextual meaning                  │
-└─────────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────────┐
-│ 4. SOURCE VERIFICATION                                          │
-│    • Look up footnote reference                                 │
-│    • Open Corpus Corporum TEI-XML                               │
-│    • Find referenced paragraph in patristic source              │
-│    • If needed: consult Bibliothek der Kirchenväter translation │
-└─────────────────────────────────────────────────────────────────┘
-                            ↓
-┌─────────────────────────────────────────────────────────────────┐
-│ 5. INCEPTION ANNOTATION                                         │
-│    • Upload letter TXT file to INCEpTION                        │
-│    • Select text span in letter                                 │
-│    • Apply PatristicReference annotation                        │
-│    • Fill all required features                                 │       
-└─────────────────────────────────────────────────────────────────┘
+
+```flow
+st=>start: Candidate identification (TEI / PASSIM / Scholary)
+op=>operation: Context verification (open letter on bullinger-digital.ch)
+op=>operation: Look up translation (check bullinger-translations on GitHub to understand meaning)
+op=>operation: Source verification (look up footnote reference, open Corpus-Corporum XML, find referenced paragraph, if needed consult Bibliothek der Kirchenväter)
+op=>operation: Inception annotation (upload txt letter, select text, apply patristic annotation)
+e=>end
+```
 
 ### Example annotated paragraph in INCEpTION
 ![Example Annotation in INCEpTION of an explicit verbatim found with PASSIM](photos/Inception-Example.png)

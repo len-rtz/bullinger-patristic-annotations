@@ -36,3 +36,4 @@ Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are
 - [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)
 - [Open Greek & Latin](https://www.opengreekandlatin.org)
 - [Editionen Heinrich Bullinger Briefwechsel (HBBW)](https://www.tvz-verlag.ch/wissenschaft-und-studium-editionen/heinrich-bullinger/c-99)
+- [Bibliothek der Kirchenväter](https://bkv.unifr.ch/de)
