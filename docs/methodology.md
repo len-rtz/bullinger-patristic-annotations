@@ -48,7 +48,7 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 ### Annotation Workflow
 
 ```mermaid
-lowchart TD
+flowchart TD
     st[Candidate identification (TEI / PASSIM / Scholary)]
     op1[Context verification (open letter on bullinger-digital.ch)]
     op2[Look up translation (check bullinger-translations on GitHub to understand meaning)]
