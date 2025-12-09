@@ -3,11 +3,10 @@ Working files to create an annotated dataset of patristic references (Church Fat
 
 ## Overview of Result (Annotated Dataset)
 
-- **Total Annotations:** 
+- **Total Annotations:** 100 Annotations (XY explicit, XY implicit) in XY letters
 - **Reference Types:** Explicit citations, implicit allusions
-- **Church Fathers Covered:** 
-- **Time Period:** 
-- **Language:** Latin
+- **Church Fathers Mentioned:** XY
+- **Language:** mostly Latin, few examples Greek and Early New High German
 
 ## Methodology Creation of this Dataset
 To create this dataset, three approaches of finding prospective letters were developed and explored. The full documentation of this methodology can be found in docs/methodology. 
@@ -31,6 +30,9 @@ To create this dataset, three approaches of finding prospective letters were dev
 Not included in this repository. Access the full corpus at: [Bullinger Digital (GitHub)](https://github.com/stazh/bullinger-korpus-tei)
 
 ## Patristic Source Texts
-Partly included in this repository. Accessed and downloaded at using "scripts/scrape-cc.ipynb"
+Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using "scripts/scrape-cc.ipynb"
 
 ## Related Resources
+- [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)
+- [Open Greek & Latin](https://www.opengreekandlatin.org)
+- [Editionen Heinrich Bullinger Briefwechsel (HBBW)](https://www.tvz-verlag.ch/wissenschaft-und-studium-editionen/heinrich-bullinger/c-99)
