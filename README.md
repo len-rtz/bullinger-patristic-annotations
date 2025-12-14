@@ -30,7 +30,7 @@ To create this dataset, three approaches of finding prospective letters were dev
 Not included in this repository. Access the full corpus at: [Bullinger Digital (GitHub)](https://github.com/stazh/bullinger-korpus-tei)
 
 ## Patristic Source Texts
-Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using [`scripts/scrape-cc.ipynb`](scripts/cc-tei-download.ipynb)
+Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using [`scripts/cc-tei-download.ipynb`](scripts/cc-tei-download.ipynb)
 
 ## Related Resources
 - [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)
