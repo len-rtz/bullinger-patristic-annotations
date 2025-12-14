@@ -1,7 +1,7 @@
 # Church Fathers Dataset Documentation
 
 ## Overview
-The folder 'data/church-fathers' contains the data that are relevant for linking the Person TEI-Tags from Bullinger Digital to broader patristic text collections and identifiers.
+The folder [data/church-fathers](data/church-fathers) contains the data that are relevant for linking the Person TEI-Tags from Bullinger Digital to broader patristic text collections and identifiers.
 
 ### Files
 - **'persons.xml'**  
@@ -42,7 +42,7 @@ The folder 'data/church-fathers' contains the data that are relevant for linking
    - one variation of fore- and surname
 
 ### 3. Script for Extracting GND and Wikipedia identifiers 
-The 'persons.xml' index from the Bullinger Digital Project contains general identifiers such as GND entries and Wikipedia URLs. The script 'script/church-fathers.ipynb' scans this index for each ID listed in 'manual-church-fathers.csv' and extracts the corresponding GND ID and Wikipedia URL, when available. The results are saved in 'church-fathers-gnd.csv'.
+The 'persons.xml' index from the Bullinger Digital Project contains general identifiers such as GND entries and Wikipedia URLs. The script [scripts/church-fathers.ipynb](docs/scripts/church-fathers.ipynb) scans this index for each ID listed in 'manual-church-fathers.csv' and extracts the corresponding GND ID and Wikipedia URL, when available. The results are saved in 'church-fathers-gnd.csv'.
 
 Eight Church Fathers without a GND entry remained; these were added manually in 'manual-church-fathers-gnd.csv'. Missing Wikipedia links were also supplemented where possible, and duplicate entries were removed.
 

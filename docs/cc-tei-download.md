@@ -8,9 +8,6 @@ The Python script "cc-tei-download" downloads TEI XML files of works and texts f
 - Normalizes server-side XML paths to public URLs
 - Organizes XMLs in per-author folders
 
-## Input
-The CSV file church-fathers-gnd.cc.csv should have the following columns:
-
 ## Output
 A folder called tei/ is created in the directory "../data/cc-tei". Each author has a dedicated folder named after their CC-ID.
 All TEI XML files for each author’s accessible works are downloaded inside their folder.

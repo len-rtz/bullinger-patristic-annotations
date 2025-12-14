@@ -9,7 +9,7 @@ Working files to create an annotated dataset of patristic references (Church Fat
 - **Language:** mostly Latin, few examples Greek and Early New High German
 
 ## Methodology Creation of this Dataset
-To create this dataset, three approaches of finding prospective letters were developed and explored. The full documentation of this methodology can be found in docs/methodology. 
+To create this dataset, three approaches of finding prospective letters were developed and explored. The full documentation of this methodology can be found in [docs/methodology](docs/methodology). 
 
 ## Repository Structure
 ```
@@ -30,7 +30,7 @@ To create this dataset, three approaches of finding prospective letters were dev
 Not included in this repository. Access the full corpus at: [Bullinger Digital (GitHub)](https://github.com/stazh/bullinger-korpus-tei)
 
 ## Patristic Source Texts
-Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using "scripts/scrape-cc.ipynb"
+Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using [`scripts/scrape-cc.ipynb`](scripts/scrape-cc.ipynb)
 
 ## Related Resources
 - [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)

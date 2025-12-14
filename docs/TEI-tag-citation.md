@@ -20,4 +20,4 @@ Before extracting citations, letters were filtered to keep only those mentioning
 4. Track which Church Fathers appears in each file for a statistic output
 
 ## Output of 'extract-tei-citations.ipynb'
-data/citation/patristic_citations_for_annotation.csv that contains sentences, Church Father IDs/names, footnotes, parsed citations
+"data/citation/patristic_citations_for_annotation.csv" that contains sentences, Church Father IDs/names, footnotes, parsed citations
