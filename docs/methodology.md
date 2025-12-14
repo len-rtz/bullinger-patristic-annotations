@@ -47,17 +47,26 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 
 ### Annotation Workflow
 
-```mermaid
-flowchart TD
-    st[Candidate identification (TEI PASSIM Scholary)]
-    op1[Context verification (open letter on bullinger-digital.ch)]
-    op2[Look up translation (check bullinger-translations on GitHub to understand meaning)]
-    op3[Source verification (look up footnote reference, open Corpus-Corporum XML, find referenced paragraph, if needed consult Bibliothek der Kirchenväter)]
-    op4[Inception annotation (upload txt letter, select text, apply patristic annotation)]
-    e[End]
+1. Candidate Identification (TEI Tags, PASSIM, Scholarly)
 
-    st --> op1 --> op2 --> op3 --> op4 --> e
-```
+2. Context Verification
+- open the letter on bullinger-digital.ch
+- read surrounding context to understand the reference usage (make use of translations)
+
+3. Translation Lookup
+- check bullinger-translations on GitHub for translations
+- use translations to better understand context
+
+4. Source Verification
+- open the relevant patristic work in Corpus Corporum XML
+- find the referenced paragraph or section using footnote references or full text quote search
+- if needed: consult Bibliothek der Kirchenväter for additional context or German translations
+- record the exact source location (patristic_work and patristic_text)
+
+5. INCEpTION Annotation
+- import the txt letter file into INCEpTION
+- highlight the exact text span containing the reference
+- apply the PatristicReference annotation layer
 
 ### Example annotated paragraph in INCEpTION
 ![Example Annotation in INCEpTION of an explicit verbatim found with PASSIM](photos/Inception-Example.png)

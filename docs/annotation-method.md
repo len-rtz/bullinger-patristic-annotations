@@ -34,13 +34,3 @@
 - **Tagset**: TEI (found by accessing PER-TEI tags), SCHOLAR (from scholarship reading), PASSIM (found using PASSIM)
 - **Description**: How this candidate was identified
 
-## Layer 2: Theological Theme
-- **Layer Type**: Span (can overlap with PatristicReference)
-- **Layer Name**: TheologicalTheme
-- **Description**: Mark the theological topic being discussed
-
-### Features of Layer 2
-#### Feature 1: theme
-- **Type**: Single-choice (String)
-- **Tagset**: theological themes, ref (?)
-

@@ -3,9 +3,9 @@ Working files to create an annotated dataset of patristic references (Church Fat
 
 ## Overview of Result (Annotated Dataset)
 
-- **Total Annotations:** 100 Annotations (XY explicit, XY implicit) in XY letters
+- **Total Annotations:** 100 Annotations (50 explicit, 50 implicit) in 67 letters
 - **Reference Types:** Explicit citations, implicit allusions
-- **Church Fathers Mentioned:** XY
+- **Church Fathers Mentioned:** 19 (Top 3: Augustinus (54%), Hieronymus (11%), Tertullian (9%))
 - **Language:** mostly Latin, few examples Greek and Early New High German
 
 ## Methodology Creation of this Dataset
@@ -13,7 +13,7 @@ To create this dataset, three approaches of finding prospective letters were dev
 
 ## Repository Structure
 ```
-├── annotations/                    # final annotated dataset
+├── annotations/                    # final annotated dataset in JSON and XMI
 ├── data/      
 │   ├── cc-tei/                     # TEI-XML downloads from Corpus Corporum from Church Fathers tagged in Bullinger Digital
 │   ├── church-fathers/             # Datafiles that are relevant for linking the Person TEI-Tags from Bullinger Digital to e.g. Corpus Corporum
@@ -35,5 +35,8 @@ Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are
 ## Related Resources
 - [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)
 - [Open Greek & Latin](https://www.opengreekandlatin.org)
+- [Patrologia Graeca](https://patrologia.graeca.org/patrologia/pg_https.html)
+- [Digitale Versionen Heinrich Bullinger Briefwechsel (HBBW) der Bullinger Stiftung](http://teoirgsed.uzh.ch/SedWM.cgi?fn=Swd_Briefe&lng=1) 
 - [Editionen Heinrich Bullinger Briefwechsel (HBBW)](https://www.tvz-verlag.ch/wissenschaft-und-studium-editionen/heinrich-bullinger/c-99)
 - [Bibliothek der Kirchenväter](https://bkv.unifr.ch/de)
+- [Bibleox](https://bibleox.com)
