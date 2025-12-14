@@ -13,6 +13,9 @@ The Bullinger Digital project provides the letters in XML-TEI format with tagged
 ### 2. PASSIM Analysis (Explicit References)
 To find explicit references (verbatims) the text reuse analysis library PASSIM was used. Therefore the works from relevant church fathers were scraped from "Corpus Corporum". After chunking and normalisation those were compared to the normalised letters dataset of Bullinger Digital (ref. docs/passim). This yielded a list of explicit quotes / matching text that can be found in both, patristic sources and Bullingers letters, datasets. Within this list are lots of false positives due to bible verbatims in both datasets. This list was too manually scanned and worked through to find promissing explicit references of church fathers works in the letters.
 
+### Limitation of this method:
+The yielded list contained many false positives as both the correspondents in the 16th century, as well as the church fathers quote the Bible, such as the Vulgate, often. 
+
 **Example:**
 | cluster_id | bullinger_id  | bullinger_text  | cluster_size  | patristic_id  |  patristic_text | patristic_author  | patristic_title  |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +33,7 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 ## Annotation Process
 
 ### Reference Type Definitions:
-**EXPLICIT**: Direct quotation or close paraphrase where wording clearly derives from patristic source, e.g. author of letter mentions church father
+**EXPLICIT**: Direct quotation, verbatims or very close paraphrase (e.g. due to translation variation) where wording clearly derives from patristic source, e.g. author of letter mentions church father
 
 **Example:**
 - letter: https://bullinger-digital.ch/file10015
@@ -38,7 +41,7 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 - text in patristic writing: "pro modulo meo capio quod vobis appono; ubi aperitur, pascor vobiscum; ubi clauditur, pulso vobiscum." (Augustinus, In Joannis Evangelium, Tractatus XVII)
 
 
-**IMPLICIT**: Conceptual reference, adoption of a metaphor or theological argument derived from patristic thought without direct textual overlap and no mention of church father 
+**IMPLICIT**: Conceptual reference, lose paraphrasing, adoption of a metaphor or theological argument derived from patristic thought without direct textual overlap and no mention of church father 
 
 **Example:**
 - letter: https://bullinger-digital.ch/file10018
