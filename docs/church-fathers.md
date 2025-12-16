@@ -9,7 +9,7 @@ The folder [data/church-fathers](data/church-fathers) contains the data that are
   [https://github.com/stazh/bullinger-korpus-tei/blob/main/data/index/persons.xml](https://github.com/stazh/bullinger-korpus-tei/blob/main/data/index/persons.xml)
 
 - **'manual-church-fathers.csv'**  
-  A manually curated list of Church Fathers, prepared using data from external scholarly sources and the Bullinger TEI person index.
+  A manually curated list of Church Fathers, prepared using data from external scholarly sources and the Bullinger TEI person index. Note: This is not a complete overview of all relevant church fathers!
 
 - **'church-fathers-gnd.csv'**
   The result of the script researching the entries of 'manual-church-fathers.csv' in 'persons.xml' and extracting the GND identifier for each.
