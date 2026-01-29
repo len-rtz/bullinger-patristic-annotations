@@ -1,0 +1,392 @@
+{
+  "patristic_source": [
+    {
+      "patristic_id": "PAT_001",
+      "source": "Augustinus, Ennarationes in Psalmos, 23"
+    },
+    {
+      "patristic_id": "PAT_002",
+      "source": "Augustinus, In Joannis Evangelium Tractatus XVIII, 11"
+    },
+    {
+      "patristic_id": "PAT_003",
+      "source": "Gregorius I, Homiliae in Evangelia, Homilia XIV"
+    },
+    {
+      "patristic_id": "PAT_004",
+      "source": "Hieronymus, Epistolae, 112, 16"
+    },
+    {
+      "patristic_id": "PAT_005",
+      "source": "Cyprian, Epistolae 2, 63, 10"
+    },
+    {
+      "patristic_id": "PAT_006",
+      "source": "Hieronymus, Epistolae, Epistola LXXVII, 3"
+    },
+    {
+      "patristic_id": "PAT_007",
+      "source": "Augustinus, In Joannis evangelium Tractatus, Tractatus 26, 18"
+    },
+    {
+      "patristic_id": "PAT_008",
+      "source": "Augustinus, In Joannis Evangelium Tractatus, Tractatus 26, 7"
+    },
+    {
+      "patristic_id": "PAT_009",
+      "source": "Augustinus, In Joannis Evangelium Tractatus, CXXIV, Tractatus 5, 7"
+    },
+    {
+      "patristic_id": "PAT_010",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus 5, 11"
+    },
+    {
+      "patristic_id": "PAT_011",
+      "source": "Augustinus, De doctrina Christiana, Liber 4, Caput VIII, 22"
+    },
+    {
+      "patristic_id": "PAT_012",
+      "source": "Augustinus, In Joannis Evangelium Tractatus, CXXIV, Tractatus 26, 11"
+    },
+    {
+      "patristic_id": "PAT_013",
+      "source": "Augustinus, Contra Epistolam Manichaei, Caput V"
+    },
+    {
+      "patristic_id": "PAT_014",
+      "source": "Lactantius, Divinarum Institutionum liber IV, Caput XXX"
+    },
+    {
+      "patristic_id": "PAT_015",
+      "source": "Augustinus, Epistolae, Epistola LIV, Caput 1, 1"
+    },
+    {
+      "patristic_id": "PAT_016",
+      "source": "Augustinus, Speculum de Scriptura sacra, De Epistola II B. Pauli ad Timotheum"
+    },
+    {
+      "patristic_id": "PAT_017",
+      "source": "Augustinus, De fide spe et charitate, Caput C, 26"
+    },
+    {
+      "patristic_id": "PAT_018",
+      "source": "Augustinus, Contra Epistolam Parmeniani, Liber 2, Caput XI, 29"
+    },
+    {
+      "patristic_id": "PAT_019",
+      "source": "Augustinus, Epistolae, LIII, 2"
+    },
+    {
+      "patristic_id": "PAT_020",
+      "source": "Augustinus, Sermones de Scripturis, 117, 5"
+    },
+    {
+      "patristic_id": "PAT_021",
+      "source": "Athanasius von Alexandrien, Oratio contra gentes, 35"
+    },
+    {
+      "patristic_id": "PAT_022",
+      "source": "Augustinus, Sermones de Scripturis, 128, 11"
+    },
+    {
+      "patristic_id": "PAT_023",
+      "source": "Ambrosius, De incarnationis Dominicae Sacramento, Caput III, 14"
+    },
+    {
+      "patristic_id": "PAT_024",
+      "source": "Ambrosius, De incarnationis Dominicae sacramento, Caput II, 43"
+    },
+    {
+      "patristic_id": "PAT_025",
+      "source": "Tertullian, De carnis resurrectione [CSEL]"
+    },
+    {
+      "patristic_id": "PAT_026",
+      "source": "Ambrosius, De incarnationis Dominicae Sacramento, Caput V, 44"
+    },
+    {
+      "patristic_id": "PAT_027",
+      "source": "Origenes, In Jeremiam, Homilia Tertia (on Jerem. 50:23) (Migne)"
+    },
+    {
+      "patristic_id": "PAT_028",
+      "source": "Augustinus, De gratia et libero arbitrio, Caput VIII, 19"
+    },
+    {
+      "patristic_id": "PAT_029",
+      "source": "Augustinus, De Gratia et libero arbitrio, 18"
+    },
+    {
+      "patristic_id": "PAT_030",
+      "source": "Macrobius, Saturnalia, Liber 1, Cap. 1, 25"
+    },
+    {
+      "patristic_id": "PAT_031",
+      "source": "Augustinus, Epistolae, 82, 15"
+    },
+    {
+      "patristic_id": "PAT_032",
+      "source": "Augustinus, Epistolae, CLXXXVII, Caput III, 10"
+    },
+    {
+      "patristic_id": "PAT_033",
+      "source": "Augustinus, In Joannis Evangelium Tractatus CXXIV, LXXX, 3"
+    },
+    {
+      "patristic_id": "PAT_034",
+      "source": "Chrysostomos, In Joannem, PG 59, 260"
+    },
+    {
+      "patristic_id": "PAT_035",
+      "source": "Augustinus, Epistolae, Epistola LIV, Caput II, 2"
+    },
+    {
+      "patristic_id": "PAT_036",
+      "source": "Augustinus, Epistolae, Epistola LIV, Caput IV, 5"
+    },
+    {
+      "patristic_id": "PAT_037",
+      "source": "Augustinus, Confessiones, Liber Primus, Caput Primum, 1"
+    },
+    {
+      "patristic_id": "PAT_038",
+      "source": "Augustinus, Epistolae, 105, 3, 12"
+    },
+    {
+      "patristic_id": "PAT_039",
+      "source": "Hieronymus, Dialogus contra Pelagianos"
+    },
+    {
+      "patristic_id": "PAT_040",
+      "source": "Eusebius, Historia ecclesiastica, Liber 5, Cap. 20, 7"
+    },
+    {
+      "patristic_id": "PAT_041",
+      "source": "Augustinus, De Citvitate Dei, Liber Quintus, Caput XXIV"
+    },
+    {
+      "patristic_id": "PAT_042",
+      "source": "Augustinus, Contra Faustum, 19, 16"
+    },
+    {
+      "patristic_id": "PAT_043",
+      "source": "Hieronymus, Epistolae, CXXV, 11"
+    },
+    {
+      "patristic_id": "PAT_044",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus XXX, 1"
+    },
+    {
+      "patristic_id": "PAT_045",
+      "source": "Tertullianus, De Poenitentia, Caput IX"
+    },
+    {
+      "patristic_id": "PAT_046",
+      "source": "Hieronymus, Epistolae, LXII, 2"
+    },
+    {
+      "patristic_id": "PAT_047",
+      "source": "Hieronymus, Epistolae CXVI, 3"
+    },
+    {
+      "patristic_id": "PAT_048",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus XCVI, 3"
+    },
+    {
+      "patristic_id": "PAT_049",
+      "source": "Cyprian, De unitate ecclesiae, Teil 1, Kapitel 6"
+    },
+    {
+      "patristic_id": "PAT_050",
+      "source": "Tertullianus, De Idolatria, Caput XIX"
+    },
+    {
+      "patristic_id": "PAT_051",
+      "source": "Hieronymus, De Virginitate B. Mariae adversus Helvidium, 5"
+    },
+    {
+      "patristic_id": "PAT_052",
+      "source": "Augustinus, De civitate Dei, Liber XXI, Caput XVIII"
+    },
+    {
+      "patristic_id": "PAT_053",
+      "source": "Eusebius, Vita Constantini, Liber Primus, Caput XXVII"
+    },
+    {
+      "patristic_id": "PAT_054",
+      "source": "Augustinus, Epistolae, 187, 6, 18"
+    },
+    {
+      "patristic_id": "PAT_055",
+      "source": "Hilarius, De Trinitate, Liber 3, 4"
+    },
+    {
+      "patristic_id": "PAT_056",
+      "source": "Hilarius, De Trinitate, Liber 9, 56"
+    },
+    {
+      "patristic_id": "PAT_057",
+      "source": "Tertullianus, De Resurrectie Carnis, Caput LI"
+    },
+    {
+      "patristic_id": "PAT_058",
+      "source": "Tertullianus, De praescriptionibus adversus Haereticos, Caput II"
+    },
+    {
+      "patristic_id": "PAT_059",
+      "source": "Augustinus, Epistulae 187, 3"
+    },
+    {
+      "patristic_id": "PAT_060",
+      "source": "Hieronymus, Dialogus contra Luciferianos, 6"
+    },
+    {
+      "patristic_id": "PAT_061",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus LXXX, 3"
+    },
+    {
+      "patristic_id": "PAT_062",
+      "source": "Augustinus, De correptione et gratia, Caput VI, 10"
+    },
+    {
+      "patristic_id": "PAT_063",
+      "source": "Augustinus, De catechizandis rudibus, Caput XXVI, 50"
+    },
+    {
+      "patristic_id": "PAT_064",
+      "source": "Augustinus, De Sermone Domini in monte, Liber 1, Caput V, 15"
+    },
+    {
+      "patristic_id": "PAT_065",
+      "source": "Augustinus, Epistolae, Epistola CLXXXVII, Caput III, 10"
+    },
+    {
+      "patristic_id": "PAT_066",
+      "source": "Augustinus, Epistolae, Epistola CLXXXVII, Caput XIII, 41"
+    },
+    {
+      "patristic_id": "PAT_067",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus XXV, 12"
+    },
+    {
+      "patristic_id": "PAT_068",
+      "source": "Augustinus, Epistolae, Epistola 187, Caput VI, 18"
+    },
+    {
+      "patristic_id": "PAT_069",
+      "source": "Augustinus, Epistolae, Epistola 187, Caput XIII, 41,"
+    },
+    {
+      "patristic_id": "PAT_070",
+      "source": "Fulgentius, Libri ad Trasimundum, Liber II, Caput XVIII"
+    },
+    {
+      "patristic_id": "PAT_071",
+      "source": "Hilarius, De Trinitate, Liber 7, 31"
+    },
+    {
+      "patristic_id": "PAT_072",
+      "source": "Irenaeus, Adversus haereses, Liber IV, 18, 5 bzw. 31, 4"
+    },
+    {
+      "patristic_id": "PAT_073",
+      "source": "Augustinus, Sermones de Scripturis, Sermo LVII, Cap. VII"
+    },
+    {
+      "patristic_id": "PAT_074",
+      "source": "Tertullianus, Adversus Marcionem, Liber IV, Caput III"
+    },
+    {
+      "patristic_id": "PAT_075",
+      "source": "Hieronymus, Epistolae, Epistola CXII, XIII"
+    },
+    {
+      "patristic_id": "PAT_076",
+      "source": "Benedictus Nursia, Regula monachorum, Cap. 39"
+    },
+    {
+      "patristic_id": "PAT_077",
+      "source": "Hieronymus, Adversus Jovinianum, I, 23"
+    },
+    {
+      "patristic_id": "PAT_078",
+      "source": "Augustinus, De Catechizandis Rudibus, Caput XXVI, 50"
+    },
+    {
+      "patristic_id": "PAT_079",
+      "source": "Augustinus, Enarrationes in Psalmos, 144, 22"
+    },
+    {
+      "patristic_id": "PAT_080",
+      "source": "Augustinus, Epistolae, 185, 5, 19"
+    },
+    {
+      "patristic_id": "PAT_081",
+      "source": "Augustinus, Epistulae, 187, 6"
+    },
+    {
+      "patristic_id": "PAT_082",
+      "source": "Cyprian, Ad Demetrianum, 7, 120"
+    },
+    {
+      "patristic_id": "PAT_083",
+      "source": "Augustinus, De gratia Christi et de peccato originali, 2, 23, 26"
+    },
+    {
+      "patristic_id": "PAT_084",
+      "source": "Tertullianus, Apologeticus adversus gentes, Caput XXXIX,"
+    },
+    {
+      "patristic_id": "PAT_085",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus LXII, 1"
+    },
+    {
+      "patristic_id": "PAT_086",
+      "source": "Gregorius I, Homiliae in Evangelia, Homilia XXXV, 1"
+    },
+    {
+      "patristic_id": "PAT_087",
+      "source": "Tertullianus, De praescriptionibus adversus haereticos, Caput XXII"
+    },
+    {
+      "patristic_id": "PAT_088",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus XVII"
+    },
+    {
+      "patristic_id": "PAT_089",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus VII, 2"
+    },
+    {
+      "patristic_id": "PAT_090",
+      "source": "Augustinus, De agone Christiano, Caput XXIII, 25,"
+    },
+    {
+      "patristic_id": "PAT_091",
+      "source": "Gennadius, De Ecclesiasticus Dogmatibus, Caput II"
+    },
+    {
+      "patristic_id": "PAT_092",
+      "source": "Augustinus, De peccato originali, Caput XXVIII, 33"
+    },
+    {
+      "patristic_id": "PAT_093",
+      "source": "Hilarius, Liber de Synodis seu fide orientalist, XXVII, 69"
+    },
+    {
+      "patristic_id": "PAT_094",
+      "source": "Augustinus, In Joannis Evangelium, Tractatus XXVI, 11"
+    },
+    {
+      "patristic_id": "PAT_095",
+      "source": "Hieronymus, Commentaria in Isaiah, 8, Cap. 26"
+    },
+    {
+      "patristic_id": "PAT_096",
+      "source": "Augustinus, De Trinitate, Liber XIII, Caput VII"
+    },
+    {
+      "patristic_id": "PAT_097",
+      "source": "Tertullianus, De resurrectione carnis, Caput LI"
+    }
+  ]
+}
