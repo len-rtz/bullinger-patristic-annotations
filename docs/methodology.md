@@ -48,6 +48,20 @@ Manual Keyword Search, such as "Anspielung", "Referenz", "Taufe", "Eucharistie",
 - text in letter: "...cum sacramenta sint verba visibilia..."
 - text in patristic writing: "Accedit verbum ad elementum, et fit Sacramentum, etiam ipsum tanquam visibile verbum." (Augustinus, In Joannis Evangelium Tractatus CXXIV, LXXX, 3)
 
+
+### Chunking Strategy
+#### BDC (Bullinger Digital Corpus)
+- **Strategy**: Sentence-level + 3-sentence overlapping windows (1-sentence step)
+- **Total chunks**: 19,017
+- **Average tokens per chunk**: 29.3
+- **Rationale**: Captures both short single-sentence references and multi-sentence quotations while preserving annotation alignment
+
+#### PSC (Patristic Source Corpus)
+- **Strategy**: 150-token sliding windows with 50-token overlap
+- **Total chunks**: 45,920
+- **Average tokens per chunk**: 150.0
+- **Rationale**: Provides sufficient context for semantic embeddings while maintaining computational feasibility for large theological texts
+
 ### Annotation Workflow
 
 1. Candidate Identification (TEI Tags, PASSIM, Scholarly)

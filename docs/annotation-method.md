@@ -34,3 +34,12 @@
 - **Tagset**: TEI (found by accessing PER-TEI tags), SCHOLAR (from scholarship reading), PASSIM (found using PASSIM)
 - **Description**: How this candidate was identified
 
+#### Feature 7: letter_chunk_id
+- **Type**: Free text (String)
+- **Description**: The chunk_id from bdc_chunks_json capturing the Span best
+
+### Feature 8: source_chunk_id
+- **Type**: Free text (String)
+- **Description**: The chunk_id from psc_chunks_json capturing the annotated patristic_text best
+
+

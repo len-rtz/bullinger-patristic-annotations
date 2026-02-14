@@ -1,0 +1,1013 @@
+{
+  "metadata": {
+    "description": "Ground truth for IR evaluation (chunk-level)",
+    "total_queries": 100,
+    "skipped_annotations": 0,
+    "by_reference_type": {
+      "explicit": 50,
+      "implicit": 50
+    }
+  },
+  "ground_truth": [
+    {
+      "query_chunk_id": "10015_sent_188_190",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_712"
+      ],
+      "letter_id": "10015",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10015_sent_133_135",
+      "relevant_chunks": [
+        "002_Tertullianus_De-praescriptionibus-adversus-haereticos_window_52"
+      ],
+      "letter_id": "10015",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "10041_sent_211_213",
+      "relevant_chunks": [
+        "016_Ambrosius-Mediolanensis_De-incarnationis-Dominicae-sacramento_window_34"
+      ],
+      "letter_id": "10041",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18993"
+    },
+    {
+      "query_chunk_id": "10041_sent_232",
+      "relevant_chunks": [
+        "016_Ambrosius-Mediolanensis_De-incarnationis-Dominicae-sacramento_window_35"
+      ],
+      "letter_id": "10041",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18993"
+    },
+    {
+      "query_chunk_id": "10041_sent_10",
+      "relevant_chunks": [
+        "016_Ambrosius-Mediolanensis_De-incarnationis-Dominicae-sacramento_window_8"
+      ],
+      "letter_id": "10041",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18993"
+    },
+    {
+      "query_chunk_id": "10041_sent_220_222",
+      "relevant_chunks": [
+        "002_Tertullianus_De-resurrectione-carnis_window_191"
+      ],
+      "letter_id": "10041",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "10053_sent_74_76",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_2618"
+      ],
+      "letter_id": "10053",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10065_sent_7_9",
+      "relevant_chunks": [
+        "023_Hieronymus-Stridonensis_Adversus-Jovinianum_window_123"
+      ],
+      "letter_id": "10065",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10067_sent_80_82",
+      "relevant_chunks": [
+        "001_Tertullianus_Apologeticus-adversus-gentes_window_180"
+      ],
+      "letter_id": "10067",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "10067_sent_164_166",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1927"
+      ],
+      "letter_id": "10067",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10286_sent_12_14",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_979"
+      ],
+      "letter_id": "10286",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10286_sent_61_63",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_2084"
+      ],
+      "letter_id": "10286",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10404_sent_3_5",
+      "relevant_chunks": [
+        "076_Gregorius-I_Homiliae-in-Evangelia_window_706"
+      ],
+      "letter_id": "10404",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18489"
+    },
+    {
+      "query_chunk_id": "10454_sent_18_20",
+      "relevant_chunks": [
+        "023_Hieronymus-Stridonensis_Dialogus-contra-Pelagianos_window_13"
+      ],
+      "letter_id": "10454",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10478_sent_6_8",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_873"
+      ],
+      "letter_id": "10478",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10484_sent_10",
+      "relevant_chunks": [
+        "038_Augustinus-Hipponensis_Sermones-de-Scripturis_window_2743"
+      ],
+      "letter_id": "10484",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10484_sent_11",
+      "relevant_chunks": [
+        "pta0022.pta001.pta-grc1_window_200"
+      ],
+      "letter_id": "10484",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18895"
+    },
+    {
+      "query_chunk_id": "10501_sent_13",
+      "relevant_chunks": [
+        "040_Augustinus-Hipponensis_De-catechizandis-rudibus_window_140"
+      ],
+      "letter_id": "10501",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10506_sent_27",
+      "relevant_chunks": [
+        "040_Augustinus-Hipponensis_De-catechizandis-rudibus_window_140"
+      ],
+      "letter_id": "10506",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10511_sent_81",
+      "relevant_chunks": [
+        "038_Augustinus-Hipponensis_Sermones-de-Scripturis_window_1566"
+      ],
+      "letter_id": "10511",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10518_sent_99",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_2106"
+      ],
+      "letter_id": "10518",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10518_sent_104",
+      "relevant_chunks": [
+        "Chrysostom_In_Joannem_window_1156"
+      ],
+      "letter_id": "10518",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P4541"
+    },
+    {
+      "query_chunk_id": "10768_sent_11_13",
+      "relevant_chunks": [
+        "042_Augustinus-Hipponensis_Contra-epistolam-Manichaei_window_10"
+      ],
+      "letter_id": "10768",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "10857_sent_6",
+      "relevant_chunks": [
+        "023_Hieronymus-Stridonensis_Dialogus-contra-Luciferianos_window_23"
+      ],
+      "letter_id": "10857",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "10908_sent_8_10",
+      "relevant_chunks": [
+        "066_Benedictus-Nursiae_Regula-cum-commentariis_window_2088"
+      ],
+      "letter_id": "10908",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P17828"
+    },
+    {
+      "query_chunk_id": "10936_sent_3",
+      "relevant_chunks": [
+        "023_Hieronymus-Stridonensis_De-virginitate-B.-Mariae_window_19"
+      ],
+      "letter_id": "10936",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "11022_sent_15",
+      "relevant_chunks": [
+        "044_Augustinus-Hipponensis_De-correptione-et-gratia_window_25"
+      ],
+      "letter_id": "11022",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11148_sent_199_201",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3181"
+      ],
+      "letter_id": "11148",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11150_sent_54_56",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3034"
+      ],
+      "letter_id": "11150",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11171_sent_3",
+      "relevant_chunks": [
+        "042_Augustinus-Hipponensis_Contra-Faustum-Manichaeum_window_634"
+      ],
+      "letter_id": "11171",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11194_sent_7",
+      "relevant_chunks": [
+        "041_Augustinus-Hipponensis_De-civitate-Dei_window_2780"
+      ],
+      "letter_id": "11194",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11212_sent_6",
+      "relevant_chunks": [
+        "tlg2018.tlg002.perseus-grc2_window_525"
+      ],
+      "letter_id": "11212",
+      "reference_type": "explicit",
+      "confidence": "medium",
+      "church_fathers": "P17899"
+    },
+    {
+      "query_chunk_id": "11246_sent_2",
+      "relevant_chunks": [
+        "042_Augustinus-Hipponensis_De-Trinitate_window_899"
+      ],
+      "letter_id": "11246",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11326_sent_39",
+      "relevant_chunks": [
+        "002_Tertullianus_De-resurrectione-carnis_window_192"
+      ],
+      "letter_id": "11326",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "11337_sent_107",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_266"
+      ],
+      "letter_id": "11337",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11372_sent_11",
+      "relevant_chunks": [
+        "031_Augustinus-Hipponensis_Confessiones_window_11"
+      ],
+      "letter_id": "11372",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11507_sent_4_6",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_2056"
+      ],
+      "letter_id": "11507",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "11507_sent_11",
+      "relevant_chunks": [
+        "004_Cyprianus-Carthaginensis_Epistolae-2_window_346"
+      ],
+      "letter_id": "11507",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18988"
+    },
+    {
+      "query_chunk_id": "11522_sent_4",
+      "relevant_chunks": [
+        "024_Hieronymus-Stridonensis_Commentaria-in-Isaiam_window_1068"
+      ],
+      "letter_id": "11522",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "11591_sent_68_70",
+      "relevant_chunks": [
+        "002_Tertullianus_De-resurrectione-carnis_window_191"
+      ],
+      "letter_id": "11591",
+      "reference_type": "explicit",
+      "confidence": "medium",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "11591_sent_132_134",
+      "relevant_chunks": [
+        "002_Tertullianus_De-praescriptionibus-adversus-haereticos_window_24"
+      ],
+      "letter_id": "11591",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "11591_sent_285_287",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3180"
+      ],
+      "letter_id": "11591",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11591_sent_277_279",
+      "relevant_chunks": [
+        "058_Gennadius-Massiliensis_De-ecclesiasticis-dogmatibus_window_2"
+      ],
+      "letter_id": "11591",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P17933"
+    },
+    {
+      "query_chunk_id": "11593_sent_119_121",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1015"
+      ],
+      "letter_id": "11593",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11593_sent_438_440",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3193"
+      ],
+      "letter_id": "11593",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11593_sent_455_457",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3236"
+      ],
+      "letter_id": "11593",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11593_sent_457_459",
+      "relevant_chunks": [
+        "065_Fulgentius-Ruspensis_Libri-ad-Trasimundum_window_174"
+      ],
+      "letter_id": "11593",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P4867"
+    },
+    {
+      "query_chunk_id": "11623_sent_9",
+      "relevant_chunks": [
+        "037_Augustinus-Hipponensis_Enarrationes-in-Psalmos-2_window_3768"
+      ],
+      "letter_id": "11623",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12080_sent_387_389",
+      "relevant_chunks": [
+        "006_Lactantius_Divinarum-institutionum-liber-IV_window_180"
+      ],
+      "letter_id": "11689",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P19001"
+    },
+    {
+      "query_chunk_id": "11689_sent_203_205",
+      "relevant_chunks": [
+        "034_Augustinus-Hipponensis_Speculum-de-Scriptura-sacra_window_563"
+      ],
+      "letter_id": "11689",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11751_sent_22",
+      "relevant_chunks": [
+        "tlg2018.tlg020.1st1K-grc1_window_106"
+      ],
+      "letter_id": "11751",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17899"
+    },
+    {
+      "query_chunk_id": "11754_sent_11",
+      "relevant_chunks": [
+        "004_Cyprianus-Carthaginensis_Ad-Demetrianum_window_12"
+      ],
+      "letter_id": "11754",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18988"
+    },
+    {
+      "query_chunk_id": "11755_sent_170",
+      "relevant_chunks": [
+        "044_Augustinus-Hipponensis_De-gratia-Christi-et-de-peccato-originali_window_155"
+      ],
+      "letter_id": "11755",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11818_sent_5_7",
+      "relevant_chunks": [
+        "041_Augustinus-Hipponensis_De-civitate-Dei_window_564"
+      ],
+      "letter_id": "11818",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11820_sent_527_529",
+      "relevant_chunks": [
+        "044_Augustinus-Hipponensis_De-gratia-et-libero-arbitrio_window_49"
+      ],
+      "letter_id": "11820",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11820_sent_651_653",
+      "relevant_chunks": [
+        "044_Augustinus-Hipponensis_De-gratia-et-libero-arbitrio_window_48"
+      ],
+      "letter_id": "11820",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11826_sent_40",
+      "relevant_chunks": [
+        "001_Tertullianus_De-poenitentia_window_43"
+      ],
+      "letter_id": "11826",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "11968_sent_49",
+      "relevant_chunks": [
+        "dlt000339_window_104"
+      ],
+      "letter_id": "11968",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P21122"
+    },
+    {
+      "query_chunk_id": "11976_sent_23",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3193"
+      ],
+      "letter_id": "11976",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "11990_sent_13",
+      "relevant_chunks": [
+        "001_Tertullianus_De-idololatria_window_61"
+      ],
+      "letter_id": "11990",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "12046_sent_5",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_531"
+      ],
+      "letter_id": "12046",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12080_sent_285",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_2269"
+      ],
+      "letter_id": "12080",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12080_sent_331_333",
+      "relevant_chunks": [
+        "004_Cyprianus-Carthaginensis_De-unitate-ecclesiae_window_12"
+      ],
+      "letter_id": "12080",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18988"
+    },
+    {
+      "query_chunk_id": "12080_sent_391_393",
+      "relevant_chunks": [
+        "004_Cyprianus-Carthaginensis_De-unitate-ecclesiae_window_12"
+      ],
+      "letter_id": "12080",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18988"
+    },
+    {
+      "query_chunk_id": "12265_sent_11",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_2106"
+      ],
+      "letter_id": "12265",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12334_sent_6_8",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3180"
+      ],
+      "letter_id": "12334",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12334_sent_8",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1155"
+      ],
+      "letter_id": "12334",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12408_sent_56_58",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_740"
+      ],
+      "letter_id": "12408",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12448_sent_18",
+      "relevant_chunks": [
+        "002_Tertullianus_Adversus-Marcionem_window_379"
+      ],
+      "letter_id": "12448",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P17746"
+    },
+    {
+      "query_chunk_id": "12448_sent_19",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_2046"
+      ],
+      "letter_id": "12448",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "12697_sent_25_27",
+      "relevant_chunks": [
+        "038_Augustinus-Hipponensis_Sermones-de-Scripturis_window_2985"
+      ],
+      "letter_id": "12697",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12805_sent_182",
+      "relevant_chunks": [
+        "037_Augustinus-Hipponensis_Enarrationes-in-Psalmos-2_window_58"
+      ],
+      "letter_id": "12805",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "12874_sent_271_273",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_1354"
+      ],
+      "letter_id": "12874",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "13004_sent_11",
+      "relevant_chunks": [
+        "025_Origenes_-Hieronymus-Stridonensis_Translatio-Homiliarum-in-Jeremiam-et-Ezechielem_window_80"
+      ],
+      "letter_id": "13004",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P17753"
+    },
+    {
+      "query_chunk_id": "13088_sent_0_2",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1052"
+      ],
+      "letter_id": "13088",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "13088_sent_129_131",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_180"
+      ],
+      "letter_id": "13088",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "13088_sent_181_183",
+      "relevant_chunks": [
+        "034_Augustinus-Hipponensis_De-doctrina-Christiana_window_337"
+      ],
+      "letter_id": "13088",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "13088_sent_248_250",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1060"
+      ],
+      "letter_id": "13088",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "13088_sent_120_122",
+      "relevant_chunks": [
+        "35_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_169"
+      ],
+      "letter_id": "13088",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "1888_sent_13",
+      "relevant_chunks": [
+        "040_Augustinus-Hipponensis_De-fide-spe-et-charitate_window_191"
+      ],
+      "letter_id": "1888",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "2435_sent_206_208",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1060"
+      ],
+      "letter_id": "2435",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "2801_sent_49_51",
+      "relevant_chunks": [
+        "040_Augustinus-Hipponensis_De-agone-Christiano_window_54"
+      ],
+      "letter_id": "2801",
+      "reference_type": "explicit",
+      "confidence": "medium",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "2801_sent_93_95",
+      "relevant_chunks": [
+        "058_Gennadius-Massiliensis_De-ecclesiasticis-dogmatibus_window_1"
+      ],
+      "letter_id": "2801",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P17933"
+    },
+    {
+      "query_chunk_id": "2801_sent_98_100",
+      "relevant_chunks": [
+        "044_Augustinus-Hipponensis_De-gratia-Christi-et-de-peccato-originali_window_175"
+      ],
+      "letter_id": "2801",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "3405_sent_38_40",
+      "relevant_chunks": [
+        "034_Augustinus-Hipponensis_De-sermone-Domini-in-monte_window_26"
+      ],
+      "letter_id": "3405",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "3405_sent_43",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3181"
+      ],
+      "letter_id": "3405",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "3405_sent_44",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3236"
+      ],
+      "letter_id": "3405",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "3425_sent_17",
+      "relevant_chunks": [
+        "023_Hieronymus-Stridonensis_Dialogus-contra-Luciferianos_window_36"
+      ],
+      "letter_id": "3425",
+      "reference_type": "explicit",
+      "confidence": "medium",
+      "church_fathers": "P18986"
+    },
+    {
+      "query_chunk_id": "3425_sent_23_25",
+      "relevant_chunks": [
+        "043_Augustinus-Hipponensis_Contra-epistolam-Parmeniani_window_142"
+      ],
+      "letter_id": "3425",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "3904_sent_56_58",
+      "relevant_chunks": [
+        "035_Augustinus-Hipponensis_In-Joannis-evangelium-tractatus-CXXIV_window_1073"
+      ],
+      "letter_id": "3904",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "4178_sent_1",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_3174"
+      ],
+      "letter_id": "4178",
+      "reference_type": "implicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "5473_sent_60_62",
+      "relevant_chunks": [
+        "010_Hilarius-Pictaviensis_De-Trinitate_window_605"
+      ],
+      "letter_id": "5473",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18048"
+    },
+    {
+      "query_chunk_id": "6187_sent_292",
+      "relevant_chunks": [
+        "010_Hilarius-Pictaviensis_De-Trinitate_window_147"
+      ],
+      "letter_id": "6187",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18048"
+    },
+    {
+      "query_chunk_id": "6187_sent_378_380",
+      "relevant_chunks": [
+        "010_Hilarius-Pictaviensis_De-Trinitate_window_903"
+      ],
+      "letter_id": "6187",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18048"
+    },
+    {
+      "query_chunk_id": "6284_sent_17_19",
+      "relevant_chunks": [
+        "010_Hilarius-Pictaviensis_Liber-de-synodis-seu-fide-orientalium_window_120"
+      ],
+      "letter_id": "6284",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18048"
+    },
+    {
+      "query_chunk_id": "6284_sent_18",
+      "relevant_chunks": [
+        "010_Hilarius-Pictaviensis_Liber-de-synodis-seu-fide-orientalium_window_120"
+      ],
+      "letter_id": "6284",
+      "reference_type": "implicit",
+      "confidence": "medium",
+      "church_fathers": "P18048"
+    },
+    {
+      "query_chunk_id": "7325_sent_4",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_546"
+      ],
+      "letter_id": "7325",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "7325_sent_6",
+      "relevant_chunks": [
+        "033_Augustinus-Hipponensis_Epistolae_window_553"
+      ],
+      "letter_id": "7325",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18700"
+    },
+    {
+      "query_chunk_id": "9183_sent_8_10",
+      "relevant_chunks": [
+        "076_Gregorius-I_Homiliae-in-Evangelia_window_193"
+      ],
+      "letter_id": "9183",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18346"
+    },
+    {
+      "query_chunk_id": "9780_sent_23_25",
+      "relevant_chunks": [
+        "022_Hieronymus-Stridonensis_Epistolae_window_1277"
+      ],
+      "letter_id": "9780",
+      "reference_type": "explicit",
+      "confidence": "high",
+      "church_fathers": "P18986"
+    }
+  ]
+}

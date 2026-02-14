@@ -14,9 +14,19 @@ Analysing the Jaccard coefficient of the lemmatised Latin annotations yields the
 To create this dataset, three approaches of finding prospective letters were developed and explored. The full documentation of this methodology can be found in [docs/methodology](docs/methodology.md). 
 
 ## Evaluation Dataset
-As these annotations are intended to be used in a IR task, trying to find patristic references in Bullingers letters, a evaluation set was created (ref. [docs/evaluation-dataset.md](docs/evaluation-dataset.md)):
-- [candidates.jsonl](annotations/evaluation_dataset/candidates.jsonl) - 97 unique patristic references
-- [queries.jsonl](annotations/evaluation_dataset/queries.jsonl) - 100 Bullinger passages 
+The annotations support an information retrieval task: given a Bullinger letter chunk containing a patristic reference, retrieve the corresponding source chunk. The evaluation dataset (ref. [docs/evaluation-dataset.md](docs/evaluation-dataset.md)) contains:
+
+- **100 annotated references** from 67 Bullinger letters
+- **49 patristic source works** chunked for retrieval
+- **Ground truth mappings** linking letter chunks to patristic chunks
+
+**Files:**
+- [validation_annotations.json](annotations/evaluation-dataset/validation_annotations.json) - annotations with metadata
+- [ir_ground_truth.json](annotations/evaluation-dataset/ir_ground_truth.json) - Query-to-relevant-chunk mappings
+- [bdc_chunks.json](annotations/evaluation-dataset/chunks/bdc_chunks.json) - 19,017 Bullinger letter chunks
+- [psc_chunks.json](annotations/evaluation-dataset/chunks/psc_chunks.json) - 45,920 patristic source chunks
+
+The dataset enables evaluation using standard IR metrics (Recall@k, MRR). 
 
 ## Repository Structure
 ```
@@ -41,8 +51,9 @@ Full corpus at: [Bullinger Digital (GitHub)](https://github.com/stazh/bullinger-
 Full corpus at: [Corpus Corporum](https://mlat.uzh.ch/browser?path=/), parts are included in this repository. Accessed and downloaded at using [`scripts/cc-tei-download.ipynb`](scripts/cc-tei-download.ipynb)
 
 ## Worth noting
-- the letters were not fully annotated (not every knowable reference in a letter was annotated as such)
+- the letters were not fully annotated (not every possible reference in a letter was annotated as one)
 - the annotations do not exclusively relate to theological concepts but also reused metaphors (e.g. annotation in letter 11754) orignally used by church fathers
+- whenever possible, the annotation to the source was done in the language of origin of the author (e.g. for annotation in letter 13004 no machine readable version for Origines In Jeremiam, Homilia Tertia could be found, therefore a Latin translation was used)
 
 ## Related Resources
 - [Bullinger Translations](https://github.com/bullinger-digital/bullinger-translations)
